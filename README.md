@@ -8,3 +8,5 @@ TODO:
 * `/techniques` contains all techniques (videos will be hosted elsewhere)
 * `/indices` contains indices for a range of fields 
 
+##Contact
+If you have any questions feel free to contact me via email: recipemirror<at>restall.io
