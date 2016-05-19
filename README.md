@@ -9,4 +9,4 @@ TODO:
 * `/indices` contains indices for a range of fields 
 
 ##Contact
-If you have any questions feel free to contact me via email: recipemirror<at>restall.io
+If you have any questions feel free to contact me via email: recipemirror at restall.io
