@@ -1,29 +1,39 @@
 {
-    "title": "Roasted breast and confit leg of spiced Anjou squab",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This recipe requires skill and effort, but the results are well worth it.",
     "author": {
         "andrew_fairlie": "Andrew Fairlie"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "French",
+    "description": "This recipe requires skill and effort, but the results are well worth it.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the squab": [
-            "4 x 450g/1lb Anjou squab pigeons",
-            "4 tbsp groundnut oil",
+        "For the ground spices": [
+            "\u00bc cinnamon stick",
+            "1 tbsp coriander seeds",
+            "1 tbsp cloves",
+            "2 tbsp black peppercorns",
+            "1 tbsp quatre \u00e9pices",
+            "1 tbsp coarse sea salt"
+        ],
+        "For the kale and ceps": [
+            "150g/5oz kale, tough stalks removed, shredded",
+            "150g/5oz small ceps",
+            "2 tbsp groundnut oil",
             "50g/2oz butter"
         ],
         "For the marinade": [
@@ -36,14 +46,6 @@
             "pinch caster sugar",
             "300g/11fl oz duck fat, melted"
         ],
-        "For the ground spices": [
-            "\u00bc cinnamon stick",
-            "1 tbsp coriander seeds",
-            "1 tbsp cloves",
-            "2 tbsp black peppercorns",
-            "1 tbsp quatre \u00e9pices",
-            "1 tbsp coarse sea salt"
-        ],
         "For the sauce": [
             "1 small carrot, diced",
             "1 shallot, chopped",
@@ -52,12 +54,17 @@
             "110ml/4fl oz port",
             "150ml/5fl oz chicken stock or veal stock"
         ],
-        "For the kale and ceps": [
-            "150g/5oz kale, tough stalks removed, shredded",
-            "150g/5oz small ceps",
-            "2 tbsp groundnut oil",
+        "For the squab": [
+            "4 x 450g/1lb Anjou squab pigeons",
+            "4 tbsp groundnut oil",
             "50g/2oz butter"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the squabs, remove the legs from the squab and set aside.",
@@ -80,8 +87,9 @@
         "Fry the squab legs, skin-side down, in a frying pan until the skin is crisp.",
         "To serve, spoon the kale and ceps onto serving plates, remove the breasts from the crowns and place on top. Place the squab legs on top and drizzle with the sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roasted breast and confit leg of spiced Anjou squab",
     "videos": "[]"
 }

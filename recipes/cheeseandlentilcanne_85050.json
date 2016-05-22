@@ -1,32 +1,22 @@
 {
-    "title": "Cheese and lentil pancake",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "pancake"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pancake": [
-            "50g/1\u00bdoz plain flour",
-            "2 free-range eggs",
-            "50ml/2fl oz whole milk",
-            "1 tbsp olive oil"
-        ],
         "For the filling": [
             "50g/1\u00bdoz cooked lentils",
             "50g/1\u00bdoz cheddar cheese, grated",
@@ -36,7 +26,19 @@
             "2 tbsp olive oil",
             "2 tbsp chopped fresh parsley",
             "salt and freshly ground black pepper"
+        ],
+        "For the pancake": [
+            "50g/1\u00bdoz plain flour",
+            "2 free-range eggs",
+            "50ml/2fl oz whole milk",
+            "1 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the pancake, place the flour, eggs and milk into a bowl and mix well to make a smooth batter.",
@@ -45,8 +47,9 @@
         "For the herb oil, place the oil and parsley into a bowl, mix well and season with salt and freshly ground black pepper.",
         "To serve, place the pancake onto a plate and drizzle over the herb oil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cheese and lentil pancake",
     "videos": "[]"
 }

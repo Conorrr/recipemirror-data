@@ -1,26 +1,32 @@
 {
-    "title": "Pork escalopes with lemon butter sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "mike_robinson": "Mike Robinson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "pie",
+        "prepare-ahead_desserts",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "100g/3\u00bdoz butter",
+            "drizzle light olive oil",
+            "2 lemons, juice only",
+            "125ml/4\u00bdfl oz white wine"
+        ],
         "default": [
             "4 pieces of pork loin 75g/2\u00bdoz each OR one piece of pork loin, sliced into 75g/2\u00bdoz slices OR one loin of pork on the bone",
             "100g/3\u00bdoz fresh breadcrumbs",
@@ -31,13 +37,13 @@
             "50g/2oz plain flour",
             "100ml/3\u00bdfl oz milk",
             "2 free-range eggs"
-        ],
-        "For the sauce": [
-            "100g/3\u00bdoz butter",
-            "drizzle light olive oil",
-            "2 lemons, juice only",
-            "125ml/4\u00bdfl oz white wine"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 2",
+    "show": {
+        
     },
     "steps": [
         "If using pork loin on the bone, carefully cut the meat from the bone with a sharp knife and trim away any excess fat and sinew. Cut the loin into pieces weighing about 75g/2\u00bdoz each.",
@@ -55,8 +61,9 @@
         "To make the sauce, add the rest of the butter to the pan with the juice of the lemons and the wine. Turn up the heat to reduce the sauce by half.",
         "Serve the pork escalopes with the lemon and butter sauce poured over and a green salad on the side."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Pork escalopes with lemon butter sauce",
     "videos": "[]"
 }

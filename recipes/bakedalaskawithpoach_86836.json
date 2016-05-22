@@ -1,30 +1,39 @@
 {
-    "title": "Baked Alaska with poached rhubarb",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1-2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "icing",
+        "meringue",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "caramelising_sugar",
+        "using_piping_bags",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the baked Alaska": [
             "15g/\u00bdoz butter",
             "1 slice bread, cut into a 15cm/6in circle",
             "2 tsp icing sugar"
+        ],
+        "For the meringue": [
+            "3 free-range egg whites",
+            "175g/6oz caster sugar",
+            "pinch ground mixed spice",
+            "pinch ground black peppercorns",
+            "lime wedges, to garnish"
         ],
         "For the poached rhubarb": [
             "2 sticks rhubarb, chopped",
@@ -33,14 +42,13 @@
             "1 vanilla pod, split",
             "dash brandy",
             "200ml/7fl oz vanilla ice cream"
-        ],
-        "For the meringue": [
-            "3 free-range egg whites",
-            "175g/6oz caster sugar",
-            "pinch ground mixed spice",
-            "pinch ground black peppercorns",
-            "lime wedges, to garnish"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1-2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the baked Alaska, melt the butter in a frying pan, add the bread and fry until golden. Dust the fried bread with icing sugar on both sides and fry once more for 30 seconds on each side. Transfer onto a serving plate and leave to cool.",
@@ -50,10 +58,9 @@
         "Stir in the mixed spice and black pepper. Spoon the meringue mixture into a piping bag and pipe all over the ice cream to completely cover.",
         "Using a mini-blowtorch, scald the outside of the meringue until it is slightly golden all over. Arrange the rest of the poached rhubarb around the edges of the plate and serve, garnished with lime wedges."
     ],
-    "howTos": [
-        "caramelising_sugar",
-        "using_piping_bags",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Baked Alaska with poached rhubarb",
     "videos": "[]"
 }

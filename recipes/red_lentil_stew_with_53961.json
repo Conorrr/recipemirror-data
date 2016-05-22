@@ -1,24 +1,25 @@
 {
-    "title": "Red lentil stew with dates and cumin",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "A vegetarian stew with the sweet and sour flavours of dates and tamarind and the warm heat of freshly ground cumin.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A vegetarian stew with the sweet and sour flavours of dates and tamarind and the warm heat of freshly ground cumin.",
+    "dishes": [
+        "flatbread",
+        "pie",
+        "stew",
+        "stir-fries",
+        "stock",
+        "veggie_stew"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -40,6 +41,12 @@
             "flatbread"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Heat a frying pan and dry fry the cumin seeds until fragrant. Grind in a spice blender, or grind in a pestle and mortar until smooth. Set aside.",
         "Add the oil to the frying pan over a medium heat and fry the onion and garlic for about four minutes, or until softened.",
@@ -48,8 +55,9 @@
         "Five minutes before the end of cooking time stir in the dates.",
         "Serve the lentil stew with pomegranate seeds and mint sprinkled over, and watercress and flatbreads alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Red lentil stew with dates and cumin",
     "videos": "[]"
 }

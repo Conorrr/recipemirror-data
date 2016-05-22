@@ -1,29 +1,27 @@
 {
-    "title": "Salt cod brandade with seared squid",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This Mediterranean classic makes a perfect warming starter for four people. Plan ahead - the salt cod needs soaking, and the parsley oil needs preparing overnight. To make this dish you will need a blender and a food processor.",
     "author": {
         "chris_king": "Chris King"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Spanish",
+    "description": "This Mediterranean classic makes a perfect warming starter for four people. Plan ahead - the salt cod needs soaking, and the parsley oil needs preparing overnight. To make this dish you will need a blender and a food processor.",
+    "dishes": [
+        "baguette",
+        "bun",
+        "oven-baked_dishes",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "200g/7oz dry salt-cod"
-        ],
         "For the parsley oil": [
             "\u00bd bunch flatleaf parsley, leaves picked",
             "200ml/7fl oz olive oil",
@@ -47,7 +45,16 @@
         "To serve": [
             "1 baguette, thinly sliced, toasted, rubbed with garlic",
             "ground Espelette pepper (Basque chilli pepper)"
+        ],
+        "default": [
+            "200g/7oz dry salt-cod"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Soak the cod in water and leave in the fridge for 48 hours, changing the water at least four times.",
@@ -60,8 +67,9 @@
         "Heat a griddle pan to hot. Lightly season the squid with salt and black pepper and cook on the griddle for 3-4 minutes, or until done to your liking.",
         "To serve, spoon the warm salt cod brandade onto hot plates and top with the squid and garlic croutons. Dress with a little of the ink vinaigrette and parsley oil. Sprinkle over the Espelette pepper and serve straight away."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salt cod brandade with seared squid",
     "videos": "[]"
 }

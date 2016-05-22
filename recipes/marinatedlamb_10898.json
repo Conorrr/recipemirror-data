@@ -1,29 +1,23 @@
 {
-    "title": "Marinated lamb",
-    "cookTime": "less than 10 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "peter_gottgens": "Peter Gottgens"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "chutney",
+        "jam"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 lamb neck fillets, get them cleaned by your butcher"
-        ],
         "For the marinade": [
             "200ml/7fl oz spicy fruit chutney",
             "50ml/1\u00bdfl oz apricot jam",
@@ -33,7 +27,16 @@
             "2 heaped tbsp tamarind paste",
             "malden salt",
             "freshly ground black pepper"
+        ],
+        "default": [
+            "4 lamb neck fillets, get them cleaned by your butcher"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Mix all the marinade ingredients in a large bowl.",
@@ -42,8 +45,9 @@
         "Place the griddle pan or frying pan on the hob and drizzle with olive oil, ensure the pan is hot.",
         "Place the neck fillets in the pan and griddle for 8-10 minutes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Marinated lamb",
     "videos": "[]"
 }

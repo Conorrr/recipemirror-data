@@ -1,26 +1,45 @@
 {
-    "title": "Roast sirloin served with a fricass\u00e9e of girolle mushrooms in a red wine sauce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Try something new for Sunday lunch with our recipe for roast beef with mushrooms and a red wine gravy.",
     "author": {
         "john_burton_race": "John Burton Race"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Try something new for Sunday lunch with our recipe for roast beef with mushrooms and a red wine gravy.",
+    "dishes": [
+        "fricassee",
+        "gravy",
+        "oven-baked_dishes",
+        "pie",
+        "roast_beef",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the beans": [
+            "25g/1oz butter",
+            "1 shallot, finely chopped",
+            "200g/7oz green beans, trimmed, blanched and refreshed"
+        ],
+        "For the mushrooms": [
+            "200g/7oz wild mushrooms",
+            "1 tbsp olive oil",
+            "40g/1\u00bdoz butter",
+            "2 tbsp chopped parsley"
+        ],
+        "For the potatoes": [
+            "8 medium waxy potatoes, peeled and turned",
+            "1.2 litres/2 pints double cream (enough to cover)",
+            "6 garlic cloves, peeled"
+        ],
         "For the red wine sauce": [
             "1kg/2lb 4oz beef bones",
             "1 carrot, roughly chopped",
@@ -34,23 +53,13 @@
         "For the roast beef": [
             "800g/1lb 12oz sirloin, in a piece",
             "olive oil"
-        ],
-        "For the mushrooms": [
-            "200g/7oz wild mushrooms",
-            "1 tbsp olive oil",
-            "40g/1\u00bdoz butter",
-            "2 tbsp chopped parsley"
-        ],
-        "For the potatoes": [
-            "8 medium waxy potatoes, peeled and turned",
-            "1.2 litres/2 pints double cream (enough to cover)",
-            "6 garlic cloves, peeled"
-        ],
-        "For the beans": [
-            "25g/1oz butter",
-            "1 shallot, finely chopped",
-            "200g/7oz green beans, trimmed, blanched and refreshed"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4-6",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "Preheat the oven to 220/425F/Gas 7.",
@@ -64,8 +73,9 @@
         "For the beans, heat a little butter in a frying pan. Add the shallot and cook for a minute then add the beans. Fry for 1-2 minutes until warmed through, then season with salt and pepper.",
         "To serve, carve the beef into thin slices and serve with the mushrooms, potatoes and green beans. Finally drizzle with a little of the red wine sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roast sirloin served with a fricass\u00e9e of girolle mushrooms in a red wine sauce",
     "videos": "[]"
 }

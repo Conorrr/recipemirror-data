@@ -1,26 +1,33 @@
 {
-    "title": "Chilled lobster consomm\u00e9",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Consomm\u00e9 is one of those cheffy dishes that is hard to get right, but is so simple and beautiful: this version features a broth with intense lobster flavour served with lobster tail and claw.",
     "author": {
         "jun_tanaka": "Jun Tanaka"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "French",
+    "description": "Consomm\u00e9 is one of those cheffy dishes that is hard to get right, but is so simple and beautiful: this version features a broth with intense lobster flavour served with lobster tail and claw.",
+    "dishes": [
+        "broth",
+        "bun",
+        "fish_soup",
+        "soup",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the clarification": [
+            "6 free-range egg whites",
+            "\u00bd carrot",
+            "\u00bd shallot",
+            "sprig tarragon"
+        ],
         "For the consomm\u00e9": [
             "4 lobster tail shells",
             "dash olive oil",
@@ -35,23 +42,23 @@
             "1.5 litre/2\u00bd pints chicken stock",
             "3 plum tomatoes"
         ],
-        "For the clarification": [
-            "6 free-range egg whites",
-            "\u00bd carrot",
-            "\u00bd shallot",
-            "sprig tarragon"
-        ],
-        "To serve": [
-            "cooked tails and claws lobster meat from 4 lobsters",
-            "1 bottle lemon oil"
-        ],
         "For the garnish": [
             "100g/3\u00bd oz shelled broad beans, blanched and shelled again",
             "1 bunch baby carrots, blanched and cut into 1cm/\u00bdin batons",
             "tarragon leaves, to taste",
             "1 bunch baby leeks, blanched and cut into batons",
             "100g/3\u00bdoz samphire, blanched"
+        ],
+        "To serve": [
+            "cooked tails and claws lobster meat from 4 lobsters",
+            "1 bottle lemon oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
     },
     "steps": [
         "To make the consomm\u00e9, fry the lobster shells in olive oil for five minutes, deglaze the pan with a small splash of the brandy and drain the shells in a colander.",
@@ -64,8 +71,9 @@
         "Remove from the heat and carefully strain through double muslin, taste and season if necessary. Leave to chill in the fridge until ready to use.",
         "Cut the cooked lobster tails into segments and place in a chilled bowl. Carefully arrange the garnish ingredients on top and then pour the chilled consomm\u00e9 over. Finish with a drizzle of lemon oil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chilled lobster consomm\u00e9",
     "videos": "[]"
 }

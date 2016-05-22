@@ -1,26 +1,37 @@
 {
-    "title": "Gingerbread cupcakes with salted caramel icing",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 15 cupcakes",
-    "recommendations": "54",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/gingerbread_cupcakes_24180_16x9.jpg"
-    ],
-    "description": "These ginger and nutmeg-spiced cupcakes are a delicious alternative to vanilla.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "These ginger and nutmeg-spiced cupcakes are a delicious alternative to vanilla.",
+    "dishes": [
+        "cake",
+        "caramel",
+        "cupcakes",
+        "gingerbread",
+        "icing",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "ice_cupcakes"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/gingerbread_cupcakes_24180_16x9.jpg"
+    ],
     "ingredients": {
+        "For the salted caramel buttercream": [
+            "125g/4\u00bdoz white caster sugar",
+            "80ml/2\u00bdfl oz double cream",
+            "\u00bd tsp salt (or to taste)",
+            "1 tsp vanilla extract",
+            "160g/5\u00beoz salted butter, softened",
+            "200g/7oz icing sugar"
+        ],
         "default": [
             "140g/5oz unsalted butter",
             "200g/7oz golden caster sugar",
@@ -33,15 +44,13 @@
             "2 tsp baking powder",
             "1 tsp salt",
             "240ml/8\u00bdfl oz milk, warmed"
-        ],
-        "For the salted caramel buttercream": [
-            "125g/4\u00bdoz white caster sugar",
-            "80ml/2\u00bdfl oz double cream",
-            "\u00bd tsp salt (or to taste)",
-            "1 tsp vanilla extract",
-            "160g/5\u00beoz salted butter, softened",
-            "200g/7oz icing sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "54",
+    "serves": "Makes 15 cupcakes",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5. Line two 12-hole muffin tray with 15 paper cases.",
@@ -52,8 +61,9 @@
         "Cream the butter and icing sugar together for at least 4- 5 minutes, then beat in the caramel. When combined pipe or spread the icing over the cup cakes and sprinkle with a little extra sea salt.",
         "Decorate the cupcakes with the buttercream."
     ],
-    "howTos": [
-        "ice_cupcakes"
+    "tips": [
+        
     ],
+    "title": "Gingerbread cupcakes with salted caramel icing",
     "videos": "[]"
 }

@@ -1,23 +1,24 @@
 {
-    "title": "Glamming up a cheese board",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Make your cheese board extra special with James Martin's indulgent recipe.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Make your cheese board extra special with James Martin's indulgent recipe.",
+    "dishes": [
+        "bread",
+        "chutney",
+        "jam",
+        "mayonnaise",
+        "salad",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "how_to_make_mayonnaise_using_a_food_processor"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -36,6 +37,17 @@
             "200g/7oz dried breadcrumbs or panko breadcrumbs",
             "sea salt"
         ],
+        "For the mango and quince sauce": [
+            "100g/3\u00bdoz mango chutney",
+            "50g/1\u00beoz quince paste (membrillo)"
+        ],
+        "For the mayonnaise": [
+            "2 free-range egg yolks",
+            "1 tsp English mustard",
+            "1-2 tbsp white wine vinegar (to taste)",
+            "150ml/5fl oz sunflower oil",
+            "150ml/5fl oz olive oil"
+        ],
         "For the walnut and apple salad": [
             "100g/3\u00bdoz caster sugar",
             "100g/3\u00bdoz walnut halves",
@@ -48,18 +60,13 @@
             "2 red apples, cut into wedges",
             "1 lemon, zest and juice only",
             "salt and freshly ground black pepper"
-        ],
-        "For the mayonnaise": [
-            "2 free-range egg yolks",
-            "1 tsp English mustard",
-            "1-2 tbsp white wine vinegar (to taste)",
-            "150ml/5fl oz sunflower oil",
-            "150ml/5fl oz olive oil"
-        ],
-        "For the mango and quince sauce": [
-            "100g/3\u00bdoz mango chutney",
-            "50g/1\u00beoz quince paste (membrillo)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the deep-fried cheese, preheat a deep fat fryer to 190C. Alternatively, heat the oil in a heavy-based, deep-sided pan until a breadcrumb sizzles and turns golden-brown when dropped into it. (CAUTION: hot oil can be dangerous; do no leave unattended.).",
@@ -73,8 +80,9 @@
         "For the mango and quince sauce, place the chutney and paste into a small food processor and blend until smooth.",
         "Place the hot deep fried cheese on a serving board with the cold cheese. Serve the salad and sauce alongside."
     ],
-    "howTos": [
-        "how_to_make_mayonnaise_using_a_food_processor"
+    "tips": [
+        
     ],
+    "title": "Glamming up a cheese board",
     "videos": "[]"
 }

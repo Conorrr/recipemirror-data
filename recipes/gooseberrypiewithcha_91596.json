@@ -1,34 +1,27 @@
 {
-    "title": "Gooseberry pie with champagne custard",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "champ",
+        "custard",
+        "oven-baked_dishes",
+        "pastry",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the gooseberry pie": [
-            "1 tbsp butter, for greasing",
-            "500g/1lb 2oz fresh gooseberries",
-            "200g/7oz caster sugar",
-            "300g/10\u00bdoz ready-rolled shortcrust pastry (rectangular in shape)",
-            "plain flour, for dusting",
-            "1 free-range egg, beaten"
-        ],
         "For the champagne custard": [
             "6 free-range egg yolks",
             "125g/4\u00bdoz caster sugar",
@@ -36,7 +29,21 @@
             "150ml/5\u00bdfl oz single cream",
             "50ml/1\u00befl oz champagne",
             "1 vanilla pod, split, seeds scraped out with a knife"
+        ],
+        "For the gooseberry pie": [
+            "1 tbsp butter, for greasing",
+            "500g/1lb 2oz fresh gooseberries",
+            "200g/7oz caster sugar",
+            "300g/10\u00bdoz ready-rolled shortcrust pastry (rectangular in shape)",
+            "plain flour, for dusting",
+            "1 free-range egg, beaten"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Grease a 25cm/10in pie dish with butter.",
@@ -50,8 +57,9 @@
         "Return the custard mixture to a clean pan and heat over a low to medium heat for 8-10 minutes, stirring continuously, until the mixture is thick enough to coat the back of a spoon.",
         "To serve, slice the pie into 6-8 wedges. Place one wedge into the centre of each serving plate and pour over the champagne custard."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Gooseberry pie with champagne custard",
     "videos": "[]"
 }

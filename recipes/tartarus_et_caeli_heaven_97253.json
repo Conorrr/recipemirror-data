@@ -1,26 +1,48 @@
 {
-    "title": "Tartarus et caeli: heaven and hell cake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 16",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Hell: dark chocolate and orange cake. Heaven: lemon and coconut meringue cakelets. A stunning cake worthy of a Bake Off final. Equipment and preparation: You will need a 28cm/11in cake tin, 16 x 5cm/2in cake tins, a chefs\u2019 blow torch, half a dozen straws and a piping bag with a small nozzle.",
     "author": {
         "john_whaite": "John Whaite"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Hell: dark chocolate and orange cake. Heaven: lemon and coconut meringue cakelets. A stunning cake worthy of a Bake Off final. Equipment and preparation: You will need a 28cm/11in cake tin, 16 x 5cm/2in cake tins, a chefs\u2019 blow torch, half a dozen straws and a piping bag with a small nozzle.",
+    "dishes": [
+        "cake",
+        "jam",
+        "meringue",
+        "oven-baked_dishes",
+        "pie",
+        "sandwich",
+        "upside-down_cake"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_temper_chocolate"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the heaven cake": [
+            "285g/10oz plain flour",
+            "180ml/6fl oz water",
+            "1 tsp baking powder",
+            "1\u00bd tsp salt",
+            "250g/9oz golden caster sugar",
+            "120ml/4fl oz sunflower oil",
+            "2 unwaxed lemons, zest only",
+            "6 free-range eggs, separated",
+            "1 tsp vanilla extract"
+        ],
+        "For the heaven meringue and filling": [
+            "3 free-range eggs, whites only",
+            "160g/5\u00beoz caster sugar",
+            "1 tsp golden syrup",
+            "\u00bd tsp vanilla extract",
+            "200g/7oz best quality lemon curd",
+            "300g/10\u00bdoz desiccated coconut",
+            "1 booklet (5 sheets) gold leaf, to decorate"
+        ],
         "For the hell cake": [
             "9 free-range eggs, separated",
             "60g/2\u00bdoz cocoa powder",
@@ -32,17 +54,6 @@
             "155ml/5\u00bdoz sunflower oil",
             "2\u00bd tsp vanilla extract",
             "2 oranges, zest only"
-        ],
-        "For the heaven cake": [
-            "285g/10oz plain flour",
-            "180ml/6fl oz water",
-            "1 tsp baking powder",
-            "1\u00bd tsp salt",
-            "250g/9oz golden caster sugar",
-            "120ml/4fl oz sunflower oil",
-            "2 unwaxed lemons, zest only",
-            "6 free-range eggs, separated",
-            "1 tsp vanilla extract"
         ],
         "For the hell filling": [
             "600g/1lb 5oz dark chocolate",
@@ -56,18 +67,15 @@
             "150g/5\u00bdoz cocoa powder",
             "120ml/4fl oz double cream"
         ],
-        "For the heaven meringue and filling": [
-            "3 free-range eggs, whites only",
-            "160g/5\u00beoz caster sugar",
-            "1 tsp golden syrup",
-            "\u00bd tsp vanilla extract",
-            "200g/7oz best quality lemon curd",
-            "300g/10\u00bdoz desiccated coconut",
-            "1 booklet (5 sheets) gold leaf, to decorate"
-        ],
         "For the hell piping and chocolate shards": [
             "200g/7oz dark chocolate"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 16",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 150C/300F/Gas 2. Grease and line a 28cm/11in cake tin.",
@@ -98,8 +106,9 @@
         "Finish the cake with shards of tempered chocolate around the edges.",
         "Finally add gold leaf to the heaven cakes to decorate."
     ],
-    "howTos": [
-        "how_to_temper_chocolate"
+    "tips": [
+        
     ],
+    "title": "Tartarus et caeli: heaven and hell cake",
     "videos": "[]"
 }

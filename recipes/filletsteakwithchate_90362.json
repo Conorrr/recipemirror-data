@@ -1,34 +1,26 @@
 {
-    "title": "Fillet steak with Chateaubriand sauce and straw fries",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "jam",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "julienne"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 x 175g/6oz fillet steaks, pounded out thinly with a meat mallet or rolling pin",
-            "salt and freshly ground black pepper",
-            "50g/2oz butter",
-            "2 tbsp olive oil",
-            "vegetable oil, for deep-frying",
-            "3 large baking potatoes, peeled and cut into matchsticks"
-        ],
         "For the sauce": [
             "75g/3oz butter",
             "2 shallots, sliced",
@@ -37,7 +29,21 @@
             "150ml/5fl oz white wine",
             "300ml/10fl oz reduced chicken stock",
             "small bunch fresh tarragon, leaves picked"
+        ],
+        "default": [
+            "4 x 175g/6oz fillet steaks, pounded out thinly with a meat mallet or rolling pin",
+            "salt and freshly ground black pepper",
+            "50g/2oz butter",
+            "2 tbsp olive oil",
+            "vegetable oil, for deep-frying",
+            "3 large baking potatoes, peeled and cut into matchsticks"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the steak, season the steaks well with salt and freshly ground black pepper.",
@@ -47,8 +53,9 @@
         "Add the chicken stock and simmer for 10-12 minutes, or until the liquid has reduced by half. Whisk in the remaining butter until the sauce is smooth and creamy. Stir in the tarragon leaves and season, to taste, with salt and freshly ground black pepper.",
         "To serve, pile the fries onto serving plates, place the steak alongside and spoon over the sauce."
     ],
-    "howTos": [
-        "julienne"
+    "tips": [
+        
     ],
+    "title": "Fillet steak with Chateaubriand sauce and straw fries",
     "videos": "[]"
 }

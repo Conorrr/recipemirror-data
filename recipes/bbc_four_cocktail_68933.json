@@ -1,26 +1,28 @@
 {
-    "title": "Christmas cocktail",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bbc_four_cocktail_68933_16x9.jpg"
-    ],
-    "description": "Get the party started with this zesty and zingy festive drink.",
     "author": {
         "peter_dorelli": "Peter Dorelli"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Get the party started with this zesty and zingy festive drink.",
+    "dishes": [
+        "cocktails"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bbc_four_cocktail_68933_16x9.jpg"
+    ],
     "ingredients": {
+        "To decorate": [
+            "grenadine, for frosting",
+            "caster sugar, for frosting",
+            "1 red chilli, preferably bird's eye",
+            "ribbon of grapefruit zest"
+        ],
         "default": [
             "50ml/2fl oz good-quality bourbon whiskey",
             "1 tbsp cherry juice",
@@ -30,13 +32,13 @@
             "dash of grapefruit bitters (10 drops)",
             "dash of Peychauds bitters (10 drops)",
             "ice, to serve"
-        ],
-        "To decorate": [
-            "grenadine, for frosting",
-            "caster sugar, for frosting",
-            "1 red chilli, preferably bird's eye",
-            "ribbon of grapefruit zest"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        
     },
     "steps": [
         "To frost the rim of the cocktail glass, pour a little grenadine into a shallow bowl and put a little sugar on a plate. Dip the rim of the glass in the grenadine and then coat with the sugar.",
@@ -44,8 +46,9 @@
         "Put ice in the glass and pour over the cocktail.",
         "Decorate with the chilli and grapefruit."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Christmas cocktail",
     "videos": "[]"
 }

@@ -1,33 +1,28 @@
 {
-    "title": "Chocolate tart with white chocolate sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 10-12",
-    "recommendations": "15",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolatetartwithwhi_87928_16x9.jpg"
-    ],
-    "description": "A superbly rich chocolate tart served with a sweet white chocolate sauce and raspberries. A brilliant make-ahead dinner party dessert.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        "If you're short of time forgo making your own pastry and buy a ready-made pastry case (available from most supermarkets)."
+    "cookTime": "30 mins to 1 hour",
+    "description": "A superbly rich chocolate tart served with a sweet white chocolate sauce and raspberries. A brilliant make-ahead dinner party dessert.",
+    "dishes": [
+        "bread",
+        "chocolate_tart",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolatetartwithwhi_87928_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pastry": [
-            "250g/9oz plain flour, plus extra for dusting",
-            "pinch salt",
-            "125g/4\u00bdoz cold butter",
-            "3 free-range egg yolks",
-            "125g/4\u00bdoz caster sugar"
-        ],
         "For the filling": [
             "400ml/14fl oz double cream",
             "few drops vanilla extract",
@@ -35,12 +30,25 @@
             "400g/14oz dark chocolate, approx 70 per cent cocoa solids",
             "50g/2oz butter"
         ],
+        "For the pastry": [
+            "250g/9oz plain flour, plus extra for dusting",
+            "pinch salt",
+            "125g/4\u00bdoz cold butter",
+            "3 free-range egg yolks",
+            "125g/4\u00bdoz caster sugar"
+        ],
         "For the sauce": [
             "250ml/9fl oz single cream",
             "1 vanilla pod, split lengthways",
             "100g/3\u00bdoz white chocolate, chopped",
             "raspberries and fresh mint sprigs, to serve"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "15",
+    "serves": "Serves 10-12",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the pastry, place the flour, salt and butter into a food processor and pulse until the mixture resembles breadcrumbs.",
@@ -55,8 +63,9 @@
         "Add the white chocolate and stir until melted. Stir in the remaining cream.",
         "To serve, cut the tart into wedges and drizzle over the white chocolate sauce. Serve with raspberries and a sprig of mint."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        "If you're short of time forgo making your own pastry and buy a ready-made pastry case (available from most supermarkets)."
     ],
+    "title": "Chocolate tart with white chocolate sauce",
     "videos": "[]"
 }

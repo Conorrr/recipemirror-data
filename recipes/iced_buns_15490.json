@@ -1,35 +1,34 @@
 {
-    "title": "Iced buns",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 16 iced buns",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Nadiya enriches her dough with sugar, milk and butter for light fluffy bread buns. Filled with sour cherry and almond flavours, these childhood treats are all grown up. For this recipe you will need: a freestanding mixer fitted with a dough hook, 2 large baking trays, a sugar thermometer, 4 piping bags, a small plain nozzle, a medium plain nozzle and a large star nozzle.",
     "author": {
         "nadiya": "Nadiya"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Nadiya enriches her dough with sugar, milk and butter for light fluffy bread buns. Filled with sour cherry and almond flavours, these childhood treats are all grown up. For this recipe you will need: a freestanding mixer fitted with a dough hook, 2 large baking trays, a sugar thermometer, 4 piping bags, a small plain nozzle, a medium plain nozzle and a large star nozzle.",
+    "dishes": [
+        "bread",
+        "bun",
+        "custard",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the dough": [
-            "500g/1lb 2oz strong white bread flour",
-            "2 tsp salt",
-            "40g/1\u00bdoz caster sugar",
-            "2 x 7g sachets fast-action yeast",
-            "40g/1\u00bdoz unsalted butter, softened",
-            "150ml/5fl oz full-fat milk",
-            "2 tsp ground green cardamom",
-            "2 tsp ground nutmeg"
+        "For the Chantilly cream": [
+            "400ml/14fl oz double cream",
+            "4 tbsp icing sugar, sifted"
         ],
         "For the almond custard": [
             "250ml/9fl oz full-fat milk",
@@ -40,6 +39,21 @@
             "1 tsp almond extract",
             "50ml/2fl oz whipping cream"
         ],
+        "For the dough": [
+            "500g/1lb 2oz strong white bread flour",
+            "2 tsp salt",
+            "40g/1\u00bdoz caster sugar",
+            "2 x 7g sachets fast-action yeast",
+            "40g/1\u00bdoz unsalted butter, softened",
+            "150ml/5fl oz full-fat milk",
+            "2 tsp ground green cardamom",
+            "2 tsp ground nutmeg"
+        ],
+        "For the royal icing": [
+            "1 pasteurized egg white",
+            "1 tbsp lemon juice",
+            "250g/9oz icing sugar, sifted"
+        ],
         "For the sour cherry jam": [
             "300g/10\u00bdoz sour cherries (drained weight)",
             "300g/10\u00bdoz jam sugar",
@@ -47,20 +61,17 @@
             "cherry essence flavouring",
             "Morello cherry essence flavouring"
         ],
-        "For the royal icing": [
-            "1 pasteurized egg white",
-            "1 tbsp lemon juice",
-            "250g/9oz icing sugar, sifted"
-        ],
-        "For the Chantilly cream": [
-            "400ml/14fl oz double cream",
-            "4 tbsp icing sugar, sifted"
-        ],
         "To decorate": [
             "50g/1\u00beoz slivered almonds, toasted",
             "green cardamom powder, for dusting",
             "icing sugar, for dusting"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "1",
+    "serves": "Makes 16 iced buns",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the dough, put the flour into the bowl of a freestanding mixer fitted with a dough hook. Add the salt and sugar to one side of the bowl and the yeast to the other. Add the butter, milk and 150ml/5fl oz water. Mix until a dough forms then knead in the mixer for 5 minutes. Cover the bowl with cling film and leave to prove in a warm place for 1 hour, or until doubled in size.",
@@ -76,8 +87,9 @@
         "To assemble the nutmeg and sour cherry fingers, make a deep slit lengthways in the top of the bread fingers. Pipe icing on both sides of the slits and leave to set.",
         "Pipe some cherry jam in the bottom of the slit. Pipe the cream neatly on top and pipe two stripes of cherry jam at either side of the cream."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Iced buns",
     "videos": "[]"
 }

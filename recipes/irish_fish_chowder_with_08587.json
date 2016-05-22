@@ -1,35 +1,28 @@
 {
-    "title": "Irish fish chowder with soda bread",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "21",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/irish_fish_chowder_with_08587_16x9.jpg"
-    ],
-    "description": "Loaded with different types of fish, this simple chowder recipe stands or falls on the freshness of the ingredients. Serve with traditional soda bread.",
     "author": {
         "john_torode": "John Torode"
     },
-    "show": {
-        "b006t1k5": "MasterChef"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Irish",
+    "description": "Loaded with different types of fish, this simple chowder recipe stands or falls on the freshness of the ingredients. Serve with traditional soda bread.",
+    "dishes": [
+        "bread",
+        "chowder",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/irish_fish_chowder_with_08587_16x9.jpg"
+    ],
     "ingredients": {
-        "For the soda bread": [
-            "200g/7oz wholemeal flour",
-            "275g/9\u00beoz strong white flour, plus extra for sprinkling",
-            "1 heaped tsp bicarbonate of soda",
-            "pinch salt",
-            "200ml/7fl oz buttermilk",
-            "1 large free-range egg",
-            "1 tsp honey"
-        ],
         "For the chowder": [
             "1 large potato",
             "250g/9oz un-dyed smoked haddock fillets, skin on",
@@ -47,7 +40,22 @@
             "150g/5\u00bdoz raw king prawns",
             "1 tbsp chopped fresh flat-leaf parsley",
             "freshly ground black pepper"
+        ],
+        "For the soda bread": [
+            "200g/7oz wholemeal flour",
+            "275g/9\u00beoz strong white flour, plus extra for sprinkling",
+            "1 heaped tsp bicarbonate of soda",
+            "pinch salt",
+            "200ml/7fl oz buttermilk",
+            "1 large free-range egg",
+            "1 tsp honey"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "21",
+    "serves": "Serves 4",
+    "show": {
+        "b006t1k5": "MasterChef"
     },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5. Grease and flour a 900g/2lb loaf tin.",
@@ -63,8 +71,9 @@
         "Add the cooked haddock, sliced scallops, steamed clams, pollock and the prawns and warm through, then stir in the parsley and season with lots of black pepper.",
         "To serve, ladle the chowder into bowls and serve with thick slices of soda bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Irish fish chowder with soda bread",
     "videos": "[]"
 }

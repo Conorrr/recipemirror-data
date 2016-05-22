@@ -1,24 +1,25 @@
 {
-    "title": "Sunny vegetable patties",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 6-8",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sunnyvegetablepattie_91709_16x9.jpg"
-    ],
-    "description": "Beautiful vegetables are encased in savoury pastry - this is a snack for a picnic in the sunshine.",
     "author": {
         "levi_roots": "Levi Roots"
     },
-    "show": {
-        "b00mh31r": "Caribbean Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Caribbean",
+    "description": "Beautiful vegetables are encased in savoury pastry - this is a snack for a picnic in the sunshine.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "pasty",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sunnyvegetablepattie_91709_16x9.jpg"
     ],
     "ingredients": {
         "For the filling": [
@@ -41,6 +42,12 @@
             "1 free-range egg, lightly beaten"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "6",
+    "serves": "Makes 6-8",
+    "show": {
+        "b00mh31r": "Caribbean Food Made Easy"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "For the filling, place the pieces of pepper, carrots and butternut squash into a deep-sided, lidded pan. Add enough boiling water to just cover the vegetables. Cover the pan with the lid and return to the boil. Boil for four minutes, or until the vegetables are tender, then drain well.",
@@ -53,8 +60,9 @@
         "Brush the edges of the pastry discs lightly with some of the beaten egg, then fold the free half of each disc over the filled half and press down the edges to seal using a fork.",
         "Brush the tops of the patties with the remaining beaten egg. Line a baking tray with greaseproof paper and place the patties onto it. Bake the patties in the oven for 20-25 minutes, or until the pastry is golden-brown."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Sunny vegetable patties",
     "videos": "[]"
 }

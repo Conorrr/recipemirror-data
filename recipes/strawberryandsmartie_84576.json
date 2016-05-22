@@ -1,24 +1,21 @@
 {
-    "title": "Strawberry smoothie",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "icing",
+        "smoothie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,12 +27,19 @@
             "1 tbsp Smarties, or similar chocolate to decorate"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place all the ingredients except the smarties into a food processor and blend until the mixture is smooth.",
         "To serve, pour the mixture into a tall glass and decorate with the smarties."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Strawberry smoothie",
     "videos": "[]"
 }

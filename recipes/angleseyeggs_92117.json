@@ -1,29 +1,27 @@
 {
-    "title": "Anglesey eggs with bacon chops",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_boil_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "8 free-range eggs"
-        ],
         "For the mashed potatoes and leek": [
             "500g/1lb 2oz potatoes, peeled, chopped",
             "knob of butter, plus extra for greasing",
@@ -51,7 +49,16 @@
             "drizzle olive oil",
             "8 smoked bacon chops",
             "small handful fresh flatleaf parsley, chopped"
+        ],
+        "default": [
+            "8 free-range eggs"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 4",
+    "show": {
+        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
     },
     "steps": [
         "Preheat the oven to 220C/400F/Gas 6. Grease an ovenproof dish with butter.",
@@ -72,8 +79,9 @@
         "Meanwhile, heat a little oil in a non-stick frying pan over a medium to high heat. Add the bacon chops and fry for 3-4 minutes on each side, or until crisp on both sides and completely cooked through (the juices will run clear when the meat is pierced in the thickest part with a skewer).",
         "To serve, spoon a portion of the Anglesey eggs into the centre of four serving plates. Place one bacon chop alongside each. Garnish with the flatleaf parsley."
     ],
-    "howTos": [
-        "how_to_boil_eggs"
+    "tips": [
+        
     ],
+    "title": "Anglesey eggs with bacon chops",
     "videos": "[]"
 }

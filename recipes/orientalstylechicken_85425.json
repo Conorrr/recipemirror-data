@@ -1,37 +1,27 @@
 {
-    "title": "Oriental-style chicken with guacamole",
-    "cookTime": "less than 10 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "galton_blackiston": "Galton Blackiston"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "guacamole",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the marinade": [
-            "4 tbsp olive oil",
-            "2 tbsp sesame oil",
-            "1 lime, juice only",
-            "1 piece fresh ginger, peeled, grated",
-            "2 red chillies, finely chopped",
-            "1 bunch of coriander, leaves removed, roughly chopped",
-            "2 tbsp soy sauce",
-            "2 tbsp honey",
-            "1 tbsp Worcestershire sauce"
-        ],
         "For the chicken": [
             "4 boneless skinless chicken breasts, cut into 1cm/\u00bdin strips",
             "sea salt and freshly ground black pepper",
@@ -48,7 +38,24 @@
             "150ml/5fl oz olive oil",
             "splash Tabasco sauce",
             "salt and freshly ground black pepper"
+        ],
+        "For the marinade": [
+            "4 tbsp olive oil",
+            "2 tbsp sesame oil",
+            "1 lime, juice only",
+            "1 piece fresh ginger, peeled, grated",
+            "2 red chillies, finely chopped",
+            "1 bunch of coriander, leaves removed, roughly chopped",
+            "2 tbsp soy sauce",
+            "2 tbsp honey",
+            "1 tbsp Worcestershire sauce"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "2",
+    "serves": "Serves 6",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the marinade, place all the marinade ingredients into a bowl and mix to combine.",
@@ -61,8 +68,9 @@
         "Add the remaining guacamole ingredients, mix well and season, to taste, with salt and freshly ground black pepper.",
         "To serve, place the chicken onto six plates with a spoonful of guacamole served alongside each."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Oriental-style chicken with guacamole",
     "videos": "[]"
 }

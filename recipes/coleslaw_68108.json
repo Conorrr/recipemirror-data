@@ -1,24 +1,22 @@
 {
-    "title": "Coleslaw",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "15",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/coleslaw_68108_16x9.jpg"
-    ],
-    "description": "A simple recipe for a classic coleslaw, complete with homemade mayonnaise.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A simple recipe for a classic coleslaw, complete with homemade mayonnaise.",
+    "dishes": [
+        "coleslaw",
+        "mayonnaise",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/coleslaw_68108_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,14 +33,21 @@
             "1-2 tsp English mustard"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "15",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Grate or shred the cabbage and carrots and onions (if you're using them). Put them in a big bowl and set aside.",
         "Mix the sugar, cayenne and flour in a bowl that will go into your double boiler. Season well with salt and pepper. Now whisk in all remaining ingredients except the mustard, in the order in which they are listed. In the meantime, heat the water in the bottom of the double boiler.",
         "Put the bowl over the heat and start whisking. Do not stop for more than a few moments while the mixture is cooking. Cooking will take something like 15 minutes, and you will know that the sauce is done when it's thick enough to coat the back of a spoon. Strain into a clean bowl to eliminate any lumps, and whisk in the mustard. (Use the larger amount if you want a hotter result, the smaller if you want just a mustardy accent.)",
         "Toss the slaw with half the dressing and toss. If it needs more, add it in small doses till you've reached the desired consistency. Serve immediately or leave, covered, in the fridge, for 1-2 days with 1 or 2 tosses every day."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Coleslaw",
     "videos": "[]"
 }

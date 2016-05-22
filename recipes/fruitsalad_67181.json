@@ -1,24 +1,21 @@
 {
-    "title": "Fruit salad",
-    "cookTime": "no cooking required",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "The Italian name for this recipe is Macedonio di Frutta. Any other fruits can be used for this recipe too.",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "The Italian name for this recipe is Macedonio di Frutta. Any other fruits can be used for this recipe too.",
+    "dishes": [
+        "fruit_salad",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,13 +26,20 @@
             "mint, to garnish (optional)"
         ]
     },
+    "prepTime": "1-2 hours",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Soak all the fruit in the amaretto for at least 1 hour.",
         "Serve the fruit in a glass and spoon over a bit of the amaretto used to marinate the fruit in.",
         "Garnish with a sprig of mint."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fruit salad",
     "videos": "[]"
 }

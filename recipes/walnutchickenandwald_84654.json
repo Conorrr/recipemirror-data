@@ -1,23 +1,24 @@
 {
-    "title": "Walnut chicken and Waldorf salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Homemade mayonnaise transforms this chicken and Waldorf salad, but if you're in a hurry you can use good quality shopbought.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "American",
+    "description": "Homemade mayonnaise transforms this chicken and Waldorf salad, but if you're in a hurry you can use good quality shopbought.",
+    "dishes": [
+        "chicken_salad",
+        "jam",
+        "mayonnaise",
+        "pie",
+        "salad"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -28,6 +29,14 @@
             "salt and freshly ground black pepper",
             "4 tbsp olive oil"
         ],
+        "For the mayonnaise": [
+            "2 free-range egg yolks",
+            "1 tsp English mustard",
+            "1-2 tbsp white wine vinegar",
+            "150ml/5fl oz sunflower oil",
+            "150ml/5fl oz olive oil",
+            "salt and freshly ground black pepper"
+        ],
         "For the salad": [
             "1 head celery",
             "2 tbsp olive oil",
@@ -36,15 +45,13 @@
             "2 green apples, cut into wedges",
             "2 red apples, cut into wedges",
             "1 lemon, zest and juice only"
-        ],
-        "For the mayonnaise": [
-            "2 free-range egg yolks",
-            "1 tsp English mustard",
-            "1-2 tbsp white wine vinegar",
-            "150ml/5fl oz sunflower oil",
-            "150ml/5fl oz olive oil",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Place the walnuts into a food processor and blend to fine crumbs.",
@@ -59,8 +66,9 @@
         "With the processor still running, slowly pour in the sunflower oil and olive oil, drop by drop at first, then faster as the mixture thickens, alternating between the two oils as you go. Continue blending until all the oil is incorporated and a thick mayonnaise is formed. Transfer the mayonnaise to a clean bowl and season, to taste, with salt and freshly ground black pepper.",
         "To serve, add the mayonnaise to the bowl of salad and mix well. Place the salad mixture into the centre of each of four plates, top each with pieces of the walnut chicken and pieces of griddled celery."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Walnut chicken and Waldorf salad",
     "videos": "[]"
 }

@@ -1,34 +1,31 @@
 {
-    "title": "Family fish pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4 - 6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "A rich fish pie for a special family supper. Serve with peas and mashed potatoes for the ultimate in comfort food.",
     "author": {
         "yasmin_limbert": "Yasmin Limbert"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "The pastry can be stored in the fridge, wrapped in cling film, for up 24 hours before using."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "A rich fish pie for a special family supper. Serve with peas and mashed potatoes for the ultimate in comfort food.",
+    "dishes": [
+        "bread",
+        "bun",
+        "fish_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "roux",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the flaky pastry:": [
-            "250g/9oz strong white bread flour",
-            "pinch salt",
-            "50g/1\u00beoz lard or vegetable shortening",
-            "1 tbsp lemon juice",
-            "100ml/3\u00bdfl oz chilled water",
-            "150g/5\u00bd oz butter"
-        ],
         "For the filling:": [
             "8 quails' eggs",
             "600ml/20fl oz milk",
@@ -47,7 +44,21 @@
             "125g/4\u00bdoz jumbo king prawns, cooked and peeled",
             "1 free-range egg, beaten",
             "1 tbsp sesame seeds"
+        ],
+        "For the flaky pastry:": [
+            "250g/9oz strong white bread flour",
+            "pinch salt",
+            "50g/1\u00beoz lard or vegetable shortening",
+            "1 tbsp lemon juice",
+            "100ml/3\u00bdfl oz chilled water",
+            "150g/5\u00bd oz butter"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "3",
+    "serves": "Serves 4 - 6",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "To make the pastry, mix the flour with the salt and rub in the lard or vegetable shortening until the mixture resembles breadcrumbs. Add the lemon juice and water to form a dough and knead until smooth.",
@@ -62,8 +73,9 @@
         "Peel the quails' eggs and add them to the pie filling with the prawns. Roll out the pastry and cover the filling, sealing the edges of the pastry to the dish with a little water. Roll out the off-cuts of pastry and use to decorate the top of the pie.",
         "Brush the pie with the beaten egg, scatter over the sesame seeds and bake for 25 minutes."
     ],
-    "howTos": [
-        
+    "tips": [
+        "The pastry can be stored in the fridge, wrapped in cling film, for up 24 hours before using."
     ],
+    "title": "Family fish pie",
     "videos": "[]"
 }

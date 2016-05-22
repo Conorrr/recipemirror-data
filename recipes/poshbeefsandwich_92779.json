@@ -1,26 +1,30 @@
 {
-    "title": "Posh beef sandwich",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "salad",
+        "sandwich"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "handful spinach leaves, washed",
+            "1 tbsp extra virgin olive oil",
+            "1 tbsp lemon juice",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "100g/3\u00bdoz fillet steak",
             "1 tbsp olive oil",
@@ -28,13 +32,13 @@
             "15g/\u00bdoz slice Stilton",
             "1 plum tomato, cut in half horizontally",
             "2 slices white bread"
-        ],
-        "To serve": [
-            "handful spinach leaves, washed",
-            "1 tbsp extra virgin olive oil",
-            "1 tbsp lemon juice",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Rub the steak all over with the oil and season, to taste, with salt and freshly ground pepper.",
@@ -43,8 +47,9 @@
         "For the salad, place the spinach leaves into a bowl and pour over the oil and lemon juice. Season, to taste, with salt and freshly ground pepper and mix well.",
         "To serve, place a slice of toast onto a serving plate. Top with the steak, tomato halves and spinach leaves. Finish with the remaining slice of toast."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Posh beef sandwich",
     "videos": "[]"
 }

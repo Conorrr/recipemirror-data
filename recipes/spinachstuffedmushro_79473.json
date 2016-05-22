@@ -1,26 +1,30 @@
 {
-    "title": "Spinach-stuffed mushrooms with bacon, egg and pesto",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "pesto"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pesto": [
+            "55g/2oz baby spinach leaves",
+            "3 tbsp olive oil",
+            "1 garlic clove",
+            "100g/3\u00bdoz pine nuts",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "1 tbsp olive oil",
             "2 Portobello mushrooms, stalks trimmed down",
@@ -29,14 +33,13 @@
             "5 tbsp water",
             "2 free-range egg yolks",
             "salt and freshly ground black pepper"
-        ],
-        "For the pesto": [
-            "55g/2oz baby spinach leaves",
-            "3 tbsp olive oil",
-            "1 garlic clove",
-            "100g/3\u00bdoz pine nuts",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the grill to high.",
@@ -47,8 +50,9 @@
         "Place the wilted spinach on top of the cooked mushrooms and place an egg yolk on top of each. Season, to taste, with salt and freshly ground black pepper and place under the grill for one minute, or until the yolk is cooked to your liking.",
         "To serve, place the mushrooms on a plate and drizzle with pesto."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spinach-stuffed mushrooms with bacon, egg and pesto",
     "videos": "[]"
 }

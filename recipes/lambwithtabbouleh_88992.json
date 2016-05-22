@@ -1,31 +1,23 @@
 {
-    "title": "Lamb with tabbouleh",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 x 175g/6oz lamb rump steaks",
-            "1 tbsp olive oil",
-            "salt and freshly ground black pepper"
-        ],
         "For the tabbouleh": [
             "225g/8oz bulgar wheat, cooked according to packet instructions",
             "1 cucumber, finely chopped",
@@ -37,7 +29,18 @@
             "1 chilli, finely chopped",
             "1 garlic clove, finely chopped",
             "Greek-style yoghurt, to serve"
+        ],
+        "default": [
+            "4 x 175g/6oz lamb rump steaks",
+            "1 tbsp olive oil",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Rub the lamb with oil and season well with salt and freshly ground black pepper.",
@@ -46,8 +49,9 @@
         "To serve, place a generous portion of tabbouleh onto each plate and place a piece of griddled lamb on top.",
         "Add a dollop of Greek-style yoghurt to each plate and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb with tabbouleh",
     "videos": "[]"
 }

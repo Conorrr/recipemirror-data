@@ -1,24 +1,21 @@
 {
-    "title": "Blackberry fool",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "icing",
+        "jam"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,13 +25,20 @@
             "sprig of fresh mint, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place the blackberries and icing sugar in a bowl and mash together with a fork.",
         "Add the cream and fold together.",
         "Transfer the mixture to a glass, and serve, garnished with a mint sprig."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Blackberry fool",
     "videos": "[]"
 }

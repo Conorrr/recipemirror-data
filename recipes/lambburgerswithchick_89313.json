@@ -1,35 +1,25 @@
 {
-    "title": "Lamb burgers with chickpea salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "6",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "focaccia",
+        "lamb_burgers",
+        "pie",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1kg/2lb 5oz minced lamb",
-            "1 red onion, finely chopped",
-            "1 garlic clove, finely chopped",
-            "1 tbsp finely chopped fresh rosemary",
-            "1 tbsp finely chopped fresh mint",
-            "2 tbsp vegetable oil",
-            "1 x focaccia loaf, cut into 6 x 10cm/4in square pieces, grilled"
-        ],
         "For the salad": [
             "2 tbsp olive oil",
             "1 onion, sliced",
@@ -39,7 +29,22 @@
             "1 lime, juice only",
             "1 tbsp chopped fresh mint",
             "watercress, to serve"
+        ],
+        "default": [
+            "1kg/2lb 5oz minced lamb",
+            "1 red onion, finely chopped",
+            "1 garlic clove, finely chopped",
+            "1 tbsp finely chopped fresh rosemary",
+            "1 tbsp finely chopped fresh mint",
+            "2 tbsp vegetable oil",
+            "1 x focaccia loaf, cut into 6 x 10cm/4in square pieces, grilled"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Place the minced lamb, red onion, garlic, rosemary and mint into a bowl and mix well.",
@@ -50,8 +55,9 @@
         "To serve, place a piece of grilled focaccia onto each of six plates. Top each piece with a small handful of watercress.",
         "Place a lamb burger on top of each pile of watercress, then top with a spoonful of the spicy chickpea salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb burgers with chickpea salad",
     "videos": "[]"
 }

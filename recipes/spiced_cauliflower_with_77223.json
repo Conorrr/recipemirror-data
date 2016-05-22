@@ -1,26 +1,36 @@
 {
-    "title": "Spiced cauliflower with toasted coconut and red lentils",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spiced_cauliflower_with_77223_16x9.jpg"
-    ],
-    "description": "This elegant dish would not look out of place in a top restaurant. Glynn Purnell shows you how to put it all together.",
     "author": {
         "glynn_purnell": "Glynn Purnell"
     },
-    "show": {
-        "b03mzc66": "Food & Drink"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "This elegant dish would not look out of place in a top restaurant. Glynn Purnell shows you how to put it all together.",
+    "dishes": [
+        "bun",
+        "curry",
+        "oven-baked_dishes",
+        "pickle",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spiced_cauliflower_with_77223_16x9.jpg"
+    ],
     "ingredients": {
+        "For the coconut sauce": [
+            "1 x 400ml tin coconut milk",
+            "1 lime leaf",
+            "6 fresh mint leaves, thinly sliced",
+            "pinch salt"
+        ],
         "For the coriander oil": [
             "large bunch fresh coriander",
             "250ml/9fl oz vegetable oil"
@@ -31,6 +41,17 @@
             "50ml/2oz sherry vinegar",
             "125ml/4\u00bcfl oz sunflower oil",
             "dash dark soy sauce"
+        ],
+        "For the red lentils": [
+            "1 tbsp sunflower oil",
+            "\u00bd onion, finely chopped",
+            "1 garlic clove, finely chopped",
+            "1 tbsp mild curry powder",
+            "200g/7oz red lentils",
+            "500ml/17fl oz vegetable stock, warmed",
+            "\u00bd red chilli, seeds removed, finely chopped",
+            "2 tbsp chopped fresh coriander",
+            "\u00bd lime, juice only"
         ],
         "For the spiced cauliflower": [
             "25g/1oz butter",
@@ -47,26 +68,15 @@
             "1 tbsp butter",
             "dash lime juice"
         ],
-        "For the red lentils": [
-            "1 tbsp sunflower oil",
-            "\u00bd onion, finely chopped",
-            "1 garlic clove, finely chopped",
-            "1 tbsp mild curry powder",
-            "200g/7oz red lentils",
-            "500ml/17fl oz vegetable stock, warmed",
-            "\u00bd red chilli, seeds removed, finely chopped",
-            "2 tbsp chopped fresh coriander",
-            "\u00bd lime, juice only"
-        ],
-        "For the coconut sauce": [
-            "1 x 400ml tin coconut milk",
-            "1 lime leaf",
-            "6 fresh mint leaves, thinly sliced",
-            "pinch salt"
-        ],
         "For the toasted coconut": [
             "1 fresh coconut, split open, flesh thinly sliced using a mandoline"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b03mzc66": "Food & Drink"
     },
     "steps": [
         "For the coriander oil, bring a pan of salted water to the boil. Prepare a bowl of ice-cold water. Add the coriander to the pan and blanch for 10 seconds, then drain and add to the cold water.",
@@ -83,8 +93,9 @@
         "Strain the coriander oil through a fine-mesh sieve before serving.",
         "To serve, spoon a portion of lentils into the centre of each serving plate. Arrange a few roasted cauliflower florets on top. Garnish with the pickled carrots, toasted coconut and a sprig of coriander, then drizzle over a little of the coconut sauce and coriander oil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spiced cauliflower with toasted coconut and red lentils",
     "videos": "[]"
 }

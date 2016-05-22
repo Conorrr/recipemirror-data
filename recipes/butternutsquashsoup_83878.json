@@ -1,24 +1,26 @@
 {
-    "title": "Butternut squash soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "14",
-    "images": [
-        
-    ],
-    "description": "James Martin\u2019s creamy butternut squash soup makes a simple vegetarian supper. Just add lots of bread and butter.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "James Martin\u2019s creamy butternut squash soup makes a simple vegetarian supper. Just add lots of bread and butter.",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "sauce",
+        "soup",
+        "stock",
+        "vegetable_soup"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -39,6 +41,12 @@
             "25g/1oz pine nuts, lightly toasted"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "14",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "Place the squash onto a baking tray and drizzle with the honey and olive oil.",
@@ -51,8 +59,9 @@
         "Return the butternut squash soup to the saucepan, heat through and season, to taste, with salt and black pepper.",
         "To serve, ladle the soup into serving bowls, then top with a dollop of cr\u00e8me fra\u00eeche. Add a sprinkling of toasted pine nuts, drizzle with the herb pur\u00e9e and then garnish with the rest of the basil."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Butternut squash soup",
     "videos": "[]"
 }

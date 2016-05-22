@@ -1,24 +1,26 @@
 {
-    "title": "Paul Hollywood's baguettes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 4 baguettes",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/paul_hollywoods_55351_16x9.jpg"
-    ],
-    "description": "Authentic baguettes with a crunchy crust and soft fluffy crumb. For this recipe you will need a freestanding mixer with a dough hook attachment, a 2\u00bc litre/4 pint square plastic container and a linen couche.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "A couche is a heavy linen mat used to shape bread while it proves. It absorbs some of the moisture from the outside of the dough, this helps develop a skin, keep the shape and develop a crisp crust."
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "Authentic baguettes with a crunchy crust and soft fluffy crumb. For this recipe you will need a freestanding mixer with a dough hook attachment, a 2\u00bc litre/4 pint square plastic container and a linen couche.",
+    "dishes": [
+        "baguette",
+        "bread",
+        "oven-baked_dishes",
+        "pie",
+        "sausage",
+        "slow-cooked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/paul_hollywoods_55351_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -28,6 +30,12 @@
             "10g/\u00bc oz fast-action yeast",
             "370ml/13fl oz cool water"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "4",
+    "serves": "Makes 4 baguettes",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Lightly oil a 2\u00bc litre/4 pint square plastic container with olive oil. (It\u2019s important to use a square tub as it helps shape the dough.)",
@@ -41,8 +49,9 @@
         "When the baguettes are risen, remove them from the couche and dust lightly with flour. Slash each one 4 times along its length on the diagonal, using a razor blade or a very sharp knife. Transfer to a large baking tray.",
         "Fill the heated roasting tray with hot water, to create steam, and put the bread into the oven. Bake for 20-25 minutes, or until the baguettes are golden-brown and have a slight sheen. Cool on a wire rack."
     ],
-    "howTos": [
-        
+    "tips": [
+        "A couche is a heavy linen mat used to shape bread while it proves. It absorbs some of the moisture from the outside of the dough, this helps develop a skin, keep the shape and develop a crisp crust."
     ],
+    "title": "Paul Hollywood's baguettes",
     "videos": "[]"
 }

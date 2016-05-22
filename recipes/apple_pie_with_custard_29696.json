@@ -1,33 +1,36 @@
 {
-    "title": "Apple pie with custard",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Apple pie made from sweet homemade pastry and three varieties of apples \u2013 an irresistible traditional treat.",
     "author": {
         "ed_baines": "Ed Baines"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Apple pie made from sweet homemade pastry and three varieties of apples \u2013 an irresistible traditional treat.",
+    "dishes": [
+        "apple_pie",
+        "bread",
+        "custard",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "250g/9oz plain flour, plus extra for dusting",
-            "125g/4\u00bdoz unsalted butter, chilled, cut into cubes",
-            "1 orange, zest only",
-            "75g/2\u00bdoz caster sugar",
-            "pinch salt",
-            "2 free-range egg yolks"
+        "For the custard": [
+            "250ml/9fl oz whole milk",
+            "250ml/9fl oz double cream",
+            "1 vanilla pod, split lengthways and seeds scraped out",
+            "2 free-range egg yolks",
+            "50g/1\u00beoz caster sugar"
         ],
         "For the filling": [
             "1kg/2lb 4oz Cox apples, peeled, cored and cut into large chunks",
@@ -38,13 +41,20 @@
             "2 tsp vanilla extract",
             "1 tsp ground cinnamon"
         ],
-        "For the custard": [
-            "250ml/9fl oz whole milk",
-            "250ml/9fl oz double cream",
-            "1 vanilla pod, split lengthways and seeds scraped out",
-            "2 free-range egg yolks",
-            "50g/1\u00beoz caster sugar"
+        "For the pastry": [
+            "250g/9oz plain flour, plus extra for dusting",
+            "125g/4\u00bdoz unsalted butter, chilled, cut into cubes",
+            "1 orange, zest only",
+            "75g/2\u00bdoz caster sugar",
+            "pinch salt",
+            "2 free-range egg yolks"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "For the pastry, combine the flour, butter, orange zest, sugar and salt in a food processor and pulse until the mixture resembles breadcrumbs. Add the egg yolks and pulse until the mixture comes together to form a rough dough. Turn out onto a floured work surface and gently knead until smooth. Shape the pastry into a disc, wrap in cling film and refrigerate while you make the filling.",
@@ -55,8 +65,9 @@
         "Meanwhile, make the custard. In a pan over a medium heat, add the milk, cream and vanilla pod and seeds. Bring to a simmer then remove from the heat.",
         "Whisk the egg yolks and sugar together in a bowl. Strain the hot milk mixture through a sieve and slowly pour it over the yolk mix, whisking all the time. Return the mixture to a clean pan and cook gently for five minutes until thickened, stirring constantly. Serve immediately, poured over a slice of the warm apple pie."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry"
+    "tips": [
+        
     ],
+    "title": "Apple pie with custard",
     "videos": "[]"
 }

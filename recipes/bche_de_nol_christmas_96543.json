@@ -1,32 +1,31 @@
 {
-    "title": "B\u00fbche de No\u00ebl (Christmas log)",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Trust Raymond Blanc to produce the most spectacular chocolate log for Christmas. Who needs Christmas pudding? Equipment and preparation: For this recipe, you will need a 30cm/12in-long Swiss roll tin, a sugar thermometer and an electric whisk or free-standing mixer.",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b04v6210": "Christmas Kitchen with James Martin"
-    },
-    "tips": [
-        "Tip 1: Do not overcook the sponge as it will be dry and difficult to roll. Tip 2: To make chocolate curls, drag a potato peeler against a block of chocolate."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Trust Raymond Blanc to produce the most spectacular chocolate log for Christmas. Who needs Christmas pudding? Equipment and preparation: For this recipe, you will need a 30cm/12in-long Swiss roll tin, a sugar thermometer and an electric whisk or free-standing mixer.",
+    "dishes": [
+        "cake",
+        "chocolate_dessert",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries",
+        "upside-down_cake"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_make_a_swiss_roll_cake"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sponge (genoise)": [
-            "4 free-range eggs, separated",
-            "60g/2\u00bcoz caster sugar",
-            "60g/2\u00bcoz plain flour",
-            "15g/\u00bdoz unsalted butter, melted"
-        ],
         "For the buttercream": [
             "70g/2\u00beoz caster sugar",
             "3 free-range egg yolks",
@@ -34,16 +33,28 @@
             "240g/8\u00beoz unsalted butter, softened to room temperature",
             "200g/7oz candied chestnuts, roughly chopped, plus extra to decorate"
         ],
-        "For the soaking syrup": [
-            "40g/1\u00bcoz caster sugar",
-            "25ml/1fl oz dark rum"
-        ],
         "For the chocolate sauce": [
             "2 tbsp milk",
             "90ml/3fl oz whipping cream",
             "80g/2\u00beoz plain chocolate, minimum 70 per cent cocoa solids, chopped, plus extra grated chocolate, to decorate",
             "cocoa powder, to decorate"
+        ],
+        "For the soaking syrup": [
+            "40g/1\u00bcoz caster sugar",
+            "25ml/1fl oz dark rum"
+        ],
+        "For the sponge (genoise)": [
+            "4 free-range eggs, separated",
+            "60g/2\u00bcoz caster sugar",
+            "60g/2\u00bcoz plain flour",
+            "15g/\u00bdoz unsalted butter, melted"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 8",
+    "show": {
+        "b04v6210": "Christmas Kitchen with James Martin"
     },
     "steps": [
         "For the genoise, preheat the oven to 180C/160C Fan/Gas 4.",
@@ -70,8 +81,9 @@
         "Just before serving, dust the b\u00fbche de No\u00ebl with a little cocoa powder and garnish with grated chocolate or chocolate curls. If desired, slice the end off the log and place it on top. Decorate with whole candied chestnuts.",
         "To serve, slice the b\u00fbche de No\u00ebl and drizzle with a little of the chocolate sauce."
     ],
-    "howTos": [
-        "how_to_make_a_swiss_roll_cake"
+    "tips": [
+        "Tip 1: Do not overcook the sponge as it will be dry and difficult to roll. Tip 2: To make chocolate curls, drag a potato peeler against a block of chocolate."
     ],
+    "title": "B\u00fbche de No\u00ebl (Christmas log)",
     "videos": "[]"
 }

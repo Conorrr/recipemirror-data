@@ -1,24 +1,26 @@
 {
-    "title": "Veggie carbonara",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "7",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/veggiecarbonara_87492_16x9.jpg"
-    ],
-    "description": "Smoked cheese replaces bacon in this creamy veggie version of spaghetti carbonara. Use sundried tomatoes for a more savoury taste, while semi-dried tomatoes will be sweeter.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "Warming the serving bowls up ahead of time will help make the pasta stay creamy and hot for longer."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "Smoked cheese replaces bacon in this creamy veggie version of spaghetti carbonara. Use sundried tomatoes for a more savoury taste, while semi-dried tomatoes will be sweeter.",
+    "dishes": [
+        "gratin",
+        "pasta",
+        "salad",
+        "sauce",
+        "spaghetti_carbonara",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/veggiecarbonara_87492_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,6 +36,12 @@
             "grated Parmesan, or similar vegetarian grating cheese"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Bring a large pot of salted water to the boil. Add the spaghetti and cook according to packet instructions.",
         "Meanwhile, put the cream and garlic in a small saucepan and bring to a simmer. Add the smoked cheddar and allow to melt over a low heat. You may need to stir it vigorously to make a smooth mixture. Remove from the heat and allow to cool slightly.",
@@ -41,8 +49,9 @@
         "When cooked, drain the spaghetti in a large colander. Return the spaghetti pan to the heat and add the spinach leaves. Stir until the spinach softens, adding a splash of water if it begins to stick. Stir the spaghetti in to the spinach.",
         "Pour the cheese sauce over the spaghetti and spinach. Add the sun-dried tomatoes and parsley. Toss everything together until the spaghetti is completely coated. Serve immediately, preferably with a crisp green salad and a grating of Parmesan."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Warming the serving bowls up ahead of time will help make the pasta stay creamy and hot for longer."
     ],
+    "title": "Veggie carbonara",
     "videos": "[]"
 }

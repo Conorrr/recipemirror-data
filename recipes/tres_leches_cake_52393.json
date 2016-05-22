@@ -1,26 +1,30 @@
 {
-    "title": "Tres leches cake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 cake",
-    "recommendations": "14",
-    "images": [
-        
-    ],
-    "description": "With three types of milk, this cake is a sweet delight.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Spanish",
+    "description": "With three types of milk, this cake is a sweet delight.",
+    "dishes": [
+        "cake",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "400g/14oz can sweetened condensed milk",
+            "400g/14oz can evaporated milk",
+            "200ml/7floz double cream"
+        ],
         "For the sponge": [
             "4 free-range eggs, separated",
             "200g/7oz caster sugar",
@@ -29,14 +33,15 @@
             "100ml/3\u00bdfl oz milk",
             "\u00bd tsp vanilla extract"
         ],
-        "For the sauce": [
-            "400g/14oz can sweetened condensed milk",
-            "400g/14oz can evaporated milk",
-            "200ml/7floz double cream"
-        ],
         "To serve": [
             "strawberries, rasberries and blueberries, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "14",
+    "serves": "Makes 1 cake",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease and line a 23cm/9in square cake tin.",
@@ -48,8 +53,9 @@
         "Place in the fridge to chill.",
         "Once chilled pour over the rest of the sauce, slice and serve with the strawberries, rasberries and blueberries."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tres leches cake",
     "videos": "[]"
 }

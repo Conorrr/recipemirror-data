@@ -1,24 +1,18 @@
 {
-    "title": "Spaghetti with chilli and garlic",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "12",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spaghetti_with_chilli_89628_16x9.jpg"
-    ],
-    "description": "Sometimes simple food is the best and this 5 ingredient spaghetti dish wonderfully combines the flavours of garlic, chilli and fresh parsley to deliver a mouthwatering meal with minimum fuss.",
     "author": {
         "giorgio_locatelli": "Giorgio Locatelli"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
-    ],
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "Sometimes simple food is the best and this 5 ingredient spaghetti dish wonderfully combines the flavours of garlic, chilli and fresh parsley to deliver a mouthwatering meal with minimum fuss.",
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "chopping_chillies"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spaghetti_with_chilli_89628_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -30,6 +24,12 @@
             "salt"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Bring a pot of salted water to the boil and add the spaghetti. Cook until the spaghetti is soft but still has a little bite.",
         "While the spaghetti is cooking, remove the seeds from the chillies and finely chop. Peel and finely chop the garlic.",
@@ -37,8 +37,9 @@
         "Drain the spaghetti and add to the frying pan, mix to coat with the oil.",
         "Sprinkle the spaghetti with the parsley, season with salt and serve."
     ],
-    "howTos": [
-        "chopping_chillies"
+    "tips": [
+        
     ],
+    "title": "Spaghetti with chilli and garlic",
     "videos": "[]"
 }

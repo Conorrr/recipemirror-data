@@ -1,26 +1,36 @@
 {
-    "title": "Thai green curry with sticky rice",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Take your curry to the next level with fragrant Thai flavours and perfect sticky rice.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        "Pea aubergines are available online and in the 'food cupboard' area of some large supermarkets."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "Take your curry to the next level with fragrant Thai flavours and perfect sticky rice.",
+    "dishes": [
+        "curry",
+        "jam",
+        "sauce",
+        "stir-fries",
+        "thai_chicken_curry"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Thai green curry": [
+            "2 tbsp vegetable oil",
+            "8 chicken thighs, skinned, boned and chopped",
+            "400ml/14fl oz coconut milk",
+            "125g/4\u00bdoz pea aubergines",
+            "2 limes, juice only",
+            "2 tbsp chopped coriander leaves",
+            "2 tbsp Thai basil, torn"
+        ],
         "For the paste": [
             "3 lemongrass stalks, chopped",
             "4 green bird's-eye chillies, seeds removed and chopped",
@@ -35,23 +45,14 @@
             "2 tbsp Thai fish sauce",
             "1 tsp palm sugar"
         ],
-        "For the Thai green curry": [
-            "2 tbsp vegetable oil",
-            "8 chicken thighs, skinned, boned and chopped",
-            "400ml/14fl oz coconut milk",
-            "125g/4\u00bdoz pea aubergines",
-            "2 limes, juice only",
-            "2 tbsp chopped coriander leaves",
-            "2 tbsp Thai basil, torn"
+        "For the steamed vegetables": [
+            "1 head broccoli or 250g/9oz purple sprouting broccoli",
+            "300g/10\u00bdoz sugar snap peas"
         ],
         "For the sticky rice": [
             "400g/14oz sticky rice",
             "150ml/5fl oz coconut milk",
             "1 tsp salt"
-        ],
-        "For the steamed vegetables": [
-            "1 head broccoli or 250g/9oz purple sprouting broccoli",
-            "300g/10\u00bdoz sugar snap peas"
         ],
         "To garnish": [
             "1 shallot, sliced",
@@ -59,6 +60,12 @@
             "4 tbsp fresh coriander",
             "75g/2\u00beoz salted peanuts, chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Place all the ingredients for the paste in a blender and blend until smooth.",
@@ -68,8 +75,9 @@
         "For the garnish, heat a small frying pan and add the oil. Once hot, add the shallots and fry until golden-brown, drain on kitchen paper.",
         "Place the sticky rice and curry in serving bowls and garnish with the fresh coriander, peanuts and fried shallots. Serve the steamed vegetables on the side."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Pea aubergines are available online and in the 'food cupboard' area of some large supermarkets."
     ],
+    "title": "Thai green curry with sticky rice",
     "videos": "[]"
 }

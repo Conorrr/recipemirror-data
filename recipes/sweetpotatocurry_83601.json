@@ -1,24 +1,22 @@
 {
-    "title": "Sweet potato curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "curry",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -38,6 +36,12 @@
             "50g/1\u00beoz Greek yoghurt, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil in a frying pan over a medium heat. Add the garlic and shallots and fry until softened.",
         "Add the chilli, cumin seeds, curry powder and turmeric powder and fry for a further minute to release the aromas.",
@@ -45,8 +49,9 @@
         "Add the sweet potato and broccoli and simmer for 10 minutes, or until the sweet potato is cooked through. Season, to taste, with salt and freshly ground black pepper.",
         "To serve, pour into a warm bowl, sprinkle with the fresh coriander and spoon the yoghurt into the middle."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sweet potato curry",
     "videos": "[]"
 }

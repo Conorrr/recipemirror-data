@@ -1,24 +1,25 @@
 {
-    "title": "Blackberry and pear crumble with custard",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "Blackberries and pears are at their best in early autumn, just as the evenings start to turn chilly and hot puddings become oh-so tempting.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Blackberries and pears are at their best in early autumn, just as the evenings start to turn chilly and hot puddings become oh-so tempting.",
+    "dishes": [
+        "bread",
+        "crumble",
+        "custard",
+        "jam",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the crumble topping": [
@@ -26,17 +27,23 @@
             "180g/6\u00bdoz plain flour",
             "110g/4oz demerara sugar"
         ],
-        "For the filling": [
-            "5 pears, peeled and left whole",
-            "150g/5\u00bdoz caster sugar",
-            "300g/10\u00bdoz blackberries"
-        ],
         "For the custard": [
             "4 free-range egg yolks",
             "40g/1\u00bdoz caster sugar",
             "150ml/5\u00bdfl oz milk",
             "150ml/5\u00bdfl oz double cream"
+        ],
+        "For the filling": [
+            "5 pears, peeled and left whole",
+            "150g/5\u00bdoz caster sugar",
+            "300g/10\u00bdoz blackberries"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 4-6",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the crumble, preheat the oven to 180C/350F/Gas 4. Grease an ovenproof dish with butter.",
@@ -50,8 +57,9 @@
         "Place the milk and cream into a saucepan and bring to the boil. Pour onto the egg mixture, whisk well, then return the mixture to the pan. Heat gently, until the custard is thick enough to coat the back of the spoon.",
         "To serve, divide the crumble between serving bowls and pour the custard over."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Blackberry and pear crumble with custard",
     "videos": "[]"
 }

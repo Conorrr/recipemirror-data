@@ -1,26 +1,34 @@
 {
-    "title": "Glamorgan sausages with red onion and chilli relish",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "24",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/glamorgan_sausages_with_64911_16x9.jpg"
-    ],
-    "description": "These vegetarian leek and cheese sausages are delicious and full of flavour. Perfect comfort food.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        "Using half a chilli will give a mildly spiced relish, so add the whole chilli if you like a bit more heat. Using the seeds will make it hotter too."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "These vegetarian leek and cheese sausages are delicious and full of flavour. Perfect comfort food.",
+    "dishes": [
+        "bread",
+        "sauce",
+        "sausage",
+        "vegetarian_sausage"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/glamorgan_sausages_with_64911_16x9.jpg"
+    ],
     "ingredients": {
+        "For the red onion and chilli relish": [
+            "2 tbsp sunflower oil",
+            "2 medium red onions, finely sliced",
+            "1 red chilli, finely chopped",
+            "2 garlic cloves, crushed",
+            "75g/2\u00bdoz light brown muscovado sugar",
+            "5 tbsp white wine vinegar"
+        ],
         "For the sausages": [
             "25g/1oz butter",
             "115g/4oz leeks, trimmed, finely sliced (prepared weight)",
@@ -33,15 +41,13 @@
             "\u00bd tsp flaked sea salt",
             "5 tbsp sunflower oil",
             "freshly ground black pepper"
-        ],
-        "For the red onion and chilli relish": [
-            "2 tbsp sunflower oil",
-            "2 medium red onions, finely sliced",
-            "1 red chilli, finely chopped",
-            "2 garlic cloves, crushed",
-            "75g/2\u00bdoz light brown muscovado sugar",
-            "5 tbsp white wine vinegar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "24",
+    "serves": "Serves 4",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "For the sausages, melt the butter in a large non-stick frying pan and fry the leek gently for 8-10minutes, or until very soft but not coloured.",
@@ -52,8 +58,9 @@
         "Sprinkle with the sugar and pour over the vinegar. Bring to a simmer and cook for five further minutes, or until the liquid is well reduced and the relish becomes thick and glossy. Remove from the heat, set aside to cool for a few minutes then tip into a serving dish.",
         "Heat the oil into a large non-stick frying pan and fry the sausages over a medium heat for 10-12 minutes, turning regularly until golden-brown and crisp. Serve the sausages with a good spoonful of chilli and onion relish and some thinly sliced runner beans."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Using half a chilli will give a mildly spiced relish, so add the whole chilli if you like a bit more heat. Using the seeds will make it hotter too."
     ],
+    "title": "Glamorgan sausages with red onion and chilli relish",
     "videos": "[]"
 }

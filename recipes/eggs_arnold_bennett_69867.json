@@ -1,23 +1,22 @@
 {
-    "title": "Eggs Arnold Bennett",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "This rather special smoked haddock omelette named after the writer Arnold Bennett is a classic restaurant dish and easy to recreate at home.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b04xycrx": "James Martin: Home Comforts"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "This rather special smoked haddock omelette named after the writer Arnold Bennett is a classic restaurant dish and easy to recreate at home.",
+    "dishes": [
+        "jam",
+        "omelette",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -33,6 +32,12 @@
             "sea salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 1",
+    "show": {
+        "b04xycrx": "James Martin: Home Comforts"
+    },
     "steps": [
         "Pour the milk into a large shallow pan, then add the smoked haddock, bay leaf and peppercorns and bring to a simmer.",
         "Cook for five minutes, or until the fish has just cooked through and flakes when pushed gently.",
@@ -45,8 +50,9 @@
         "Pour the sauce over the top of the omelette, then scatter the grated cheese over the top and place under the grill for 3-5 minutes, or until golden-brown and bubbling.",
         "Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Eggs Arnold Bennett",
     "videos": "[p01s10x1:p01s10x7]"
 }

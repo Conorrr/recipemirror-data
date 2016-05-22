@@ -1,24 +1,24 @@
 {
-    "title": "Puff pastry treats",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 40 squares",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "So simple and yet perfect as party food. There is no effort involved.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "p0077j91": "Fresh Food"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "So simple and yet perfect as party food. There is no effort involved.",
+    "dishes": [
+        "canape",
+        "oven-baked_dishes",
+        "pastry",
+        "pesto",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +31,12 @@
             "rock salt and freshly ground black pepper, to taste"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Makes 40 squares",
+    "show": {
+        "p0077j91": "Fresh Food"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6 and grease two baking sheets.",
         "Roll out each piece of pastry on a flat surface and cut each one into 5cm/2in square pieces - ending up with about 40 squares. Place the squares on two large, greased baking sheets about 2.5cm/1in apart to allow for the pastry to puff up.",
@@ -39,8 +45,9 @@
         "Sprinkle a little grated parmesan and a little olive oil over each one.",
         "Season well and bake in the oven for 5-8 minutes or until the pastry is golden and the cheese has melted."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Puff pastry treats",
     "videos": "[]"
 }

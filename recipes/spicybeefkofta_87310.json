@@ -1,26 +1,28 @@
 {
-    "title": "Spicy beef koftas",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 5",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "richard_phillips": "Richard Phillips"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the herb salad": [
+            "small bunch fresh parsley leaves",
+            "2 tbsp olive oil",
+            "salt and freshly ground black pepper"
+        ],
         "For the koftas": [
             "175g/6oz minced beef",
             "\u00bc tsp ground turmeric powder",
@@ -30,12 +32,13 @@
             "2 tsp dried oregano",
             "2 tsp ground coriander seeds",
             "1 tsp olive oil, for frying"
-        ],
-        "For the herb salad": [
-            "small bunch fresh parsley leaves",
-            "2 tbsp olive oil",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Makes 5",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the koftas, soak five wooden skewers in a bowl of water for ten minutes.",
@@ -44,8 +47,9 @@
         "For the herb salad, mix the parsley leaves with the oil and seasoning in a bowl.",
         "To serve, place the herb salad in the middle of a plate and arrange the koftas on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spicy beef koftas",
     "videos": "[]"
 }

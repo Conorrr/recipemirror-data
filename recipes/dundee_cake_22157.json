@@ -1,24 +1,24 @@
 {
-    "title": "Dundee cake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10",
-    "recommendations": "24",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/dundee_cake_22157_16x9.jpg"
-    ],
-    "description": "This delicious afternoon cake is best served with a hunk of cheese and a hot cup of tea.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "This delicious afternoon cake is best served with a hunk of cheese and a hot cup of tea.",
+    "dishes": [
+        "cake",
+        "marmalade",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/dundee_cake_22157_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,6 +36,12 @@
             "1 tsp granulated or caster sugar, to decorate (optional)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "24",
+    "serves": "Serves 10",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
+    },
     "steps": [
         "Preheat the oven to 150C/300F/Gas 2. Grease and double-line a 20cm/8in loose-based deep cake tin with greaseproof paper.",
         "Beat the butter and sugar in a food processor for 3-4 minutes, or until very light and fluffy.",
@@ -45,8 +51,9 @@
         "Bake for 1\u00bd-2 hours, or until well risen, firm and golden-brown. (Test the cake by inserting a skewer into the centre. If the skewer comes out clean, the cake is done.)",
         "Leave the cake to cool for 10 minutes then remove from the tin, peel off the lining paper and set aside to cool on a wire rack. Sprinkle with granulated sugar. Store in a cake tin and eat within 4-5 days."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Dundee cake",
     "videos": "[]"
 }

@@ -1,32 +1,25 @@
 {
-    "title": "Artichoke salad with beef carpaccio",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "",
+    "dishes": [
+        "bread",
+        "carpaccio",
+        "jam",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the beef carpaccio": [
-            "300g/11oz beef fillet, trimmed",
-            "1 tbsp olive oil",
-            "2 tsp chopped fresh oregano",
-            "1-2 tbsp extra virgin olive oil"
-        ],
         "For the artichoke salad": [
             "4-6 baby violet artichokes, trimmed",
             "250g/9oz Jerusalem artichokes, peeled",
@@ -38,7 +31,19 @@
             "4 slices white bread, crusts removed, cubed",
             "4 tbsp flatleaf parsley, roughly chopped",
             "3 tbsp toasted pine nuts"
+        ],
+        "For the beef carpaccio": [
+            "300g/11oz beef fillet, trimmed",
+            "1 tbsp olive oil",
+            "2 tsp chopped fresh oregano",
+            "1-2 tbsp extra virgin olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the beef carpaccio, season the beef fillet with salt and freshly ground black pepper. Heat a frying pan until smoking, add the olive oil and sear the beef for 2-3 minutes on all sides, or until golden-brown.",
@@ -49,8 +54,9 @@
         "Drain the artichokes and mix in the parsley and pine nuts. Drizzle over the dressing and mix well to coat, then scatter over the crisp bread cubes.",
         "To serve, slice the beef as thinly as possible, then arrange around the edges of a serving plate. Pile the artichoke salad into the centre of the plate. Drizzle the beef with a little extra virgin olive oil and season, to taste, with salt and freshly ground black pepper."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Artichoke salad with beef carpaccio",
     "videos": "[]"
 }

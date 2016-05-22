@@ -1,31 +1,26 @@
 {
-    "title": "Galette",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 1 large tart",
-    "recommendations": "19",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/marys_galette_38999_16x9.jpg"
-    ],
-    "description": "The galette des rois is a French institution at Christmas - hide a figurine inside to see who makes next year's galette!",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "The galette des rois is a French institution at Christmas - hide a figurine inside to see who makes next year's galette!",
+    "dishes": [
+        "cake",
+        "oven-baked_dishes",
+        "pastry",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/marys_galette_38999_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "750g/1lb 10oz ready-made all-butter puff pastry, chilled",
-            "plain flour, for dusting",
-            "1 free-range egg, beaten, to glaze"
-        ],
         "For the filling": [
             "100g/3\u00bdoz unsalted butter, softened",
             "100g/3\u00bdoz caster sugar",
@@ -33,7 +28,18 @@
             "100g/3\u00bdoz ground almonds",
             "50g/1\u00beoz flaked almonds",
             "1 tsp almond extract"
+        ],
+        "default": [
+            "750g/1lb 10oz ready-made all-butter puff pastry, chilled",
+            "plain flour, for dusting",
+            "1 free-range egg, beaten, to glaze"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "19",
+    "serves": "Makes 1 large tart",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Line a baking tray with baking parchment. Roll out half of the pastry on a lightly floured work surface until it is about 25x25cm/10x10in in size and slightly thinner than a pound coin.",
@@ -47,8 +53,9 @@
         "Preheat the oven to 220C/200C Fan/Gas 7.",
         "Brush all over the top of the chilled galette again with the remaining beaten egg, then score it with a criss-cross pattern using the tip of a sharp knife. Make a couple of small steam holes in the centre of the galette. Bake in the oven for 25-30 minutes, or until the pastry is crisp and golden-brown. Set aside to cool slightly before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Galette",
     "videos": "[]"
 }

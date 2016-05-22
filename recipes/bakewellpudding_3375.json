@@ -1,24 +1,23 @@
 {
-    "title": "Bakewell pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4 - 6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "mrs_beeton": "Mrs Beeton"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "jam",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,13 +30,20 @@
             "jam"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4 - 6",
+    "show": {
+        
+    },
     "steps": [
         "Butter a pie dish, add the breadcrumbs, covering them with a layer of strawberry or any other kind of jam.",
         "Mix the milk with the beaten eggs, the ground almonds, and the butter and sugar.",
         "Beat all the ingredients together, pour into the dish and bake for 1 hour at a moderate heat."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Bakewell pudding",
     "videos": "[]"
 }

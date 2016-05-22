@@ -1,26 +1,34 @@
 {
-    "title": "Pan-roast chicken with cr\u00e8me fra\u00eeche spatzle",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "oliver_rowe": "Oliver Rowe"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bun",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cabbage": [
+            "1 lemon, juice only",
+            "1 garlic clove, crushed",
+            "salt and freshly ground black pepper",
+            "150ml/5fl oz rapeseed oil",
+            "\u00bd hispi cabbage, finely sliced",
+            "bunch of fresh dill, roughly chopped"
+        ],
         "For the pan-roast chicken": [
             "1 lemon, zest only",
             "2 garlic cloves, crushed",
@@ -30,6 +38,12 @@
             "4 chicken legs, bones removed, skin on",
             "2 chicken breasts, wing bone on, skin on"
         ],
+        "For the sauce": [
+            "1 tbsp olive oil",
+            "2 shallots, finely chopped",
+            "100ml/3\u00bdfl oz white wine",
+            "350ml/12oz cr\u00e8me fra\u00eeche"
+        ],
         "For the sp\u00e4tzle": [
             "250g/9oz plain flour",
             "\u00bd tsp celery seeds",
@@ -37,21 +51,13 @@
             "pinch freshly ground black pepper",
             "7 large free-range eggs",
             "3 tsp rapeseed oil"
-        ],
-        "For the sauce": [
-            "1 tbsp olive oil",
-            "2 shallots, finely chopped",
-            "100ml/3\u00bdfl oz white wine",
-            "350ml/12oz cr\u00e8me fra\u00eeche"
-        ],
-        "For the cabbage": [
-            "1 lemon, juice only",
-            "1 garlic clove, crushed",
-            "salt and freshly ground black pepper",
-            "150ml/5fl oz rapeseed oil",
-            "\u00bd hispi cabbage, finely sliced",
-            "bunch of fresh dill, roughly chopped"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the chicken, place the lemon zest, garlic, thyme and wine into a bowl and mix well.",
@@ -71,8 +77,9 @@
         "Pour the dressing over the cabbage, add the dill and stir.",
         "To serve, carve the chicken into several pieces, place onto warmed plates with a spoonful each of sp\u00e4tzle and cabbage. Drizzle over the remaining sauce to taste."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Pan-roast chicken with cr\u00e8me fra\u00eeche spatzle",
     "videos": "[]"
 }

@@ -1,33 +1,25 @@
 {
-    "title": "Baked tomato and cheese souffl\u00e9 with courgette and herb salad",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "salad",
+        "souffle",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the souffl\u00e9": [
-            "1 beef tomato, top sliced off and seeds scooped out",
-            "1 free-range egg white",
-            "\u00bd free-range egg yolk",
-            "30g/1oz Edam cheese, grated",
-            "salt and freshly ground black pepper"
-        ],
         "For the salad": [
             "\u00bc courgette, grated",
             "handful fresh flatleaf parsley",
@@ -35,7 +27,20 @@
             "handful fresh chives",
             "2 tsp olive oil",
             "1 tsp balsamic vinegar"
+        ],
+        "For the souffl\u00e9": [
+            "1 beef tomato, top sliced off and seeds scooped out",
+            "1 free-range egg white",
+            "\u00bd free-range egg yolk",
+            "30g/1oz Edam cheese, grated",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the souffl\u00e9, preheat the oven to 200C/400F/Gas 6.",
@@ -48,8 +53,9 @@
         "Mix together the oil and vinegar and stir through the salad.",
         "Serve the souffl\u00e9d tomato immediately on a plate beside the salad."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Baked tomato and cheese souffl\u00e9 with courgette and herb salad",
     "videos": "[]"
 }

@@ -1,26 +1,32 @@
 {
-    "title": "Christmas roast duck",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4-6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Tired of turkey? James Martin ushers in a Christmas alternative in the form of a delicious spiced roast duck.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b06s5h9c": "Home Comforts at Christmas"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Tired of turkey? James Martin ushers in a Christmas alternative in the form of a delicious spiced roast duck.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the spiced cranberry apple sauce": [
+            "2 Bramley apples, peeled, cores removed, roughly chopped",
+            "200g/7oz fresh cranberries",
+            "5 tbsp cider",
+            "2-3 tbsp caster sugar, to taste"
+        ],
         "default": [
             "1.5kg/3lb 5oz potatoes, peeled and thinly sliced",
             "2 onions, thinly sliced",
@@ -33,13 +39,13 @@
             "1 head Savoy cabbage, leaves shredded",
             "50g/1\u00beoz dried cranberries",
             "sea salt and freshly ground black pepper"
-        ],
-        "For the spiced cranberry apple sauce": [
-            "2 Bramley apples, peeled, cores removed, roughly chopped",
-            "200g/7oz fresh cranberries",
-            "5 tbsp cider",
-            "2-3 tbsp caster sugar, to taste"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4-6",
+    "show": {
+        "b06s5h9c": "Home Comforts at Christmas"
     },
     "steps": [
         "Arrange the shelves of your oven so that there is space for the duck at the top and the potatoes on the shelf immediately underneath. Preheat the oven to 180C/160C Fan/Gas 4.",
@@ -53,8 +59,9 @@
         "Pour enough water into the bottom of a large frying pan to reach 1cm/\u00bdin up the sides of the pan. Add half of the butter and bring to the boil. When the butter has melted, add the cabbage and boil until it has just wilted, stirring occasionally. Add the dried cranberries and cook for another 1-2 minutes, or until most of the water has evaporated, then season, to taste, with salt and freshly ground black pepper.",
         "To serve, spoon the wilted cabbage (drained, if necessary) onto a serving platter and lay the roast duck on top. Serve the potatoes and sauce alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Christmas roast duck",
     "videos": "[p03b2kt4:p03b2kt9]"
 }

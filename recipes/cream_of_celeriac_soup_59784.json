@@ -1,26 +1,40 @@
 {
-    "title": "Cream of celeriac soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "9",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cream_of_celeriac_soup_59784_16x9.jpg"
-    ],
-    "description": "Celeriac is a great winter vegetable and it\u2019s put to wonderful use in James Martin\u2019s creamy soup. Serve with crispy pancetta and cro\u00fbtons for a touch of luxury.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Celeriac is a great winter vegetable and it\u2019s put to wonderful use in James Martin\u2019s creamy soup. Serve with crispy pancetta and cro\u00fbtons for a touch of luxury.",
+    "dishes": [
+        "bread",
+        "crumble",
+        "jam",
+        "pie",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock",
+        "vegetable_soup"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cream_of_celeriac_soup_59784_16x9.jpg"
+    ],
     "ingredients": {
+        "For the garnish (optional)": [
+            "4 rashers pancetta",
+            "25g/1oz butter",
+            "1 tbsp olive oil",
+            "50g/2oz celeriac, peeled and finely julienned",
+            "1 slice white bread, cut into 1cm/\u00bc dice",
+            "salt and freshly ground black pepper",
+            "2 tbsp extra virgin olive oil",
+            "2 tbsp double cream"
+        ],
         "For the soup": [
             "75g/3oz butter",
             "1 onion, finely chopped",
@@ -33,17 +47,13 @@
             "1 litre/1\u00be pint chicken stock",
             "200ml/7floz double cream",
             "salt and white pepper"
-        ],
-        "For the garnish (optional)": [
-            "4 rashers pancetta",
-            "25g/1oz butter",
-            "1 tbsp olive oil",
-            "50g/2oz celeriac, peeled and finely julienned",
-            "1 slice white bread, cut into 1cm/\u00bc dice",
-            "salt and freshly ground black pepper",
-            "2 tbsp extra virgin olive oil",
-            "2 tbsp double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the soup, heat a large frying pan or saucepan until medium hot, add 25g/1oz of the butter, the onion and bacon and fry for a couple of minutes to just soften. Add the garlic, leek, celery and thyme sprigs and fry for another minute; then add the chopped celeriac. Pour in the stock and bring to the boil, then reduce the heat to a simmer and cook for 10-15 minutes, or until the celeriac is just tender.",
@@ -51,8 +61,9 @@
         "Season with salt and white pepper. Serve the hot soup in bowls, or keep it warm in the pan if making the garnish.",
         "For the optional garnish, fry the pancetta until crisp then set aside. Return the frying pan to the heat, add half the butter and the olive oil and heat until foaming. Add the celeriac and stir fry for 1-2 minutes, or until just softened, then remove from the pan and drain on kitchen paper. Add the rest of the butter and the bread to the pan and cook until golden-brown and crisp, tossing to cook on each side. Drain on a plate lined with kitchen paper and season with salt and freshly ground black pepper. To serve, pile the julienned celeriac into the centre of each of four soup plates. Ladle the soup around. Crumble the crispy bacon over the top and then scatter over the croutons. Finish with swirls of extra virgin olive oil and cream."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cream of celeriac soup",
     "videos": "[]"
 }

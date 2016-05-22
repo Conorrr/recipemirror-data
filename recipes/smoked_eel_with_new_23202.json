@@ -1,26 +1,32 @@
 {
-    "title": "Smoked eel with new potatoes, leeks and clam beurre blanc",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Smoked eel is a delicious alternative to smoked eel. Try it in this sophisticated recipe.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Smoked eel is a delicious alternative to smoked eel. Try it in this sophisticated recipe.",
+    "dishes": [
+        "jam",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the clam beurre blanc": [
+            "2 shallots, finely sliced",
+            "1 tbsp white wine vinegar",
+            "275ml/10fl oz white wine",
+            "225g/8oz butter, cut into cubes",
+            "500g/1lb 2oz clams",
+            "3 tbsp finely chopped fresh chives"
+        ],
         "default": [
             "1kg/2lb 2oz smoked eel fillets",
             "salt and freshly ground black pepper",
@@ -30,15 +36,13 @@
             "1 punnet pea shoots",
             "handful baby watercress leaves",
             "2 tbsp extra virgin olive oil"
-        ],
-        "For the clam beurre blanc": [
-            "2 shallots, finely sliced",
-            "1 tbsp white wine vinegar",
-            "275ml/10fl oz white wine",
-            "225g/8oz butter, cut into cubes",
-            "500g/1lb 2oz clams",
-            "3 tbsp finely chopped fresh chives"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Season the eel with salt and freshly ground black pepper.",
@@ -55,8 +59,9 @@
         "To serve, scatter the potatoes and leeks over the plate and top with the eel.",
         "Scatter the leaves around the plate and drizzle over beurre blanc. Garnish with the remaining cooked clams."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Smoked eel with new potatoes, leeks and clam beurre blanc",
     "videos": "[]"
 }

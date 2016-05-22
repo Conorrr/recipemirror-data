@@ -1,34 +1,28 @@
 {
-    "title": "Broccoli soup with cheese scones",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "sauce",
+        "scone",
+        "soup",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the soup": [
-            "1 garlic clove, chopped",
-            "300ml/10\u00bdfl oz chicken stock",
-            "1 tbsp fresh chopped chives",
-            "1 broccoli head, broken up into florets",
-            "50ml/2fl oz double cream",
-            "1 tbsp extra virgin olive oil, to serve"
-        ],
         "For the scones": [
             "100g/3\u00bdoz butter, diced",
             "200g/7oz self-raising flour",
@@ -36,7 +30,21 @@
             "salt and freshly ground black pepper",
             "25-50ml/1-2fl oz milk",
             "55g/2oz mature cheddar, grated"
+        ],
+        "For the soup": [
+            "1 garlic clove, chopped",
+            "300ml/10\u00bdfl oz chicken stock",
+            "1 tbsp fresh chopped chives",
+            "1 broccoli head, broken up into florets",
+            "50ml/2fl oz double cream",
+            "1 tbsp extra virgin olive oil, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -46,8 +54,9 @@
         "Shape the dough into rounds with floured hands and place onto a baking sheet. Sprinkle over the cheddar and place in the oven to bake for ten minutes, or until risen and golden.",
         "To serve, ladle the soup into a bowl and drizzle over the oil and serve with a cheese scone."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Broccoli soup with cheese scones",
     "videos": "[]"
 }

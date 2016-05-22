@@ -1,23 +1,23 @@
 {
-    "title": "Spaghetti with seafood",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A fantastic seafood pasta dish for two. Ready in a flash, and possibly the next best thing to being by the beach in Italy.",
     "author": {
         "theo_randall": "Theo Randall"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "A fantastic seafood pasta dish for two. Ready in a flash, and possibly the next best thing to being by the beach in Italy.",
+    "dishes": [
+        "pasta",
+        "pie",
+        "sauce",
+        "seafood"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -35,6 +35,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "In a saucepan of boiling salted water, cook the spaghetti according to the packet instructions, adding the courgettes to the boiling water with the pasta for the final 5 minutes of cooking.",
         "Meanwhile, heat the oil in a frying pan and add the prawns, clams and squid. (Discard any clams with broken shells, or open clams that do not close when given a sharp tap).",
@@ -42,8 +48,9 @@
         "When the pasta and courgettes are 'al dente' remove using a slotted spoon. Add to the frying pan, place back on the heat and add one ladle of pasta water.",
         "Cook for a further 2 minutes tossing the frying pan so the courgettes, tomatoes, squid, prawns and clams become emulsified with the pasta. Season with salt and pepper and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spaghetti with seafood",
     "videos": "[]"
 }

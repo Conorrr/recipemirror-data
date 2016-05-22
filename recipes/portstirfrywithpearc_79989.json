@@ -1,31 +1,24 @@
 {
-    "title": "Pork stir-fry with pear chutney",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "chutney",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pork stir-fry": [
-            "150g/5\u00bdoz pork fillet cut into thin strips",
-            "1 tbsp olive oil",
-            "salt and freshly ground black pepper"
-        ],
         "For the chutney": [
             "1 tbsp olive oil",
             "pinch chilli flakes",
@@ -36,7 +29,18 @@
             "1 tsp white wine vinegar",
             "1 tbsp chopped parsley",
             "salt and freshly ground black pepper"
+        ],
+        "For the pork stir-fry": [
+            "150g/5\u00bdoz pork fillet cut into thin strips",
+            "1 tbsp olive oil",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -46,8 +50,9 @@
         "Cook for ten minutes stirring occasionally.",
         "To serve, spoon the chutney onto a plate. Serve the pork alongside and sprinkle with parsley."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pork stir-fry with pear chutney",
     "videos": "[]"
 }

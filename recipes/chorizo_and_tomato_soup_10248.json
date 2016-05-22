@@ -1,26 +1,38 @@
 {
-    "title": "Chorizo and chickpea stew with chorizo-stuffed chicken",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "13",
-    "images": [
-        
-    ],
-    "description": "Cook up some Spanish flavours with this chorizo and tomato stew served with chorizo-stuffed chicken.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Cook up some Spanish flavours with this chorizo and tomato stew served with chorizo-stuffed chicken.",
+    "dishes": [
+        "bread",
+        "chicken_stew",
+        "jam",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chorizo-stuffed chicken": [
+            "150g/5oz cured chorizo, cut into thick slices",
+            "110g butter, softened",
+            "dash lemon juice",
+            "4 chicken breasts, boneless and skinless",
+            "50g/2oz plain flour",
+            "2 free-range eggs, lightly beaten",
+            "110g/4oz dried breadcrumbs"
+        ],
         "default": [
             "250g/9oz semi-cured chorizo, skinned, roughly chopped",
             "1 onion, finely chopped",
@@ -35,16 +47,13 @@
             "\u00bd lemon, juice only",
             "2 tbsp extra virgin olive oil",
             "3 tbsp coriander cress"
-        ],
-        "For the chorizo-stuffed chicken": [
-            "150g/5oz cured chorizo, cut into thick slices",
-            "110g butter, softened",
-            "dash lemon juice",
-            "4 chicken breasts, boneless and skinless",
-            "50g/2oz plain flour",
-            "2 free-range eggs, lightly beaten",
-            "110g/4oz dried breadcrumbs"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "13",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Heat a large saucepan and fry the chorizo for 3-4 minutes, or until crisp.",
@@ -57,8 +66,9 @@
         "Press the incision shut then dust with the flour. Prepare a plate of egg and a plate of breadcrumbs. Dip the chicken first in the egg, then the breadcrumbs. Place into the fat fryer and cook for 8-9 minutes, or until golden-brown and cooked through.",
         "To serve, cut the chicken in half carefully. Place the stew into a bowl and top with the chicken. Finish with a drizzle of extra virgin olive oil and scattering of cress."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chorizo and chickpea stew with chorizo-stuffed chicken",
     "videos": "[]"
 }

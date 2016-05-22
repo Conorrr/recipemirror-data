@@ -1,24 +1,20 @@
 {
-    "title": "Steamed broccoli with lemon",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "jam"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -27,12 +23,19 @@
             "1 tbsp olive oil"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Mix the steamed broccoli, lemon zest, lemon juice and oil together in a bowl.",
         "To serve, place the broccoli on a plate."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Steamed broccoli with lemon",
     "videos": "[]"
 }

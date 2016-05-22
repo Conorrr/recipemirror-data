@@ -1,26 +1,29 @@
 {
-    "title": "Chicken with chorizo",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "36",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "200g/8oz freshly cooked rice",
+            "100g/4oz peas, cooked",
+            "1 tbsp vegetable oil"
+        ],
         "default": [
             "1 tbsp olive oil",
             "\u00bd onion, peeled and diced",
@@ -28,12 +31,13 @@
             "55g/2oz chorizo, sliced",
             "1 tsp paprika",
             "50ml/2fl oz double cream"
-        ],
-        "To serve": [
-            "200g/8oz freshly cooked rice",
-            "100g/4oz peas, cooked",
-            "1 tbsp vegetable oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "36",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat the oven to 220C/425F/Gas 7.",
@@ -43,8 +47,9 @@
         "Meanwhile, mix the cooked rice, cooked peas and vegetable oil in a bowl.",
         "To serve, spoon the cooked rice onto a serving plate and serve the chicken and chorizo dish alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken with chorizo",
     "videos": "[]"
 }

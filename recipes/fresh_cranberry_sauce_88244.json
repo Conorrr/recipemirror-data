@@ -1,24 +1,21 @@
 {
-    "title": "Raw cranberry sauce",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8-10",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "Spoil yourself with homemade fresh cranberry sauce this Christmas. Mary Berry's fresh version takes seconds to make.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b04v6njn": "Mary Berry's Absolute Christmas Favourites"
-    },
-    "tips": [
-        "This sauce can be made up to 1 day in advance and kept, covered, in the fridge, until needed."
+    "cookTime": "no cooking required",
+    "cusine": "American",
+    "description": "Spoil yourself with homemade fresh cranberry sauce this Christmas. Mary Berry's fresh version takes seconds to make.",
+    "dishes": [
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,12 +26,19 @@
             "pinch freshly grated nutmeg"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 8-10",
+    "show": {
+        "b04v6njn": "Mary Berry's Absolute Christmas Favourites"
+    },
     "steps": [
         "Blend all of the cranberry sauce ingredients in a food processor until smooth.",
         "Either serve cold or gently heat through. Serve with roast turkey or leftover cold cuts."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This sauce can be made up to 1 day in advance and kept, covered, in the fridge, until needed."
     ],
+    "title": "Raw cranberry sauce",
     "videos": "[]"
 }

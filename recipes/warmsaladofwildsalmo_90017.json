@@ -1,26 +1,29 @@
 {
-    "title": "Warm salad of wild salmon with a herb and lemon dressing",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "alex_mackay": "Alex Mackay"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "1 lemon, juice only",
+            "3 tbsp olive oil",
+            "3 tbsp chopped mixed fresh herbs",
+            "salt and freshly ground black pepper"
+        ],
         "For the salmon": [
             "2 slices white bread",
             "2 tbsp chopped fresh parsley leaves",
@@ -29,17 +32,17 @@
             "1 tbsp olive oil",
             "1 tbsp butter"
         ],
-        "For the dressing": [
-            "1 lemon, juice only",
-            "3 tbsp olive oil",
-            "3 tbsp chopped mixed fresh herbs",
-            "salt and freshly ground black pepper"
-        ],
         "To serve": [
             "3 asparagus spears, woody ends removed, split lengthways and blanched",
             "1 carrot, grated",
             "1 handful pine nuts, toasted"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the salmon, place the bread, parsley, salt and freshly ground black pepper into a food processor and pulse until the mixture resembles breadcrumbs. Transfer onto a plate, then roll the salmon fillet in the mixture until well coated. Pat lightly to secure the breadcrumbs to the fish, then gently shake off any excess.",
@@ -47,8 +50,9 @@
         "For the dressing, combine all of the dressing ingredients in a bowl and season, to taste, with salt and freshly ground black pepper.",
         "To serve, place the grated carrot on a serving plate and place the salmon on top. Spoon the blanched asparagus alongside, drizzle over the dressing and scatter over the pine nuts."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Warm salad of wild salmon with a herb and lemon dressing",
     "videos": "[]"
 }

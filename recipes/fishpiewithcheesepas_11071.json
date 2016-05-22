@@ -1,23 +1,26 @@
 {
-    "title": "Fish pie with cheese pastry crust",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "fish_pie",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sandwich",
+        "sauce",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -36,6 +39,12 @@
             "1 egg, beaten"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 4-6",
+    "show": {
+        "p0077hsg": "Housecall"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "Saut\u00e9 the shallot in a little olive oil. After a few minutes add the fish stock and cream and bring to the boil. Season and leave to one side.",
@@ -45,8 +54,9 @@
         "Top the pie with the pastry, crimp the edges and then egg wash.",
         "Bake for 25-30 minutes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fish pie with cheese pastry crust",
     "videos": "[]"
 }

@@ -1,31 +1,22 @@
 {
-    "title": "Avocado with poached egg and hollandaise",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the poached egg": [
-            "500ml/18fl oz boiling water",
-            "50ml/2fl oz white wine vinegar",
-            "1 egg"
-        ],
         "For the hollandaise": [
             "50ml/2fl oz white wine vinegar",
             "5 peppercorns",
@@ -35,9 +26,20 @@
             "150g/5\u00bdfl oz melted butter",
             "salt and freshly ground black pepper"
         ],
+        "For the poached egg": [
+            "500ml/18fl oz boiling water",
+            "50ml/2fl oz white wine vinegar",
+            "1 egg"
+        ],
         "To serve": [
             "\u00bd ripe avocado, stone removed"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "To poach the egg, place the water and vinegar a saucepan and bring to the boil. Reduce the heat to a gentle simmer and swirl the water with a spoon to create a whirlpool effect.",
@@ -47,8 +49,9 @@
         "Gradually add the melted butter, whisking vigorously and continuously. Season, to taste, with salt and freshly ground black pepper.",
         "To serve, place the avocado in the centre of a plate. Place the poached egg onto the avocado and pour over the hollandaise."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Avocado with poached egg and hollandaise",
     "videos": "[]"
 }

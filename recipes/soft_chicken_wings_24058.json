@@ -1,26 +1,36 @@
 {
-    "title": "Soft chicken wings stuffed with herbs, potato gnocchi, broad beans and thyme",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "alexis_gauthier": "Alexis Gauthier"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bun",
+        "caramel",
+        "gnocchi",
+        "prepare-ahead_desserts",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the broad beans": [
+            "1kg/2lb 4oz fresh broad beans, podded and peeled",
+            "5 sprigs fresh thyme"
+        ],
+        "For the chicken jus": [
+            "trimmings from 20 chicken wings (above)",
+            "1 carrot, peeled and roughly chopped",
+            "1 onion, sliced",
+            "\u00bd garlic bulb, peeled and smashed"
+        ],
         "For the chicken wings": [
             "20 chicken wings",
             "100g/3\u00bd oz sun-dried tomatoes, finely chopped",
@@ -33,12 +43,6 @@
             "salt and freshly ground black pepper",
             "50ml/2 fl oz olive oil"
         ],
-        "For the chicken jus": [
-            "trimmings from 20 chicken wings (above)",
-            "1 carrot, peeled and roughly chopped",
-            "1 onion, sliced",
-            "\u00bd garlic bulb, peeled and smashed"
-        ],
         "For the potato gnocchi": [
             "1 kg/2lb 4oz baking potatoes",
             "1 egg",
@@ -48,11 +52,13 @@
             "salt",
             "white pepper",
             "30g/1oz unsalted butter"
-        ],
-        "For the broad beans": [
-            "1kg/2lb 4oz fresh broad beans, podded and peeled",
-            "5 sprigs fresh thyme"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Prepare the chicken wings, there should be three parts to the wing; the tip, the wing and the winglet. Use the middle part, the wing, for the dish, and cut away the tip and the winglet, keeping them for the jus. Remove the two bones in the middle of the wing joint, being careful not to break the outside skin.",
@@ -77,8 +83,9 @@
         "Cook for another 30 seconds then remove from the heat, and spoon a little onto four serving plates.",
         "On top of the beans, add alternating layers of gnocchi and chicken, and cover nicely with the broad beans, thyme and jus mix."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Soft chicken wings stuffed with herbs, potato gnocchi, broad beans and thyme",
     "videos": "[]"
 }

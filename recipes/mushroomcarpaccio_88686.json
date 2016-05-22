@@ -1,30 +1,22 @@
 {
-    "title": "Mushroom carpaccio",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "carpaccio"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 large St Georges mushrooms (weighing approximately150g/5oz) If unavailable use Portobello mushrooms.",
-            "20 fresh mint leaves, very finely sliced"
-        ],
         "For the dressing": [
             "1 tsp truffle oil",
             "1 tbsp wholegrain mustard",
@@ -39,7 +31,17 @@
             "4 tbsp cr\u00e8me fra\u00eeche",
             "pecorino, shaved or grated",
             "salt and freshly ground black pepper"
+        ],
+        "default": [
+            "2 large St Georges mushrooms (weighing approximately150g/5oz) If unavailable use Portobello mushrooms.",
+            "20 fresh mint leaves, very finely sliced"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Remove the stalks from the mushrooms and discard. Place the mushroom caps into the freezer for 10-15mins (this will make them easier to slice thinly).",
@@ -49,8 +51,9 @@
         "To serve, drizzle the mushroom slices with the dressing, then add a spoonful of cr\u00e8me fra\u00eeche to each plate.",
         "Sprinkle with freshly grated or shaved pecorino cheese and season well with salt and freshly ground black pepper."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mushroom carpaccio",
     "videos": "[]"
 }

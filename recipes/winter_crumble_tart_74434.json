@@ -1,37 +1,30 @@
 {
-    "title": "Winter crumble tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "7",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/winter_crumble_tart_74434_16x9.jpg"
-    ],
-    "description": "The delicious dessert is the perfect combination of tart and crumble filled to the brim with juicy apples and blackberries. Equipment and preparation: for this recipe you will need a 28cm/11in round, loose-bottomed, fluted tart tin, about 3-4cm (1\u00bc\u20131\u00bdin) deep, and some baking beans.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b04v6njn": "Mary Berry's Absolute Christmas Favourites"
-    },
-    "tips": [
-        "This whole tart can be made and cooked up to a day in advance, then reheated to serve. Wrap the cooked tart in foil to freeze, then defrost at room temperature. Alternatively, the uncooked pastry and the crumble both freeze well separately. Otherwise, the finished tart can be made ahead and kept for up to one day at room temperature, stored in a lidded container or covered with foil."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "The delicious dessert is the perfect combination of tart and crumble filled to the brim with juicy apples and blackberries. Equipment and preparation: for this recipe you will need a 28cm/11in round, loose-bottomed, fluted tart tin, about 3-4cm (1\u00bc\u20131\u00bdin) deep, and some baking beans.",
+    "dishes": [
+        "bread",
+        "crumble",
+        "custard",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "stir-fries",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/winter_crumble_tart_74434_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pastry": [
-            "225g/8oz plain flour, plus extra for dusting",
-            "125g/4\u00bdoz chilled butter, cut into cubes",
-            "30g/1oz caster sugar",
-            "1 large free-range egg, beaten"
-        ],
-        "For the filling": [
-            "4 large Bramley apples (about 1.2kg/2lb 10oz), peeled, cored and cut into small chunks",
-            "150g/5\u00bdoz caster sugar",
-            "275g/10oz fresh blackberries"
-        ],
         "For the crumble topping": [
             "175g/6oz plain flour",
             "100g/3\u00bdoz butter, at room temperature, cut into cubes",
@@ -39,7 +32,24 @@
             "100g/3\u00bdoz demerara sugar",
             "50g/1\u00beoz hazelnuts, roasted and chopped",
             "custard or double cream, to serve"
+        ],
+        "For the filling": [
+            "4 large Bramley apples (about 1.2kg/2lb 10oz), peeled, cored and cut into small chunks",
+            "150g/5\u00bdoz caster sugar",
+            "275g/10oz fresh blackberries"
+        ],
+        "For the pastry": [
+            "225g/8oz plain flour, plus extra for dusting",
+            "125g/4\u00bdoz chilled butter, cut into cubes",
+            "30g/1oz caster sugar",
+            "1 large free-range egg, beaten"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 8",
+    "show": {
+        "b04v6njn": "Mary Berry's Absolute Christmas Favourites"
     },
     "steps": [
         "Preheat the oven to 200C/180C Fan/Gas 6.",
@@ -55,8 +65,9 @@
         "Meanwhile, boil the reserved fruit juice in a saucepan for 3-4 minutes, or until thickened to a syrup.",
         "Serve the tart warm, in slices, with the extra fruit juice spooned over it and either custard or cream on the side."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This whole tart can be made and cooked up to a day in advance, then reheated to serve. Wrap the cooked tart in foil to freeze, then defrost at room temperature. Alternatively, the uncooked pastry and the crumble both freeze well separately. Otherwise, the finished tart can be made ahead and kept for up to one day at room temperature, stored in a lidded container or covered with foil."
     ],
+    "title": "Winter crumble tart",
     "videos": "[]"
 }

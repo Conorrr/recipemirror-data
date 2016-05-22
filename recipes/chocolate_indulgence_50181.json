@@ -1,32 +1,26 @@
 {
-    "title": "Chocolate indulgence petits fours",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 96",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Layers of hazelnut biscuit, chocolate Chantilly, tempered chocolate and brownie \u2013 all in a mouthful.",
     "author": {
         "james_morton": "James Morton"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Layers of hazelnut biscuit, chocolate Chantilly, tempered chocolate and brownie \u2013 all in a mouthful.",
+    "dishes": [
+        "biscuit",
+        "jam",
+        "oven-baked_dishes",
+        "petit_fours",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the hazelnut biscuit base": [
-            "175g/6oz butter, plus extra for greasing",
-            "100g/3\u00bdoz caster sugar",
-            "125g/4\u00bdoz shelled hazelnuts, ground roughly in a food processor",
-            "200g/7oz plain flour"
-        ],
         "For the dark chocolate brownie layer": [
             "125g/4\u00bdoz dark chocolate (70% cocoa solids)",
             "125g/4\u00bdoz unsalted butter",
@@ -38,12 +32,24 @@
             "\u00bd tsp baking powder",
             "30g/1oz cocoa powder"
         ],
-        "For the milk chocolate Chantilly layer": [
-            "240g/8\u00bdoz good-quality milk chocolate"
-        ],
         "For the dark chocolate top": [
             "300g/10\u00bdoz dark chocolate (75-80% cocoa solids)"
+        ],
+        "For the hazelnut biscuit base": [
+            "175g/6oz butter, plus extra for greasing",
+            "100g/3\u00bdoz caster sugar",
+            "125g/4\u00bdoz shelled hazelnuts, ground roughly in a food processor",
+            "200g/7oz plain flour"
+        ],
+        "For the milk chocolate Chantilly layer": [
+            "240g/8\u00bdoz good-quality milk chocolate"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Makes 96",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the biscuit base, preheat the oven to 150C/300F/Gas 2 and grease a 30x20cm/12x8in baking tin.",
@@ -57,8 +63,9 @@
         "Boil a kettle, and pour the boiling water into a heatproof cup or glass. Stand a small sharp knife in the hot water, and, using the hot knife, cut the chilled chocolate into 2\u00bdcm/1in squares.",
         "Assemble the petits fours with a layer of biscuit on the bottom, spread on some chocolate Chantilly, and top with the dark chocolate and finally brownie."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chocolate indulgence petits fours",
     "videos": "[]"
 }

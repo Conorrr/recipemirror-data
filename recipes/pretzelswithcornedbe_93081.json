@@ -1,39 +1,30 @@
 {
-    "title": "Pretzels with corned beef hash and poached eggs",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Homemade pretzels taste wonderful. Top with corned beef hash and poached eggs for a truly original breakfast.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00pftz5": "The Hairy Bikers' Twelve Days of Christmas"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Homemade pretzels taste wonderful. Top with corned beef hash and poached eggs for a truly original breakfast.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pie",
+        "pretzels",
+        "sauce",
+        "sausage",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading",
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pretzels": [
-            "680ml/1 pint 4\u00bdfl oz warm water",
-            "1 x 7g sachet fast-action yeast",
-            "1kg/2lb 3oz strong white bread flour, plus extra for dusting",
-            "4 tsp sea salt",
-            "1 tsp caster sugar",
-            "1 tbsp olive oil",
-            "1 free-range egg, beaten",
-            "1 tbsp water",
-            "sesame seeds (optional)",
-            "sea salt flakes (optional)",
-            "poppy seeds (optional)"
-        ],
         "For the corned beef hash": [
             "50g/2oz unsalted butter",
             "1 onion, chopped",
@@ -46,7 +37,26 @@
         "For the poached eggs": [
             "4 free-range eggs",
             "splash white wine vinegar"
+        ],
+        "For the pretzels": [
+            "680ml/1 pint 4\u00bdfl oz warm water",
+            "1 x 7g sachet fast-action yeast",
+            "1kg/2lb 3oz strong white bread flour, plus extra for dusting",
+            "4 tsp sea salt",
+            "1 tsp caster sugar",
+            "1 tbsp olive oil",
+            "1 free-range egg, beaten",
+            "1 tbsp water",
+            "sesame seeds (optional)",
+            "sea salt flakes (optional)",
+            "poppy seeds (optional)"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b00pftz5": "The Hairy Bikers' Twelve Days of Christmas"
     },
     "steps": [
         "For the pretzels, in a large bowl, whisk together the warm water and yeast until the yeast has dissolved. Stir in 500g/1lb 1\u00bdoz of the flour (the mixture should form quite a loose batter). Cover with cling film or a damp tea towel and set aside in a warm place for a few hours, or until the batter has almost doubled in size and the surface is covered with air bubbles.",
@@ -63,9 +73,9 @@
         "Add a splash of white wine vinegar to the pan, then swirl the water gently to create a whirlpool effect. Crack one egg into the centre of the whirlpool and poach for 2-3 minutes, or until the egg is cooked to your liking. Remove from the pan with a slotted spoon and set aside to drain on kitchen paper. Keep warm. Repeat the process with the remaining eggs.",
         "To serve, spoon the corned beef hash onto four serving plates and top each with a poached egg. Break the large pretzel into four pieces to serve."
     ],
-    "howTos": [
-        "kneading",
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Pretzels with corned beef hash and poached eggs",
     "videos": "[]"
 }

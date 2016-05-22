@@ -1,24 +1,23 @@
 {
-    "title": "Peach, lemon and mascarpone trifle",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "icing",
+        "pie",
+        "sauce",
+        "trifle"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,6 +32,12 @@
             "1 peach, peeled and sliced"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Cut one of the lemons into quarters and juice the other lemons. Place the quartered lemon and the lemon juice, sugar and hot water into a non-reactive saucepan and bring to the boil. Boil until the mixture is thick and syrupy then remove from the heat and allow to cool.",
         "Dip the sponge fingers into the sugar syrup and place in the base of a glass serving dish. (There will be sugar syrup left over to use on another occasion.).",
@@ -41,8 +46,9 @@
         "Place another third of the peach slices on top of the cream and cover with the rest of the cream mix.",
         "Decorate with the rest of the peaches and serve."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Peach, lemon and mascarpone trifle",
     "videos": "[]"
 }

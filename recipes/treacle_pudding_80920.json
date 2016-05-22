@@ -1,24 +1,24 @@
 {
-    "title": "Treacle pudding",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "A classic steamed syrup sponge - simple to make and guaranteed to please.",
     "author": {
         "angela_hartnett": "Angela Hartnett"
     },
-    "show": {
-        "b04v6210": "Christmas Kitchen with James Martin"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "A classic steamed syrup sponge - simple to make and guaranteed to please.",
+    "dishes": [
+        "jam",
+        "pie",
+        "sauce",
+        "sponge_pudding"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "steaming_puddings",
+        "sealing_steamed_puddings"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +31,12 @@
             "1 tbsp black treacle"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 6",
+    "show": {
+        "b04v6210": "Christmas Kitchen with James Martin"
+    },
     "steps": [
         "Grease a 1litre/1\u00be pints pudding basin with butter. Put the golden syrup in to the bottom of the basin.",
         "In a separate bowl, using an electric hand whisk, mix the flour, baking powder, butter, eggs, sugar and treacle until well combined.",
@@ -40,9 +46,9 @@
         "To check if the pudding is cooked, insert a metal skewer into the pudding. If it comes out clean it is ready.",
         "Carefully remove the pudding from the pan. Loosen the edges by running a knife around the pudding and turn out onto a plate."
     ],
-    "howTos": [
-        "steaming_puddings",
-        "sealing_steamed_puddings"
+    "tips": [
+        
     ],
+    "title": "Treacle pudding",
     "videos": "[]"
 }

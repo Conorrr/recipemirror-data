@@ -1,24 +1,23 @@
 {
-    "title": "Classic rich chocolate sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/classicrichchocolate_93211_16x9.jpg"
-    ],
-    "description": "Serve this warm chocolate sauce over vanilla ice cream, meringues or even as a chocolate fondue.",
     "author": {
         "michel_roux": "Michel Roux"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Serve this warm chocolate sauce over vanilla ice cream, meringues or even as a chocolate fondue.",
+    "dishes": [
+        "fondue",
+        "meringue",
+        "roux",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/classicrichchocolate_93211_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -29,6 +28,12 @@
             "30g/1\u00bcoz chilled butter, cut into cubes"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "Bring a little water to the boil in a pan, then reduce the heat until the water is simmering. Suspend a heatproof bowl over the water (do not allow the base of the bowl to touch the water). Add the chocolate and melt slowly, stirring occasionally, until very smooth. Remove the bowl from the heat.",
         "Bring the milk, cream and sugar to the boil in a saucepan over a medium heat, whisking continuously.",
@@ -36,8 +41,9 @@
         "Return the chocolate and cream mixture to the pan and heat until just simmering, stirring continuously. Allow to bubble over the heat for a few seconds, then turn off the heat and whisk in the butter, a cube at a time, until the sauce is smooth and glossy and all the butter has melted.",
         "Strain the chocolate sauce through a fine sieve, then serve immediately. (Serving suggestion: pour the chocolate sauce over ready-made meringues.)"
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Classic rich chocolate sauce",
     "videos": "[]"
 }

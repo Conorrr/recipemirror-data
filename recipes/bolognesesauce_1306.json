@@ -1,24 +1,25 @@
 {
-    "title": "Bolognese sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "4",
-    "recommendations": "23",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bolognesesauce_1306_16x9.jpg"
-    ],
-    "description": "This is a simple pasta bolognese. For a smoother sauce, chop the ingredients as finely as possible. Serve with spaghetti.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "This is a simple pasta bolognese. For a smoother sauce, chop the ingredients as finely as possible. Serve with spaghetti.",
+    "dishes": [
+        "lasagne",
+        "pasta",
+        "sauce",
+        "spaghetti_bolognese",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bolognesesauce_1306_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,6 +36,12 @@
             "salt and pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "23",
+    "serves": "4",
+    "show": {
+        
+    },
     "steps": [
         "Heat a non-stick frying pan and add half the mince. Cook over a high heat to colour the meat, breaking up any lumps with the back of a fork. Repeat with the rest of the mince and drain off any fat.",
         "Heat the oil in another large pan and cook the onion, carrot and green pepper until they start to soften.",
@@ -42,8 +49,9 @@
         "Stir in the tomatoes and the wine and season well.",
         "Add the mince and simmer gently for 40-50 minutes until thick. Use to make lasagne or serve with pasta."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Bolognese sauce",
     "videos": "[]"
 }

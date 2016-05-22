@@ -1,26 +1,37 @@
 {
-    "title": "Sicilian lemon and orange sweet bread",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 10",
-    "recommendations": "10",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sicilian_lemon_and_38672_16x9.jpg"
-    ],
-    "description": "This citrus-infused sweet bread, topped with toasted almonds, is based on the flavours of the Italian Colomba di Pasqua (an Easter celebration bread).",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b01rhdgt": "Paul Hollywood's Bread"
-    },
-    "tips": [
-        "Buy unwaxed citrus fruit if possible, as you are using the zest."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "This citrus-infused sweet bread, topped with toasted almonds, is based on the flavours of the Italian Colomba di Pasqua (an Easter celebration bread).",
+    "dishes": [
+        "bread",
+        "cake",
+        "oven-baked_dishes",
+        "panettone",
+        "pie",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sicilian_lemon_and_38672_16x9.jpg"
+    ],
     "ingredients": {
+        "For the citrus mixture": [
+            "2 lemons, finely grated zest only",
+            "1 orange, finely grated zest only",
+            "100g/3\u00bdoz toasted flaked almonds",
+            "100g/3\u00bdoz mixed candied peel",
+            "100g/3\u00bdoz dried cranberries",
+            "\u00bd lemon, juice only"
+        ],
         "For the dough": [
             "400g/14oz strong white flour",
             "7g salt",
@@ -29,14 +40,6 @@
             "120ml/4fl oz milk",
             "4 free-range eggs, lightly whisked",
             "100g/3\u00bdoz softened unsalted butter, cut into small pieces, plus extra for greasing"
-        ],
-        "For the citrus mixture": [
-            "2 lemons, finely grated zest only",
-            "1 orange, finely grated zest only",
-            "100g/3\u00bdoz toasted flaked almonds",
-            "100g/3\u00bdoz mixed candied peel",
-            "100g/3\u00bdoz dried cranberries",
-            "\u00bd lemon, juice only"
         ],
         "For the paste": [
             "2 free-range egg whites",
@@ -47,6 +50,12 @@
             "50g/1\u00beoz flaked almonds",
             "caster sugar, to sprinkle"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "10",
+    "serves": "Serves 10",
+    "show": {
+        "b01rhdgt": "Paul Hollywood's Bread"
     },
     "steps": [
         "To make the dough, combine the flour, salt, sugar, yeast, milk, eggs and butter in a food mixer fitted with a dough hook. Mix on a slow speed for three minutes and then set on a medium speed for five minutes, to work the mixture together into a soft dough. If you haven\u2019t got a mixer, mix the dough ingredients together by hand and knead on a lightly floured surface until you get a soft, elastic dough.",
@@ -62,8 +71,9 @@
         "Reduce the oven temperature to 180C/350F/Gas 4 and return to the oven for a further 20 minutes. If it is going to brown towards the end of baking then cover it loosely with foil.",
         "Remove from the oven and leave to cool in the tin for 10 minutes; then release the sides of the tin. Remove from the tin and leave to cool completely on a wire rack."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Buy unwaxed citrus fruit if possible, as you are using the zest."
     ],
+    "title": "Sicilian lemon and orange sweet bread",
     "videos": "[]"
 }

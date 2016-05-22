@@ -1,26 +1,40 @@
 {
-    "title": "Baked ginger parkin with rhubarb, vanilla ice cream and hot spiced syrup",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "cake",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the hot spiced syrup": [
+            "200g/7oz golden syrup",
+            "2 tsp dry cider",
+            "\u00bd tsp ground mixed spice"
+        ],
+        "For the rhubarb": [
+            "255g/9oz rhubarb, in 1cm/\u00bcin lengths",
+            "3-4 tbsp caster sugar, to taste"
+        ],
+        "To serve": [
+            "500ml/1lb 2oz vanilla ice cream"
+        ],
         "default": [
             "butter, for greasing",
             "110g/4 oz self-raising flour",
@@ -35,19 +49,13 @@
             "110g/4oz soft brown sugar",
             "1 free range egg, beaten",
             "2 tsp full-fat milk"
-        ],
-        "For the hot spiced syrup": [
-            "200g/7oz golden syrup",
-            "2 tsp dry cider",
-            "\u00bd tsp ground mixed spice"
-        ],
-        "For the rhubarb": [
-            "255g/9oz rhubarb, in 1cm/\u00bcin lengths",
-            "3-4 tbsp caster sugar, to taste"
-        ],
-        "To serve": [
-            "500ml/1lb 2oz vanilla ice cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 8",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Pre-heat the oven to 140C/275F/Gas 1.",
@@ -66,8 +74,9 @@
         "To serve, place a spoonful of rhubarb in the centre of the plate, top with a ball of ice cream.",
         "Place a piece of parkin on the side and drizzle over the spiced syrup."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Baked ginger parkin with rhubarb, vanilla ice cream and hot spiced syrup",
     "videos": "[]"
 }

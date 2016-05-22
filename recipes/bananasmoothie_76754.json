@@ -1,24 +1,21 @@
 {
-    "title": "Banana smoothie",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "jam",
+        "smoothie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,12 +25,19 @@
             "1-2 tbsp honey"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place the banana, milk, ice and honey in a blender and then blend until smooth.",
         "Transfer to a serving glass and serve at once."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Banana smoothie",
     "videos": "[]"
 }

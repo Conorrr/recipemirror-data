@@ -1,23 +1,24 @@
 {
-    "title": "Spaghetti carbonara",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "A crowd-pleaser if ever there was one - eggs, cheese, bacon and pasta. Save the egg whites for meringues or chocolate mousse. This is designed to be a low cost recipe.",
     "author": {
         "allegra_mcevedy": "Allegra McEvedy"
     },
-    "show": {
-        "b036x3pv": "Great British Budget Menu"
-    },
-    "tips": [
-        "In May 2013 this recipe was costed at \u00a32.67 at Asda, \u00a33.02 at Tesco and \u00a33.89 Sainsbury\u2019s. This recipe is designed to be made in conjunction with a low-cost store-cupboard."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "A crowd-pleaser if ever there was one - eggs, cheese, bacon and pasta. Save the egg whites for meringues or chocolate mousse. This is designed to be a low cost recipe.",
+    "dishes": [
+        "meringue",
+        "mousse",
+        "pasta",
+        "sauce",
+        "spaghetti_carbonara"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -32,6 +33,12 @@
             "salt and pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 4",
+    "show": {
+        "b036x3pv": "Great British Budget Menu"
+    },
     "steps": [
         "Cook the spaghetti in a large saucepan of salted boiling water according to the packet instructions.",
         "Meanwhile, heat a large frying pan over a medium heat. Add the oil and, once hot, add the bacon and fry for 2-3 minutes, or until cooked through but not colouring. Add the garlic and cook for a further minute and then remove the pan from the heat.",
@@ -39,8 +46,9 @@
         "Once the spaghetti is cooked, drain it, reserving a teacup of the cooking water. Pour the drained spaghetti into the frying pan (still off the heat) with the bacon and garlic. Immediately pour over the egg mixture and mix really well, tossing the pasta so that it is all coated in the egg. If it looks to be getting too thick or sticky then loosen with a little of the pasta cooking water.",
         "Serve immediately sprinkled with the remaining cheese."
     ],
-    "howTos": [
-        
+    "tips": [
+        "In May 2013 this recipe was costed at \u00a32.67 at Asda, \u00a33.02 at Tesco and \u00a33.89 Sainsbury\u2019s. This recipe is designed to be made in conjunction with a low-cost store-cupboard."
     ],
+    "title": "Spaghetti carbonara",
     "videos": "[]"
 }

@@ -1,23 +1,20 @@
 {
-    "title": "Mussels",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "A classic dish that uses beer instead of wine as a flavour - a great variation.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "p0077j91": "Fresh Food"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A classic dish that uses beer instead of wine as a flavour - a great variation.",
+    "dishes": [
+        "bread",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -30,6 +27,12 @@
             "2-3 tbsp finely chopped, parsley for garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 2",
+    "show": {
+        "p0077j91": "Fresh Food"
+    },
     "steps": [
         "Heat a large, lidded saucepan and add the olive oil.",
         "Add the shallots and garlic and cook for one minute.",
@@ -37,8 +40,9 @@
         "Cook, shaking the pan every now and again until all the mussels have opened and are cooked. Remove any mussels that remain closed.",
         "Spoon into serving bowls with the juices, sprinkle with parsley and serve with rustic bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mussels",
     "videos": "[]"
 }

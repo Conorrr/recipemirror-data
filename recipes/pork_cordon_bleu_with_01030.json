@@ -1,39 +1,30 @@
 {
-    "title": "Pork cordon bleu with fries",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "An old fashioned bistro dish that is well worth reviving. You could substitute the pork for chicken breasts.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "An old fashioned bistro dish that is well worth reviving. You could substitute the pork for chicken breasts.",
+    "dishes": [
+        "bread",
+        "ham",
+        "jam",
+        "ketchup",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the tomato ketchup": [
-            "250ml/9fl oz cider vinegar",
-            "1 bay leaf",
-            "\u00bd tsp ground coriander",
-            "\u00bd tsp ground cinnamon",
-            "8 tbsp demerara sugar",
-            "1.5kg/3lb 5oz ripe tomatoes, quartered, seeds removed",
-            "1 tsp salt",
-            "1 tbsp English mustard powder",
-            "1 garlic clove, crushed",
-            "Tabasco sauce",
-            "2 tbsp tomato pur\u00e9e",
-            "\u00bd tsp corn flour, if necessary"
+        "For the fries": [
+            "4 large chipping potatoes, cut into fine julienne",
+            "oil, for deep-frying"
         ],
         "For the pork": [
             "oil, for deep-frying",
@@ -47,10 +38,26 @@
             "4 sprigs flat leaf parsley",
             "1 lemon, cut lengthways into quarters"
         ],
-        "For the fries": [
-            "4 large chipping potatoes, cut into fine julienne",
-            "oil, for deep-frying"
+        "For the tomato ketchup": [
+            "250ml/9fl oz cider vinegar",
+            "1 bay leaf",
+            "\u00bd tsp ground coriander",
+            "\u00bd tsp ground cinnamon",
+            "8 tbsp demerara sugar",
+            "1.5kg/3lb 5oz ripe tomatoes, quartered, seeds removed",
+            "1 tsp salt",
+            "1 tbsp English mustard powder",
+            "1 garlic clove, crushed",
+            "Tabasco sauce",
+            "2 tbsp tomato pur\u00e9e",
+            "\u00bd tsp corn flour, if necessary"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the ketchup, place the vinegar, bay leaf, coriander, cinnamon and sugar into a heavy-based saucepan and bring to a gentle simmer.",
@@ -68,8 +75,9 @@
         "Remove with a slotted spoon and drain onto kitchen paper then season with salt and a little black pepper.",
         "Place the pork onto the plate, pile the fries along side then finish with a dollop of ketchup, sprig of parsley and wedge of lemon."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pork cordon bleu with fries",
     "videos": "[]"
 }

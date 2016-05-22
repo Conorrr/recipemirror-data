@@ -1,26 +1,26 @@
 {
-    "title": "Peshwari naan",
-    "cookTime": "less than 10 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 5 breads",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "anjum_anand": "Anjum Anand"
     },
-    "show": {
-        "b007szxr": "Indian Food Made Easy"
-    },
-    "tips": [
-        
-    ],
+    "cookTime": "less than 10 mins",
+    "cusine": "Indian",
+    "description": "",
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading",
+        "knocking_back"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the filling": [
+            "70g/2\u00bdoz pistachios, shells removed",
+            "35g/1\u00bcoz raisins",
+            "1\u00bd tsp caster sugar"
+        ],
         "default": [
             "250g/8\u00beoz plain flour, plus extra for dusting",
             "2 tsp sugar",
@@ -30,12 +30,13 @@
             "2 tbsp vegetable oil",
             "30g/1oz flaked almonds",
             "1 tbsp butter, melted, for serving"
-        ],
-        "For the filling": [
-            "70g/2\u00bdoz pistachios, shells removed",
-            "35g/1\u00bcoz raisins",
-            "1\u00bd tsp caster sugar"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "9",
+    "serves": "Makes 5 breads",
+    "show": {
+        "b007szxr": "Indian Food Made Easy"
     },
     "steps": [
         "Sift together the flour, sugar, salt and baking powder in a bowl. Mix the milk and oil together in a separate bowl. Make a well in the centre of the dry ingredients and pour in the liquid ingredients.",
@@ -46,9 +47,9 @@
         "Roll out each of the five portions of dough balls into thick circles. Fill half of each circle with one portion of the filling leaving about a one-inch margin around the edge. Wet the dough around the edges with a little water and fold each circle in half to enclose the filling. Pinch the dough around the edges to close.",
         "Gently roll out each naan into a teardrop or oval shape. Sprinkle over the flaked almonds. Place the naan on the hot baking sheet and grill for about 1-2 minutes until there are nice brown spots on the surface. Brush with the melted butter and serve hot."
     ],
-    "howTos": [
-        "kneading",
-        "knocking_back"
+    "tips": [
+        
     ],
+    "title": "Peshwari naan",
     "videos": "[]"
 }

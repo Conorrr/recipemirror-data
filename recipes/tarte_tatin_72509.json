@@ -1,24 +1,25 @@
 {
-    "title": "Tarte Tatin",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "52",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/tarte_tatin_72509_16x9.jpg"
-    ],
-    "description": "Invented by two elderly spinsters, the Tatin sisters, this sensuous dessert is one of Raymond Blanc\u2019s favourites. Combining the pleasures of dark caramel, crisp pastry and the sweet acidity of apples, it deserves to be served with the very best cr\u00e8me fra\u00eeche (\u201cfull fat, please,\u201d says Raymond) or vanilla ice cream. Equipment and preparation: You will need a 20cm/8in tarte Tatin dish.",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
-    },
-    "tips": [
-        "Braeburn, Cox\u2019s Orange Pippin, Captain Kidd, Crimson Cox, Tydeman\u2019s Early Worcester and Adams Pearmain would all work well in this dish. If you like a sharper flavour, use Granny Smiths but be aware they will give out a bit more juice during cooking and will not cook down as well as the other varieties. This dish is best made a day in advance to allow the pectin in the apples to gel and bind them together. Keep it in the tin after it is cooked and reheat at 150C/300F/Gas 2 for 20 minutes before serving."
+    "cookTime": "1 to 2 hours",
+    "cusine": "French",
+    "description": "Invented by two elderly spinsters, the Tatin sisters, this sensuous dessert is one of Raymond Blanc\u2019s favourites. Combining the pleasures of dark caramel, crisp pastry and the sweet acidity of apples, it deserves to be served with the very best cr\u00e8me fra\u00eeche (\u201cfull fat, please,\u201d says Raymond) or vanilla ice cream. Equipment and preparation: You will need a 20cm/8in tarte Tatin dish.",
+    "dishes": [
+        "caramel",
+        "oven-baked_dishes",
+        "pastry",
+        "stir-fries",
+        "tarte_tatin"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/tarte_tatin_72509_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -29,6 +30,12 @@
             "30g/1oz unsalted butter, melted, to add richness",
             "300g/11oz all-butter puff pastry, rolled to a thickness of 3mm/\u215bin, cut very slightly larger than the diameter of the tarte tin, pricked with a fork and frozen"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "52",
+    "serves": "Serves 6-8",
+    "show": {
+        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -41,8 +48,9 @@
         "Return to the oven for a further 40-45 minutes, or until the pastry is crisp and golden-brown.",
         "Allow to cool at room temperature for one hour before turning out of the tin and serving warm. Alternatively, make the tarte the day before and reheat as above."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Braeburn, Cox\u2019s Orange Pippin, Captain Kidd, Crimson Cox, Tydeman\u2019s Early Worcester and Adams Pearmain would all work well in this dish. If you like a sharper flavour, use Granny Smiths but be aware they will give out a bit more juice during cooking and will not cook down as well as the other varieties. This dish is best made a day in advance to allow the pectin in the apples to gel and bind them together. Keep it in the tin after it is cooked and reheat at 150C/300F/Gas 2 for 20 minutes before serving."
     ],
+    "title": "Tarte Tatin",
     "videos": "[]"
 }

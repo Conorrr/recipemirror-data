@@ -1,24 +1,23 @@
 {
-    "title": "White bread",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 1 loaf",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "stir-fries",
+        "white_bread"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,6 +28,12 @@
             "25g/1oz butter"
         ]
     },
+    "prepTime": "1-2 hours",
+    "recommendations": "8",
+    "serves": "Makes 1 loaf",
+    "show": {
+        
+    },
     "steps": [
         "Mix the yeast with a little of the milk to get a creamy liquid.",
         "Put the flour and the salt in a bowl and rub in the butter.",
@@ -38,8 +43,9 @@
         "Turn the dough on to the work surface again and knead for 5-10 minutes. Shape the dough into a loaf shape to fit the tin and place in the tin. Cover with a clean tea towel and allow to rise back up again, about 15 minutes.",
         "Bake in the oven until golden and risen, about 30-40 minutes. The base of the loaf should sound hollow when you tap it. Turn on to a wire rack to cool."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "White bread",
     "videos": "[]"
 }

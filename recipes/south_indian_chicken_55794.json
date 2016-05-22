@@ -1,34 +1,25 @@
 {
-    "title": "South Indian chicken curry",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "19",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/south_indian_chicken_55794_16x9.jpg"
-    ],
-    "description": "Good curry depends on a good curry paste. Making your own from scratch will bring out the full fragrance of the spices and make your curry sing.",
     "author": {
         "padmaja_kochera": "Padmaja Kochera"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "Good curry depends on a good curry paste. Making your own from scratch will bring out the full fragrance of the spices and make your curry sing.",
+    "dishes": [
+        "chicken_curry",
+        "curry",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/south_indian_chicken_55794_16x9.jpg"
+    ],
     "ingredients": {
-        "For the masala paste": [
-            "2.5cm/1in piece cinnamon stick",
-            "2 cardamom pods",
-            "2 cloves",
-            "1 tbsp white poppy seeds",
-            "2 tbsp coriander seeds",
-            "2 tbsp chopped fresh coconut flesh"
-        ],
         "For the curry": [
             "2.5cm/1in piece fresh ginger, peeled and roughly chopped",
             "3 garlic cloves",
@@ -40,7 +31,21 @@
             "\u00bd tsp turmeric",
             "1 tsp salt",
             "fresh coriander leaves, to garnish"
+        ],
+        "For the masala paste": [
+            "2.5cm/1in piece cinnamon stick",
+            "2 cardamom pods",
+            "2 cloves",
+            "1 tbsp white poppy seeds",
+            "2 tbsp coriander seeds",
+            "2 tbsp chopped fresh coconut flesh"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "19",
+    "serves": "Serves 4",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
     },
     "steps": [
         "First make the masala paste. Grind all the ingredients together in a pestle and mortar, or pulse in a small food processor, until you have a fine paste.",
@@ -49,8 +54,9 @@
         "Add the chicken pieces, chilli powder, turmeric and salt, cover the pan and cook for 5 minutes. Then add about 125ml/4fl oz of water and cook gently until the chicken is tender.",
         "Garnish with coriander leaves and serve with rice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "South Indian chicken curry",
     "videos": "[]"
 }

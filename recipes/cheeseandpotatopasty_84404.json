@@ -1,42 +1,27 @@
 {
-    "title": "Cheese and potato pasty",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "chutney",
+        "oven-baked_dishes",
+        "pastry",
+        "pasty",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "225g/8oz plain flour",
-            "100g/3\u00bdoz butter",
-            "1 free-range egg",
-            "salt and freshly ground black pepper",
-            "80g/3oz walnuts, crushed finely",
-            "milk, to bind (if necessary)"
-        ],
-        "For the filling": [
-            "400g/14oz new potatoes, cut into cubes and boiled until tender",
-            "400g/14oz smoked cheese, cut into cubes",
-            "handful baby spinach",
-            "2 red onions, cut into wedges, roasted for 30 minutes",
-            "salt and freshly ground black pepper",
-            "1 free-range egg, beaten, for egg wash"
-        ],
         "For the chutney": [
             "1 tbsp olive oil",
             "1 onion, sliced",
@@ -49,7 +34,29 @@
             "150ml/5fl oz white wine vinegar",
             "1 tsp ground cloves",
             "1 tsp ground cinnamon"
+        ],
+        "For the filling": [
+            "400g/14oz new potatoes, cut into cubes and boiled until tender",
+            "400g/14oz smoked cheese, cut into cubes",
+            "handful baby spinach",
+            "2 red onions, cut into wedges, roasted for 30 minutes",
+            "salt and freshly ground black pepper",
+            "1 free-range egg, beaten, for egg wash"
+        ],
+        "For the pastry": [
+            "225g/8oz plain flour",
+            "100g/3\u00bdoz butter",
+            "1 free-range egg",
+            "salt and freshly ground black pepper",
+            "80g/3oz walnuts, crushed finely",
+            "milk, to bind (if necessary)"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -63,8 +70,9 @@
         "Add the sugar, vinegar, cloves and cinnamon and simmer for 15-25 minutes, or until the liquid has reduced and the mixture is thickened.",
         "To serve, place the pasty on a plate with the chutney spooned alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cheese and potato pasty",
     "videos": "[]"
 }

@@ -1,24 +1,23 @@
 {
-    "title": "Naan bread",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 8-10",
-    "recommendations": "12",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00d6g4f": "The Hairy Bakers"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "naan_bread",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,6 +33,12 @@
             "300ml/10fl oz whole milk, warmed"
         ]
     },
+    "prepTime": "1-2 hours",
+    "recommendations": "12",
+    "serves": "Makes 8-10",
+    "show": {
+        "b00d6g4f": "The Hairy Bakers"
+    },
     "steps": [
         "Mix the flour, yeast, poppy and fennel seeds, salt and baking powder in a large bowl until well combined.",
         "Add the egg, olive oil and yoghurt and stir with a plastic spatula until well combined.",
@@ -43,8 +48,9 @@
         "When the dough has risen, divide it into 8-10 parts. Using your hands, stretch and flatten each of the naans until they are thin and even, then transfer to a baking sheet. Brush each naan with olive oil.",
         "Transfer the naan breads to the oven and bake for 7-10 minutes, or until pale golden-brown but still soft inside."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Naan bread",
     "videos": "[]"
 }

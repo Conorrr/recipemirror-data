@@ -1,24 +1,23 @@
 {
-    "title": "Leek and asparagus soup",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +30,12 @@
             "crusty bread, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil in a medium saucepan over a medium heat. Add the leek and asparagus and saut\u00e9 for 2-3 minutes, to soften.",
         "Add the vegetable stock, bring to the boil, then reduce the heat to simmer gently for 8-10 minutes, until the asparagus is cooked through.",
@@ -38,8 +43,9 @@
         "Return the soup to the pan, season, to taste, with salt and freshly ground black pepper and warm through gently.",
         "To serve, pour into a soup bowl with the crusty bread placed on a plate alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Leek and asparagus soup",
     "videos": "[]"
 }

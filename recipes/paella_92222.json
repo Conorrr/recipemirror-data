@@ -1,23 +1,23 @@
 {
-    "title": "Paella",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gordon_jones": "Gordon Jones"
     },
-    "show": {
-        "b00mb9r7": "Virgin Cooks"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Spanish",
+    "description": "",
+    "dishes": [
+        "paella",
+        "pie",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -41,6 +41,12 @@
             "1 preserved lemon, cut into wedges"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b00mb9r7": "Virgin Cooks"
+    },
     "steps": [
         "Heat two tablespoons of the olive oil in a large frying pan or paella pan. Add the sliced onion, the two cloves of finely chopped garlic and the chopped red pepper. Gently fry for 5-6 minutes over a medium heat, or until the onions are softened but not coloured.",
         "Place the tomatoes, parsley and oregano into a bowl and mix well to combine.",
@@ -50,8 +56,9 @@
         "Sprinkle the fresh peas over the paella, then top with the prepared tomatoes, oregano and parsley. Turn the heat off and cover with a lid for 2-3 minutes.",
         "To serve, fluff up the paella with a fork and spoon into serving bowls, with a wedge of preserved lemon to garnish."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Paella",
     "videos": "[]"
 }

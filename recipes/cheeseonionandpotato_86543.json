@@ -1,26 +1,30 @@
 {
-    "title": "Cheese, onion and potato pasties",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "pasty"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the basil buttered vegetables": [
+            "200g/7oz unsalted butter",
+            "2 tbsp chopped fresh basil",
+            "assorted seasonal vegetables (carrot, asparagus, snow peas, spinach)"
+        ],
         "default": [
             "300g/10\u00bdoz potatoes, cooked and cut into cubes",
             "300g/10\u00bdoz fresh curd cheese",
@@ -30,12 +34,13 @@
             "3 packs (6 large sheets) ready-rolled puff pastry",
             "1 free-range egg, beaten, for egg wash",
             "butter, for greasing"
-        ],
-        "For the basil buttered vegetables": [
-            "200g/7oz unsalted butter",
-            "2 tbsp chopped fresh basil",
-            "assorted seasonal vegetables (carrot, asparagus, snow peas, spinach)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -50,8 +55,9 @@
         "Add the basil butter and mix to melt and coat the vegetables.",
         "To serve, place a pasty onto each of six plates and serve a spoonful of vegetables alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cheese, onion and potato pasties",
     "videos": "[]"
 }

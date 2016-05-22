@@ -1,24 +1,26 @@
 {
-    "title": "Wheat tart (Pastiera di grano)",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 10",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antonio_carluccio": "Antonio Carluccio"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "cheesecake",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the filling": [
@@ -43,6 +45,12 @@
             "300g/10oz plain flour"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "Serves 10",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "For the filling, drain the soaked whole wheat (if using) and place in a pan with the milk and lemon zest. Simmer for 3-4 hours over a low heat.",
         "When the grain is tender, add the ground cinnamon, vanilla sugar and orange zest. Remove from the heat, cool, cover and place in the fridge until the next day.",
@@ -57,8 +65,9 @@
         "Bake in the oven for about 45 minutes.",
         "Allow to cool and dust with icing sugar. Serve in slices."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Wheat tart (Pastiera di grano)",
     "videos": "[]"
 }

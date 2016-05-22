@@ -1,24 +1,24 @@
 {
-    "title": "Egg and bacon pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "24",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/egg_and_bacon_pie_09677_16x9.jpg"
-    ],
-    "description": "Egg and bacon is a match made in heaven. This pie from The Hairy Bikers is quick, easy and delicious served warm or cold.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Egg and bacon is a match made in heaven. This pie from The Hairy Bikers is quick, easy and delicious served warm or cold.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "pie"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/egg_and_bacon_pie_09677_16x9.jpg"
     ],
     "ingredients": {
         "For the filling": [
@@ -34,6 +34,12 @@
             "175g/6oz chilled butter, diced",
             "1 free-range egg"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "24",
+    "serves": "Serves 4",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
     },
     "steps": [
         "To make the filling, heat the oil in a large non-stick frying pan.",
@@ -51,8 +57,9 @@
         "Bake the pie on the preheated baking tray for 45\u201355 minutes until golden-brown and cooked through.",
         "Test by piercing the centre with a sharp knife \u2013 the filling should be just set. If it\u2019s still runny, put the pie back in the oven for a few minutes. Leave to stand for at least 15 minutes before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Egg and bacon pie",
     "videos": "[]"
 }

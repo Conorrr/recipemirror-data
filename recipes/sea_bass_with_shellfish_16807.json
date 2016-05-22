@@ -1,23 +1,24 @@
 {
-    "title": "Sea bass with shellfish and wild mushroom broth",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Sea bass served in a rich mushroom and shellfish broth. In French they refer to this as sauce of the land and sea - \u2018terre et mer\u2019. They complement each other very well.",
     "author": {
         "andre_garrett": "Andre Garrett"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Sea bass served in a rich mushroom and shellfish broth. In French they refer to this as sauce of the land and sea - \u2018terre et mer\u2019. They complement each other very well.",
+    "dishes": [
+        "broth",
+        "bun",
+        "curry",
+        "pie",
+        "sauce",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -30,14 +31,14 @@
             "2 sprigs thyme",
             "500ml/18fl oz light chicken stock"
         ],
+        "For the sea bass": [
+            "1 wild sea bass (2-3 kg/4lb 6oz - 6lb 8oz), scaled, cleaned, filleted, deboned and portioned"
+        ],
         "For the shellfish stock": [
             "100g/3\u00bdoz mussels, cleaned",
             "100g/3\u00bdoz cockles, cleaned",
             "100ml/3\u00bdfl oz white wine",
             "100ml/3\u00bdfl oz mineral water"
-        ],
-        "For the sea bass": [
-            "1 wild sea bass (2-3 kg/4lb 6oz - 6lb 8oz), scaled, cleaned, filleted, deboned and portioned"
         ],
         "For the vegetables": [
             "50g/1\u00beoz unsalted butter",
@@ -46,6 +47,12 @@
             "\u00bd lemon, juice only",
             "100g/3\u00bdoz fregola, cooked until al dente"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the mushroom stock, heat the oil in a large pan. Cook the shallot and garlic until soft, add the mushroom and turn up the heat. Mix in the curry powder. Cook for a minute then add the thyme and stock. Bring to the boil then simmer for 30 minutes. Take off the heat. Allow to infuse for 30 minutes then pass through a fine cloth into a clean pan. Heat until reduced in volume to about 250ml/9fl oz and a rich mushroom flavour is achieved.",
@@ -58,8 +65,9 @@
         "Mix the mushroom and shellfish stocks to make a broth. Add the mushrooms, the meat from the shellfish and the fregola.",
         "To serve divide the broth between serving bowls. Dress with the turnip tops and add a piece of sea bass."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sea bass with shellfish and wild mushroom broth",
     "videos": "[]"
 }

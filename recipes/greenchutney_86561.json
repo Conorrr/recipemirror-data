@@ -1,24 +1,22 @@
 {
-    "title": "Green chutney",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 200ml/7fl oz",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This goes well with all tandoori dishes and most North Indian snacks. It keeps well in the fridge for 4-5 days. You can add yoghurt and a pinch of sugar for a green chutney as you'd find in restaurants, or add desiccated coconut for a Southern flavour.",
     "author": {
         "anjum_anand": "Anjum Anand"
     },
-    "show": {
-        "b007szxr": "Indian Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "Indian",
+    "description": "This goes well with all tandoori dishes and most North Indian snacks. It keeps well in the fridge for 4-5 days. You can add yoghurt and a pinch of sugar for a green chutney as you'd find in restaurants, or add desiccated coconut for a Southern flavour.",
+    "dishes": [
+        "chutney",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,11 +32,18 @@
             "3 tbsp water"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 200ml/7fl oz",
+    "show": {
+        "b007szxr": "Indian Food Made Easy"
+    },
     "steps": [
         "Place all the ingredients into a food processor and blend until smooth."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Green chutney",
     "videos": "[]"
 }

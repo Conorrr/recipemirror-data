@@ -1,26 +1,36 @@
 {
-    "title": "Baked aubergine rolls filled with mozzarella",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 2-3",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gennaro_contaldo": "Gennaro Contaldo"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the tomato sauce": [
+            "4 tbsp extra virgin olive oil",
+            "1 garlic clove, finely chopped",
+            "1 small onion, finely chopped",
+            "\u00bd celery stalk, finely chopped",
+            "400g/14oz tin of plum tomatoes"
+        ],
+        "To serve": [
+            "leafy green salad"
+        ],
         "default": [
             "1 large aubergine, cut lengthways into 6 slices about 5mm/\u00bc inch thick",
             "2 tbsp plain flour",
@@ -31,17 +41,13 @@
             "300g/11oz mozzarella cheese, roughly sliced",
             "salt",
             "freshly ground black pepper"
-        ],
-        "For the tomato sauce": [
-            "4 tbsp extra virgin olive oil",
-            "1 garlic clove, finely chopped",
-            "1 small onion, finely chopped",
-            "\u00bd celery stalk, finely chopped",
-            "400g/14oz tin of plum tomatoes"
-        ],
-        "To serve": [
-            "leafy green salad"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "3",
+    "serves": "Serves 2-3",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "To make the tomato sauce, heat the olive oil in a saucepan, add the garlic, onion and celery and sweat until softened. Stir in the tomatoes, season with salt and pepper, then cover the pan and simmer gently for 25 minutes.",
@@ -54,8 +60,9 @@
         "Spoon over the remaining tomato sauce and top with the remaining mozzarella slices and parmesan.",
         "Place in the oven and bake for 15 minutes, until the top is very lightly coloured and beginning to bubble. Serve with a green salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Baked aubergine rolls filled with mozzarella",
     "videos": "[]"
 }

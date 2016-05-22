@@ -1,24 +1,21 @@
 {
-    "title": "Hazelnut potatoes",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "The crunch of hazelnuts, combined with buttery new potatoes makes for an unusual potato side dish in this easy recipe.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "The crunch of hazelnuts, combined with buttery new potatoes makes for an unusual potato side dish in this easy recipe.",
+    "dishes": [
+        "oven-baked_dishes",
+        "roast_potatoes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -27,6 +24,12 @@
             "200g/7oz chopped hazelnuts",
             "150g/5\u00bdoz butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
     },
     "steps": [
         "Preheat the oven to 150C/300F/Gas 2.",
@@ -37,8 +40,9 @@
         "Pour the butter over the potatoes and mix in the hazelnuts.",
         "Bake in the oven for one hour 30 minutes, or until the potatoes are crisp and golden-brown."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Hazelnut potatoes",
     "videos": "[]"
 }

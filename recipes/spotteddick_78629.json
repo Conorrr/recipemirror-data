@@ -1,26 +1,33 @@
 {
-    "title": "Spotted dick",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "marshmallow",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "125g/4oz butter",
+            "150g/5oz dark brown sugar",
+            "1 tbsp cinnamon",
+            "1 tsp vanilla essence",
+            "1 orange, juice only",
+            "handful of marshmallows"
+        ],
         "default": [
             "350g/12oz plain flour",
             "100g/4oz shredded vegetable suet",
@@ -31,15 +38,13 @@
             "100ml/4fl oz milk",
             "125g/5oz mixture of raisins, dried cherries, dried cranberries and dried blueberries",
             "75g soft brown sugar"
-        ],
-        "For the sauce": [
-            "125g/4oz butter",
-            "150g/5oz dark brown sugar",
-            "1 tbsp cinnamon",
-            "1 tsp vanilla essence",
-            "1 orange, juice only",
-            "handful of marshmallows"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Place the flour, vegetable suet, caster sugar, baking powder and cinnamon in a bowl.",
@@ -53,8 +58,9 @@
         "When the spotted dick is cooked, pour the candied sauce over the spotted dick and then place in the oven for 10 minutes.",
         "Remove, place the marshmallows on top then put back into the oven until they have just melted."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Spotted dick",
     "videos": "[]"
 }

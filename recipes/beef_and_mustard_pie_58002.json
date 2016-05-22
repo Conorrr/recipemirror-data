@@ -1,26 +1,37 @@
 {
-    "title": "Beef and mustard pie",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4-6",
-    "recommendations": "11",
-    "images": [
-        
-    ],
-    "description": "Slow cooked beef makes a wonderful filling for pie. Prepare the meat stew ahead and assemble the pie when you\u2019re ready to cook it.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b04xycrx": "James Martin: Home Comforts"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Slow cooked beef makes a wonderful filling for pie. Prepare the meat stew ahead and assemble the pie when you\u2019re ready to cook it.",
+    "dishes": [
+        "casserole",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "slow-cooked_dishes",
+        "stew",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "browning_meat"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the green beans": [
+            "300g/10\u00bdoz fine green beans",
+            "25g/1oz butter",
+            "sea salt and freshly ground black pepper"
+        ],
         "default": [
             "1kg/2lb 4oz beef skirt, cut into large chunks",
             "2 tbsp plain flour",
@@ -34,12 +45,13 @@
             "2 tbsp wholegrain mustard",
             "2 free-range egg yolks, beaten",
             "400g/14oz all-butter puff pastry, rolled to 5mm/\u00bcin thick"
-        ],
-        "For the green beans": [
-            "300g/10\u00bdoz fine green beans",
-            "25g/1oz butter",
-            "sea salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "11",
+    "serves": "Serves 4-6",
+    "show": {
+        "b04xycrx": "James Martin: Home Comforts"
     },
     "steps": [
         "Preheat the oven to 150C/300F/Gas 2.",
@@ -56,8 +68,9 @@
         "Drain and toss with the butter, then season with black pepper.",
         "To serve, place a large spoonful of pie onto each plate with some green beans alongside."
     ],
-    "howTos": [
-        "browning_meat"
+    "tips": [
+        
     ],
+    "title": "Beef and mustard pie",
     "videos": "[p01s117r:p01s117y]"
 }

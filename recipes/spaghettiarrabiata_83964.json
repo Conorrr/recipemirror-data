@@ -1,24 +1,20 @@
 {
-    "title": "Spaghetti all'arrabbiata",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +27,12 @@
             "fresh chives, chopped, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil in a deep frying pan, add the garlic and chilli flakes and cook over a low heat for three minutes.",
         "Add the spinach and let it wilt, stirring for two minutes.",
@@ -38,8 +40,9 @@
         "Stir through the cooked spaghetti.",
         "To serve, place into a bowl and garnish with chives."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spaghetti all'arrabbiata",
     "videos": "[]"
 }

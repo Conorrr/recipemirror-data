@@ -1,24 +1,25 @@
 {
-    "title": "Grandma\u2019s chocolate mousse",
-    "cookTime": "no cooking required",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "24",
-    "images": [
-        
-    ],
-    "description": "Chocolate mousse is always a crowd pleaser. It\u2019s also quick and easy to make, and is best served the day after it\u2019s made. What\u2019s not to love?",
     "author": {
         "victoria_jones": "Victoria Jones"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "British",
+    "description": "Chocolate mousse is always a crowd pleaser. It\u2019s also quick and easy to make, and is best served the day after it\u2019s made. What\u2019s not to love?",
+    "dishes": [
+        "chocolate_mousse",
+        "icing",
+        "mousse",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "folding",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,6 +30,12 @@
             "300ml/10 fl oz double cream"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "24",
+    "serves": "Serves 4",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
+    },
     "steps": [
         "Place the chocolate and butter in a large bowl and melt over a pan of simmering water, making sure the bottom of the bowl does not touch the water. Set aside to cool a little.",
         "Add the egg yolks to the chocolate mixture, then stir in the icing sugar.",
@@ -36,9 +43,9 @@
         "Fold the double cream carefully into the chocolate mixture then fold that mixture into the egg whites.",
         "Pour the mixture into a serving bowl, cover with cling film and transfer to the fridge for a minimum of 12 hours."
     ],
-    "howTos": [
-        "folding",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Grandma\u2019s chocolate mousse",
     "videos": "[]"
 }

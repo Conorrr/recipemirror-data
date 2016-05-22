@@ -1,26 +1,31 @@
 {
-    "title": "Pancakes with blueberry sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ainsley_harriott": "Ainsley Harriott"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "icing",
+        "pancake",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the blueberry sauce": [
+            "4 tbsp red wine",
+            "4 tbsp sugar",
+            "2 cloves",
+            "pinch mixed spice",
+            "\u00bd punnet blueberries"
+        ],
         "default": [
             "100g/3\u00bdoz self-raising flour",
             "\u00bd tsp baking powder",
@@ -29,14 +34,13 @@
             "\u00bd punnet blueberries",
             "2 tbsp icing sugar",
             "25g/1oz butter"
-        ],
-        "For the blueberry sauce": [
-            "4 tbsp red wine",
-            "4 tbsp sugar",
-            "2 cloves",
-            "pinch mixed spice",
-            "\u00bd punnet blueberries"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Place in a bowl the self-raising flour, baking powder, eggs and milk. Mix together to form a thick batter.",
@@ -48,8 +52,9 @@
         "Put the sauce through a sieve and remove the cloves.",
         "To serve, place the stack of pancakes in the middle of the plate and drizzle with the blueberry sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pancakes with blueberry sauce",
     "videos": "[]"
 }

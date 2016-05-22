@@ -1,26 +1,29 @@
 {
-    "title": "Thai-style sea bass",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "",
+    "dishes": [
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "1 tbsp soy sauce",
+            "1 tsp sesame oil",
+            "1 tsp chilli, chopped",
+            "juice of 1 lime"
+        ],
         "default": [
             "1 tbsp olive oil",
             "1 sea bass fillet",
@@ -31,13 +34,13 @@
             "1 tbsp water",
             "150g/5oz spinach, washed and chopped",
             "salt and freshly ground black pepper"
-        ],
-        "For the dressing": [
-            "1 tbsp soy sauce",
-            "1 tsp sesame oil",
-            "1 tsp chilli, chopped",
-            "juice of 1 lime"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat one tbsp of olive oil in a frying pan. Add the sea bass and pan-fry, skin-side down, for 2-3 minutes. Turn the fillet over and cook for another minute, then set aside.",
@@ -46,8 +49,9 @@
         "To make the dressing, mix together the soy sauce, sesame oil, chopped chilli and lime juice.",
         "Serve the rice in the centre of a plate, top with the spinach and the sea bass fillet. Then pour over the dressing."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Thai-style sea bass",
     "videos": "[]"
 }

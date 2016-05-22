@@ -1,34 +1,27 @@
 {
-    "title": "Eggs Benedict",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "11",
-    "images": [
-        
-    ],
-    "description": "This is the perfect indulgent breakfast. Home-made hollandaise sauce is much easier to prepare than you may think and beats any kind of shop-bought variety hands down.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "This is the perfect indulgent breakfast. Home-made hollandaise sauce is much easier to prepare than you may think and beats any kind of shop-bought variety hands down.",
+    "dishes": [
+        "ham",
+        "muffins",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "6 free-range eggs, at room temperature",
-            "2 tbsp white wine vinegar",
-            "6 English muffins, halved",
-            "butter, for spreading",
-            "6 slices ham or smoked salmon",
-            "1-2 tbsp finely snipped fresh chives"
-        ],
         "For the hollandaise sauce": [
             "225g/8oz butter, cut into pieces",
             "4 tbsp white wine vinegar",
@@ -38,7 +31,21 @@
             "3 free-range egg yolks",
             "pinch sea salt flakes",
             "pinch caster sugar"
+        ],
+        "default": [
+            "6 free-range eggs, at room temperature",
+            "2 tbsp white wine vinegar",
+            "6 English muffins, halved",
+            "butter, for spreading",
+            "6 slices ham or smoked salmon",
+            "1-2 tbsp finely snipped fresh chives"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 6",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "Fill a small pan just over one third full with cold water and bring it to the boil. Add the vinegar and reduce to a simmer. Crack the eggs one at a time into a small bowl and gently tip into the simmering water. Poach for 2-3 minutes. Remove with a slotted spoon and plunge into iced water, then remove the eggs and place them on a kitchen towel.",
@@ -49,8 +56,9 @@
         "Spread the muffins with butter. Put a muffin half on each plate and top with ham or salmon. Using a slotted spoon, drop the cooked eggs in to the simmering water and reheat for one minute. Remove and drain on kitchen paper.",
         "Place an egg on each muffin and spoon over some hollandaise. Sprinkle with chives and serve with the other muffin halves on the side."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Eggs Benedict",
     "videos": "[]"
 }

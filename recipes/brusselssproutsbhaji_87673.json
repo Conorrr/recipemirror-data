@@ -1,26 +1,29 @@
 {
-    "title": "Brussels sprout bhajis",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bhaji",
+        "bread"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the yoghurt dressing": [
+            "250g/9fl oz plain yoghurt",
+            "2 tbsp finely chopped fresh mint",
+            "half lime, juice only",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "vegetable oil, to shallow fry and deep fry",
             "300g/10\u00bdoz gram flour (also sold as besan or chickpea flour)",
@@ -29,13 +32,13 @@
             "1 large onion, sliced",
             "200g/7oz Brussels sprouts, halved, boiled until al dente",
             "100g/3\u00bdoz fine green beans, boiled until al dente, finely chopped"
-        ],
-        "For the yoghurt dressing": [
-            "250g/9fl oz plain yoghurt",
-            "2 tbsp finely chopped fresh mint",
-            "half lime, juice only",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Half-fill a deep heavy-based pan with vegetable oil and heat until a breadcrumb sizzles and turns brown when dropped in it. (CAUTION: hot oil can be dangerous. Do not leave unattended.)",
@@ -48,8 +51,9 @@
         "For the yoghurt dressing, mix the yoghurt with mint and lime juice in a bowl. Season, to taste, with salt and freshly ground black pepper.",
         "To serve place the bhajis into a serving bowl with the yoghurt dressing alongside for dipping."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Brussels sprout bhajis",
     "videos": "[]"
 }

@@ -1,26 +1,29 @@
 {
-    "title": "Fluffy American pancakes",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "551",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fluffyamericanpancak_74828_16x9.jpg"
-    ],
-    "description": "These pancakes are light and fluffy and great for a weekend brunch. Try adding a large handful of fresh blueberries to the batter before cooking. Read our guide to supercharging your pancakes.",
     "author": {
         "louisa_carter": "Louisa Carter"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "For extra-fluffy pancakes substitute self-raising flour for plain flour and still use the baking powder. Serve the pancakes with fresh strawberries and good vanilla ice cream. Use half buckwheat flour and half plain flour and serve with maple syrup and bacon. You can also add one teaspoon of ground cinnamon to the buckwheat batter and serve with caramelised apple slices and thick double cream."
+    "cookTime": "less than 10 mins",
+    "cusine": "American",
+    "description": "These pancakes are light and fluffy and great for a weekend brunch. Try adding a large handful of fresh blueberries to the batter before cooking. Read our guide to supercharging your pancakes.",
+    "dishes": [
+        "caramel",
+        "oven-baked_dishes",
+        "pancake"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fluffyamericanpancak_74828_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "Maple syrup",
+            "Butter"
+        ],
         "default": [
             "135g/4\u00beoz plain flour",
             "1 tsp baking powder",
@@ -29,11 +32,13 @@
             "130ml/4\u00bdfl oz milk",
             "1 large egg, lightly beaten",
             "2 tbsp melted butter (allowed to cool slightly) or olive oil, plus extra for cooking"
-        ],
-        "To serve": [
-            "Maple syrup",
-            "Butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "551",
+    "serves": "Serves 4-6",
+    "show": {
+        
     },
     "steps": [
         "Sift the flour, baking powder, salt and caster sugar into a large bowl. In a separate bowl or jug, lightly whisk together the milk and egg, then whisk in the melted butter.",
@@ -42,8 +47,9 @@
         "Repeat until all the batter is used up. You can keep the pancakes warm in a low oven, but they taste best fresh out the pan.",
         "Serve with lashings of real maple syrup and extra butter if you like."
     ],
-    "howTos": [
-        
+    "tips": [
+        "For extra-fluffy pancakes substitute self-raising flour for plain flour and still use the baking powder. Serve the pancakes with fresh strawberries and good vanilla ice cream. Use half buckwheat flour and half plain flour and serve with maple syrup and bacon. You can also add one teaspoon of ground cinnamon to the buckwheat batter and serve with caramelised apple slices and thick double cream."
     ],
+    "title": "Fluffy American pancakes",
     "videos": "[]"
 }

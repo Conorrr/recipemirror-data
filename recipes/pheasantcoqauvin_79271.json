@@ -1,26 +1,30 @@
 {
-    "title": "Pheasant 'coq-au-vin'",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "coq_au_vin",
+        "jam",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "knob of butter",
+            "1 tbsp olive oil",
+            "handful chopped cavalo nero (black-leaf kale)"
+        ],
         "default": [
             "2 tbsp olive oil",
             "\u00bd banana shallot, peeled and sliced",
@@ -28,12 +32,13 @@
             "4 pheasant thighs",
             "100ml/3\u00bdfl oz red wine",
             "100ml/3\u00bdfl oz beef stock"
-        ],
-        "To serve": [
-            "knob of butter",
-            "1 tbsp olive oil",
-            "handful chopped cavalo nero (black-leaf kale)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        
     },
     "steps": [
         "Heat the oil in a large pan. Add the shallot and garlic and saut\u00e9 for 1-2 minutes, to soften.",
@@ -42,8 +47,9 @@
         "Meanwhile, heat the oil and butter in a separate pan. Add the cavalo nero and saut\u00e9 for a few minutes.",
         "To serve, transfer the pheasant and sauce to a warm dish and spoon the cavalo nero alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pheasant 'coq-au-vin'",
     "videos": "[]"
 }

@@ -1,26 +1,30 @@
 {
-    "title": "Stir-fried soy and honey pork with broccoli, chilli, lemon and goats' cheese",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the broccoli with chilli, lemon and goats' cheese": [
+            "large handful purple sprouting broccoli, cut into florets",
+            "55g/2oz hard goats' cheese, grated",
+            "\u00bd lemon, zest only",
+            "\u00bd tsp dried chilli flakes",
+            "salt and freshly ground black pepper"
+        ],
         "For the soy and honey pork": [
             "1 tbsp olive oil",
             "\u00bd onion, finely sliced",
@@ -29,14 +33,13 @@
             "2 tbsp soy sauce",
             "1 tbsp honey",
             "1 lime, zest and juice only"
-        ],
-        "For the broccoli with chilli, lemon and goats' cheese": [
-            "large handful purple sprouting broccoli, cut into florets",
-            "55g/2oz hard goats' cheese, grated",
-            "\u00bd lemon, zest only",
-            "\u00bd tsp dried chilli flakes",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the soy and honey pork, heat the olive oil in a frying pan and cook the onion for 2-3 minutes, or until softened. Add the garlic and fry for one minute, then add the pork and stir-fry until golden-brown all over.",
@@ -44,8 +47,9 @@
         "For the broccoli, place the broccoli into a pan of boiling salted water and cook for 3-4 minutes, or until tender. Drain well and stir into the pan with the pork, then add the grated goats' cheese, lemon zest, and chilli flakes. Season to taste with salt and freshly ground black pepper.",
         "Pile the stir-fried pork and broccoli onto a serving plate and serve."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Stir-fried soy and honey pork with broccoli, chilli, lemon and goats' cheese",
     "videos": "[]"
 }

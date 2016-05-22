@@ -1,24 +1,24 @@
 {
-    "title": "Dal saag",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "8",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/daalsaag_74848_16x9.jpg"
-    ],
-    "description": "A really simple, but really good daal recipe. Make a big batch and freeze any leftovers.",
     "author": {
         "merrilees_parker": "Merrilees Parker"
     },
-    "show": {
-        "p0077hpp": "Full on Food"
-    },
-    "tips": [
-        "To freeze: transfer to a freezerproof container and freeze for up to 3 months. Defrost thoroughly at room temperature, or in the fridge for 24 hours, then reheat until piping hot"
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "A really simple, but really good daal recipe. Make a big batch and freeze any leftovers.",
+    "dishes": [
+        "curry",
+        "dal",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/daalsaag_74848_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,14 +36,21 @@
             "2 spring onions, trimmed and chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 2",
+    "show": {
+        "p0077hpp": "Full on Food"
+    },
     "steps": [
         "Put the daal in a heavy-based saucepan, pour in 750ml/1pt 7fl oz water and bring to the boil. Reduce the heat then simmer for about one hour, or until the lentils are really soft.",
         "Heat the oil in a large pan. Add the mustard seeds, turmeric, cumin, asafoetida or fennel seeds, ginger, chillies and curry leaves and fry for 2-3 minutes.",
         "when the daal is cooked add to the pan and stir in the spinach and spring onions.",
         "Heat for a further two minutes, season, then serve."
     ],
-    "howTos": [
-        
+    "tips": [
+        "To freeze: transfer to a freezerproof container and freeze for up to 3 months. Defrost thoroughly at room temperature, or in the fridge for 24 hours, then reheat until piping hot"
     ],
+    "title": "Dal saag",
     "videos": "[]"
 }

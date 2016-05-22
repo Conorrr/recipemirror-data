@@ -1,24 +1,24 @@
 {
-    "title": "Strawberry fool",
-    "cookTime": "no cooking required",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 40",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This lovely summery dessert would work just as well with other seasonal soft fruits. Try raspberries, blackberries or stewed gooseberries.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b013y0nz": "Hairy Bikers' Meals on Wheels"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "British",
+    "description": "This lovely summery dessert would work just as well with other seasonal soft fruits. Try raspberries, blackberries or stewed gooseberries.",
+    "dishes": [
+        "fruit_fool",
+        "icing",
+        "stew",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,14 +29,21 @@
             "3 litres/3\u00bd pints plain yoghurt"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 40",
+    "show": {
+        "b013y0nz": "Hairy Bikers' Meals on Wheels"
+    },
     "steps": [
         "Place a third of the strawberries in a food processor with the icing sugar and blend to make a pur\u00e9e. You may have to do this in batches.",
         "Chop the remaining fruit and place in a large bowl, sprinkle over the caster sugar and set aside.",
         "Whip the cream in a very large bowl until soft peaks have formed then stir in the yoghurt, chopped strawberries and the pur\u00e9e.",
         "Spoon into large bowls and refrigerate until ready to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Strawberry fool",
     "videos": "[]"
 }

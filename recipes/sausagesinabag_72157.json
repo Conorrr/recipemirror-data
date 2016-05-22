@@ -1,26 +1,33 @@
 {
-    "title": "Sausages in a bag",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ed_baines": "Ed Baines"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "sauce",
+        "sausage"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "preparing_artichokes",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "2 tsp Dijon mustard",
+            "1 tbsp white wine vinegar",
+            "1 egg yolk",
+            "150ml/\u00bc pint olive oil"
+        ],
         "default": [
             "4 globe artichokes",
             "salt and freshly ground black pepper",
@@ -31,13 +38,13 @@
             "4 garlic cloves, sliced",
             "4 pinches of paprika",
             "275g/10oz runner beans"
-        ],
-        "For the dressing": [
-            "2 tsp Dijon mustard",
-            "1 tbsp white wine vinegar",
-            "1 egg yolk",
-            "150ml/\u00bc pint olive oil"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Using a bread knife in a clockwise direction, trim off the outside leaves of the artichokes.",
@@ -54,9 +61,9 @@
         "Whisk all the dressing ingredients together, then season to taste. Pour the dressing over the vegetables and toss to coat them evenly.",
         "Serve the sausages with the dressed beans and artichokes."
     ],
-    "howTos": [
-        "preparing_artichokes",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Sausages in a bag",
     "videos": "[]"
 }

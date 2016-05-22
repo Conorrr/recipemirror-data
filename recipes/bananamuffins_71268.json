@@ -1,26 +1,32 @@
 {
-    "title": "Banana muffins",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 10",
-    "recommendations": "107",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bananamuffins_71268_16x9.jpg"
-    ],
-    "description": "These moreish muffins make a healthy breakfast treat - perfect for weekend mornings.",
     "author": {
         "jill_dupleix": "Jill Dupleix"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "American",
+    "description": "These moreish muffins make a healthy breakfast treat - perfect for weekend mornings.",
+    "dishes": [
+        "caramel",
+        "muffins",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bananamuffins_71268_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "2 bananas, sliced",
+            "50g/2oz walnut kernels",
+            "2 tbsp cr\u00e8me fra\u00efche or yoghurt",
+            "2 tbsp runny honey"
+        ],
         "default": [
             "75g/3oz melted butter",
             "250g/9oz self-raising flour",
@@ -35,13 +41,13 @@
             "2 medium eggs",
             "125ml/4fl oz milk",
             "10 walnut kernels (optional)"
-        ],
-        "To serve": [
-            "2 bananas, sliced",
-            "50g/2oz walnut kernels",
-            "2 tbsp cr\u00e8me fra\u00efche or yoghurt",
-            "2 tbsp runny honey"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "107",
+    "serves": "Makes 10",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Heat the oven to 190C/375F/Gas 5. Melt the butter and allow to cool. Mash the bananas well. Sift the flour, baking powder, bicarbonate of soda, salt, cinnamon and nutmeg together in a large bowl, add caster sugar and stir through.",
@@ -51,8 +57,9 @@
         "Bake for 20 to 25 minutes or until the muffins come away from the side of the pan when touched. Rest the muffin tray on a wire rack for five minutes then remove the muffins and leave on the rack for another five minutes before serving.",
         "Serve the muffins with sliced banana and a dollop of creme fraiche, scattered with walnuts and drizzled with honey (or with Caramel yoghurt)."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Banana muffins",
     "videos": "[]"
 }

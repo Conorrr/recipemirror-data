@@ -1,26 +1,39 @@
 {
-    "title": "Peanut butter \u00e9clairs",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 12 \u00e9clairs",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Chocolate choux pastry filled with peanut butter cream and strawberry jam - a Franco-American fusion that's sure to make an impact. Equipment and preparation: for this recipe you will need, four piping bags, 15mm plain and star nozzle, a 5mm round nozzle, a 15mm wide ribbon nozzle and a cook's thermometer.",
     "author": {
         "luis": "Luis Troyano"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "To make this recipe vegetarian make sure the food colouring is suitable as not all brands are."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "Chocolate choux pastry filled with peanut butter cream and strawberry jam - a Franco-American fusion that's sure to make an impact. Equipment and preparation: for this recipe you will need, four piping bags, 15mm plain and star nozzle, a 5mm round nozzle, a 15mm wide ribbon nozzle and a cook's thermometer.",
+    "dishes": [
+        "caramel",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "making_choux_pastry",
+        "using_piping_bags"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chocolate choux pastry": [
+            "110g/4oz plain flour",
+            "40g/1\u00bdoz cocoa powder",
+            "4 large free-range eggs",
+            "50ml/2fl oz full-fat milk",
+            "100g/4oz unsalted butter, softened",
+            "\u00bc tsp fine sea salt"
+        ],
         "For the peanut butter cr\u00e8me p\u00e2tissi\u00e8re": [
             "1 medium egg, beaten",
             "3 medium egg yolks",
@@ -30,13 +43,9 @@
             "1 tsp good-quality vanilla paste",
             "100g/3\u00bdoz smooth peanut butter"
         ],
-        "For the chocolate choux pastry": [
-            "110g/4oz plain flour",
-            "40g/1\u00bdoz cocoa powder",
-            "4 large free-range eggs",
-            "50ml/2fl oz full-fat milk",
-            "100g/4oz unsalted butter, softened",
-            "\u00bc tsp fine sea salt"
+        "For the salted peanut brittle": [
+            "75g/2\u00bdoz caster sugar",
+            "75g/2\u00bdoz salted peanuts"
         ],
         "For the strawberry jam": [
             "150g/5oz strawberries, hulled",
@@ -44,15 +53,17 @@
             "150g/5oz jam sugar",
             "knob of unsalted butter"
         ],
-        "For the salted peanut brittle": [
-            "75g/2\u00bdoz caster sugar",
-            "75g/2\u00bdoz salted peanuts"
-        ],
         "For the topping": [
             "200g/7oz strawberries, hulled and thinly sliced",
             "250g/8oz readymade fondant icing",
             "red food colouring paste"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Makes 12 \u00e9clairs",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the cr\u00e8me p\u00e2tissi\u00e8re, place the eggs, egg yolks and sugar in a large bowl and whisk until pale and smooth. Add the cornflour and whisk until incorporated and smooth.",
@@ -74,9 +85,9 @@
         "Put the fondant in a large saucepan with four teaspoons of water and enough red food paste colouring to make it a deep red colour (you will only need a tiny amount). Gently heat until it reaches 38C/100F on a cook\u2019s thermometer, stirring all the time.",
         "Place the icing in a large piping bag fitted with a 15mm wide ribbon nozzle and pipe a line of fondant over the top of each \u00e9clair. Break the salted peanut brittle into small pieces using a rolling pin and scatter pieces on top of each \u00e9clair while the fondant is still wet."
     ],
-    "howTos": [
-        "making_choux_pastry",
-        "using_piping_bags"
+    "tips": [
+        "To make this recipe vegetarian make sure the food colouring is suitable as not all brands are."
     ],
+    "title": "Peanut butter \u00e9clairs",
     "videos": "[]"
 }

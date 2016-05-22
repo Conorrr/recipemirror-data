@@ -1,36 +1,39 @@
 {
-    "title": "Rosti potato wedges with soft poached eggs",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the poached eggs": [
+            "1 tsp white wine vinegar",
+            "2 free-range eggs"
+        ],
         "For the potato r\u00f6sti": [
             "1 large potato, peeled",
             "pinch salt",
             "30g/1oz butter",
             "1 tbsp olive oil"
-        ],
-        "For the poached eggs": [
-            "1 tsp white wine vinegar",
-            "2 free-range eggs"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the potato r\u00f6sti, grate the potato into a large bowl lined with a clean tea towel. Squeeze the tea towel to remove the excess liquid from the potato then season with the salt.",
@@ -39,8 +42,9 @@
         "Remove with a slotted spoon and repeat with the other egg.",
         "To serve, place the poached eggs on top of the r\u00f6sti potato wedges."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Rosti potato wedges with soft poached eggs",
     "videos": "[]"
 }

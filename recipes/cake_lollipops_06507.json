@@ -1,38 +1,43 @@
 {
-    "title": "Cake pops",
-    "cookTime": "no cooking required",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 6-8",
-    "recommendations": "12",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cake_lollipops_06507_16x9.jpg"
-    ],
-    "description": "These cute little cakes on a stick are really easy to make and delicious too!",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        "For a prettier finish, stick the lollipops into a piece of styrofoam to set."
+    "cookTime": "no cooking required",
+    "description": "These cute little cakes on a stick are really easy to make and delicious too!",
+    "dishes": [
+        "cake",
+        "crumble",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "melting_chocolate"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cake_lollipops_06507_16x9.jpg"
+    ],
     "ingredients": {
+        "To decorate": [
+            "300g/10\u00bdoz white chocolate",
+            "few drops food colouring",
+            "multi-coloured sugar ball sprinkles"
+        ],
         "default": [
             "100g/3\u00bdoz dark chocolate",
             "125g/4\u00bdoz fruit cake",
             "125g/4\u00bdoz Madeira cake",
             "2 tbsp desiccated coconut",
             "2 tbsp chopped hazelnuts"
-        ],
-        "To decorate": [
-            "300g/10\u00bdoz white chocolate",
-            "few drops food colouring",
-            "multi-coloured sugar ball sprinkles"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "12",
+    "serves": "Makes 6-8",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Melt the chocolate in a bowl set over a pan of simmering water. (Do not let the base of the bowl touch the water.)",
@@ -42,8 +47,9 @@
         "Line a baking tray with greaseproof paper. Sprinkle the sugar sprinkles onto a plate.",
         "Remove the balls from the fridge, dip them into the chocolate, then coat in the sugar sprinkles and place onto the baking tray. Set aside in the fridge for 20-30 minutes, or until the chocolate has set."
     ],
-    "howTos": [
-        "melting_chocolate"
+    "tips": [
+        "For a prettier finish, stick the lollipops into a piece of styrofoam to set."
     ],
+    "title": "Cake pops",
     "videos": "[]"
 }

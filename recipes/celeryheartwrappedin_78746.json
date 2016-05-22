@@ -1,23 +1,23 @@
 {
-    "title": "Celery heart wrapped in pork on spicy celery with smoked cheese sauce",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "phil_vickery": "Phil Vickery"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "roux",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -26,6 +26,14 @@
             "2 garlic cloves",
             "1 celery heart, ends removed and reserved",
             "1 pork fillet, bashed out with a mallet until thin"
+        ],
+        "For the cheese sauce": [
+            "20g/\u00beoz butter",
+            "20g/\u00beoz plain flour",
+            "\u00bd tsp mustard powder",
+            "300ml/\u00bdpt milk",
+            "100g/4oz smoked cheese, diced",
+            "small bunch chives, finely chopped"
         ],
         "For the spicy celery": [
             "1 tbsp olive oil",
@@ -37,15 +45,13 @@
             "3 garlic cloves, chopped",
             "4 dried apricots, diced",
             "2 tbsp parsley, chopped"
-        ],
-        "For the cheese sauce": [
-            "20g/\u00beoz butter",
-            "20g/\u00beoz plain flour",
-            "\u00bd tsp mustard powder",
-            "300ml/\u00bdpt milk",
-            "100g/4oz smoked cheese, diced",
-            "small bunch chives, finely chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the celery heart, bring the chicken stock to the boil and add the whole garlic cloves. Reduce to a simmer.",
@@ -58,8 +64,9 @@
         "Add the chives and stir though.",
         "To serve, place a bed of spicy celery on a plate, top with the pork-wrapped celery heart and spoon over the smoked cheese sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Celery heart wrapped in pork on spicy celery with smoked cheese sauce",
     "videos": "[]"
 }

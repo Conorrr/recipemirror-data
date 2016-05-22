@@ -1,24 +1,26 @@
 {
-    "title": "Moroccan lamb tagine",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "248",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/moroccanlambtagine_6696_16x9.jpg"
-    ],
-    "description": "This authentic tagine recipe will take you to slow-cooked perfection in six simple steps \u2013 just kick back with a glass of wine until it\u2019s ready.",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "Argan oil is a Moroccan oil from the argan tree. You should be able to find it in specialist food shops."
+    "cookTime": "over 2 hours",
+    "cusine": "Turkish_and_Middle_Eastern",
+    "description": "This authentic tagine recipe will take you to slow-cooked perfection in six simple steps \u2013 just kick back with a glass of wine until it\u2019s ready.",
+    "dishes": [
+        "casserole",
+        "lamb_tagine",
+        "oven-baked_dishes",
+        "slow-cooked_dishes",
+        "stock",
+        "tagine"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "de-glazing_pans"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/moroccanlambtagine_6696_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -47,6 +49,12 @@
             ""
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "248",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Place the cayenne, black pepper, paprika, ginger, turmeric and cinnamon into a small bowl and mix to combine. Place the lamb in a large bowl and toss together with half of the spice mix. Cover and leave overnight in the fridge.",
         "Preheat the oven to 150C/300F/Gas2.",
@@ -55,8 +63,9 @@
         "Add the remaining tomato juice, chopped tomatoes, apricots, dates, raisins or sultanas, flaked almonds, saffron, lamb stock and honey to the casserole dish. Bring to the boil, cover with a fitted lid, place in the oven and cook for 2-2\u00bd hours or until the meat is meltingly tender.",
         "Place the lamb in a tagine or large serving dish and sprinkle over the chopped herbs. Serve."
     ],
-    "howTos": [
-        "de-glazing_pans"
+    "tips": [
+        "Argan oil is a Moroccan oil from the argan tree. You should be able to find it in specialist food shops."
     ],
+    "title": "Moroccan lamb tagine",
     "videos": "[]"
 }

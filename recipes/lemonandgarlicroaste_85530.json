@@ -1,26 +1,30 @@
 {
-    "title": "Lemon and garlic-roasted chicken with cheesy butternut mash",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cheesy butternut mash": [
+            "150g/5\u00bdoz butternut squash, peeled and chopped into 1cm/\u00bdin cubes",
+            "2 smoked garlic cloves, peeled",
+            "200ml/7fl oz milk",
+            "salt and freshly ground black pepper",
+            "85g/3oz cheddar cheese, grated"
+        ],
         "For the lemon and garlic-roasted chicken": [
             "1 chicken breast",
             "1 garlic clove, chopped",
@@ -29,14 +33,13 @@
             "1 lemon, juice and zest only",
             "2 tbsp olive oil",
             "salt and freshly ground black pepper"
-        ],
-        "For the cheesy butternut mash": [
-            "150g/5\u00bdoz butternut squash, peeled and chopped into 1cm/\u00bdin cubes",
-            "2 smoked garlic cloves, peeled",
-            "200ml/7fl oz milk",
-            "salt and freshly ground black pepper",
-            "85g/3oz cheddar cheese, grated"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -47,8 +50,9 @@
         "Meanwhile, for the cheesy butternut mash, place the squash, garlic and milk into a large pan. Bring to the boil, reduce the heat and simmer for 10-12 minutes, or until the squash is tender. Mash with a potato masher, season well with salt and freshly ground black pepper and stir in the grated cheese.",
         "To serve, place the mash onto a plate, top with the chicken and pour over the chicken cooking juices."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Lemon and garlic-roasted chicken with cheesy butternut mash",
     "videos": "[]"
 }

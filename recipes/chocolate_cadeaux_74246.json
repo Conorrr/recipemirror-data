@@ -1,35 +1,44 @@
 {
-    "title": "Chocolate cadeaux",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Makes 8 chocolate cadeaux",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This is not for the faint-hearted. Only the most dedicated chocolate-lovers need apply for this tremendous multi-layered concoction. Equipment and preparation: You will need a set of 8 x 30mm/1\u00bcin cylindrical silicone moulds, 1 x 4.5cm/1\u00bein cutter and 1 x 6cm/2\u00bdin cutter, 8 x 20cm/8in long rainbow-shaped pieces of acetate, a set of free-standing cone moulds, 1 x 20cm/8in square piece of acetate, and a digital thermometer.",
     "author": {
         "william_curley": "William Curley"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "This is not for the faint-hearted. Only the most dedicated chocolate-lovers need apply for this tremendous multi-layered concoction. Equipment and preparation: You will need a set of 8 x 30mm/1\u00bcin cylindrical silicone moulds, 1 x 4.5cm/1\u00bein cutter and 1 x 6cm/2\u00bdin cutter, 8 x 20cm/8in long rainbow-shaped pieces of acetate, a set of free-standing cone moulds, 1 x 20cm/8in square piece of acetate, and a digital thermometer.",
+    "dishes": [
+        "compote",
+        "custard",
+        "meringue",
+        "mousse",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_temper_chocolate"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the rum-soaked sultanas": [
-            "150g/5\u00bdoz sultanas",
-            "125g/4oz dark rum"
-        ],
         "For the cr\u00e8me brul\u00e9e": [
             "250g/9oz whipping cream",
             "\u00bd vanilla pod, spilt lengthways and seeds scraped out",
             "60g/2oz free-range egg yolks",
             "50g/1\u00beoz caster sugar"
+        ],
+        "For the dark chocolate mousse": [
+            "75g/2\u00beoz milk",
+            "75g/2\u00beoz whipping cream",
+            "40g/1\u00bdoz egg yolks",
+            "20g/\u00beoz caster sugar",
+            "165g/6oz dark chocolate (at least 66% cocoa solids), finely chopped",
+            "200g/7oz whipping cream",
+            "cocoa powder, for dusting",
+            "gold leaf, for decorating (optional)"
         ],
         "For the flourless chocolate sponge": [
             "100g/3\u00bdoz free-range egg whites",
@@ -44,19 +53,19 @@
             "2g pectin",
             "2 oranges, peeled and segmented, all pith removed"
         ],
+        "For the rum-soaked sultanas": [
+            "150g/5\u00bdoz sultanas",
+            "125g/4oz dark rum"
+        ],
         "For the tempered chocolate decoration": [
             "500g/1lb 2oz dark chocolate (at least 60% cocoa solids), finely chopped"
-        ],
-        "For the dark chocolate mousse": [
-            "75g/2\u00beoz milk",
-            "75g/2\u00beoz whipping cream",
-            "40g/1\u00bdoz egg yolks",
-            "20g/\u00beoz caster sugar",
-            "165g/6oz dark chocolate (at least 66% cocoa solids), finely chopped",
-            "200g/7oz whipping cream",
-            "cocoa powder, for dusting",
-            "gold leaf, for decorating (optional)"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Makes 8 chocolate cadeaux",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the rum-soaked sultanas, wash the sultanas under warm running water to soften the skins, then place into a container with the dark rum and allow to soak for several hours or, ideally, overnight.",
@@ -89,8 +98,9 @@
         "Place one of the small chocolate sponge discs onto the top of the cr\u00e8me brulee and then top with a tablespoon of the marinated sultanas. Place another small spoon of chocolate mousse onto the sultanas and then place one of the larger chocolate sponges on top. Press gently to flatten with a small palette knife. Spread with a little more chocolate mousse and place into the fridge to set for 30 minutes",
         "To serve, carefully remove each chocolate cone from the mould and level the surface of the top. Dust the top with cocoa powder and then with a small palette knife move onto the serving plate. Carefully remove the acetate sheet and decorate with the chocolate flick and a garnish of gold leaf."
     ],
-    "howTos": [
-        "how_to_temper_chocolate"
+    "tips": [
+        
     ],
+    "title": "Chocolate cadeaux",
     "videos": "[]"
 }

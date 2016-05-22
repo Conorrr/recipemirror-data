@@ -1,34 +1,28 @@
 {
-    "title": "Beef empanadas",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 12",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "crumble",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "450g/1lb plain flour, plus extra for dusting",
-            "2 tsp baking powder",
-            "1 tsp salt",
-            "60g/2\u00bcoz butter",
-            "60g/2\u00bcoz lard or vegetable shortening",
-            "75-100ml/2\u00bd-3\u00bdfl oz chilled water"
-        ],
         "For the empanada filling": [
             "2 tbsp olive oil",
             "\u00bd beef stock cube, crumbled",
@@ -44,7 +38,21 @@
             "1 tsp salt",
             "\u00bd tsp ground black pepper",
             "1 beaten free-range egg, for brushing pastry"
+        ],
+        "For the pastry": [
+            "450g/1lb plain flour, plus extra for dusting",
+            "2 tsp baking powder",
+            "1 tsp salt",
+            "60g/2\u00bcoz butter",
+            "60g/2\u00bcoz lard or vegetable shortening",
+            "75-100ml/2\u00bd-3\u00bdfl oz chilled water"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Makes 12",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -57,8 +65,9 @@
         "Brush with egg and place on a greased baking sheet. Bake for 20 minutes, or until golden-brown.",
         "Serve either hot or cold as a snack or starter."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Beef empanadas",
     "videos": "[]"
 }

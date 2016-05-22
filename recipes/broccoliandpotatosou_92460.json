@@ -1,26 +1,30 @@
 {
-    "title": "Broccoli and potato soup with creamy pistou",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "maria_elia": "Maria Elia"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pistou": [
+            "1 handful fresh basil leaves",
+            "2 tbsp pine nuts, toasted",
+            "4 tbsp extra virgin olive oil",
+            "salt and freshly ground black pepper"
+        ],
         "For the soup": [
             "55g/2oz butter",
             "\u00bd onion, peeled, chopped",
@@ -29,17 +33,17 @@
             "400ml/14fl oz chicken or vegetable stock",
             "2 tbsp double cream"
         ],
-        "For the pistou": [
-            "1 handful fresh basil leaves",
-            "2 tbsp pine nuts, toasted",
-            "4 tbsp extra virgin olive oil",
-            "salt and freshly ground black pepper"
-        ],
         "To serve": [
             "1 tbsp double cream",
             "1 tbsp chopped fresh flatleaf parsley leaves",
             "1 tbsp chopped fresh chervil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the soup, heat the butter in a pan over a medium heat and gently fry the onion for 3-4 minutes, until softened.",
@@ -48,8 +52,9 @@
         "For the pistou, blend all the pistou ingredients in a food processor until smooth.",
         "Serve the soup in a bowl with the pistou and cream drizzled over the top. Garnish with the chopped parsley and chervil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Broccoli and potato soup with creamy pistou",
     "videos": "[]"
 }

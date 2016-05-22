@@ -1,35 +1,29 @@
 {
-    "title": "Chicken kebabs with romesco sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenskewerswithro_90192_16x9.jpg"
-    ],
-    "description": "Equipment and preparation: You'll need 4 wooden or metal skewers. If using wooden skewers, soak them for an hour first.",
     "author": {
         "sophie_grigson": "Sophie Grigson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Equipment and preparation: You'll need 4 wooden or metal skewers. If using wooden skewers, soak them for an hour first.",
+    "dishes": [
+        "bread",
+        "kebab",
+        "oven-baked_dishes",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "chopping_vegetables",
+        "de-skinning_hazelnuts"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenskewerswithro_90192_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "4 boned, skinned chicken breasts or 8 boned, skinned chicken thighs, cut into bite-sized pieces",
-            "2 garlic cloves",
-            "pinch of sea salt",
-            "1 lemon",
-            "freshly ground black pepper",
-            "2 tbsp extra virgin olive oil",
-            "12 spring onions"
-        ],
         "For the romesco-style sauce": [
             "2 fresh red peppers (you can substitute 90g/3oz skinned roasted red peppers from a jar)",
             "45g/\u00bdoz hazelnuts (you can substitute blanched hazelnuts)",
@@ -41,7 +35,22 @@
             "1 tsp cayenne pepper, or to taste",
             "1-2 tbsp red wine vinegar",
             "salt and freshly ground black pepper"
+        ],
+        "default": [
+            "4 boned, skinned chicken breasts or 8 boned, skinned chicken thighs, cut into bite-sized pieces",
+            "2 garlic cloves",
+            "pinch of sea salt",
+            "1 lemon",
+            "freshly ground black pepper",
+            "2 tbsp extra virgin olive oil",
+            "12 spring onions"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Place the chicken pieces in a clean bowl, then make the marinade. Crush the garlic to a paste with the flat edge of a knife blade, using a pinch of sea salt. Add the garlic paste to the bowl.",
@@ -59,9 +68,9 @@
         "Thread chunks of chicken, alternating with lengths of spring onion, onto skewers. Place skewers onto a grill rack and grill for 10-12 minutes, turning once, until chicken is cooked through (the juices will run clear when the meat is pierced in the thickest part with a skewer) and spring onions are patched with brown.",
         "Serve immediately with the romesco-style sauce on the side."
     ],
-    "howTos": [
-        "chopping_vegetables",
-        "de-skinning_hazelnuts"
+    "tips": [
+        
     ],
+    "title": "Chicken kebabs with romesco sauce",
     "videos": "[]"
 }

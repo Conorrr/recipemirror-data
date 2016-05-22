@@ -1,36 +1,25 @@
 {
-    "title": "Chelsea bunski",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 12",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Chelsea buns filled with ground poppy seeds and citrus give these buns an Eastern European flavour.",
     "author": {
         "brendan_lynch": "Brendan Lynch"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Chelsea buns filled with ground poppy seeds and citrus give these buns an Eastern European flavour.",
+    "dishes": [
+        "bun",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "Bun dough:",
-            "45g/1\u00bdoz fresh yeast",
-            "300-400ml/10-14fl oz lukewarm water",
-            "825g/1lb 13oz strong white flour",
-            "65g/2\u00bcoz caster sugar",
-            "\u00be tsp fine salt",
-            "160g/5\u00beoz butter",
-            "2 free-range eggs, whisked"
-        ],
         "For the bun filling:": [
             "270g/9\u00bdoz black poppy seeds",
             "500ml/18fl oz full-fat milk",
@@ -48,7 +37,23 @@
             "30g/1oz water",
             "30g/1oz full-fat milk",
             "60g/2\u00bcoz caster sugar"
+        ],
+        "default": [
+            "Bun dough:",
+            "45g/1\u00bdoz fresh yeast",
+            "300-400ml/10-14fl oz lukewarm water",
+            "825g/1lb 13oz strong white flour",
+            "65g/2\u00bcoz caster sugar",
+            "\u00be tsp fine salt",
+            "160g/5\u00beoz butter",
+            "2 free-range eggs, whisked"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Makes 12",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the bun dough, dissolve the yeast in 200ml/7fl oz of the lukewarm water.",
@@ -75,8 +80,9 @@
         "Remove the Chelsea buns from the oven and brush immediately with the bun wash.",
         "After five minutes, turn the buns out onto a cooling rack and separate each one. Allow the buns to cool a little then serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chelsea bunski",
     "videos": "[]"
 }

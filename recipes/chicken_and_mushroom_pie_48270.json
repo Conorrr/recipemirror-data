@@ -1,32 +1,29 @@
 {
-    "title": "Chicken and mushroom pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 40",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This tasty and filling pie recipe is specially designed for feeding a large group. You\u2019ll need large saucepans and five large pie dishes.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b013y0nz": "Hairy Bikers' Meals on Wheels"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "This tasty and filling pie recipe is specially designed for feeding a large group. You\u2019ll need large saucepans and five large pie dishes.",
+    "dishes": [
+        "bread",
+        "chicken_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "550g/1lb 4oz lard, plus extra for greasing",
-            "1.15kg/3lb 5oz plain flour, plus extra for dusting",
-            "1\u00bd tsp salt",
-            "300ml/\u00bd pint water"
-        ],
         "For the filling": [
             "300ml/\u00bd pint sunflower oil",
             "4kg/9lb chicken thighs, boned and skin removed, flesh cut into pieces",
@@ -36,7 +33,19 @@
             "500ml/18fl oz soured cream",
             "milk, to glaze",
             "salt and freshly ground black pepper"
+        ],
+        "For the pastry": [
+            "550g/1lb 4oz lard, plus extra for greasing",
+            "1.15kg/3lb 5oz plain flour, plus extra for dusting",
+            "1\u00bd tsp salt",
+            "300ml/\u00bd pint water"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "Serves 40",
+    "show": {
+        "b013y0nz": "Hairy Bikers' Meals on Wheels"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease five large pie dishes with lard. Add a small amount of flour, then turn the tin to coat the base and sides, shaking out any excess.",
@@ -49,8 +58,9 @@
         "Repeat with the remaining pastry.",
         "Bake the pies in the oven for 30-35 minutes, or until golden-brown."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken and mushroom pie",
     "videos": "[]"
 }

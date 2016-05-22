@@ -1,24 +1,25 @@
 {
-    "title": "Spicy Mexican bean soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4\u20136",
-    "recommendations": "12",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spicy_mexican_bean_soup_91809_16x9.jpg"
-    ],
-    "description": "This hearty, warming soup uses basic store cupboard ingredients and is cooked from scratch in the microwave. Add extra chilli powder for a spicy kick. This meal, if served as six portions, provides 94kcal, 4.5g protein, 13g carbohydrate (of which 7g sugars), 1g fat (of which 0.2g saturates), 6g fibre and 0.3g salt per portion.",
     "author": {
         "lets_get_cooking": "Let's Get Cooking"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Mexican",
+    "description": "This hearty, warming soup uses basic store cupboard ingredients and is cooked from scratch in the microwave. Add extra chilli powder for a spicy kick. This meal, if served as six portions, provides 94kcal, 4.5g protein, 13g carbohydrate (of which 7g sugars), 1g fat (of which 0.2g saturates), 6g fibre and 0.3g salt per portion.",
+    "dishes": [
+        "crumble",
+        "pie",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spicy_mexican_bean_soup_91809_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,6 +37,12 @@
             "ground black pepper (optional)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Serves 4\u20136",
+    "show": {
+        
+    },
     "steps": [
         "Peel the onion and chop into small pieces, then peel and press or finely chop the garlic (chop it as small as you can).",
         "Peel, top and tail the carrots (and the sweet potato if using) and chop into 1cm/\u00bdin chunks.",
@@ -49,8 +56,9 @@
         "Add the kidney beans to the soup and microwave on full power for three minutes, stirring after two minutes.",
         "Remove the soup from the microwave and allow to stand for one minute before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spicy Mexican bean soup",
     "videos": "[]"
 }

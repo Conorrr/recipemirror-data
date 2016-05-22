@@ -1,24 +1,22 @@
 {
-    "title": "Warm potato salad with asparagus and poached egg",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "richard_phillips": "Richard Phillips"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,6 +32,12 @@
             "1 free-range egg"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat one tablespoon of olive oil in a non-stick frying pan and gently fry the onion until soft but not coloured.",
         "Add the mustard and cream and simmer for 2-3 minutes. Season, to taste, with salt and freshly ground black pepper and whisk in the butter.",
@@ -42,8 +46,9 @@
         "Bring a saucepan of salted water to the boil and crack in the egg. Reduce to a simmer and poach the egg for four minutes. Remove from the pan with a slotted spoon and drain on kitchen paper.",
         "To serve, place the potato salad onto a plate and top with the asparagus and poached egg."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Warm potato salad with asparagus and poached egg",
     "videos": "[]"
 }

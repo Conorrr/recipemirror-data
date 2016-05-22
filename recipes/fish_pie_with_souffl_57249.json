@@ -1,26 +1,38 @@
 {
-    "title": "Fish pie with souffl\u00e9 crouton topping",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "60",
-    "images": [
-        
-    ],
-    "description": "A classic pie of fish in white sauce, topped with a simple bread and souffl\u00e9 style topping. Equipment: You will need a 1.5 litre/2\u00bd pint shallow, wide-based, ovenproof dish.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b03tdfw5": "Series 2"
-    },
-    "tips": [
-        "To skin the fish, place each one, skin-side down, on a chopping board. Using a large, sharp knife, make a small cut about 1cm/\u00bdin from the tail (or narrowest) end of the fillet. Cut through the flesh, but not through the tough skin. Now take the flap of skin firmly in one hand (a sprinkling of salt can help you grip the slippery fish). Angling the knife blade away at from you at 45 degrees, insert it into the small cut and work it gently from side to side, cutting the flesh away from the skin in one piece. Discard the skin. If the sauce is a little thick due to over-boiling, add a touch more milk to thin it down."
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "A classic pie of fish in white sauce, topped with a simple bread and souffl\u00e9 style topping. Equipment: You will need a 1.5 litre/2\u00bd pint shallow, wide-based, ovenproof dish.",
+    "dishes": [
+        "bread",
+        "fish_pie",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "sauce",
+        "souffle",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_fold_egg_whites_into_a_mixture"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the souffl\u00e9 topping": [
+            "1 small (400g/14oz) loaf white bread (about 2-3 days old)",
+            "50g/1\u00beoz full fat cream cheese",
+            "75g/2\u00bdoz butter",
+            "75g/2\u00bdoz mature cheddar, grated",
+            "1 large free-range egg white",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "50g/1\u00beoz butter, plus extra for greasing",
             "1 leek, thinly sliced or chopped",
@@ -31,15 +43,13 @@
             "350g/12oz fresh haddock, skinned and cut into evenly sized cubes",
             "350g/12oz undyed smoked haddock, skinned and cut into evenly sized cubes",
             "3 hard-boiled eggs, each cut into 4 or 8 wedges"
-        ],
-        "For the souffl\u00e9 topping": [
-            "1 small (400g/14oz) loaf white bread (about 2-3 days old)",
-            "50g/1\u00beoz full fat cream cheese",
-            "75g/2\u00bdoz butter",
-            "75g/2\u00bdoz mature cheddar, grated",
-            "1 large free-range egg white",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "60",
+    "serves": "Serves 8",
+    "show": {
+        "b03tdfw5": "Series 2"
     },
     "steps": [
         "Grease a 1.5 litre/2\u00bd pint shallow wide-based ovenproof dish with butter.",
@@ -53,8 +63,9 @@
         "Bake in the oven for 25-30 minutes until golden-brown and bubbling. If it is getting too brown cover it with foil and continue to bake.",
         "Leave to stand for five minutes then serve with salad or green vegetables."
     ],
-    "howTos": [
-        "how_to_fold_egg_whites_into_a_mixture"
+    "tips": [
+        "To skin the fish, place each one, skin-side down, on a chopping board. Using a large, sharp knife, make a small cut about 1cm/\u00bdin from the tail (or narrowest) end of the fillet. Cut through the flesh, but not through the tough skin. Now take the flap of skin firmly in one hand (a sprinkling of salt can help you grip the slippery fish). Angling the knife blade away at from you at 45 degrees, insert it into the small cut and work it gently from side to side, cutting the flesh away from the skin in one piece. Discard the skin. If the sauce is a little thick due to over-boiling, add a touch more milk to thin it down."
     ],
+    "title": "Fish pie with souffl\u00e9 crouton topping",
     "videos": "[p01q8146:p01q8148]"
 }

@@ -1,42 +1,45 @@
 {
-    "title": "Singapore sling",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/singapore_sling_91100_16x9.jpg"
-    ],
-    "description": "Try our recipe for a classic Singapore sling using gin, cherry heering and ginger ale.",
     "author": {
         "wayne_collins": "Wayne Collins"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Try our recipe for a classic Singapore sling using gin, cherry heering and ginger ale.",
+    "dishes": [
+        "gin_cocktail"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/singapore_sling_91100_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "slice lime peel"
+        ],
         "default": [
             "25ml/1fl oz gin",
             "25ml/1fl oz cherry heering (available from online retailers)",
             "1 tsp benedictine liqueur",
             "ginger ale, to top up"
-        ],
-        "To serve": [
-            "slice lime peel"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Pour the ingredients into a tall glass and top up with ginger ale.",
         "Garnish with a lime peel and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Singapore sling",
     "videos": "[]"
 }

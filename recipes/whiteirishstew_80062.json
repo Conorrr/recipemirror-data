@@ -1,23 +1,22 @@
 {
-    "title": "White Irish stew",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "The essence of Irish stew is to use readily available seasonal ingredients. Traditionally it was a white stew of lamb, potatoes and very little else. This is our take on it. Use the best ingredients you can find - it will be worth it.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b0070tcb": "The Hairy Bikers"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Irish",
+    "description": "The essence of Irish stew is to use readily available seasonal ingredients. Traditionally it was a white stew of lamb, potatoes and very little else. This is our take on it. Use the best ingredients you can find - it will be worth it.",
+    "dishes": [
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -33,6 +32,12 @@
             "chopped parsley, optional"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 4",
+    "show": {
+        "b0070tcb": "The Hairy Bikers"
+    },
     "steps": [
         "Melt butter with the oil in a large heavy-bottomed pan with a tight-fitting lid.",
         "Add the onions and garlic and sweat them gently, slowly teasing the flavours out - 15 minutes or so over a low heat should do it.",
@@ -47,8 +52,9 @@
         "If you like, add some parsley 10 minutes before the stew is ready.",
         "Remove the stew from the heat and leave to rest for about 10 minutes before serving, then taste and adjust seasoning as necessary."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "White Irish stew",
     "videos": "[]"
 }

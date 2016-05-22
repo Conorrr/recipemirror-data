@@ -1,26 +1,33 @@
 {
-    "title": "Beer braised shin of beef with creamy mash",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beer_braised_shin_of_12682_16x9.jpg"
-    ],
-    "description": "For a proper Sunday lunch that won't break the bank try this beef shin stew. Serve with some creamy mash for a mouthwatering meal. Try the Eat Well for Less quiz to find out how you could cut your food bills.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "For a proper Sunday lunch that won't break the bank try this beef shin stew. Serve with some creamy mash for a mouthwatering meal. Try the Eat Well for Less quiz to find out how you could cut your food bills.",
+    "dishes": [
+        "beef_stew",
+        "casserole",
+        "oven-baked_dishes",
+        "pie",
+        "stew",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "de-glazing_pans"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beer_braised_shin_of_12682_16x9.jpg"
+    ],
     "ingredients": {
+        "For the mashed potato": [
+            "1kg/2lb 4oz floury potatoes, such as King Edward or Maris Piper, cut into 4cm/1\u00bdin cubes",
+            "150g/5\u00bdoz salted butter",
+            "splash milk or cream, to taste"
+        ],
         "default": [
             "6 tbsp rapeseed oil",
             "2 large onions, thinly sliced",
@@ -33,12 +40,13 @@
             "300ml/\u00bd pint beef stock",
             "3-4 sprigs rosemary",
             "salt and freshly ground black pepper"
-        ],
-        "For the mashed potato": [
-            "1kg/2lb 4oz floury potatoes, such as King Edward or Maris Piper, cut into 4cm/1\u00bdin cubes",
-            "150g/5\u00bdoz salted butter",
-            "splash milk or cream, to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 160C/140C Fan/Gas 3.",
@@ -48,8 +56,9 @@
         "Meanwhile, bring a pot of lightly salted water to the boil and add the potatoes. Cook for 15-20 minutes until tender. Drain and return to the pot. Mash until smooth. Mix in the butter and milk. Season to taste with salt and pepper.",
         "Serve the braised shin with the mash."
     ],
-    "howTos": [
-        "de-glazing_pans"
+    "tips": [
+        
     ],
+    "title": "Beer braised shin of beef with creamy mash",
     "videos": "[]"
 }

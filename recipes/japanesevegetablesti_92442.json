@@ -1,32 +1,24 @@
 {
-    "title": "Japanese vegetable stir-fried noodles (Yasai yaki soba)",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "7",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/japanesevegetablesti_92442_16x9.jpg"
-    ],
-    "description": "Teriyaki and yellow bean sauce add depth to this healthy - and super easy - stir fry.",
     "author": {
         "gizzi_erskine": "Gizzi Erskine"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Teriyaki and yellow bean sauce add depth to this healthy - and super easy - stir fry.",
+    "dishes": [
+        "sauce",
+        "stir-fries",
+        "teriyaki"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/japanesevegetablesti_92442_16x9.jpg"
+    ],
     "ingredients": {
-        "For the yaki soba dressing": [
-            "100ml/3\u00bdfl oz ready-made teriyaki sauce",
-            "4\u00bd tbsp ready-made crushed yellow bean sauce",
-            "1 lemongrass stalk, tough outer leaves removed, soft inner core crushed and finely sliced",
-            "1 tbsp freshly grated root ginger"
-        ],
         "For the noodles": [
             "200g/7oz soba noodles",
             "2 free-range eggs, beaten",
@@ -40,7 +32,19 @@
             "4 tbsp ready-made teriyaki sauce",
             "3 tbsp vegetable oil",
             "\u00bd tsp sesame seeds, to serve (optional)"
+        ],
+        "For the yaki soba dressing": [
+            "100ml/3\u00bdfl oz ready-made teriyaki sauce",
+            "4\u00bd tbsp ready-made crushed yellow bean sauce",
+            "1 lemongrass stalk, tough outer leaves removed, soft inner core crushed and finely sliced",
+            "1 tbsp freshly grated root ginger"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 2",
+    "show": {
+        
     },
     "steps": [
         "For the yaki soba dressing, bring the teriyaki sauce, yellow bean sauce, lemongrass and ginger to the boil in a small pan, stirring well.",
@@ -50,8 +54,9 @@
         "Heat the oil in a wok over a medium heat. Add the egg and vegetable mixture and the cooked, cold noodles, and stir-fry for 3-4 minutes, or until the noodles have warmed through and the eggs and vegetables are cooked through.",
         "To serve, divide the vegetables and noodles equally between two serving bowls. Drizzle over the yaki soba dressing. Sprinkle over the sesame seeds, if using."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Japanese vegetable stir-fried noodles (Yasai yaki soba)",
     "videos": "[]"
 }

@@ -1,26 +1,31 @@
 {
-    "title": "Blackberry-filled brandy snaps",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "icing",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "using_piping_bags"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the filling": [
+            "200ml/7fl oz double cream",
+            "1 vanilla pod, split, seeds scraped out",
+            "75g/3oz icing sugar",
+            "25ml/1fl oz Kirsch",
+            "200g/7oz blackberries"
+        ],
         "default": [
             "3 tbsp golden syrup",
             "50g/2oz molasses sugar",
@@ -28,14 +33,13 @@
             "40g/1\u00bdoz plain flour, sifted",
             "\u00be tsp ground ginger",
             "1 tsp brandy"
-        ],
-        "For the filling": [
-            "200ml/7fl oz double cream",
-            "1 vanilla pod, split, seeds scraped out",
-            "75g/3oz icing sugar",
-            "25ml/1fl oz Kirsch",
-            "200g/7oz blackberries"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/365F/Gas 4.",
@@ -49,8 +53,9 @@
         "Spoon the blackberry cream into a piping bag, then pipe into each brandy snap to fill up.",
         "Place a blackberry at the end of each brandy snap opening and serve on plates with a spoonful of blackberries alongside."
     ],
-    "howTos": [
-        "using_piping_bags"
+    "tips": [
+        
     ],
+    "title": "Blackberry-filled brandy snaps",
     "videos": "[]"
 }

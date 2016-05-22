@@ -1,33 +1,36 @@
 {
-    "title": "G\u00e2teau St Honor\u00e9",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 10",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "A showstopper choux pastry g\u00e2teau topped with chocolate curls. The different elements can be made in stages as choux pastry freezes well. Equipment and preparation: for this recipe you will need piping bags and one large and one medium round nozzle.",
     "author": {
         "brendan_lynch": "Brendan Lynch"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "French",
+    "description": "A showstopper choux pastry g\u00e2teau topped with chocolate curls. The different elements can be made in stages as choux pastry freezes well. Equipment and preparation: for this recipe you will need piping bags and one large and one medium round nozzle.",
+    "dishes": [
+        "bread",
+        "bun",
+        "caramel",
+        "choux_pastry",
+        "gateau",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "making_choux_pastry",
+        "using_piping_bags",
+        "whipping_cream"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            
-        ],
-        "For the rough puff pastry": [
-            "250g/9oz strong plain flour",
-            "1 tsp fine salt",
-            "250g/9oz butter, diced"
+        "For the caramel": [
+            "200g/7oz caster sugar"
         ],
         "For the choux pastry": [
             "125ml/4fl oz whole milk",
@@ -38,13 +41,6 @@
             "4 large free-range eggs",
             "1 free-range egg, beaten, for egg wash"
         ],
-        "For the cr\u00e8me p\u00e2tissi\u00e8re": [
-            "9 free-range eggs, yolks only",
-            "180g/6\u00bcoz caster sugar",
-            "60g/2\u00bcoz plain flour",
-            "750ml/25fl oz whole milk",
-            "1\u00bc tsp vanilla paste"
-        ],
         "For the cr\u00e8me Chantilly": [
             "150g/5\u00bdoz dark chocolate (approximately 60% solids), broken into pieces",
             "150ml/5\u00bdfl oz whipping cream, cold",
@@ -52,12 +48,30 @@
             "60g/2\u00bcoz icing sugar",
             "1 tsp vanilla extract"
         ],
-        "For the caramel": [
-            "200g/7oz caster sugar"
+        "For the cr\u00e8me p\u00e2tissi\u00e8re": [
+            "9 free-range eggs, yolks only",
+            "180g/6\u00bcoz caster sugar",
+            "60g/2\u00bcoz plain flour",
+            "750ml/25fl oz whole milk",
+            "1\u00bc tsp vanilla paste"
+        ],
+        "For the rough puff pastry": [
+            "250g/9oz strong plain flour",
+            "1 tsp fine salt",
+            "250g/9oz butter, diced"
         ],
         "To decorate": [
             "200g/7oz dark chocolate (approximately 60% solids)"
+        ],
+        "default": [
+            
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "3",
+    "serves": "Serves 10",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the rough puff pastry, sift the flour and salt into a large bowl. Rub the butter into the flour using your fingers until you have small lumps of butter remaining (stop before it starts to look like breadcrumbs as you want squashed pieces of butter showing in the mix). Add 150ml/5fl oz water, or enough to bring the mix together (you may not need all the water).",
@@ -74,10 +88,9 @@
         "Line a baking tray with parchment paper. Carefully dip each choux into the caramel and transfer to the baking tray, caramel-side down. When the caramel has cooled and set, attach the choux buns round the outside of the choux ring using the caramel (heat it a little to soften if you need to). Leave a 1\u00bdcm/\u00bdin space between each choux.",
         "To decorate, make chocolate curls by scraping a vegetable peeler down the edge of the block of chocolate. Pipe cr\u00e8me Chantilly between each choux and place a chocolate curl on top."
     ],
-    "howTos": [
-        "making_choux_pastry",
-        "using_piping_bags",
-        "whipping_cream"
+    "tips": [
+        
     ],
+    "title": "G\u00e2teau St Honor\u00e9",
     "videos": "[]"
 }

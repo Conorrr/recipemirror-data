@@ -1,24 +1,23 @@
 {
-    "title": "Almond-rolled goats' cheese",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "10",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/almondrolledgoatsche_86765_16x9.jpg"
-    ],
-    "description": "Watercress comes into season in April, when its peppery flavour will work in contrast to the rich goats\u2019 cheese.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Watercress comes into season in April, when its peppery flavour will work in contrast to the rich goats\u2019 cheese.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/almondrolledgoatsche_86765_16x9.jpg"
     ],
     "ingredients": {
         "For the beetroot": [
@@ -27,12 +26,6 @@
             "75ml/3fl oz olive oil",
             "1 tbsp balsamic vinegar"
         ],
-        "For the goats' cheese": [
-            "vegetable oil, for deep frying",
-            "200g/7oz soft goats' cheese",
-            "75g/3oz plain flour",
-            "200g/7oz flaked almonds"
-        ],
         "For the dressing": [
             "200g/7oz fresh basil leaves",
             "75g/3oz smoked almonds",
@@ -40,7 +33,19 @@
             "100g/3\u00bdoz parmesan cheese, or similar vegetarian hard cheese",
             "100ml/3\u00bdfl oz olive oil",
             "small handful watercress, to serve"
+        ],
+        "For the goats' cheese": [
+            "vegetable oil, for deep frying",
+            "200g/7oz soft goats' cheese",
+            "75g/3oz plain flour",
+            "200g/7oz flaked almonds"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -54,8 +59,9 @@
         "For the dressing, place the basil, smoked almonds, garlic, parmesan and olive oil into a food processor and blend until smooth.",
         "To serve, place a small amount of watercress onto each plate and place a piece of deep fried goats' cheese on top. Place a few cubes of beetroot around the cheese and spoon over a little of the dressing."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Almond-rolled goats' cheese",
     "videos": "[]"
 }

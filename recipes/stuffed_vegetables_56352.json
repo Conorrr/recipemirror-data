@@ -1,24 +1,25 @@
 {
-    "title": "Stuffed vegetables",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8-10",
-    "recommendations": "7",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/stuffed_vegetables_56352_16x9.jpg"
-    ],
-    "description": "When we were filming in Greece, stuffed vegetables was our favourite dish. It all stemmed from a brief lunch stop at the little fishing village of Astakos, where we asked what was for lunch at the first quayside caf\u00e9 we came to. They said stuffed tomatoes and peppers, which had just come out of the oven. Straight from the oven when you are ravenously hungry is perfect. This meal, if served as 10 portions, provides 249kcal, 5g protein, 39g carbohydrate (of which 6g sugars), 7.5g fat (of which 1.5g saturates), 4g fibre and 0.2g salt per portion.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b0667qf6": "Rick Stein: From Venice to Istanbul"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Greek",
+    "description": "When we were filming in Greece, stuffed vegetables was our favourite dish. It all stemmed from a brief lunch stop at the little fishing village of Astakos, where we asked what was for lunch at the first quayside caf\u00e9 we came to. They said stuffed tomatoes and peppers, which had just come out of the oven. Straight from the oven when you are ravenously hungry is perfect. This meal, if served as 10 portions, provides 249kcal, 5g protein, 39g carbohydrate (of which 6g sugars), 7.5g fat (of which 1.5g saturates), 4g fibre and 0.2g salt per portion.",
+    "dishes": [
+        "oven-baked_dishes",
+        "stir-fries",
+        "stock",
+        "stuffed_pepper",
+        "stuffing"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/stuffed_vegetables_56352_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -42,6 +43,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 8-10",
+    "show": {
+        "b0667qf6": "Rick Stein: From Venice to Istanbul"
+    },
     "steps": [
         "Preheat the oven to 160C/140C Fan/Gas 3.",
         "Start by preparing the vegetables for stuffing. Cut the tops off the peppers and tomatoes to create lids, set the tops aside. Scoop out the pepper seeds and discard. Scoop out the tomato flesh and seeds and reserve. Cut the aubergines and courgettes lengthways and scoop out the seeds and flesh inside, leaving a boat-shaped shell ready to fill. Add the flesh from the courgettes and aubergines to the tomato flesh and seeds and chop well.",
@@ -51,8 +58,9 @@
         "Pour the remaining stock into the tin, cover with foil and bake for 1 hour. Remove the foil and bake for another 15\u201330 minutes until the vegetables and rice are cooked.",
         "Serve hot, warm or cold."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Stuffed vegetables",
     "videos": "[]"
 }

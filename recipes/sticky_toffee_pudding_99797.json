@@ -1,26 +1,34 @@
 {
-    "title": "Sticky toffee pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "Puddings don\u2019t get more gloriously indulgent than this one. I love the fact that this Cumbrian classic is not just about sweetness: there are lots of rich and nutty flavours in there too, making it the perfect pud after Sunday lunch on a cold winter\u2019s day.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b03hcv64": "Paul Hollywood's Pies & Puds"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Puddings don\u2019t get more gloriously indulgent than this one. I love the fact that this Cumbrian classic is not just about sweetness: there are lots of rich and nutty flavours in there too, making it the perfect pud after Sunday lunch on a cold winter\u2019s day.",
+    "dishes": [
+        "fudge",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "sticky_toffee_pudding",
+        "stir-fries",
+        "toffee"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "creaming"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sticky toffee sauce": [
+            "100g/3\u00bdoz unsalted butter, cut into chunks",
+            "150g/5\u00bdoz soft dark brown sugar",
+            "150ml/5fl oz double cream"
+        ],
         "default": [
             "175g/6oz stoned dates, chopped",
             "1 tsp bicarbonate of soda",
@@ -32,12 +40,13 @@
             "2 tbsp fudge pieces",
             "75g/2\u00bdoz macadamia nuts, coarsely chopped",
             "ice cream or cream, to serve"
-        ],
-        "For the sticky toffee sauce": [
-            "100g/3\u00bdoz unsalted butter, cut into chunks",
-            "150g/5\u00bdoz soft dark brown sugar",
-            "150ml/5fl oz double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 6-8",
+    "show": {
+        "b03hcv64": "Paul Hollywood's Pies & Puds"
     },
     "steps": [
         "Preheat your oven to 180C/350F/Gas 4 and butter a 24x26cm/9\u00bdx10\u00bdin baking tin, 4-5cm/1\u00bd-2in deep.",
@@ -48,8 +57,9 @@
         "Preheat your grill to high. Make holes all over the cooked pudding with a skewer. Pour half of the sauce over the pudding and place under the hot grill. Grill for 2-3 minutes, or until the sauce is bubbling. Keep your eye on it as it can burn easily.",
         "Cut the hot pudding into portions and serve with the remaining warm toffee sauce, sprinkled with the remaining chopped nuts, and ice cream or cream."
     ],
-    "howTos": [
-        "creaming"
+    "tips": [
+        
     ],
+    "title": "Sticky toffee pudding",
     "videos": "[]"
 }

@@ -1,23 +1,23 @@
 {
-    "title": "Chicken chow mein",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gordon_jones": "Gordon Jones"
     },
-    "show": {
-        "b00mb9r7": "Virgin Cooks"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Chinese",
+    "description": "",
+    "dishes": [
+        "bun",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -47,6 +47,12 @@
             "freshly ground black pepper, to taste"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b00mb9r7": "Virgin Cooks"
+    },
     "steps": [
         "Place the chicken strips into a bowl and season with the salt and Chinese five-spice powder.",
         "In a small bowl, mix together the chopped chilli, grated ginger and chopped garlic. Add about a fifth of this mixture to the chicken and mix well, then set the chicken aside to marinate for a few minutes.",
@@ -58,8 +64,9 @@
         "Add the light soy sauce, one tablespoon of sake, the remaining nam pla and the cornflour. Mix well to combine, then add to the wok and cook for one minute, or until the liquid has thickened slightly.",
         "To serve, season the chow mein with freshly ground black pepper and divide among four serving plates. Garnish with the fresh coriander leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken chow mein",
     "videos": "[]"
 }

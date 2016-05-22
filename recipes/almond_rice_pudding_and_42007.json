@@ -1,34 +1,26 @@
 {
-    "title": "Almond rice pudding and cherry comp\u00f4te",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/almond_rice_pudding_and_42007_16x9.jpg"
-    ],
-    "description": "This is a traditional Scandinavian recipe, often served as part of a Christmas feast \u2013 a whole almond is hidden in the pudding and whoever finds it, gets an extra present. Top with a cherry comp\u00f4te to make it extra special.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b069hr3q": "The Hairy Bikers' Northern Exposure"
-    },
-    "tips": [
-        "In Scandinavia this dish is traditionally served cold. Let it cool to room temperature before putting it in the fridge. When you are ready to serve, lightly whisk the cream until it is at the soft peak stage and stir it into the rice pudding."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Nordic",
+    "description": "This is a traditional Scandinavian recipe, often served as part of a Christmas feast \u2013 a whole almond is hidden in the pudding and whoever finds it, gets an extra present. Top with a cherry comp\u00f4te to make it extra special.",
+    "dishes": [
+        "compote",
+        "rice_pudding",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/almond_rice_pudding_and_42007_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "1\u00bd litres/2\u00bd pints whole milk",
-            "300g/10\u00bdoz short grain or pudding rice",
-            "15g/\u00bdoz butter",
-            "3 tbsp caster sugar",
-            "1 vanilla pod, split",
-            "100g/3\u00bdoz blanched almonds, finely chopped"
-        ],
         "For the cherry comp\u00f4te": [
             "500g/1lb 2oz cherries, pitted",
             "100g/3\u00bdoz caster sugar",
@@ -38,15 +30,30 @@
         ],
         "To serve": [
             "100ml/3\u00bdfl oz double cream, whipped"
+        ],
+        "default": [
+            "1\u00bd litres/2\u00bd pints whole milk",
+            "300g/10\u00bdoz short grain or pudding rice",
+            "15g/\u00bdoz butter",
+            "3 tbsp caster sugar",
+            "1 vanilla pod, split",
+            "100g/3\u00bdoz blanched almonds, finely chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b069hr3q": "The Hairy Bikers' Northern Exposure"
     },
     "steps": [
         "Put the milk, rice, butter, caster sugar and vanilla pod into a large saucepan. Heat it very slowly, until almost at boiling point, then turn it down. Cook for around 30 minutes on a very low heat, stirring frequently to make sure it does not stick to the bottom.",
         "Meanwhile, make the cherry comp\u00f4te. Put the cherries in a saucepan with the caster sugar, lemon juice and 300ml/10 fl oz water. Heat slowly, stirring constantly, until the sugar has dissolved, then simmer for around 10 minutes until the cherries are slightly softened. Mix the arrowroot with a little water and stir until smooth. Add to the cherries as they are simmering and stir until the sauce has slightly thickened. Add the kirsch, if using.",
         "Stir the almonds into the pudding. Serve the pudding with a dollop of whipped cream and a large spoonful of the cherry comp\u00f4te."
     ],
-    "howTos": [
-        
+    "tips": [
+        "In Scandinavia this dish is traditionally served cold. Let it cool to room temperature before putting it in the fridge. When you are ready to serve, lightly whisk the cream until it is at the soft peak stage and stir it into the rice pudding."
     ],
+    "title": "Almond rice pudding and cherry comp\u00f4te",
     "videos": "[]"
 }

@@ -1,26 +1,33 @@
 {
-    "title": "Country vegetable soup with basil pistou",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/countryvegetablesoup_90195_16x9.jpg"
-    ],
-    "description": "When served without bread, this simple soup recipe is gluten and nut-free.",
     "author": {
         "mike_robinson": "Mike Robinson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "When served without bread, this simple soup recipe is gluten and nut-free.",
+    "dishes": [
+        "bread",
+        "bun",
+        "pie",
+        "sauce",
+        "soup",
+        "vegetable_soup"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/countryvegetablesoup_90195_16x9.jpg"
+    ],
     "ingredients": {
+        "For the pistou": [
+            "large bunch fresh basil leaves",
+            "100g/3\u00bdoz parmesan",
+            "100ml/3\u00bdfl oz good-quality olive oil, plus extra for drizzling",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "2 stalks celery",
             "2 carrots",
@@ -32,13 +39,13 @@
             "2 litres/3 pints 10fl oz water",
             "salt and freshly ground black pepper",
             "200g/7oz canned haricot beans, rinsed and drained"
-        ],
-        "For the pistou": [
-            "large bunch fresh basil leaves",
-            "100g/3\u00bdoz parmesan",
-            "100ml/3\u00bdfl oz good-quality olive oil, plus extra for drizzling",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 6",
+    "show": {
+        
     },
     "steps": [
         "Chop the celery and carrots into small dice.",
@@ -53,8 +60,9 @@
         "Cook until the vegetables are tender and the beans are heated through.",
         "To serve, ladle the soup into bowls and swirl a spoonful or two of the pistou into each. Drizzle over some olive oil and serve with some good bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Country vegetable soup with basil pistou",
     "videos": "[]"
 }

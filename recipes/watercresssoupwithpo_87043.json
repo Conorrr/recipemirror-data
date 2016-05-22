@@ -1,36 +1,42 @@
 {
-    "title": "Watercress soup with poached egg",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "jam",
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the poached egg": [
+            "1 free-range egg"
+        ],
         "For the soup": [
             "1 tbsp olive oil, plus 1 tsp extra, to serve",
             "\u00bd onion, finely sliced",
             "1 bunch watercress",
             "1 garlic clove, chopped",
             "150ml/\u00bc pint vegetable stock"
-        ],
-        "For the poached egg": [
-            "1 free-range egg"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat the tablespoon of olive oil in a saucepan and add the onion. Cook the onion until soft but not coloured.",
@@ -41,8 +47,9 @@
         "Carefully lift the poached egg out of the water with a slotted spoon and float in the centre of the soup.",
         "To serve, drizzle the soup with the extra one teaspoon of olive oil and serve immediately."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Watercress soup with poached egg",
     "videos": "[]"
 }

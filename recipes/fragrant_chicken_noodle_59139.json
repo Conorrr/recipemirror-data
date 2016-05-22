@@ -1,26 +1,38 @@
 {
-    "title": "Fragrant chicken noodle soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "16",
-    "images": [
-        
-    ],
-    "description": "Here\u2019s something to get the tastebuds tingling. Make the most of aromatic herbs for a delicious chicken soup.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Here\u2019s something to get the tastebuds tingling. Make the most of aromatic herbs for a delicious chicken soup.",
+    "dishes": [
+        "bun",
+        "chicken_soup",
+        "pie",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chicken balls": [
+            "250g/9oz minced chicken",
+            "2 spring onions, trimmed and finely sliced",
+            "1 garlic clove, peeled and crushed",
+            "1 birds eye chilli, finely chopped",
+            "1 tbsp cornflour, plus extra for dusting",
+            "\u00bc tsp fine sea salt",
+            "2 tbsp chopped fresh coriander leaves",
+            "freshly ground black pepper"
+        ],
         "For the soup": [
             "1 litre/1\u00be pints chicken stock (home-made or bought)",
             "2 lemongrass stalks",
@@ -35,17 +47,13 @@
             "100g/3\u00bdoz mange tout, trimmed and sliced diagonally",
             "1 red pepper, deseeded and very thinly sliced",
             "small bunch fresh coriander, roughly torn"
-        ],
-        "For the chicken balls": [
-            "250g/9oz minced chicken",
-            "2 spring onions, trimmed and finely sliced",
-            "1 garlic clove, peeled and crushed",
-            "1 birds eye chilli, finely chopped",
-            "1 tbsp cornflour, plus extra for dusting",
-            "\u00bc tsp fine sea salt",
-            "2 tbsp chopped fresh coriander leaves",
-            "freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "16",
+    "serves": "Serves 4",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "To make the soup base, pour the stock into a large saucepan and bring to a simmer. Finely chop one of the lemongrass stalks and add to the pan. Split two of the chillies lengthways almost all the way through and add to the pan.",
@@ -56,8 +64,9 @@
         "Stir in the mange tout and red pepper and simmer for two minutes more until the chicken balls are cooked through and the vegetables and noodles are just tender. Add salt and freshly ground black pepper, to taste, adding a little extra lime juice or fish sauce if needed.",
         "Ladle into deep bowls, scatter the coriander over and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fragrant chicken noodle soup",
     "videos": "[]"
 }

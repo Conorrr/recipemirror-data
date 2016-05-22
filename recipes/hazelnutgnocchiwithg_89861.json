@@ -1,26 +1,30 @@
 {
-    "title": "Hazelnut gnocchi with girolles, crisp fried duck eggs and parmesan",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "adam_byatt": "Adam Byatt"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "gnocchi",
+        "pasta",
+        "pie",
+        "sauce",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the crisp fried duck eggs": [
+            "1 tbsp olive oil",
+            "4 free-range duck eggs"
+        ],
         "For the hazelnut gnocchi": [
             "225g/8oz mashed potato (without milk or butter added)",
             "1 free-range egg, beaten",
@@ -38,14 +42,16 @@
             "200ml/7fl oz hot brown chicken stock or vegetable stock",
             "50g/2oz unsalted butter"
         ],
-        "For the crisp fried duck eggs": [
-            "1 tbsp olive oil",
-            "4 free-range duck eggs"
-        ],
         "To serve": [
             "Small handful parsley shoots (optional)",
             "100g/3\u00bdoz aged parmesan cheese, grated"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the hazelnut gnocchi, in a bowl, mix together the mashed potato, beaten egg, hazelnut oil and chopped hazelnuts until well combined.",
@@ -61,8 +67,9 @@
         "For the eggs, in a separate frying pan, heat the olive oil over a medium heat, crack in the duck eggs and fry for 2-3 minutes, or until crisp and golden-brown underneath and soft on top, or until cooked to your liking.",
         "To serve, divide the hazelnut gnocchi among four serving bowls. Spoon the sauce on top. Place one of the duck eggs on top of each serving of gnocchi. Sprinkle over the reserved whole roasted hazelnuts. Garnish with the parsley shoots, if using, and grated parmesan."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Hazelnut gnocchi with girolles, crisp fried duck eggs and parmesan",
     "videos": "[]"
 }

@@ -1,26 +1,33 @@
 {
-    "title": "Strawberry and custard tart",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 1 large tart",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "A perfect make ahead dessert for summer - sweet pastry filled with vanilla custard and topped with glazed strawberries. Equipment and preparation: for this recipe you will need baking beans and a 20cm/8in tart ring.",
     "author": {
         "jun_tanaka": "Jun Tanaka"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A perfect make ahead dessert for summer - sweet pastry filled with vanilla custard and topped with glazed strawberries. Equipment and preparation: for this recipe you will need baking beans and a 20cm/8in tart ring.",
+    "dishes": [
+        "custard",
+        "fruit_tart",
+        "jelly",
+        "oven-baked_dishes",
+        "pastry",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the custard": [
+            "350ml/12fl oz double cream",
+            "3 vanilla pods, split lengthways and seeds scraped out",
+            "8 free-range egg yolks",
+            "70g/2\u00bdoz sugar"
+        ],
         "For the sweet pastry": [
             "150g/5\u00bdoz unsalted butter, softened",
             "100g/3\u00bdoz sugar",
@@ -28,16 +35,16 @@
             "1 free-range egg",
             "250g/9oz plain flour"
         ],
-        "For the custard": [
-            "350ml/12fl oz double cream",
-            "3 vanilla pods, split lengthways and seeds scraped out",
-            "8 free-range egg yolks",
-            "70g/2\u00bdoz sugar"
-        ],
         "For the topping": [
             "3 punnets strawberries, hulled and thinly sliced",
             "4-5 tbsp redcurrant jelly"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Makes 1 large tart",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
     },
     "steps": [
         "For the sweet pastry, cream the butter and sugar until pale. Slowly add the egg yolk and egg, mixing all the time. Fold in the flour and mix to form a dough.",
@@ -51,8 +58,9 @@
         "In a pan, warm the redcurrant jelly with 3-4 tablespoons of water. Stir to combine until you have a syrupy consistency (add more water or jelly if needed). Use a pastry brush to gently cover the strawberries with the syrup to glaze.",
         "Leave to set before carefully removing the tart from the tart ring."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Strawberry and custard tart",
     "videos": "[]"
 }

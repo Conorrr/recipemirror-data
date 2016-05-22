@@ -1,30 +1,35 @@
 {
-    "title": "Fillet of swordfish rolled with a mixed filling (involtini di pesce spada con finocchio)",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gennaro_contaldo": "Gennaro Contaldo"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "bread",
+        "salsa",
+        "sauce",
+        "sausage"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "400g/14oz middle-cut loin of swordfish, cut into 8 slices",
-            "4 tbsp olive oil",
-            "16 cocktail sticks"
+        "For the fennel salsa": [
+            "\u00bd fennel bulb, sliced thinly, blanched and patted dry",
+            "\u00bd white onion, sliced thinly, blanched and patted dry",
+            "salt and freshly ground black pepper",
+            "lemon juice",
+            "extra virgin olive oil",
+            "few strands of saffron, for decoration",
+            "fennel leaves, chopped roughly, for decotation",
+            "small tomatoes, diced, for decoration"
         ],
         "For the filling": [
             "110g/4oz fresh breadcrumbs (no crust)",
@@ -37,16 +42,17 @@
             "lemon zest grated",
             "freshly ground black pepper"
         ],
-        "For the fennel salsa": [
-            "\u00bd fennel bulb, sliced thinly, blanched and patted dry",
-            "\u00bd white onion, sliced thinly, blanched and patted dry",
-            "salt and freshly ground black pepper",
-            "lemon juice",
-            "extra virgin olive oil",
-            "few strands of saffron, for decoration",
-            "fennel leaves, chopped roughly, for decotation",
-            "small tomatoes, diced, for decoration"
+        "default": [
+            "400g/14oz middle-cut loin of swordfish, cut into 8 slices",
+            "4 tbsp olive oil",
+            "16 cocktail sticks"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "In a food processor, pulse the filling ingredients The resulting mixture should be fluffy.",
@@ -56,8 +62,9 @@
         "To make the sauce, mix all the salsa ingredients together thoroughly.",
         "To serve, put some fennel salsa on a plate, 2 swordfish rolls on top and decorate with saffron strands, roughly chopped fennel leaves and tomato cubes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fillet of swordfish rolled with a mixed filling (involtini di pesce spada con finocchio)",
     "videos": "[]"
 }

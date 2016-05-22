@@ -1,33 +1,24 @@
 {
-    "title": "Grilled escalope of marinated pork loin with broad bean and butter bean salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A great recipe for a smart summer barbecue when broad beans are at their best.",
     "author": {
         "ben_odonoghue": "Ben O'Donoghue"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A great recipe for a smart summer barbecue when broad beans are at their best.",
+    "dishes": [
+        "bun",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "chopping_vegetables",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 x 2cm/\u00bein thick cuts of pork loin, with some fat still intact",
-            "1 bunch of thyme, finely chopped",
-            "2 cloves garlic, finely chopped",
-            "2 lemons, zested",
-            "black pepper"
-        ],
         "For the salad": [
             "1kg/2\u00bclb whole broad beans, blanched (double peeled if large, or just shelled if small and soft)",
             "\u00bd tin butter beans, drained",
@@ -38,7 +29,20 @@
             "2 bunches fresh rocket, dressed in olive oil",
             "olive oil",
             "salt and pepper"
+        ],
+        "default": [
+            "4 x 2cm/\u00bein thick cuts of pork loin, with some fat still intact",
+            "1 bunch of thyme, finely chopped",
+            "2 cloves garlic, finely chopped",
+            "2 lemons, zested",
+            "black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "For the salad, combine the beans with the onions, torn basil and finely chopped parsley.",
@@ -47,9 +51,9 @@
         "Grill on a barbecue or under a hot grill until cooked to your liking.",
         "Place the escalopes in a bowl and squeeze over the remaining lemon juice and olive oil. Serve plated with salad and rocket scattered over."
     ],
-    "howTos": [
-        "chopping_vegetables",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Grilled escalope of marinated pork loin with broad bean and butter bean salad",
     "videos": "[]"
 }

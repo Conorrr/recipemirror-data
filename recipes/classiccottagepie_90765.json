@@ -1,26 +1,36 @@
 {
-    "title": "Classic cottage pie",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "2-3",
-    "recommendations": "29",
-    "images": [
-        
-    ],
-    "description": "James Martin goes back to basics with a traditional homemade cottage pie. Perfect comfort food for a winter evening.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "James Martin goes back to basics with a traditional homemade cottage pie. Perfect comfort food for a winter evening.",
+    "dishes": [
+        "caramel",
+        "cottage_pie",
+        "jam",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "de-glazing_pans",
+        "using_piping_bags"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the mash": [
+            "900g/2lb King Edward potatoes, peeled and chopped",
+            "115g/4oz butter",
+            "125ml/4\u00bdfl oz double cream",
+            "salt and freshly ground black pepper"
+        ],
         "For the mince": [
             "50ml/2fl oz olive oil",
             "650g/1lb 7oz minced beef",
@@ -33,16 +43,16 @@
             "salt and freshly ground black pepper",
             "Worcestershire sauce, to taste"
         ],
-        "For the mash": [
-            "900g/2lb King Edward potatoes, peeled and chopped",
-            "115g/4oz butter",
-            "125ml/4\u00bdfl oz double cream",
-            "salt and freshly ground black pepper"
-        ],
         "To serve": [
             "150g/5\u00bdoz frozen peas",
             "50g/1\u00beoz butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "29",
+    "serves": "2-3",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Heat a large frying pan until smoking, add half of the olive oil and fry the minced beef, in batches, for 4-5 minutes, or until browned all over.",
@@ -56,9 +66,9 @@
         "Place the peas in water in a small saucepan and cook for 3-4 minutes, drain and add the butter.",
         "To serve, serve a spoonful of the cottage pie on plates with the peas alongside."
     ],
-    "howTos": [
-        "de-glazing_pans",
-        "using_piping_bags"
+    "tips": [
+        
     ],
+    "title": "Classic cottage pie",
     "videos": "[]"
 }

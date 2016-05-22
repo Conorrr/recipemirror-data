@@ -1,24 +1,23 @@
 {
-    "title": "Blackberry and apple pastries",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/individualappleandbl_92217_16x9.jpg"
-    ],
-    "description": "This easy little pastry is the perfect way to use the blackberries from an afternoon's picking. Serve hot with ice cream.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This easy little pastry is the perfect way to use the blackberries from an afternoon's picking. Serve hot with ice cream.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "patisserie",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/individualappleandbl_92217_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -31,6 +30,12 @@
             "vanilla ice cream, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Place the sliced apples in a pan with the sugar and blackberry liqueur and cook gently over a medium heat for 5-6 minutes, or until the apples are softened. Set aside to cool, then mix in the blackberries.",
         "Preheat the oven to 180C/355F/Gas 4.",
@@ -39,8 +44,9 @@
         "Brush the edges of the filled pastry layer with the beaten egg, then carefully lay the lattice-cut layer of pastry on top. Seal the edges by pressing down, then brush the pastry all over with the beaten egg. Sprinkle over some caster sugar and bake the pastries for 20 minutes, or until the pastry is golden-brown and puffy.",
         "Serve the pastries warm with ice cream."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Blackberry and apple pastries",
     "videos": "[]"
 }

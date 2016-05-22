@@ -1,26 +1,33 @@
 {
-    "title": "White chocolate and strawberry mousse",
-    "cookTime": "less than 10 mins",
-    "prepTime": "overnight",
-    "serves": "Serves 4-6",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "biscotti",
+        "chocolate_mousse",
+        "icing",
+        "mousse",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "whipping_cream"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "biscotti",
+            "extra strawberries",
+            "4 sprigs fresh mint"
+        ],
         "default": [
             "750g/1lb 10\u00bdoz strawberries",
             "2 tbsp lemon juice",
@@ -28,12 +35,13 @@
             "7g/\u00bc oz powdered gelatine",
             "450ml/15\u00befl oz double cream",
             "30g/1oz icing sugar, plus extra for dusting"
-        ],
-        "To serve": [
-            "biscotti",
-            "extra strawberries",
-            "4 sprigs fresh mint"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "6",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Place half of the strawberries into a blender and puree until smooth. Pass the pur\u00e9ed strawberries through a fine sieve into a clean bowl.",
@@ -47,8 +55,9 @@
         "Transfer the mixture to individual serving glasses. Place in the fridge to chill for at least two hours, preferably overnight (store the remaining strawberry pur\u00e9e in the fridge too).",
         "To serve, add a spoonful of the remaining strawberry pur\u00e9e to each serving glass. Garnish with a few strawberries, dust with icing sugar and add a sprig of mint to each glass."
     ],
-    "howTos": [
-        "whipping_cream"
+    "tips": [
+        
     ],
+    "title": "White chocolate and strawberry mousse",
     "videos": "[]"
 }

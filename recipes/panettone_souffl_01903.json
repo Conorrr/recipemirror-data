@@ -1,30 +1,27 @@
 {
-    "title": "Panettone souffl\u00e9",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 20 souffl\u00e9s",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A wonderful way to incorporate festive flavours into a light and sophisticated dessert.",
     "author": {
         "massimo_bottura": "Massimo Bottura"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A wonderful way to incorporate festive flavours into a light and sophisticated dessert.",
+    "dishes": [
+        "mousse",
+        "oven-baked_dishes",
+        "panettone",
+        "sauce",
+        "souffle",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the walnut liqueur \u201cnocino\u201d sauce": [
-            "200ml/7oz walnut liqueur",
-            "pinch xantham gum"
-        ],
         "For the mousse": [
             "200ml/7fl oz orange juice",
             "200g/7fl oz white wine",
@@ -45,7 +42,17 @@
             "200g/7oz white chocolate",
             "100g/3\u00bdoz, plus extra for greasing",
             "13 free-range egg whites"
+        ],
+        "For the walnut liqueur \u201cnocino\u201d sauce": [
+            "200ml/7oz walnut liqueur",
+            "pinch xantham gum"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 20 souffl\u00e9s",
+    "show": {
+        
     },
     "steps": [
         "For the walnut liqueur sauce, heat 150ml/5\u00bdfl oz of the walnut liqueur in a sauce pan and simmer until the volume of the liquid is reduced by half.",
@@ -61,8 +68,9 @@
         "Fold the cooled, melted chocolate into the egg yolk mixture, then fold in the panettone and finally fold in the whisked egg whites.",
         "Fill the moulds three-quarters of the way and bake in the oven for 6-7 minutes. Serve immediately with the mousse alongside and the sauce drizzled over."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Panettone souffl\u00e9",
     "videos": "[]"
 }

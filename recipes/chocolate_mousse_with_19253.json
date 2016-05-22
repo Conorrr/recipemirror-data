@@ -1,33 +1,28 @@
 {
-    "title": "Chocolate mousse with cocoa nibs",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "15",
-    "images": [
-        
-    ],
-    "description": "This chocolate mousse is for any serious chocaholic. The silky-smooth feel from the pastry cream together with the melted dark chocolate gives an extra-rich flavor.",
     "author": {
         "rachel_khoo": "Rachel Khoo"
     },
-    "show": {
-        "b01dy7yt": "The Little Paris Kitchen: Cooking with Rachel Khoo"
-    },
-    "tips": [
-        "If you can\u2019t get hold of cocoa nibs (available at specialist food shops, online and at some supermarkets), a coating of finely chopped nuts mixed with some cocoa powder is a good alternative."
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "This chocolate mousse is for any serious chocaholic. The silky-smooth feel from the pastry cream together with the melted dark chocolate gives an extra-rich flavor.",
+    "dishes": [
+        "chocolate_mousse",
+        "icing",
+        "meringue",
+        "mousse",
+        "pastry",
+        "slow-cooked_dishes"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "melting_chocolate"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the cr\u00e8me p\u00e2tissi\u00e8re (pastry cream)": [
-            "3 free-range egg, yolks only",
-            "50g/2oz caster sugar",
-            "20g/1oz cornflour",
-            "250ml/9fl oz whole milk",
-            "1 heaped tbsp unsweetened cocoa powder"
-        ],
         "For the chocolate meringue": [
             "3 free-range eggs, whites only",
             "50g/2oz icing sugar",
@@ -36,10 +31,23 @@
             "150g/5\u00bdoz dark chocolate, finely chopped",
             "200ml/7fl oz whipping cream"
         ],
+        "For the cr\u00e8me p\u00e2tissi\u00e8re (pastry cream)": [
+            "3 free-range egg, yolks only",
+            "50g/2oz caster sugar",
+            "20g/1oz cornflour",
+            "250ml/9fl oz whole milk",
+            "1 heaped tbsp unsweetened cocoa powder"
+        ],
         "To serve": [
             "2 tbsp soft butter",
             "50g/2oz cocoa nibs"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "15",
+    "serves": "Serves 4",
+    "show": {
+        "b01dy7yt": "The Little Paris Kitchen: Cooking with Rachel Khoo"
     },
     "steps": [
         "For the cr\u00e8me p\u00e2tissi\u00e8re, whisk the egg yolks with the sugar until pale and thick, then whisk in the cornflower.",
@@ -56,8 +64,9 @@
         "To serve, brush 4-6 glasses or ramekins with soft butter. Add some cocoa nibs and roll them around the sides and bottom of the glasses until evenly coated.",
         "Divide the mousse between the glasses and chill for at least an hour, but ideally four hours. Serve chilled, sprinkled with cocoa nibs. The mousse is best eaten the same day and should not be kept for more than two days (due to the raw egg whites)."
     ],
-    "howTos": [
-        "melting_chocolate"
+    "tips": [
+        "If you can\u2019t get hold of cocoa nibs (available at specialist food shops, online and at some supermarkets), a coating of finely chopped nuts mixed with some cocoa powder is a good alternative."
     ],
+    "title": "Chocolate mousse with cocoa nibs",
     "videos": "[]"
 }

@@ -1,26 +1,38 @@
 {
-    "title": "Norwegian custard buns (skolebr\u00f8d)",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 12",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "These buns are a traditional children\u2019s treat. This version adds a splodge of homemade raspberry jam to the classic custard-stuffed cardamom buns, topped with desiccated coconut. Equipment and preparation: you will need a free-standing electric mixer fitted with a dough hook.",
     "author": {
         "christine": "Christine Wallace"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Nordic",
+    "description": "These buns are a traditional children\u2019s treat. This version adds a splodge of homemade raspberry jam to the classic custard-stuffed cardamom buns, topped with desiccated coconut. Equipment and preparation: you will need a free-standing electric mixer fitted with a dough hook.",
+    "dishes": [
+        "bun",
+        "custard",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sausage",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the custard": [
+            "100ml/3\u00bdfl oz milk",
+            "150ml/5fl oz double cream",
+            "2 free-range egg yolks",
+            "55g/2oz caster sugar",
+            "1 tsp vanilla extract",
+            "1 tbsp cornflour"
+        ],
         "For the dough": [
             "40g/1\u00bdoz butter",
             "285ml/9\u00bdfl oz milk",
@@ -34,19 +46,17 @@
             "200g/7oz raspberries",
             "200g/7oz granulated sugar"
         ],
-        "For the custard": [
-            "100ml/3\u00bdfl oz milk",
-            "150ml/5fl oz double cream",
-            "2 free-range egg yolks",
-            "55g/2oz caster sugar",
-            "1 tsp vanilla extract",
-            "1 tbsp cornflour"
-        ],
         "For the topping": [
             "1 free-range egg, lightly beaten, for glazing",
             "6 tbsp icing sugar",
             "55g/2oz desiccated coconut"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "1",
+    "serves": "Makes 12",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the dough, melt the butter in a pan over a low heat and add the cold milk, heating until just tepid. Stir in the yeast and sugar and leave for 10 minutes.",
@@ -68,8 +78,9 @@
         "Brush the glaze onto the buns around the custard centre. Dip the glazed part of each bun into the coconut.",
         "Finish by placing a little jam on top of the custard and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Norwegian custard buns (skolebr\u00f8d)",
     "videos": "[]"
 }

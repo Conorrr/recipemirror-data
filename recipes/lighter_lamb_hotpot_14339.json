@@ -1,24 +1,26 @@
 {
-    "title": "Lighter lamb hotpot",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lighter_lamb_hotpot_14339_16x9.jpg"
-    ],
-    "description": "A hearty meal for four in one pot. Tender lamb cooked in a richly flavoured casserole with crisp layered potatoes on top. Each serving provides 455 kcal, 31g protein, 47g carbohydrate (of which 13g sugars), 14g fat (of which 5g saturates), 10g fibre and 1.7g salt.",
     "author": {
         "becca_spry": "Becca Spry"
     },
-    "show": {
-        "b0725d98": "Food: Truth or Scare"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "A hearty meal for four in one pot. Tender lamb cooked in a richly flavoured casserole with crisp layered potatoes on top. Each serving provides 455 kcal, 31g protein, 47g carbohydrate (of which 13g sugars), 14g fat (of which 5g saturates), 10g fibre and 1.7g salt.",
+    "dishes": [
+        "casserole",
+        "hotpot",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lighter_lamb_hotpot_14339_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -38,6 +40,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b0725d98": "Food: Truth or Scare"
+    },
     "steps": [
         "Preheat the oven to 160C/140C Fan/Gas 3.",
         "Heat 1 teaspoon of the oil in a large heavy-bottomed casserole over a medium to high heat. Brown the lamb on all sides in two batches for 3-4 minutes per batch. Transfer to a plate using a slotted spoon.",
@@ -46,8 +54,9 @@
         "Layer the potatoes on top in two overlapping layers, seasoning between the layers. Cover with the lid and bake in the oven for 1\u00bd hours, or until the lamb and the potatoes are tender.",
         "Remove the lid and increase the oven temperature to 200C/180C Fan/Gas 6. Brush the potatoes with the final teaspoon of oil and bake for a further 15 minutes, or until the top is nicely browned."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lighter lamb hotpot",
     "videos": "[]"
 }

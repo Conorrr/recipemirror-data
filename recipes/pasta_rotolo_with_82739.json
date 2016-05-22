@@ -1,31 +1,38 @@
 {
-    "title": "Pasta rotolo with creamed endive",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This is a fiddly dish of homemade pasta wrapped into a Swiss roll shape, stuffed with pork and fennel, but it\u2019s well worth the effort once you try it with creamy chicory on the side. Equipment and preparation: you will need a pasta machine and a food processor.",
     "author": {
         "stephen_terry": "Stephen Terry"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "This is a fiddly dish of homemade pasta wrapped into a Swiss roll shape, stuffed with pork and fennel, but it\u2019s well worth the effort once you try it with creamy chicory on the side. Equipment and preparation: you will need a pasta machine and a food processor.",
+    "dishes": [
+        "bread",
+        "bun",
+        "oven-baked_dishes",
+        "pasta",
+        "pie",
+        "salad",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_deglaze_a_pan",
+        "rolling_pasta_dough"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pasta": [
-            "275g/9\u00beoz 00 pasta flour",
-            "2 whole free-range eggs",
-            "3 free-range egg yolks",
-            "olive oil, for frying"
+        "For the creamed chicory": [
+            "2 large chicory",
+            "extra virgin olive oil",
+            "100ml/3\u00bdfl oz chicken stock",
+            "100ml/3\u00bdfl oz double cream",
+            "1 lemon, juice only (to taste)",
+            "1 tbsp finely chopped chives"
         ],
         "For the filling": [
             "500g/1lb 2oz cooked pork shoulder, cut into cubes",
@@ -40,14 +47,18 @@
             "2 lemons, zest of 2, juice of \u00bd",
             "sea salt, to taste"
         ],
-        "For the creamed chicory": [
-            "2 large chicory",
-            "extra virgin olive oil",
-            "100ml/3\u00bdfl oz chicken stock",
-            "100ml/3\u00bdfl oz double cream",
-            "1 lemon, juice only (to taste)",
-            "1 tbsp finely chopped chives"
+        "For the pasta": [
+            "275g/9\u00beoz 00 pasta flour",
+            "2 whole free-range eggs",
+            "3 free-range egg yolks",
+            "olive oil, for frying"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the pasta, place the flour in a food processor and pulse it. Add the whole eggs and egg yolks and keep whizzing until the mixture resembles fine breadcrumbs (it shouldn't be dusty, nor should it be a big, gooey ball). This takes 2-3 minutes.",
@@ -70,9 +81,9 @@
         "To serve, drain the now-crisp shaved fennel from the iced water and dry using a salad spinner or tea towel.",
         "Dress with finely crushed sea salt, freshly squeezed lemon juice, finely chopped fennel fronds and extra virgin olive oil. Serve the rotolo with the creamed chicory and fennel."
     ],
-    "howTos": [
-        "how_to_deglaze_a_pan",
-        "rolling_pasta_dough"
+    "tips": [
+        
     ],
+    "title": "Pasta rotolo with creamed endive",
     "videos": "[]"
 }

@@ -1,26 +1,37 @@
 {
-    "title": "Hot cross buns",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 12",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "jo_pratt": "Jo' Pratt"
     },
-    "show": {
-        "p0077hx8": "The Nation's Favourite Food"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bun",
+        "hot_cross_buns",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading",
+        "knocking_back"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the decoration": [
+            "100g/4oz readymade shortcrust pastry",
+            "or 100g/4oz plain flour mixed with 3 tbsp water to give a dough",
+            "1 egg, beaten",
+            "2 tbsp freshly squeezed orange juice strained through a sieve",
+            "2 tbsp granulated sugar"
+        ],
         "default": [
             "450g/1lb plain flour, plus extra for dusting",
             "1 tsp salt",
@@ -33,14 +44,13 @@
             "100ml/3\u00bdfl oz warm water",
             "100ml 3\u00bdfl oz warm milk",
             "1 egg, beaten"
-        ],
-        "For the decoration": [
-            "100g/4oz readymade shortcrust pastry",
-            "or 100g/4oz plain flour mixed with 3 tbsp water to give a dough",
-            "1 egg, beaten",
-            "2 tbsp freshly squeezed orange juice strained through a sieve",
-            "2 tbsp granulated sugar"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "5",
+    "serves": "Makes 12",
+    "show": {
+        "p0077hx8": "The Nation's Favourite Food"
     },
     "steps": [
         "Sift the flour, salt, cinnamon and mixed spice into a large bowl for electronic mixer with a dough hook and rub in the butter.",
@@ -53,9 +63,9 @@
         "Whilst the buns are cooking, place the orange juice and sugar in a small saucepan and gently heat until the sugar has dissolved.",
         "As soon as the buns are out of the oven, brush with the glaze and eat straight away or leave to cool on a wire rack and serve toasted, dripping with butter."
     ],
-    "howTos": [
-        "kneading",
-        "knocking_back"
+    "tips": [
+        
     ],
+    "title": "Hot cross buns",
     "videos": "[]"
 }

@@ -1,26 +1,40 @@
 {
-    "title": "Halibut and grapefruit with a pork pie sauce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "For this recipe you will need a 10cm/4in pork pie and a food grade plastic syringe.",
     "author": {
         "claude_bosi": "Claude Bosi"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        "You can make this recipe with a good-quality, ready-made pork pie. Use 200ml/7fl oz fish stock and 150ml/5fl oz apple juice for the sauce instead."
+    "cookTime": "1 to 2 hours",
+    "description": "For this recipe you will need a 10cm/4in pork pie and a food grade plastic syringe.",
+    "dishes": [
+        "bread",
+        "jelly",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the halibut": [
+            "60g/2\u00bdoz salted butter",
+            "110g/4oz fine fresh breadcrumbs",
+            "25g/1oz English mustard powder",
+            "25g/1oz hazelnuts, roughly chopped",
+            "25g/1oz Granny Smith apple, core removed, very finely diced",
+            "dash olive oil, for frying",
+            "4 x 125g/4\u00bdoz halibut fillet, skinned",
+            "150g/5\u00bdoz spring greens, very finely sliced",
+            "1 pink grapefruit, peeled, segmented and roughly chopped"
+        ],
         "For the pork pie": [
             "800g/1lb 12oz fresh pork belly",
             "200g/7oz pork fat",
@@ -36,22 +50,17 @@
             "250ml/9fl oz apple juice",
             "2 sheets gelatine, soaked in cold water, drained"
         ],
-        "For the halibut": [
-            "60g/2\u00bdoz salted butter",
-            "110g/4oz fine fresh breadcrumbs",
-            "25g/1oz English mustard powder",
-            "25g/1oz hazelnuts, roughly chopped",
-            "25g/1oz Granny Smith apple, core removed, very finely diced",
-            "dash olive oil, for frying",
-            "4 x 125g/4\u00bdoz halibut fillet, skinned",
-            "150g/5\u00bdoz spring greens, very finely sliced",
-            "1 pink grapefruit, peeled, segmented and roughly chopped"
-        ],
         "For the pork pie sauce": [
             "300ml/11fl oz fish stock",
             "50ml/2fl oz apple juice",
             "600g/1lb 6oz pork pie (see recipe above)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the pork pie, blend the pork belly and pork fat in a food processor until coarsely chopped. Season well with the fleur de sel and a pinch of quatre-\u00e9pices powder. Chill in the fridge.",
@@ -74,8 +83,9 @@
         "Blend the pork pie and apple juice mixture in a blender to a fine pur\u00e9e.",
         "To serve, spoon the spring greens onto serving plates, top with a few pieces of pink grapefruit, then place the halibut on top. Spoon the sauce alongside."
     ],
-    "howTos": [
-        
+    "tips": [
+        "You can make this recipe with a good-quality, ready-made pork pie. Use 200ml/7fl oz fish stock and 150ml/5fl oz apple juice for the sauce instead."
     ],
+    "title": "Halibut and grapefruit with a pork pie sauce",
     "videos": "[]"
 }

@@ -1,26 +1,36 @@
 {
-    "title": "Aubergine and mozzarella stacks",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "gremolata",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "1 tbsp olive oil",
+            "1 shallot, finely chopped",
+            "1 small plump fresh red chilli, deseeded and chopped",
+            "1 garlic clove, finely chopped",
+            "8 ripe plum tomatoes, skinned and chopped",
+            "good pinch of sugar",
+            "2 tbsp chopped fresh basil"
+        ],
         "default": [
             "2 large aubergines, sliced 1cm/\u00bdin thick",
             "olive oil, for brushing",
@@ -30,16 +40,13 @@
             "1 tsp chopped fresh rosemary",
             "4 balls buffalo mozzarella about 110g/4oz each",
             "salt and freshly ground black pepper."
-        ],
-        "For the sauce": [
-            "1 tbsp olive oil",
-            "1 shallot, finely chopped",
-            "1 small plump fresh red chilli, deseeded and chopped",
-            "1 garlic clove, finely chopped",
-            "8 ripe plum tomatoes, skinned and chopped",
-            "good pinch of sugar",
-            "2 tbsp chopped fresh basil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Brush the aubergine slices with oil and season lightly. Heat a ridged griddle pan until you feel a good heat rising. Add the aubergine slices and chargrill for about 3 minutes on each side until softened. You need to do this in batches. Remove and leave to cool.",
@@ -49,8 +56,9 @@
         "Meanwhile, to make the sauce, heat the oil in a frying pan, add the shallot, chilli and garlic and saut\u00e9 for about 5 minutes. Add the chopped tomatoes, sugar and seasoning. Cook for about 10 minutes until you have a thick sauce, stirring occasionally. Add the basil. Then leave to cool. Transfer to a food processor or blender and process to make a pur\u00e9e. Reheat the sauce in a clean saucepan and keep warm.",
         "Place each stack in the centre of a warmed serving plate with the sauce spooned alongside."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Aubergine and mozzarella stacks",
     "videos": "[]"
 }

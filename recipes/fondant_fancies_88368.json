@@ -1,40 +1,33 @@
 {
-    "title": "Mary Berry's fondant fancies",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 25",
-    "recommendations": "14",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fondant_fancies_88368_16x9.jpg"
-    ],
-    "description": "Surprise your friends (and indeed yourself) with a batch of these homemade fondant fancies. Plus there\u2019s plenty of fun to be had choosing your own colours and flavours. Equipment and Preparation: You will need a piping bag, free-standing mixer and a 20cm/8in square tin.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Surprise your friends (and indeed yourself) with a batch of these homemade fondant fancies. Plus there\u2019s plenty of fun to be had choosing your own colours and flavours. Equipment and Preparation: You will need a piping bag, free-standing mixer and a 20cm/8in square tin.",
+    "dishes": [
+        "cake",
+        "fondant_fancies",
+        "icing",
+        "jam",
+        "marzipan",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "melting_chocolate",
+        "using_piping_bags"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fondant_fancies_88368_16x9.jpg"
+    ],
     "ingredients": {
-        "For the sponge": [
-            "225g/8oz self-raising flour",
-            "225g/8oz baking spread or softened butter",
-            "225g/8oz caster sugar",
-            "1 lemon, grated rind only",
-            "4 free-range eggs"
-        ],
         "For the buttercream": [
             "250g/9oz unsalted butter, softened",
             "200g/7oz icing sugar"
-        ],
-        "For the marzipan topping": [
-            "3 tbsp apricot jam",
-            "200g/7oz marzipan"
         ],
         "For the icing and decoration": [
             "1 kg/2lb 4oz white fondant icing",
@@ -42,7 +35,24 @@
             "food colouring (any colour)",
             "flavouring (any flavouring)",
             "100g/3\u00bdoz dark chocolate"
+        ],
+        "For the marzipan topping": [
+            "3 tbsp apricot jam",
+            "200g/7oz marzipan"
+        ],
+        "For the sponge": [
+            "225g/8oz self-raising flour",
+            "225g/8oz baking spread or softened butter",
+            "225g/8oz caster sugar",
+            "1 lemon, grated rind only",
+            "4 free-range eggs"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "14",
+    "serves": "Makes 25",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 160C/325F/Gas 3. Grease and line a 20cm/8in square tin with two strips of parchment paper.",
@@ -65,9 +75,9 @@
         "Using the piping bag of melted chocolate, drizzle the chocolate over each fancy in a zig-zag pattern.",
         "Leave to set and then place on a cake stand to serve."
     ],
-    "howTos": [
-        "melting_chocolate",
-        "using_piping_bags"
+    "tips": [
+        
     ],
+    "title": "Mary Berry's fondant fancies",
     "videos": "[]"
 }

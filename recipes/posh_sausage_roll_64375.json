@@ -1,23 +1,27 @@
 {
-    "title": "Posh sausage roll",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "30",
-    "images": [
-        
-    ],
-    "description": "A delicious mixture of minced pork, spices, apricot and nuts is baked in pastry and served with braised cabbage with apple and tamarind sauce. A meal in itself, or it can be served alongside the turkey as part of the Christmas dinner!",
     "author": {
         "glynn_purnell": "Glynn Purnell"
     },
-    "show": {
-        "b03mzc66": "Food & Drink"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A delicious mixture of minced pork, spices, apricot and nuts is baked in pastry and served with braised cabbage with apple and tamarind sauce. A meal in itself, or it can be served alongside the turkey as part of the Christmas dinner!",
+    "dishes": [
+        "bread",
+        "chutney",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "salad",
+        "sauce",
+        "sausage",
+        "sausage_roll"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -51,6 +55,12 @@
             "chutney, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "30",
+    "serves": "Serves 6-8",
+    "show": {
+        "b03mzc66": "Food & Drink"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "In a frying pan, gently fry the onion, garlic and bacon. Add the Calvados to flamb\u00e9 the pan - take care to avoid the flames. Scrape any cooked-on food from the bottom of the pan. Place the mixture into a bowl and leave to cool.",
@@ -62,8 +72,9 @@
         "Add the cabbage to the onion and pear and fry gently until soft. Add the pomegranate seeds and juice and squeeze of lime juice. Season with salt and pepper to taste. Remove from the heat.",
         "To serve, place a spoonful of the winter cabbage salad onto the plate. Carve the hot sausage roll and place a piece next the cabbage. Garnish with slices of pear and serve with chutney."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Posh sausage roll",
     "videos": "[p01nkfy4:p01nkfy7]"
 }

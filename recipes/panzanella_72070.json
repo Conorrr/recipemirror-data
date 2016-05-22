@@ -1,24 +1,27 @@
 {
-    "title": "Panzanella",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/panzanella_72070_16x9.jpg"
-    ],
-    "description": "Do not throw away your old bread! Soaking it in a garlicky mixture of red wine vinegar, olive oil and tomato juices will bring it back to life Mediterranean-style for this classic salad.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b01rhdgt": "Paul Hollywood's Bread"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "Do not throw away your old bread! Soaking it in a garlicky mixture of red wine vinegar, olive oil and tomato juices will bring it back to life Mediterranean-style for this classic salad.",
+    "dishes": [
+        "bread",
+        "ciabatta",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "de-skinning_peppers",
+        "de-skinning_tomatoes"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/panzanella_72070_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,6 +38,12 @@
             "large handful of fresh basil leaves"
         ]
     },
+    "prepTime": "1-2 hours",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b01rhdgt": "Paul Hollywood's Bread"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Place the peppers on a roasting tray, drizzle a splash of the olive oil over and roast for about 15-20 minutes, or until the peppers are softened but not charred. Place them in a large bowl and cover with cling film for about 20 minutes. (When they have cooled the skin should peel away easily.)",
         "Cut the stalk out of the tomatoes and blanch them by plunging in to a jug of boiling water for 45 seconds, or until the skins start to peel away. Using a slotted spoon, scoop out the tomatoes and plunge into a bowl of cold water. Once they have cooled, the skins should easily peel away.",
@@ -47,9 +56,9 @@
         "After an hour mix the ciabatta with the tomatoes and peppers. Tear in the basil leaves and using your hands gently combine all the ingredients.",
         "Serve in a large bowl in the centre of the table."
     ],
-    "howTos": [
-        "de-skinning_peppers",
-        "de-skinning_tomatoes"
+    "tips": [
+        
     ],
+    "title": "Panzanella",
     "videos": "[]"
 }

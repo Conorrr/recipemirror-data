@@ -1,23 +1,21 @@
 {
-    "title": "Chicken and pepper stew",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "phil_vickery": "Phil Vickery"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "stew",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -30,6 +28,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the olive oil in a small saucepan.",
         "Add the chicken fillets and cook until golden on all sides.",
@@ -38,8 +42,9 @@
         "Stir in the double cream and season. Cook for one minute, or until the chicken is cooked through.",
         "Pour into a serving bowl and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken and pepper stew",
     "videos": "[]"
 }

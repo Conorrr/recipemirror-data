@@ -1,26 +1,39 @@
 {
-    "title": "Sea bream, tomato chutney, cucumber relish and samphire",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Try this sea bream in a light spiced batter as a starter or tapas dish - perfect with a cold glass of wine on a hot day.",
     "author": {
         "galton_blackiston": "Galton Blackiston"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Try this sea bream in a light spiced batter as a starter or tapas dish - perfect with a cold glass of wine on a hot day.",
+    "dishes": [
+        "bread",
+        "bun",
+        "chutney",
+        "prepare-ahead_desserts",
+        "seafood",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cucumber relish": [
+            "1 cucumber, peeled and finely chopped",
+            "2 tomatoes, skinned, deseeded and cut into strips",
+            "\u00bd red onion, finely chopped",
+            "\u00bd bunch fresh coriander",
+            "\u00bd lime, juice only",
+            "2 tbsp olive oil"
+        ],
+        "For the samphire": [
+            "300g/10\u00bdoz samphire",
+            "50g/1\u00beoz unsalted butter"
+        ],
         "For the sea bream": [
             "100g/3\u00bdoz plain flour",
             "1 tbsp cornflour",
@@ -34,14 +47,6 @@
             "3 whole sea bream, skinned, filleted and cut into strips",
             "vegetable oil, for deep-fat frying"
         ],
-        "For the cucumber relish": [
-            "1 cucumber, peeled and finely chopped",
-            "2 tomatoes, skinned, deseeded and cut into strips",
-            "\u00bd red onion, finely chopped",
-            "\u00bd bunch fresh coriander",
-            "\u00bd lime, juice only",
-            "2 tbsp olive oil"
-        ],
         "For the tomato chutney": [
             "8 tomatoes",
             "2 red chillies, sliced and seeds removed",
@@ -51,11 +56,13 @@
             "1 tbsp soft brown sugar",
             "4 tbsp olive oil",
             "1 lemon, juice"
-        ],
-        "For the samphire": [
-            "300g/10\u00bdoz samphire",
-            "50g/1\u00beoz unsalted butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "For the sea bream, place all the ingredients except the sparkling water, sea bream and vegetable oil in a large glass bowl and mix to combine.",
@@ -72,8 +79,9 @@
         "Place a frying pan on the heat and, once hot, add the butter and gently fry the samphire for 2-3 minutes.",
         "To serve, arrange the cucumber relish, chutney and samphire on each plate and place the battered fish on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sea bream, tomato chutney, cucumber relish and samphire",
     "videos": "[]"
 }

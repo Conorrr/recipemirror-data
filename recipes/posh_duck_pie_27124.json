@@ -1,26 +1,40 @@
 {
-    "title": "Posh duck pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "A ballotine of duck wrapped Wellington-style in homemade pastry makes for one seriously indulgent pie!",
     "author": {
         "john_torode": "John Torode"
     },
-    "show": {
-        "b016pbs9": "Great British Food Revival"
-    },
-    "tips": [
-        "If you want to be really posh you can make your own flaky pastry according to John\u2019s recipe, but 1kg/2lb 3oz of ready-made puff pastry works just as well."
+    "cookTime": "1 to 2 hours",
+    "description": "A ballotine of duck wrapped Wellington-style in homemade pastry makes for one seriously indulgent pie!",
+    "dishes": [
+        "bread",
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "sausage",
+        "stir-fries",
+        "stuffing"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the ballotine of duck": [
+            "I x 2.8kg/6lb 2oz duck, boned from the backbone (ask your butcher to do this for you)"
+        ],
+        "For the blackberry sauce": [
+            "200ml/7fl oz roasting juices (drained from the roasting tray as the duck is cooking, see method)",
+            "200ml/7fl oz ruby port",
+            "200ml/7fl oz red wine",
+            "1 shallot, peeled, chopped",
+            "400g/14oz blackberries"
+        ],
         "For the flaky pastry (optional)": [
             "200g/7oz lard, at room temperature",
             "pinch salt",
@@ -38,17 +52,13 @@
             "200g/7oz chicken mince",
             "handful fresh parsley, chopped",
             "salt and freshly ground black pepper"
-        ],
-        "For the ballotine of duck": [
-            "I x 2.8kg/6lb 2oz duck, boned from the backbone (ask your butcher to do this for you)"
-        ],
-        "For the blackberry sauce": [
-            "200ml/7fl oz roasting juices (drained from the roasting tray as the duck is cooking, see method)",
-            "200ml/7fl oz ruby port",
-            "200ml/7fl oz red wine",
-            "1 shallot, peeled, chopped",
-            "400g/14oz blackberries"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b016pbs9": "Great British Food Revival"
     },
     "steps": [
         "For the flaky pastry, pulse the lard, salt and the flour in a food processor until the mixture resembles breadcrumbs. Gradually add 180ml/6fl oz cold water, pulsing gently until the mixture just comes together as a dough.",
@@ -74,8 +84,9 @@
         "Meanwhile, cut the remaining 100g/3\u00bdoz of blackberries in half lengthways. Stir them into the thickened sauce just before serving.",
         "To serve, carve the posh duck pie into thick slices and arrange two slices onto each of four serving plates. Drizzle over the blackberry sauce. Serve with steamed green vegetables."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If you want to be really posh you can make your own flaky pastry according to John\u2019s recipe, but 1kg/2lb 3oz of ready-made puff pastry works just as well."
     ],
+    "title": "Posh duck pie",
     "videos": "[]"
 }

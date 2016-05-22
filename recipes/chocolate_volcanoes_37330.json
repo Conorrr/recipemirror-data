@@ -1,24 +1,24 @@
 {
-    "title": "Chocolate volcanoes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 6 individual puddings",
-    "recommendations": "16",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_volcanoes_37330_16x9.jpg"
-    ],
-    "description": "Paul's version of the classic chocolate fondant is all about timing. Don\u2019t let the puddings bake to the point that their surface begins to crack, as this means the centres are starting to cook.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Paul's version of the classic chocolate fondant is all about timing. Don\u2019t let the puddings bake to the point that their surface begins to crack, as this means the centres are starting to cook.",
+    "dishes": [
+        "chocolate_fondant",
+        "mousse",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "folding",
+        "melting_chocolate"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_volcanoes_37330_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,6 +32,12 @@
             "double cream, to serve"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "16",
+    "serves": "Makes 6 individual puddings",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
+    },
     "steps": [
         "Grease six small pudding moulds with butter and dust the insides with cocoa powder, then refrigerate for 30 minutes.",
         "Melt the chocolate and butter in a heatproof bowl set over a pan of simmering water (do not let the bowl touch the water). Set aside to cool slightly.",
@@ -41,9 +47,9 @@
         "Preheat the oven to 200C (180C fan)/400F/Gas 6. Place the puddings on a baking tray and bake for eight minutes, or until the puddings are risen but not cracked.",
         "Turn out the puddings on to individual plates and serve, with pouring cream."
     ],
-    "howTos": [
-        "folding",
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "Chocolate volcanoes",
     "videos": "[]"
 }

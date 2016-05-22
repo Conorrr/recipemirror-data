@@ -1,24 +1,20 @@
 {
-    "title": "Roast vegetable soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "soup"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,6 +28,12 @@
             "water for blending (optional)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place the vegetables and flavourings in a roasting tin.",
         "Season with salt and pepper and drizzle with olive oil.",
@@ -39,8 +41,9 @@
         "When cooked, transfer into a blender and blend until smooth.",
         "Add some water if necessary and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roast vegetable soup",
     "videos": "[]"
 }

@@ -1,26 +1,33 @@
 {
-    "title": "Chocolate marshmallow teacakes",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 6",
-    "recommendations": "31",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_marshmallow_60410_16x9.jpg"
-    ],
-    "description": "Paul Hollywood's step-by-step recipe for chocolate marshmallow teacakes will certainly make an impression. Equipment and preparation: You will need a silicone mould that has 6 x 7.5cm/3in wide, half sphere moulds.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "Don't use chocolate with high cocoa solids or you will have trouble removing them from the moulds and you may get a white bloom when the chocolate sets."
+    "cookTime": "30 mins to 1 hour",
+    "description": "Paul Hollywood's step-by-step recipe for chocolate marshmallow teacakes will certainly make an impression. Equipment and preparation: You will need a silicone mould that has 6 x 7.5cm/3in wide, half sphere moulds.",
+    "dishes": [
+        "biscuit",
+        "marshmallow",
+        "oven-baked_dishes",
+        "stir-fries",
+        "teacake"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_marshmallow_60410_16x9.jpg"
+    ],
     "ingredients": {
+        "For the marshmallow": [
+            "3 free-range eggs, whites only",
+            "150g/5\u00bdoz caster sugar",
+            "6 tsp golden syrup",
+            "\u00bd tsp salt",
+            "\u00bd vanilla pod, seeds only"
+        ],
         "default": [
             "400g/14oz dark chocolate with around 40% cocoa solids (such as Bournville)",
             "50g/1\u00beoz wholemeal flour",
@@ -30,14 +37,13 @@
             "25g/1oz caster sugar",
             "25g/1oz butter",
             "1 tbsp milk"
-        ],
-        "For the marshmallow": [
-            "3 free-range eggs, whites only",
-            "150g/5\u00bdoz caster sugar",
-            "6 tsp golden syrup",
-            "\u00bd tsp salt",
-            "\u00bd vanilla pod, seeds only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "31",
+    "serves": "Makes 6",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Melt 300g/10\u00bdoz of the dark chocolate in a bowl set over a simmering pan of water (make sure the bottom of the bowl does not touch the water). Melting the chocolate over a soft heat stops the chocolate from discolouring later on. Leave aside to cool slightly - you can\u2019t line the moulds if the chocolate is too runny.",
@@ -61,8 +67,9 @@
         "Very carefully remove the completed teacakes from the mould \u2013 be careful of fingerprints on the glossy dome.",
         "Place on a plate and keep cool \u2013 but do not refrigerate, to make sure the chocolate keeps its glossy shine."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Don't use chocolate with high cocoa solids or you will have trouble removing them from the moulds and you may get a white bloom when the chocolate sets."
     ],
+    "title": "Chocolate marshmallow teacakes",
     "videos": "[]"
 }

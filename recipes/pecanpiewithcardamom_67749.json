@@ -1,26 +1,39 @@
 {
-    "title": "Pecan pie with cardamom ginger ice cream",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "mike_robinson": "Mike Robinson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "",
+    "dishes": [
+        "custard",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cardamom ginger ice cream": [
+            "225g/8oz caster sugar",
+            "4 eggs, yolk only",
+            "170ml/6oz semi-skimmed milk",
+            "170ml/6oz full-fat milk",
+            "340ml/12fl oz double cream",
+            "2 tsp vanilla extract",
+            "1 heaped tbsp chopped stem ginger",
+            "6-8 cardamom seeds, finely ground"
+        ],
         "default": [
             "55g/2oz muscovado sugar",
             "110g/4oz butter",
@@ -31,17 +44,13 @@
             "4 small deep sweet pastry tartlet cases, baked blind",
             "pecan halves, to decorate",
             "maple syrup, to decorate"
-        ],
-        "For the cardamom ginger ice cream": [
-            "225g/8oz caster sugar",
-            "4 eggs, yolk only",
-            "170ml/6oz semi-skimmed milk",
-            "170ml/6oz full-fat milk",
-            "340ml/12fl oz double cream",
-            "2 tsp vanilla extract",
-            "1 heaped tbsp chopped stem ginger",
-            "6-8 cardamom seeds, finely ground"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "First make the ice cream. In a mixing bowl, combine the caster sugar and egg yolks together. Beat the mixture until it is a thick yellow paste and set it aside.",
@@ -54,8 +63,9 @@
         "Bake the pecan tarts for 20 minutes.",
         "Serve the tarts warm from the oven topped with a scoop of the cardamom ginger ice cream. Decorate the serving plates with pecans and a drizzle of maple syrup."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Pecan pie with cardamom ginger ice cream",
     "videos": "[]"
 }

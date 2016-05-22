@@ -1,33 +1,25 @@
 {
-    "title": "Easy chicken liver p\u00e2t\u00e9",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "19",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/easychickenliverpate_87604_16x9.jpg"
-    ],
-    "description": "This starter is simple and quick to make and is absolutely delicious on toast with a spot of spicy chutney.",
     "author": {
         "mike_robinson": "Mike Robinson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "French",
+    "description": "This starter is simple and quick to make and is absolutely delicious on toast with a spot of spicy chutney.",
+    "dishes": [
+        "chutney",
+        "pate",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/easychickenliverpate_87604_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "450g/1lb chicken livers, trimmed",
-            "200g/7oz butter, melted",
-            "50ml/2fl oz double cream",
-            "1 tbsp Armagnac or brandy",
-            "coarse sea salt and freshly ground black pepper"
-        ],
         "To garnish": [
             "handful of dried cranberries",
             "8 fresh bay leaves"
@@ -35,7 +27,20 @@
         "To serve": [
             "hot toast",
             "spicy chutney"
+        ],
+        "default": [
+            "450g/1lb chicken livers, trimmed",
+            "200g/7oz butter, melted",
+            "50ml/2fl oz double cream",
+            "1 tbsp Armagnac or brandy",
+            "coarse sea salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "19",
+    "serves": "Serves 8",
+    "show": {
+        
     },
     "steps": [
         "Heat a heavy-based frying pan over a medium heat. Pour a little of the melted butter into the hot pan, add half the chicken livers and cook for three minutes. The livers should be cooked on the outside and pink in the middle. Transfer them to a plate and repeat with the rest of the livers.",
@@ -43,8 +48,9 @@
         "Transfer the p\u00e2t\u00e9 to eight small ramekins, cover with cling film and chill.",
         "When you are ready to serve, uncover the p\u00e2t\u00e9s and garnish with dried cranberries and fresh bay leaves to give them a festive feel. Serve with hot toast and spicy chutney."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Easy chicken liver p\u00e2t\u00e9",
     "videos": "[]"
 }

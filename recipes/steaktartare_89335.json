@@ -1,23 +1,22 @@
 {
-    "title": "Steak tartare",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "no-cook_meals",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -35,6 +34,12 @@
             "French fries, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Using a very sharp knife, slice the steak into thin slices (cut with the grain), then cut across the slices to create strips of meat.",
         "Turn the strips of steak and cut across again into tiny cubes. Place into a bowl.",
@@ -43,8 +48,9 @@
         "To serve, place a 10cm/4in chefs' ring onto each of two plates. Spoon equal quantities of the tartare mixture into the rings and press down into the edges.",
         "Remove the rings and serve with French fries alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steak tartare",
     "videos": "[]"
 }

@@ -1,26 +1,29 @@
 {
-    "title": "Bara brith",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 8-10",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This bara brith is made the traditional way using fresh yeast. Most supermarket with their own in-store bakery will sell, or sometimes give away, fresh yeast.",
     "author": {
         "beca": "Beca Lyne-Pirkis"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "This bara brith is made the traditional way using fresh yeast. Most supermarket with their own in-store bakery will sell, or sometimes give away, fresh yeast.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "sauce",
+        "tea_bread"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "knocking_back"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sugar syrup": [
+            "50g/1\u00beoz caster sugar"
+        ],
         "default": [
             "450g/1lb strong white flour",
             "7g salt",
@@ -33,10 +36,13 @@
             "225ml/8fl oz strong warm tea",
             "oil, for greasing",
             "butter, to serve (optional)"
-        ],
-        "For the sugar syrup": [
-            "50g/1\u00beoz caster sugar"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "2",
+    "serves": "Serves 8-10",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Place the flour, salt and yeast in a large mixing bowl and then rub in the butter using your fingers until the mixture resembles fine breadcrumbs. Mix in the sugar, mixed spice and dried fruit until evenly distributed.",
@@ -46,8 +52,9 @@
         "Cover the bara brith with aluminium foil and continue to bake for a further 25 minutes. Remove from the oven, turn it out of the tin and leave to cool on a wire rack for 20 minutes.",
         "For the sugar syrup, bring 50ml/1\u00befl oz of water and the sugar to the boil in a small saucepan and cook until syrupy. Remove from the heat and brush the loaf with the glaze. Leave to cool completely before cutting. Serve in slices with butter, if you like"
     ],
-    "howTos": [
-        "knocking_back"
+    "tips": [
+        
     ],
+    "title": "Bara brith",
     "videos": "[]"
 }

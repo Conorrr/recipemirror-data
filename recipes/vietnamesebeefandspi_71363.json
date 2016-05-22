@@ -1,30 +1,26 @@
 {
-    "title": "Vietnamese beef and spinach soup",
-    "cookTime": "less than 10 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ken_hom": "Ken Hom"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "450g/1lb fresh spinach",
-            "175g/6oz lean fillet steak, cut into thin slices about 5cm (2 in) long"
-        ],
         "For the marinade": [
             "2 shallots, finely sliced",
             "2 tbsp finely chopped garlic",
@@ -37,7 +33,17 @@
             "1 tbsp lemon juice",
             "1 tsp sugar",
             "1 small, fresh red chilli, seeded and chopped"
+        ],
+        "default": [
+            "450g/1lb fresh spinach",
+            "175g/6oz lean fillet steak, cut into thin slices about 5cm (2 in) long"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Remove the stalks from the spinach and wash the leaves well.",
@@ -46,8 +52,9 @@
         "Just before you are ready to eat, bring the chicken stock to a simmer in a saucepan and season it with the remaining fish sauce, the lemon juice, sugar and chilli.",
         "Add the blanched spinach and stir in the beef and its marinade. Bring the soup back to simmering point, add a few grindings of freshly ground black pepper to taste and serve at once."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Vietnamese beef and spinach soup",
     "videos": "[]"
 }

@@ -1,23 +1,19 @@
 {
-    "title": "Chargrilled steak with spiced cabbage and herb oil",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "pie"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -27,6 +23,12 @@
             "\u00bc savoy cabbage, finely sliced",
             "salt and freshly ground black pepper"
         ],
+        "For the herb oil": [
+            "1 tbsp finely chopped fresh parsley",
+            "1 tbsp finely chopped fresh basil",
+            "\u00bd tbsp olive oil",
+            "salt and freshly ground black pepper"
+        ],
         "For the steak": [
             "1 tbsp olive oil",
             "200g/7oz rump steak",
@@ -34,13 +36,13 @@
             "\u00bd tsp chilli flakes",
             "1 garlic clove, crushed",
             "1 tsp sesame seeds"
-        ],
-        "For the herb oil": [
-            "1 tbsp finely chopped fresh parsley",
-            "1 tbsp finely chopped fresh basil",
-            "\u00bd tbsp olive oil",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the cabbage, heat the oil in a frying pan and fry the chilli and cabbage for 4-5 minutes, or until softened. Season, to taste, with salt and freshly ground black pepper.",
@@ -49,8 +51,9 @@
         "For the herb oil, mix the herbs with the oil in a bowl and season, to taste, with salt and freshly ground black pepper.",
         "To serve, pile the cabbage onto a serving plate, top with the steak and drizzle over the herb oil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chargrilled steak with spiced cabbage and herb oil",
     "videos": "[]"
 }

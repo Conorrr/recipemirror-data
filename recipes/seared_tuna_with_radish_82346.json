@@ -1,32 +1,24 @@
 {
-    "title": "Seared tuna with radish salad",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This Asian-style tuna salad would make an impressive starter for a dinner party.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "This Asian-style tuna salad would make an impressive starter for a dinner party.",
+    "dishes": [
+        "jam",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the tuna": [
-            "4 x 100g/3\u00bdoz fresh tuna steaks",
-            "1 tbsp yuzu juice",
-            "2 tbsp soy sauce",
-            "3 tbsp olive oil"
-        ],
         "For the salad": [
             "16 radishes, very finely sliced",
             "\u00bc mooli, very finely sliced with a vegetable peeler",
@@ -37,7 +29,19 @@
             "1 tbsp soy sauce",
             "3 tbsp olive oil",
             "2 tbsp sesame seeds, toasted"
+        ],
+        "For the tuna": [
+            "4 x 100g/3\u00bdoz fresh tuna steaks",
+            "1 tbsp yuzu juice",
+            "2 tbsp soy sauce",
+            "3 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the tuna, heat a griddle pan until very hot.",
@@ -49,8 +53,9 @@
         "Sprinkle over the sesame seeds and mix together.",
         "To serve, spoon the salad alongside the sliced tuna and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Seared tuna with radish salad",
     "videos": "[]"
 }

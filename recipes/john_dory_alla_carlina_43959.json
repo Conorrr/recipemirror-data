@@ -1,26 +1,37 @@
 {
-    "title": "John Dory alla carlina",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Bring the flavours of Venice to your kitchen with this flavourful fish dish.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "Bring the flavours of Venice to your kitchen with this flavourful fish dish.",
+    "dishes": [
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "skimming_stock"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the John Dory": [
+            "4 John Dory fillets",
+            "50g/1\u00beoz plain flour",
+            "2 tbsp olive oil, plus extra to serve",
+            "1 lemon, halved",
+            "1 tsp Worcestershire sauce",
+            "2 small gherkins, finely chopped",
+            "2 tbsp capers, 1 tbsp finely chopped and 1 tbsp whole",
+            "2 tomatoes, peeled, de-seeded and finely chopped",
+            "3 tbsp tomato sauce (see above)",
+            "250ml/9fl oz fish stock (see above)",
+            "small handful flatleaf parsley, chopped"
+        ],
         "For the fish stock": [
             "1 onion, chopped",
             "1 bulb fennel, sliced",
@@ -36,20 +47,13 @@
             "4 garlic cloves, finely chopped",
             "1kg/2lb 4oz well-flavoured tomatoes, peeled or 2 x 400g tins chopped tomatoes",
             "salt and freshly ground black pepper"
-        ],
-        "For the John Dory": [
-            "4 John Dory fillets",
-            "50g/1\u00beoz plain flour",
-            "2 tbsp olive oil, plus extra to serve",
-            "1 lemon, halved",
-            "1 tsp Worcestershire sauce",
-            "2 small gherkins, finely chopped",
-            "2 tbsp capers, 1 tbsp finely chopped and 1 tbsp whole",
-            "2 tomatoes, peeled, de-seeded and finely chopped",
-            "3 tbsp tomato sauce (see above)",
-            "250ml/9fl oz fish stock (see above)",
-            "small handful flatleaf parsley, chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the fish stock, put all the ingredients except the fish bones into a large pan, bring to the boil, then turn down the heat and simmer gently for 20 minutes.",
@@ -59,8 +63,9 @@
         "Add the Worcestershire sauce, gherkins, whole and chopped capers, tomatoes, tomato sauce and fish stock to the pan, bring to the boil then reduce a little to create the sauce. Add the fish carefully back to the pan for a minute to warm through in the sauce.",
         "Serve immediately, drizzled with a little more olive oil and sprinkled with fresh parsley."
     ],
-    "howTos": [
-        "skimming_stock"
+    "tips": [
+        
     ],
+    "title": "John Dory alla carlina",
     "videos": "[]"
 }

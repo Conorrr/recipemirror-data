@@ -1,26 +1,37 @@
 {
-    "title": "Rabbit pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "Rabbit with cider, mustard and chicken stock, topped with a shortcrust pastry lid. Rustic cooking at its best.",
     "author": {
         "liz_smith": "Liz Smith"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Rabbit with cider, mustard and chicken stock, topped with a shortcrust pastry lid. Rustic cooking at its best.",
+    "dishes": [
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the beurre mani\u00e9": [
+            "40g/1\u00bd oz butter, softened",
+            "40g/1\u00bdoz plain flour"
+        ],
+        "For the crust": [
+            "225g/8oz ready-made shortcrust pastry",
+            "flour, for dusting",
+            "1 free-range egg, yolk only"
+        ],
         "For the pie filling": [
             "1 wild rabbit, cut into serving pieces",
             "salt and freshly ground black pepper",
@@ -33,16 +44,13 @@
             "1 bay leaf",
             "1 handful chopped fresh rosemary leaves",
             "1 tbsp Dijon mustard"
-        ],
-        "For the beurre mani\u00e9": [
-            "40g/1\u00bd oz butter, softened",
-            "40g/1\u00bdoz plain flour"
-        ],
-        "For the crust": [
-            "225g/8oz ready-made shortcrust pastry",
-            "flour, for dusting",
-            "1 free-range egg, yolk only"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "8",
+    "serves": "Serves 4",
+    "show": {
+        "b00701fw": "A Taste of My Life"
     },
     "steps": [
         "Soak the rabbit in water for an hour to whiten the flesh.",
@@ -56,8 +64,9 @@
         "Roll out the rest of the pastry into a circle large enough to fit over the pie dish. Place the pastry circle on top of the dish and press the overhanging edges down into the pastry strip, sealing well. Make a few slits in the top of the pastry to let out the steam and prevent the crust from going soggy.",
         "Bake in the oven for 30-40 minutes, or until the pastry is golden-brown and crisp. Slice into wedges and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Rabbit pie",
     "videos": "[]"
 }

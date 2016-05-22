@@ -1,52 +1,34 @@
 {
-    "title": "Seafood ramen",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "If you are looking for an authentic recipe for seafood ramen then look no further. It takes time and effort but the exceptional results make it worthwhile.",
     "author": {
         "ken_yamada": "Ken Yamada"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        "The leftover stocks and salt base can be frozen for future use."
+    "cookTime": "over 2 hours",
+    "cusine": "Japanese",
+    "description": "If you are looking for an authentic recipe for seafood ramen then look no further. It takes time and effort but the exceptional results make it worthwhile.",
+    "dishes": [
+        "bun",
+        "noodle_soup",
+        "sauce",
+        "seafood",
+        "soup",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the soy base and seasoned eggs": [
-            "2g bonito flakes",
-            "75ml/2\u00bdfl oz sake",
-            "7g sea salt",
-            "500ml/18fl oz soy sauce",
-            "\u00bd bulb garlic, peeled and roughly chopped",
-            "20g/\u00beoz fresh root ginger, peeled and roughly chopped",
-            "\u2153 red chilli, roughly chopped",
-            "2 bunches spring onions, roughly chopped",
-            "6 free-range eggs"
-        ],
         "For the chicken stock": [
             "1 cluster (about 300g/10\u00bdoz) fresh root ginger, peeled and roughly chopped",
             "1 bulb garlic, peeled and roughly chopped",
             "1 bunch spring onions, roughly chopped",
             "1 large onion, roughly chopped",
             "1 small whole free-range chicken"
-        ],
-        "For the salt base": [
-            "20g/\u00beoz konbu",
-            "20g/\u00beoz bonito flakes",
-            "75g/2\u00bdoz sea salt",
-            "4 tbsp sake",
-            "1 tbsp mirin",
-            "2 tbsp rice vinegar",
-            "1 tbsp soy sauce"
         ],
         "For the garnish": [
             "500g/1lb 2oz fresh ramen noodles",
@@ -57,7 +39,33 @@
             "1 spring onion, sliced",
             "10g/\u2153oz sesame seeds",
             "salt and pepper"
+        ],
+        "For the salt base": [
+            "20g/\u00beoz konbu",
+            "20g/\u00beoz bonito flakes",
+            "75g/2\u00bdoz sea salt",
+            "4 tbsp sake",
+            "1 tbsp mirin",
+            "2 tbsp rice vinegar",
+            "1 tbsp soy sauce"
+        ],
+        "For the soy base and seasoned eggs": [
+            "2g bonito flakes",
+            "75ml/2\u00bdfl oz sake",
+            "7g sea salt",
+            "500ml/18fl oz soy sauce",
+            "\u00bd bulb garlic, peeled and roughly chopped",
+            "20g/\u00beoz fresh root ginger, peeled and roughly chopped",
+            "\u2153 red chilli, roughly chopped",
+            "2 bunches spring onions, roughly chopped",
+            "6 free-range eggs"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the soy base and seasoned eggs, in a large stock pot bring 1 litre/1\u00be pints water to the boil. Add the bonito flakes and cook for 10 minutes. Remove the bonito flakes using a sieve.",
@@ -72,8 +80,9 @@
         "Bring a large pan of water to boil and cook the fresh noodles for 34 seconds and drain.",
         "To serve, put a tablespoon of the salt base into each bowl. Add 350ml/12fl oz of the chicken stock to each bowl. Add the cooked noodles, squid, prawns, clams, a seasoned egg, halved and some slices of spring onion. Drizzle with a little chicken fat and finish with a sprinkling of sesame seeds."
     ],
-    "howTos": [
-        
+    "tips": [
+        "The leftover stocks and salt base can be frozen for future use."
     ],
+    "title": "Seafood ramen",
     "videos": "[]"
 }

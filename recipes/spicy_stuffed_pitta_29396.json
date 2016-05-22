@@ -1,24 +1,21 @@
 {
-    "title": "Spicy stuffed pitta",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 2",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "A super quick, warm pitta sandwich of lightly spiced courgette slices and juicy tomatoes. Each serving provides 484kcal, 14g protein, 47g carbohydrate (of which 8g sugars), 26g fat (of which 4g saturates), 6g fibre and 0.8g salt.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b01nd35k": "Nigel Slater's Dish of the Day"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "A super quick, warm pitta sandwich of lightly spiced courgette slices and juicy tomatoes. Each serving provides 484kcal, 14g protein, 47g carbohydrate (of which 8g sugars), 26g fat (of which 4g saturates), 6g fibre and 0.8g salt.",
+    "dishes": [
+        "bread",
+        "sandwich"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +28,12 @@
             "2 pitta breads"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Makes 2",
+    "show": {
+        "b01nd35k": "Nigel Slater's Dish of the Day"
+    },
     "steps": [
         "Preheat the grill.",
         "Grind the cumin and coriander seeds with the garam masala in a mortar and pestle and add the oil.",
@@ -39,8 +42,9 @@
         "Toast the pitta bread under the grill.",
         "Fill the pittas with the courgettes and tomatoes and squeeze down to release the tomato juice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spicy stuffed pitta",
     "videos": "[p0107hr6:p0107hrc]"
 }

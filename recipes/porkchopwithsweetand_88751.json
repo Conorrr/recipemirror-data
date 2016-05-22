@@ -1,23 +1,21 @@
 {
-    "title": "Pork chop with sweet and sour tomatoes, mustard sauce and savoury rice",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "ketchup",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -30,6 +28,14 @@
             "splash white wine",
             "small handful fresh sage, chopped"
         ],
+        "For the savoury rice": [
+            "200g/7oz basmati rice",
+            "1 tbsp olive oil, plus extra for greasing",
+            "1 fig, chopped",
+            "\u00bd tomato, chopped",
+            "small handful fresh basil, chopped",
+            "salt and freshly ground black pepper"
+        ],
         "For the sweet and sour tomatoes": [
             "1 tbsp olive oil",
             "\u00bd onion, finely chopped",
@@ -38,15 +44,13 @@
             "1 tsp red wine vinegar",
             "2 tsp tomato ketchup",
             "salt and freshly ground black pepper"
-        ],
-        "For the savoury rice": [
-            "200g/7oz basmati rice",
-            "1 tbsp olive oil, plus extra for greasing",
-            "1 fig, chopped",
-            "\u00bd tomato, chopped",
-            "small handful fresh basil, chopped",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the pork, heat the olive oil in a frying pan. Add the pork, season with salt and freshly ground black pepper and fry until golden-brown on both sides.",
@@ -57,8 +61,9 @@
         "Heat the olive oil in a saucepan, add the cooked rice, chopped fig, tomato, basil, salt and freshly ground black pepper and stir well over a low heat until warmed through.",
         "To serve, pack the rice into a lightly greased ramekin, then turn out onto a serving plate. Place the pork chop next to the rice and pour over the mustard sauce from the pan. Spoon the sweet and sour tomatoes on the side and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pork chop with sweet and sour tomatoes, mustard sauce and savoury rice",
     "videos": "[]"
 }

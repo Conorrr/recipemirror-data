@@ -1,35 +1,29 @@
 {
-    "title": "Goujons of sole with lemon and mushy peas",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "James Martin's tasty alternative to fish and chips using lemon sole.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "James Martin's tasty alternative to fish and chips using lemon sole.",
+    "dishes": [
+        "bread",
+        "chips",
+        "dips",
+        "goujons",
+        "jam",
+        "pie",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "450g/1Ib sole or lemon sole fillets, skinned",
-            "sunflower oil for deep-frying",
-            "50g/1\u00beoz plain flour",
-            "salt",
-            "freshly ground black pepper",
-            "3 medium eggs beaten",
-            "125g/4\u00bdoz fine fresh breadcrumbs"
-        ],
         "For the mushy peas": [
             "225g/8oz dried marrowfat peas",
             "1 tsp bicarbonate of soda",
@@ -40,7 +34,22 @@
         "To serve": [
             "\u00bd tsp cayenne pepper",
             "2 lemons cut into wedges"
+        ],
+        "default": [
+            "450g/1Ib sole or lemon sole fillets, skinned",
+            "sunflower oil for deep-frying",
+            "50g/1\u00beoz plain flour",
+            "salt",
+            "freshly ground black pepper",
+            "3 medium eggs beaten",
+            "125g/4\u00bdoz fine fresh breadcrumbs"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Cut each sole or lemon sole fillet into strips, on the diagonal, about 1cm/\u00bd in thick. Mix the breadcrumbs with the cayenne pepper and leave to one side. Heat the oil in a deep fat fryer to 190C/375F.",
@@ -52,8 +61,9 @@
         "The peas should be soft and mushy in texture but not too dry. If they are wet, continue cooking over the heat with the lid off to dry out a little. Beat in the butter and season.",
         "Serve the mushy peas with the fish, sprinkle with a little cayenne pepper and top with a lemon wedge."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Goujons of sole with lemon and mushy peas",
     "videos": "[]"
 }

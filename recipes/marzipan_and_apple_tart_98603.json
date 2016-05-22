@@ -1,24 +1,26 @@
 {
-    "title": "Marzipan and apple tart with caramel sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Think you don't like marzipan? Think again! Try this recipe with almonds, apples, caramel sauce and puff pastry.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Think you don't like marzipan? Think again! Try this recipe with almonds, apples, caramel sauce and puff pastry.",
+    "dishes": [
+        "caramel",
+        "jam",
+        "marzipan",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the marzipan": [
@@ -26,6 +28,11 @@
             "250g/9oz ground almonds",
             "1 free-range egg, white only, lightly whisked",
             "\u00bc tsp almond extract"
+        ],
+        "For the sauce": [
+            "115g/4oz dark soft brown sugar",
+            "115g/4oz butter",
+            "175ml/6fl oz double cream"
         ],
         "For the tart": [
             "500g/1lb 2oz all butter ready-made puff pastry",
@@ -35,15 +42,16 @@
             "4 tbsp caster sugar",
             "4 tbsp apricot jam"
         ],
-        "For the sauce": [
-            "115g/4oz dark soft brown sugar",
-            "115g/4oz butter",
-            "175ml/6fl oz double cream"
-        ],
         "To serve": [
             "250ml/9fl oz vanilla ice cream",
             "4 sprigs mint"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "To make the marzipan, heat the sugar and 75ml/5 tbsp water in a saucepan until dissolved then boil the syrup until the mixture reaches 100C/220F (use a sugar thermometer to measure this). This is known as the soft ball stage, when a drop placed in cold water to cool down, it will form a soft ball.",
@@ -62,8 +70,9 @@
         "Pour in the double cream and simmer gently for 3-5 minutes, or until the mixture thickens slightly.",
         "To serve, place a tart into the centre of each serving plate, drizzle the caramel sauce around the outside. Top with a ball of ice cream and sprig of mint and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Marzipan and apple tart with caramel sauce",
     "videos": "[]"
 }

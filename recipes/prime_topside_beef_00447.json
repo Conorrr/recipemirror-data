@@ -1,23 +1,26 @@
 {
-    "title": "Prime topside beef burger",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Don\u2019t skimp on the quality of your beef and you\u2019ll have a burger worth serving with these homemade rosemary-salted chips and mustard mayo. Add a slice of cheese for extra decadence if you like too.",
     "author": {
         "jun_tanaka": "Jun Tanaka"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        "If it's a priority that this recipe is dairy free, check the label on the bread rolls as some contain dairy products."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "Don\u2019t skimp on the quality of your beef and you\u2019ll have a burger worth serving with these homemade rosemary-salted chips and mustard mayo. Add a slice of cheese for extra decadence if you like too.",
+    "dishes": [
+        "beef_burger",
+        "bread",
+        "bun",
+        "chips",
+        "mayonnaise",
+        "pickle",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -32,18 +35,24 @@
             "8 slices cooked streaky bacon",
             "1 Little Gem lettuce"
         ],
-        "For the mustard mayonnaise": [
-            "2 free-range egg yolks",
-            "100ml/3\u00bdfl oz vegetable oil",
-            "25ml/1fl oz white wine vinegar",
-            "1 tbsp wholegrain mustard"
-        ],
         "For the chips": [
             "800g/1lb 12oz Maris Piper potatoes, peeled and cut into chunky chips",
             "vegetable oil, for deep fat frying",
             "1 bunch of rosemary",
             "sea salt"
+        ],
+        "For the mustard mayonnaise": [
+            "2 free-range egg yolks",
+            "100ml/3\u00bdfl oz vegetable oil",
+            "25ml/1fl oz white wine vinegar",
+            "1 tbsp wholegrain mustard"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "For the burgers, thinly slice the red onion and place in a bowl with the red wine vinegar and sugar. Set aside to pickle while you make the burger.",
@@ -58,8 +67,9 @@
         "Preheat a grill to hot. Cook the burgers for 4-5 minutes each side under the grill.",
         "Layer the burger on the roll with gherkin, bacon and reserved onion. Serve with the hot rosemary-salted chips and mustard mayonnaise."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If it's a priority that this recipe is dairy free, check the label on the bread rolls as some contain dairy products."
     ],
+    "title": "Prime topside beef burger",
     "videos": "[]"
 }

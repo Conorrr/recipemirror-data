@@ -1,26 +1,31 @@
 {
-    "title": "Banana millionaire's shortbread with banana 'ice cream'",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6-8",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "jam",
+        "oven-baked_dishes",
+        "shortbread"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the banana 'ice cream'": [
+            "4 bananas, peeled and chopped",
+            "\u00bc tsp vanilla essence",
+            "3-4 tbsp caster sugar",
+            "150ml/5fl oz buttermilk"
+        ],
         "For the caramel": [
             "200g/7oz unsalted butter",
             "200g/7oz caster sugar",
@@ -34,15 +39,15 @@
             "500g/1lb 2oz milk chocolate, chopped",
             "6-8 large bananas, peeled and sliced lengthways"
         ],
-        "For the banana 'ice cream'": [
-            "4 bananas, peeled and chopped",
-            "\u00bc tsp vanilla essence",
-            "3-4 tbsp caster sugar",
-            "150ml/5fl oz buttermilk"
-        ],
         "To serve": [
             "1 banana, sliced diagonally"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "1",
+    "serves": "Serves 6-8",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the caramel, place the butter and sugar into a non-stick pan over a low heat, stirring until the butter melts and the sugar dissolves. Add the condensed milk and slowly bring to the boil, stirring continuously, to make the caramel. As soon as the mixture thickens and begins to smell of caramel, remove from the heat.",
@@ -59,8 +64,9 @@
         "When ready to serve the shortbread, place the frozen banana into a food processor. Add the vanilla essence, caster sugar and buttermilk and blend to a pur\u00e9e. The mixture should be frozen but slightly soft.",
         "To serve, cut the shortbread into even squares in the tin. Remove a square and place onto a serving plate. Top with a ball of the banana 'ice cream' and a slice of banana."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Banana millionaire's shortbread with banana 'ice cream'",
     "videos": "[]"
 }

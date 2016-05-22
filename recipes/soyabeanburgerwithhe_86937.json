@@ -1,36 +1,27 @@
 {
-    "title": "Soya bean burger with herb salad and mango salsa",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "jam",
+        "salad",
+        "salsa",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the soya bean burger": [
-            "150g/5\u00bdoz frozen soya beans",
-            "1 bird's-eye chilli, seeds removed, chopped",
-            "55g/2oz breadcrumbs",
-            "2 spring onions, chopped",
-            "2 tbsp chopped fresh coriander",
-            "1 free-range egg, lightly beaten",
-            "1 tsp plain flour",
-            "1 tbsp olive oil"
-        ],
         "For the salad": [
             "1 tbsp olive oil",
             "1 tsp soy sauce",
@@ -44,7 +35,23 @@
             "1 tbsp chopped fresh mint, coriander and flatleaf parsley leaves",
             "\u00bd orange, juice only",
             "1 tbsp olive oil"
+        ],
+        "For the soya bean burger": [
+            "150g/5\u00bdoz frozen soya beans",
+            "1 bird's-eye chilli, seeds removed, chopped",
+            "55g/2oz breadcrumbs",
+            "2 spring onions, chopped",
+            "2 tbsp chopped fresh coriander",
+            "1 free-range egg, lightly beaten",
+            "1 tsp plain flour",
+            "1 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the soya bean burger, place the soya beans, chilli, breadcrumbs, spring onions, coriander and egg into a food processor and pulse briefly to combine.",
@@ -54,8 +61,9 @@
         "For the salsa, mix together all the salsa ingredients in a small bowl.",
         "To serve, place the burger on top of the herb salad and top with a generous spoonful of salsa."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Soya bean burger with herb salad and mango salsa",
     "videos": "[]"
 }

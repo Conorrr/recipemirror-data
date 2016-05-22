@@ -1,23 +1,25 @@
 {
-    "title": "Salmon with a quinoa salad and ginger sauce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A healthy and filling dish with lots of delicious veggies and plenty of protein to keep you feeling full. For this recipe you will need a food processor and a griddle pan.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "A healthy and filling dish with lots of delicious veggies and plenty of protein to keep you feeling full. For this recipe you will need a food processor and a griddle pan.",
+    "dishes": [
+        "bun",
+        "chutney",
+        "curry",
+        "jam",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -35,6 +37,10 @@
             "\u00bd tsp mustard seeds",
             "5-6 curry leaves"
         ],
+        "For the pan fried salmon": [
+            "1 tbsp olive oil",
+            "4 salmon fillets (200-250g/7-9oz each), skin-on and pin boned"
+        ],
         "For the quinoa salad": [
             "2 tbsp olive oil",
             "\u00bd small cauliflower, cut into florets and thinly sliced",
@@ -48,11 +54,13 @@
             "\u00bc bunch coriander",
             "\u00bc bunch mint",
             "salt and pepper"
-        ],
-        "For the pan fried salmon": [
-            "1 tbsp olive oil",
-            "4 salmon fillets (200-250g/7-9oz each), skin-on and pin boned"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the ginger sauce, heat 2 tablespoons of oil in a frying pan. Fry the cumin seeds over a low heat for 1-2 minutes then add the sesame seeds, ginger, green chilli and chilli powder. Season with a little salt. Stir fry for 2-3 minutes and then cover the mixture with a circle of greaseproof paper and let it cook very gently for 40-45 minutes.",
@@ -63,8 +71,9 @@
         "For the salmon, heat a large frying pan and add the oil. Once hot, add the salmon skin-side down. Cook for 2-3 minutes then turn over and cook for a further 4-5 minutes.",
         "To serve, dress the plates with the ginger sauce and dot round the salad. Place the salmon on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salmon with a quinoa salad and ginger sauce",
     "videos": "[]"
 }

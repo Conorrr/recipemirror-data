@@ -1,33 +1,23 @@
 {
-    "title": "Squid with herb salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "pie",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the squid": [
-            "100g/3\u00bdoz plain flour",
-            "1 tsp sea salt",
-            "1 tsp cracked black pepper",
-            "1 squid, main body cleaned, opened flat, scored and trimmed.",
-            "2 tbsp vegetable oil"
-        ],
         "For the herb salad": [
             "1 lime, juice only",
             "1 tbsp olive oil",
@@ -39,7 +29,20 @@
             "25g/1oz fresh flatleaf parsley leaves",
             "25g/1oz fresh dill, stalks removed",
             "1 tbsp sesame seeds"
+        ],
+        "For the squid": [
+            "100g/3\u00bdoz plain flour",
+            "1 tsp sea salt",
+            "1 tsp cracked black pepper",
+            "1 squid, main body cleaned, opened flat, scored and trimmed.",
+            "2 tbsp vegetable oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "To make the squid, mix the flour, salt and freshly ground black pepper in a large bowl.",
@@ -51,8 +54,9 @@
         "Sprinkle with sesame seeds and transfer to a plate.",
         "Serve with the squid pieces sprinkled over the salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Squid with herb salad",
     "videos": "[]"
 }

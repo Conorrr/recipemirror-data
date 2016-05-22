@@ -1,24 +1,30 @@
 {
-    "title": "Steak and kidney pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "39",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/steakandkidneypie_73308_16x9.jpg"
-    ],
-    "description": "Make the most of inexpensive cuts of beef for this steak and kidney pie recipe - meltingly tender after long slow cooking.",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Make the most of inexpensive cuts of beef for this steak and kidney pie recipe - meltingly tender after long slow cooking.",
+    "dishes": [
+        "gravy",
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "slow-cooked_dishes",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/steakandkidneypie_73308_16x9.jpg"
     ],
     "ingredients": {
         "For the base": [
@@ -36,6 +42,12 @@
             "a dash of Worcestershire sauce"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "39",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7",
         "Heat the vegetable oil in a large frying pan, and brown the beef all over. (You may need to do this in batches.) Set aside, then brown the kidneys on both sides in the same pan. Add the onions and cook for 3-4 minutes.",
@@ -48,8 +60,9 @@
         "Brush the surface with the beaten egg mixture and bake for 30-40 minutes until golden-brown and puffed.",
         "Serve with creamy mash and steamed vegetables to soak up the gravy."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steak and kidney pie",
     "videos": "[]"
 }

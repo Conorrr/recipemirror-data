@@ -1,24 +1,25 @@
 {
-    "title": "Rogan josh",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "54",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/myroganjosh_90030_16x9.jpg"
-    ],
-    "description": "Take on the takeaway with Anjum Anand's recipe for the ultimate lamb rogan josh.",
     "author": {
         "anjum_anand": "Anjum Anand"
     },
-    "show": {
-        "b007szxr": "Indian Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "Take on the takeaway with Anjum Anand's recipe for the ultimate lamb rogan josh.",
+    "dishes": [
+        "curry",
+        "lamb_curry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/myroganjosh_90030_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -44,6 +45,12 @@
             "handful chopped fresh coriander, leaves and stalks"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "54",
+    "serves": "Serves 6",
+    "show": {
+        "b007szxr": "Indian Food Made Easy"
+    },
     "steps": [
         "Heat the oil in a large pan over a medium heat. Add the black peppercorns, black and green cardamom pods, cloves, cinnamon and mace and fry for 1-2 minutes, or until the spices are sizzling and fragrant.",
         "Add the chopped onion and fry for 8-10 minutes, stirring regularly, until golden-brown.",
@@ -55,8 +62,9 @@
         "Add enough boiling water to almost cover the lamb, bring the mixture to the boil, then reduce the heat to a simmer and simmer or 8-10 minutes, or until the lamb is cooked through.",
         "Stir in the chopped coriander just before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Rogan josh",
     "videos": "[]"
 }

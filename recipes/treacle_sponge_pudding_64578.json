@@ -1,26 +1,35 @@
 {
-    "title": "Treacle sponge pudding with spiced pears",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This steamed pudding is a deceptively easy recipe that will go down well with everyone you serve it to. For this recipe, you will need a terrine mould and a lidded saucepan large enough to fit it into.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b06s5h9c": "Home Comforts at Christmas"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "This steamed pudding is a deceptively easy recipe that will go down well with everyone you serve it to. For this recipe, you will need a terrine mould and a lidded saucepan large enough to fit it into.",
+    "dishes": [
+        "custard",
+        "jam",
+        "pie",
+        "sauce",
+        "sponge_pudding",
+        "terrine"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the custard": [
+            "250ml/9fl oz full-fat milk",
+            "250ml/9fl oz double cream",
+            "1 vanilla pod, split in half, seeds scraped out using a sharp knife",
+            "110g/4oz caster sugar",
+            "6 free-range egg yolks"
+        ],
         "For the pudding": [
             "200g/7oz golden syrup",
             "1 pear, peeled, thinly sliced from top to bottom",
@@ -37,14 +46,13 @@
             "4 pears, peeled and cut into quarters from top to bottom",
             "1 orange, pared zest only",
             "1 lemon, pared zest only"
-        ],
-        "For the custard": [
-            "250ml/9fl oz full-fat milk",
-            "250ml/9fl oz double cream",
-            "1 vanilla pod, split in half, seeds scraped out using a sharp knife",
-            "110g/4oz caster sugar",
-            "6 free-range egg yolks"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b06s5h9c": "Home Comforts at Christmas"
     },
     "steps": [
         "Grease a 1kg/2lb 4oz rectangular terrine mould or loaf tin with butter.",
@@ -60,8 +68,9 @@
         "When the sponge pudding is cooked, turn the heat off and allow to cool slightly before removing it from the pan. Unwrap the pudding and remove the greaseproof paper. Place a plate on top of the pudding and flip it over, holding the plate firmly in place. Set aside for 1-2 minutes, then remove the terrine mould \u2013 the pudding should just slide out.",
         "To serve, pile the pears into a serving bowl with the cooking liquid and pour the custard into a jug. Serve with the sliced sponge pudding."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Treacle sponge pudding with spiced pears",
     "videos": "[p03b2js2:p03b2jsc]"
 }

@@ -1,32 +1,28 @@
 {
-    "title": "Cinnamon-spiced pear tatin",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "A delicious twist on a classic tarte tatin. James Martin spices his up with cinnamon.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        "If you are short on time you could use shop bought pastry."
+    "cookTime": "30 mins to 1 hour",
+    "description": "A delicious twist on a classic tarte tatin. James Martin spices his up with cinnamon.",
+    "dishes": [
+        "bread",
+        "caramel",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "tarte_tatin"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the rough puff pastry": [
-            "250g/9oz plain flour, plus extra for dusting",
-            "\u00bd tsp salt",
-            "250g/9oz cold butter, cut into small cubes",
-            "125ml/4\u00bdfl oz ice-cold water"
-        ],
         "For the pear tatin": [
             "4 pears, peeled, cores removed, cut in half",
             "110g/4oz caster sugar",
@@ -37,7 +33,19 @@
             "2 star anise",
             "\u00bd tsp ground cinnamon",
             "500ml/18fl oz vanilla ice cream, to serve"
+        ],
+        "For the rough puff pastry": [
+            "250g/9oz plain flour, plus extra for dusting",
+            "\u00bd tsp salt",
+            "250g/9oz cold butter, cut into small cubes",
+            "125ml/4\u00bdfl oz ice-cold water"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the rough puff pastry, place the flour and salt into a large mixing bowl. Add the butter and use your hands to rub the butter into the flour.",
@@ -56,8 +64,9 @@
         "Transfer to the oven to bake for 20-25 minutes, or until the pastry is risen and golden-brown and cooked through. Once cooked, remove the pear tatin from the oven and set aside to cool for 5-10 minutes.",
         "To serve, invert the tarte tatin onto a serving plate. Slice the tatin into wedges and place a slice onto each of 4 serving plates. Top each slice with a scoop of vanilla ice cream."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If you are short on time you could use shop bought pastry."
     ],
+    "title": "Cinnamon-spiced pear tatin",
     "videos": "[]"
 }

@@ -1,26 +1,35 @@
 {
-    "title": "Warm new potato salad with rosemary, raclette cheese and red peppers",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "salad",
+        "tapenade"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the tapenade": [
+            "black olives",
+            "1 clove garlic",
+            "1 onion",
+            "1 lemon, juice only",
+            "3 tbsp capers",
+            "6 anchovy fillets",
+            "flat leaf parsley chopped",
+            "extra virgin olive oil"
+        ],
         "default": [
             "170g/6oz boiled and diced new potatoes",
             "55g/2oz Raclette cheese or Abondance",
@@ -33,17 +42,13 @@
             "fresh rosemary",
             "salt",
             "freshly ground black pepper"
-        ],
-        "For the tapenade": [
-            "black olives",
-            "1 clove garlic",
-            "1 onion",
-            "1 lemon, juice only",
-            "3 tbsp capers",
-            "6 anchovy fillets",
-            "flat leaf parsley chopped",
-            "extra virgin olive oil"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Cut the red pepper in half, remove the seeds and top, and place on an oven tray. Drizzle the red pepper with olive oil and bake in a hot oven until brown on the top. Remove from the oven and place in a bowl while still hot and cover with cling film to allow cooling.",
@@ -51,8 +56,9 @@
         "Place a small pile of lettuce on the middle of the plate and the ring of potato and cheese on the top, remove the stainless steel ring. Spoon a pile of the tapenade on top of the cheese. Chop some fresh basil and add into the dressing.",
         "Check for seasoning again and spoon around the edge of the plate and serve."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Warm new potato salad with rosemary, raclette cheese and red peppers",
     "videos": "[]"
 }

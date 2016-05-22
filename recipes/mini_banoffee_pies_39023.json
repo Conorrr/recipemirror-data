@@ -1,26 +1,35 @@
 {
-    "title": "Mini banoffee pies",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 12",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "These mini versions of the dessert favourite are really cute. You could make the pastry cases and toffee filling well in advance.",
     "author": {
         "joanne_wheatley": "Joanne Wheatley"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "These mini versions of the dessert favourite are really cute. You could make the pastry cases and toffee filling well in advance.",
+    "dishes": [
+        "bread",
+        "icing",
+        "mousse",
+        "oven-baked_dishes",
+        "pastry",
+        "petit_fours",
+        "pie",
+        "stir-fries",
+        "toffee"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the banana mousse": [
+            "2 ripe bananas",
+            "500ml/18fl oz double cream",
+            "4 tbsp icing sugar"
+        ],
         "For the pastry": [
             "250g/9oz plain flour",
             "125g/4\u00bdoz cold butter, diced",
@@ -34,14 +43,15 @@
             "50g/1\u00beoz butter",
             "142ml/\u00bc pint double cream"
         ],
-        "For the banana mousse": [
-            "2 ripe bananas",
-            "500ml/18fl oz double cream",
-            "4 tbsp icing sugar"
-        ],
         "For the topping": [
             "125g/4\u00bdoz good-quality plain chocolate, shaved with a knife"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "7",
+    "serves": "Makes 12",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Grease a 12-hole petit four tin",
@@ -51,8 +61,9 @@
         "For the mousse, mash the bananas with a hand held blender. Whip the cream until it holds soft peaks then fold in the bananas and the sugar. Pour into a bowl and chill in the fridge.",
         "To assemble, spoon a little toffee into each pastry case. Spoon the mousse into a piping bag fitted with a plain nozzle and pipe on top of the toffee. Scatter over the shaved chocolate."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mini banoffee pies",
     "videos": "[]"
 }

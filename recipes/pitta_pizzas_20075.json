@@ -1,26 +1,31 @@
 {
-    "title": "Pitta pizzas",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 12 mini pizzas",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pitta_pizzas_20075_16x9.jpg"
-    ],
-    "description": "Pitta breads make a quick base for these pizzas. Freeze the breads and the sauce in ice-cube trays so you can whip up a pizza in ten minutes. Equipment and preparation: For this recipe you need a hand-held blender to make the tomato sauce.",
     "author": {
         "justine_pattison": "Justine Pattison"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "To cook from frozen, preheat the grill to a medium setting, then grill for 5-6 minutes, until piping hot throughout."
+    "cookTime": "10 to 30 mins",
+    "description": "Pitta breads make a quick base for these pizzas. Freeze the breads and the sauce in ice-cube trays so you can whip up a pizza in ten minutes. Equipment and preparation: For this recipe you need a hand-held blender to make the tomato sauce.",
+    "dishes": [
+        "bread",
+        "ham",
+        "pizza",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pitta_pizzas_20075_16x9.jpg"
+    ],
     "ingredients": {
+        "For the pizzas": [
+            "12 white or wholemeal pitta breads",
+            "200g/7oz sliced ham, finely chopped",
+            "250g/9oz grated mozzarella"
+        ],
         "For the tomato sauce": [
             "2 tbsp mlld olive oil or sunflower oil",
             "\u00bd onion, finely chopped",
@@ -32,12 +37,13 @@
             "1 tsp dried oregano",
             "1 bay leaf",
             "salt and freshly ground black pepper"
-        ],
-        "For the pizzas": [
-            "12 white or wholemeal pitta breads",
-            "200g/7oz sliced ham, finely chopped",
-            "250g/9oz grated mozzarella"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 12 mini pizzas",
+    "show": {
+        
     },
     "steps": [
         "Heat the oil in a large non-stick saucepan over a medium heat. Add the onion, carrot and pepper and fry for 4-5 minutes, stirring regularly, until softened. Add the garlic and fry for 1-2 minutes, stirring regularly.",
@@ -47,8 +53,9 @@
         "Place the pitta breads onto baking trays and spread some of the tomato sauce over each. Sprinkle over the ham and grated mozzarella. (At this point, the pizzas can be frozen on baking trays, then packed into freezer bags, ready for another day.)",
         "Grill the pizzas for 2-3 minutes, or until the bread is piping hot and the cheese has melted and turned golden-brown. Serve immediately."
     ],
-    "howTos": [
-        
+    "tips": [
+        "To cook from frozen, preheat the grill to a medium setting, then grill for 5-6 minutes, until piping hot throughout."
     ],
+    "title": "Pitta pizzas",
     "videos": "[]"
 }

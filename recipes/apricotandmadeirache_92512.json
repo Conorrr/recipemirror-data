@@ -1,26 +1,29 @@
 {
-    "title": "Apricot and Madeira cheesecake",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "cake",
+        "cheesecake",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "4 tbsp tinned apricot syrup",
+            "2 tinned apricot halves",
+            "1 fresh mint sprig"
+        ],
         "default": [
             "1 slice ready-made madeira cake",
             "150ml/5fl oz double cream",
@@ -29,12 +32,13 @@
             "\u00bd lemon, zest and juice",
             "2 tinned apricot halves, chopped",
             "6 raspberries"
-        ],
-        "To serve": [
-            "4 tbsp tinned apricot syrup",
-            "2 tinned apricot halves",
-            "1 fresh mint sprig"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Use a small chefs' ring to stamp out a circle of the Madeira cake. Discard the trimmings but keep the circle of cake in the ring.",
@@ -46,8 +50,9 @@
         "Place the apricot syrup and tinned apricot halves in a food processor and blend to a pur\u00e9e.",
         "Serve the cheesecake with the pur\u00e9e spooned around the side, garnished with a mint sprig."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Apricot and Madeira cheesecake",
     "videos": "[]"
 }

@@ -1,26 +1,30 @@
 {
-    "title": "Lamb stew with chapattis",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "pie",
+        "stew",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chapattis": [
+            "200g/7oz chapatti flour",
+            "pinch salt",
+            "warm water, to bind",
+            "1 tbsp black onion seeds"
+        ],
         "For the stew": [
             "2 tbsp vegetable oil",
             "\u00bd onion, peeled, sliced",
@@ -33,13 +37,13 @@
             "1 tomato, chopped",
             "handful fresh spinach",
             "salt and freshly ground black pepper"
-        ],
-        "For the chapattis": [
-            "200g/7oz chapatti flour",
-            "pinch salt",
-            "warm water, to bind",
-            "1 tbsp black onion seeds"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the stew, heat the vegetable oil in a pan over a medium heat. Fry the onion, garlic and ginger for 4-5 minutes, to soften.",
@@ -50,8 +54,9 @@
         "One by one, dry-fry the rolled-out dough circles in a frying pan on both sides until they start to bubble up and turn golden-brown.",
         "To serve, heat up the stew and serve with the two or more chapattis (keep any leftover chapattis for another meal)."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Lamb stew with chapattis",
     "videos": "[]"
 }

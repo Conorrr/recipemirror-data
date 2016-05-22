@@ -1,26 +1,39 @@
 {
-    "title": "Lamb madras with bombay potatoes",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "179",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lamb_madras_with_bombay_09160_16x9.jpg"
-    ],
-    "description": "Heavenly slow cooked lamb in a rich madras curry with spicy potatoes. A perfect Saturday night.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Indian",
+    "description": "Heavenly slow cooked lamb in a rich madras curry with spicy potatoes. A perfect Saturday night.",
+    "dishes": [
+        "casserole",
+        "curry",
+        "jam",
+        "lamb_curry",
+        "oven-baked_dishes",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lamb_madras_with_bombay_09160_16x9.jpg"
+    ],
     "ingredients": {
+        "For the Bombay potatoes": [
+            "500g/1lb 2oz potatoes, cut into 2cm/1in cubes",
+            "4 tbsp vegetable oil",
+            "\u00bd tsp mustard seeds",
+            "\u00bd tsp chilli powder",
+            "\u00bc tsp ground turmeric",
+            "2 tbsp fresh coriander, roughly chopped"
+        ],
         "For the lamb Madras": [
             "1 x 2.5kg/5\u00bdlb shoulder of lamb",
             "1 tbsp olive oil",
@@ -45,15 +58,13 @@
             "400g/14oz chopped tomatoes",
             "200ml/7fl oz beef stock",
             "2 tsp tamarind paste"
-        ],
-        "For the Bombay potatoes": [
-            "500g/1lb 2oz potatoes, cut into 2cm/1in cubes",
-            "4 tbsp vegetable oil",
-            "\u00bd tsp mustard seeds",
-            "\u00bd tsp chilli powder",
-            "\u00bc tsp ground turmeric",
-            "2 tbsp fresh coriander, roughly chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "179",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the roast shoulder of lamb, preheat the oven to 170C/325F/Gas 3.",
@@ -70,8 +81,9 @@
         "Cook for 5-8 minutes, or until the potatoes absorb the spices.",
         "To serve, place the lamb Madras on a serving plate with the potatoes alongside. Garnish with chopped coriander."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb madras with bombay potatoes",
     "videos": "[]"
 }

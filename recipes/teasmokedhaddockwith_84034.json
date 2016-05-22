@@ -1,32 +1,29 @@
 {
-    "title": "Tea-smoked haddock with herb gnocchi",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "gnocchi",
+        "jam",
+        "pie",
+        "sauce",
+        "sausage",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "creaming",
+        "using_piping_bags"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the haddock": [
-            "2 tea bags, split, tea removed, bags discarded",
-            "55g/2oz soft brown sugar",
-            "55g/2oz long grain rice",
-            "300g/11oz undyed haddock"
-        ],
         "For the gnocchi": [
             "75g/3oz butter",
             "75ml/3fl oz water",
@@ -37,6 +34,12 @@
             "1 tbsp roughly chopped, fresh parsley",
             "1 tbsp chopped, fresh chives"
         ],
+        "For the haddock": [
+            "2 tea bags, split, tea removed, bags discarded",
+            "55g/2oz soft brown sugar",
+            "55g/2oz long grain rice",
+            "300g/11oz undyed haddock"
+        ],
         "For the sauce": [
             "150ml/6fl oz fish stock",
             "75ml/3fl oz double cream",
@@ -44,6 +47,12 @@
             "1 tomato, finely chopped",
             "sea salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the haddock, mix together the tea, sugar and rice in a bowl.",
@@ -56,9 +65,9 @@
         "Meanwhile, for the sauce, mix the stock and cream together in a saucepan and simmer till the liquid has reduced by half. Add the chopped beans and diced tomato to the sauce, to taste, and season with salt and freshly ground black pepper.",
         "To serve, stir the gnocchi into the sauce and pour onto a serving plate. Carefully remove the haddock and place on top."
     ],
-    "howTos": [
-        "creaming",
-        "using_piping_bags"
+    "tips": [
+        
     ],
+    "title": "Tea-smoked haddock with herb gnocchi",
     "videos": "[]"
 }

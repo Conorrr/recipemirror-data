@@ -1,24 +1,24 @@
 {
-    "title": "Cauliflower and apple soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10",
-    "recommendations": "11",
-    "images": [
-        
-    ],
-    "description": "Take two classic British ingredients and whip up a light, fresh soup.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b01cbwfm": "Operation Hospital Food with James Martin"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Take two classic British ingredients and whip up a light, fresh soup.",
+    "dishes": [
+        "jam",
+        "sauce",
+        "soup",
+        "stock",
+        "vegetable_soup"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,6 +33,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 10",
+    "show": {
+        "b01cbwfm": "Operation Hospital Food with James Martin"
+    },
     "steps": [
         "Heat the olive oil and the butter in a large saucepan, add the onion, cover and fry gently for 3-4 minutes.",
         "Add the cauliflower and continue to cook for a further 2-3 minutes.",
@@ -40,8 +46,9 @@
         "Put the soup in a blender and pulse until smooth.",
         "Season to taste with salt and freshly ground black pepper then serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cauliflower and apple soup",
     "videos": "[]"
 }

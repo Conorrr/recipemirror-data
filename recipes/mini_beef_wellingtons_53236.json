@@ -1,32 +1,35 @@
 {
-    "title": "Mini beef Wellingtons",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 6 individual beef Wellingtons",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "These individual beef Wellingtons can either be served hot as a main course with veggies, or cold as a picnic treat.",
     "author": {
         "martha": "Martha Collison"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "These individual beef Wellingtons can either be served hot as a main course with veggies, or cold as a picnic treat.",
+    "dishes": [
+        "beef_wellington",
+        "bread",
+        "bun",
+        "ham",
+        "oven-baked_dishes",
+        "pastry",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "rolling_pastry",
+        "pulsing"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "100g/3\u00bdoz salted butter, cut into cubes and frozen",
-            "100g/3\u00bdoz lard, cut into cubes and frozen",
-            "250g/9oz plain flour",
-            "\u00bd tsp salt",
-            "1 tbsp lemon juice"
+        "For the beef": [
+            "6 x 80g/3oz pieces fillet steak",
+            "salt and freshly ground black pepper",
+            "6 slices prosciutto ham",
+            "1 free-range egg, beaten"
         ],
         "For the mushroom duxelle": [
             "garlic infused oil (available from most large supermarkets), for frying",
@@ -39,12 +42,19 @@
             "1 tsp sea salt",
             "cracked black pepper"
         ],
-        "For the beef": [
-            "6 x 80g/3oz pieces fillet steak",
-            "salt and freshly ground black pepper",
-            "6 slices prosciutto ham",
-            "1 free-range egg, beaten"
+        "For the pastry": [
+            "100g/3\u00bdoz salted butter, cut into cubes and frozen",
+            "100g/3\u00bdoz lard, cut into cubes and frozen",
+            "250g/9oz plain flour",
+            "\u00bd tsp salt",
+            "1 tbsp lemon juice"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes 6 individual beef Wellingtons",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the pastry, in a food processor, mix together the butter, lard, flour and salt until it resembles breadcrumbs. Add the lemon juice and enough cold water to bring the mixture together into a dough.",
@@ -60,9 +70,9 @@
         "When chilled, on a lightly floured work surface roll out the pastry to a 30cm x 45cm/12in x 18in rectangle (around 5mm thick). Using a sharp knife, cut it into 6cmx15cm/2in x 6in rectangles and spread with the mushroom mixture. Place a piece of beef in the middle of each square and wrap tightly in the pastry, taking care to ensure the meat is completely encased. Crimp the seam of the pastry and tuck in the ends.",
         "Brush with beaten egg, score the tops and bake for about 25 minutes, or until the pastry is crisp and golden-brown. Serve hot or cold."
     ],
-    "howTos": [
-        "rolling_pastry",
-        "pulsing"
+    "tips": [
+        
     ],
+    "title": "Mini beef Wellingtons",
     "videos": "[]"
 }

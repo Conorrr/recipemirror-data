@@ -1,33 +1,28 @@
 {
-    "title": "Buttermilk pannacotta with lemon-roasted apricots",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 4",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "Paul Rankin's twist on the James Martin favourite, buttermilk panna cotta adds sweet roasted apricots.",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Paul Rankin's twist on the James Martin favourite, buttermilk panna cotta adds sweet roasted apricots.",
+    "dishes": [
+        "biscotti",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "soup",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "de-seeding_vanilla_pods"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pannacotta": [
-            "300ml/10\u00bdfl oz double cream",
-            "1 split vanilla pod, split lengthwise",
-            "100ml/3\u00bdfl oz condensed milk",
-            "2 gelatine leaves, soaked in cold water for at least 10 minutes",
-            "350ml/12\u00bdfl oz buttermilk, at room temperature"
-        ],
         "For the lemon-roasted apricots": [
             "8 ripe apricots",
             "1 lemon, juice only",
@@ -35,9 +30,22 @@
             "4 pieces of lemon peel, (use a peeler and take most of the skin off a lemon)",
             "75g/2\u00bdoz sugar"
         ],
+        "For the pannacotta": [
+            "300ml/10\u00bdfl oz double cream",
+            "1 split vanilla pod, split lengthwise",
+            "100ml/3\u00bdfl oz condensed milk",
+            "2 gelatine leaves, soaked in cold water for at least 10 minutes",
+            "350ml/12\u00bdfl oz buttermilk, at room temperature"
+        ],
         "To serve": [
             "8-12 biscotti"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "7",
+    "serves": "Makes 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the buttermilk pannacotta, heat the double cream in a small saucepan with the split vanilla pod.",
@@ -56,8 +64,9 @@
         "Boil down to a syrup like consistency. Return the fruit to the syrup off the heat, and allow to cool.",
         "To serve, dip the pannacotta moulds into hot water for a few seconds, then gently turn out a buttermilk pannacotta in to the centre of a soup plate. Surround with two halves of apricots and a spoonful or two of the syrup. Garnish with a piece of the vanilla pod. Serve with biscotti on the side."
     ],
-    "howTos": [
-        "de-seeding_vanilla_pods"
+    "tips": [
+        
     ],
+    "title": "Buttermilk pannacotta with lemon-roasted apricots",
     "videos": "[]"
 }

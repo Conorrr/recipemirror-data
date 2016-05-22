@@ -1,24 +1,23 @@
 {
-    "title": "All-day breakfast frittata",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/all-day_breakfast_12416_16x9.jpg"
-    ],
-    "description": "We\u2019ve packed loads of extra veggies into this easy frittata so you can get the jump on your 5-a-day from the get go. But it\u2019s also great cold in a sandwich. Each serving provides 290 kcal, 24g protein, 11g carbohydrate (of which 3g sugars), 16g fat (of which 5g saturates), 3g fibre and 1.4g salt.",
     "author": {
         "emily_angle": "Emily Angle"
     },
-    "show": {
-        "b0725d98": "Food: Truth or Scare"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "We\u2019ve packed loads of extra veggies into this easy frittata so you can get the jump on your 5-a-day from the get go. But it\u2019s also great cold in a sandwich. Each serving provides 290 kcal, 24g protein, 11g carbohydrate (of which 3g sugars), 16g fat (of which 5g saturates), 3g fibre and 1.4g salt.",
+    "dishes": [
+        "frittata",
+        "salad",
+        "sandwich",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/all-day_breakfast_12416_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,6 +31,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b0725d98": "Food: Truth or Scare"
+    },
     "steps": [
         "Preheat the grill to medium-high. Grill the bacon until it is browned on both sides. Remove from the grill and set aside.",
         "Spray a small non-stick frying pan with spray oil and place on a medium-high heat. When the pan is hot, fry the mushrooms for 5 minutes, stirring frequently, until they are browned and softened. Set aside.",
@@ -41,8 +46,9 @@
         "When the tomatoes and potatoes are golden-brown in places, spoon them into the eggs with the other vegetables. Give the egg mixture a brief stir, then pour it back into the frying pan and place it back over the heat. Cook gently over a medium heat for 10 minutes, until the egg looks set around the edges (it may be a little runny on the top).",
         "Place the pan under the grill for 2 minutes to finish cooking the frittata on top. Turn out the frittata onto a plate and let it cool slightly before cutting into wedges. Serve with a crunchy salad for maximum veggies."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "All-day breakfast frittata",
     "videos": "[]"
 }

@@ -1,26 +1,47 @@
 {
-    "title": "Lemon-and-herb stuffed shoulder of lamb",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "The Hairy Bikers walk you through the simple steps to a gourmet lamb Sunday roast with all the trimmings.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b01qkkjj": "Hairy Bikers Everyday Gourmets"
-    },
-    "tips": [
-        "When trussing the stuffed lamb, first tie each end of the lamb; then tie it in the middle; finally, truss the spaces in between. This prevents the stuffing from bulging out. Before roasting, tie another piece of string around the lamb from one end to the other to hold the whole parcel together. Trim off any excess string."
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "The Hairy Bikers walk you through the simple steps to a gourmet lamb Sunday roast with all the trimmings.",
+    "dishes": [
+        "bread",
+        "jelly",
+        "oven-baked_dishes",
+        "pie",
+        "roast_lamb",
+        "sauce",
+        "stir-fries",
+        "stock",
+        "stuffing"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the boulang\u00e8re potatoes": [
+            "2 tbsp olive oil, plus extra for greasing",
+            "1 large onion, peeled, finely sliced",
+            "3-4 sprigs fresh thyme, plus extra to garnish",
+            "3 garlic cloves, peeled, finely sliced",
+            "1.2 kg/2lb 4oz floury potatoes, such as Maris Piper, peeled, thinly sliced to the thickness of a \u00a31 coin",
+            "400ml/14fl oz chicken or vegetable stock",
+            "sea salt flakes",
+            "freshly ground black pepper"
+        ],
+        "For the lamb": [
+            "2kg/4lb 8oz bone-out lamb shoulder (ask your butcher for the bone), fat and sinew trimmed",
+            "sea salt flakes",
+            "freshly ground black pepper",
+            "2 tsp extra virgin olive oil"
+        ],
         "For the lamb stock and jus": [
             "500g/1lb 2oz reserved lamb bones (see below)",
             "splash olive oil",
@@ -35,6 +56,12 @@
             "1 tbsp redcurrant jelly",
             "few sprigs fresh mint"
         ],
+        "For the mint sauce": [
+            "3 tbsp finely chopped fresh mint leaves, plus extra small whole mint leaves, to serve",
+            "2 tsp caster sugar",
+            "2 tbsp white wine vinegar",
+            "splash extra virgin olive oil"
+        ],
         "For the stuffing": [
             "3 tbsp extra virgin olive oil",
             "75-100g/2\u00bd-3\u00bdoz slightly stale white bread, crusts removed, bread cut into 1cm cubes",
@@ -47,29 +74,13 @@
             "3 heaped tbsp chopped fresh parsley",
             "1 tsp sea salt flakes",
             "freshly ground black pepper"
-        ],
-        "For the mint sauce": [
-            "3 tbsp finely chopped fresh mint leaves, plus extra small whole mint leaves, to serve",
-            "2 tsp caster sugar",
-            "2 tbsp white wine vinegar",
-            "splash extra virgin olive oil"
-        ],
-        "For the lamb": [
-            "2kg/4lb 8oz bone-out lamb shoulder (ask your butcher for the bone), fat and sinew trimmed",
-            "sea salt flakes",
-            "freshly ground black pepper",
-            "2 tsp extra virgin olive oil"
-        ],
-        "For the boulang\u00e8re potatoes": [
-            "2 tbsp olive oil, plus extra for greasing",
-            "1 large onion, peeled, finely sliced",
-            "3-4 sprigs fresh thyme, plus extra to garnish",
-            "3 garlic cloves, peeled, finely sliced",
-            "1.2 kg/2lb 4oz floury potatoes, such as Maris Piper, peeled, thinly sliced to the thickness of a \u00a31 coin",
-            "400ml/14fl oz chicken or vegetable stock",
-            "sea salt flakes",
-            "freshly ground black pepper"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "4",
+    "serves": "Serves 6",
+    "show": {
+        "b01qkkjj": "Hairy Bikers Everyday Gourmets"
     },
     "steps": [
         "For the lamb jus, first make some lamb stock. Put the lamb bones into a large saucepan with a little oil and fry over a medium to high heat for 8-10 minutes, until lightly browned all over. Add the onion, celery, carrot, thyme and bay leaf to the pan.",
@@ -94,8 +105,9 @@
         "Stir in the redcurrant jelly and the mint sprig and bring the mixture to a gentle simmer. Continue to simmer for 10 minutes, stirring occasionally, then season, to taste. Stir in any juices released from the resting meat, then strain the jus into a warmed jug.",
         "To serve, trim the ends off the roast lamb parcel, then remove the string. Carve the stuffed lamb shoulder into thick slices. Spoon a portion of boulang\u00e8re potatoes into the centre of each of six warmed plates. Place a few slices of stuffed lamb alongside each and drizzle over the lamb jus and a little mint sauce. Garnish with a few small whole mint leaves."
     ],
-    "howTos": [
-        
+    "tips": [
+        "When trussing the stuffed lamb, first tie each end of the lamb; then tie it in the middle; finally, truss the spaces in between. This prevents the stuffing from bulging out. Before roasting, tie another piece of string around the lamb from one end to the other to hold the whole parcel together. Trim off any excess string."
     ],
+    "title": "Lemon-and-herb stuffed shoulder of lamb",
     "videos": "[p014fbh0:p014fbh4]"
 }

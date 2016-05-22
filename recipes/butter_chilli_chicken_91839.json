@@ -1,26 +1,41 @@
 {
-    "title": "Butter chilli chicken with chips",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "32",
-    "images": [
-        
-    ],
-    "description": "A classy twist on curry and chips, one of the nation\u2019s favourite take-away dishes.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A classy twist on curry and chips, one of the nation\u2019s favourite take-away dishes.",
+    "dishes": [
+        "bread",
+        "chips",
+        "curry",
+        "jam",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chips": [
+            "vegetable oil, for frying",
+            "400g/14oz chipping potatoes, peeled and cut into batons 1cm x 1cm x 6cm/\u00bdin x \u00bdin x 2\u00bdin long"
+        ],
+        "For the curry": [
+            "50g/2oz butter",
+            "1 large onion, finely sliced",
+            "2 birds'-eye chillies, finely sliced",
+            "150ml/5fl oz double cream",
+            "200ml/7fl oz chicken stock",
+            "4 tbsp coriander leaves, roughly chopped",
+            "salt and freshly ground black pepper"
+        ],
         "For the marinade": [
             "150ml/5oz plain yoghurt",
             "50g/2oz ground almonds",
@@ -33,20 +48,13 @@
             "25g/1oz fresh root ginger, roughly chopped",
             "1 x 400g/14oz tin chopped tomatoes",
             "4 chicken breasts, boneless and skinless, cut into long strips"
-        ],
-        "For the curry": [
-            "50g/2oz butter",
-            "1 large onion, finely sliced",
-            "2 birds'-eye chillies, finely sliced",
-            "150ml/5fl oz double cream",
-            "200ml/7fl oz chicken stock",
-            "4 tbsp coriander leaves, roughly chopped",
-            "salt and freshly ground black pepper"
-        ],
-        "For the chips": [
-            "vegetable oil, for frying",
-            "400g/14oz chipping potatoes, peeled and cut into batons 1cm x 1cm x 6cm/\u00bdin x \u00bdin x 2\u00bdin long"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "32",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the marinade, place all the ingredients except the chicken into a food processor and blend to a pur\u00e9e.",
@@ -59,8 +67,9 @@
         "Place the semi-cooked chips back into oil in batches and cook for another 2-3 minutes until golden-brown and crisp.",
         "To serve, pile the chips onto serving plates and spoon the curry alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Butter chilli chicken with chips",
     "videos": "[]"
 }

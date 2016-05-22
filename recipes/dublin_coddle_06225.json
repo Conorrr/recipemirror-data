@@ -1,26 +1,33 @@
 {
-    "title": "Dublin coddle",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "10",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/dublin_coddle_06225_16x9.jpg"
-    ],
-    "description": "Simon Rimmer\u2019s recipe for Dublin coddle is a warming dish for the colder months.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Simon Rimmer\u2019s recipe for Dublin coddle is a warming dish for the colder months.",
+    "dishes": [
+        "bread",
+        "casserole",
+        "ketchup",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "sausage",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/dublin_coddle_06225_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "bread and butter",
+            "ketchup or brown sauce"
+        ],
         "default": [
             "300ml300ml/10fl oz strong chicken stock",
             "500g/1lb 2oz pork and leek sausages, sliced",
@@ -31,11 +38,13 @@
             "6 potatoes, peeled and cut into 0.5cm/\u00bcin thick slices",
             "50g/2oz butter",
             "salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "bread and butter",
-            "ketchup or brown sauce"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -43,8 +52,9 @@
         "Spread one of the sliced onions over the bottom of a casserole dish. Cover with the herbs and a layer of potatoes. Add some of the the pancetta pieces and sausages, reserving the stock.",
         "Repeat the layering process in step 3. Pour over the reserved stock, dot with the butter and season well with salt and freshly ground black pepper. Cover the dish with aluminum foil and bake in the oven for one hour."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Dublin coddle",
     "videos": "[]"
 }

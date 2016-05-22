@@ -1,37 +1,31 @@
 {
-    "title": "Sliced steak with Italian-style roast potatoes and spicy kale",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the steak": [
-            "150g/5\u00bdoz rump steak",
-            "dash olive oil",
-            "salt and freshly ground black pepper"
-        ],
         "For the Italian-style roast potatoes": [
             "100g/3\u00bdoz new potatoes",
             "2 tbsp olive oil",
             "4 garlic cloves, lightly crushed",
             "2 sprigs fresh rosemary",
             "salt and freshly ground black pepper"
+        ],
+        "For the balsamic glaze": [
+            "30ml/1fl oz balsamic vinegar"
         ],
         "For the spicy kale": [
             "dash olive oil",
@@ -41,9 +35,17 @@
             "pinch dried chilli flakes",
             "salt and freshly ground black pepper"
         ],
-        "For the balsamic glaze": [
-            "30ml/1fl oz balsamic vinegar"
+        "For the steak": [
+            "150g/5\u00bdoz rump steak",
+            "dash olive oil",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -53,8 +55,9 @@
         "For the balsamic glaze, pour the balsamic vinegar into a small pan and simmer over a low heat until reduced by half and syrupy.",
         "To serve, place the spicy kale onto a serving plate and top with the sliced steak. Serve the Italian-style potatoes on the side and drizzle over the balsamic glaze."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sliced steak with Italian-style roast potatoes and spicy kale",
     "videos": "[]"
 }

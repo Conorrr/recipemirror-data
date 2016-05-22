@@ -1,26 +1,33 @@
 {
-    "title": "Cappuccino \u00e9clairs",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 6-8 \u00e9clairs",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cappuccino_clairs_66675_16x9.jpg"
-    ],
-    "description": "Homemade \u00e9clairs are so satisfying to make and this recipe will whip you into coffee heaven for a moment of sweet bliss. Equipment and preparation: You'll need a piping bag fitted with a large plain nozzle.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Homemade \u00e9clairs are so satisfying to make and this recipe will whip you into coffee heaven for a moment of sweet bliss. Equipment and preparation: You'll need a piping bag fitted with a large plain nozzle.",
+    "dishes": [
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cappuccino_clairs_66675_16x9.jpg"
+    ],
     "ingredients": {
+        "For the filling": [
+            "300ml/10\u00bdfl oz double cream",
+            "1 vanilla pod, split and seeds scraped out",
+            "50g/2oz icing sugar",
+            "25ml/1fl oz strong coffee"
+        ],
         "For the pastry": [
             "75g/2\u00bdoz unsalted butter",
             "110ml/4fl oz water",
@@ -29,12 +36,6 @@
             "3 free-range eggs",
             "pinch salt"
         ],
-        "For the filling": [
-            "300ml/10\u00bdfl oz double cream",
-            "1 vanilla pod, split and seeds scraped out",
-            "50g/2oz icing sugar",
-            "25ml/1fl oz strong coffee"
-        ],
         "For the topping": [
             "125g/4oz soft dark brown sugar",
             "2 tbsp double cream",
@@ -42,6 +43,12 @@
             "25ml/1fl oz extra strong coffee",
             "175g/6oz icing sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 6-8 \u00e9clairs",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -56,8 +63,9 @@
         "Take the pan off the heat and gradually sift in the icing sugar, stirring well. Allow to cool, stirring occasionally.",
         "When the sauce has cooled and thickened, spread it on top of the \u00e9clairs and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cappuccino \u00e9clairs",
     "videos": "[]"
 }

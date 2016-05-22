@@ -1,26 +1,30 @@
 {
-    "title": "Sweet potato steamed pudding",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "jam",
+        "pie",
+        "steamed_pudding"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the ginger syrup": [
+            "110g/4oz caster sugar",
+            "5cm/2 inch piece of ginger, peeled and finely chopped",
+            "1 orange, peeled and segmented, to serve"
+        ],
         "default": [
             "30g/1oz unsalted butter, for greasing",
             "110g/4oz self-raising flour",
@@ -29,12 +33,13 @@
             "2 eggs",
             "\u00bd sweet potato, diced and boiled until soft",
             "2.5cm/1 inch piece of ginger, peeled and finely chopped"
-        ],
-        "For the ginger syrup": [
-            "110g/4oz caster sugar",
-            "5cm/2 inch piece of ginger, peeled and finely chopped",
-            "1 orange, peeled and segmented, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Grease a small pudding basin with butter.",
@@ -45,8 +50,9 @@
         "Turn out the sponge pudding onto a serving dish and drizzle the ginger syrup over.",
         "Garnish with the segmented orange and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sweet potato steamed pudding",
     "videos": "[]"
 }

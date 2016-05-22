@@ -1,33 +1,27 @@
 {
-    "title": "Vegetarian cottage pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gordon_jones": "Gordon Jones"
     },
-    "show": {
-        "b00mb9r7": "Virgin Cooks"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "cottage_pie",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the topping": [
-            "500g/1lb 2oz floury potatoes, such as King Edward or Maris Piper, peeled, cut into pieces",
-            "300g/10\u00bdoz parsnips or swede, peeled, cut into pieces, boiled until tender, drained",
-            "knob of butter",
-            "splash milk",
-            "salt and freshly ground black pepper"
-        ],
         "For the filling": [
             "1 tbsp rapeseed or groundnut oil",
             "1 onion, peeled, finely chopped",
@@ -42,7 +36,20 @@
             "salt and freshly ground black pepper",
             "sugar, to taste (optional)",
             "steamed green vegetables, to serve"
+        ],
+        "For the topping": [
+            "500g/1lb 2oz floury potatoes, such as King Edward or Maris Piper, peeled, cut into pieces",
+            "300g/10\u00bdoz parsnips or swede, peeled, cut into pieces, boiled until tender, drained",
+            "knob of butter",
+            "splash milk",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4-6",
+    "show": {
+        "b00mb9r7": "Virgin Cooks"
     },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5.",
@@ -56,8 +63,9 @@
         "Transfer to the oven and cook for 18-20 minutes, or until the topping is golden-brown and the filling is cooked through.",
         "Serve with steamed green vegetables."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Vegetarian cottage pie",
     "videos": "[]"
 }

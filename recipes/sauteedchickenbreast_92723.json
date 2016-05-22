@@ -1,26 +1,28 @@
 {
-    "title": "Saut\u00e9ed chicken breast with chilli, tomato and herb stew",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "garrey_dawson": "Garrey Dawson"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "pie",
+        "stew",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "testing_cooked_poultry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "1 tbsp chopped fresh chives",
+            "lemon wedges"
+        ],
         "default": [
             "2 tbsp olive oil",
             "1 chicken breast, cut in half lengthways (use the remaining chicken breast half in another recipe)",
@@ -32,11 +34,13 @@
             "\u00bd lime, juice only",
             "2 tbsp chopped fresh coriander",
             "2 tbsp chopped fresh parsley"
-        ],
-        "To serve": [
-            "1 tbsp chopped fresh chives",
-            "lemon wedges"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat one tablespoon of the oil in a frying pan over a medium heat. Add the chicken, season, to taste, with salt and freshly ground black pepper. Fry for 2-3 minutes on each side, or until pale golden-brown on both sides. Remove the chicken from the pan and set aside.",
@@ -44,8 +48,9 @@
         "Return the seared chicken to the tomato stew and cook for 8-10 minutes, or until the chicken is cooked through. (The chicken is cooked through when the juices run clear when pierced in the thickest part with a skewer.)",
         "To serve, stir in the lime juice and herbs and spoon onto a serving plate. Sprinkle over the chives and garnish with the lemon wedges."
     ],
-    "howTos": [
-        "testing_cooked_poultry"
+    "tips": [
+        
     ],
+    "title": "Saut\u00e9ed chicken breast with chilli, tomato and herb stew",
     "videos": "[]"
 }

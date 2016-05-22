@@ -1,26 +1,37 @@
 {
-    "title": "Pakora with mango chutney",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "bread",
+        "chutney",
+        "jam",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the batter": [
+            "200g/7oz gram flour (chickpea flour)",
+            "1 small red chilli, finely chopped",
+            "1 tsp ground turmeric",
+            "1 tsp cayenne pepper",
+            "salt and freshly ground black pepper",
+            "100-175ml/3\u00bd-6fl oz ice cold water",
+            "vegetable oil, for deep frying",
+            "plain yoghurt, to serve (optional)"
+        ],
         "For the mango chutney": [
             "2 tbsp vegetable oil",
             "2.5cm/1in piece fresh root ginger, peeled, minced",
@@ -37,17 +48,13 @@
             "2 onions, peeled, sliced",
             "1 head broccoli, cut into florets",
             "\u00bd cauliflower head, cut into florets"
-        ],
-        "For the batter": [
-            "200g/7oz gram flour (chickpea flour)",
-            "1 small red chilli, finely chopped",
-            "1 tsp ground turmeric",
-            "1 tsp cayenne pepper",
-            "salt and freshly ground black pepper",
-            "100-175ml/3\u00bd-6fl oz ice cold water",
-            "vegetable oil, for deep frying",
-            "plain yoghurt, to serve (optional)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the chutney, heat two tablespoons of vegetable oil in a frying pan over a medium heat. Add the ginger, chilli, lime zest and garlic and fry for 3-4 minutes, or until softened.",
@@ -59,8 +66,9 @@
         "Carefully lower the battered vegetables into the hot oil in batches and fry for 4-5 minutes, or until crisp and golden-brown. Remove from the heat using a slotted spoon and set aside to drain on kitchen paper. Repeat the process with the remaining battered vegetables.",
         "To serve, divide the pakora among four serving baskets. Serve the yoghurt (if using) and mango chutney in dipping bowls alongside."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Pakora with mango chutney",
     "videos": "[]"
 }

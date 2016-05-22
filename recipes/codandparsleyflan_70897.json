@@ -1,34 +1,28 @@
 {
-    "title": "Cod and parsley flan",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ed_baines": "Ed Baines"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bun",
+        "oven-baked_dishes",
+        "pastry",
+        "quiche",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "225g/8oz plain flour",
-            "a pinch of salt",
-            "100g/4oz butter",
-            "1 egg yolk",
-            "3 tbsp iced water",
-            "Or use shop bought short crust pastry"
-        ],
         "For the cod": [
             "4 cod fillets, each about 175g/6oz, skinned and any pin bones removed",
             "1 bay leaf",
@@ -43,7 +37,21 @@
             "a dash of Worcestershire sauce",
             "a bunch of fresh parsley, finely chopped",
             "60g/2oz sun-dried tomatoes, drained, patted dry and finely chopped"
+        ],
+        "For the pastry": [
+            "225g/8oz plain flour",
+            "a pinch of salt",
+            "100g/4oz butter",
+            "1 egg yolk",
+            "3 tbsp iced water",
+            "Or use shop bought short crust pastry"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Sift the flour and salt into a bowl, then rub in the chopped, softened butter, followed by the egg yolk and iced water.",
@@ -62,8 +70,9 @@
         "Remove the beans and paper and return to the oven for a further five minutes to finish cooking the base. Reduce the oven setting to 180C/350F/Gas 4.",
         "Allow the pastry case to cool a little, then pour in the filling and bake in the oven for about 30 minutes, until risen and golden brown."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Cod and parsley flan",
     "videos": "[]"
 }

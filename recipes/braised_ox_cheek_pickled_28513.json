@@ -1,26 +1,42 @@
 {
-    "title": "Braised ox cheek, pickled walnuts, smoked anchovy, glazed carrots and mash",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "Just leave everything braising in the oven for deliciously tender ox cheeks and extra rich sauce to go with the creamy mash.",
     "author": {
         "adam_bennett": "Adam Bennett"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Just leave everything braising in the oven for deliciously tender ox cheeks and extra rich sauce to go with the creamy mash.",
+    "dishes": [
+        "caramel",
+        "casserole",
+        "oven-baked_dishes",
+        "pickle",
+        "pie",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the glazed carrots": [
+            "300g/11oz Chantenay carrots, cut in half lengthways",
+            "75g/2\u00bdoz butter",
+            "salt",
+            "100g/3\u00bdoz carrot juice",
+            "1 sprig tarragon",
+            "squeeze of lemon juice"
+        ],
+        "For the mash": [
+            "1kg/2lb 4oz Maris Piper or Yukon Gold potatoes",
+            "150ml/5fl oz hot milk",
+            "150ml/5fl oz hot cream",
+            "250g/9oz butter, diced, at room temperature"
+        ],
         "default": [
             "4 ox cheeks, trimmed",
             "salt and freshly ground black pepper",
@@ -40,21 +56,13 @@
             "4 smoked anchovy fillets",
             "3-4 pickled walnuts, chopped",
             "2 tbsp chopped flatleaf parsley"
-        ],
-        "For the glazed carrots": [
-            "300g/11oz Chantenay carrots, cut in half lengthways",
-            "75g/2\u00bdoz butter",
-            "salt",
-            "100g/3\u00bdoz carrot juice",
-            "1 sprig tarragon",
-            "squeeze of lemon juice"
-        ],
-        "For the mash": [
-            "1kg/2lb 4oz Maris Piper or Yukon Gold potatoes",
-            "150ml/5fl oz hot milk",
-            "150ml/5fl oz hot cream",
-            "250g/9oz butter, diced, at room temperature"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Season the ox cheeks with salt and black pepper, cover and leave in the fridge for 24 hours until you are ready to cook.",
@@ -71,8 +79,9 @@
         "Mash the potatoes. While the potatoes are still hot, add the milk, cream and butter to your taste and mix to combine. Add salt if needed.",
         "To serve, divide the mash, ox cheek and carrots between four serving plates, warm the sauce adding the rest of the walnuts and the chopped parsley just before serving. Spoon the sauce over the cheeks."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Braised ox cheek, pickled walnuts, smoked anchovy, glazed carrots and mash",
     "videos": "[]"
 }

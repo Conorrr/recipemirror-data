@@ -1,24 +1,26 @@
 {
-    "title": "Mezze platter with flatbread",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "A great spread of three salads served with flatbread - grilled aubergine and feta, bean and egg salad, and spiced chickpeas - perfect for picnics or prepared in advance for lunch with friends.",
     "author": {
         "angela_hartnett": "Angela Hartnett"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Greek",
+    "description": "A great spread of three salads served with flatbread - grilled aubergine and feta, bean and egg salad, and spiced chickpeas - perfect for picnics or prepared in advance for lunch with friends.",
+    "dishes": [
+        "bread",
+        "bun",
+        "crumble",
+        "flatbread",
+        "oven-baked_dishes",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the aubergine and feta": [
@@ -31,21 +33,6 @@
             "1 tbsp golden raisins",
             "200g/7oz feta cheese, crumbled",
             "1 tsp whole mint leaves, to garnish"
-        ],
-        "For the three bean salad with soft-boiled eggs": [
-            "400g/14oz green beans",
-            "400g/14oz yellow runner beans",
-            "400g/14oz runner beans",
-            "3 free-range eggs",
-            "3 tbsp olive oil",
-            "1 garlic clove, crushed",
-            "1 tsp red chilli, sliced",
-            "1 tbsp red wine vinegar",
-            "1 tsp Dijon mustard",
-            "1 lemon, zest only",
-            "1 tbsp torn mint leaves",
-            "1 tbsp torn parsley leaves",
-            "4 spring onions, chopped"
         ],
         "For the chickpea salad": [
             "250g/9oz dried chickpeas, soaked overnight",
@@ -66,9 +53,30 @@
             "5g instant yeast",
             "1 tsp olive oil"
         ],
+        "For the three bean salad with soft-boiled eggs": [
+            "400g/14oz green beans",
+            "400g/14oz yellow runner beans",
+            "400g/14oz runner beans",
+            "3 free-range eggs",
+            "3 tbsp olive oil",
+            "1 garlic clove, crushed",
+            "1 tsp red chilli, sliced",
+            "1 tbsp red wine vinegar",
+            "1 tsp Dijon mustard",
+            "1 lemon, zest only",
+            "1 tbsp torn mint leaves",
+            "1 tbsp torn parsley leaves",
+            "4 spring onions, chopped"
+        ],
         "To serve": [
             "200g/7oz thick yoghurt"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the aubergine and feta, preheat the oven to 200C/400F/Gas 6.",
@@ -89,8 +97,9 @@
         "To cook the flatbread, heat a cast iron pan. Divide the dough into balls and roll out to about the thickness of a pound coin. Lay them on the hot pan in batches and cook for a couple of minutes on each side, or until all the raw dough has cooked and the bread has bubbled up and is crisp and coloured.",
         "To serve, place the mezze in separate bowls or a large platter and serve with the flatbread and thick yoghurt."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mezze platter with flatbread",
     "videos": "[]"
 }

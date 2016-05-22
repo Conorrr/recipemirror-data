@@ -1,26 +1,34 @@
 {
-    "title": "Lobster and langoustine with champagne sauce, skinny fries and green beans",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bread",
+        "champ",
+        "jam",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the fries and green beans": [
+            "vegetable oil, for deep-frying",
+            "2 large baking potatoes, peeled and sliced into \u00bdcm strips",
+            "salt and freshly ground black pepper",
+            "200g/7oz French beans, trimmed",
+            "75g/3oz butter"
+        ],
         "For the lobster": [
             "2 x 750g/1\u00bdlb cooked lobsters",
             "16 langoustines, cooked and peeled",
@@ -34,14 +42,13 @@
             "200g/7oz baby leaf spinach",
             "4 tbsp Japanese breadcrumbs (available from Asian grocers)",
             "20g/1oz Gruy\u00e8re cheese, grated"
-        ],
-        "For the fries and green beans": [
-            "vegetable oil, for deep-frying",
-            "2 large baking potatoes, peeled and sliced into \u00bdcm strips",
-            "salt and freshly ground black pepper",
-            "200g/7oz French beans, trimmed",
-            "75g/3oz butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the grill to high.",
@@ -56,8 +63,9 @@
         "Bring a saucepan of salted water to the boil, add the beans and cook for 3-4 minutes, or until tender. Drain, return to the pan and mix with the butter and season with salt and freshly ground black pepper.",
         "To serve, place the lobster halves on two serving plates, and place the fries and green beans alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lobster and langoustine with champagne sauce, skinny fries and green beans",
     "videos": "[]"
 }

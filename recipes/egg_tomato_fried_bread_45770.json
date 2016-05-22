@@ -1,33 +1,36 @@
 {
-    "title": "Bacon, egg, tomato, fried bread and mushroom velout\u00e9",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Jason Atherton gives a traditional fried breakfast the haute cuisine treatment. If you don\u2019t have a water bath to hand, just poach the eggs in the usual way.",
     "author": {
         "jason_atherton": "Jason Atherton"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Jason Atherton gives a traditional fried breakfast the haute cuisine treatment. If you don\u2019t have a water bath to hand, just poach the eggs in the usual way.",
+    "dishes": [
+        "bread",
+        "fondue",
+        "jelly",
+        "oven-baked_dishes",
+        "pie",
+        "soup",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 free-range eggs",
-            "8 thin slices bacon",
-            "50g/1\u00beoz butter",
-            "2 slices white bread, diced",
-            "120g/4\u00bcoz trompette de mort",
-            "2 tbsp flatleaf parsley, leaves picked"
+        "For the mushroom velout\u00e9": [
+            "115g/4oz butter",
+            "500g/1lb 2oz flat mushrooms, peeled",
+            "2 thyme sprigs",
+            "2 cloves garlic",
+            "150ml/5fl oz double cream",
+            "salt and freshly ground black pepper"
         ],
         "For the tomato fondue": [
             "4 tbsp olive oil",
@@ -40,14 +43,20 @@
             "1 tsp mustard",
             "1 tsp vinegar"
         ],
-        "For the mushroom velout\u00e9": [
-            "115g/4oz butter",
-            "500g/1lb 2oz flat mushrooms, peeled",
-            "2 thyme sprigs",
-            "2 cloves garlic",
-            "150ml/5fl oz double cream",
-            "salt and freshly ground black pepper"
+        "default": [
+            "4 free-range eggs",
+            "8 thin slices bacon",
+            "50g/1\u00beoz butter",
+            "2 slices white bread, diced",
+            "120g/4\u00bcoz trompette de mort",
+            "2 tbsp flatleaf parsley, leaves picked"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Heat a water bath to 62C/144F. Place the whole eggs into the water bath and cook for 1 hour 15 minutes. If not using a water bath, simply poach the eggs as normal.",
@@ -64,8 +73,9 @@
         "Place into a food processor, blend until smooth then strain through a sieve into a clean pan. Season, to taste, with salt and freshly ground black pepper.",
         "To serve, place a spoonful of the tomato fondue on one side of a soup plate, and a spoonful of the mushroom veloute on the other side. Pile the trompette de mort in the centre and scatter croutons and parsley around the plate. Place the egg on top of the trompette de mort and finish with a couple of pieces of crispy bacon."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Bacon, egg, tomato, fried bread and mushroom velout\u00e9",
     "videos": "[]"
 }

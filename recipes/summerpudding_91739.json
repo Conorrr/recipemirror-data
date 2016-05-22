@@ -1,26 +1,30 @@
 {
-    "title": "Individual summer puddings",
-    "cookTime": "less than 10 mins",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "icing",
+        "summer_pudding"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "icing sugar",
+            "clotted cream",
+            "3 tbsp finely chopped rose-flavoured Turkish delight"
+        ],
         "default": [
             "175g/6oz sugar",
             "100ml/3\u00bdfl oz water",
@@ -31,12 +35,13 @@
             "2 tbsp orange liqueur",
             "12 slices white bread, crusts removed, sliced in half",
             "3 tbsp finely chopped rose-flavoured Turkish delight"
-        ],
-        "To serve": [
-            "icing sugar",
-            "clotted cream",
-            "3 tbsp finely chopped rose-flavoured Turkish delight"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Place the sugar, water and vanilla pod and seeds into a pan and bring to the boil. Reduce the heat and simmer for 7-8 minutes, then add the berries and orange liqueur. Remove the pan from the heat and set aside to cool.",
@@ -45,8 +50,9 @@
         "Cover the moulds with cling film and chill in the fridge overnight.",
         "To serve, turn the puddings out onto serving plates, dust with icing sugar and top with a dollop of clotted cream. Sprinkle over the chopped Turkish delight and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Individual summer puddings",
     "videos": "[]"
 }

@@ -1,24 +1,22 @@
 {
-    "title": "Pea and spring onion champ",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Rachel Allen adds peas to a traditional mash recipe for creamy Irish champ.",
     "author": {
         "rachel_allen": "Rachel Allen"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Irish",
+    "description": "Rachel Allen adds peas to a traditional mash recipe for creamy Irish champ.",
+    "dishes": [
+        "champ",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +29,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "To make the champ, cook the potatoes in salted water for 5-10 minutes, until tender.",
         "Drain three-quarters of the water and continue to cook on a low heat. Avoid stabbing the potatoes with a knife, because if they're floury potatoes they'll break up if you do.",
@@ -41,8 +45,9 @@
         "Season to taste and beat until creamy and smooth, adding more milk if necessary.",
         "Serve piping hot with the remaining butter melting in the centre."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pea and spring onion champ",
     "videos": "[]"
 }

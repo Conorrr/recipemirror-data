@@ -1,24 +1,24 @@
 {
-    "title": "Cherry cheesecake",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "biscuit",
+        "cheesecake",
+        "icing",
+        "jam",
+        "macaroon"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "caramelising_sugar"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,6 +30,12 @@
             "icing sugar, for dusting"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place the macaroon biscuit at the base of a 7cm/3in chefs' ring.",
         "Place the cream and the quark into a bowl and mix together well.",
@@ -37,8 +43,9 @@
         "Remove from the fridge and place onto a serving plate and release the cheesecake from the chefs' ring by warming the sides of the ring with a mini-blowtorch.",
         "To serve, top the cheesecake with cherries. Garnish with a mint sprig and a dusting of icing sugar."
     ],
-    "howTos": [
-        "caramelising_sugar"
+    "tips": [
+        
     ],
+    "title": "Cherry cheesecake",
     "videos": "[]"
 }

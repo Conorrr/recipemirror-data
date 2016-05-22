@@ -1,26 +1,33 @@
 {
-    "title": "Pumpkin lasagne",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "13",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pumpkinlasagne_70658_16x9.jpg"
-    ],
-    "description": "For comfort food heaven, make this rich, creamy lasagne. It\u2019s perfect for using up Halloween pumpkins!",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Italian",
+    "description": "For comfort food heaven, make this rich, creamy lasagne. It\u2019s perfect for using up Halloween pumpkins!",
+    "dishes": [
+        "gratin",
+        "lasagne",
+        "oven-baked_dishes",
+        "pasta",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pumpkinlasagne_70658_16x9.jpg"
+    ],
     "ingredients": {
+        "For the b\u00e9chamel sauce": [
+            "55g/2oz butter",
+            "55g/2oz plain flour",
+            "350ml/10\u00bdfl oz milk"
+        ],
         "default": [
             "90ml/3fl oz extra virgin olive oil",
             "1kg/2lb 3oz pumpkin, peeled, seeds removed, cubed",
@@ -31,12 +38,13 @@
             "250g/8\u00beoz green lasagne pasta sheets",
             "150ml/5\u00bcfl oz milk",
             "25g/1oz grated parmesan cheese, or vegetarian parmesan-style grating cheese"
-        ],
-        "For the b\u00e9chamel sauce": [
-            "55g/2oz butter",
-            "55g/2oz plain flour",
-            "350ml/10\u00bdfl oz milk"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "13",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -52,8 +60,9 @@
         "Bake for a further 15-20 minutes or until all the milk has been absorbed by the pasta and the lasagne looks cooked and is beginning to go crisp.",
         "Remove from the oven, sprinkle with parmesan and place back in the oven for a few minutes - take care not to burn the pasta or the b\u00e9chamel on top. Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pumpkin lasagne",
     "videos": "[]"
 }

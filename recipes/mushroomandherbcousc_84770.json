@@ -1,32 +1,23 @@
 {
-    "title": "Mushroom and herb couscous salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "couscous_salad",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_make_couscous"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the mushrooms": [
-            "25g/1oz unsalted butter",
-            "1 tbsp olive oil",
-            "2 garlic cloves, chopped",
-            "200g/7oz mushrooms, sliced"
-        ],
         "For the couscous": [
             "200g/7oz cooked couscous",
             "1 lemon, juice only",
@@ -34,7 +25,19 @@
             "1 tsp chopped fresh parsley",
             "1 tsp chopped fresh chives",
             "salt and freshly ground black pepper"
+        ],
+        "For the mushrooms": [
+            "25g/1oz unsalted butter",
+            "1 tbsp olive oil",
+            "2 garlic cloves, chopped",
+            "200g/7oz mushrooms, sliced"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the mushrooms, melt the butter with the oil in a frying pan and cook the garlic and mushrooms over a medium heat until soft.",
@@ -43,8 +46,9 @@
         "Lightly oil a small bowl and pack the couscous mixture into the bowl.",
         "To serve, turn the bowl of couscous out onto a plate."
     ],
-    "howTos": [
-        "how_to_make_couscous"
+    "tips": [
+        
     ],
+    "title": "Mushroom and herb couscous salad",
     "videos": "[]"
 }

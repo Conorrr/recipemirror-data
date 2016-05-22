@@ -1,42 +1,34 @@
 {
-    "title": "Seared beef salad with cashel blue dressing",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Irish",
+    "description": "",
+    "dishes": [
+        "crumble",
+        "pie",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "350g/12oz beef fillet, trimmed and in one piece",
-            "1 tbsp olive oil",
-            "1 tsp cracked black peppercorns",
-            "mixed salad leaves, to serve",
-            "1 tablespoon snipped fresh chives, to garnish",
-            "fresh chervil leaves, to garnish"
+        "For the cashel blue dressing": [
+            "50g/2oz Cashel Blue cheese, crumbled"
         ],
         "For the celery": [
             "3 celery sticks, cut diagonally into 1cm/\u00bdin slices",
             "3 tbsp olive oil",
             "\u00bc tsp salt",
             "\u00bd tsp cracked black peppercorns"
-        ],
-        "For the cashel blue dressing": [
-            "50g/2oz Cashel Blue cheese, crumbled"
         ],
         "For the vinaigrette dressing": [
             "Makes about 250ml/9fl oz (use only 150ml/5fl oz)",
@@ -45,7 +37,21 @@
             "2 tsp Dijon mustard",
             "2-4 tbsp white wine vinegar",
             "225ml/8fl oz light olive oil"
+        ],
+        "default": [
+            "350g/12oz beef fillet, trimmed and in one piece",
+            "1 tbsp olive oil",
+            "1 tsp cracked black peppercorns",
+            "mixed salad leaves, to serve",
+            "1 tablespoon snipped fresh chives, to garnish",
+            "fresh chervil leaves, to garnish"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Make sure that the beef fillet is trimmed and free of sinew and fat.",
@@ -64,8 +70,9 @@
         "Place the salad leaves in the centre of each and spoon on a little dressing.",
         "Garnish with the chives and chervil leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Seared beef salad with cashel blue dressing",
     "videos": "[]"
 }

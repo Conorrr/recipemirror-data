@@ -1,24 +1,24 @@
 {
-    "title": "Scallops beurre blanc",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "55",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/scallops_beurre_blanc_80266_16x9.jpg"
-    ],
-    "description": "Simon Hopkinson's recipe for scallops will have you devouring every morsel from the plate.",
     "author": {
         "simon_hopkinson": "Simon Hopkinson"
     },
-    "show": {
-        "b012gg69": "The Good Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "Simon Hopkinson's recipe for scallops will have you devouring every morsel from the plate.",
+    "dishes": [
+        "custard",
+        "pie",
+        "sauce",
+        "seafood"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/scallops_beurre_blanc_80266_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,14 +32,21 @@
             "fresh chives, finely chopped, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "55",
+    "serves": "Serves 1",
+    "show": {
+        "b012gg69": "The Good Cook"
+    },
     "steps": [
         "For the beurre blanc, place the shallots, vinegar, wine and 60ml/2fl oz water into a saucepan. Set over a moderate heat until almost no liquid remains.",
         "Turn the heat down to a low setting and whisk in the butter one piece at a time, allowing each piece to melt and homogenise before adding the next (it is also a good idea to occasionally take the pan off the heat, then returning it when it is becoming too cool.) Once all the butter has been used the sauce should be pale and have a thin, custard-like consistency. Keep warm.",
         "Brush the scallops with oil. Heat a heavy-based frying pan and fry the scallops for one minute on each side, or until golden-brown on the outside. Season with salt and pepper.",
         "Spoon the sauce over the scallops and garnish with chives."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Scallops beurre blanc",
     "videos": "[]"
 }

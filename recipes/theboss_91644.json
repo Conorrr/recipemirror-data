@@ -1,24 +1,20 @@
 {
-    "title": "The boss",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "wayne_collins": "Wayne Collins"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "whisky_cocktail"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,14 +26,21 @@
             "1 slice red apple, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Roll the mint leaves in the palms of your hands to bruise them slightly and release the mint aromas.",
         "Place the bruised mint leaves into a highball glass and cover with ice.",
         "Pour over the bourbon, apple liqueur and cranberry juice, then top up with the ginger ale.",
         "To serve, hook the apple slice over the edge of the glass. Garnish with a sprig of mint."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "The boss",
     "videos": "[]"
 }

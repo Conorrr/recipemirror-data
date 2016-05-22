@@ -1,31 +1,26 @@
 {
-    "title": "Bacon and egg canap\u00e9s",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 12",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bacon_and_egg_canapes_11283_16x9.jpg"
-    ],
-    "description": "Delight your party guests with these mini-bacon and egg tartlets, full of flavour and colour.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b018nq5b": "The Hairy Bikers' Christmas Party"
-    },
-    "tips": [
-        "Once cool, the pastry cases can be stored in an airtight container for up to three days."
+    "cookTime": "10 to 30 mins",
+    "description": "Delight your party guests with these mini-bacon and egg tartlets, full of flavour and colour.",
+    "dishes": [
+        "bread",
+        "canape",
+        "mayonnaise",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bacon_and_egg_canapes_11283_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pastry": [
-            "150g/5\u00bdoz plain flour",
-            "100g/3\u00bdoz cold butter, cut into cubes",
-            "1 free-range egg, beaten"
-        ],
         "For the bacon and egg filling": [
             "2 tbsp sunflower oil",
             "4 thin rashers rindless streaky bacon, cut into 5cm/2in strips",
@@ -34,7 +29,18 @@
             "salt and fresh ground black pepper",
             "6 quails\u2019 eggs, hard boiled, peeled",
             "fresh rocket leaves"
+        ],
+        "For the pastry": [
+            "150g/5\u00bdoz plain flour",
+            "100g/3\u00bdoz cold butter, cut into cubes",
+            "1 free-range egg, beaten"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Makes 12",
+    "show": {
+        "b018nq5b": "The Hairy Bikers' Christmas Party"
     },
     "steps": [
         "For the pastry pulse the flour and butter in a food processor until the mixture resembles breadcrumbs.",
@@ -48,8 +54,9 @@
         "Spoon the mixture into the pastry cases.",
         "Cut the quails\u2019 eggs in half and place on top. Add a strip of bacon to each one and garnish the canap\u00e9s with rocket leaves."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Once cool, the pastry cases can be stored in an airtight container for up to three days."
     ],
+    "title": "Bacon and egg canap\u00e9s",
     "videos": "[]"
 }

@@ -1,24 +1,24 @@
 {
-    "title": "Lamb, shallot and date tagine",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 6",
-    "recommendations": "15",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lambshallotanddateta_449_16x9.jpg"
-    ],
-    "description": "Transport your tastebuds to a Moroccan souk with this meltingly tender lamb tagine packed with shallots and dates.",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        "p0077j91": "Fresh Food"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "North_African",
+    "description": "Transport your tastebuds to a Moroccan souk with this meltingly tender lamb tagine packed with shallots and dates.",
+    "dishes": [
+        "lamb_tagine",
+        "stir-fries",
+        "stock",
+        "tagine"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lambshallotanddateta_449_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -40,6 +40,12 @@
             "1 tbsp clear honey"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "15",
+    "serves": "Serves 6",
+    "show": {
+        "p0077j91": "Fresh Food"
+    },
     "steps": [
         "Place the lamb in a bowl and add the ground coriander, ground ginger, saffron and one tablespoon of the olive oil. Mix well and leave to marinate in the fridge, covered, for 24 hours.",
         "The next day, heat the remaining olive oil in a heavy-based pan with a lid. Cook the lamb until browned all over (you may need to do this in batches). Remove the lamb from the pan and set aside.",
@@ -48,8 +54,9 @@
         "Stir in the lamb stock and bring to the boil. Cover tightly and simmer gently for 1\u00bd hours, or until the lamb is tender.",
         "Add the parsley, coriander, lemon rind, dates and honey, stir well to combine and serve with a bowl of cous cous."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb, shallot and date tagine",
     "videos": "[]"
 }

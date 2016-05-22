@@ -1,26 +1,42 @@
 {
-    "title": "Gravlax with dill and mustard mayonnaise and lettuce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4-6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Salmon marinated in dill and sugar, finely sliced and served with a green salad loaded with fresh herbs. Use the freshest salmon you can get hold of for best results.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Nordic",
+    "description": "Salmon marinated in dill and sugar, finely sliced and served with a green salad loaded with fresh herbs. Use the freshest salmon you can get hold of for best results.",
+    "dishes": [
+        "bread",
+        "jam",
+        "mayonnaise",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Little Gem lettuce": [
+            "4 heads Little Gem lettuce, leaves separated",
+            "1 free-range egg yolk",
+            "1 tsp English mustard",
+            "2 tsp clear honey",
+            "2 tbsp cider vinegar",
+            "150ml/5fl oz vegetable or sunflower oil",
+            "1 banana shallot, finely chopped",
+            "1 garlic clove, finely chopped",
+            "1 tbsp finely chopped flatleaf parsley",
+            "1 tbsp finely chopped mint",
+            "1 tbsp finely chopped basil",
+            "1 tbsp finely chopped thyme"
+        ],
         "For the dill and mustard mayonnaise": [
             "75g/2\u00bdoz yellow mustard seeds",
             "40g/1\u00bdoz brown mustard seeds",
@@ -39,24 +55,16 @@
             "50g/1\u00beoz fresh dill, chopped",
             "\u00bd side of salmon (about 500g/1lb 2oz), filleted, skin removed, pin boned"
         ],
-        "For the Little Gem lettuce": [
-            "4 heads Little Gem lettuce, leaves separated",
-            "1 free-range egg yolk",
-            "1 tsp English mustard",
-            "2 tsp clear honey",
-            "2 tbsp cider vinegar",
-            "150ml/5fl oz vegetable or sunflower oil",
-            "1 banana shallot, finely chopped",
-            "1 garlic clove, finely chopped",
-            "1 tbsp finely chopped flatleaf parsley",
-            "1 tbsp finely chopped mint",
-            "1 tbsp finely chopped basil",
-            "1 tbsp finely chopped thyme"
-        ],
         "To serve": [
             "wholemeal bread",
             "butter"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the dill and mustard mayonnaise, put the mustard seeds in a bowl. Heat the vinegar and honey in a non-reactive saucepan until the honey has dissolved. Pour the vinegar and honey mixture over the mustard seeds and mix thoroughly. Add the ale and stir until well combined.",
@@ -71,8 +79,9 @@
         "Just before serving, toss the lettuce in the dressing.",
         "To serve, cut the salmon in thin slices on an angle and place on a serving platter. Serve with the salad, dill and mustard mayonnaise and buttered wholemeal sliced bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Gravlax with dill and mustard mayonnaise and lettuce",
     "videos": "[]"
 }

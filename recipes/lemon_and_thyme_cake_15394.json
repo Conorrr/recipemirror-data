@@ -1,26 +1,31 @@
 {
-    "title": "Lemon and thyme cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "79",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemon_and_thyme_cake_15394_16x9.jpg"
-    ],
-    "description": "A simple, moist lemon sponge soaked with thyme and lemon syrup. Tastes wonderful served with thick, creamy Greek yoghurt.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b01nd35k": "Nigel Slater's Dish of the Day"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A simple, moist lemon sponge soaked with thyme and lemon syrup. Tastes wonderful served with thick, creamy Greek yoghurt.",
+    "dishes": [
+        "bread",
+        "cake",
+        "oven-baked_dishes",
+        "stir-fries",
+        "tea_bread"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemon_and_thyme_cake_15394_16x9.jpg"
+    ],
     "ingredients": {
+        "For the topping": [
+            "4 tbsp sugar",
+            "2 large lemons, juice only",
+            "\u00bd tsp thyme leaves"
+        ],
         "default": [
             "200g/7oz butter",
             "200g/7oz golden caster sugar",
@@ -30,12 +35,13 @@
             "4 free-range eggs",
             "1 lemon, zest only",
             "1 tsp thyme leaves"
-        ],
-        "For the topping": [
-            "4 tbsp sugar",
-            "2 large lemons, juice only",
-            "\u00bd tsp thyme leaves"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "79",
+    "serves": "Serves 6-8",
+    "show": {
+        "b01nd35k": "Nigel Slater's Dish of the Day"
     },
     "steps": [
         "Pre-heat the oven to 160C/325F/Gas 3. Line a 900g/2lb loaf tin with baking parchment.",
@@ -47,8 +53,9 @@
         "For the topping, dissolve the sugar in the juice of the lemons over a moderate heat and stir in the thyme leaves (a few flowers would be good here too). As the cake comes from the oven, spike the surface with a skewer and spoon over the syrup.",
         "Leave to cool and serve in slices with thick yoghurt."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lemon and thyme cake",
     "videos": "[]"
 }

@@ -1,24 +1,27 @@
 {
-    "title": "Bagels",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 7",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bagels_47163_16x9.jpg"
-    ],
-    "description": "Adding molasses or treacle to the water that the bagels are boiled in adds a gentle sweetness. Top with your favourite savoury flavours.",
     "author": {
         "rachel_allen": "Rachel Allen"
     },
-    "show": {
-        "b00j01gv": "Rachel Allen: Bake!"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Adding molasses or treacle to the water that the bagels are boiled in adds a gentle sweetness. Top with your favourite savoury flavours.",
+    "dishes": [
+        "bagel",
+        "bread",
+        "oven-baked_dishes",
+        "punch",
+        "sauce",
+        "sausage",
+        "stir-fries",
+        "upside-down_cake"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bagels_47163_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,6 +35,12 @@
             "1 free-range egg, beaten",
             "sesame seeds, sea salt, poppy seeds, or a savoury topping of your choice (optional)"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "3",
+    "serves": "Serves 7",
+    "show": {
+        "b00j01gv": "Rachel Allen: Bake!"
     },
     "steps": [
         "Sift the flour and salt into a large mixing bowl, then add the yeast and mix well.",
@@ -47,8 +56,9 @@
         "Bring the saucepan of molasses and water back to a gentle simmer. Gently drop each bagel into the water (do this in batches of no more than three at a time) and turn over after 1-2 minutes. Simmer for another 1-2 minutes, then remove the bagels from the water, and drain.",
         "Place the bagels on the prepared baking trays, spacing them widely apart. Brush the tops with the beaten egg and sprinkle with sesame seeds, sea salt, poppy seeds or a savoury topping of your choice. Bake in the oven for 15 minutes, or until golden-brown, then turn them upside down for a further ten minutes to cook the bases. Transfer to a wire rack to cool before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Bagels",
     "videos": "[]"
 }

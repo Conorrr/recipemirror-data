@@ -1,24 +1,21 @@
 {
-    "title": "Melon soup",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "jam",
+        "soup"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -27,12 +24,19 @@
             "2 tbsp chopped fresh mint"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Scoop out the flesh from the melon, roughly chop and place into a food processor along with the orange juice and mint. Reserve the melon husk.",
         "Blend until smooth, then tip back into the melon husk and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Melon soup",
     "videos": "[]"
 }

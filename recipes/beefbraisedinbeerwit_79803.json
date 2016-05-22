@@ -1,26 +1,46 @@
 {
-    "title": "Beef braised in beer with classic English suet dumplings served with buttery mash",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "casserole",
+        "oven-baked_dishes",
+        "pickle",
+        "pie",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Mashed potato": [
+            "1kg/2\u00bclb floury potatoes, peeled, washed and cut into 2.5cm/1in chunks",
+            "salt and ground white pepper",
+            "85g/3oz unsalted butter",
+            "225ml/8fl oz semi-skimmed milk, warmed"
+        ],
+        "For the suet dumplings": [
+            "235g/8oz plain flour",
+            "120g/4oz shredded suet",
+            "80g/3oz fine white breadcrumbs",
+            "2 tsp parsley, chopped",
+            "2 tsp chives, chopped",
+            "salt and freshly ground white pepper",
+            "500ml/17fl oz beef stock"
+        ],
         "default": [
             "2 tbsp plain flour, seasoned with salt and freshly ground black pepper",
             "1kg/2lb 3oz braising steak, cut into 5cm/2in pieces",
@@ -37,22 +57,13 @@
             "2 tsp Dijon mustard",
             "500ml/10\u00bdfl oz beef stock",
             "salt and freshly ground black pepper"
-        ],
-        "For the suet dumplings": [
-            "235g/8oz plain flour",
-            "120g/4oz shredded suet",
-            "80g/3oz fine white breadcrumbs",
-            "2 tsp parsley, chopped",
-            "2 tsp chives, chopped",
-            "salt and freshly ground white pepper",
-            "500ml/17fl oz beef stock"
-        ],
-        "For the Mashed potato": [
-            "1kg/2\u00bclb floury potatoes, peeled, washed and cut into 2.5cm/1in chunks",
-            "salt and ground white pepper",
-            "85g/3oz unsalted butter",
-            "225ml/8fl oz semi-skimmed milk, warmed"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat oven to 140C/285F/Gas 1.",
@@ -71,8 +82,9 @@
         "Fold in the butter and warm milk and beat until combined. Check seasoning.",
         "Serve the beef and dumplings with a dollop of mashed potato."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef braised in beer with classic English suet dumplings served with buttery mash",
     "videos": "[]"
 }

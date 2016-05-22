@@ -1,23 +1,26 @@
 {
-    "title": "Pizza with pata negra ham",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Try making your own Spanish-style gourmet pizza. You can find most of the ingredients at a Spanish delicatessen.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Try making your own Spanish-style gourmet pizza. You can find most of the ingredients at a Spanish delicatessen.",
+    "dishes": [
+        "bun",
+        "ham",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "pizza",
+        "salad",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -26,6 +29,11 @@
             "\u00bd tsp salt",
             "7g sachet dried fast action yeast",
             "1 tbsp olive oil"
+        ],
+        "For the salad": [
+            "2 tbsp olive oil",
+            "1 tbsp malden salt",
+            "200g/7oz padron peppers"
         ],
         "For the topping": [
             "2 tbsp olive oil",
@@ -39,12 +47,13 @@
             "16 slices pata negra ham",
             "2 handfuls rocket leaves",
             "small handful basil leaves"
-        ],
-        "For the salad": [
-            "2 tbsp olive oil",
-            "1 tbsp malden salt",
-            "200g/7oz padron peppers"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the pizza dough, place the flour, salt and yeast into a large bowl, add 300ml/10\u00bdfl oz warm water and the olive oil and mix together to form a dough.",
@@ -64,8 +73,9 @@
         "For the salad, heat a frying pan until hot, add one tablespoon of the olive oil, the malden salt and padron peppers and fry for 2-3 minutes until golden-brown. Remove the peppers from the pan and set aside to drain on kitchen paper.",
         "Serve the pizza with the peppers alongside."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Pizza with pata negra ham",
     "videos": "[]"
 }

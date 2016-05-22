@@ -1,31 +1,30 @@
 {
-    "title": "Steak and kidney pudding",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Matt Tebbutt's Steak and kidney pudding is labour of love, but well worth the effort. Serve with steamed greens for rib-sticking winter supper.",
     "author": {
         "matt_tebbutt": "Matt Tebbutt"
     },
-    "show": {
-        "b016pbs9": "Great British Food Revival"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Matt Tebbutt's Steak and kidney pudding is labour of love, but well worth the effort. Serve with steamed greens for rib-sticking winter supper.",
+    "dishes": [
+        "ketchup",
+        "pastry",
+        "pie",
+        "sauce",
+        "steak_and_kidney_pudding",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "steaming_puddings",
+        "sealing_steamed_puddings"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "375g/13oz self-raising flour",
-            "pinch salt",
-            "125g/4\u00bdoz grated suet"
-        ],
         "For the filling": [
             "2 tbsp vegetable oil",
             "500g/1lb 2oz ox cheek or braising steak, cut into 2.5cm/1in cubes",
@@ -40,7 +39,18 @@
             "1 heaped tbsp plain flour",
             "125ml/4\u00bdfl oz ale",
             "150ml/5fl oz beef stock"
+        ],
+        "For the pastry": [
+            "375g/13oz self-raising flour",
+            "pinch salt",
+            "125g/4\u00bdoz grated suet"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b016pbs9": "Great British Food Revival"
     },
     "steps": [
         "For the pastry, mix the flour, salt and suet together in a bowl. Add 250ml/9fl oz cold water and stir together until the mixture comes together as a dough. Knead briefly, then wrap in cling film and chill in the fridge for one hour.",
@@ -56,9 +66,9 @@
         "When the pudding is cooked, turn off the heat, carefully lift the basin from the water and leave the pudding to stand for five minutes.",
         "Remove the foil and paper and run a blunt-ended knife around the inside of the pudding basin to loosen the sides, then invert it onto a deep serving plate."
     ],
-    "howTos": [
-        "steaming_puddings",
-        "sealing_steamed_puddings"
+    "tips": [
+        
     ],
+    "title": "Steak and kidney pudding",
     "videos": "[p0105xc8:p0105xcd]"
 }

@@ -1,34 +1,28 @@
 {
-    "title": "Gingerbread house",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "overnight",
-    "serves": "Makes 1 gingerbread house",
-    "recommendations": "40",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mary_berrys_gingerbread_91126_16x9.jpg"
-    ],
-    "description": "Create your own winter wonderland with Mary Berry's gingerbread recipe. It makes a wonderful centrepiece for parties, and children will love it. Equipment and preparation: you will need a piping bag with a medium plain and small nozzle; plus you will need to print off a downloadable pdf template of the gingerbread design.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Create your own winter wonderland with Mary Berry's gingerbread recipe. It makes a wonderful centrepiece for parties, and children will love it. Equipment and preparation: you will need a piping bag with a medium plain and small nozzle; plus you will need to print off a downloadable pdf template of the gingerbread design.",
+    "dishes": [
+        "cake",
+        "gingerbread",
+        "icing",
+        "oven-baked_dishes",
+        "pie",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mary_berrys_gingerbread_91126_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "375g/13oz unsalted butter",
-            "300g/10\u00bdoz dark muscovado sugar",
-            "150g/5\u00bdoz golden syrup",
-            "900g/2lb plain flour",
-            "1 tbsp bicarbonate of soda",
-            "2 tbsp ground ginger"
-        ],
         "For the icing": [
             "3 free-range egg whites",
             "675g/1\u00bdlb icing sugar, sifted",
@@ -40,7 +34,21 @@
             "200g/7oz giant milk chocolate buttons",
             "2 night-light candles",
             "6 cocktail sticks"
+        ],
+        "default": [
+            "375g/13oz unsalted butter",
+            "300g/10\u00bdoz dark muscovado sugar",
+            "150g/5\u00bdoz golden syrup",
+            "900g/2lb plain flour",
+            "1 tbsp bicarbonate of soda",
+            "2 tbsp ground ginger"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "40",
+    "serves": "Makes 1 gingerbread house",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6 (fan 180C).",
@@ -57,8 +65,9 @@
         "Cut the pointed ends of the cocktail sticks into 1cm/\u00bdin pieces (you should have 12 small pointed pieces). Push the blunt end of the cocktail stick pieces into the sloping edges of the front and back of the house, leaving the pointed ends sticking out to act as peg supports to attach the roof. (Remember to remove the sharp cocktail sticks from your gingerbread house before eating it, to avoid a choking hazard.) Pipe icing between the cocktail sticks and fix the two roof panels onto the house. Pipe icing around the base and edges of the chimney and attach to the roof.",
         "To decorate, pipe icing along the apex and edges of the roof to look like snow and icicles. Stick the front door in place with icing. Cut the back door into three pieces to use as props to keep the trees upright. Decorate the Christmas trees with piped icing and fix them onto the cake board with icing and gingerbread props. Dust the roof with icing sugar and light the night lights using a candle lighter through the open back door. Do not leave the candles lit unattended, and it is best not to burn the candles inside the house for longer than 15 minutes or they may singe the inside of the roof and start to melt the chocolate buttons."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Gingerbread house",
     "videos": "[]"
 }

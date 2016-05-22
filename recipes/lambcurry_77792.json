@@ -1,26 +1,32 @@
 {
-    "title": "Lamb curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "curry",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chilli yoghurt sauce": [
+            "1 chilli, chopped",
+            "75g/2\u00bd oz Greek-style yoghurt"
+        ],
+        "To garnish": [
+            "handful fresh coriander, chopped",
+            "100g/3\u00bdoz new potatoes, cooked, optional"
+        ],
         "default": [
             "100g/3\u00bdoz lamb, cubed",
             "1 tbsp oil",
@@ -31,15 +37,13 @@
             "2 garlic cloves, crushed",
             "\u00bd tsp dried turmeric",
             "300ml/10\u00bdfl oz beef or vegetable stock"
-        ],
-        "For the chilli yoghurt sauce": [
-            "1 chilli, chopped",
-            "75g/2\u00bd oz Greek-style yoghurt"
-        ],
-        "To garnish": [
-            "handful fresh coriander, chopped",
-            "100g/3\u00bdoz new potatoes, cooked, optional"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Fry the lamb in the oil with all the spices for 4-5 minutes on each side, until it is browned and coated.",
@@ -48,8 +52,9 @@
         "Serve the curry in a bowl topped with the chopped coriander.",
         "Serve with the spiced yoghurt and the new potatoes, if desired."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb curry",
     "videos": "[]"
 }

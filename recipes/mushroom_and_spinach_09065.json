@@ -1,24 +1,25 @@
 {
-    "title": "Mushroom and spinach tagliatelle",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "4",
-    "recommendations": "15",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mushroom_and_spinach_09065_16x9.jpg"
-    ],
-    "description": "A quick and simple pasta dish, great for a mid-week meal. The dried pasta could easily be subsituted for fresh pasta.",
     "author": {
         "bath_place_community_venture": "Bath Place Community Venture"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "A quick and simple pasta dish, great for a mid-week meal. The dried pasta could easily be subsituted for fresh pasta.",
+    "dishes": [
+        "bun",
+        "pasta",
+        "sauce",
+        "stir-fries",
+        "tagliatelle"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mushroom_and_spinach_09065_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -33,13 +34,20 @@
             "300g/10\u00bdoz dried tagliatelle"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "15",
+    "serves": "4",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
+    },
     "steps": [
         "Heat the oil in a pan and gently fry the spring onions and garlic for a few minutes, or until pale golden-brown. Add the mushrooms and fry over a high heat for 8-10 minutes, or until the water has evaporated. Tip the spinach into the pan, and stir regularly as it wilts. Continue cooking over a medium heat until most of the water has evaporated.",
         "Sprinkle the flour over the mixture, stir it in well, then cook for a further minute. Remove the pan from the heat and stir in the cr\u00e8me fra\u00eeche. Return the pan to the heat, bring to the boil, and simmer for a few minutes, or until the sauce has thickened. Season to taste with salt and freshly ground pepper.",
         "Meanwhile, cook the pasta in a large pan of salted boiling water, according to packet instructions. Once cooked, drain the pasta, and toss with the mushroom and spinach sauce. Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mushroom and spinach tagliatelle",
     "videos": "[]"
 }

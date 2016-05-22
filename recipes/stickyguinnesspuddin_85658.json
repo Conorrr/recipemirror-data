@@ -1,26 +1,32 @@
 {
-    "title": "Sticky Guinness pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "100ml/3\u00bdfl oz cream",
+            "100g/3\u00bdoz butter",
+            "100g/3\u00bdoz soft dark brown sugar",
+            "splash Guinness, or similar stout",
+            "splash blackcurrant liqueur",
+            "double cream, lightly whipped, to serve"
+        ],
         "default": [
             "175g/6oz dates, stones removed",
             "100ml/3\u00bdfl oz water",
@@ -31,15 +37,13 @@
             "2 free-range eggs, beaten",
             "175g/6oz self-raising flour",
             "dash vanilla extract"
-        ],
-        "For the sauce": [
-            "100ml/3\u00bdfl oz cream",
-            "100g/3\u00bdoz butter",
-            "100g/3\u00bdoz soft dark brown sugar",
-            "splash Guinness, or similar stout",
-            "splash blackcurrant liqueur",
-            "double cream, lightly whipped, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -54,8 +58,9 @@
         "Add the blackcurrant liqueur and mix well.",
         "To serve, place slices of the pudding onto plates. Drizzle over the sauce and serve with spoonfuls of lightly whipped cream."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Sticky Guinness pudding",
     "videos": "[]"
 }

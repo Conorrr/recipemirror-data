@@ -1,24 +1,22 @@
 {
-    "title": "Bruschetta",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "With a snack this simple, quality ingredients are key - use ripe tomatoes, full-bodied olive oil and farmhouse bread.",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Italian",
+    "description": "With a snack this simple, quality ingredients are key - use ripe tomatoes, full-bodied olive oil and farmhouse bread.",
+    "dishes": [
+        "bread",
+        "bruschetta"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,12 +29,19 @@
             "basil to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "1",
+    "show": {
+        
+    },
     "steps": [
         "Pan-fry the tomatoes, mushrooms and garlic in the oil for three to four minutes until cooked through.",
         "Season, place on the toast and serve garnished with basil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Bruschetta",
     "videos": "[]"
 }

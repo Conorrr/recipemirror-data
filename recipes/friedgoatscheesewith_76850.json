@@ -1,31 +1,25 @@
 {
-    "title": "Fried goats' cheese with grape chutney",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "brioche",
+        "chutney",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 tbsp olive oil",
-            "110g/4oz cherry tomatoes",
-            "salt and freshly ground black pepper"
-        ],
         "For the fried goats' cheese": [
             "55g/2oz slice of goats' cheese",
             "30g/1oz plain flour",
@@ -37,7 +31,18 @@
             "1-2 tbsp white wine vinegar",
             "pinch of chilli flakes",
             "4 tbsp caster sugar"
+        ],
+        "default": [
+            "4 tbsp olive oil",
+            "110g/4oz cherry tomatoes",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Pre-heat the oven to 220C/425F/Gas 7.",
@@ -47,8 +52,9 @@
         "To make the chutney, heat the grapes, vinegar, chilli flakes and sugar in a pan for 4-5 minutes, stirring occasionally.",
         "Transfer the roasted tomatoes to a serving plate and the fried cheese on top. Spoon the grape chutney alongside, to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fried goats' cheese with grape chutney",
     "videos": "[]"
 }

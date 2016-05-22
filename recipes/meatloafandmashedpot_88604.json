@@ -1,26 +1,30 @@
 {
-    "title": "Meatloaf and mashed potato",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "",
+    "dishes": [
+        "bread",
+        "gravy",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the mashed potato": [
+            "450g/1lb potatoes, peeled and boiled",
+            "75g/2\u00bdoz butter",
+            "salt and freshly ground black pepper"
+        ],
         "For the meatloaf": [
             "1 free-range egg, beaten",
             "150ml/5fl oz milk",
@@ -39,14 +43,15 @@
             "1 tbsp Worcestershire sauce",
             "3 slices streaky bacon"
         ],
-        "For the mashed potato": [
-            "450g/1lb potatoes, peeled and boiled",
-            "75g/2\u00bdoz butter",
-            "salt and freshly ground black pepper"
-        ],
         "To serve": [
             "gravy"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "7",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the meatloaf, place the egg and milk into a large bowl and mix together.",
@@ -63,8 +68,9 @@
         "For the mashed potato, mash the freshly cooked potatoes. Place into a pan over a low heat and mix in the butter. Season, to taste, with salt and freshly ground black pepper.",
         "To serve, slice the meat loaf. Place a slice onto each plate with a dollop of mashed potato alongside. Pour over some gravy and enjoy."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Meatloaf and mashed potato",
     "videos": "[]"
 }

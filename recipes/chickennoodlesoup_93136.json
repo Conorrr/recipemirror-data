@@ -1,24 +1,25 @@
 {
-    "title": "Chicken noodle soup",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "16",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickennoodlesoup_93136_16x9.jpg"
-    ],
-    "description": "Use up leftover chicken carcasses in the Hairy Biker's recipe for a comforting bowl of chicken soup. Each serving provides 134kcal, 10g protein, 21g carbohydrate (of which 0g sugars), 1.5g fat (of which 0.3g saturates), 0.4g fibre and 1g salt.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00pftz5": "The Hairy Bikers' Twelve Days of Christmas"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Use up leftover chicken carcasses in the Hairy Biker's recipe for a comforting bowl of chicken soup. Each serving provides 134kcal, 10g protein, 21g carbohydrate (of which 0g sugars), 1.5g fat (of which 0.3g saturates), 0.4g fibre and 1g salt.",
+    "dishes": [
+        "broth",
+        "bun",
+        "noodle_soup",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickennoodlesoup_93136_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -37,6 +38,12 @@
             "1-2 tbsp chopped fresh chives, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "16",
+    "serves": "Serves 6",
+    "show": {
+        "b00pftz5": "The Hairy Bikers' Twelve Days of Christmas"
+    },
     "steps": [
         "Place the chicken carcasses and drumsticks into a large deep pan and cover with the water. Add the carrots, celery, leek and onions.",
         "Make a bouquet garni with the bay leaves and the thyme by tying the herbs together with kitchen string. Add the bouquet garni to the pan along with the peppercorns and salt.",
@@ -44,8 +51,9 @@
         "When ready to serve the broth, bring it to a gentle simmer, then add the noodles. Cook the noodles according to packet instructions until tender, then stir in the chopped parsley.",
         "Serve the chicken noodle soup in bowls with the chopped chives sprinkled over."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken noodle soup",
     "videos": "[]"
 }

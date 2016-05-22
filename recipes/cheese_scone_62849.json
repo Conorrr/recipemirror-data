@@ -1,24 +1,27 @@
 {
-    "title": "Cheese scone",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "34",
-    "images": [
-        
-    ],
-    "description": "Yes that\u2019s cheese scone, not just puny cheese scones. One great big mound of cheesiness to be broken into smaller pieces after it\u2019s cooked. Who can resist?",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b01nd35k": "Nigel Slater's Dish of the Day"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Yes that\u2019s cheese scone, not just puny cheese scones. One great big mound of cheesiness to be broken into smaller pieces after it\u2019s cooked. Who can resist?",
+    "dishes": [
+        "bread",
+        "chutney",
+        "crumble",
+        "oven-baked_dishes",
+        "pickle",
+        "pie",
+        "scone"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,6 +31,12 @@
             "350ml/12fl oz milk, plus extra for glazing",
             "250g/9oz assorted cheeses, crumbled into small pieces, plus extra grated cheese to sprinkle on top"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "34",
+    "serves": "Serves 4",
+    "show": {
+        "b01nd35k": "Nigel Slater's Dish of the Day"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -41,8 +50,9 @@
         "Bake in the preheated oven for around 30 minutes, or until the cheese topping looks golden-brown and crisp.",
         "Serve warm with your favourite chutney or pickle."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cheese scone",
     "videos": "[p011gqtv:p011gqv0]"
 }

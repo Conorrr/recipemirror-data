@@ -1,26 +1,30 @@
 {
-    "title": "Seared tuna with lemon spinach, dressing and potato gratin",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "gratin",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "1tbsp vegetable oil",
+            "1tsp sesame oil",
+            "1tsp soy sauce",
+            "2tbsp orange pepper, diced"
+        ],
         "For the gratin": [
             "1 large baking potato, peeled and thinly sliced using a mandolin",
             "100ml/3\u00bdfl oz double cream",
@@ -28,23 +32,23 @@
             "50g/1\u00beoz Edam, grated",
             "salt and freshly ground black pepper, to taste"
         ],
-        "For the tuna": [
-            "100g/3\u00bdoz tuna steak",
-            "1tbsp vegetable oil",
-            "\u00bd lemon, juiced"
-        ],
         "For the spinach": [
             "1tsp vegetable oil",
             "1tsp sesame oil",
             "100g/3\u00bdoz spinach",
             "1 lemon, juiced"
         ],
-        "For the dressing": [
+        "For the tuna": [
+            "100g/3\u00bdoz tuna steak",
             "1tbsp vegetable oil",
-            "1tsp sesame oil",
-            "1tsp soy sauce",
-            "2tbsp orange pepper, diced"
+            "\u00bd lemon, juiced"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "To make the gratin, preheat the oven to 200C/400F/Gas 6.",
@@ -57,8 +61,9 @@
         "Add the lemon juice with care as it may flame.",
         "Serve the tuna on the wilted spinach. Drizzle over the dressing. Serve the gratin aside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Seared tuna with lemon spinach, dressing and potato gratin",
     "videos": "[]"
 }

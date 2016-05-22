@@ -1,24 +1,30 @@
 {
-    "title": "Coq au vin",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "45",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/coqauvin_10455_16x9.jpg"
-    ],
-    "description": "Try James Martin's version of this French classic. Serve with olive oil mash or good bread.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Try James Martin's version of this French classic. Serve with olive oil mash or good bread.",
+    "dishes": [
+        "bread",
+        "bun",
+        "casserole",
+        "coq_au_vin",
+        "jam",
+        "pie",
+        "salad",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/coqauvin_10455_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,13 +42,20 @@
             "salt and crushed black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "45",
+    "serves": "Serves 4",
+    "show": {
+        "p0077hsg": "Housecall"
+    },
     "steps": [
         "Heat a thick-bottomed casserole dish on the stove, add almost all the butter (reserving a knob of the butter) and the shallots. Cook until just browned; then stir in the garlic. Add the bacon and thyme and cook for 2-3 minutes.",
         "Add the mushrooms, turn up the heat and add the red wine, chicken stock and vinegar. Add the chicken pieces, bring the sauce to the boil and then simmer gently for about 25 minutes or until the chicken is tender and cooked through. For a thicker sauce, remove the chicken once it is cooked and keep warm. Cook the sauce over a high heat for a few minutes until the volume of liquid has reduced. Return the chicken back to the pan.",
         "Add the parsley, together with the reserved knob of butter. Season with salt and freshly ground black pepper and serve with a dressed green salad and olive oil mash or crusty bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Coq au vin",
     "videos": "[]"
 }

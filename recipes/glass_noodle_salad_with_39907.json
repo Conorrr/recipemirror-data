@@ -1,31 +1,27 @@
 {
-    "title": "Glass noodle salad with crab and chicken",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Glass noodles are usually made of mung bean and are therefore called mung bean thread. They are never fried but sometimes used in soups and such like. When re-hydrating just cover with cold water and leave the rest to time.",
     "author": {
         "john_torode": "John Torode"
     },
-    "show": {
-        "b006t1k5": "MasterChef"
-    },
-    "tips": [
-        "To make the ground roast rice, soak long grain rice for five minutes in warm water, then drain. Heat the oven to 200C/400F/Gas 6. Spread the rice thinly on a baking tray and cook in the oven for 20 minutes, or until the rice has crisped up and is a light golden-brown. Crush in a pestle and mortar."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "Glass noodles are usually made of mung bean and are therefore called mung bean thread. They are never fried but sometimes used in soups and such like. When re-hydrating just cover with cold water and leave the rest to time.",
+    "dishes": [
+        "noodle_salad",
+        "oven-baked_dishes",
+        "salad",
+        "sauce",
+        "soup"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 packet glass noodles",
-            "200g/7oz finely minced chicken breast",
-            "salt"
-        ],
         "For the nam jim (Thai dipping sauce)": [
             "1 lime, juice only",
             "2 garlic cloves, peeled but left whole",
@@ -40,7 +36,18 @@
             "5 shallots (preferably Thai), sliced",
             "chilli powder, to taste",
             "1 red chilli, seeds removed, sliced"
+        ],
+        "default": [
+            "1 packet glass noodles",
+            "200g/7oz finely minced chicken breast",
+            "salt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 2",
+    "show": {
+        "b006t1k5": "MasterChef"
     },
     "steps": [
         "Reconstitute the noodles according to the packet instructions.",
@@ -48,8 +55,9 @@
         "For the nam jim, use a pestle and mortar to pound the lime juice, garlic, shallots, chilli, palm sugar, fish sauce and coriander roots to make the dipping sauce.",
         "In a large dish, combine the drained chicken, crabmeat, drained noodles, herbs and nam jim. Sprinkle with the ground roast rice, shallots, chilli powder and strips of red chilli. Serve immediately."
     ],
-    "howTos": [
-        
+    "tips": [
+        "To make the ground roast rice, soak long grain rice for five minutes in warm water, then drain. Heat the oven to 200C/400F/Gas 6. Spread the rice thinly on a baking tray and cook in the oven for 20 minutes, or until the rice has crisped up and is a light golden-brown. Crush in a pestle and mortar."
     ],
+    "title": "Glass noodle salad with crab and chicken",
     "videos": "[]"
 }

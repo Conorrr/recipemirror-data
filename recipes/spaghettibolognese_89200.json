@@ -1,24 +1,25 @@
 {
-    "title": "Nigel's spaghetti bolognese",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "118",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spaghettibolognese_89200_16x9.jpg"
-    ],
-    "description": "Make a big batch of Nigel's classic bolognese recipe and stash half in the freezer for a quick supper.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Italian",
+    "description": "Make a big batch of Nigel's classic bolognese recipe and stash half in the freezer for a quick supper.",
+    "dishes": [
+        "pasta",
+        "spaghetti_bolognese",
+        "stir-fries",
+        "stock",
+        "tagliatelle"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spaghettibolognese_89200_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -40,14 +41,21 @@
             "grated parmesan cheese, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "118",
+    "serves": "Serves 4",
+    "show": {
+        "b00701fw": "A Taste of My Life"
+    },
     "steps": [
         "Melt the butter in a heavy-based pan, then stir in the pancetta and let it cook for 4-5 minutes, without colouring much. Add the onion, garlic, carrot, celery, mushrooms and bay leaves, stirring well. Leave to cook for 8-10 minutes over a medium heat, stirring frequently, until the vegetables are tender.",
         "Turn up the heat and tip in the minced beef or lamb, breaking it up well with a wooden spoon. Leave to cook without stirring for 3-4 minutes, or until the bottom is browned, then stir again and cook for a further 3-4 minutes, or until golden-brown all over and cooked through.",
         "Pour in the milk a bit at a time, then mix in the tomatoes, red wine, vegetable stock, nutmeg and season with salt and freshly ground black pepper freshly ground black pepper. Bring to the boil, then reduce the heat to a gentle simmer. Partially cover the pan with a lid and leave to simmer for 1 hour 30 minutes, stirring occasionally.",
         "To serve, season to taste with salt and freshly ground black pepper, then stir in the cooked pasta and pile onto serving plates. Sprinkle over the grated parmesan and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Nigel's spaghetti bolognese",
     "videos": "[]"
 }

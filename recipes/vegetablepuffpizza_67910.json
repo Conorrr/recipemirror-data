@@ -1,24 +1,23 @@
 {
-    "title": "Vegetable puff pizza",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This is a fun concept, which works well as an appetiser or as a main course garnish. If you are using it as an appetiser, sprinkle the veggies with a few tablespoons of pecorino or parmesan cheese before baking.",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "This is a fun concept, which works well as an appetiser or as a main course garnish. If you are using it as an appetiser, sprinkle the veggies with a few tablespoons of pecorino or parmesan cheese before baking.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "pizza"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,6 +32,12 @@
             "1 tbsp freshly grated pecorino or parmesan cheese"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5.",
         "Roll the puff pastry out to a thickness of \u00bdcm/\u00bcin. Chill in the refrigerator for at least 30 minutes Cut into a round shape with a diameter of about 20cm/8in and prick the whole surface a fork, evenly and completely all over. Place the pastry on a baking sheet, and bake for 10-15 minutes, until just nicely golden.",
@@ -40,8 +45,9 @@
         "Remove the pastry from the oven, and brush with the egg yolk wash. This helps to keep the vegetables sticking to the puff, but also, protects the pastry from absorbing any excess liquids from the vegetables, ensuring a crisp, not soggy base.",
         "Spread the vegetables evenly over the pastry, sprinkle with the cheese and bake off for about 10 minutes, about 180C/350F/Gas 4. To serve, cut into wedges."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Vegetable puff pizza",
     "videos": "[]"
 }

@@ -1,38 +1,42 @@
 {
-    "title": "Oatcakes",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "4-6",
-    "recommendations": "13",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/oatcakes_74180_16x9.jpg"
-    ],
-    "description": "Give your Christmas presents the personal touch by making homemade oatcakes for loved ones \u2013 wrap them up with a selection of cheeses.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006mk00": "Castle in the Country"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Give your Christmas presents the personal touch by making homemade oatcakes for loved ones \u2013 wrap them up with a selection of cheeses.",
+    "dishes": [
+        "jam",
+        "oatcake",
+        "scone"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/oatcakes_74180_16x9.jpg"
+    ],
     "ingredients": {
+        "For the glaze": [
+            "1 egg",
+            "1 tbsp milk",
+            "1 tsp sugar"
+        ],
         "default": [
             "110g/4oz medium oatmeal, plus more for dusting",
             "110g/4oz plain flour",
             "55g/2oz lard, dripping or poultry fat",
             "1 level tsp salt",
             "cold water"
-        ],
-        "For the glaze": [
-            "1 egg",
-            "1 tbsp milk",
-            "1 tsp sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "13",
+    "serves": "4-6",
+    "show": {
+        "b006mk00": "Castle in the Country"
     },
     "steps": [
         "Mix the oatmeal and flour in a bowl. Rub in the fat, add the salt and mix in just enough cold to form a soft but not tacky dough.",
@@ -41,8 +45,9 @@
         "Cook the oatcakes on an ungreased medium-hot griddle, without turning them. The moment the first batch are in place, brush them over with glaze - it will turn to a shiny coating as they cook.",
         "When fully cooked, remove. Store in an airtight box."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Oatcakes",
     "videos": "[]"
 }

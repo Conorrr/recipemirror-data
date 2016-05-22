@@ -1,24 +1,22 @@
 {
-    "title": "Celeriac soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,6 +30,12 @@
             "1 tbsp fresh chopped chives, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the olive oil in a saucepan, add the onion and fry over a gentle heat until softened.",
         "Add the garlic and cook for one minute.",
@@ -39,8 +43,9 @@
         "Add the stock and cook for ten minutes, or until the potato and celeriac have softened. Remove the vegetables and stock from the heat and leave to cool for a few minutes, before blending with a stick blender. Alternatively do not blend fir a rustic style soup.",
         "To serve, pour into a bowl and garnish with chopped chives."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Celeriac soup",
     "videos": "[]"
 }

@@ -1,24 +1,28 @@
 {
-    "title": "Chocolate \u00e9clairs",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes about 12 \u00e9clairs",
-    "recommendations": "16",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_clairs_03600_16x9.jpg"
-    ],
-    "description": "Raymond Blanc's recipe for chocolate \u00e9clairs is full of tips and advice, including how to freeze. Equipment and preparation: You will need a large piping bag fitted with a 1.5cm/\u00bdin fluted nozzle and a 0.5cm/\u00bcin nozzle.",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
-    },
-    "tips": [
-        "The \u00e9clair cases can be baked in advance and frozen. Defrost for one hour then fill them with the pastry cream. Alternatively, you could freeze the \u00e9clairs uncooked and cook them straight from the freezer when required, in which case add five minutes to the cooking time. The pastry cream (or cr\u00e8me patissi\u00e8re) can be made up to three days in advance and stored in the fridge. Alternatively flavour the pastry cream with coffee or vanilla extract instead of chocolate and do not add the cocoa powder to the glaze."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Raymond Blanc's recipe for chocolate \u00e9clairs is full of tips and advice, including how to freeze. Equipment and preparation: You will need a large piping bag fitted with a 1.5cm/\u00bdin fluted nozzle and a 0.5cm/\u00bcin nozzle.",
+    "dishes": [
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "making_choux_pastry",
+        "melting_chocolate",
+        "using_piping_bags"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_clairs_03600_16x9.jpg"
     ],
     "ingredients": {
         "For the choux pastry": [
@@ -41,6 +45,12 @@
             "1-2 tsp water"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "16",
+    "serves": "Makes about 12 \u00e9clairs",
+    "show": {
+        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
+    },
     "steps": [
         "Preheat the oven to 170C/325F/Gas 3.",
         "For the choux pastry, place the water, milk, butter, sugar and salt in a medium saucepan over a high heat and bring the mixture to a boil.",
@@ -57,10 +67,9 @@
         "Stir in the cocoa powder and enough of the water to make a smooth paste, then transfer to a piping bag fitted with a 1.5cm/\u00bdin nozzle.",
         "Pipe the glaze onto the top of each \u00e9clair, removing any excess with the back of your finger, then place in the fridge for the glaze to set before serving."
     ],
-    "howTos": [
-        "making_choux_pastry",
-        "melting_chocolate",
-        "using_piping_bags"
+    "tips": [
+        "The \u00e9clair cases can be baked in advance and frozen. Defrost for one hour then fill them with the pastry cream. Alternatively, you could freeze the \u00e9clairs uncooked and cook them straight from the freezer when required, in which case add five minutes to the cooking time. The pastry cream (or cr\u00e8me patissi\u00e8re) can be made up to three days in advance and stored in the fridge. Alternatively flavour the pastry cream with coffee or vanilla extract instead of chocolate and do not add the cocoa powder to the glaze."
     ],
+    "title": "Chocolate \u00e9clairs",
     "videos": "[]"
 }

@@ -1,26 +1,36 @@
 {
-    "title": "Chocolate and prune tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 6",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_and_prune_tart_06797_16x9.jpg"
-    ],
-    "description": "The combination of prunes, chocolate and brandy rarely fails to please and this deliciously dark and sophisticated tart uses cocoa pastry for an extra chocolate hit.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b03hcv64": "Paul Hollywood's Pies & Puds"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "The combination of prunes, chocolate and brandy rarely fails to please and this deliciously dark and sophisticated tart uses cocoa pastry for an extra chocolate hit.",
+    "dishes": [
+        "bread",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_and_prune_tart_06797_16x9.jpg"
+    ],
     "ingredients": {
+        "For the chocolate pastry": [
+            "175g/6oz plain flour",
+            "2 tbsp icing sugar",
+            "2 tbsp cocoa powder",
+            "100g/3\u00bdoz cold unsalted butter, cut into roughly 1cm/\u00bdin dice",
+            "1 free-range egg, yolk only",
+            "1 tsp lemon juice",
+            "2 tbsp cold water"
+        ],
         "For the filling": [
             "150g/5\u00bdoz ready-to-eat prunes (ideally d\u2019Agen), cut into quarters",
             "1 tbsp brandy",
@@ -30,16 +40,13 @@
             "125ml/4fl oz double cream",
             "200g/7oz mascarpone",
             "2 free-range medium eggs, beaten"
-        ],
-        "For the chocolate pastry": [
-            "175g/6oz plain flour",
-            "2 tbsp icing sugar",
-            "2 tbsp cocoa powder",
-            "100g/3\u00bdoz cold unsalted butter, cut into roughly 1cm/\u00bdin dice",
-            "1 free-range egg, yolk only",
-            "1 tsp lemon juice",
-            "2 tbsp cold water"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "2",
+    "serves": "Serves 6",
+    "show": {
+        "b03hcv64": "Paul Hollywood's Pies & Puds"
     },
     "steps": [
         "For the filling, put the prunes, brandy and vanilla in a bowl. Pour on the boiling water and leave to soak for several hours or overnight.",
@@ -53,8 +60,9 @@
         "Pour the chocolate and prune mixture into the tart case. Bake for 20\u201325 minutes, or until almost set, with a bit of wobble still in the centre. Leave in the tin to cool completely.",
         "Serve at room temperature, with whipped double cream."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry"
+    "tips": [
+        
     ],
+    "title": "Chocolate and prune tart",
     "videos": "[]"
 }

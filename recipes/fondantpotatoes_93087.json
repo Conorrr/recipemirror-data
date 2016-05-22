@@ -1,24 +1,22 @@
 {
-    "title": "Fondant potatoes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "29",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fondantpotatoes_93087_16x9.jpg"
-    ],
-    "description": "Sounds awfully posh, doesn't it? But these potatoes are really an easy and luxurious side dish to a roast or steak.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00pftz5": "The Hairy Bikers' Twelve Days of Christmas"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Sounds awfully posh, doesn't it? But these potatoes are really an easy and luxurious side dish to a roast or steak.",
+    "dishes": [
+        "fondant_potatoes",
+        "sauce",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fondantpotatoes_93087_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -30,14 +28,21 @@
             "sea salt flakes and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "29",
+    "serves": "Serves 4",
+    "show": {
+        "b00pftz5": "The Hairy Bikers' Twelve Days of Christmas"
+    },
     "steps": [
         "Heat the butter over a medium heat in a saucepan. When the butter is foaming, add the potatoes and fry until deep golden-brown on one side, about 5-6 minutes. (Do not move the potatoes as they cook.)",
         "Turn over the potatoes and cook for a further 5-6 minutes, or until golden-brown on both sides.",
         "Carefully pour in the stock, then add the garlic cloves and thyme sprigs. (CAUTION: the hot fat will splutter when it comes into contact with the stock.) Season, to taste, with salt and freshly ground black pepper.",
         "Cover the pan with a lid and reduce the heat until the stock is simmering. Simmer the potatoes until tender, then remove the potatoes from the pan using a slotted spoon and keep warm."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fondant potatoes",
     "videos": "[]"
 }

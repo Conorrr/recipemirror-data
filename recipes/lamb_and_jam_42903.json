@@ -1,26 +1,33 @@
 {
-    "title": "Lamb with dauphinoise potatoes and sticky port sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "For a special meal or dinner party try this elegant rack of lamb with potato gratin and a sweet port sauce.",
     "author": {
         "the_edwards_family": "The Edwards Family"
     },
-    "show": {
-        "b00sy9ws": "The Hairy Bikers' Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "For a special meal or dinner party try this elegant rack of lamb with potato gratin and a sweet port sauce.",
+    "dishes": [
+        "gratin",
+        "jelly",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the baby leeks and broad beans": [
+            "handful podded broad beans",
+            "8 baby leeks",
+            ""
+        ],
         "For the dauphinoise potatoes": [
             "large knob of butter, softened, for greasing",
             "500g/1lb 2oz King Edward potatoes, peeled and thinly sliced",
@@ -31,6 +38,11 @@
             "1 bay leaf",
             "salt and freshly ground black pepper",
             "100g/4oz Gruy\u00e8re"
+        ],
+        "For the lamb": [
+            "8-bone rack of lamb",
+            "salt and freshly ground black pepper",
+            "olive oil, for frying"
         ],
         "For the lamb stock": [
             "1 kg/2lb 4oz lamb trimmings and bones",
@@ -46,17 +58,13 @@
             "salt and freshly ground black pepper",
             "1 tsp arrowroot, mixed with 1 tsp water to a smooth paste, to thicken, as necessary",
             "110g/4oz redcurrants"
-        ],
-        "For the lamb": [
-            "8-bone rack of lamb",
-            "salt and freshly ground black pepper",
-            "olive oil, for frying"
-        ],
-        "For the baby leeks and broad beans": [
-            "handful podded broad beans",
-            "8 baby leeks",
-            ""
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b00sy9ws": "The Hairy Bikers' Cook Off"
     },
     "steps": [
         "For the dauphinoise potatoes, preheat the oven to 200C/400F/Gas 6. Generously butter four large individual ovenproof ramekins (or one large gratin dish) and stand them on a baking tray.",
@@ -69,8 +77,9 @@
         "Boil the leeks in a pan of salted water for two minutes, or until just tender. Add the broad beans for the last 30 seconds of cooking, then drain both.",
         "To serve, carve the lamb into individual cutlets and divide among four warm serving plates. Turn out the dauphinoise potatoes from their ramekins and place next to the lamb, then arrange the leeks and broad beans alongside. Pour over the sauce and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb with dauphinoise potatoes and sticky port sauce",
     "videos": "[]"
 }

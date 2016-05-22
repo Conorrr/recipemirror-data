@@ -1,24 +1,21 @@
 {
-    "title": "Forest fruits cheesecake",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "biscuit",
+        "cheesecake"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "caramelising_sugar"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +28,12 @@
             "85g/3oz frozen forest fruits"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Mix the crushed biscuits with the melted butter in a bowl.",
         "Place a deep chefs' ring onto a plate and press the biscuit mixture into the base of the ring.",
@@ -38,8 +41,9 @@
         "Place three tablespoons of the frozen forest fruits over the biscuit base, then spoon over the cream mixture. Add the remaining fruit to fill the ring.",
         "Carefully remove the chefs' ring (you may need to use a mini-blowtorch to loosen the ring) and serve."
     ],
-    "howTos": [
-        "caramelising_sugar"
+    "tips": [
+        
     ],
+    "title": "Forest fruits cheesecake",
     "videos": "[]"
 }

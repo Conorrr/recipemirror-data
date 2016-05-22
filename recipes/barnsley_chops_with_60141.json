@@ -1,26 +1,34 @@
 {
-    "title": "Barnsley chops with Cumberland sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "7",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/barnsley_chops_with_60141_16x9.jpg"
-    ],
-    "description": "A double-sided chop deserves pride of place at the dinner table, so serve this tender and juicy lamb recipe with a classic Cumberland sauce.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "A double-sided chop deserves pride of place at the dinner table, so serve this tender and juicy lamb recipe with a classic Cumberland sauce.",
+    "dishes": [
+        "jelly",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/barnsley_chops_with_60141_16x9.jpg"
+    ],
     "ingredients": {
+        "For the Cumberland sauce": [
+            "1 orange, zest cut into matchsticks, juiced",
+            "1 piece stem ginger, drained and cut into very fine strips",
+            "50ml/2fl oz ruby port",
+            "150g/5fl oz redcurrant jelly",
+            "\u00bd lemon, juice only"
+        ],
         "For the chops": [
             "2 tbsp chopped fresh thyme",
             "1 tbsp chopped fresh rosemary",
@@ -29,14 +37,13 @@
             "freshly ground black pepper",
             "4 x 375g/13oz Barnsley chops",
             "2 tbsp sunflower oil"
-        ],
-        "For the Cumberland sauce": [
-            "1 orange, zest cut into matchsticks, juiced",
-            "1 piece stem ginger, drained and cut into very fine strips",
-            "50ml/2fl oz ruby port",
-            "150g/5fl oz redcurrant jelly",
-            "\u00bd lemon, juice only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 4",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "For the chops, mix all the herbs with the salt and plenty of freshly ground black pepper in a bowl. Place a quarter of the herb mixture onto a plate and rub into both sides of one of the chops. Repeat with the rest of the herb mixture and the remaining three chops until all are coated with the herbs.",
@@ -48,8 +55,9 @@
         "Prop up the chops on the fat and cook for 2-3 minutes more until the fat is browned and rendered slightly. Transfer to the chops to a baking tray and cook in the centre of the oven for a further six minutes for medium and 8-10 minutes for well done. Remove from the oven and leave to rest for five minutes before serving.",
         "Put the chops on warmed plates and spoon over a little of the warm Cumberland sauce. Garnish with fresh herbs."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Barnsley chops with Cumberland sauce",
     "videos": "[]"
 }

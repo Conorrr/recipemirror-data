@@ -1,26 +1,33 @@
 {
-    "title": "Seafood lasagne",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "26",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bread",
+        "lasagne",
+        "oven-baked_dishes",
+        "pasta",
+        "salad",
+        "sauce",
+        "seafood",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "making_bechamel_sauce"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "green salad",
+            "garlic bread"
+        ],
         "default": [
             "1 litre/1 pint 15fl oz milk",
             "2 bay leaves",
@@ -35,11 +42,13 @@
             "large handful baby spinach",
             "150g/5oz cheddar, grated",
             "75g/2 \u00bdoz parmesan, grated"
-        ],
-        "To serve": [
-            "green salad",
-            "garlic bread"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "26",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/365F/Gas 4.",
@@ -54,8 +63,9 @@
         "Sprinkle the top with the cheddar cheese and parmesan, then transfer to the oven to bake for 40 minutes, or until the fish is cooked and the topping is golden-brown.",
         "Serve at the table in its dish with a bowl of green salad and some garlic bread."
     ],
-    "howTos": [
-        "making_bechamel_sauce"
+    "tips": [
+        
     ],
+    "title": "Seafood lasagne",
     "videos": "[]"
 }

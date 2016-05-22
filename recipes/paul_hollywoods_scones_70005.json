@@ -1,26 +1,33 @@
 {
-    "title": "Paul Hollywood's scones",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 8 large or 15 small scones",
-    "recommendations": "208",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/paul_hollywoods_scones_70005_16x9.jpg"
-    ],
-    "description": "A simple recipe for soft and fluffy scones that are perfect with jam and plenty of clotted cream.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "Download the Get Baking booklet for easy-to-follow recipes, tips and advice."
+    "cookTime": "10 to 30 mins",
+    "description": "A simple recipe for soft and fluffy scones that are perfect with jam and plenty of clotted cream.",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "scone"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "chaffing",
+        "egg_wash",
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/paul_hollywoods_scones_70005_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "butter",
+            "good-quality strawberry or raspberry jam",
+            "clotted cream"
+        ],
         "default": [
             "500g/1lb 1oz strong white flour, plus a little extra for rolling out",
             "80g/3oz softened butter, plus a little extra to grease the baking tray",
@@ -29,12 +36,13 @@
             "5 tsp baking powder",
             "250ml/8\u00bdfl oz milk",
             "1 free-range egg, beaten with a little salt (for glazing)"
-        ],
-        "To serve": [
-            "butter",
-            "good-quality strawberry or raspberry jam",
-            "clotted cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "208",
+    "serves": "Makes 8 large or 15 small scones",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 220C (200C fan assisted)/425F/Gas 7.",
@@ -51,10 +59,9 @@
         "Bake the scones in the middle of the oven for 15 minutes, or until the scones are risen and golden-brown.",
         "Leave the scones to cool, then split in half and add butter, jam and clotted cream to serve."
     ],
-    "howTos": [
-        "chaffing",
-        "egg_wash",
-        "rubbing_in"
+    "tips": [
+        "Download the Get Baking booklet for easy-to-follow recipes, tips and advice."
     ],
+    "title": "Paul Hollywood's scones",
     "videos": "[]"
 }

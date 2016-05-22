@@ -1,24 +1,22 @@
 {
-    "title": "Spiced apple chutney",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 4-6 jars",
-    "recommendations": "126",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spicedapplechutney_7720_16x9.jpg"
-    ],
-    "description": "This apple chutney has a tangy, sweet flavour which is perfect with cheeses such as cheddar, cheshire or white stilton.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "This apple chutney has a tangy, sweet flavour which is perfect with cheeses such as cheddar, cheshire or white stilton.",
+    "dishes": [
+        "apple_chutney",
+        "chutney"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spicedapplechutney_7720_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -33,6 +31,12 @@
             "425ml/\u00be pints malt vinegar"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "126",
+    "serves": "Makes 4-6 jars",
+    "show": {
+        
+    },
     "steps": [
         "Put all the ingredients into a preserving pan. Slowly bring to the boil until the sugar has dissolved.",
         "Simmer for 1\u00bd-2 hours, stirring from time to time to stop the chutney sticking to the pan.",
@@ -40,8 +44,9 @@
         "Turn into sterilised jars, seal and cool.",
         "Store in a cool, dark cupboard for two to three months before eating."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spiced apple chutney",
     "videos": "[]"
 }

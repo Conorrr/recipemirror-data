@@ -1,24 +1,21 @@
 {
-    "title": "Pan-fried ratatouille",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/panfriedratatouille_9975_16x9.jpg"
-    ],
-    "description": "Serve up this tried-and-tested ratatouile recipe - a perfect taste of Provence.",
     "author": {
         "roopa_gulati": "Roopa Gulati"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Serve up this tried-and-tested ratatouile recipe - a perfect taste of Provence.",
+    "dishes": [
+        "ratatouille",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/panfriedratatouille_9975_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,6 +33,12 @@
             "salt and coarsely ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Sprinkle aubergine with salt and set aside for 15 minutes before rinsing and patting dry with a cloth (to draw out any bitter juices).",
         "Soften the onion and garlic in the olive oil over a gentle heat.",
@@ -45,8 +48,9 @@
         "Add the chopped coriander and soaked saffron strands.",
         "Sharpen with lemon juice, re-season with salt and freshly ground black pepper and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pan-fried ratatouille",
     "videos": "[]"
 }

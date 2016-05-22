@@ -1,26 +1,32 @@
 {
-    "title": "Porridge of grains from J\u00e4mtland",
-    "cookTime": "less than 10 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This dish from innovative Swedish chef Magnus Lisson matches porridge with earthy tastes of nature.",
     "author": {
         "magnus_nilsson": "Magnus Nilsson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "This dish from innovative Swedish chef Magnus Lisson matches porridge with earthy tastes of nature.",
+    "dishes": [
+        "broth",
+        "gratin",
+        "jam",
+        "pickle",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the broth": [
+            "200ml/7fl oz light, clear beef broth, such as consomm\u00e9",
+            "10g/\u00bcoz birch leaves decomposed under the snow for one winter (optional)",
+            "tuft of moss big enough to fit snuggly inside the vessel you are going to pour the hot broth from."
+        ],
         "For the porridge": [
             "1 tbsp crushed barley",
             "1 tbsp flax seeds, whole",
@@ -32,17 +38,18 @@
             "50g/1\u00beoz mature cows\u2019 milk cheese",
             "salt, to taste"
         ],
-        "For the broth": [
-            "200ml/7fl oz light, clear beef broth, such as consomm\u00e9",
-            "10g/\u00bcoz birch leaves decomposed under the snow for one winter (optional)",
-            "tuft of moss big enough to fit snuggly inside the vessel you are going to pour the hot broth from."
-        ],
         "To garnish": [
             "1 tsp chive oil",
             "100g/3\u00bdoz pickled carrots (lacto-fermented in 2.5% salinity brine)",
             "1 tbsp dried chives, finely chopped",
             "6 tbsp puffed grains of barley, rye and oats"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Place the grains in a pan and just cover them with water. Leave for an hour or two to soak.",
@@ -51,8 +58,9 @@
         "Place some of the porridge in a small, heated bowl and tap the bottom so that the surface of the porridge becomes flat. Add one teaspoon of chive oil and sprinkle, chopped carrots, dried chives and puffed grains over the surface until covered.",
         "To serve pour broth into the bowl, the broth should completely cover the porridge so that all the garnishes float around in it."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Porridge of grains from J\u00e4mtland",
     "videos": "[]"
 }

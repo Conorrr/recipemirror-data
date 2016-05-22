@@ -1,26 +1,30 @@
 {
-    "title": "Spiced lamb shish kebabs",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "allegra_mcevedy": "Allegra McEvedy"
     },
-    "show": {
-        "b00m1c34": "Economy Gastronomy"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Turkish_and_Middle_Eastern",
+    "description": "",
+    "dishes": [
+        "flatbread",
+        "kebab",
+        "pickle",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the flatbreads": [
+            "4 x 20cm/8in ready-made flatbreads"
+        ],
         "For the spiced lamb": [
             "2 garlic cloves, peeled, finely chopped",
             "\u00be tsp ground cumin",
@@ -35,9 +39,6 @@
             "2 garlic cloves, peeled, finely chopped",
             "pinch salt"
         ],
-        "For the flatbreads": [
-            "4 x 20cm/8in ready-made flatbreads"
-        ],
         "To serve": [
             "200g/7oz red or white cabbage, core removed, thinly shredded",
             "dash ready-made chilli sauce",
@@ -48,6 +49,12 @@
             "1-2 tbsp freshly squeezed lemon juice"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b00m1c34": "Economy Gastronomy"
+    },
     "steps": [
         "For the spiced lamb, in a large bowl, mix together the garlic and cumin until well combined. Add the cubes of lamb leg to the spice mixture and stir until completely coated. Set aside for at least two hours, or chill in the fridge overnight.",
         "Heat a griddle pan over a high heat until smoking hot. Add the coated lamb cubes to the hot pan, in batches, and season, to taste, with salt. Grill for 3-4 minutes on each side, or until golden-brown griddle marks appear on both sides of the meat cubes and the lamb is cooked to your liking. Remove the lamb from the pan and set aside (keep warm). Repeat the process with the remaining coated lamb cubes.",
@@ -55,8 +62,9 @@
         "Meanwhile, for the flatbreads, heat a separate griddle pan over a low heat. Cook each flatbread, one at a time, for 1-2 minutes on each side, or until warmed through.",
         "To serve, spoon a dollop of the yoghurt sauce into the centre of each flatbread. Pile a little of the cabbage on top of each flatbread, then drizzle over the chilli sauce. Place two slices of tomato and onion on top, then sprinkle over the dill pickle slices. Add the cubes of lamb, then sprinkle over the pickled chillies. Squeeze over the lemon juice, then fold the edges of the kebab over the filling."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spiced lamb shish kebabs",
     "videos": "[]"
 }

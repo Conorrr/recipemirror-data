@@ -1,35 +1,27 @@
 {
-    "title": "Cumin and yoghurt chicken with cucumber and dill salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 4-6",
-    "recommendations": "8",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cuminandyoghurtchick_83849_16x9.jpg"
-    ],
-    "description": "A yoghurt marinade keeps this bird juicy and tender. Opening out the chicken reduces the cooking time for a quick roast.",
     "author": {
         "rachel_allen": "Rachel Allen"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        "To barbecue, cook as instructed but don't brown the chicken in the frying pan. Place the marinated chicken straight into the oven, and when it is done roasting, transfer to a pre-heated barbecue for ten minutes to brown. Do allow for resting time after this final sizzle."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Turkish_and_Middle_Eastern",
+    "description": "A yoghurt marinade keeps this bird juicy and tender. Opening out the chicken reduces the cooking time for a quick roast.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pie",
+        "roast_chicken",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "testing_cooked_poultry"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cuminandyoghurtchick_83849_16x9.jpg"
+    ],
     "ingredients": {
-        "For the marinade": [
-            "300ml/11fl oz natural yoghurt",
-            "2 tbsp mint or coriander, finely chopped",
-            "1 lemon, juice only",
-            "1 tbsp cumin seeds, ground",
-            "2 tbsp olive oil",
-            "2 cloves garlic, finely grated or crushed",
-            "good pinch of pepper"
-        ],
         "For the chicken": [
             "1kg/2lb 2oz chicken, preferably organic, spatchcocked",
             "drizzle of olive oil"
@@ -40,7 +32,22 @@
             "4 tbsp extra virgin olive oil",
             "2 large tbsp chopped dill (mint or coriander is also great)",
             "sea salt and freshly ground black pepper"
+        ],
+        "For the marinade": [
+            "300ml/11fl oz natural yoghurt",
+            "2 tbsp mint or coriander, finely chopped",
+            "1 lemon, juice only",
+            "1 tbsp cumin seeds, ground",
+            "2 tbsp olive oil",
+            "2 cloves garlic, finely grated or crushed",
+            "good pinch of pepper"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "8",
+    "serves": "Serves 4-6",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the chicken, mix all the marinade ingredients together in a bowl.",
@@ -54,8 +61,9 @@
         "Cut the cucumber into wedges and place in a bowl. Add the remaining ingredients and toss together to coat. Season to taste with more lemon juice or salt and freshly ground black pepper.",
         "To serve, carve the chicken into eight pieces (legs, thighs and breasts). Place the cucumber salad into a pile on a plate and a bit of chicken alongside. Serve with crusty bread or a cous cous salad."
     ],
-    "howTos": [
-        "testing_cooked_poultry"
+    "tips": [
+        "To barbecue, cook as instructed but don't brown the chicken in the frying pan. Place the marinated chicken straight into the oven, and when it is done roasting, transfer to a pre-heated barbecue for ten minutes to brown. Do allow for resting time after this final sizzle."
     ],
+    "title": "Cumin and yoghurt chicken with cucumber and dill salad",
     "videos": "[]"
 }

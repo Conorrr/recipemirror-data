@@ -1,26 +1,35 @@
 {
-    "title": "Frangipane tart with custard",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 10-12",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "A Bakewell tart by any other name. Use the jam of your choice - raspberry is the classic option, though cherry also works well. Equipment and preparation: you will need a 23cm/9in deep-sided, loose bottomed tart tin.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b04xycrx": "James Martin: Home Comforts"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "A Bakewell tart by any other name. Use the jam of your choice - raspberry is the classic option, though cherry also works well. Equipment and preparation: you will need a 23cm/9in deep-sided, loose bottomed tart tin.",
+    "dishes": [
+        "bread",
+        "custard",
+        "frangipane",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the custard": [
+            "250ml/9fl oz milk",
+            "250ml/9fl oz double cream",
+            "4 free-range egg yolks",
+            "110g/4oz caster sugar"
+        ],
         "For the pastry": [
             "125g/4\u00bdoz cold butter",
             "250g/9oz plain flour, plus extra for dusting",
@@ -34,13 +43,13 @@
             "5 free-range eggs",
             "225g/8oz ground almonds",
             "75g/3oz whole blanched almonds"
-        ],
-        "For the custard": [
-            "250ml/9fl oz milk",
-            "250ml/9fl oz double cream",
-            "4 free-range egg yolks",
-            "110g/4oz caster sugar"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "8",
+    "serves": "Serves 10-12",
+    "show": {
+        "b04xycrx": "James Martin: Home Comforts"
     },
     "steps": [
         "For the pastry, put the butter and flour into a food mixer and mix until the texture resembles breadcrumbs, then add the egg and mix until combined into a firm dough.",
@@ -58,8 +67,9 @@
         "Strain into a clean pan and warm through.",
         "To serve, cut the tart into wedges, place onto plates and pour the custard alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Frangipane tart with custard",
     "videos": "[p01sh23w:p01sh23y]"
 }

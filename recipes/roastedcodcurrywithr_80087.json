@@ -1,31 +1,28 @@
 {
-    "title": "Roasted cod curry with rice and peas with mango salsa",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "curry",
+        "oven-baked_dishes",
+        "salad",
+        "salsa",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the roasted cod": [
-            "1 tbsp olive oil",
-            "150g/5\u00bdoz thick cod",
-            "100g/3\u00bdoz baby beetroot, peeled and chopped in half"
-        ],
         "For the curry": [
             "1 tbsp olive oil",
             "2 cloves garlic",
@@ -35,11 +32,6 @@
             "2 cardamom pods",
             "100ml/3\u00bdfloz coconut milk"
         ],
-        "For the rice and peas": [
-            "150g/5\u00bdoz basmati rice",
-            "300ml/10fl oz boiling water",
-            "50g/1\u00beoz garden peas, cooked"
-        ],
         "For the mango salsa": [
             "\u00bd lime, juice and zest only",
             "1 tsp runny honey",
@@ -48,7 +40,23 @@
             "50g/1\u00beoz mango, diced",
             "1 tbsp chopped coriander",
             "1 tbsp chopped chives"
+        ],
+        "For the rice and peas": [
+            "150g/5\u00bdoz basmati rice",
+            "300ml/10fl oz boiling water",
+            "50g/1\u00beoz garden peas, cooked"
+        ],
+        "For the roasted cod": [
+            "1 tbsp olive oil",
+            "150g/5\u00bdoz thick cod",
+            "100g/3\u00bdoz baby beetroot, peeled and chopped in half"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -65,8 +73,9 @@
         "Add the mango and herbs and toss together.",
         "To serve, pour the curry sauce on a warm plate and serve the cod and beetroot on top. Serve the rice and peas and mango salsa aside in separate bowls."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Roasted cod curry with rice and peas with mango salsa",
     "videos": "[]"
 }

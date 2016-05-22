@@ -1,26 +1,47 @@
 {
-    "title": "Stuffed veal with potato cake, roasted leeks and mushroom cream sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "cake",
+        "jam",
+        "oven-baked_dishes",
+        "sandwich",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the basil cream sauce": [
+            "1 tbsp olive oil",
+            "1 garlic clove, finely chopped",
+            "1 leek, cleaned and finely sliced",
+            "25g/1oz chestnut mushrooms, chopped",
+            "100ml/3\u00bdfl oz double cream",
+            "1 tbsp chopped fresh basil leaves",
+            "salt and freshly ground black pepper"
+        ],
+        "For the char-grilled leeks": [
+            "10 baby leeks, cleaned",
+            "1 tbsp olive oil"
+        ],
+        "For the crushed potato cake": [
+            "100g/3\u00bdoz new potatoes, cooked",
+            "25g/1oz unsalted butter",
+            "\u00bd tsp thyme leaves",
+            "salt and freshly ground black pepper",
+            "1 tbsp olive oil"
+        ],
         "For the veal": [
             "150g/5\u00bdoz veal escalope",
             "100g/3\u00bdoz flour seasoned with salt and freshly ground black pepper",
@@ -31,27 +52,13 @@
             "100g/3\u00bdoz breadcrumbs",
             "2 free-range eggs, beaten",
             "1 tbsp olive oil"
-        ],
-        "For the crushed potato cake": [
-            "100g/3\u00bdoz new potatoes, cooked",
-            "25g/1oz unsalted butter",
-            "\u00bd tsp thyme leaves",
-            "salt and freshly ground black pepper",
-            "1 tbsp olive oil"
-        ],
-        "For the char-grilled leeks": [
-            "10 baby leeks, cleaned",
-            "1 tbsp olive oil"
-        ],
-        "For the basil cream sauce": [
-            "1 tbsp olive oil",
-            "1 garlic clove, finely chopped",
-            "1 leek, cleaned and finely sliced",
-            "25g/1oz chestnut mushrooms, chopped",
-            "100ml/3\u00bdfl oz double cream",
-            "1 tbsp chopped fresh basil leaves",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -71,8 +78,9 @@
         "Add the cream and basil and heat to simmer for five minutes, seasoning with salt and freshly ground black pepper.",
         "To serve, place the potato cake in the centre of a warm plate, serve the roasted leeks in a square around the potato cake. Top with the stuffed veal and spoon over the sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Stuffed veal with potato cake, roasted leeks and mushroom cream sauce",
     "videos": "[]"
 }

@@ -1,24 +1,26 @@
 {
-    "title": "Limoncello trifle",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This zingy trifle uses slices of Paul Hollywood\u2019s citrus sweet bread as the base. Make your own custard, meringues and candied peel, as well as the lemon curd, if you want something really spectacular.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b01rhdgt": "Paul Hollywood's Bread"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "This zingy trifle uses slices of Paul Hollywood\u2019s citrus sweet bread as the base. Make your own custard, meringues and candied peel, as well as the lemon curd, if you want something really spectacular.",
+    "dishes": [
+        "bread",
+        "custard",
+        "icing",
+        "meringue",
+        "stir-fries",
+        "trifle"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the lemon curd": [
@@ -42,6 +44,12 @@
             "candied lemon zest"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4-6",
+    "show": {
+        "b01rhdgt": "Paul Hollywood's Bread"
+    },
     "steps": [
         "To make the lemon curd, whisk the eggs, sugar and yolks together in a bowl.",
         "In a heavy-based pan, over a very low heat, gently heat the butter, zest and juice, until the butter has melted. Add the egg mixture and stir constantly over a low heat until it\u2019s thickened. This will take 10 minutes or more. Don\u2019t rush it or you\u2019ll get scrambled eggs.",
@@ -51,8 +59,9 @@
         "Break up the meringue nests and scatter them over the curd, followed by the custard generously spooned over the top.",
         "Pour the cream into a bowl. Add the sugar and vanilla essence and whisk until it holds soft peaks when the whisk is removed. Spoon the cream over the top of the trifle in soft peaks. Scatter over the toasted almond and candied lemon zest. Chill until ready to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Limoncello trifle",
     "videos": "[]"
 }

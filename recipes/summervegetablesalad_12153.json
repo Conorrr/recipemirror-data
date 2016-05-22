@@ -1,35 +1,25 @@
 {
-    "title": "Summer vegetable salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "neil_perry": "Neil Perry"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "pie",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 large aubergine",
-            "olive oil, for coating",
-            "sea salt, to taste",
-            "1 large red capsicum, deseeded and cut into six pieces",
-            "1 large green capsicum, deseeded and cut into six pieces",
-            "1 tomato, cored and halved crosswise",
-            "1 Spanish onion, cut into wedges"
-        ],
         "For the dressing": [
             "2 cloves of garlic, crushed",
             "1 tsp dijon mustard",
@@ -39,7 +29,22 @@
             "sea salt",
             "50ml/2fl oz extra virgin olive oil",
             "\u00bd bunch flatleaf parsley, leaves roughly torn"
+        ],
+        "default": [
+            "1 large aubergine",
+            "olive oil, for coating",
+            "sea salt, to taste",
+            "1 large red capsicum, deseeded and cut into six pieces",
+            "1 large green capsicum, deseeded and cut into six pieces",
+            "1 tomato, cored and halved crosswise",
+            "1 Spanish onion, cut into wedges"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Thinly slice the aubergine lengthwise and toss with olive oil and sea salt, then cook on a hot barbecue or chargrill until charred and tender.",
@@ -48,8 +53,9 @@
         "For the dressing, combine the garlic, mustard, capers and vinegars in a bowl, season with sea salt to taste and stir in the olive oil. Add the parsley leaves and mix well to combine.",
         "Pour the dressing over the vegetables and toss well to coat them."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Summer vegetable salad",
     "videos": "[]"
 }

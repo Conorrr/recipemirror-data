@@ -1,32 +1,25 @@
 {
-    "title": "Steamed sea bass in hot beer and ginger lime sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/steamedseabassinhotb_89271_16x9.jpg"
-    ],
-    "description": "This simple and elegant sea bass recipe makes the most of this delicious fish.",
     "author": {
         "ching-he_huang": "Ching-He Huang"
     },
-    "show": {
-        "b00cjxzp": "Chinese Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Chinese",
+    "description": "This simple and elegant sea bass recipe makes the most of this delicious fish.",
+    "dishes": [
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/steamedseabassinhotb_89271_16x9.jpg"
+    ],
     "ingredients": {
-        "For the sea bass": [
-            "2.5cm/1in piece fresh root ginger, peeled and cut into long thin strips (juilienne)",
-            "1 spring onion, sliced into long strips",
-            "1 whole wild sea bass (about 550g/1\u00bclb), de-scaled, gutted, cleaned and skin scored several times with a sharp knife",
-            "1 tbsp Shaoxing rice wine or dry sherry"
-        ],
         "For the hot ginger lime and beer sauce": [
             "2 tbsp groundnut oil",
             "1 tbsp freshly grated root ginger",
@@ -37,7 +30,19 @@
             "1 spring onion, sliced into long strips (juilienne)",
             "1 large handful fresh coriander, roughly chopped",
             "steamed wild basmati rice, to serve"
+        ],
+        "For the sea bass": [
+            "2.5cm/1in piece fresh root ginger, peeled and cut into long thin strips (juilienne)",
+            "1 spring onion, sliced into long strips",
+            "1 whole wild sea bass (about 550g/1\u00bclb), de-scaled, gutted, cleaned and skin scored several times with a sharp knife",
+            "1 tbsp Shaoxing rice wine or dry sherry"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 2",
+    "show": {
+        "b00cjxzp": "Chinese Food Made Easy"
     },
     "steps": [
         "For the sea bass, sprinkle half of the ginger and spring onion strips across the fish, or tuck some into the scores made in the skin. Place the remaining ginger and spring onion into the fish cavity.",
@@ -45,8 +50,9 @@
         "For the sauce, heat a wok until smoking and add the oil. Add the grated ginger, stir-frying for a few seconds. Stir in the lime zest, followed by the beer and soy sauce. As soon as the liquid comes to the boil, add the spring onions and coriander, then remove from the heat.",
         "To serve, carefully remove the plate of fish from the bamboo steamer, pour the sauce over the fish and serve immediately with steamed wild basmati rice."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Steamed sea bass in hot beer and ginger lime sauce",
     "videos": "[]"
 }

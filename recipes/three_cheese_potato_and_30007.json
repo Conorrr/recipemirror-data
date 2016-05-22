@@ -1,34 +1,29 @@
 {
-    "title": "Three cheese, potato and caramelised onion pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4 - 6",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "This hearty pie recipe makes a great autumn supper. Serve it with a green salad dressed with a mustard vinaigrette.",
     "author": {
         "holly_bell": "Holly Bell"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "This hearty pie recipe makes a great autumn supper. Serve it with a green salad dressed with a mustard vinaigrette.",
+    "dishes": [
+        "bread",
+        "caramel",
+        "crumble",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "75g/2\u00bdoz unsalted butter, room temperature",
-            "75g/2\u00bdoz lard, room temperature",
-            "200g/7oz plain flour",
-            "\u00bd tsp salt",
-            "\u00bd tbsp white wine vinegar",
-            "about 150ml/5fl oz chilled water"
-        ],
         "For the filling": [
             "30g/1oz butter",
             "280g/10oz onions, peeled, thinly sliced",
@@ -43,7 +38,21 @@
             "freshly ground black pepper",
             "1 tsp grated nutmeg",
             "1 free-range egg, beaten"
+        ],
+        "For the pastry": [
+            "75g/2\u00bdoz unsalted butter, room temperature",
+            "75g/2\u00bdoz lard, room temperature",
+            "200g/7oz plain flour",
+            "\u00bd tsp salt",
+            "\u00bd tbsp white wine vinegar",
+            "about 150ml/5fl oz chilled water"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "4",
+    "serves": "Serves 4 - 6",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "To make the pastry, place the butter and lard into a bowl and mash with a fork until soft and creamy. Divide the mixture into four equal portions.",
@@ -63,8 +72,9 @@
         "Take a fork and press down gently around the edges of the pie. Use any off-cuts of pastry to decorate the pie then brush the top with the remaining egg wash. Cut a small cross in the top of the pie to let the steam escape.",
         "Transfer the pie to the oven and bake for 30 minutes then reduce the oven to 180C/350F/Gas 4 and bake the pie for one hour or until golden-brown."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Three cheese, potato and caramelised onion pie",
     "videos": "[]"
 }

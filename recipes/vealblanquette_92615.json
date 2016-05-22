@@ -1,33 +1,33 @@
 {
-    "title": "Veal blanquette",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Michel Roux Jr. shows us how to make this classic veal stew.",
     "author": {
         "michel_roux_jr": "Michel Roux Jr."
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Michel Roux Jr. shows us how to make this classic veal stew.",
+    "dishes": [
+        "bun",
+        "pie",
+        "roux",
+        "sauce",
+        "slow-cooked_dishes",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the veal": [
-            "1kg/2lb 2oz breast of veal, cut into 4cm/1\u00bdin cubes",
-            "1 large onion, peeled, left whole, studded with 2 cloves",
-            "2 carrots, peeled",
-            "1 leek, white part only",
-            "1 bouquet garni (bundle of 1 sprig fresh flatleaf parsley, 1 sprig fresh thyme and 1 fresh bay leaf)",
-            "salt, to taste"
+        "For the onions and mushrooms": [
+            "24 small cocktail onions, peeled",
+            "cooking liquid from the veal (see above)",
+            "250g/9oz small button mushrooms, trimmed"
         ],
         "For the pilau rice": [
             "25g/1oz butter",
@@ -37,18 +37,27 @@
             "300g/11oz basmati rice",
             "450ml/16floz chicken stock"
         ],
-        "For the onions and mushrooms": [
-            "24 small cocktail onions, peeled",
-            "cooking liquid from the veal (see above)",
-            "250g/9oz small button mushrooms, trimmed"
-        ],
         "For the sauce": [
             "cooking liquid from the onions and mushrooms (see above)",
             "300ml/11fl oz double cream",
             "2 free-range egg yolks,",
             "2 tbsp cr\u00e8me fra\u00eeche",
             "salt and freshly ground black pepper"
+        ],
+        "For the veal": [
+            "1kg/2lb 2oz breast of veal, cut into 4cm/1\u00bdin cubes",
+            "1 large onion, peeled, left whole, studded with 2 cloves",
+            "2 carrots, peeled",
+            "1 leek, white part only",
+            "1 bouquet garni (bundle of 1 sprig fresh flatleaf parsley, 1 sprig fresh thyme and 1 fresh bay leaf)",
+            "salt, to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 6-8",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the veal, place the cubes of meat into a large saucepan, cover with cold water and bring to the boil.",
@@ -70,8 +79,9 @@
         "Remove the pan from the heat, then stir in the egg yolk and cr\u00e8me fra\u00eeche mixture. Stir continuously until the mixture is completely incorporated and the sauce has thickened slightly. Season, to taste, with salt and freshly ground black pepper, then strain the mixture through a fine sieve.",
         "To serve, spoon some of the veal, onions and mushrooms into the centre of each of six to eight serving plates. Drizzle over the sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Veal blanquette",
     "videos": "[]"
 }

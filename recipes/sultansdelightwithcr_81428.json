@@ -1,26 +1,36 @@
 {
-    "title": "Sultan's delight with creamed aubergine",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "This is our Ottoman feast dish. We have given this an original twist with a spicy Yorkshire pudding, which really works.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b0070tcb": "The Hairy Bikers"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "This is our Ottoman feast dish. We have given this an original twist with a spicy Yorkshire pudding, which really works.",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the aubergine": [
+            "4 large aubergines",
+            "250ml/9fl oz milk",
+            "2 tbsp double cream",
+            "55g/2oz butter",
+            "1 tbsp plain flour",
+            "110g/4oz Kasseri cheese (cheddar will do), grated",
+            "1 tsp dried chilli flakes",
+            "salt and freshly ground black pepper"
+        ],
         "For the lamb": [
             "55g/2oz butter",
             "3 tbsp olive oil",
@@ -36,17 +46,13 @@
             "285ml/10fl oz lamb stock",
             "salt and freshly ground black pepper",
             "flatleaf parsley, to garnish"
-        ],
-        "For the aubergine": [
-            "4 large aubergines",
-            "250ml/9fl oz milk",
-            "2 tbsp double cream",
-            "55g/2oz butter",
-            "1 tbsp plain flour",
-            "110g/4oz Kasseri cheese (cheddar will do), grated",
-            "1 tsp dried chilli flakes",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b0070tcb": "The Hairy Bikers"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -58,8 +64,9 @@
         "Add the aubergine pur\u00e9e, the cheese, chilli flakes, salt and freshly ground black pepper. Cook for about 5 minutes.",
         "Put a mound of aubergine pur\u00e9e in the middle of the plate and surround with the lamb. Garnish with parsley."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sultan's delight with creamed aubergine",
     "videos": "[]"
 }

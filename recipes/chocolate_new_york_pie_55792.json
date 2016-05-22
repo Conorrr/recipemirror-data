@@ -1,24 +1,31 @@
 {
-    "title": "Chocolate New York pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 1 large tart",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Layers of rich chocolate filling and homemade jam is topped with shards of praline for extra crunch. For this recipe you will need a 25cm/10in fluted tart tin, a sugar thermometer and a food processor.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        "Tamal makes his own jam, but you can make it easier by using a jar of shop bought seedless raspberry jam. Simply heat it gently then pour over the filling as directed. Speed up the chilling time needed by placing the tart in the freezer to help the filling set."
+    "cookTime": "1 to 2 hours",
+    "description": "Layers of rich chocolate filling and homemade jam is topped with shards of praline for extra crunch. For this recipe you will need a 25cm/10in fluted tart tin, a sugar thermometer and a food processor.",
+    "dishes": [
+        "bread",
+        "caramel",
+        "chocolate_tart",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "praline",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "how_to_blind_bake_pastry",
+        "pulsing"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the chocolate oat pastry": [
@@ -42,15 +49,21 @@
             "45g/1\u2154oz cocoa powder",
             "6 large free-range egg yolks"
         ],
+        "For the pecan praline": [
+            "150g/5\u00bdoz pecan nuts",
+            "200g/7oz white caster sugar"
+        ],
         "For the raspberry coulis": [
             "420g/15oz raspberries (to make 300g/10\u00bdoz pur\u00e9e after sieving)",
             "75g/2\u00bdoz granulated sugar",
             "2 tbsp apple pectin"
-        ],
-        "For the pecan praline": [
-            "150g/5\u00bdoz pecan nuts",
-            "200g/7oz white caster sugar"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes 1 large tart",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 200C/180C Fan/Gas 6. Grease a 25cm/10in loose bottomed tart tin.",
@@ -65,9 +78,9 @@
         "In a medium saucepan, dissolve the caster sugar in 50ml/2fl oz water and heat to 160C on a sugar thermometer. Add the pecans and coat in the caramel, then turn out onto the lined baking tray to cool completely.",
         "Once cooled, chop the praline and arrange on top of the tart. Serve cold."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry",
-        "pulsing"
+    "tips": [
+        "Tamal makes his own jam, but you can make it easier by using a jar of shop bought seedless raspberry jam. Simply heat it gently then pour over the filling as directed. Speed up the chilling time needed by placing the tart in the freezer to help the filling set."
     ],
+    "title": "Chocolate New York pie",
     "videos": "[]"
 }

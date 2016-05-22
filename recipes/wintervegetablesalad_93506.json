@@ -1,32 +1,41 @@
 {
-    "title": "Winter vegetable salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "All elements of this dish can be cooked a day in advance and re-heated to serve.",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "All elements of this dish can be cooked a day in advance and re-heated to serve.",
+    "dishes": [
+        "fricassee",
+        "oven-baked_dishes",
+        "pastry",
+        "pickle",
+        "pie",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pumpkin pur\u00e9e": [
-            "2 tsp olive oil",
-            "250g/9oz pumpkin (such as Muscat de Provence or Iron Bar), peeled, cut into 2cm/1in cubes",
+        "For the garnish": [
+            "\u00bd parsnip, peeled, sliced into ribbons with a vegetable peeler, deep-fried until crisp and golden-brown",
+            "12 fresh sage leaves, deep-fried until crisp",
+            "12 pickled baby shallots"
+        ],
+        "For the mushroom fricass\u00e9e": [
+            "1 tbsp olive oil",
+            "1 small handful baby beetroot leaves",
+            "100g/3\u00bdoz mixed mushrooms, such as chanterelles, girolles and trompettes",
+            "squeeze lemon juice",
             "sea salt and freshly ground black pepper",
-            "\u00bd tsp extra virgin olive oil",
-            "\u00bd tsp hazelnut oil"
+            "10g/\u00bdoz fresh flatleaf parsley, roughly chopped"
         ],
         "For the pumpkin and beetroot": [
             "1 candy beetroot, washed, quartered",
@@ -37,25 +46,25 @@
             "1 tbsp extra virgin olive oil",
             "sea salt and freshly ground black pepper"
         ],
+        "For the pumpkin pur\u00e9e": [
+            "2 tsp olive oil",
+            "250g/9oz pumpkin (such as Muscat de Provence or Iron Bar), peeled, cut into 2cm/1in cubes",
+            "sea salt and freshly ground black pepper",
+            "\u00bd tsp extra virgin olive oil",
+            "\u00bd tsp hazelnut oil"
+        ],
         "For the sauce": [
             "100ml/3\u00bdfl oz ruby port",
             "100ml/3\u00bdfl oz red wine",
             "1 star anise",
             "caster sugar, to taste"
-        ],
-        "For the mushroom fricass\u00e9e": [
-            "1 tbsp olive oil",
-            "1 small handful baby beetroot leaves",
-            "100g/3\u00bdoz mixed mushrooms, such as chanterelles, girolles and trompettes",
-            "squeeze lemon juice",
-            "sea salt and freshly ground black pepper",
-            "10g/\u00bdoz fresh flatleaf parsley, roughly chopped"
-        ],
-        "For the garnish": [
-            "\u00bd parsnip, peeled, sliced into ribbons with a vegetable peeler, deep-fried until crisp and golden-brown",
-            "12 fresh sage leaves, deep-fried until crisp",
-            "12 pickled baby shallots"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
     },
     "steps": [
         "For the pumpkin pur\u00e9e, heat the olive oil in a non-stick pan and gently fry the pumpkin for 4-5 minutes over a medium-low heat. Season with sea salt, freshly ground black pepper and a squeeze of lemon juice.",
@@ -70,8 +79,9 @@
         "Add the girolles and fry for a further 30 seconds with the lid on, then remove the lid and add the trompette de la mort mushrooms. Cook for a few more seconds, then season, to taste, with salt and freshly ground black pepper and stir in the chopped parsley.",
         "To serve, take a spoonful of pumpkin pur\u00e9e and drag it in a line along the middle of a rectangular plate. Place three beetroot wedges along the pur\u00e9e (one of each colour). Place a roasted pumpkin round on the other end of the pumpkin pur\u00e9e. Spoon the mushroom fricass\u00e9e on either side of the pumpkin. Top with some deep-fried parsnip ribbons and deep-fried sage leaves, and arrange a few pickled shallots around the plate. Drizzle over the sauce. Repeat the process three more times to create four servings."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Winter vegetable salad",
     "videos": "[]"
 }

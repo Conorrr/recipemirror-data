@@ -1,26 +1,28 @@
 {
-    "title": "Turkey laksa",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "handful fresh mint leaves, chopped",
+            "2 spring onions, chopped",
+            "lime wedges"
+        ],
         "default": [
             "2 red chillies, roughly chopped",
             "30g/1oz ginger, peeled, roughly chopped",
@@ -36,12 +38,13 @@
             "125g/4\u00bdoz skinless salmon fillet, cut into large chunks",
             "250g/9oz cooked turkey, shredded",
             "200g/7oz ready-made egg noodles, cooked according to packet instructions"
-        ],
-        "To serve": [
-            "handful fresh mint leaves, chopped",
-            "2 spring onions, chopped",
-            "lime wedges"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Place the chillies, ginger, garlic, coriander seeds, coriander stems, tamarind paste and vegetable oil into a food processor and blend until smooth.",
@@ -52,8 +55,9 @@
         "Add the turkey and noodles and cook until hot and the salmon is cooked through.",
         "To serve, divide the laksa among four deep bowls. Sprinkle with mint leaves, spring onions and garnish with lime wedges."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Turkey laksa",
     "videos": "[]"
 }

@@ -1,23 +1,23 @@
 {
-    "title": "Southern paella",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "This stunning one-pot dish makes a great main meal for a relaxed family gathering, served with your favourite Spanish wine.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Spanish",
+    "description": "This stunning one-pot dish makes a great main meal for a relaxed family gathering, served with your favourite Spanish wine.",
+    "dishes": [
+        "jam",
+        "paella",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -46,6 +46,12 @@
             "2 tbsp extra virgin olive oil"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Heat a large paella pan or frying pan and add the olive oil. Once hot, add the onion, garlic and pepper and cook for 1-2 minutes.",
         "Add the tomatoes, thyme and smoked paprika and cook for a couple of minutes, then add the wine and cook until the volume of liquid has reduced by half.",
@@ -56,8 +62,9 @@
         "Stir in the peas and lemon juice and season with salt and pepper.",
         "To serve, stir in the parsley, place the sliced lemons on top and drizzle with olive oil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Southern paella",
     "videos": "[]"
 }

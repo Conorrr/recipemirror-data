@@ -1,26 +1,32 @@
 {
-    "title": "Tempura vegetables with spicy dipping sauce",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1-2",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "sauce",
+        "tempura"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the hot dipping sauce": [
+            "2 tbsp soy sauce",
+            "\u00bd tsp chilli flakes",
+            "1 lime, juice only",
+            "2 tbsp chopped fresh coriander",
+            "1 tbsp sparkling water",
+            "\u00bd tsp caster sugar"
+        ],
         "For the tempura vegetables": [
             "200g/7oz plain flour",
             "200ml/7fl oz sparkling water",
@@ -29,15 +35,13 @@
             "1 small courgette, cut into batons",
             "1 small carrot, cut into batons",
             "4 chestnut mushrooms, halved"
-        ],
-        "For the hot dipping sauce": [
-            "2 tbsp soy sauce",
-            "\u00bd tsp chilli flakes",
-            "1 lime, juice only",
-            "2 tbsp chopped fresh coriander",
-            "1 tbsp sparkling water",
-            "\u00bd tsp caster sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1-2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the tempura vegetables, whisk the flour, water and salt together in a large bowl until it reaches the consistency of single cream, adding more water if necessary.",
@@ -45,8 +49,9 @@
         "For the dipping sauce, place all the ingredients into a bowl and mix well.",
         "To serve, pour the dipping sauce into a small bowl on a serving plate, surrounded by the tempura vegetables."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tempura vegetables with spicy dipping sauce",
     "videos": "[]"
 }

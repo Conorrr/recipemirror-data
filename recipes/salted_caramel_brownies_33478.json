@@ -1,32 +1,26 @@
 {
-    "title": "Salted caramel brownies",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 12 brownies",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Adding salted caramel to brownies takes indulgence to the next level. Go on. You know you want to.",
     "author": {
         "alexa_chung": "Alexa Chung"
     },
-    "show": {
-        "b052sjd8": "Series 2"
-    },
-    "tips": [
-        "You may not need all the salted caramel, but it is delicious poured over ice cream."
+    "cookTime": "30 mins to 1 hour",
+    "description": "Adding salted caramel to brownies takes indulgence to the next level. Go on. You know you want to.",
+    "dishes": [
+        "caramel",
+        "chocolate_brownies",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "melting_chocolate"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the salted caramel filling": [
-            "150g/5\u00bdoz granulated sugar",
-            "pinch of sea salt",
-            "125ml/4fl oz double cream",
-            "10g/\u00bcoz salted butter, softened"
-        ],
         "For the brownies": [
             "180g/6\u00bcoz plain flour",
             "3 tbsp cocoa powder",
@@ -38,9 +32,21 @@
             "150g/5\u00bdoz caster sugar",
             "1 tsp vanilla extract"
         ],
+        "For the salted caramel filling": [
+            "150g/5\u00bdoz granulated sugar",
+            "pinch of sea salt",
+            "125ml/4fl oz double cream",
+            "10g/\u00bcoz salted butter, softened"
+        ],
         "To decorate": [
             "100g/3\u00bdoz good-quality white chocolate"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Makes 12 brownies",
+    "show": {
+        "b052sjd8": "Series 2"
     },
     "steps": [
         "Preheat the oven to 190C/180C Fan/Gas 5. Grease a 32x23cm/13x9in tin and line with parchment.",
@@ -52,8 +58,9 @@
         "Pour half the batter into the tin and smooth the surface using a spatula. Add a thin layer of the caramel, making sure to leave the edges clean. Add the remaining batter and gently level the top. Bake for 25-30 minutes, or until a skewer inserted in the middle comes out with just a few moist crumbs. Allow to cool completely in the tin.",
         "Meanwhile, melt the white chocolate in a heatproof bowl set over a pan of simmering water (do not allow the bowl to touch the water). Leave to cool slightly then use a fork to drizzle it over the brownies. Leave the chocolate to set slightly before removing from the tin and cutting into 12 brownies."
     ],
-    "howTos": [
-        "melting_chocolate"
+    "tips": [
+        "You may not need all the salted caramel, but it is delicious poured over ice cream."
     ],
+    "title": "Salted caramel brownies",
     "videos": "[]"
 }

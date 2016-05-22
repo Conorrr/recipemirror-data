@@ -1,38 +1,46 @@
 {
-    "title": "Strawberry shortbread",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "biscuit",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "sandwich",
+        "shortbread"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "whipping_cream"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the shortbread": [
-            "100g/3\u00bdoz butter",
-            "100g/3\u00bdoz plain flour, plus extra for dusting",
-            "55g/2oz icing sugar",
-            "1 free-range egg yolk"
-        ],
         "For the filling": [
             "150ml/\u00bc pint double cream",
             "2 tbsp icing sugar, plus extra for dusting",
             "1 vanilla pod, seeds scraped out",
             "55g/2oz strawberries, hulled and chopped, plus a few left whole, to garnish"
+        ],
+        "For the shortbread": [
+            "100g/3\u00bdoz butter",
+            "100g/3\u00bdoz plain flour, plus extra for dusting",
+            "55g/2oz icing sugar",
+            "1 free-range egg yolk"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5.",
@@ -42,8 +50,9 @@
         "For the filling, place the cream into a large bowl with the icing sugar and vanilla seeds and whisk until soft peaks form when the whisk is removed. Gently fold in the strawberries.",
         "To serve, use the cream filling to sandwich the shortbread biscuits together and place onto a serving plate. Dust with icing sugar and garnish with extra strawberries."
     ],
-    "howTos": [
-        "whipping_cream"
+    "tips": [
+        
     ],
+    "title": "Strawberry shortbread",
     "videos": "[]"
 }

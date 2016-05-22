@@ -1,29 +1,26 @@
 {
-    "title": "Haggis, clapshot and whisky sauce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "32",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/haggisclapshotandwhi_92144_16x9.jpg"
-    ],
-    "description": "Celebrate Burns Night with The Hairy Bikers' recipe of haggis, neeps, tatties and whisky sauce.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Celebrate Burns Night with The Hairy Bikers' recipe of haggis, neeps, tatties and whisky sauce.",
+    "dishes": [
+        "haggis",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/haggisclapshotandwhi_92144_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "500g/1lb 2oz haggis"
-        ],
         "For the clapshot": [
             "500g/1lb 2oz floury potatoes, such as Maris Piper or King Edward, peeled, chopped",
             "500g/1lb 2oz swede (yellow turnip), peeled, chopped",
@@ -40,7 +37,16 @@
             "sea salt and freshly ground white pepper",
             "1 tbsp chopped fresh chives",
             "\u00bd lemon, juice only"
+        ],
+        "default": [
+            "500g/1lb 2oz haggis"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "32",
+    "serves": "Serves 4",
+    "show": {
+        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -50,8 +56,9 @@
         "Remove the pan from the heat and season, to taste, with salt and freshly ground white pepper. Stir in the tablespoon of chives, then whisk in the lemon juice.",
         "To serve, divide the clapshot equally among four serving plates. Place a spoonful of steamed haggis alongside each. Spoon over the warm whisky sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Haggis, clapshot and whisky sauce",
     "videos": "[]"
 }

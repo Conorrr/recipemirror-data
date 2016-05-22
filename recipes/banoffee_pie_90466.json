@@ -1,24 +1,29 @@
 {
-    "title": "Banoffee pie",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Homemade pastry topped with toffee, cream, banana and grated chocolate is impossible to resist in this classic American recipe. Equipment and preparation: you will need a 20cm/8in flan tin and ceramic baking beans.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b03qgyqf": "The Great Sport Relief Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Homemade pastry topped with toffee, cream, banana and grated chocolate is impossible to resist in this classic American recipe. Equipment and preparation: you will need a 20cm/8in flan tin and ceramic baking beans.",
+    "dishes": [
+        "banoffee_pie",
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stir-fries",
+        "toffee"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "how_to_blind_bake_pastry",
+        "rubbing_in",
+        "whipping_cream"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the shortcrust pastry": [
@@ -37,6 +42,12 @@
             "a little grated Belgian milk or plain chocolate, for sprinkling"
         ]
     },
+    "prepTime": "1-2 hours",
+    "recommendations": "3",
+    "serves": "Serves 6",
+    "show": {
+        "b03qgyqf": "The Great Sport Relief Bake Off"
+    },
     "steps": [
         "For the shortcrust pastry, put the flour into a bowl and rub in the butter with your fingertips until the mixture resembles fine breadcrumbs. Add 2-3 tablespoons of cold water gradually, mixing to form a soft dough.",
         "Roll out the dough on a lightly floured work surface and use it to line a 20cm/8in flan tin. Cover in cling film and place in the fridge to chill for 30 minutes.",
@@ -46,10 +57,9 @@
         "For the topping, whip the double cream in a large bowl until it just holds its shape and spread evenly over the cold toffee mixture. Peel and slice the banana and dip it into a little lemon juice to prevent discolouring.",
         "Pile the banana slices on top of the cream and sprinkle the whole pie with grated chocolate. Remove the ring of the flan and transfer to a flat plate. Serve well chilled."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry",
-        "rubbing_in",
-        "whipping_cream"
+    "tips": [
+        
     ],
+    "title": "Banoffee pie",
     "videos": "[]"
 }

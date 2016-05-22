@@ -1,24 +1,26 @@
 {
-    "title": "Scotch broth",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6-8",
-    "recommendations": "50",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/scotchbroth_8116_16x9.jpg"
-    ],
-    "description": "This cheap and cheerful soup is perfect for the slow cooker - simply tip in all the ingredients and cook on high for 6-8 hours (or until the barley is soft).",
     "author": {
         "mike_simpson": "Mike Simpson"
     },
-    "show": {
-        "p0077hyw": "Floyd on Britain and Ireland"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "This cheap and cheerful soup is perfect for the slow cooker - simply tip in all the ingredients and cook on high for 6-8 hours (or until the barley is soft).",
+    "dishes": [
+        "broth",
+        "sauce",
+        "slow-cooked_dishes",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/scotchbroth_8116_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,13 +37,20 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "50",
+    "serves": "Serves 6-8",
+    "show": {
+        "p0077hyw": "Floyd on Britain and Ireland"
+    },
     "steps": [
         "Heat all of the ingredients, except the kale, in a large saucepan until boiling.",
         "Reduce the heat and simmer gently for a 2-3 hours, or until the peas and pearl barley are soft.",
         "Stir in the kale and cook for a further 10-12 minutes, or until the kale is tender. Season, to taste, with salt and freshly ground black pepper."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Scotch broth",
     "videos": "[]"
 }

@@ -1,24 +1,24 @@
 {
-    "title": "Kouign amann",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 12 pastries",
-    "recommendations": "8",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/kouign_amann_09102_16x9.jpg"
-    ],
-    "description": "We have France to thank for these caramelised buttery, sugary parcels. Perfect with a caf\u00e9 au lait. Equipment and preparation: for this recipe you will need a 12-cup muffin tin and a freestanding mixer fitted with a dough hook.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "We have France to thank for these caramelised buttery, sugary parcels. Perfect with a caf\u00e9 au lait. Equipment and preparation: for this recipe you will need a 12-cup muffin tin and a freestanding mixer fitted with a dough hook.",
+    "dishes": [
+        "caramel",
+        "oven-baked_dishes",
+        "patisserie",
+        "sandwich",
+        "slow-cooked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "rolling_pastry"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/kouign_amann_09102_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -30,6 +30,12 @@
             "250g/9oz cold unsalted butter, in a block",
             "100g/3\u00bdoz caster sugar, plus extra for sprinkling"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "8",
+    "serves": "Makes 12 pastries",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Put the flour into the bowl of a freestanding mixer fitted with a dough hook. Add the yeast to one side of the bowl and the salt to the other. Add the water and melted butter and mix on a slow speed for two minutes, then on a medium speed for six minutes.",
@@ -43,8 +49,9 @@
         "Preheat oven to 220C/200C(fan)/425F/Gas 7. Bake the pastries for 30-40 minutes, or until golden-brown. Cover with foil halfway through if beginning to brown too much. Remove from the oven and leave to cool for a couple of minutes before turning out onto a wire rack. Be careful not to burn yourself on the caramelised sugar, but don\u2019t leave them to cool for too long, or the caramelised sugar will harden and they will be stuck in the tin.",
         "Serve warm or cold."
     ],
-    "howTos": [
-        "rolling_pastry"
+    "tips": [
+        
     ],
+    "title": "Kouign amann",
     "videos": "[]"
 }

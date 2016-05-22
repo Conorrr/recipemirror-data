@@ -1,31 +1,30 @@
 {
-    "title": "Mini sausage plaits",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 12 sausage plaits",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mini_sausage_plaits_04508_16x9.jpg"
-    ],
-    "description": "Turn up to a picnic or party with these and you are sure to impress your friends and family.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "On a warm day pop the pastry squares in the fridge to keep them chilled \u2013 they will be easier to plait."
+    "cookTime": "10 to 30 mins",
+    "description": "Turn up to a picnic or party with these and you are sure to impress your friends and family.",
+    "dishes": [
+        "bread",
+        "caramel",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sausage",
+        "sausage_roll",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "rolling_pastry",
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mini_sausage_plaits_04508_16x9.jpg"
+    ],
     "ingredients": {
-        "For the shortcut puff pastry": [
-            "600g/1lb 5oz plain flour",
-            "pinch salt",
-            "300g/10\u00bdoz butter, 100g/3\u00bdoz chilled and cut into cubes, 200g/7oz frozen"
-        ],
         "For the filling": [
             "300g/10\u00bdoz chestnut mushrooms, trimmed",
             "2 tbsp thyme leaves",
@@ -38,7 +37,18 @@
             "100g/3\u00bdoz black pudding, cut into 2cm/1in pieces",
             "1 free-range egg, beaten, to glaze",
             "1 tbsp sesame seeds"
+        ],
+        "For the shortcut puff pastry": [
+            "600g/1lb 5oz plain flour",
+            "pinch salt",
+            "300g/10\u00bdoz butter, 100g/3\u00bdoz chilled and cut into cubes, 200g/7oz frozen"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "2",
+    "serves": "Makes 12 sausage plaits",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the shortcut puff pastry, mix the flour and salt together in a bowl. Rub in the chilled butter using your fingertips until the mixture resembles breadcrumbs. Gradually add enough water to form a dough (about 4-6 tablespoons of water).",
@@ -57,9 +67,9 @@
         "Repeat with the remaining squares of pastry until you have 12 mini sausage plaits. Place the plaits on a baking tray, brush with beaten egg and sprinkle with sesame seeds.",
         "Bake for 20 minutes, until the pastry is golden-brown. Leave to cool for five minutes or so, then serve hot or cold."
     ],
-    "howTos": [
-        "rolling_pastry",
-        "rubbing_in"
+    "tips": [
+        "On a warm day pop the pastry squares in the fridge to keep them chilled \u2013 they will be easier to plait."
     ],
+    "title": "Mini sausage plaits",
     "videos": "[]"
 }

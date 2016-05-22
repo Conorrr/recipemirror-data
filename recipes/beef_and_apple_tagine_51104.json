@@ -1,26 +1,35 @@
 {
-    "title": "Beef and apple tagine",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "17",
-    "images": [
-        
-    ],
-    "description": "Most slow-cooked Moroccan meat tagines have a sweet note. Here apple, honey and dried prunes add that moreish flavour.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "North_African",
+    "description": "Most slow-cooked Moroccan meat tagines have a sweet note. Here apple, honey and dried prunes add that moreish flavour.",
+    "dishes": [
+        "bun",
+        "casserole",
+        "crumble",
+        "oven-baked_dishes",
+        "slow-cooked_dishes",
+        "stir-fries",
+        "stock",
+        "tagine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the garnish": [
+            "1 large red-skinned eating apple",
+            "15g/\u00bdoz butter",
+            "1 tbsp clear honey"
+        ],
         "default": [
             "750g/1lb 10oz braising steak (ideally chuck steak)",
             "4 tbsp sunflower oil",
@@ -39,12 +48,13 @@
             "25g/1oz bunch fresh coriander",
             "75g/2\u00bdoz no-soak dried prunes, halved",
             "flaked sea salt and freshly ground black pepper"
-        ],
-        "For the garnish": [
-            "1 large red-skinned eating apple",
-            "15g/\u00bdoz butter",
-            "1 tbsp clear honey"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "17",
+    "serves": "Serves 6",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Trim the beef of any hard fat and cut into roughly 3cm/1\u00bcin chunks. Season all over with salt and pepper. Heat one tablespoon of the oil in a large non-stick frying pan and fry the beef in three batches over a high heat until lightly browned on all sides, adding a little more oil to the pan when needed. Transfer each batch to a large flameproof casserole once browned.",
@@ -56,8 +66,9 @@
         "To make the garnish, cut the apple into quarters and remove the core. Slice each apple quarter lengthways into five. Season with ground black pepper. Melt the butter in a large non-stick frying pan and fry the apple slices over a high heat for 3-4 minutes, or until lightly browned, turning occasionally. Remove from the heat, drizzle with the honey and toss lightly.",
         "Scatter the fried apples over the tagine in the casserole, scatter with roughly chopped coriander and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef and apple tagine",
     "videos": "[p017tj85:p017tj89]"
 }

@@ -1,37 +1,27 @@
 {
-    "title": "Honey confit of duck with Puy lentils",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "The curing process changes the texture and the flavour of the duck completely. Keep the fat and use it for cooking - especially for your Sunday roast potatoes!",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "The curing process changes the texture and the flavour of the duck completely. Keep the fat and use it for cooking - especially for your Sunday roast potatoes!",
+    "dishes": [
+        "crumble",
+        "duck_confit",
+        "jam",
+        "oven-baked_dishes",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the honey confit of duck": [
-            "4 duck legs",
-            "15g/\u00bdoz table salt per kilo of duck legs",
-            "2 tsp thyme leaves",
-            "2 tsp finely chopped rosemary",
-            "2 garlic cloves, finely chopped",
-            "600ml/20fl oz duck fat",
-            "2 bay leaves",
-            "2 tbsp olive oil",
-            "4 tbsp honey"
-        ],
         "For the Puy lentils": [
             "50g/1\u00beoz unsalted butter",
             "2 tbsp olive oil",
@@ -46,7 +36,24 @@
             "2 tbsp good sherry vinegar",
             "2 tbsp chopped fresh coriander",
             "4 slices pancetta, cooked"
+        ],
+        "For the honey confit of duck": [
+            "4 duck legs",
+            "15g/\u00bdoz table salt per kilo of duck legs",
+            "2 tsp thyme leaves",
+            "2 tsp finely chopped rosemary",
+            "2 garlic cloves, finely chopped",
+            "600ml/20fl oz duck fat",
+            "2 bay leaves",
+            "2 tbsp olive oil",
+            "4 tbsp honey"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the honey confit of duck, preheat the oven to 140C/275F/Gas 1.",
@@ -58,8 +65,9 @@
         "To finish the duck legs, heat the oil in a frying pan, once hot add the honey. Cook the duck legs in the honey for two minutes basting the legs all the time.",
         "To serve, place a pile of the lentils on the plate with a leg next it, and crumble the cooked pancetta on top of the lentils."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Honey confit of duck with Puy lentils",
     "videos": "[]"
 }

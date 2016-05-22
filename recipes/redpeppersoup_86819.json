@@ -1,24 +1,23 @@
 {
-    "title": "Red pepper soup",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,13 +29,20 @@
             "15g/\u00bdoz butter, chilled"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil in a saucepan and sweat the onion until soft but not coloured. Add the pepper and tomato and saut\u00e9 for two minutes.",
         "Add the vegetable stock and simmer for six minutes or until the pepper is soft.",
         "Pour into a liquidiser with the cold butter and blitz until smooth. Strain through a sieve. Pour into a bowl and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Red pepper soup",
     "videos": "[]"
 }

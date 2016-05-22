@@ -1,34 +1,28 @@
 {
-    "title": "Black Forest g\u00e2teau",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 12",
-    "recommendations": "24",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/black_forest_gateau_43895_16x9.jpg"
-    ],
-    "description": "Rich with fruit, chocolate and cream, this 70s classic still has a place on our tables. This recipe uses dried sour cherries, but you can substitute good quality bottled ones.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b01dl8gl": "Hairy Bikers' Bakeation"
-    },
-    "tips": [
-        "If you can get hold of a jar of morello cherries in syrup, use them instead of the dried cherries. Simply drain off the syrup and add the cherries to the saucepan with the jam. Don\u2019t be tempted to use canned cherries as they have very little flavour. If you can\u2019t get hold of fresh cherries for the decoration, bottledmorello cherries also make a great alternative."
+    "cookTime": "10 to 30 mins",
+    "description": "Rich with fruit, chocolate and cream, this 70s classic still has a place on our tables. This recipe uses dried sour cherries, but you can substitute good quality bottled ones.",
+    "dishes": [
+        "black_forest_gateau",
+        "cake",
+        "gateau",
+        "jam",
+        "oven-baked_dishes",
+        "sandwich",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/black_forest_gateau_43895_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "225g/8oz butter, softened, plus extra for greasing",
-            "225g/8oz caster sugar",
-            "160g/5\u00bdoz self-raising flour",
-            "65g/2\u00bcoz cocoa powder",
-            "\u00bd tsp baking powder",
-            "4 medium eggs"
-        ],
         "Filling and decoration": [
             "340g/11\u00beoz jar of morello cherry jam",
             "2 x 80g/2\u00beoz packs of sweetened dried sour cherries",
@@ -37,7 +31,21 @@
             "500ml/18fl oz double cream",
             "50g/2oz dark chocolate, coarsely grated",
             "fresh cherries, to decorate"
+        ],
+        "default": [
+            "225g/8oz butter, softened, plus extra for greasing",
+            "225g/8oz caster sugar",
+            "160g/5\u00bdoz self-raising flour",
+            "65g/2\u00bcoz cocoa powder",
+            "\u00bd tsp baking powder",
+            "4 medium eggs"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "24",
+    "serves": "Serves 12",
+    "show": {
+        "b01dl8gl": "Hairy Bikers' Bakeation"
     },
     "steps": [
         "Preheat the oven to 190\u00b0C/375F/Gas 5. Grease 2 x 20cm/8 in loose-based sandwich tins and line the bases with baking parchment.",
@@ -55,8 +63,9 @@
         "Decorate with fresh cherries if you have some. Keep the cake cool or chill until ready to serve.",
         "It\u2019s best to eat it the same day as it is made \u2013 how could you resist? \u2013 but if you need to make the cake in advance, chill it in the fridge for up to 24 hours and allow to stand at room temperature for 30 minutes before serving."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If you can get hold of a jar of morello cherries in syrup, use them instead of the dried cherries. Simply drain off the syrup and add the cherries to the saucepan with the jam. Don\u2019t be tempted to use canned cherries as they have very little flavour. If you can\u2019t get hold of fresh cherries for the decoration, bottledmorello cherries also make a great alternative."
     ],
+    "title": "Black Forest g\u00e2teau",
     "videos": "[]"
 }

@@ -1,24 +1,22 @@
 {
-    "title": "Stuffed mushroom",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "stuffing"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,13 +30,20 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Mix the \u00bc mushroom, breadcrumbs, garlic, Edam, parsley and oil together and season with salt and pepper.",
         "Fill the whole mushroom with this stuffing and bake in the oven for ten minutes.",
         "Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Stuffed mushroom",
     "videos": "[]"
 }

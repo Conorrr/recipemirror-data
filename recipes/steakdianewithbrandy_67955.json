@@ -1,33 +1,26 @@
 {
-    "title": "Steak Diane with brandy and mustard sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "jill_dupleix": "Jill Dupleix"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "American",
+    "description": "",
+    "dishes": [
+        "prepare-ahead_desserts",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 sirloin, rump or rib eye steaks, about 200g each",
-            "\u00bd tsp freshly ground black pepper",
-            "sea salt",
-            "1 tsp olive oil",
-            "1 tsp butter"
-        ],
         "For the sauce": [
             "2 tbsp brandy or Cognac",
             "2 tbsp butter",
@@ -38,7 +31,20 @@
             "1 tbsp snipped chives",
             "1 tbsp finely chopped parsley",
             "1 tsp lemon juice"
+        ],
+        "default": [
+            "2 sirloin, rump or rib eye steaks, about 200g each",
+            "\u00bd tsp freshly ground black pepper",
+            "sea salt",
+            "1 tsp olive oil",
+            "1 tsp butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Place a sheet of cling film over the steaks and pound with a rolling pin until quite flat (about 5mm/\u00bcin). Season with pepper, but do not salt.",
@@ -49,8 +55,9 @@
         "Add the chives, parsley, lemon juice and any juices that have gathered from the resting steaks, stir well and pour the bubbling sauce over the steaks.",
         "Serve immediately, with potatoes, asparagus, or a green salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steak Diane with brandy and mustard sauce",
     "videos": "[]"
 }

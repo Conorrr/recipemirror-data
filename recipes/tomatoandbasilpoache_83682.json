@@ -1,26 +1,30 @@
 {
-    "title": "Tomato and basil poached fish",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "2 handfuls baby spinach leaves",
+            "1 tbsp chopped fresh basil",
+            "12 new potatoes, diced and boiled"
+        ],
         "default": [
             "1 tbsp olive oil",
             "2 onions, sliced",
@@ -29,12 +33,13 @@
             "125ml/4fl oz vegetable or fish stock",
             "salt and freshly ground black pepper",
             "4 x 200g/7oz firm white fish fillets"
-        ],
-        "To serve": [
-            "2 handfuls baby spinach leaves",
-            "1 tbsp chopped fresh basil",
-            "12 new potatoes, diced and boiled"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -47,8 +52,9 @@
         "Stir the spinach and basil into the sauce, and cook until the spinach has wilted.",
         "Spoon the sauce over the fish and serve immediately with the boiled new potatoes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tomato and basil poached fish",
     "videos": "[]"
 }

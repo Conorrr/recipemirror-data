@@ -1,26 +1,29 @@
 {
-    "title": "Asian-style omelette with crisp noodles and sticky peppers",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "omelette",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the crisp noodles": [
+            "55g/2oz rice noodles, uncooked",
+            "vegetable oil, for deep frying"
+        ],
         "For the omelette": [
             "85g/3oz rice noodles",
             "1 lime, juice and zest only",
@@ -31,10 +34,6 @@
             "salt and freshly ground black pepper",
             "1 tbsp vegetable oil"
         ],
-        "For the crisp noodles": [
-            "55g/2oz rice noodles, uncooked",
-            "vegetable oil, for deep frying"
-        ],
         "For the sticky peppers": [
             "2 tbsp olive oil",
             "1 yellow pepper, sliced",
@@ -43,6 +42,12 @@
             "2 tbsp caster sugar",
             "1 tsp white wine vinegar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the omelette, cook the rice noodles according to packet instructions and refresh under cold running water. Drain, then place into a bowl.",
@@ -53,8 +58,9 @@
         "For the sticky peppers, heat the olive oil in a frying pan and gently fry the yellow pepper, chilli and garlic for 1-2 minutes. Add the sugar and white wine vinegar and cook gently for 8-10 minutes, or until the peppers have broken down and the juices have become sticky.",
         "To serve, slide the omelette onto a serving plate and top with the crisp noodles and the sticky peppers."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Asian-style omelette with crisp noodles and sticky peppers",
     "videos": "[]"
 }

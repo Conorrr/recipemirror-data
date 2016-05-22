@@ -1,26 +1,40 @@
 {
-    "title": "Splendidly spicy beef burger",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 4 large, or 6 medium burgers",
-    "recommendations": "21",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/splendidly_spicy_beef_28887_16x9.jpg"
-    ],
-    "description": "A wonderful burger that shows what can result from thinking just a little bit differently. Choose the best-quality lean meat you can, be brave and have fun experimenting with combinations of ingredients.",
     "author": {
         "cyrus_todiwala": "Cyrus Todiwala"
     },
-    "show": {
-        "b03lsr84": "Christmas Kitchen with James Martin"
-    },
-    "tips": [
-        "If you don't have mango powder, you could add a splash of lemon or lime juice at the end for the potato wedges."
+    "cookTime": "30 mins to 1 hour",
+    "description": "A wonderful burger that shows what can result from thinking just a little bit differently. Choose the best-quality lean meat you can, be brave and have fun experimenting with combinations of ingredients.",
+    "dishes": [
+        "beef_burger",
+        "bun",
+        "jam",
+        "ketchup",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/splendidly_spicy_beef_28887_16x9.jpg"
+    ],
     "ingredients": {
+        "For the spicy potato wedges (optional)": [
+            "1kg/2lb 4oz potatoes, unpeeled, cut into wedges",
+            "1 tbsp rapeseed oil or vegetable oil",
+            "2 tsp ground cumin",
+            "2 tsp mild red chilli powder",
+            "1 tsp freshly ground white pepper",
+            "2 tsp salt",
+            "1 heaped tsp mango powder (optional)"
+        ],
+        "To serve": [
+            "4-6 burger buns",
+            "ketchup"
+        ],
         "default": [
             "1 tbsp sunflower oil or rapeseed oil, plus extra for brushing",
             "1 large onion, finely chopped",
@@ -34,20 +48,13 @@
             "\u00bd tsp ground turmeric (optional)",
             "1-2 tsp mild chilli powder, to taste",
             "2 tbsp chopped fresh coriander"
-        ],
-        "For the spicy potato wedges (optional)": [
-            "1kg/2lb 4oz potatoes, unpeeled, cut into wedges",
-            "1 tbsp rapeseed oil or vegetable oil",
-            "2 tsp ground cumin",
-            "2 tsp mild red chilli powder",
-            "1 tsp freshly ground white pepper",
-            "2 tsp salt",
-            "1 heaped tsp mango powder (optional)"
-        ],
-        "To serve": [
-            "4-6 burger buns",
-            "ketchup"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "21",
+    "serves": "Makes 4 large, or 6 medium burgers",
+    "show": {
+        "b03lsr84": "Christmas Kitchen with James Martin"
     },
     "steps": [
         "Heat the oil in a frying pan and cook the onions on a medium heat, stirring frequently, until softened and slightly coloured. The small amount of oil used in this recipe means the onions might stick to the pan at some point; add a splash of water if necessary.",
@@ -58,8 +65,9 @@
         "Heat a griddle pan, hot plate, frying pan or barbecue to hot. Brush the burgers with a little oil and cook: four minutes each side for a medium finish for six burgers, a little longer if you have made four larger burgers.",
         "Rest the burgers for a few minutes while you sprinkle the cooked potato wedges with the spice blend. Serve the burgers in buns, with the wedges alongside and some ketchup for dipping."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If you don't have mango powder, you could add a splash of lemon or lime juice at the end for the potato wedges."
     ],
+    "title": "Splendidly spicy beef burger",
     "videos": "[]"
 }

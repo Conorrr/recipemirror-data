@@ -1,26 +1,39 @@
 {
-    "title": "Raised pork pie",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 10",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "There's nothing like a homemade pork pie and Rick Stein shows us how to do it properly.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "There's nothing like a homemade pork pie and Rick Stein shows us how to do it properly.",
+    "dishes": [
+        "bread",
+        "cake",
+        "jelly",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "pork_pie",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading",
+        "trimming_pastry_case"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the filling": [
+            "1.2kg/2\u00bd lb boned pork shoulder",
+            "225g/8oz lean bacon",
+            "1 tbsp chopped fresh sage",
+            "2.5ml/\u00bd tsp each ground mace, freshly grated nutmeg and ground allspice",
+            "2 tsp anchovy essence",
+            "salt and freshly ground black pepper"
+        ],
         "For the jelly": [
             "900g/2lb pork bones",
             "1 pig's trotter",
@@ -30,14 +43,6 @@
             "12 black peppercorns",
             "4 cloves"
         ],
-        "For the filling": [
-            "1.2kg/2\u00bd lb boned pork shoulder",
-            "225g/8oz lean bacon",
-            "1 tbsp chopped fresh sage",
-            "2.5ml/\u00bd tsp each ground mace, freshly grated nutmeg and ground allspice",
-            "2 tsp anchovy essence",
-            "salt and freshly ground black pepper"
-        ],
         "For the pastry": [
             "450g/1lb plain flour",
             "1 tsp salt",
@@ -45,6 +50,12 @@
             "3 free-range eggs, plus 1 free-range egg yolk",
             "2-3 tbsp cold water"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "8",
+    "serves": "Serves 10",
+    "show": {
+        
     },
     "steps": [
         "For the jelly, put all of the jelly ingredients into a large pan, cover with water and bring to the boil. Cover and simmer gently for three hours.",
@@ -63,9 +74,9 @@
         "Bake the pie in the oven for 30 minutes, then lower the oven temperature to 180C/350F/Gas 4 and continue to cook for a further 1\u00bd hours, loosely covering the pie with a triple-thickness sheet of greaseproof paper once it is nicely browned.",
         "Finally, remove the pie from the oven and leave to cool for 2 hours. Then warm through the jelly and pour into the pie through the hole in the top. Remove cutter used to make the hole in the top. Leave to go cold overnight."
     ],
-    "howTos": [
-        "kneading",
-        "trimming_pastry_case"
+    "tips": [
+        
     ],
+    "title": "Raised pork pie",
     "videos": "[]"
 }

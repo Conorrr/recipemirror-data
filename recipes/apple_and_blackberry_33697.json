@@ -1,32 +1,28 @@
 {
-    "title": "Apple and blackberry crumble",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/apple_and_blackberry_33697_16x9.jpg"
-    ],
-    "description": "Paul Hollywood adds a twist to the traditional crumble topping with the addition of seeds, oats and shony, a sweet and salty powdered seaweed. Serve with custard, cream or ice cream. Equipment and preparation: for this recipe you will need a 20x25cm/8x10in ovenproof dish.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b03hcv64": "Paul Hollywood's Pies & Puds"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Paul Hollywood adds a twist to the traditional crumble topping with the addition of seeds, oats and shony, a sweet and salty powdered seaweed. Serve with custard, cream or ice cream. Equipment and preparation: for this recipe you will need a 20x25cm/8x10in ovenproof dish.",
+    "dishes": [
+        "bread",
+        "crumble",
+        "custard",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/apple_and_blackberry_33697_16x9.jpg"
+    ],
     "ingredients": {
-        "For the filling": [
-            "500g/1lb 2oz cooking apples, peeled, cored and sliced",
-            "25g/1oz butter",
-            "75g/2\u00bdoz caster sugar",
-            "250g/9oz blackberries"
-        ],
         "For the crumble topping": [
             "100g/3\u00bdoz plain wholemeal flour",
             "75g/2\u00bdoz porridge oats",
@@ -35,7 +31,19 @@
             "75g/2\u00bdoz unsalted butter, chilled, cut into roughly 1cm/\u00bdin cubes",
             "25g/1oz sunflower seeds",
             "15g/\u00bdoz pumpkin seeds"
+        ],
+        "For the filling": [
+            "500g/1lb 2oz cooking apples, peeled, cored and sliced",
+            "25g/1oz butter",
+            "75g/2\u00bdoz caster sugar",
+            "250g/9oz blackberries"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 6",
+    "show": {
+        "b03hcv64": "Paul Hollywood's Pies & Puds"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -44,8 +52,9 @@
         "Using a pestle and mortar or a small food processor, crush the seeds so they break down a little. Do not reduce them to a fine powder. Stir the crushed seeds into the crumble mixture.",
         "Spoon the crumble mixture over the filling. Bake for 35-40 minutes, or until golden-brown and bubbling. Leave to settle for about 10 minutes before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Apple and blackberry crumble",
     "videos": "[]"
 }

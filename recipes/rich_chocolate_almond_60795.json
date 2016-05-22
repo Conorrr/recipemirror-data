@@ -1,26 +1,33 @@
 {
-    "title": "Rich chocolate almond cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "This chocolate cake is perfect with an espresso at the end of a meal. It is very easy to make and keeps well for days.",
     "author": {
         "rachel_allen": "Rachel Allen"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        "If you prefer, you can dust the top of the cake with cocoa powder, or icing sugar, instead of the chocolate glaze."
+    "cookTime": "30 mins to 1 hour",
+    "description": "This chocolate cake is perfect with an espresso at the end of a meal. It is very easy to make and keeps well for days.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "icing",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "melting_chocolate"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chocolate glaze": [
+            "200g/7oz dark chocolate, chopped",
+            "50ml/2fl oz milk",
+            "75g/2\u00bd oz butter",
+            "whisky, to taste"
+        ],
         "default": [
             "melted butter, for greasing the tin",
             "250g/9oz dark chocolate, chopped",
@@ -28,13 +35,13 @@
             "250g/9oz caster sugar",
             "5 free-range eggs, beaten",
             "75g/2\u00bd oz ground almonds"
-        ],
-        "For the chocolate glaze": [
-            "200g/7oz dark chocolate, chopped",
-            "50ml/2fl oz milk",
-            "75g/2\u00bd oz butter",
-            "whisky, to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 8",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
     },
     "steps": [
         "Preheat the oven to 160C/325F/Gas 3.",
@@ -44,8 +51,9 @@
         "To make the chocolate glaze, in a bowl sitting over a saucepan of simmering water, making sure the bowl does not touch the water. Melt the chocolate, milk and butter together and stir until smooth. Stir in whisky, to taste. Allow to cool a little until it has thickened slightly (about 10 minutes) but do not place in the fridge as it will lose its glossy sheen.",
         "Take the cooled cake out of the tin and place on a plate or cake stand, and pour the glaze over the top, letting it drizzle down the sides."
     ],
-    "howTos": [
-        "melting_chocolate"
+    "tips": [
+        "If you prefer, you can dust the top of the cake with cocoa powder, or icing sugar, instead of the chocolate glaze."
     ],
+    "title": "Rich chocolate almond cake",
     "videos": "[]"
 }

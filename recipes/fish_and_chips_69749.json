@@ -1,23 +1,23 @@
 {
-    "title": "Fish and chips",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Here\u2019s a novel twist on fish and chips with the batter made from pear cider, served with peas mashed with wasabi.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Here\u2019s a novel twist on fish and chips with the batter made from pear cider, served with peas mashed with wasabi.",
+    "dishes": [
+        "chips",
+        "fish_and_chips",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -32,15 +32,21 @@
             "salt, to taste",
             "5 tbsp rapeseed oil"
         ],
+        "For the fish": [
+            "2 litres/3\u00bd pints sunflower oil, for frying",
+            "1 pollock fillet, cut into pieces"
+        ],
         "For the wasabi mashed peas": [
             "400g/14oz fresh or frozen peas",
             "50g/1\u00beoz butter",
             "2 tbsp wasabi paste"
-        ],
-        "For the fish": [
-            "2 litres/3\u00bd pints sunflower oil, for frying",
-            "1 pollock fillet, cut into pieces"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -51,8 +57,9 @@
         "Half fill a pan with the sunflower oil and bring to a temperature of 180C/350F, which you can check using a sugar thermometer, or use a deep fat fryer set to the same temperature.",
         "Flip the pieces of pollock in the batter and then carefully lower them into the hot oil, one at a time. Fry individually until golden-brown. Rest the fish on kitchen paper to remove excess oil and the serve with the chips and peas."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fish and chips",
     "videos": "[]"
 }

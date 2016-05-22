@@ -1,24 +1,21 @@
 {
-    "title": "Silver gin fizz",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This is a simple classic gin fizz from mid-19th century America. The egg white sounds odd, but it adds a lovely frothiness.",
     "author": {
         "wayne_collins": "Wayne Collins"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "American",
+    "description": "This is a simple classic gin fizz from mid-19th century America. The egg white sounds odd, but it adds a lovely frothiness.",
+    "dishes": [
+        "gin_cocktail"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,12 +26,19 @@
             "soda water to fill"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Place all the ingredients into a cocktail shaker with a handful of ice and shake hard.",
         "Strain into a small highball glass, top with soda water and serve with the lemon rind."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Silver gin fizz",
     "videos": "[]"
 }

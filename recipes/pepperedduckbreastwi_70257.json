@@ -1,33 +1,27 @@
 {
-    "title": "Peppered duck breast with wild mushrooms and cream",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "gravy",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "de-glazing_pans",
+        "scoring_skin"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 female Barbary duck breasts",
-            "2-3 tbsp black peppercorns, cracked",
-            "50ml/2fl oz cognac",
-            "100ml/3\u00bdfl oz light gravy (or chicken stock reduced and thickened with arrowroot)",
-            "100ml/3\u00bdfl oz double cream"
-        ],
         "For the garnish": [
             "110g/4oz shiitake mushrooms",
             "110g/4oz oyster mushrooms",
@@ -36,7 +30,20 @@
             "2 tbsp butter",
             "110g/4oz fresh spinach",
             "8 sprigs flatleaf parsley to garnish"
+        ],
+        "default": [
+            "4 female Barbary duck breasts",
+            "2-3 tbsp black peppercorns, cracked",
+            "50ml/2fl oz cognac",
+            "100ml/3\u00bdfl oz light gravy (or chicken stock reduced and thickened with arrowroot)",
+            "100ml/3\u00bdfl oz double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Trim the duck breasts and lightly score the skin side with a sharp knife.",
@@ -52,9 +59,9 @@
         "Mix the two together.",
         "To serve, spoon the spinach and mushroom mixture on to warmed plates. Slice the duck breasts, and arrange on top of the spinach mixture. Surround with the sauce."
     ],
-    "howTos": [
-        "de-glazing_pans",
-        "scoring_skin"
+    "tips": [
+        
     ],
+    "title": "Peppered duck breast with wild mushrooms and cream",
     "videos": "[]"
 }

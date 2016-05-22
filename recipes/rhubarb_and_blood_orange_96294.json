@@ -1,35 +1,28 @@
 {
-    "title": "Rhubarb and blood orange crumble",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bread",
+        "crumble",
+        "custard",
+        "oven-baked_dishes",
+        "pie",
+        "rhubarb_crumble",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "de-seeding_vanilla_pods"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "450g/1lb rhubarb",
-            "2 blood oranges, peeled and cut into rounds",
-            "4 blood oranges, juice only",
-            "125g/4oz caster sugar",
-            "2 star anise",
-            "1 cinnamon stick, broken in half",
-            "1 vanilla pod, split lengthways, seeds scraped out"
-        ],
         "For the topping": [
             "50g/2oz unsalted butter",
             "100g/4oz plain flour",
@@ -39,7 +32,22 @@
         ],
         "To serve": [
             "clotted cream or custard"
+        ],
+        "default": [
+            "450g/1lb rhubarb",
+            "2 blood oranges, peeled and cut into rounds",
+            "4 blood oranges, juice only",
+            "125g/4oz caster sugar",
+            "2 star anise",
+            "1 cinnamon stick, broken in half",
+            "1 vanilla pod, split lengthways, seeds scraped out"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Cut the rhubarb into 5cm/2in pieces and lay them in a 23cm/9in ovenproof dish. Top with the orange pieces.",
@@ -48,8 +56,9 @@
         "Add the almonds and spoon the crumble on top of the fruit and place in the oven for 25-30 minutes until golden-brown.",
         "Serve with clotted cream or custard."
     ],
-    "howTos": [
-        "de-seeding_vanilla_pods"
+    "tips": [
+        
     ],
+    "title": "Rhubarb and blood orange crumble",
     "videos": "[]"
 }

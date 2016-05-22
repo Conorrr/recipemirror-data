@@ -1,26 +1,32 @@
 {
-    "title": "Potato and broccoli soup with Stilton rarebit",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "richard_phillips": "Richard Phillips"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "crumble",
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the rarebit": [
+            "1 slice of bread",
+            "85g/3oz Stilton",
+            "1 free-range egg yolk",
+            "\u00bd tsp Worcestershire sauce"
+        ],
         "For the soup": [
             "30g/1oz butter",
             "\u00bd onion, finely sliced",
@@ -29,13 +35,13 @@
             "150ml/\u00bc pint chicken stock",
             "55g/2oz Stilton, crumbled",
             "salt and freshly ground black pepper"
-        ],
-        "For the rarebit": [
-            "1 slice of bread",
-            "85g/3oz Stilton",
-            "1 free-range egg yolk",
-            "\u00bd tsp Worcestershire sauce"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the grill to the highest setting.",
@@ -48,8 +54,9 @@
         "Place the bread on a non-stick baking tray under the hot grill for two minutes, or until the cheese mixture is melted and golden-brown.",
         "To serve, place the rarebit on top of the soup."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Potato and broccoli soup with Stilton rarebit",
     "videos": "[]"
 }

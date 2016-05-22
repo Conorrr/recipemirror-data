@@ -1,33 +1,32 @@
 {
-    "title": "Individual vegetarian puddings",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "NB: For this recipe you will need four 300ml/0.5 pint pudding basins.",
     "author": {
         "gordon_jones": "Gordon Jones"
     },
-    "show": {
-        "b00mb9r7": "Virgin Cooks"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "NB: For this recipe you will need four 300ml/0.5 pint pudding basins.",
+    "dishes": [
+        "ketchup",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "prepare-ahead_desserts",
+        "steamed_pudding",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "making_pastry_lids",
+        "kneading",
+        "trimming_pastry_case",
+        "steaming_puddings"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the suet pastry": [
-            "200g/7oz self-raising flour, plus extra for dusting",
-            "100g/3\u00bdoz vegetable suet",
-            "pinch salt",
-            "1 tbsp finely chopped fresh parsley",
-            "120ml/4fl oz water"
-        ],
         "For the filling": [
             "2 tbsp olive oil",
             "4 large shallots, peeled, roughly chopped",
@@ -39,7 +38,20 @@
             "500g/1lb 2oz mixed mushrooms (such as chestnut, Portobello, chanterelle and girolle), brushed clean, chopped",
             "salt and freshly ground black pepper",
             "steamed courgettes and carrots, to serve"
+        ],
+        "For the suet pastry": [
+            "200g/7oz self-raising flour, plus extra for dusting",
+            "100g/3\u00bdoz vegetable suet",
+            "pinch salt",
+            "1 tbsp finely chopped fresh parsley",
+            "120ml/4fl oz water"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b00mb9r7": "Virgin Cooks"
     },
     "steps": [
         "For the suet pastry, in a large bowl, mix together the flour, suet, salt and chopped parsley.",
@@ -60,11 +72,9 @@
         "When the pudding basins are cool enough to handle, unwrap the top of the puddings. Remove the foil from each pudding basin. Invert one pudding onto each of four serving plates.",
         "Serve immediately with steamed courgettes and carrots."
     ],
-    "howTos": [
-        "making_pastry_lids",
-        "kneading",
-        "trimming_pastry_case",
-        "steaming_puddings"
+    "tips": [
+        
     ],
+    "title": "Individual vegetarian puddings",
     "videos": "[]"
 }

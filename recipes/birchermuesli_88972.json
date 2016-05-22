@@ -1,24 +1,21 @@
 {
-    "title": "Muesli",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1-2",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/birchermuesli_88972_16x9.jpg"
-    ],
-    "description": "The best thing about making your own muesli is that you can make it exactly how you like it. So feel free to adapt accordingly.",
     "author": {
         "sophie_dahl": "Sophie Dahl"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "British",
+    "description": "The best thing about making your own muesli is that you can make it exactly how you like it. So feel free to adapt accordingly.",
+    "dishes": [
+        "muesli"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/birchermuesli_88972_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -31,12 +28,19 @@
             "milk, yoghurt or fruit juice, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1-2",
+    "show": {
+        "b00701fw": "A Taste of My Life"
+    },
     "steps": [
         "Mix the oats, dried apricots, dried prunes, pumpkin seeds and sunflower seeds together and spoon into a serving bowl.",
         "To serve, scatter over a handful of fresh berry fruits and pour over the milk, yoghurt or fruit juice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Muesli",
     "videos": "[]"
 }

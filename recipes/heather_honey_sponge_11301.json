@@ -1,24 +1,24 @@
 {
-    "title": "Heather honey sponge",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/heather_honey_sponge_11301_16x9.jpg"
-    ],
-    "description": "There\u2019s nothing to compare to the light, fluffy texture of a steamed sponge pudding. Golden syrup is a classic addition, of course, but I love this version, which makes the most of the fragrant flavour of Scottish heather honey. Any other well-flavoured honey will work well too.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b03hcv64": "Paul Hollywood's Pies & Puds"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "There\u2019s nothing to compare to the light, fluffy texture of a steamed sponge pudding. Golden syrup is a classic addition, of course, but I love this version, which makes the most of the fragrant flavour of Scottish heather honey. Any other well-flavoured honey will work well too.",
+    "dishes": [
+        "custard",
+        "pie",
+        "sponge_pudding"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "steaming_puddings",
+        "sealing_steamed_puddings"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/heather_honey_sponge_11301_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -31,6 +31,12 @@
             "custard or cream, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b03hcv64": "Paul Hollywood's Pies & Puds"
+    },
     "steps": [
         "Butter a 1 litre/1\u00be pint pudding basin. Put two tablespoons of the honey into the prepared basin (if the honey is very thick, warm it gently first to make it more liquid).",
         "Put the remaining honey and all the other ingredients into a large bowl and beat together using an electric whisk. Start off slowly, then increase the speed and mix for two minutes until all the ingredients are well combined.",
@@ -39,9 +45,9 @@
         "Place the basin in a large pan, and pour in enough boiling water to come halfway up the side of the basin. Put a lid on the pan and bring to a simmer. Lower the heat to maintain a simmer and let the pudding steam for 1\u00bc hours, until risen and springy to the touch. Top up the boiling water, if necessary, to prevent the pan boiling dry.",
         "Remove the foil and parchment and run the tip of a small, sharp knife around the edge of the pudding to help release it. Turn onto a warmed plate and serve piping hot with custard or cream."
     ],
-    "howTos": [
-        "steaming_puddings",
-        "sealing_steamed_puddings"
+    "tips": [
+        
     ],
+    "title": "Heather honey sponge",
     "videos": "[]"
 }

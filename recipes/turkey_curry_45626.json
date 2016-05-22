@@ -1,24 +1,25 @@
 {
-    "title": "Turkey curry",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "18",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/turkey_curry_45626_16x9.jpg"
-    ],
-    "description": "Tamarind gives a lovely sour tang to this quick and easy curry.",
     "author": {
         "angela_hartnett": "Angela Hartnett"
     },
-    "show": {
-        "b016pbs9": "Great British Food Revival"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Tamarind gives a lovely sour tang to this quick and easy curry.",
+    "dishes": [
+        "bun",
+        "curry",
+        "sauce",
+        "stir-fries",
+        "stock",
+        "turkey_curry"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/turkey_curry_45626_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -40,13 +41,20 @@
             "50g/1\u00beoz whole peeled almonds"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "18",
+    "serves": "Serves 4",
+    "show": {
+        "b016pbs9": "Great British Food Revival"
+    },
     "steps": [
         "Place the chopped onion, chillies, coriander seeds, tamarind, sugar and one clove of garlic into a blender or food processor with the ginger. Pulse until blended into a paste.",
         "Heat the oil in a large frying pan and brown the turkey, in batches if necessary, with the remaining garlic clove and thyme. Remove the turkey from the pan and discard the garlic. In the same pan, cook the blended paste for a few minutes then return the turkey to the pan and add the coconut milk, stock and potatoes.",
         "Cook gently for 20 minutes until the turkey has cooked through and the sauce has thickened. Finally, stir in the spinach, fresh coriander and almonds and warm through. Remove from the heat and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Turkey curry",
     "videos": "[]"
 }

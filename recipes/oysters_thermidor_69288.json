@@ -1,26 +1,29 @@
 {
-    "title": "Oysters thermidor",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Native oysters are a seasonal treat. Here they are served in their shells with a cream sauce and samphire alongside.",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b04gtx26": "A Taste of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Native oysters are a seasonal treat. Here they are served in their shells with a cream sauce and samphire alongside.",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce",
+        "seafood",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "200g/7oz samphire"
+        ],
         "default": [
             "24 native oysters in their shells",
             "55g/2oz butter",
@@ -33,10 +36,13 @@
             "2 egg yolks",
             "1 tbsp chopped fresh parsley",
             "55g/2oz parmesan, finely grated"
-        ],
-        "To serve": [
-            "200g/7oz samphire"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b04gtx26": "A Taste of Britain"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -50,8 +56,9 @@
         "Cook the samphire in a pan of boiling salted water for 1-2 minutes, or until tender. Drain well.",
         "Meanwhile grill the oysters to glaze them. Serve with the samphire."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Oysters thermidor",
     "videos": "[]"
 }

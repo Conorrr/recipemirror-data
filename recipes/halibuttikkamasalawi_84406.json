@@ -1,26 +1,31 @@
 {
-    "title": "Halibut tikka masala with basmati rice",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "bun",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the halibut": [
+            "4 x 150g/5oz halibut steaks, cut into chunks",
+            "50ml/2oz butter, melted",
+            "1 lemon, juice only"
+        ],
         "For the marinade": [
             "100ml/3\u00bdfl oz natural yoghurt",
             "1 lime, juice only",
@@ -31,11 +36,6 @@
             "1 tbsp garam masala",
             "1 tbsp paprika",
             "pinch salt"
-        ],
-        "For the halibut": [
-            "4 x 150g/5oz halibut steaks, cut into chunks",
-            "50ml/2oz butter, melted",
-            "1 lemon, juice only"
         ],
         "For the sauce": [
             "1 onion, chopped",
@@ -60,6 +60,12 @@
             "naan bread"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Combine all the marinade ingredients in a bowl. Add the halibut pieces and turn to coat completely. Thread onto wooden skewers, place onto a baking tray, cover and chill in the fridge for at least two hours.",
         "Preheat the grill to its highest setting.",
@@ -72,8 +78,9 @@
         "Add the milk and increase the heat to bring the mixture to the boil. Reduce the heat and simmer for five minutes.",
         "To serve, place two halibut skewers onto a plate, spoon over some sauce and garnish with the coriander leaves. Serve with basmati rice and naan."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Halibut tikka masala with basmati rice",
     "videos": "[]"
 }

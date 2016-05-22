@@ -1,24 +1,22 @@
 {
-    "title": "Garlic, chilli and broccoli stir-fry",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/garlicchilliandbrocc_90660_16x9.jpg"
-    ],
-    "description": "Skip the boiled broccoli and keep the crunch with this speedy side dish.",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Skip the boiled broccoli and keep the crunch with this speedy side dish.",
+    "dishes": [
+        "jam",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/garlicchilliandbrocc_90660_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,13 +30,20 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the olive oil in a wok, add the broccoli and fry for 2-3 minutes, or until starting to soften, then add the garlic and chilli and fry for 1-2 minutes.",
         "Add the soy sauce, sesame oil, lime juice, salt and freshly ground black pepper and fry for 1-2 minutes, or until the broccoli is tender.",
         "To serve, spoon the stir-fry into a bowl and serve as a side dish."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Garlic, chilli and broccoli stir-fry",
     "videos": "[]"
 }

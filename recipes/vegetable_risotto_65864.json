@@ -1,24 +1,23 @@
 {
-    "title": "Vegetable risotto",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This is a classic recipe with a cheat\u2019s method \u2013 popping it in the microwave speeds it up and gives you time to do other things. It\u2019s also great for using up leftover vegetables in your fridge.",
     "author": {
         "lets_get_cooking": "Let's Get Cooking"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "You can swap the vegetables and beans for whatever you have in your fridge and cupboards, such as broccoli, spinach, fresh or canned tomatoes, chickpeas and different kinds of beans."
+    "cookTime": "30 mins to 1 hour",
+    "description": "This is a classic recipe with a cheat\u2019s method \u2013 popping it in the microwave speeds it up and gives you time to do other things. It\u2019s also great for using up leftover vegetables in your fridge.",
+    "dishes": [
+        "crumble",
+        "risotto",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -36,6 +35,12 @@
             "25g/1oz butter"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Put the onion in a microwave-safe bowl. Add the oil and stir well.",
         "Heat for two minutes on full power.",
@@ -46,8 +51,9 @@
         "Mix the sweetcorn and frozen peas into the rice, cover and cook for a final three minutes.",
         "Lastly, stir in the grated cheese and butter, sprinkle with chopped parsley and serve immediately."
     ],
-    "howTos": [
-        
+    "tips": [
+        "You can swap the vegetables and beans for whatever you have in your fridge and cupboards, such as broccoli, spinach, fresh or canned tomatoes, chickpeas and different kinds of beans."
     ],
+    "title": "Vegetable risotto",
     "videos": "[]"
 }

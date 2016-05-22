@@ -1,26 +1,32 @@
 {
-    "title": "Steak au poivre with chips and watercress salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "NB: If using larger steak pieces (450g/1lb or more), preheat the oven to 190C/375F/Gas 5. After initially frying the steak, place in to the preheated oven and cook for a further eight minutes if you like your meat rare, longer if required.",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "NB: If using larger steak pieces (450g/1lb or more), preheat the oven to 190C/375F/Gas 5. After initially frying the steak, place in to the preheated oven and cook for a further eight minutes if you like your meat rare, longer if required.",
+    "dishes": [
+        "chips",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "chips or new potatoes",
+            "watercress"
+        ],
         "default": [
             "2 x 250g/8oz sirloin steak, cut 1\u00bdcm/\u00bd inch thick",
             "8 Peppadew peppers",
@@ -35,11 +41,13 @@
             "1 tbsp green peppercorns in brine, rinsed and drained",
             "4 tbsp double cream",
             "salt, to taste"
-        ],
-        "To serve": [
-            "chips or new potatoes",
-            "watercress"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Make a horizontal cut into the side of each steak to create a pocket and insert the Peppadew peppers.",
@@ -52,8 +60,9 @@
         "Place the steak back into the frying pan with the sauce to warm the meat through. Do not boil the sauce.",
         "Remove the steak and place onto a plate. Drizzle over the sauce and serve with chips or new potatoes and a watercress salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steak au poivre with chips and watercress salad",
     "videos": "[]"
 }

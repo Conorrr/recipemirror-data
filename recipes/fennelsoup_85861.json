@@ -1,24 +1,21 @@
 {
-    "title": "Fennel soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +28,12 @@
             "small handful fresh dill, chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the butter in a pan and gently fry the shallot until softened but not coloured.",
         "Add the new potatoes and fennel and saut\u00e9 for 2-3 minutes.",
@@ -38,8 +41,9 @@
         "Pour the soup into a blender, add the dill and blend until smooth. If necessary, gently reheat the soup before serving.",
         "To serve, pour the soup into a serving bowl."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fennel soup",
     "videos": "[]"
 }

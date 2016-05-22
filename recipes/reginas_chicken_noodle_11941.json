@@ -1,23 +1,25 @@
 {
-    "title": "Regina\u2019s chicken noodle soup",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 6-8",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "This comforting winter broth is the perfect antidote to Christmas excess. Serve alongside dumplings or matzo balls - or both!",
     "author": {
         "regina_waldman": "Regina Waldman"
     },
-    "show": {
-        "b05y38pk": "Nigel Slater: Eating Together"
-    },
-    "tips": [
-        "This dish involves boiling a whole chicken for the broth, make sure this chicken does not go to waste by using it in another dish such as Spanish chicken and rice."
+    "cookTime": "over 2 hours",
+    "description": "This comforting winter broth is the perfect antidote to Christmas excess. Serve alongside dumplings or matzo balls - or both!",
+    "dishes": [
+        "broth",
+        "chicken_soup",
+        "jelly",
+        "pie",
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -37,6 +39,12 @@
             "salt and white pepper"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "3",
+    "serves": "Serves 6-8",
+    "show": {
+        "b05y38pk": "Nigel Slater: Eating Together"
+    },
     "steps": [
         "Place the chicken pieces, all of the chopped vegetables, the stock cubes and the bay leaf into a large, heavy-based saucepan. Fill the pan with water and bring to the boil. Season generously with salt and freshly ground black pepper.",
         "Reduce the heat until the mixture is simmering gently. Partly cover with a lid and simmer for 3\u00bd hours, stirring occasionally and skimming the fat from the surface of the liquid once every hour using a slotted spoon.",
@@ -46,8 +54,9 @@
         "Cook the butterbeans in a separate pan of boiling water for 3-4 minutes, or until tender. Drain well.",
         "To serve, divide the noodles and butterbeans equally among 6-8 serving bowls. Ladle over the warm chicken broth."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This dish involves boiling a whole chicken for the broth, make sure this chicken does not go to waste by using it in another dish such as Spanish chicken and rice."
     ],
+    "title": "Regina\u2019s chicken noodle soup",
     "videos": "[]"
 }

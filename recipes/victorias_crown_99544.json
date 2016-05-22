@@ -1,39 +1,33 @@
 {
-    "title": "Victoria's crown",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Ian's ornate charlotte russe is shaped to resemble Queen Victoria's crown. For this recipe you will need a 23cm/9in springform cake tin, 4 large baking trays, 3 large piping bags, a 12mm/\u00bdin plain nozzle, a medium star nozzle and a small plain nozzle.",
     "author": {
         "ian": "Ian"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "If your savoiardi fingers are quite tall, you can tape the sides of two 23cm/9in cake tins together to provide more support."
+    "cookTime": "over 2 hours",
+    "description": "Ian's ornate charlotte russe is shaped to resemble Queen Victoria's crown. For this recipe you will need a 23cm/9in springform cake tin, 4 large baking trays, 3 large piping bags, a 12mm/\u00bdin plain nozzle, a medium star nozzle and a small plain nozzle.",
+    "dishes": [
+        "cake",
+        "charlotte",
+        "compote",
+        "custard",
+        "icing",
+        "jelly",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "folding",
+        "whipping_cream",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the savoiardi": [
-            "6 large free-range eggs, separated",
-            "300g/10\u00bdoz golden caster sugar",
-            "3 tsp vanilla paste",
-            "270g/9\u00beoz plain flour",
-            "50g/1\u00beoz icing sugar"
-        ],
-        "For the comp\u00f4te": [
-            "400g/14oz rhubarb, trimmed and roughly chopped",
-            "4 pieces stem ginger in syrup, finely chopped",
-            "120g/4\u00bcoz caster sugar",
-            "5 sheets leaf gelatine"
-        ],
         "For the bavarois cream": [
             "400g/14oz rhubarb, trimmed and roughly chopped",
             "250g/9oz caster sugar",
@@ -46,11 +40,24 @@
             "red food colouring",
             "1 bag of ice"
         ],
+        "For the comp\u00f4te": [
+            "400g/14oz rhubarb, trimmed and roughly chopped",
+            "4 pieces stem ginger in syrup, finely chopped",
+            "120g/4\u00bcoz caster sugar",
+            "5 sheets leaf gelatine"
+        ],
         "For the ginger jelly": [
             "110g/4oz fresh ginger, thinly sliced",
             "160g/5\u00beoz golden granulated sugar",
             "4-5 lemon verbena leaves",
             "5 sheets gelatine"
+        ],
+        "For the savoiardi": [
+            "6 large free-range eggs, separated",
+            "300g/10\u00bdoz golden caster sugar",
+            "3 tsp vanilla paste",
+            "270g/9\u00beoz plain flour",
+            "50g/1\u00beoz icing sugar"
         ],
         "To assemble": [
             "50g/1\u00beoz caster sugar",
@@ -60,6 +67,12 @@
             "2 large clear edible diamonds, 2cm/\u00bein diameter (optional)",
             "24 clear edible diamonds, 1cm/\u00bdin diameter (optional)"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Line 4 large baking trays and a 23cm/9in springform cake tin with baking parchment. On one tray draw a 15cm/6in circle and 2 matching semicircles, 1 with a cross attached to the top. Draw 4 matching quarter circles. On 2 baking trays draw 35-40 9cm/3\u00bdin long lines spaced well apart. Finally draw a 23cm/9in circle on the remaining tray.",
@@ -92,10 +105,9 @@
         "To decorate the crown, stick the 2 large 'diamonds' on the centre of each side of the cross using the royal icing to glue them in place. Then use small diamonds to further decorate. Put the russe on a serving plate and remove the springform collar. Place the crown on top.",
         "Put the remaining bavarois cream in a piping bag fitted with star nozzle and pipe stars around the base of the savoiardi fingers."
     ],
-    "howTos": [
-        "folding",
-        "whipping_cream",
-        "whisking_egg_whites"
+    "tips": [
+        "If your savoiardi fingers are quite tall, you can tape the sides of two 23cm/9in cake tins together to provide more support."
     ],
+    "title": "Victoria's crown",
     "videos": "[]"
 }

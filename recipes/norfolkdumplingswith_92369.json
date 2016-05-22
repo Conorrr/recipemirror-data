@@ -1,26 +1,37 @@
 {
-    "title": "Norfolk dumplings with mince and boiled potatoes",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 12",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "casserole",
+        "gravy",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dumplings": [
+            "1.5kg/3lb 4oz self-raising flour, plus extra for dusting",
+            "6 tbsp chopped fresh parsley leaves",
+            "salt and freshly ground black pepper",
+            "500-750ml/18fl oz-1 pint 6fl oz cold water",
+            "3kg/6lb 8oz white potatoes, peeled, cut into equal-sized pieces",
+            "150g/5oz butter",
+            "600g/1lb 5oz young carrots, scrubbed, trimmed"
+        ],
         "For the mince": [
             "3 tbsp olive oil",
             "3 onions, finely chopped",
@@ -30,16 +41,13 @@
             "1 litre/1\u00be pints water",
             "2 tbsp gravy browning powder",
             "salt and freshly ground black pepper"
-        ],
-        "For the dumplings": [
-            "1.5kg/3lb 4oz self-raising flour, plus extra for dusting",
-            "6 tbsp chopped fresh parsley leaves",
-            "salt and freshly ground black pepper",
-            "500-750ml/18fl oz-1 pint 6fl oz cold water",
-            "3kg/6lb 8oz white potatoes, peeled, cut into equal-sized pieces",
-            "150g/5oz butter",
-            "600g/1lb 5oz young carrots, scrubbed, trimmed"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 12",
+    "show": {
+        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
     },
     "steps": [
         "For the mince, heat the oil in a large casserole dish over a high heat. Add the onions and fry for 3-4 minutes, or until softened.",
@@ -56,8 +64,9 @@
         "Meanwhile, bring a pan of salted water to the boil, add the carrots and cook for 4-5 minutes, or until tender. Drain well, then return the carrots to the pan and stir in the remaining butter. Season, to taste, with salt and freshly ground black pepper.",
         "To serve, spoon the dumplings into the centre of each of 12 serving plates. Spoon over the mince. Serve the buttered potatoes and carrots alongside."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Norfolk dumplings with mince and boiled potatoes",
     "videos": "[]"
 }

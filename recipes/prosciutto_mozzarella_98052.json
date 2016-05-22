@@ -1,24 +1,25 @@
 {
-    "title": "Prosciutto, mozzarella and fig pizza",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "32",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/prosciutto_mozzarella_98052_16x9.jpg"
-    ],
-    "description": "Once you've mastered Lorraine Pascale's basic pizza dough, vary the toppings according to your mood. Equipment and preparation: You will need a very large baking tray, or a 30cm/12in pizza plate.",
     "author": {
         "lorraine_pascale": "Lorraine Pascale"
     },
-    "show": {
-        "b00xnbkv": "Baking Made Easy"
-    },
-    "tips": [
-        "Make several bases in one go and then freeze them, so that next time pizza is on the menu, a base can be quickly defrosted and finished with toppings."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "Once you've mastered Lorraine Pascale's basic pizza dough, vary the toppings according to your mood. Equipment and preparation: You will need a very large baking tray, or a 30cm/12in pizza plate.",
+    "dishes": [
+        "bread",
+        "bun",
+        "oven-baked_dishes",
+        "pie",
+        "pizza"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/prosciutto_mozzarella_98052_16x9.jpg"
     ],
     "ingredients": {
         "For the basic dough": [
@@ -37,6 +38,12 @@
             "1 bunch fresh basil"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "32",
+    "serves": "Serves 4",
+    "show": {
+        "b00xnbkv": "Baking Made Easy"
+    },
     "steps": [
         "Mix the flour, salt and yeast together in a large bowl and make a well in the middle. In a jug, mix the water and oil together, then pour the liquid into the well of the flour mixture and mix to make a soft but not sticky dough.",
         "Knead for 10 minutes by hand on a lightly floured work surface or for five minutes in an electric mixer fitted with a dough hook. Bring the dough together to a smooth flat ball and place on a large, lightly floured baking tray.",
@@ -46,8 +53,9 @@
         "Drizzle with oil and season with salt and freshly ground black pepper. Bake in the oven for 15\u201320 minutes, or until the bread is crisp and golden-brown and the cheese has melted. Scatter basil over the top and arrange the remaining figs on the pizza. Drizzle with oil.",
         "Serve at the centre of the table so everyone can rip off their piece of Italian gold."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Make several bases in one go and then freeze them, so that next time pizza is on the menu, a base can be quickly defrosted and finished with toppings."
     ],
+    "title": "Prosciutto, mozzarella and fig pizza",
     "videos": "[]"
 }

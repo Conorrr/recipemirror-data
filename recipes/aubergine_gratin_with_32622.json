@@ -1,33 +1,27 @@
 {
-    "title": "Aubergine gratin with tomato sauce and salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "This comforting vegetarian recipe combines some of the best and simplest flavours Italy has to offer.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "This comforting vegetarian recipe combines some of the best and simplest flavours Italy has to offer.",
+    "dishes": [
+        "gratin",
+        "jam",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the tomato and basil sauce": [
-            "4 tbsp extra virgin olive oil",
-            "400g/14oz canned chopped tomatoes",
-            "2 garlic cloves, roughly chopped",
-            "1 large handful fresh basil leaves, roughly chopped",
-            "salt and freshly ground black pepper"
-        ],
         "For the aubergine": [
             "2 aubergines, cut lengthways into 0.5cm/\u00bcin slices",
             "salt and freshly ground black pepper",
@@ -44,7 +38,20 @@
             "3 tbsp extra virgin olive oil",
             "squeeze lemon juice",
             "salt and freshly ground black pepper"
+        ],
+        "For the tomato and basil sauce": [
+            "4 tbsp extra virgin olive oil",
+            "400g/14oz canned chopped tomatoes",
+            "2 garlic cloves, roughly chopped",
+            "1 large handful fresh basil leaves, roughly chopped",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the tomato sauce, heat a frying pan over a medium-high heat and add the olive oil, tomatoes and garlic. Simmer for 3-4 minutes, or until the tomatoes have just started to break down.",
@@ -61,8 +68,9 @@
         "Add the rocket and parmesan to the dressing and mix well to combine.",
         "To serve, spoon some of the filled aubergine rolls and tomato sauce onto serving plates and serve the salad alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Aubergine gratin with tomato sauce and salad",
     "videos": "[]"
 }

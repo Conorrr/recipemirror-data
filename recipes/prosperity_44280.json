@@ -1,24 +1,21 @@
 {
-    "title": "Prosperity",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/prosperity_44280_16x9.jpg"
-    ],
-    "description": "A champagne cocktail with sweet fruity notes.",
     "author": {
         "wayne_collins": "Wayne Collins"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "A champagne cocktail with sweet fruity notes.",
+    "dishes": [
+        "champ",
+        "champagne_cocktail"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/prosperity_44280_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -29,12 +26,19 @@
             "chilled Champagne, to top up"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Place the gin, cr\u00e8me de cassis, elderflower and grapefruit juice into a cocktail shaker with a handful of ice and shake hard.",
         "Strain into a flute and top up with champagne."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Prosperity",
     "videos": "[]"
 }

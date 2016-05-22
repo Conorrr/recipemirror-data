@@ -1,26 +1,27 @@
 {
-    "title": "Salmon and bulgur wheat pilaf",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/salmon_and_bulgur_wheat_99443_16x9.jpg"
-    ],
-    "description": "Bulgur wheat is healthy and filling and a nice alternative to rice or couscous. This salmon pilaf flavoured with fresh herbs is a healthy quick supper. This meal is low calorie and provides 461 kcal, 32g protein, 49g carbohydrate (of which 1.7g sugars), 14.6g fat (of which 2.4g saturates), 2.5g fibre and 0.1g salt per portion.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Bulgur wheat is healthy and filling and a nice alternative to rice or couscous. This salmon pilaf flavoured with fresh herbs is a healthy quick supper. This meal is low calorie and provides 461 kcal, 32g protein, 49g carbohydrate (of which 1.7g sugars), 14.6g fat (of which 2.4g saturates), 2.5g fibre and 0.1g salt per portion.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pilaf"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/salmon_and_bulgur_wheat_99443_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "2 lemons, halved",
+            "4 tbsp low-fat yoghurt"
+        ],
         "default": [
             "475g/1lb 1oz salmon, boned and skinned",
             "250g/8oz bulgur wheat",
@@ -29,11 +30,13 @@
             "2 tbsp chopped chives",
             "2 tbsp chopped flat leaf parsley",
             "salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "2 lemons, halved",
-            "4 tbsp low-fat yoghurt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 180C/160C Fan/Gas 4.",
@@ -43,8 +46,9 @@
         "Flake the salmon and mix it into the bulgur wheat with the peas and beans. Add in the chives and parsley. Season with salt and freshly ground black pepper.",
         "Serve with lemon halves and yogurt."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salmon and bulgur wheat pilaf",
     "videos": "[]"
 }

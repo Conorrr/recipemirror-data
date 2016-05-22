@@ -1,26 +1,36 @@
 {
-    "title": "Snail porridge",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "heston_blumenthal": "Heston Blumenthal"
     },
-    "show": {
-        "p0077hpp": "Full on Food"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "",
+    "dishes": [
+        "ham",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "skimming_stock"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the porridge": [
+            "10g/\u00bdoz Parma ham",
+            "1 small fennel bulb",
+            "200ml/7\u00bcfl oz snail cooking stock",
+            "60g/2\u00bcoz porridge oats",
+            "70g/2\u00bdoz snail butter",
+            "the cooked snails",
+            "knob of butter",
+            "1 tsp sherry",
+            "3 tsp walnut oil"
+        ],
         "For the snail butter": [
             "25g/1oz garlic cloves, peeled",
             "40g/1\u00bdoz button mushrooms, finely chopped",
@@ -41,18 +51,13 @@
             "100g/3\u00bdoz button mushrooms, finely sliced",
             "2 garlic cloves",
             "bouquet garni made from bay leaves, thyme and rosemary"
-        ],
-        "For the porridge": [
-            "10g/\u00bdoz Parma ham",
-            "1 small fennel bulb",
-            "200ml/7\u00bcfl oz snail cooking stock",
-            "60g/2\u00bcoz porridge oats",
-            "70g/2\u00bdoz snail butter",
-            "the cooked snails",
-            "knob of butter",
-            "1 tsp sherry",
-            "3 tsp walnut oil"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        "p0077hpp": "Full on Food"
     },
     "steps": [
         "For the snail butter, blanch and refresh the garlic three to four times.",
@@ -70,8 +75,9 @@
         "Saut\u00e9 the snails in butter and drain.",
         "To serve, spoon the porridge onto the plates and top with the sliced ham. Top the porridge and ham with the saut\u00e9ed snails. Toss the fennel with the vinegar and walnut oil, and season. Place the fennel on top of the porridge and serve."
     ],
-    "howTos": [
-        "skimming_stock"
+    "tips": [
+        
     ],
+    "title": "Snail porridge",
     "videos": "[]"
 }

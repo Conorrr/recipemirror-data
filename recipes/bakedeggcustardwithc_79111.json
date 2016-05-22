@@ -1,38 +1,41 @@
 {
-    "title": "Baked egg custard with candied fennel",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ed_baines": "Ed Baines"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "custard",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the candied fennel": [
+            "\u00bd bulb fennel, sliced",
+            "25g/1oz caster sugar",
+            "1 tbsp lemon juice"
+        ],
         "default": [
             "3 free-range egg yolks",
             "75g/2\u00beoz caster sugar",
             "200ml/7fl oz milk",
             "200ml/7fl oz double cream",
             "1 vanilla pod, split"
-        ],
-        "For the candied fennel": [
-            "\u00bd bulb fennel, sliced",
-            "25g/1oz caster sugar",
-            "1 tbsp lemon juice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Whisk together the egg yolks and caster sugar in a large bowl until light and pale.",
@@ -41,8 +44,9 @@
         "Meanwhile, for the candied fennel, heat a pan, add the sugar, lemon juice and the fennel slices and cook for five minutes on a low heat.",
         "To serve, place the candied fennel on top of the custard in a bowl."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Baked egg custard with candied fennel",
     "videos": "[]"
 }

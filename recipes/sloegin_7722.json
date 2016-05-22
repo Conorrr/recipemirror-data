@@ -1,24 +1,22 @@
 {
-    "title": "Sloe gin",
-    "cookTime": "no cooking required",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 1 litre/1\u00be pint",
-    "recommendations": "84",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sloegin_7722_16x9.jpg"
-    ],
-    "description": "Making sloe gin is slow but not laborious. There's no cooking required, just patience as the sloes steep in the gin.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        "You can make blackberry brandy in the same way, substituting blackberries for the sloes and brandy for the gin. Blackberries do not need pricking."
+    "cookTime": "no cooking required",
+    "cusine": "British",
+    "description": "Making sloe gin is slow but not laborious. There's no cooking required, just patience as the sloes steep in the gin.",
+    "dishes": [
+        "sloe_gin",
+        "slow-cooked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sloegin_7722_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -27,14 +25,21 @@
             "1 litre/1\u00be pint gin"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "84",
+    "serves": "Makes 1 litre/1\u00be pint",
+    "show": {
+        
+    },
     "steps": [
         "Prick the tough skin of the sloes all over with a clean needle and put in a large sterilised jar.",
         "Pour in the sugar and the gin, seal tightly and shake well.",
         "Store in a cool, dark cupboard and shake every other day for a week. Then shake once a week for at least two months.",
         "Strain the sloe gin through muslin into a sterilised bottle."
     ],
-    "howTos": [
-        
+    "tips": [
+        "You can make blackberry brandy in the same way, substituting blackberries for the sloes and brandy for the gin. Blackberries do not need pricking."
     ],
+    "title": "Sloe gin",
     "videos": "[]"
 }

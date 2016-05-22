@@ -1,24 +1,23 @@
 {
-    "title": "Salmon ceviche with fennel salad",
-    "cookTime": "no cooking required",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/salmoncevichewithfen_85539_16x9.jpg"
-    ],
-    "description": "This wonderfully elegant dish is packed with flavour and makes a super starter for dinner parties.",
     "author": {
         "stuart_gillies": "Stuart Gillies"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "South_American",
+    "description": "This wonderfully elegant dish is packed with flavour and makes a super starter for dinner parties.",
+    "dishes": [
+        "ceviche",
+        "pie",
+        "salad"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/salmoncevichewithfen_85539_16x9.jpg"
     ],
     "ingredients": {
         "For the ceviche": [
@@ -36,6 +35,12 @@
             "110g/4oz baby salad leaves"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "For the ceviche, lightly sprinkle the salmon fillet with rock salt. Transfer to the fridge and leave for 20 minutes.",
         "Remove the salmon from the fridge, carefully wash off all the salt and pat it dry.",
@@ -46,8 +51,9 @@
         "For the salad, soak the sliced fennel in iced water for 2-3 minutes, before removing and draining. Mix with the salad leaves and the reserved two tablespoons of the ceviche dressing.",
         "Place the fennel salad on top of the salmon and serve."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Salmon ceviche with fennel salad",
     "videos": "[]"
 }

@@ -1,32 +1,27 @@
 {
-    "title": "Cherry streusel cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "You don\u2019t need an excuse to bake this fruity cake with a crumble topping. A generous slice goes perfectly with an afternoon cup of tea.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        "Use fresh cherries if you can get them, but use frozen or tinned when they\u2019re not in season."
+    "cookTime": "30 mins to 1 hour",
+    "description": "You don\u2019t need an excuse to bake this fruity cake with a crumble topping. A generous slice goes perfectly with an afternoon cup of tea.",
+    "dishes": [
+        "bread",
+        "cake",
+        "crumble",
+        "icing",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the topping": [
-            "75g/2\u00beoz plain flour",
-            "75g/2\u00beoz demerara sugar",
-            "1 tsp ground cinnamon",
-            "75g/2\u00beoz unsalted butter"
-        ],
         "For the cake": [
             "2 free-range eggs",
             "150g/5\u00bdoz unsalted butter, plus extra for greasing",
@@ -41,7 +36,19 @@
         "For the glaze": [
             "125g/4\u00bdoz icing sugar",
             "2-3 tbsp milk"
+        ],
+        "For the topping": [
+            "75g/2\u00beoz plain flour",
+            "75g/2\u00beoz demerara sugar",
+            "1 tsp ground cinnamon",
+            "75g/2\u00beoz unsalted butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 8",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease and line a 20cm/8in springform cake tin.",
@@ -54,8 +61,9 @@
         "For the glaze, whisk the icing sugar and two tablespoons of milk together in a bowl. (Add a little extra milk if the mixture is too thick.)",
         "Spoon the glaze over the top of the cake and set aside for 10 minutes, or until the glaze hardens."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Use fresh cherries if you can get them, but use frozen or tinned when they\u2019re not in season."
     ],
+    "title": "Cherry streusel cake",
     "videos": "[]"
 }

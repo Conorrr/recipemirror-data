@@ -1,32 +1,30 @@
 {
-    "title": "Deep-filled lemon meringue pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "13",
-    "images": [
-        
-    ],
-    "description": "You could make the pastry case and lemon filling in advance then whip up the meringue just before baking this classic dessert.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b013y0nz": "Hairy Bikers' Meals on Wheels"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "You could make the pastry case and lemon filling in advance then whip up the meringue just before baking this classic dessert.",
+    "dishes": [
+        "bread",
+        "lemon_meringue_pie",
+        "meringue",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "200g/7oz plain flour, plus extra for dusting",
-            "1 tsp caster sugar",
-            "125g/4\u00bdoz cold butter, cut into cubes",
-            "1 free-range egg, beaten"
-        ],
         "For the lemon filling": [
             "50g/1\u00beoz cornflour",
             "350ml/12fl oz cold water",
@@ -38,7 +36,19 @@
             "3 free-range eggs whites",
             "175g/6oz caster sugar",
             "\u00bd tsp vanilla extract"
+        ],
+        "For the pastry": [
+            "200g/7oz plain flour, plus extra for dusting",
+            "1 tsp caster sugar",
+            "125g/4\u00bdoz cold butter, cut into cubes",
+            "1 free-range egg, beaten"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "13",
+    "serves": "Serves 6",
+    "show": {
+        "b013y0nz": "Hairy Bikers' Meals on Wheels"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Grease a 20cm/8in fluted flan tin.",
@@ -50,8 +60,9 @@
         "For the meringue topping, whisk the egg whites in a large bowl until stiff then gradually whisk in half the sugar. Add the vanilla extract and whisk in the remaining sugar.",
         "Stir the cooled lemon filling and pour into the pastry case. Cover very gently with large dessertspoonfuls of the meringue topping, starting at the sides then working your way into the middle, and gently swirl the top. Bake for 25 minutes or until the meringue is set and very lightly browned. Leave to cool before removing from the tin."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry"
+    "tips": [
+        
     ],
+    "title": "Deep-filled lemon meringue pie",
     "videos": "[]"
 }

@@ -1,24 +1,25 @@
 {
-    "title": "Berry baked Alaska",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "baked_alaska",
+        "icing",
+        "jam",
+        "meringue",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "caramelising_sugar",
+        "using_piping_bags"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the baked Alaska": [
@@ -35,6 +36,12 @@
             "1 tbsp icing sugar"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place the cornflakes into a small circle in the centre of a large plate and top with the ice cream.",
         "Whisk the egg whites until stiff peaks are formed, then whisk in the sugar until stiff glossy peaks are formed again.",
@@ -45,9 +52,9 @@
         "Pass the berry mixture through a fine sieve.",
         "To serve, spoon two tablespoons of the coulis around the baked Alaska."
     ],
-    "howTos": [
-        "caramelising_sugar",
-        "using_piping_bags"
+    "tips": [
+        
     ],
+    "title": "Berry baked Alaska",
     "videos": "[]"
 }

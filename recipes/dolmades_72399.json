@@ -1,24 +1,22 @@
 {
-    "title": "Dolmades",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 2",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/dolmades_72399_16x9.jpg"
-    ],
-    "description": "Once you get the hang of them, making dolmades (vine leaves stuffed with rice) is easy. These taste better than any shop-bought variety.",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "Serve with shredded lettuce, tomato and lemon wedges."
+    "cookTime": "30 mins to 1 hour",
+    "description": "Once you get the hang of them, making dolmades (vine leaves stuffed with rice) is easy. These taste better than any shop-bought variety.",
+    "dishes": [
+        "dolmades",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/dolmades_72399_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,6 +34,12 @@
             "1 lemon, juice only"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "4",
+    "serves": "Serves 2",
+    "show": {
+        
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "First, make the filling. In a bowl, combine the rice, meat, onion, herbs, celery, salt and pepper. Fold in the tomato pur\u00e9e.",
@@ -44,8 +48,9 @@
         "Pack the stuffed leaves in layers on top, pushing small pieces of garlic between them. Sprinkle with lemon juice and add around 150ml/5\u00bcfl oz cold water. Cover with oiled foil.",
         "Place the leaves in the oven for 45 minutes, adding extra water if necessary. Serve."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Serve with shredded lettuce, tomato and lemon wedges."
     ],
+    "title": "Dolmades",
     "videos": "[]"
 }

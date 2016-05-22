@@ -1,24 +1,22 @@
 {
-    "title": "Ciabatta",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "overnight",
-    "serves": "3 loaves",
-    "recommendations": "54",
-    "images": [
-        
-    ],
-    "description": "Expert baker Paul Hollywood is on hand to help you make the perfect homemade Italian bread.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Expert baker Paul Hollywood is on hand to help you make the perfect homemade Italian bread.",
+    "dishes": [
+        "bread",
+        "ciabatta",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "Ovenight preparation": [
@@ -33,6 +31,12 @@
             "12g/\u00bdoz salt"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "54",
+    "serves": "3 loaves",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "For the overnight preparation, mix the flour with the water in a large bowl and add the yeast. Whisk for three minutes and leave to rise overnight (or at least eight hours).",
         "To finish the bread, add the remaining flour and yeast to the bread mixture and mix well.",
@@ -45,8 +49,9 @@
         "Transfer the dough to the oven to bake for 25 minutes, or until risen and golden-brown.",
         "Remove from the oven and transfer to a wire rack to cool."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Ciabatta",
     "videos": "[]"
 }

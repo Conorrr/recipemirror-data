@@ -1,34 +1,29 @@
 {
-    "title": "Pear and cherry liqueur tart with chocolate sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Pear tart flavoured with kirsch and a little rosemary, served up with caramel and chocolate sauce.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Pear tart flavoured with kirsch and a little rosemary, served up with caramel and chocolate sauce.",
+    "dishes": [
+        "caramel",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "stir-fries",
+        "tarts"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "6 comice pears",
-            "125g/4\u00bdoz caster sugar",
-            "cherry liqueur or kirsch",
-            "1 lemon, zest and juice only",
-            "500g/1lb puff pastry, thawed if frozen",
-            "2 sprigs rosemary"
-        ],
         "For the caramel": [
             "125g/4\u00bdoz caster sugar",
             "25g/1oz butter, softened"
@@ -39,7 +34,21 @@
             "105ml/3\u00befl oz milk",
             "40g/1\u00bdoz caster sugar",
             "1 tbsp double cream"
+        ],
+        "default": [
+            "6 comice pears",
+            "125g/4\u00bdoz caster sugar",
+            "cherry liqueur or kirsch",
+            "1 lemon, zest and juice only",
+            "500g/1lb puff pastry, thawed if frozen",
+            "2 sprigs rosemary"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -57,8 +66,9 @@
         "Remove the tart from the oven and leave to rest for one minute before turning it out. To do this, place a plate on top of the pan and invert so that the tart slips out, pastry on the bottom, pears on top.",
         "Serve hot with the chocolate sauce and ice cream."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Pear and cherry liqueur tart with chocolate sauce",
     "videos": "[]"
 }

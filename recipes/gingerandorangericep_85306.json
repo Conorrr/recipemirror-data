@@ -1,26 +1,30 @@
 {
-    "title": "Ginger and orange rice pudding with caramelised mango",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "icing",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the caramelised mango": [
+            "\u00bd mango, peeled and halved",
+            "2 tbsp icing sugar"
+        ],
         "For the rice pudding": [
             "200ml/7fl oz water",
             "100g/3\u00bdoz caster sugar",
@@ -29,11 +33,13 @@
             "1 orange, zest only",
             "1 stalk lemongrass, lightly crushed",
             "4 tbsp double cream"
-        ],
-        "For the caramelised mango": [
-            "\u00bd mango, peeled and halved",
-            "2 tbsp icing sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the rice pudding, place the water into a saucepan, add the sugar and bring slowly to the boil.",
@@ -42,8 +48,9 @@
         "Meanwhile, for the caramelised mango, preheat the grill to medium. Dust the mango pieces generously with the icing sugar and place under the grill. Cook until warmed through and caramelised.",
         "To serve, place the rice pudding into serving bowls and top with the caramelised mango."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Ginger and orange rice pudding with caramelised mango",
     "videos": "[]"
 }

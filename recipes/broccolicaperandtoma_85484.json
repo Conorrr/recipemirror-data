@@ -1,24 +1,23 @@
 {
-    "title": "Broccoli, caper and tomato soup",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,14 +32,21 @@
             "handful fresh chives, chopped, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the butter in a large saucepan and gently fry the onion until softened but not coloured. Add the garlic and cook for one minute.",
         "Add the broccoli, capers, chopped tomato and stock to the pan and bring to the boil. Reduce the heat and simmer for 5-6 minutes, or until the broccoli is tender. Stir in the cream, remove from the heat and allow to cool slightly.",
         "Pour the soup into a food processor and blend until smooth. If necessary, return the soup to the pan and reheat gently.",
         "To serve, pour the soup into a bowl and sprinkle over the chives."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Broccoli, caper and tomato soup",
     "videos": "[]"
 }

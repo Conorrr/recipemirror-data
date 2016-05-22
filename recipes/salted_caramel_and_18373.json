@@ -1,40 +1,48 @@
 {
-    "title": "Salted caramel and chocolate mousse",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "Chocolate mousse is very easy to make and this version only needs an hour to chill before serving. This recipe comes from the chef's mother.",
     "author": {
         "michel_roux_jr": "Michel Roux Jr."
     },
-    "show": {
-        "b03mzc66": "Food & Drink"
-    },
-    "tips": [
-        "Chocolate can be tricky and sometimes seizes when temperatures change quickly, so it's always best to use eggs at room temperature. Any leftover sauce will keep for a few days in the fridge and is delicious drizzled over all sorts of desserts including ice cream, chocolate brownies and apple pie."
+    "cookTime": "10 to 30 mins",
+    "description": "Chocolate mousse is very easy to make and this version only needs an hour to chill before serving. This recipe comes from the chef's mother.",
+    "dishes": [
+        "caramel",
+        "mousse",
+        "pie",
+        "roux",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_fold_egg_whites_into_a_mixture",
+        "melting_chocolate"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the salted caramel sauce": [
-            "100g/3\u00bdoz granulated sugar",
-            "2 tbsp golden syrup",
-            "30g/1oz unsalted butter",
-            "80ml/2\u00befl oz double cream",
-            "\u00bd tsp sea salt"
-        ],
         "For the mousse": [
             "330g/11\u00bdoz dark chocolate (55-70% cocoa solids), chopped into small pieces",
             "30g/1oz unsalted butter",
             "8 free-range eggs, separated",
             "1 tbsp caster sugar",
             "whipped double cream, to serve"
+        ],
+        "For the salted caramel sauce": [
+            "100g/3\u00bdoz granulated sugar",
+            "2 tbsp golden syrup",
+            "30g/1oz unsalted butter",
+            "80ml/2\u00befl oz double cream",
+            "\u00bd tsp sea salt"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "8",
+    "serves": "Serves 4",
+    "show": {
+        "b03mzc66": "Food & Drink"
     },
     "steps": [
         "For the salted caramel sauce, place the sugar, two tablespoons water and golden syrup in a saucepan and bring to a boil, stirring occasionally. When the sugar has turned a rich amber colour, remove from the heat and stir in the butter, cream and salt. Pour into a bowl, cover the surface with clingfilm and cool completely.",
@@ -42,9 +50,9 @@
         "In a separate bowl, whisk the egg whites to a light foam then add the caster sugar and whisk again until soft peaks form when the whisk is removed. Stir a third of the egg whites into the chocolate mixture. Then carefully fold in the remaining egg whites until well incorporated.",
         "Pour a tablespoon of salted caramel sauce into the bottom of each serving glass. Top with one-third of the mousse mixture. Drizzle over enough sauce to cover the mousse. Repeat this layering with mousse and caramel, finishing with a final layer of mousse. Refrigerate for an hour before serving. If chilled for longer, remove 30 minutes before serving. Finish with a dollop of whipped cream."
     ],
-    "howTos": [
-        "how_to_fold_egg_whites_into_a_mixture",
-        "melting_chocolate"
+    "tips": [
+        "Chocolate can be tricky and sometimes seizes when temperatures change quickly, so it's always best to use eggs at room temperature. Any leftover sauce will keep for a few days in the fridge and is delicious drizzled over all sorts of desserts including ice cream, chocolate brownies and apple pie."
     ],
+    "title": "Salted caramel and chocolate mousse",
     "videos": "[p0239x1d:p0239x1g]"
 }

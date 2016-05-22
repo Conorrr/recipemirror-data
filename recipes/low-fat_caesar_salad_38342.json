@@ -1,33 +1,26 @@
 {
-    "title": "Low-fat Caesar salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This easy Caesar salad recipe uses all the ingredients you\u2019d expect to find, but varies the method to make it lighter.",
     "author": {
         "sophie_wright": "Sophie Wright"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "American",
+    "description": "This easy Caesar salad recipe uses all the ingredients you\u2019d expect to find, but varies the method to make it lighter.",
+    "dishes": [
+        "bread",
+        "caesar_salad",
+        "pie",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2-3 slices sourdough bread, depending on size",
-            "1 tsp olive oil",
-            "1 garlic clove, peeled",
-            "2 heads Cos lettuce, leaves separated and torn",
-            "1 tbsp finely grated parmesan cheese"
-        ],
         "For the dressing": [
             "1 free-range egg yolk",
             "4 anchovies in olive oil, drained, oil reserved",
@@ -37,7 +30,20 @@
             "25g/1oz parmesan cheese, finely grated",
             "30ml/1fl oz olive oil",
             "black pepper"
+        ],
+        "default": [
+            "2-3 slices sourdough bread, depending on size",
+            "1 tsp olive oil",
+            "1 garlic clove, peeled",
+            "2 heads Cos lettuce, leaves separated and torn",
+            "1 tbsp finely grated parmesan cheese"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Heat a griddle pan over a high heat until smoking. Drizzle the bread with a little oil and then rub with the garlic clove.",
@@ -46,8 +52,9 @@
         "With the motor running gradually trickle in the oil, a few drops at a time, until completely incorporated. If the dressing is too thick, add a little warm water (about two tablespoons) and blend again. Season to taste with black pepper.",
         "Put the lettuce into a serving bowl. Pour over some of the dressing and toss to mix and coat. Scatter over the cro\u00fbtons and the grated parmesan and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Low-fat Caesar salad",
     "videos": "[p018g7z8:p018g7zb]"
 }

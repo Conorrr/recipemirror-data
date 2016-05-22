@@ -1,31 +1,31 @@
 {
-    "title": "Crubeens (pig's trotters) with crisp pig's ears and egg and caper mayonnaise",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "clare_smyth": "Clare Smyth"
     },
-    "show": {
-        "b0071y6r": "Great British Menu"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "ham",
+        "mayonnaise",
+        "oven-baked_dishes",
+        "stir-fries",
+        "stock",
+        "terrine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "chopping_vegetables",
+        "picking_lobster",
+        "skimming_stock"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 small ham hock, washed",
-            "2 pig's trotters (approximately 550g/1lb 4oz in total)",
-            "2 pig's ears"
-        ],
         "For the brine": [
             "500g/17\u00bdoz salt",
             "3 litres/5 pints water"
@@ -39,6 +39,13 @@
             "1 bay leaf",
             "5 sprigs fresh thyme",
             "5 litres/8 pints brown chicken stock"
+        ],
+        "For the crisp pig's ears": [
+            "25g/1oz plain flour",
+            "pinch cayenne pepper",
+            "1 free-range egg, lightly beaten",
+            "100g/3\u00bdoz fine breadcrumbs",
+            "vegetable oil, for deep frying"
         ],
         "For the crubeens": [
             "2 tbsp grapeseed oil",
@@ -65,13 +72,17 @@
             "10 caper berries, stems removed, finely chopped",
             "salt and freshly ground black pepper"
         ],
-        "For the crisp pig's ears": [
-            "25g/1oz plain flour",
-            "pinch cayenne pepper",
-            "1 free-range egg, lightly beaten",
-            "100g/3\u00bdoz fine breadcrumbs",
-            "vegetable oil, for deep frying"
+        "default": [
+            "1 small ham hock, washed",
+            "2 pig's trotters (approximately 550g/1lb 4oz in total)",
+            "2 pig's ears"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b0071y6r": "Great British Menu"
     },
     "steps": [
         "For the brine, dissolve the salt in the water in a large pan, then add the ham hock and soak for 24 hours. Drain, then rinse and soak in a large pan of fresh water for another 24 hours.",
@@ -89,10 +100,9 @@
         "Remove the crubeens mixture from the terrine mould and cut into 2cm/1in cubes. Dust with flour, then dip into the beaten egg and coat in the breadcrumbs. Fry in the oil for 3-4 minutes, or until golden-brown and crisp. Remove with a slotted spoon and drain on kitchen paper.",
         "To serve, arrange the fried cubes of crubeens and the crisp pig's ears in between the slices of crubeens. Spoon over some of the egg mayonnaise."
     ],
-    "howTos": [
-        "chopping_vegetables",
-        "picking_lobster",
-        "skimming_stock"
+    "tips": [
+        
     ],
+    "title": "Crubeens (pig's trotters) with crisp pig's ears and egg and caper mayonnaise",
     "videos": "[]"
 }

@@ -1,40 +1,50 @@
 {
-    "title": "Tarte au citron",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 8",
-    "recommendations": "101",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/tarte_au_citron_94480_16x9.jpg"
-    ],
-    "description": "Mary Berry lets us into her secrets for a classic lemon tart. It can be made up to two days in advance, but don\u2019t decorate it until just before serving.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "To glaze the surface, dust generously with icing sugar then, using a blow torch, hold the flame just above the sugar and move it around until the sugar has caramelised, being careful not to burn the pastry edges. To decorate the tart like a French p\u00e2tisserie, pipe the word \u2019citron\u2019 in melted dark chocolate across the top of the cold tart."
+    "cookTime": "30 mins to 1 hour",
+    "description": "Mary Berry lets us into her secrets for a classic lemon tart. It can be made up to two days in advance, but don\u2019t decorate it until just before serving.",
+    "dishes": [
+        "bread",
+        "caramel",
+        "fruit_tart",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "patisserie",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/tarte_au_citron_94480_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pastry": [
-            "175g/6oz plain flour",
-            "100g/3\u00bdoz cold butter, cut into small cubes",
-            "25g/1oz icing sugar",
-            "1 free-range egg yolk",
-            "1 tbsp cold water"
-        ],
         "For the filling": [
             "5 free-range eggs",
             "125ml/4fl oz double cream",
             "225g/8oz caster sugar",
             "4 lemons, juice and zest",
             "icing sugar, for dusting"
+        ],
+        "For the pastry": [
+            "175g/6oz plain flour",
+            "100g/3\u00bdoz cold butter, cut into small cubes",
+            "25g/1oz icing sugar",
+            "1 free-range egg yolk",
+            "1 tbsp cold water"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "101",
+    "serves": "Serves 8",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "To make the pastry, place the flour, butter and icing sugar into a food processor. Pulse briefly until the mixture resembles breadcrumbs, then add the egg yolk and water.",
@@ -47,8 +57,9 @@
         "For the filling, break the eggs into a large bowl and whisk together with a wire whisk. Add the rest of the filling ingredients and whisk again until they are all well combined. Pour the filling mixture into a jug, then into the cooled baked pastry case. To prevent it spilling as it goes in the oven, pour in most of the filling so it almost fills the tart, carefully sit the baking sheet and tart on the oven shelf, then top up with the rest of the filling to completely fill it. Bake for about 30-35 minutes or until just set but with a slight wobble in the centre.",
         "Leave to cool slightly then, when the pastry seems firm enough, remove the tart from the tin. The easiest way to do this is to place the base of the tin on an upturned can or jam jar and let the outer ring fall to the work surface. Transfer the tart to a serving plate and serve warm or cold, dusted with sifted icing sugar."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry"
+    "tips": [
+        "To glaze the surface, dust generously with icing sugar then, using a blow torch, hold the flame just above the sugar and move it around until the sugar has caramelised, being careful not to burn the pastry edges. To decorate the tart like a French p\u00e2tisserie, pipe the word \u2019citron\u2019 in melted dark chocolate across the top of the cold tart."
     ],
+    "title": "Tarte au citron",
     "videos": "[]"
 }

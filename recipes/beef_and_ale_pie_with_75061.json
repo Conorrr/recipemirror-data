@@ -1,26 +1,36 @@
 {
-    "title": "Beef and ale pie with mushy peas",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 6-8",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "A hearty, warming pie of tender steak pieces in thick gravy, topped with pastry, and large enough to feed a crowd.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "A hearty, warming pie of tender steak pieces in thick gravy, topped with pastry, and large enough to feed a crowd.",
+    "dishes": [
+        "casserole",
+        "gravy",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the mushy peas": [
+            "225g/8oz dried marrowfat peas",
+            "1 tsp bicarbonate of soda",
+            "75g/2\u00bdoz unsalted butter",
+            "salt"
+        ],
         "default": [
             "2 tbsp vegetable oil",
             "1kg/2lb 4oz braising steak cut into 5cm/2in cubes",
@@ -35,13 +45,13 @@
             "300ml/10\u00bdfl oz hot reduced beef stock",
             "500g/1lb 2oz readymade puff pastry",
             "1 free-range egg, beaten"
-        ],
-        "For the mushy peas": [
-            "225g/8oz dried marrowfat peas",
-            "1 tsp bicarbonate of soda",
-            "75g/2\u00bdoz unsalted butter",
-            "salt"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "7",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the pie, heat a casserole or a large ovenproof pan over a high heat and add the oil. Once hot, add the steak pieces in batches and fry for 3-4 minutes, or until golden-brown on all sides, stirring regularly. Remove the cooked steak from the dish, transfer to a warm plate and set aside. Repeat the process with the remaining steak pieces, then set aside.",
@@ -60,8 +70,9 @@
         "The peas should be soft and mushy in texture but not too dry. If they are wet, continue cooking over the heat with the lid off to dry out a little. Beat in the butter and season to taste with salt.",
         "To serve, cut a slice of pie and place it on a plate and spoon some mushy peas on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef and ale pie with mushy peas",
     "videos": "[]"
 }

@@ -1,26 +1,30 @@
 {
-    "title": "Chicken chilli beer batter strips",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Who needs chicken nuggets when you can have strips of chicken in a crisp beer batter? Serve with salad as a light meal.",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b04gtx26": "A Taste of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Who needs chicken nuggets when you can have strips of chicken in a crisp beer batter? Serve with salad as a light meal.",
+    "dishes": [
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the beer batter": [
+            "280g/10oz plain white flour",
+            "pinch bicarbonate of soda",
+            "10fl oz/\u00bd pint beer, chilled",
+            "200ml/7fl oz sparkling water, chilled",
+            "1 egg white"
+        ],
         "default": [
             "2 chicken breasts, cut into equally-sized strips",
             "\u00bd lemon, juice only",
@@ -28,14 +32,13 @@
             "salt",
             "vegetable oil, for deep frying",
             "50g/1\u00beoz plain white flour"
-        ],
-        "For the beer batter": [
-            "280g/10oz plain white flour",
-            "pinch bicarbonate of soda",
-            "10fl oz/\u00bd pint beer, chilled",
-            "200ml/7fl oz sparkling water, chilled",
-            "1 egg white"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b04gtx26": "A Taste of Britain"
     },
     "steps": [
         "Put the chicken in a bowl and add the lemon juice, chilli powder and a pinch of salt. Mix, cover with cling film and transfer to the fridge to marinate for 20 minutes.",
@@ -45,8 +48,9 @@
         "For the chicken, put the flour on a plate. Toss the chicken in the flour until coated, shake off any excess and dip in the batter.",
         "Deep-fry the chicken for 6-8 minutes, or until crisp, golden-brown and cooked through with no sign of pink in the juices when you cut the thickest strip in half. Remove using a slotted spoon and drain on kitchen paper. Season with salt and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken chilli beer batter strips",
     "videos": "[]"
 }

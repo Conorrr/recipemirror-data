@@ -1,24 +1,28 @@
 {
-    "title": "Curried cauliflower soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This smooth, creamy soup is a soothing and luxurious winter dish that can easily be jazzed up for guests.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b06s5h9c": "Home Comforts at Christmas"
-    },
-    "tips": [
-        "The poached eggs can be kept in the fridge for up to 48 hours until ready to use."
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "This smooth, creamy soup is a soothing and luxurious winter dish that can easily be jazzed up for guests.",
+    "dishes": [
+        "bread",
+        "curry",
+        "jam",
+        "prepare-ahead_desserts",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -37,6 +41,12 @@
             "1 tbsp chopped fresh coriander or parsley leaves, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b06s5h9c": "Home Comforts at Christmas"
+    },
     "steps": [
         "Heat 1 tablespoon of the rapeseed oil in a deep-sided saut\u00e9 pan over a medium heat. Add the onion and fry for 1-2 minutes, or until just softened. Stir in the curry powder and cook for a further minute, then add the cauliflower and stir-fry for 2-3 minutes.",
         "Pour in the milk and vegetable stock and bring the soup to the boil, then reduce the heat until the soup is simmering and simmer gently for 12-15 minutes, or until the cauliflower florets are just tender.",
@@ -48,8 +58,9 @@
         "When ready to serve, bring a pan of water to the boil, then remove it from the heat and gently lower the poached eggs into the water all at once to reheat for 30-60 seconds, or until hot throughout.",
         "Serve the soup in bowls and garnish each portion with a poached egg, a scattering of cro\u00fbtons and herbs, and a drizzle of the remaining rapeseed oil."
     ],
-    "howTos": [
-        
+    "tips": [
+        "The poached eggs can be kept in the fridge for up to 48 hours until ready to use."
     ],
+    "title": "Curried cauliflower soup",
     "videos": "[p03b256y:p03b257d]"
 }

@@ -1,26 +1,38 @@
 {
-    "title": "Baked ham with cider and spices, quince and orange sauce",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 8",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lotte_duncan": "Lotte Duncan"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "ham",
+        "jelly",
+        "oven-baked_dishes",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "skimming_stock"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Quince and Orange Sauce": [
+            "3 tbsp (45g) quince jelly",
+            "grated rind and juice of 3 oranges",
+            "grated rind and juice of 1 lemon",
+            "2tsp (10g) whole grain mustard",
+            "1 tsp (5ml) red wine vinegar",
+            "honey to taste",
+            "a little reserved stock"
+        ],
         "default": [
             "1 x 4lb (1.8kg) gammon ham",
             "cold water (enough to cover the ham in a pot)",
@@ -35,16 +47,13 @@
             "\u00bd tsp (2.5g) ground cloves",
             "\u00bd tsp (2.5g) ground cinnamon",
             "a few cloves"
-        ],
-        "For the Quince and Orange Sauce": [
-            "3 tbsp (45g) quince jelly",
-            "grated rind and juice of 3 oranges",
-            "grated rind and juice of 1 lemon",
-            "2tsp (10g) whole grain mustard",
-            "1 tsp (5ml) red wine vinegar",
-            "honey to taste",
-            "a little reserved stock"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "8",
+    "serves": "Serves 8",
+    "show": {
+        
     },
     "steps": [
         "Soak the ham overnight in cold water. Drain and put the ham into a large saucepan with the cider and apple juice and top up with cold water until you just cover it.",
@@ -57,8 +66,9 @@
         "Stir in the mustard and vinegar and add the honey to taste. Add a little of the stock if necessary.",
         "To serve, slice up the ham, pour over a little sauce."
     ],
-    "howTos": [
-        "skimming_stock"
+    "tips": [
+        
     ],
+    "title": "Baked ham with cider and spices, quince and orange sauce",
     "videos": "[]"
 }

@@ -1,26 +1,30 @@
 {
-    "title": "Clam chowder",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "American",
+    "description": "",
+    "dishes": [
+        "bread",
+        "chowder",
+        "jam",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "1 tbsp roughly chopped fresh flatleaf parsley",
+            "sourdough bread, sliced"
+        ],
         "default": [
             "500g/1lb 2oz clams",
             "75ml/3fl oz water",
@@ -33,11 +37,13 @@
             "1 bay leaf",
             "pinch grated nutmeg",
             "salt and freshly ground white pepper"
-        ],
-        "To serve": [
-            "1 tbsp roughly chopped fresh flatleaf parsley",
-            "sourdough bread, sliced"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Clean the clams and discard any which do not close when tapped.",
@@ -49,8 +55,9 @@
         "Stir in the clams and season, to taste, with salt and freshly ground white pepper.",
         "To serve, divide the chowder among four serving bowls, sprinkle over the parsley and serve with sourdough bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Clam chowder",
     "videos": "[]"
 }

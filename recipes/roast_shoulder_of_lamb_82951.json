@@ -1,26 +1,35 @@
 {
-    "title": "Roast shoulder of lamb with roast potatoes and spring greens",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "28",
-    "images": [
-        
-    ],
-    "description": "Try James Martin's simple recipe for a lamb roast dinner with all the trimmings.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Try James Martin's simple recipe for a lamb roast dinner with all the trimmings.",
+    "dishes": [
+        "bun",
+        "gravy",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "roast_lamb",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "de-glazing_pans"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the mint sauce": [
+            "large bunch fresh mint, leaves picked, finely chopped",
+            "75ml/3fl oz malt vinegar",
+            "25g/1oz caster sugar"
+        ],
         "For the roast lamb": [
             "200g/7oz salt",
             "3 tbsp chopped fresh rosemary leaves",
@@ -39,12 +48,13 @@
             "25g/1oz butter",
             "250g/9oz spring greens, finely sliced",
             "50ml/2fl oz water"
-        ],
-        "For the mint sauce": [
-            "large bunch fresh mint, leaves picked, finely chopped",
-            "75ml/3fl oz malt vinegar",
-            "25g/1oz caster sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "28",
+    "serves": "Serves 4-6",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the roast lamb, preheat the oven to 170C/325F/Gas 3.",
@@ -67,8 +77,9 @@
         "Heat the vinegar and sugar in a saucepan until simmering and pour the mixture onto the mint. Stir until well combined.",
         "To serve, using a knife and fork, pull large pieces of meat away from the bone and arrange on a large serving place. Set some roasted potatoes alongside with the spring greens. Finish with a spoonful of mint sauce and a good drizzle of gravy."
     ],
-    "howTos": [
-        "de-glazing_pans"
+    "tips": [
+        
     ],
+    "title": "Roast shoulder of lamb with roast potatoes and spring greens",
     "videos": "[]"
 }

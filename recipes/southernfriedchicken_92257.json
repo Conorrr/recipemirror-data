@@ -1,26 +1,44 @@
 {
-    "title": "Southern fried chicken with spicy tomato ketchup and coleslaw",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "",
+    "dishes": [
+        "bread",
+        "coleslaw",
+        "jam",
+        "ketchup",
+        "mayonnaise",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the coleslaw": [
+            "2 free-range egg yolks",
+            "1 tbsp white wine vinegar",
+            "1 tbsp English mustard",
+            "200ml/7fl oz rapeseed oil",
+            "90ml/3\u00bdfl oz olive oil",
+            "2 tbsp cold water",
+            "\u00bd lemon, juice only",
+            "250g/9oz carrots, peeled, finely shredded",
+            "300g/10\u00bdoz white cabbage, finely shredded",
+            "1 red onion, peeled, finely sliced",
+            "3 tbsp roughly chopped fresh flatleaf parsley"
+        ],
         "For the southern fried chicken": [
             "1 x 2kg/4lb 7oz chicken, cut into 8 portions",
             "3 free-range egg whites",
@@ -46,20 +64,13 @@
             "Tabasco sauce, to taste",
             "1 tbsp tomato pur\u00e9e",
             "1 tsp cornflour, mixed with 1 tsp water (optional)"
-        ],
-        "For the coleslaw": [
-            "2 free-range egg yolks",
-            "1 tbsp white wine vinegar",
-            "1 tbsp English mustard",
-            "200ml/7fl oz rapeseed oil",
-            "90ml/3\u00bdfl oz olive oil",
-            "2 tbsp cold water",
-            "\u00bd lemon, juice only",
-            "250g/9oz carrots, peeled, finely shredded",
-            "300g/10\u00bdoz white cabbage, finely shredded",
-            "1 red onion, peeled, finely sliced",
-            "3 tbsp roughly chopped fresh flatleaf parsley"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -77,8 +88,9 @@
         "Place the carrots, cabbage, onion and parsley into a bowl and add enough mayonnaise to lightly coat.",
         "To serve, divide the chicken pieces among four serving plates and spoon the coleslaw alongside. Spoon the tomato ketchup into small ramekins or sauce bowls and serve alongside."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Southern fried chicken with spicy tomato ketchup and coleslaw",
     "videos": "[]"
 }

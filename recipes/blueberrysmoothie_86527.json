@@ -1,24 +1,20 @@
 {
-    "title": "Blueberry smoothie",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "michael_caines": "Michael Caines"
     },
-    "show": {
-        "b007yk5b": "Countryfile Summer Diaries"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "smoothie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,12 +24,19 @@
             "170g/6oz blueberries (defrosted if frozen)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b007yk5b": "Countryfile Summer Diaries"
+    },
     "steps": [
         "Place all the ingredients into a blender and blend until smooth.",
         "To serve, pour into glasses."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Blueberry smoothie",
     "videos": "[]"
 }

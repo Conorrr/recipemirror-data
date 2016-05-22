@@ -1,26 +1,30 @@
 {
-    "title": "Pan-fried souffl\u00e9 with creamy mustard sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce",
+        "souffle"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "3 tbsp white wine",
+            "100ml/3\u00bdfl oz double cream",
+            "1 tbsp wholegrain mustard",
+            "1 tbsp chopped fresh chives"
+        ],
         "default": [
             "6 tbsp double cream",
             "125g/4\u00bdoz cheddar cheese, grated",
@@ -29,13 +33,13 @@
             "2 tbsp chopped fresh chives",
             "1 tbsp butter",
             "2 tbsp plain flour"
-        ],
-        "For the sauce": [
-            "3 tbsp white wine",
-            "100ml/3\u00bdfl oz double cream",
-            "1 tbsp wholegrain mustard",
-            "1 tbsp chopped fresh chives"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -46,8 +50,9 @@
         "For the sauce, place the white wine and cream, mustard and chives into a saucepan over a medium heat and bring to a simmer. Cook for two minutes and remove from the heat.",
         "To serve, place the souffl\u00e9 into the centre of the plate and drizzle the sauce around."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pan-fried souffl\u00e9 with creamy mustard sauce",
     "videos": "[]"
 }

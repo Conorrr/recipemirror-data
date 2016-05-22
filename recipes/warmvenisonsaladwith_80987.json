@@ -1,39 +1,42 @@
 {
-    "title": "Warm venison salad with raspberry sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "segmenting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "1tbsp olive oil",
+            "110g/4oz raspberries",
+            "freshly ground black pepper",
+            "\u00bd lemon, juice only"
+        ],
         "default": [
             "110g/4oz spinach leaves",
             "1 orange, peeled and cut into segments",
             "drizzle of vegetable oil",
             "1 venison steak",
             "salt and freshly ground black pepper"
-        ],
-        "For the sauce": [
-            "1tbsp olive oil",
-            "110g/4oz raspberries",
-            "freshly ground black pepper",
-            "\u00bd lemon, juice only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "To make the salad, place the spinach leaves, orange segments and oil in a large bowl and toss together.",
@@ -42,8 +45,9 @@
         "For the sauce, blend the olive oil, raspberries, pepper and a squeeze of lemon juice in a blender to combine. Pass through a sieve into a clean bowl to remove the pips.",
         "To serve, transfer the salad to a large serving bowl and drizzle the raspberry sauce over."
     ],
-    "howTos": [
-        "segmenting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Warm venison salad with raspberry sauce",
     "videos": "[]"
 }

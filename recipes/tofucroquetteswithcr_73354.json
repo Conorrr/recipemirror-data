@@ -1,26 +1,31 @@
 {
-    "title": "Tofu croquettes with cranberry sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 12 croquettes",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/tofucroquetteswithcr_73354_16x9.jpg"
-    ],
-    "description": "Try these easy fried patties with a quick homemade cranberry sauce.",
     "author": {
         "vegan_society": "Vegan Society"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "Slightly softer tofu will work better in this recipe."
+    "cookTime": "10 to 30 mins",
+    "description": "Try these easy fried patties with a quick homemade cranberry sauce.",
+    "dishes": [
+        "bread",
+        "bun",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/tofucroquetteswithcr_73354_16x9.jpg"
+    ],
     "ingredients": {
+        "For the cranberry sauce": [
+            "100g/3\u00bdoz sugar",
+            "250g/9oz fresh or frozen cranberries",
+            "100ml/3\u00bdfl oz fresh orange juice",
+            "1 orange, finely grated zest only (optional)"
+        ],
         "For the tofu croquettes": [
             "400g/14oz semi-firm tofu, rinsed and drained, grated",
             "1 small bunch spring onions, white part only, finely chopped",
@@ -31,13 +36,13 @@
             "100g/3\u00bdoz fine dry breadcrumbs",
             "salt and freshly ground black pepper, to taste",
             "vegetable oil, for frying"
-        ],
-        "For the cranberry sauce": [
-            "100g/3\u00bdoz sugar",
-            "250g/9oz fresh or frozen cranberries",
-            "100ml/3\u00bdfl oz fresh orange juice",
-            "1 orange, finely grated zest only (optional)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 12 croquettes",
+    "show": {
+        
     },
     "steps": [
         "To make the tofu croquettes, use your hands to mix together all the croquette ingredients. The result should be a soft dough. Add the flour to make this hold together, and flavour to taste with thyme, salt and pepper.",
@@ -46,8 +51,9 @@
         "For the cranberry sauce, add all the ingredients together in a pan and cook gently for 10-15 minutes, until the cranberries soften and burst in their skins and the sauce thickens.",
         "Serve the tofu croquettes with the cranberry sauce alongside."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Slightly softer tofu will work better in this recipe."
     ],
+    "title": "Tofu croquettes with cranberry sauce",
     "videos": "[]"
 }

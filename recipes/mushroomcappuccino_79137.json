@@ -1,24 +1,21 @@
 {
-    "title": "Mushroom cappuccino",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +28,12 @@
             "pinch of nutmeg"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "In a saucepan heat the butter and oil together. Cook the mushrooms and garlic for three minutes.",
         "Add the stock and cook for five minutes.",
@@ -38,8 +41,9 @@
         "Using the hand blender blend until frothy.",
         "Serve in a cappucino cup."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mushroom cappuccino",
     "videos": "[]"
 }

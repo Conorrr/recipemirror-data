@@ -1,24 +1,23 @@
 {
-    "title": "Spiced berry whip",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "icing",
+        "jam",
+        "meringue"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "using_piping_bags",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,15 +31,21 @@
             "icing sugar, to dust"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Pour the cordial into a tall glass.",
         "Place the yoghurt, orange zest, double cream, whisked egg whites and meringue into a bowl and mix together.",
         "Spoon the mixture into a piping bag. Dip the piping bag into the cordial at the bottom of the glass and squeeze out the cream mixture all the way up to the top.",
         "Garnish with mint and dust with the icing sugar."
     ],
-    "howTos": [
-        "using_piping_bags",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Spiced berry whip",
     "videos": "[]"
 }

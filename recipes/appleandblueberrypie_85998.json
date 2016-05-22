@@ -1,24 +1,25 @@
 {
-    "title": "Apple and blueberry pie",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b00728v4": "Sweet Baby James"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "apple_pie",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stew"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,6 +34,12 @@
             "clotted cream, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "6",
+    "show": {
+        "b00728v4": "Sweet Baby James"
+    },
     "steps": [
         "Butter 6 x 7.5cm/3in dariole moulds (or a 22cm/9in ovenproof dish if you want to make one large pie).",
         "Roll out two-thirds of the pastry on a floured work surface using a rolling pin. With a pastry cutter the size of the dariole moulds, cut out six discs large enough to line the dariole moulds; line the bottom and sides of the buttered moulds with the pastry discs (or if making one pie, cut out a large circle of pastry to line the buttered dish). Transfer to the fridge to chill.",
@@ -45,8 +52,9 @@
         "Make decorations (such as leaves) by cutting out any pastry trimmings with a sharp knife and stick them on with a little water. Brush the pastry lids with a little lightly beaten egg then dredge with caster sugar.",
         "Bake for 15 minutes, until the fruit is tender and the top is golden-brown. Serve hot with clotted cream"
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Apple and blueberry pie",
     "videos": "[]"
 }

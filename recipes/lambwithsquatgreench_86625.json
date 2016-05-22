@@ -1,26 +1,34 @@
 {
-    "title": "Lamb with green chillies",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "12",
-    "images": [
-        
-    ],
-    "description": "Hot with whole green chillies and sour with tamarind, this intensely flavoured lamb curry is so easy.",
     "author": {
         "anjum_anand": "Anjum Anand"
     },
-    "show": {
-        "b007szxr": "Indian Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "Hot with whole green chillies and sour with tamarind, this intensely flavoured lamb curry is so easy.",
+    "dishes": [
+        "curry",
+        "lamb_curry",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the curry": [
+            "3 tbsp vegetable oil",
+            "\u00be tsp nigella seeds (available from Asian grocers)",
+            "1 tsp cumin seeds",
+            "500ml/17fl oz water",
+            "5-8 fat, short green chillies, slit through the middle, seeds removed, but otherwise left intact",
+            "2-3 tsp fresh tamarind paste",
+            "2 handfuls fresh coriander, leaves and stalks, chopped"
+        ],
         "For the marinade": [
             "1 tsp ground turmeric",
             "1 tsp ground fennel seeds",
@@ -32,16 +40,13 @@
             "1 medium onion, chopped",
             "2 medium tomatoes, chopped",
             "800g/1lb 12oz lamb shoulder, cut into small cubes"
-        ],
-        "For the curry": [
-            "3 tbsp vegetable oil",
-            "\u00be tsp nigella seeds (available from Asian grocers)",
-            "1 tsp cumin seeds",
-            "500ml/17fl oz water",
-            "5-8 fat, short green chillies, slit through the middle, seeds removed, but otherwise left intact",
-            "2-3 tsp fresh tamarind paste",
-            "2 handfuls fresh coriander, leaves and stalks, chopped"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "12",
+    "serves": "Serves 4",
+    "show": {
+        "b007szxr": "Indian Food Made Easy"
     },
     "steps": [
         "For the marinade, place all the ingredients, excluding the lamb, for the marinade into a food processor and blend until smooth.",
@@ -52,8 +57,9 @@
         "Halfway through cooking the lamb, heat the remaining oil in a small pan and gently fry the chillies for two minutes, stirring often. Pour into the curry.",
         "Once the lamb is cooked, uncover and stir in the tamarind paste. Taste and adjust the seasoning, add a little extra water if necessary, and stir in the coriander. Serve with naan or rice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb with green chillies",
     "videos": "[]"
 }

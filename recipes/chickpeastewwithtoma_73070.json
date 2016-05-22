@@ -1,26 +1,35 @@
 {
-    "title": "Chickpea stew with tomatoes and green chilli",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4 (or 8 as a side dish)",
-    "recommendations": "29",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickpeastewwithtoma_73070_16x9.jpg"
-    ],
-    "description": "This hearty vegetarian stew is quick and easy to prepare. Serve with yoghurt and pitta breads. Each serving provides 257kcal, 11g protein, 27g carbohydrate (of which 7g sugars), 10g fat (of which 1g saturates), 10g fibre and 1.3g salt.",
     "author": {
         "bill_granger": "Bill Granger"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This hearty vegetarian stew is quick and easy to prepare. Serve with yoghurt and pitta breads. Each serving provides 257kcal, 11g protein, 27g carbohydrate (of which 7g sugars), 10g fat (of which 1g saturates), 10g fibre and 1.3g salt.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pie",
+        "prepare-ahead_desserts",
+        "stew",
+        "stir-fries",
+        "veggie_stew"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickpeastewwithtoma_73070_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "plain yoghurt",
+            "pitta bread",
+            "olive oil",
+            "salt and freshly ground black pepper",
+            "paprika"
+        ],
         "default": [
             "2 tbsp olive oil",
             "1 red onion, finely sliced",
@@ -35,14 +44,13 @@
             "freshly ground black pepper",
             "500g/17\u00bdoz cherry tomatoes",
             "100g/3\u00bdoz baby English spinach leaves"
-        ],
-        "To serve": [
-            "plain yoghurt",
-            "pitta bread",
-            "olive oil",
-            "salt and freshly ground black pepper",
-            "paprika"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "29",
+    "serves": "Serves 4 (or 8 as a side dish)",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Heat a large deep frying pan over a medium to high heat.",
@@ -55,8 +63,9 @@
         "Bake in a moderate oven for 10-12 minutes or until crisp.",
         "Serve with the stew on a warmed plate."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chickpea stew with tomatoes and green chilli",
     "videos": "[]"
 }

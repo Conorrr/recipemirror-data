@@ -1,26 +1,27 @@
 {
-    "title": "Sea bass and salmon ceviche",
-    "cookTime": "no cooking required",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "Mexican",
+    "description": "",
+    "dishes": [
+        "ceviche",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "segmenting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "6 slices French toast"
+        ],
         "default": [
             "250g/8\u00beoz very fresh sea bass fillets",
             "250g/8\u00beoz very fresh salmon fillets",
@@ -32,10 +33,13 @@
             "1 garlic clove, crushed",
             "salt and freshly ground black pepper",
             "1 tbsp chopped fresh mint"
-        ],
-        "To serve": [
-            "6 slices French toast"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Cut the sea bass and salmon fillets into 2.5cm/1in pieces.",
@@ -45,8 +49,9 @@
         "Just before serving add the mint to the bowl and mix to combine.",
         "To serve, place a spoonful of the mixture onto each plate. Garnish each plate with a few of the grapefruit segments and serve with French toast."
     ],
-    "howTos": [
-        "segmenting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Sea bass and salmon ceviche",
     "videos": "[]"
 }

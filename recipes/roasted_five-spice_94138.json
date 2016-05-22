@@ -1,26 +1,32 @@
 {
-    "title": "Roasted five-spice breast of duck with sauce bigarade and cavolo nero",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A simple but classy meal for two \u2013 duck breast roasted with Christmas spices and served with a rich, citrus sauce.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b04v6210": "Christmas Kitchen with James Martin"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A simple but classy meal for two \u2013 duck breast roasted with Christmas spices and served with a rich, citrus sauce.",
+    "dishes": [
+        "caramel",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "testing_cooked_poultry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cavolo nero": [
+            "50g/1\u00beoz unsalted butter",
+            "1 head cavolo nero, roughly chopped"
+        ],
         "For the duck": [
             "2 star anise",
             "1 cinnamon stick",
@@ -36,11 +42,13 @@
             "1 tbsp sherry or balsamic vinegar",
             "300ml/10fl oz chicken stock",
             "25g/1oz unsalted butter, cut into small pieces"
-        ],
-        "For the cavolo nero": [
-            "50g/1\u00beoz unsalted butter",
-            "1 head cavolo nero, roughly chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b04v6210": "Christmas Kitchen with James Martin"
     },
     "steps": [
         "For the duck, preheat the oven to 220C/200C Fan/Gas 7.",
@@ -52,8 +60,9 @@
         "For the cavolo nero, heat a saut\u00e9 pan and add the butter and 2 tablespoons of water. Once hot add the cavolo nero and cook for 2 minutes, until wilted.",
         "To serve, cut the duck into 8 pieces and place on a serving plate. Add the cavolo nero and pour over the sauce."
     ],
-    "howTos": [
-        "testing_cooked_poultry"
+    "tips": [
+        
     ],
+    "title": "Roasted five-spice breast of duck with sauce bigarade and cavolo nero",
     "videos": "[]"
 }

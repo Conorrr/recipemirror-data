@@ -1,24 +1,21 @@
 {
-    "title": "Chocolate Chantilly",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "heston_blumenthal": "Heston Blumenthal"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "chocolate_dessert",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -26,13 +23,20 @@
             "225g/8oz best-quality bitter chocolate, broken into pieces"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Put the chocolate and water into a pan and melt over a medium heat, stirring occasionally.",
         "Have two bowls ready, one that will sit inside the other. Into the bigger bowl, put some ice and a little water, and place the smaller bowl in it.",
         "Pour the melted chocolate into the smaller bowl and whisk with an electric mixer until the mixture thickens and takes on the appearance of whipped cream. If you over-whip the chocolate mix, simply tip it back into the pan and start again."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chocolate Chantilly",
     "videos": "[]"
 }

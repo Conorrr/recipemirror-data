@@ -1,26 +1,70 @@
 {
-    "title": "Spicy fish tagine with harissa couscous and shredded green beans",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "A spice rub, harissa paste and fresh chermoula marinade bring layers of flavour to this meal for four.",
     "author": {
         "the_weaver_family": "The Weaver family"
     },
-    "show": {
-        "b00sy9ws": "The Hairy Bikers' Cook Off"
-    },
-    "tips": [
-        "You can make the spice mix, chermoula and harissa in advance. Store the mixture in jars in the fridge."
+    "cookTime": "no cooking required",
+    "cusine": "North_African",
+    "description": "A spice rub, harissa paste and fresh chermoula marinade bring layers of flavour to this meal for four.",
+    "dishes": [
+        "bun",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "seafood",
+        "stir-fries",
+        "stock",
+        "tagine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chermoula": [
+            "1 tsp coriander seeds",
+            "1 tsp cumin seeds",
+            "1 lemon, finely grated zest and juice",
+            "\u00bd orange, finely grated zest only",
+            "handful coriander leaves, chopped"
+        ],
+        "For the couscous": [
+            "knob of butter",
+            "300g/10oz couscous",
+            "handful green sultanas, roughly chopped",
+            "1 heaped tbsp harissa (see above)",
+            "1 tbsp olive oil",
+            "\u00bd tbsp lemon juice"
+        ],
+        "For the green beans": [
+            "400g/14oz green beans, very finely sliced",
+            "50g/2oz toasted flaked almonds",
+            "olive oil, for drizzling",
+            ""
+        ],
+        "For the harissa": [
+            "2 tbsp paprika",
+            "1-2 tbsp cayenne pepper",
+            "1-2 tbsp ground cumin",
+            "1 tbsp ground caraway",
+            "1 tbsp ground coriander",
+            "2 red chillies, seeds removed, flesh finely chopped",
+            "2 tsp salt",
+            "6 tbsp olive oil",
+            "1-2 tbsp tomato pur\u00e9e",
+            "3 garlic cloves, crushed",
+            "bunch fresh coriander",
+            "\u00bd lemon, juice only"
+        ],
+        "For the seafood": [
+            "2 large skinless cod fillets (each weighing about 200g/7oz), chopped into large pieces",
+            "4-8 scallops",
+            "8-12 raw king prawns"
+        ],
         "For the spice mix": [
             "3 tsp coriander seeds",
             "3 tsp cumin seeds",
@@ -45,47 +89,13 @@
             "200g/7oz pitted black olives",
             "1 large orange, grated zest and juice",
             "handful coriander leaves, chopped, to garnish"
-        ],
-        "For the chermoula": [
-            "1 tsp coriander seeds",
-            "1 tsp cumin seeds",
-            "1 lemon, finely grated zest and juice",
-            "\u00bd orange, finely grated zest only",
-            "handful coriander leaves, chopped"
-        ],
-        "For the seafood": [
-            "2 large skinless cod fillets (each weighing about 200g/7oz), chopped into large pieces",
-            "4-8 scallops",
-            "8-12 raw king prawns"
-        ],
-        "For the harissa": [
-            "2 tbsp paprika",
-            "1-2 tbsp cayenne pepper",
-            "1-2 tbsp ground cumin",
-            "1 tbsp ground caraway",
-            "1 tbsp ground coriander",
-            "2 red chillies, seeds removed, flesh finely chopped",
-            "2 tsp salt",
-            "6 tbsp olive oil",
-            "1-2 tbsp tomato pur\u00e9e",
-            "3 garlic cloves, crushed",
-            "bunch fresh coriander",
-            "\u00bd lemon, juice only"
-        ],
-        "For the couscous": [
-            "knob of butter",
-            "300g/10oz couscous",
-            "handful green sultanas, roughly chopped",
-            "1 heaped tbsp harissa (see above)",
-            "1 tbsp olive oil",
-            "\u00bd tbsp lemon juice"
-        ],
-        "For the green beans": [
-            "400g/14oz green beans, very finely sliced",
-            "50g/2oz toasted flaked almonds",
-            "olive oil, for drizzling",
-            ""
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b00sy9ws": "The Hairy Bikers' Cook Off"
     },
     "steps": [
         "For the spice mix, dry-fry the coriander and cumin seeds over a medium heat for 1-2 minutes until aromatic. Tip into a mini food processor, add the remaining spice mix ingredients and blend to a paste (alternatively use a pestle and mortar).",
@@ -100,8 +110,9 @@
         "Just before serving, add the chermoula-coated seafood to the tagine and simmer for 3-4 minutes or until the seafood is opaque and the prawns are pink.",
         "Serve the tagine with the harissa couscous and the green beans alongside. Garnish with coriander."
     ],
-    "howTos": [
-        
+    "tips": [
+        "You can make the spice mix, chermoula and harissa in advance. Store the mixture in jars in the fridge."
     ],
+    "title": "Spicy fish tagine with harissa couscous and shredded green beans",
     "videos": "[]"
 }

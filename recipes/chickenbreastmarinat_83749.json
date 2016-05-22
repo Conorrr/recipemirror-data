@@ -1,26 +1,29 @@
 {
-    "title": "Spicy chicken kebabs",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenbreastmarinat_83749_16x9.jpg"
-    ],
-    "description": "Get maximum flavour by marinating the chicken in this spicy, low-fat yoghurt mix. Equipment: You will need kebab skewers to make this recipe on the barbecue.",
     "author": {
         "elizabeth_guy": "Elizabeth Guy"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "If you are using wooden skewers soak them in water for 30 minutes."
+    "cookTime": "10 to 30 mins",
+    "description": "Get maximum flavour by marinating the chicken in this spicy, low-fat yoghurt mix. Equipment: You will need kebab skewers to make this recipe on the barbecue.",
+    "dishes": [
+        "bread",
+        "curry",
+        "kebab",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenbreastmarinat_83749_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "green salad",
+            "pitta bread"
+        ],
         "default": [
             "3 tbsp low-fat natural yoghurt",
             "1 tsp garam masala or curry powder",
@@ -29,11 +32,13 @@
             "2 tsp fresh chopped coriander, optional",
             "1 fresh red chilli, finely chopped (optional)",
             "4 x 150g/5\u00bd chicken breasts, cubed"
-        ],
-        "To serve": [
-            "green salad",
-            "pitta bread"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Mix together the yoghurt, garam masala, chilli powder, lime juice, coriander and red chilli.",
@@ -42,8 +47,9 @@
         "Thread the chicken onto the kebab skewers and cook on the barbecue until the chicken is tender and cooked all the way through.",
         "Serve with salad and pitta bread."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If you are using wooden skewers soak them in water for 30 minutes."
     ],
+    "title": "Spicy chicken kebabs",
     "videos": "[]"
 }

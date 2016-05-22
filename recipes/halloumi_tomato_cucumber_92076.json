@@ -1,24 +1,21 @@
 {
-    "title": "Halloumi, tomato, cucumber and couscous grain bowl",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/halloumi_tomato_cucumber_92076_16x9.jpg"
-    ],
-    "description": "A refreshingly easy lunch option that will help you on your way to eating five-a-day.",
     "author": {
         "emily_angle": "Emily Angle"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A refreshingly easy lunch option that will help you on your way to eating five-a-day.",
+    "dishes": [
+        "couscous_salad",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "how_to_make_couscous"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/halloumi_tomato_cucumber_92076_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,14 +29,21 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "",
+    "show": {
+        
+    },
     "steps": [
         "Cook the couscous according to packet instructions.",
         "Heat a griddle pan over a high heat. Add the halloumi slices and griddle for 3-4 minutes, or until golden brown stripes appear on the cheese surface.",
         "Place the couscous in the bowl you plan to eat from and add the halloumi, tomato, cucumber, olives and mint.",
         "Drizzle liberally with the oil and season with salt and pepper. Eat straight away or pack in your lunchbox ready to take to work."
     ],
-    "howTos": [
-        "how_to_make_couscous"
+    "tips": [
+        
     ],
+    "title": "Halloumi, tomato, cucumber and couscous grain bowl",
     "videos": "[]"
 }

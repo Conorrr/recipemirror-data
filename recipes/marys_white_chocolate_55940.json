@@ -1,30 +1,42 @@
 {
-    "title": "White chocolate and ginger cheesecake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "36",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/marys_white_chocolate_55940_16x9.jpg"
-    ],
-    "description": "This wintry ginger and chocolate cheesecake is perfect for jazzing up the dessert selection at Christmas. If you want to make life a little easier for yourself you can simply grate chocolate on top of the cheesecake instead of making the decorations.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "Preparation is key at Christmas, this dessert can be made three days ahead and kept in the fridge."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "This wintry ginger and chocolate cheesecake is perfect for jazzing up the dessert selection at Christmas. If you want to make life a little easier for yourself you can simply grate chocolate on top of the cheesecake instead of making the decorations.",
+    "dishes": [
+        "biscuit",
+        "cake",
+        "cheesecake",
+        "icing",
+        "marzipan",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "how_to_pipe_chocolate_decorations"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/marys_white_chocolate_55940_16x9.jpg"
     ],
     "ingredients": {
         "For the base": [
             "50g/1\u00beoz butter, plus extra for greasing",
             "25g/1oz plain chocolate",
             "150g/5\u00bdoz digestive biscuits, crushed"
+        ],
+        "For the decoration": [
+            "150g/5\u00bdoz plain chocolate, melted",
+            "few drops red food colouring",
+            "25g/1oz marzipan",
+            "icing sugar, for dusting",
+            "300ml/10\u00bdfl oz double cream"
         ],
         "For the filling": [
             "300g/10\u00bdoz white chocolate buttons, or a bar chopped into pieces",
@@ -33,14 +45,13 @@
             "2 free-range eggs",
             "1 tsp vanilla extract",
             "4 pieces stem ginger (from a jar), finely chopped"
-        ],
-        "For the decoration": [
-            "150g/5\u00bdoz plain chocolate, melted",
-            "few drops red food colouring",
-            "25g/1oz marzipan",
-            "icing sugar, for dusting",
-            "300ml/10\u00bdfl oz double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "36",
+    "serves": "Serves 8",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 170C/150C Fan/Gas 3. Grease the base of a 20cm/8in springform cake tin with butter, then line with a circle of baking parchment.",
@@ -57,8 +68,9 @@
         "Whip the cream until soft peaks form when the whisk is removed, then spoon into a piping bag fitted with a star nozzle. Pipe eight rosettes or swirls around the edge of the top of the cheesecake and one rosette or swirl in the middle.",
         "Place one chocolate holly leaf and three holly berries in the centre of each swirl of cream, then arrange three chocolate holly leaves and the remaining marzipan berries on top of the central swirl of cream. Serve immediately."
     ],
-    "howTos": [
-        "how_to_pipe_chocolate_decorations"
+    "tips": [
+        "Preparation is key at Christmas, this dessert can be made three days ahead and kept in the fridge."
     ],
+    "title": "White chocolate and ginger cheesecake",
     "videos": "[]"
 }

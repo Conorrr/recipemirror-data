@@ -1,23 +1,26 @@
 {
-    "title": "Fisherman's soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "mitch_tonks": "Mitch Tonks"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "broth",
+        "fish_soup",
+        "pie",
+        "prepare-ahead_desserts",
+        "seafood",
+        "soup",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "separating_eggs"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -47,6 +50,12 @@
             "slices of grilled bread"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "For the aioli, peel the garlic cloves and crush them to a paste on a chopping board with the tip of a knife. Sprinkle a pinch of sea salt over the garlic cloves to help in the crushing.",
         "Place the crushed garlic in a clean bowl with the mustard. Separate the eggs and add the yolks to the bowl with the garlic and mustard (you can use the whites for another purpose). Whisk thoroughly. While still whisking, add some of the vegetable oil in a steady stream. Continue adding oil, alternating between vegetable oil and olive oil, until a thick emulsion is formed.",
@@ -64,8 +73,9 @@
         "To serve, spread the aioli onto the grilled bread slices and place a slice into each of four shallow bowls. Ladle over some of the broth into each bowl.",
         "Place the pan of fish and shellfish, along with the remaining aioli and extra bread slices, onto the table for diners to help themselves."
     ],
-    "howTos": [
-        "separating_eggs"
+    "tips": [
+        
     ],
+    "title": "Fisherman's soup",
     "videos": "[]"
 }

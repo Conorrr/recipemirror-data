@@ -1,23 +1,20 @@
 {
-    "title": "Mushroom, cheese and bacon burger with saut\u00e9ed potatoes and onions",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "beef_burger",
+        "ciabatta"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "caramelising_sugar"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -29,22 +26,28 @@
             "salt and freshly ground black pepper",
             "1 tbsp olive oil"
         ],
-        "For the toppings": [
-            "1 tbsp olive oil",
-            "2 rashers bacon",
-            "\u00bd onion, cut into wedges",
-            "50g/2oz mushrooms, sliced"
-        ],
         "For the saut\u00e9ed potatoes": [
             "2 tbsp olive oil",
             "1 small potato, peeled and cut into small cubes, blanched and drained",
             "1 tsp chopped fresh rosemary",
             "1 garlic clove, chopped"
         ],
+        "For the toppings": [
+            "1 tbsp olive oil",
+            "2 rashers bacon",
+            "\u00bd onion, cut into wedges",
+            "50g/2oz mushrooms, sliced"
+        ],
         "To serve": [
             "2 slices ciabatta, toasted",
             "50g/2oz Port Salut cheese"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the burger, place the mince, onion, garlic, rosemary and seasoning into a bowl and mix well. Using your hands, shape the mixture into a large patty.",
@@ -55,8 +58,9 @@
         "For the saut\u00e9ed potatoes, heat the olive oil in a frying pan and saut\u00e9 the potato cubes for five minutes, stirring occasionally. Add the rosemary and garlic and fry for a further minute.",
         "To serve, place one slice of toasted ciabatta onto a serving plate and top with the burger, the mushrooms and the cheese. Using a mini-blowtorch, heat the cheese until slightly melted. Top with the bacon, followed by the other slice of toasted ciabatta. Scatter the fried onions and saut\u00e9ed potatoes around the plate."
     ],
-    "howTos": [
-        "caramelising_sugar"
+    "tips": [
+        
     ],
+    "title": "Mushroom, cheese and bacon burger with saut\u00e9ed potatoes and onions",
     "videos": "[]"
 }

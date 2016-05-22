@@ -1,23 +1,22 @@
 {
-    "title": "Chicken chasseur with mashed potato",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "11",
-    "images": [
-        
-    ],
-    "description": "A classic dish of tender chicken cooked in white wine, served with mash.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A classic dish of tender chicken cooked in white wine, served with mash.",
+    "dishes": [
+        "jam",
+        "pie",
+        "sauce",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -45,6 +44,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "For the chicken, season the chicken with salt and black pepper. Heat a large frying pan or saut\u00e9 pan until hot. Add the oil and half the butter. Fry the chicken skin-side down for 1-2 minutes, or until golden-brown.",
         "Turn and fry on the other side for another 1-2 minutes, then remove from the pan.",
@@ -61,8 +66,9 @@
         "Season to taste with salt and black pepper.",
         "Serve each person two pieces of chicken with the sauce spooned over and a dollop of mash."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken chasseur with mashed potato",
     "videos": "[]"
 }

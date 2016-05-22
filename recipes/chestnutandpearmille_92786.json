@@ -1,26 +1,32 @@
 {
-    "title": "Chestnut and pear millefeuille",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "matt_tebbutt": "Matt Tebbutt"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "icing",
+        "millefeuille",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the caramel": [
+            "200g/7oz caster sugar",
+            "400ml/14fl oz double cream"
+        ],
         "For the millefeuilles": [
             "500g/1lb 2oz all-butter puff pastry, rolled out onto a lightly dusted work surface to a thickness of 3mm, cut into 12 rectangles 16cm x 8cm/6in x 3in",
             "2 small pears, peeled, cores removed, cut into thin slices lengthways",
@@ -29,11 +35,13 @@
             "1 tbsp dark rum",
             "250g/9oz canned sweetened chestnut pur\u00e9e",
             "110g/4oz cooked chestnuts, finely chopped"
-        ],
-        "For the caramel": [
-            "200g/7oz caster sugar",
-            "400ml/14fl oz double cream"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5.",
@@ -48,8 +56,9 @@
         "Place another piece of puff pastry on top of each millefeuille. Spread another layer of chestnut cream onto the puff pastry, then top with a few more slices of pear. Finish each millefeuille with a third puff pastry rectangle. Dust with icing sugar.",
         "To serve, spoon the caramel cream sauce into the centre of four serving plates and place one millefeuille into the centre of each plate."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chestnut and pear millefeuille",
     "videos": "[]"
 }

@@ -1,23 +1,22 @@
 {
-    "title": "Banana and blueberry ice cream",
-    "cookTime": "no cooking required",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This simple, luscious ice cream recipe requires no ice-cream machine - perfect when whipping up a quick dessert.",
     "author": {
         "kate_morris_and_sally_brown": "Kate Morris and Sally Brown"
     },
-    "show": {
-        "b00w1ddl": "I Can Cook"
-    },
-    "tips": [
-        "This recipe can be frozen for up to three days. Do not use defrosted mascarpone to make this recipe."
+    "cookTime": "no cooking required",
+    "description": "This simple, luscious ice cream recipe requires no ice-cream machine - perfect when whipping up a quick dessert.",
+    "dishes": [
+        "biscuit",
+        "ice_cream",
+        "icing",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -30,14 +29,21 @@
             "wafer biscuits, to serve"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b00w1ddl": "I Can Cook"
+    },
     "steps": [
         "In a bowl, mix together the lemon juice and mascarpone until well combined.",
         "Stir in the icing sugar, then the blueberries and mashed banana.",
         "Transfer the ice cream mixture to a freezeable, lidded container. Freeze for at least two hours, or until solid.",
         "To serve, scoop the ice cream into bowls and sprinkle with blueberries. Serve with a wafer biscuit."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This recipe can be frozen for up to three days. Do not use defrosted mascarpone to make this recipe."
     ],
+    "title": "Banana and blueberry ice cream",
     "videos": "[]"
 }

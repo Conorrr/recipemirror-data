@@ -1,26 +1,30 @@
 {
-    "title": "Chicken breasts with fennel",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "michel_roux": "Michel Roux"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "roux"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the marinade": [
+            "2 tbsp clear honey",
+            "2 lemons, juice only",
+            "4 tbsp olive oil",
+            "pinch salt",
+            "pinch cayenne pepper"
+        ],
         "default": [
             "4 boneless chicken breasts",
             "2 fennel bulbs",
@@ -29,14 +33,13 @@
             "30g/1oz butter",
             "2 tbsp fresh fennel seeds",
             "salt and freshly ground black pepper"
-        ],
-        "For the marinade": [
-            "2 tbsp clear honey",
-            "2 lemons, juice only",
-            "4 tbsp olive oil",
-            "pinch salt",
-            "pinch cayenne pepper"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Mix all the marinade ingredients in a wide, shallow bowl, adding a little salt. Add the chicken breasts and turn them to coat thoroughly. Cover with cling film and leave for 1 hour, turning them halfway.",
@@ -46,8 +49,9 @@
         "Put the chicken breasts in the hot griddle pan, skin side down. Once they are marked with lines, quarter-turn to make a lattice pattern. Turn them over, lower the heat and give them a quarter-turn as before. Cook for 12-15 minutes in total, depending on thickness.",
         "Arrange the fennel slices on plates and top with the chicken. Place the carrots alongside. Put a knob of butter on each chicken breast and top with fennel seeds."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken breasts with fennel",
     "videos": "[]"
 }

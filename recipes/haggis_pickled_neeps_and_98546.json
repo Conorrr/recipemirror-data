@@ -1,26 +1,33 @@
 {
-    "title": "Haggis, pickled neeps and tatties",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Make haggis extra special with a few tasty tweaks to the Scottish classic.",
     "author": {
         "tom_kitchin": "Tom Kitchin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Make haggis extra special with a few tasty tweaks to the Scottish classic.",
+    "dishes": [
+        "haggis",
+        "oven-baked_dishes",
+        "pickle",
+        "pie",
+        "sausage",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the crispy potatoes": [
+            "1 large potato, sliced thinly on a mandoline",
+            "4 tsp clarified butter",
+            "salt, to taste"
+        ],
         "For the pickled neeps": [
             "1 litre/1\u00be vegetable stock",
             "200ml/7fl oz white wine vinegar",
@@ -47,12 +54,13 @@
             "\u00bd pork belly skin",
             "butter, for greasing",
             "1 whole haggis (cooked)"
-        ],
-        "For the crispy potatoes": [
-            "1 large potato, sliced thinly on a mandoline",
-            "4 tsp clarified butter",
-            "salt, to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the neeps, boil all the ingredients, except the turnip, in a pan. Remove from the heat, add the turnip and leave to infuse for 2-3 hours so it takes on the sweet and sour flavours of the pickling liquid.",
@@ -63,8 +71,9 @@
         "For the crispy potatoes, mix the potato slices with the clarified butter and salt in a non-stick frying pan. Fan out the slices to make 4 circles about 5cm/2in wide, cook on a gentle heat until crisp then set aside.",
         "Once steamed, slice the haggis into 5cm/2in portions and place on serving plates. Top with the pickled neeps and put the crispy potato alongside. Pour over some of the reserved pork cooking liquor and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Haggis, pickled neeps and tatties",
     "videos": "[]"
 }

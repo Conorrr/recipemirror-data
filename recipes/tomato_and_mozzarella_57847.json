@@ -1,32 +1,27 @@
 {
-    "title": "Tomato and mozzarella tarts with rocket pesto",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Make the fresh taste of tomato and mozzarella tarts extra special by making your own rough puff pastry.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Make the fresh taste of tomato and mozzarella tarts extra special by making your own rough puff pastry.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pesto",
+        "pie",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "250g/9oz plain flour, plus extra for dusting",
-            "250g/9oz very cold butter, cut into small cubes",
-            "\u00bd tsp salt",
-            "125ml/4fl oz ice cold water"
-        ],
         "For the rocket pesto": [
             "110g/4oz rocket leaves",
             "\u00bd garlic clove",
@@ -40,7 +35,19 @@
             "25ml/1fl oz olive oil",
             "1 free-range egg yolk, beaten",
             "handful fresh basil, to serve"
+        ],
+        "default": [
+            "250g/9oz plain flour, plus extra for dusting",
+            "250g/9oz very cold butter, cut into small cubes",
+            "\u00bd tsp salt",
+            "125ml/4fl oz ice cold water"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the rough puff pastry, place the flour in a mound on a clean work surface and make a deep well in the centre using your fingers.",
@@ -62,8 +69,9 @@
         "Bake in the oven for 12-15 minutes, or until the pastry is golden-brown.",
         "To serve, garnish the tarts with a little more pesto and some fresh basil leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tomato and mozzarella tarts with rocket pesto",
     "videos": "[]"
 }

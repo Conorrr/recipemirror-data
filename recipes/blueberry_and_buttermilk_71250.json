@@ -1,26 +1,30 @@
 {
-    "title": "Blueberry and buttermilk panna cotta",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "overnight",
-    "serves": "Makes 5",
-    "recommendations": "9",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/blueberry_and_buttermilk_71250_16x9.jpg"
-    ],
-    "description": "This dessert dish of rich buttermilk panna cotta studded with jewels of blueberries and a blueberry sauce is a great make-ahead pud.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b03hcv64": "Paul Hollywood's Pies & Puds"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This dessert dish of rich buttermilk panna cotta studded with jewels of blueberries and a blueberry sauce is a great make-ahead pud.",
+    "dishes": [
+        "panna_cotta",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/blueberry_and_buttermilk_71250_16x9.jpg"
+    ],
     "ingredients": {
+        "For the blueberry sauce": [
+            "100g/3\u00bdoz caster sugar",
+            "1 star anise",
+            "100g/3\u00bdoz blueberries"
+        ],
         "For the panna cotta": [
             "300ml/10fl oz double cream",
             "70g/2\u00bdoz caster sugar",
@@ -28,12 +32,13 @@
             "2\u00bd sheets gelatine, soaked in a bowl of cold water (or use a vegetarian alternative)",
             "300ml/10fl oz buttermilk",
             "90g/3\u00bcoz blueberries"
-        ],
-        "For the blueberry sauce": [
-            "100g/3\u00bdoz caster sugar",
-            "1 star anise",
-            "100g/3\u00bdoz blueberries"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "9",
+    "serves": "Makes 5",
+    "show": {
+        "b03hcv64": "Paul Hollywood's Pies & Puds"
     },
     "steps": [
         "Warm the cream, sugar and vanilla in a pan until the sugar has dissolved and the cream just comes to the boil.",
@@ -44,8 +49,9 @@
         "Remove from the heat and add the blueberries. Leave to cool and the syrup will turn a deep red colour and the blueberries will soften.",
         "To serve, run a knife around the panna cotta to loosen it. Tip out onto serving plates and pour over a little of the blueberry sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Blueberry and buttermilk panna cotta",
     "videos": "[]"
 }

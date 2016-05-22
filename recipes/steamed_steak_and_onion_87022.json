@@ -1,29 +1,29 @@
 {
-    "title": "Steamed steak and onion pudding with mashed potato",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 5",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Spend some quality time in the kitchen this weekend making this pudding. It\u2019s well worth the effort.",
     "author": {
         "lawrence_keogh": "Lawrence Keogh"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Spend some quality time in the kitchen this weekend making this pudding. It\u2019s well worth the effort.",
+    "dishes": [
+        "pastry",
+        "pie",
+        "sauce",
+        "steamed_pudding",
+        "stir-fries",
+        "stock",
+        "upside-down_cake"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "sealing_steamed_puddings"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 kg/4lb 4oz beef bones"
-        ],
         "For the filling": [
             "1.2kg/2lb 13oz beef shin, diced",
             "225g/8oz plain flour, seasoned with salt and freshly ground black pepper",
@@ -34,6 +34,19 @@
             "1 fresh bouquet garni",
             "salt and freshly ground black pepper"
         ],
+        "For the mash": [
+            "300g/11oz King Edward potatoes, peeled and cut into chunks",
+            "50g/2oz butter",
+            "110ml/4fl oz double cream",
+            "salt and freshly ground black pepper"
+        ],
+        "For the pudding": [
+            "butter, for greasing",
+            "500g/1lb 2oz self-raising flour, plus extra for dusting",
+            "250g/9oz beef suet",
+            "325ml/12fl oz water",
+            "pinch salt"
+        ],
         "For the sauce": [
             "1 litre/1\u00be pints chicken stock",
             "1 litre/1\u00be pints beef stock",
@@ -43,19 +56,15 @@
             "salt and freshly ground black pepper",
             "200g/7oz bone marrow from beef bones (see above)"
         ],
-        "For the pudding": [
-            "butter, for greasing",
-            "500g/1lb 2oz self-raising flour, plus extra for dusting",
-            "250g/9oz beef suet",
-            "325ml/12fl oz water",
-            "pinch salt"
-        ],
-        "For the mash": [
-            "300g/11oz King Edward potatoes, peeled and cut into chunks",
-            "50g/2oz butter",
-            "110ml/4fl oz double cream",
-            "salt and freshly ground black pepper"
+        "default": [
+            "2 kg/4lb 4oz beef bones"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "5",
+    "serves": "Serves 5",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "The day before you start, soak the beef bones in water until the marrow is soft enough to push out of the bones. Soak the bone marrow in water for 24 hours, changing the water four times in total, then drain and cut it into thick slices.",
@@ -81,8 +90,9 @@
         "Just before serving, add the bone marrow to the sauce and heat until the bone marrow has melted and the sauce has warmed through.",
         "To serve, place one slice of pudding onto each of five serving plates. Spoon the sauce over the pudding and serve the mash alongside."
     ],
-    "howTos": [
-        "sealing_steamed_puddings"
+    "tips": [
+        
     ],
+    "title": "Steamed steak and onion pudding with mashed potato",
     "videos": "[]"
 }

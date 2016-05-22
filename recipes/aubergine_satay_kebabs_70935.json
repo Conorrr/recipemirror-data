@@ -1,24 +1,24 @@
 {
-    "title": "Aubergine satay kebabs",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/aubergine_satay_kebabs_70935_16x9.jpg"
-    ],
-    "description": "Big south-east Asian flavours please the palate and work wonderfully well in vegetarian dishes. Serve these kebabs with buttered jasmine rice. Equipment and preparation: You\u2019ll need 4 x soaked wooden skewers.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Big south-east Asian flavours please the palate and work wonderfully well in vegetarian dishes. Serve these kebabs with buttered jasmine rice. Equipment and preparation: You\u2019ll need 4 x soaked wooden skewers.",
+    "dishes": [
+        "kebab",
+        "pie",
+        "satay",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/aubergine_satay_kebabs_70935_16x9.jpg"
     ],
     "ingredients": {
         "For the aubergine": [
@@ -41,6 +41,12 @@
             "salt"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Mix the aubergine cubes and olive oil until well combined. Season with salt and freshly ground black pepper.",
         "Heat a griddle pan over a medium heat and grill the aubergine pieces on all sides, or until cooked through.",
@@ -50,8 +56,9 @@
         "Add the peanuts and simmer for 8-10 minutes, or until the sauce is thick. Add salt and lemon juice, to taste.",
         "Serve the aubergine kebabs drizzled with the peanut sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Aubergine satay kebabs",
     "videos": "[]"
 }

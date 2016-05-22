@@ -1,26 +1,34 @@
 {
-    "title": "Gymkhana chicken pie",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "From Bombay\u2019s Gymnkhana club, this recipe has stood the test of the time. Atul Kochhar's version may have changed few ingredients but it still tastes just as good.",
     "author": {
         "atul_kochhar": "Atul Kochhar"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "From Bombay\u2019s Gymnkhana club, this recipe has stood the test of the time. Atul Kochhar's version may have changed few ingredients but it still tastes just as good.",
+    "dishes": [
+        "chicken_pie",
+        "curry",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the crust": [
+            "1 tsp coriander seeds",
+            "\u00bd tsp cumin seeds",
+            "1 tsp fennel seeds",
+            "1 tsp black sesame seeds"
+        ],
         "default": [
             "1 tbsp coconut or vegetable oil",
             "2 cloves",
@@ -41,13 +49,13 @@
             "400ml/14fl oz coconut milk",
             "110g/4oz ready made puff pastry sheet",
             "1 free-range egg, beaten, to brush the pastry"
-        ],
-        "For the crust": [
-            "1 tsp coriander seeds",
-            "\u00bd tsp cumin seeds",
-            "1 tsp fennel seeds",
-            "1 tsp black sesame seeds"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4-6",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -59,8 +67,9 @@
         "For the curst, use a mortar and pestle to crush the coriander, cumin, fennel and sesame seeds together.",
         "Brush the top of the pie with the beaten egg before sprinkling the spice crust over the top. Place the pie into the oven and cook for 10-15 minutes or until the pastry is golden-brown and crisp at the edges. Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Gymkhana chicken pie",
     "videos": "[]"
 }

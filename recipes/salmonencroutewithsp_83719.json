@@ -1,26 +1,33 @@
 {
-    "title": "Salmon en croute with spinach, cream cheese and orange",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 6",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "elizabeth_guy": "Elizabeth Guy"
     },
-    "show": {
-        "b007yk5b": "Countryfile Summer Diaries"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "bun",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "salad",
+        "salmon_en_croute",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "new potatoes",
+            "fresh green salad"
+        ],
         "default": [
             "1 medium salmon, skinned and filleted",
             "1 orange, juice and zest",
@@ -31,11 +38,13 @@
             "freshly grated black pepper",
             "1 x 200g/7oz cream cheese",
             "1 free-range egg, beaten"
-        ],
-        "To serve": [
-            "new potatoes",
-            "fresh green salad"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "6",
+    "serves": "Serves 6",
+    "show": {
+        "b007yk5b": "Countryfile Summer Diaries"
     },
     "steps": [
         "If you have time the night before, put the salmon in a bowl and squeeze over the orange juice. Cover and leave in the fridge until you're ready to cook the dish. Set the orange zest aside.",
@@ -53,8 +62,9 @@
         "Bake in the centre of the oven for about 40 minutes, reducing the temperature to 150C/300F/Gas 2 after 20 minutes.",
         "Serve in slices with new potatoes and a fresh green salad."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Salmon en croute with spinach, cream cheese and orange",
     "videos": "[]"
 }

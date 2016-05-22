@@ -1,23 +1,19 @@
 {
-    "title": "Smoked salmon and asparagus salad with poached egg",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "salad"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -29,17 +25,23 @@
             "1 tbsp clear honey",
             "salt and freshly ground black pepper"
         ],
+        "For the poached egg": [
+            "1 free-range egg",
+            "1 tbsp white vine vinegar",
+            "salt and freshly ground black pepper"
+        ],
         "For the salad": [
             "\u00bc fennel bulb, thinly sliced",
             "100g/3\u00bdoz new potatoes, boiled, drained, cooled and quartered",
             "4 asparagus spears, blanched, refreshed in cold water and chopped",
             "75g/2\u00beoz smoked salmon, thinly sliced"
-        ],
-        "For the poached egg": [
-            "1 free-range egg",
-            "1 tbsp white vine vinegar",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the dressing, place all of the dressing ingredients into a bowl and whisk together, then season to taste with salt and freshly ground black pepper.",
@@ -48,8 +50,9 @@
         "Remove the egg from the water using a slotted spoon and drain on kitchen paper.",
         "To serve, place the salad onto a plate with the salmon and poached egg on top."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Smoked salmon and asparagus salad with poached egg",
     "videos": "[]"
 }

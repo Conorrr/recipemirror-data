@@ -1,26 +1,31 @@
 {
-    "title": "Paneer, mushroom and spinach wrap",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 5",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "If you can't be bothered to make all the bits, the wrap works well without the mushrooms and also without the paneer; the spinach paste is the only necessary element. I sometimes make this with tofu when I have some lying around.",
     "author": {
         "anjum_anand": "Anjum Anand"
     },
-    "show": {
-        "b007szxr": "Indian Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "If you can't be bothered to make all the bits, the wrap works well without the mushrooms and also without the paneer; the spinach paste is the only necessary element. I sometimes make this with tofu when I have some lying around.",
+    "dishes": [
+        "oven-baked_dishes",
+        "paneer",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the paneer": [
+            "2 tbsp vegetable oil",
+            "100ml/3\u00bdfl oz water",
+            "300-350g/10-12oz paneer, cut into 2.5cm/1in cubes",
+            "\u00bd small onion, thinly sliced"
+        ],
         "For the spinach paste": [
             "225g/8oz baby spinach leaves, washed",
             "45g/1\u00beoz fresh coriander, leaves and stalks",
@@ -45,16 +50,16 @@
             "2 tbsp water",
             "200g/7oz Portobello mushrooms, cleaned, boiled for 15 minutes, cooled and thickly sliced"
         ],
-        "For the paneer": [
-            "2 tbsp vegetable oil",
-            "100ml/3\u00bdfl oz water",
-            "300-350g/10-12oz paneer, cut into 2.5cm/1in cubes",
-            "\u00bd small onion, thinly sliced"
-        ],
         "To serve": [
             "5 ready-made flour tortillas, wrapped in foil and placed in the oven for the last five minutes of cooking",
             "You'll need 5-6 wooden skewers, soaked in water for half an hour"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 5",
+    "show": {
+        "b007szxr": "Indian Food Made Easy"
     },
     "steps": [
         "For the spinach paste, place all the spinach paste ingredients into a blender and blend until smooth.",
@@ -64,8 +69,9 @@
         "Meanwhile, thread the marinated mushrooms onto skewers, place onto an oiled baking sheet and transfer to the oven. Bake for 20 minutes, turning halfway through the cooking time. Once cooked, add the mushrooms to the paneer mixture.",
         "To serve, divide the filling into five portions and place each portion onto a warmed tortilla. Roll up and cut on the diagonal."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Paneer, mushroom and spinach wrap",
     "videos": "[]"
 }

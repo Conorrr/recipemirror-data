@@ -1,26 +1,41 @@
 {
-    "title": "Quick sausage casserole with Savoy cabbage pesto",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "26",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/quick_sausage_casserole_96047_16x9.jpg"
-    ],
-    "description": "This comforting casserole is ready in no time, and the crusty topping and zingy pesto add gourmet pizzazz. Equipment and preparation: for this recipe you will need a food processor.",
     "author": {
         "tom_kerridge": "Tom Kerridge"
     },
-    "show": {
-        "b03mzc66": "Food & Drink"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "This comforting casserole is ready in no time, and the crusty topping and zingy pesto add gourmet pizzazz. Equipment and preparation: for this recipe you will need a food processor.",
+    "dishes": [
+        "bread",
+        "casserole",
+        "pesto",
+        "pizza",
+        "sausage",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/quick_sausage_casserole_96047_16x9.jpg"
+    ],
     "ingredients": {
+        "For the pesto": [
+            "\u00bd small Savoy cabbage, root removed, leaves separated and washed",
+            "small handful fresh flatleaf parsley",
+            "50g/1\u00beoz Parmesan",
+            "50g/1\u00beoz pine nuts",
+            "\u00bd garlic clove, grated",
+            "150ml/5fl oz olive oil, plus extra for drizzling",
+            "2-3 slices white bread",
+            "1 unwaxed lemon, zest only",
+            "salt and freshly ground black pepper"
+        ],
         "For the sausage casserole": [
             "3-4 tbsp vegetable oil",
             "150g/5oz streaky bacon, roughly chopped",
@@ -35,18 +50,13 @@
             "100ml/3\u00bdfl oz dry white wine",
             "400ml/14fl oz hot chicken stock",
             "2 bay leaves"
-        ],
-        "For the pesto": [
-            "\u00bd small Savoy cabbage, root removed, leaves separated and washed",
-            "small handful fresh flatleaf parsley",
-            "50g/1\u00beoz Parmesan",
-            "50g/1\u00beoz pine nuts",
-            "\u00bd garlic clove, grated",
-            "150ml/5fl oz olive oil, plus extra for drizzling",
-            "2-3 slices white bread",
-            "1 unwaxed lemon, zest only",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "26",
+    "serves": "Serves 4",
+    "show": {
+        "b03mzc66": "Food & Drink"
     },
     "steps": [
         "For the sausage casserole, heat the vegetable oil in a wide, shallow ovenproof pan (or flameproof casserole) over a medium heat. Add the bacon and fry until crisp and golden-brown, then remove from the pan and set aside to drain on kitchen paper.",
@@ -59,8 +69,9 @@
         "Blend the bread, lemon zest and the remaining chopped cabbage leaves in the food processor.",
         "Preheat the grill to a medium setting. When the casserole has cooked, drizzle the pesto all over the surface, then sprinkle over the breadcrumb mixture. Drizzle the breadcrumb mixture with a little olive oil. Transfer the casserole to the grill and grill until the crust is toasted and golden-brown. Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Quick sausage casserole with Savoy cabbage pesto",
     "videos": "[]"
 }

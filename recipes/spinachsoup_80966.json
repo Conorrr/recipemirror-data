@@ -1,24 +1,21 @@
 {
-    "title": "Spinach soup",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,13 +30,20 @@
             "spinach leaf, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the olive oil in a frying pan. Gently fry the garlic and leek for 2 minutes until soft.",
         "Add the spinach and wilt. Add the potato and pour over the chicken or vegetable stock. Season well with salt and freshly ground black pepper and cook for 10 minutes until cooked. Cool slightly, place in a food processor and liquidise.",
         "To serve, pour the soup into a warm bowl, drizzle the cream and garnish with the spinach leaf."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spinach soup",
     "videos": "[]"
 }

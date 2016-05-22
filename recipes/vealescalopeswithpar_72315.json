@@ -1,26 +1,32 @@
 {
-    "title": "Veal escalopes with prosciutto, sage and mozzarella",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "p0077hxk": "Saturday Brunch"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "ham",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the green beans": [
+            "300g/10\u00bdoz green beans",
+            "1 tbsp olive oil",
+            "handful chopped mint",
+            "1 lemon, juice only",
+            "1 clove garlic, sliced thinly"
+        ],
         "default": [
             "4 175g/6oz veal escalopes or 4 275g/10oz chops",
             "8 fresh sage leaves, 4 finely chopped",
@@ -34,14 +40,13 @@
             "1 ball buffalo mozzarella, cut into 8 slices",
             "4 tbsp dry white wine",
             "4 tbsp veal stock"
-        ],
-        "For the green beans": [
-            "300g/10\u00bdoz green beans",
-            "1 tbsp olive oil",
-            "handful chopped mint",
-            "1 lemon, juice only",
-            "1 clove garlic, sliced thinly"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "p0077hxk": "Saturday Brunch"
     },
     "steps": [
         "Place the escalopes or chops on a board, cover them with cling film and beat each one with a meat mallet or rolling pin until they are about 5mm/\u00bcin thick.",
@@ -53,8 +58,9 @@
         "For the green beans - steam the green beans until tender.",
         "Toss with the remaining ingredients and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Veal escalopes with prosciutto, sage and mozzarella",
     "videos": "[]"
 }

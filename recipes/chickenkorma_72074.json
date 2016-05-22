@@ -1,23 +1,21 @@
 {
-    "title": "Chicken korma",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "keith_floyd": "Keith Floyd"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "pie",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -41,6 +39,12 @@
             "1 lemon, juice only"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Melt the ghee or clarified butter in a large pan and fry the onions until golden brown.",
         "Remove from the pan with a slotted spoon and put to one side.",
@@ -50,8 +54,9 @@
         "Remove the pan from the heat, pour in the lemon juice and mix well.",
         "Remove the bay leaves and serve with plain boiled rice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken korma",
     "videos": "[]"
 }

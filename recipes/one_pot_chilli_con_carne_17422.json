@@ -1,26 +1,30 @@
 {
-    "title": "One pot chilli con carne",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "This simple chilli is a one-pot wonder, serve with rice for a filling meal on a budget.",
     "author": {
         "lisa_faulkner": "Lisa Faulkner"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Mexican",
+    "description": "This simple chilli is a one-pot wonder, serve with rice for a filling meal on a budget.",
+    "dishes": [
+        "casserole",
+        "chilli_con_carne",
+        "ketchup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "350g/12oz brown or white rice"
+        ],
         "default": [
             "1 large onion",
             "1 garlic clove",
@@ -33,10 +37,13 @@
             "2 tbsp tomato ketchup",
             "400g tin kidney beans, drained and rinsed",
             "salt and pepper"
-        ],
-        "To serve": [
-            "350g/12oz brown or white rice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Peel and chop the onion then peel and finely grate the garlic. Heat the oil in a heavy-based casserole dish over a medium-high heat, add the onions and garlic and fry for 5 minutes until soft.",
@@ -44,8 +51,9 @@
         "Meanwhile bring a large pan of salted water to the boil, add the rice and cook for 25 minutes or according to the packet instructions.",
         "Add the kidney beans to the chilli and cook for a further 2 minutes, until heated through. Season with salt and pepper and serve with the rice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "One pot chilli con carne",
     "videos": "[p02sz1v0:p02sz1v4]"
 }

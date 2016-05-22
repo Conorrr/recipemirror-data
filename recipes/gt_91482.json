@@ -1,24 +1,21 @@
 {
-    "title": "G&T",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "andy_pearson": "Andy Pearson"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "cocktails"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,14 +29,21 @@
             "2 pinches grated lemon zest, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Pour the gin, orange liqueur, lemon juice and ice into a cocktail shaker and shake well. Double strain the mixture into two chilled Martini glasses.",
         "Place the egg white, flat tonic water and sugar syrup into a clean cocktail shaker. Shake well until frothy. (If you have a cocktail strainer, remove the spring and add it to the mixture to help it to froth up.)",
         "Remove the spring, if using, and strain the egg and water mixture over the gin and orange mixture in the Martini glasses.",
         "To serve, sprinkle over the lemon zest."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "G&T",
     "videos": "[]"
 }

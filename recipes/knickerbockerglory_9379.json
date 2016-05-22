@@ -1,26 +1,46 @@
 {
-    "title": "Knickerbocker glory",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/knickerbockerglory_9379_16x9.jpg"
-    ],
-    "description": "This ultimate ice cream dessert can be prepared as an alternative to the traditional Christmas pudding. Alternatively, use ready-made dulce de leche toffee sauce, honeycomb and ice creams to create a simple version, and crumble in your leftover pudding.",
     "author": {
         "patrick_williams": "Patrick Williams"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "This ultimate ice cream dessert can be prepared as an alternative to the traditional Christmas pudding. Alternatively, use ready-made dulce de leche toffee sauce, honeycomb and ice creams to create a simple version, and crumble in your leftover pudding.",
+    "dishes": [
+        "crumble",
+        "honeycomb",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries",
+        "toffee"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "creaming",
+        "melting_chocolate",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/knickerbockerglory_9379_16x9.jpg"
+    ],
     "ingredients": {
+        "For the chocolate sauce": [
+            "100g/4oz 70% cocoa chocolate, broken into pieces"
+        ],
+        "For the fruit": [
+            "15-20 cherries, all but 6 stoned, stalk removed and halved",
+            "15 red grapes, halved and deseeded",
+            "15 raspberries, halved",
+            "15 blueberries, halved"
+        ],
+        "For the honeycomb": [
+            "100g/4oz honey",
+            "125g/5oz glucose syrup",
+            "300g/12oz caster sugar",
+            "90ml/3fl oz water",
+            "1 tbsp bicarbonate of soda"
+        ],
         "For the ice cream": [
             "570ml/1 pint double cream",
             "300ml/\u00bd pint whole milk",
@@ -37,25 +57,15 @@
         "For the toffee sauce": [
             "1 can condensed milk, label removed"
         ],
-        "For the honeycomb": [
-            "100g/4oz honey",
-            "125g/5oz glucose syrup",
-            "300g/12oz caster sugar",
-            "90ml/3fl oz water",
-            "1 tbsp bicarbonate of soda"
-        ],
-        "For the chocolate sauce": [
-            "100g/4oz 70% cocoa chocolate, broken into pieces"
-        ],
-        "For the fruit": [
-            "15-20 cherries, all but 6 stoned, stalk removed and halved",
-            "15 red grapes, halved and deseeded",
-            "15 raspberries, halved",
-            "15 blueberries, halved"
-        ],
         "To serve": [
             "290ml/\u00bd pint double cream, lightly whipped"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        
     },
     "steps": [
         "To make the honeycomb, line a small but deep roasting tray with baking parchment. Place the honey, glucose syrup, sugar and water in a large pan and carefully take the mixture to 150C/300F. Add the bicarbonate of soda and stir in quickly. Carefully watch the mixture foam up and increase in volume for 1 minute and then quickly pour into the lined tin. The honeycombe will set very quickly. When cool, shatter into pieces. Fold through the whipped cream on serving.",
@@ -67,10 +77,9 @@
         "Toss the fruit together, reserving the 6 whole cherries.",
         "To serve, alternatively layer each of the components in 6 tall (about 25.5cm/10in) knickerbockerglory glasses so the layers can be clearly identified. Finish with some of the honeycomb cream and top each one with a reserved cherry. Serve at once."
     ],
-    "howTos": [
-        "creaming",
-        "melting_chocolate",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Knickerbocker glory",
     "videos": "[]"
 }

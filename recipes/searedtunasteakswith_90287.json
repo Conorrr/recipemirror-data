@@ -1,31 +1,24 @@
 {
-    "title": "How to cook seared tuna",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "Simply cooked tuna steaks with a zingy herb sauce alongside. Serve with boiled new potatoes.",
     "author": {
         "mitch_tonks": "Mitch Tonks"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Simply cooked tuna steaks with a zingy herb sauce alongside. Serve with boiled new potatoes.",
+    "dishes": [
+        "oven-baked_dishes",
+        "salsa",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 x 150g/5oz tuna steaks",
-            "pinch sea salt",
-            "drizzle extra virgin olive oil"
-        ],
         "For the salsa verde": [
             "1 heaped tsp Dijon mustard",
             "150-250ml/5-9fl oz fruity, extra virgin olive oil",
@@ -42,7 +35,18 @@
         "To serve": [
             "lemon wedges",
             "2 sprigs fresh flatleaf parsley"
+        ],
+        "default": [
+            "2 x 150g/5oz tuna steaks",
+            "pinch sea salt",
+            "drizzle extra virgin olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 2",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -57,8 +61,9 @@
         "Just before serving, add the lemon juice to the sauce (the lemon will cause the herbs to go brown if you add it too early).",
         "To serve, place the tuna steaks onto plates. Squeeze over some lemon juice and serve with a wedge of lemon, a dollop of salsa verde and a sprig of parsley each."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "How to cook seared tuna",
     "videos": "[p0295yd4:p0295yd6]"
 }

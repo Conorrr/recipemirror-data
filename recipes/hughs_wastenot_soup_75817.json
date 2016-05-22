@@ -1,26 +1,34 @@
 {
-    "title": "Hugh's wastenot soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 3-4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Here\u2019s a really simple and tasty soup that can use up all kinds of less-than-perfect veg you might be thinking of binning. Be ready to swap things in and out of the recipe according to what is handy!",
     "author": {
         "hugh_fearnley-whittingstall": "Hugh Fearnley-Whittingstall"
     },
-    "show": {
-        "b06nzl5q": "Hugh's War on Waste"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Here\u2019s a really simple and tasty soup that can use up all kinds of less-than-perfect veg you might be thinking of binning. Be ready to swap things in and out of the recipe according to what is handy!",
+    "dishes": [
+        "bread",
+        "curry",
+        "hummus",
+        "pie",
+        "salad",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve (optional)": [
+            "3-4 slices slightly stale bread",
+            "oil, for shallow frying"
+        ],
         "default": [
             "1-2 bendy carrots, peeled, if you like",
             "1 onion, peeled",
@@ -32,11 +40,13 @@
             "salt and pepper",
             "curry powder, to taste (optional)",
             "leftover hummus, to taste (optional)"
-        ],
-        "To serve (optional)": [
-            "3-4 slices slightly stale bread",
-            "oil, for shallow frying"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 3-4",
+    "show": {
+        "b06nzl5q": "Hugh's War on Waste"
     },
     "steps": [
         "Roughly chop the carrot, onion and potato. Cut the tomatoes in half and rub the cut-side on a coarse cheese grater to get the pulp, and leave the skin behind.",
@@ -47,8 +57,9 @@
         "Stir the hummus (if using) gently into the soup. Taste and add more salt and pepper if required.",
         "To serve, fry the bread lightly and serve with the soup. Enjoy!"
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Hugh's wastenot soup",
     "videos": "[]"
 }

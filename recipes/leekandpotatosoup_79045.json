@@ -1,26 +1,31 @@
 {
-    "title": "Leek and potato soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "jam",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "1 slice of bread",
+            "35g/1\u00bdoz blue cheese"
+        ],
         "default": [
             "1 tbsp olive oil",
             "\u00bd potato, peeled and diced",
@@ -30,11 +35,13 @@
             "150ml/5fl oz vegetable stock",
             "55ml/2fl oz double cream",
             "salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "1 slice of bread",
-            "35g/1\u00bdoz blue cheese"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat the oil in a saucepan and fry the potato and garlic for 3-4 minutes, to soften.",
@@ -44,8 +51,9 @@
         "To serve, toast the bread on one side, under a hot grill, until golden. Turn over and lay the blue cheese on top. Return to the grill and cook until melted and golden.",
         "Serve the cheese toast on top of the soup."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Leek and potato soup",
     "videos": "[]"
 }

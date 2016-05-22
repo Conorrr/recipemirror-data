@@ -1,26 +1,36 @@
 {
-    "title": "Pan-roasted turbot with ratatouille and chive beurre blanc",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "James Martin makes a quicker, easier version of the classic French recipe, ratatouille.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        "Equipment and preparation: For this recipe, you will need to cut a disc of baking parchment that is just smaller than the diameter of your frying pan (a cartouche)."
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "James Martin makes a quicker, easier version of the classic French recipe, ratatouille.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "ratatouille",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chive beurre blanc": [
+            "2 shallots, peeled, finely sliced",
+            "1 tbsp white wine vinegar",
+            "4 tbsp white wine",
+            "1 tbsp cold water",
+            "225g/8oz salted butter, cut into cubes",
+            "salt and freshly ground black pepper",
+            "4 tbsp chives, chopped"
+        ],
         "For the ratatouille": [
             "2 tbsp olive oil",
             "1 red onion, chopped",
@@ -33,21 +43,18 @@
             "2 tbsp fresh basil leaves, finely chopped",
             "salt and freshly ground black pepper"
         ],
-        "For the chive beurre blanc": [
-            "2 shallots, peeled, finely sliced",
-            "1 tbsp white wine vinegar",
-            "4 tbsp white wine",
-            "1 tbsp cold water",
-            "225g/8oz salted butter, cut into cubes",
-            "salt and freshly ground black pepper",
-            "4 tbsp chives, chopped"
-        ],
         "For the turbot": [
             "4 x 175g/6oz turbot fillets",
             "salt and freshly ground black pepper",
             "50g/2oz butter",
             "75ml/3fl oz white wine"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the ratatouille, heat a frying pan over a medium to high heat, add the olive oil and, when it\u2019s hot, add the onion and peppers. Fry for 2-3 minutes, or until softened.",
@@ -64,8 +71,9 @@
         "Remove the fish from the pan and set aside to rest for 1-2 minutes.",
         "To serve, spoon a quarter of the ratatouille into the centre of each of four serving plates. Place one fillet of turbot on top of each portion. Spoon over the chive beurre blanc."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        "Equipment and preparation: For this recipe, you will need to cut a disc of baking parchment that is just smaller than the diameter of your frying pan (a cartouche)."
     ],
+    "title": "Pan-roasted turbot with ratatouille and chive beurre blanc",
     "videos": "[]"
 }

@@ -1,23 +1,26 @@
 {
-    "title": "Seafood pasta with a light curry sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "15",
-    "images": [
-        
-    ],
-    "description": "A good-quality mild curry powder is your friend. It adds a cheeky kick to this dish of prawn, scallop, squid and salmon pasta. Make your favourite pasta shapes or, if you\u2019re short on time, just buy them. Equipment and preparation: You will need a pasta machine and a pasta cutter attachment of your choice.",
     "author": {
         "monica_galetti": "Monica Galetti"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A good-quality mild curry powder is your friend. It adds a cheeky kick to this dish of prawn, scallop, squid and salmon pasta. Make your favourite pasta shapes or, if you\u2019re short on time, just buy them. Equipment and preparation: You will need a pasta machine and a pasta cutter attachment of your choice.",
+    "dishes": [
+        "curry",
+        "pasta",
+        "pie",
+        "sauce",
+        "seafood",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "cleaning_squid",
+        "peeling_prawns",
+        "rolling_pasta_dough"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -28,13 +31,6 @@
             "pinch salt",
             "semolina, for dusting"
         ],
-        "For the seafood": [
-            "12 raw king prawns, in shell",
-            "1 salmon fillet, about 160g/5\u00bdoz, skinned",
-            "2 medium squid, cleaned, with tentacles",
-            "olive oil, for cooking",
-            "sea salt and freshly ground black pepper"
-        ],
         "For the sauce": [
             "2 tbsp olive oil",
             "1 small onion, finely chopped",
@@ -44,7 +40,20 @@
             "600ml/20fl oz double cream",
             "sea salt and freshly ground black pepper",
             "chopped parsley, to garnish"
+        ],
+        "For the seafood": [
+            "12 raw king prawns, in shell",
+            "1 salmon fillet, about 160g/5\u00bdoz, skinned",
+            "2 medium squid, cleaned, with tentacles",
+            "olive oil, for cooking",
+            "sea salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "15",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the pasta, place the flour, eggs and egg yolks into a food processor and pulse until well combined and the mixture comes together as a dough. Cut into quarters and cover in cling film. Place in the fridge to rest for 30 minutes.",
@@ -61,10 +70,9 @@
         "At the same time, to cook the seafood, heat a large frying pan and add a good drizzle of olive oil. Add the seafood and fry over a high heat for a minute, no more, until just cooked. Take the pan off the heat, add the sauce and toss to combine. Taste and adjust the seasoning.",
         "Tip the pasta into a warmed serving dish or individual bowls. Pour over the seafood sauce, toss lightly and scatter over some chopped parsley. Serve immediately."
     ],
-    "howTos": [
-        "cleaning_squid",
-        "peeling_prawns",
-        "rolling_pasta_dough"
+    "tips": [
+        
     ],
+    "title": "Seafood pasta with a light curry sauce",
     "videos": "[]"
 }

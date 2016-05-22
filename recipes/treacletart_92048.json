@@ -1,33 +1,29 @@
 {
-    "title": "Perfect treacle tart",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        "b00m1c34": "Economy Gastronomy"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "trimming_pastry_case",
+        "rubbing_in",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sweet pastry": [
-            "250g/9oz plain flour, sifted, plus extra for dusting",
-            "175g/6oz butter, plus extra (melted) for greasing",
-            "75g/2\u00beoz icing sugar",
-            "2 free-range egg yolks",
-            "1 tbsp cold water"
-        ],
         "For the filling": [
             "150g/5oz day-old brown or white bread, crusts removed",
             "650g/1lb 7oz golden syrup",
@@ -37,7 +33,20 @@
             "2 lemons, zest only",
             "large pinch salt",
             "clotted cream or double cream, to serve"
+        ],
+        "For the sweet pastry": [
+            "250g/9oz plain flour, sifted, plus extra for dusting",
+            "175g/6oz butter, plus extra (melted) for greasing",
+            "75g/2\u00beoz icing sugar",
+            "2 free-range egg yolks",
+            "1 tbsp cold water"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 8",
+    "show": {
+        "b00m1c34": "Economy Gastronomy"
     },
     "steps": [
         "For the sweet pastry, in a bowl, rub together the flour and butter using your fingertips, until the mixture resembles breadcrumbs.",
@@ -57,10 +66,9 @@
         "Pour the filling mixture into the cooked pastry case, then return the tart to the oven and cook for a further 40-45 minutes, or until the filling is dark golden-brown.",
         "Remove from the oven and set aside for 15 minutes before serving to allow to cool slightly. Serve warm, with clotted cream or whipped cream."
     ],
-    "howTos": [
-        "trimming_pastry_case",
-        "rubbing_in",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Perfect treacle tart",
     "videos": "[]"
 }

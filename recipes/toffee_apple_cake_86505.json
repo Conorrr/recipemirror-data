@@ -1,24 +1,25 @@
 {
-    "title": "Toffee apple cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "13",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/toffee_apple_cake_86505_16x9.jpg"
-    ],
-    "description": "A dash of cinnamon and chewy toffee make this moist apple cake really special. Great served as a dessert with custard or in slices with a cup of something hot.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b03hcv64": "Paul Hollywood's Pies & Puds"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A dash of cinnamon and chewy toffee make this moist apple cake really special. Great served as a dessert with custard or in slices with a cup of something hot.",
+    "dishes": [
+        "cake",
+        "custard",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries",
+        "toffee"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/toffee_apple_cake_86505_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,14 +35,21 @@
             "50g/2oz toffee, broken into small pieces"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "13",
+    "serves": "Serves 6",
+    "show": {
+        "b03hcv64": "Paul Hollywood's Pies & Puds"
+    },
     "steps": [
         "Butter a 1.2 litres/2 pint heatproof bowl and dust with flour. Preheat the oven to 180C/350F/Gas 4.",
         "In a bowl, mix the flours, sugar, baking powder and cinnamon together. In a separate bowl or jug, beat together the oil, milk and eggs. Pour this onto the dry ingredients and stir to combine. Fold in the apple and toffee pieces.",
         "Pour into the prepared dish and bake for 50-60 minutes. Test the cake is cooked through by inserting a skewer into the centre, if it is cooked it will come out clean.",
         "Leave in the dish to cool for 10 minutes then turn the cake out. Leave to cool completely and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Toffee apple cake",
     "videos": "[]"
 }

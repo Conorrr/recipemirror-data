@@ -1,24 +1,29 @@
 {
-    "title": "Slow cooker chicken, ham and leek pie filling",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "16",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_and_leek_pie_27675_16x9.jpg"
-    ],
-    "description": "This is planning ahead- cook this tasty chicken pie filling a day ahead so that it's ready for topping with all-butter puff pastry.",
     "author": {
         "jane_hornby": "Jane Hornby"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "All fillings for pastry-topped pies need to be cooled before covering with pastry. Transfer the filling to a large, shallow container to cool the chicken as quickly as possible before chilling for up to two days, or freezing for up to a month."
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "This is planning ahead- cook this tasty chicken pie filling a day ahead so that it's ready for topping with all-butter puff pastry.",
+    "dishes": [
+        "chicken_pie",
+        "ham",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_and_leek_pie_27675_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,14 +40,21 @@
             "100g/31/2oz cr\u00e8me fra\u00eeche, optional"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "16",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Heat the oil in a large non-stick frying pan. Season the chicken with salt and freshly ground black pepper and fry over a high heat for 10 minutes until golden-brown all over.",
         "Meanwhile, slice the leeks into 1cm/\u00bdin rounds. Place the leeks, the onion and the thyme leaves into the slow cooker. Top with the chicken.",
         "Add the butter to the pan, let it melt, then stir in the flour and cook for one minute or until pale gold and bubbling. Take the pan from the heat, then gradually whisk in the stock to make a smooth sauce. It will be very thick at first, but keep going. Pour the sauce over the chicken and vegetables, then cover and cook on low for 4 hours, or until the meat is very tender. Season with salt and freshly ground black pepper. Allow to cool, then chill.",
         "Stir in the ham and the cr\u00e8me fra\u00eeche (if using) into the chilled chicken mixture and it's ready to top with shortcrust or puff-pastry. Bake in a hot oven for 40 minutes or until piping hot and golden brown."
     ],
-    "howTos": [
-        
+    "tips": [
+        "All fillings for pastry-topped pies need to be cooled before covering with pastry. Transfer the filling to a large, shallow container to cool the chicken as quickly as possible before chilling for up to two days, or freezing for up to a month."
     ],
+    "title": "Slow cooker chicken, ham and leek pie filling",
     "videos": "[]"
 }

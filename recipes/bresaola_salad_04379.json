@@ -1,30 +1,25 @@
 {
-    "title": "Bresaola salad",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "The tender, air-dried beef makes this simple salad satisfying enough to have as a main course.",
     "author": {
         "antonio_carluccio_and_gennaro_contaldo": "Antonio Carluccio and Gennaro Contaldo"
     },
-    "show": {
-        "b01gk0b2": "Two Greedy Italians"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Italian",
+    "description": "The tender, air-dried beef makes this simple salad satisfying enough to have as a main course.",
+    "dishes": [
+        "bread",
+        "pie",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "3 slices bread",
-            "2 tbsp extra virgin olive oil"
-        ],
         "For the dressing": [
             "4 tbsp extra virgin olive oil",
             "2 tbsp white wine vinegar",
@@ -39,15 +34,26 @@
             "2 free-range eggs, hard-boiled and quartered",
             "80g/3oz bresaola, thinly sliced",
             "2 tbsp finely shaved fresh parmesan, to serve"
+        ],
+        "default": [
+            "3 slices bread",
+            "2 tbsp extra virgin olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b01gk0b2": "Two Greedy Italians"
     },
     "steps": [
         "Remove the crusts from the bread and slice into small triangles. Heat the oil in a frying pan, add the bread and fry on both sides until golden-brown. Remove from the pan and drain on kitchen paper.",
         "Meanwhile make the dressing. Combine all the dressing ingredients and whisk together with a fork until you obtain a creamy consistency. Remove the garlic clove from the dressing.",
         "Arrange the lettuce leaves, rocket, radishes and olives on a serving dish, pour over the dressing and toss well. Arrange the eggs, bresaola and fried bread in the dish and scatter over the parmesan shavings."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Bresaola salad",
     "videos": "[]"
 }

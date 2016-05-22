@@ -1,30 +1,36 @@
 {
-    "title": "Seared hake with crab crushed potatoes and smoked shrimp sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 x 200g/7oz hake fillets, skin on",
-            "1 tbsp olive oil",
-            "salt and freshly ground black pepper, to taste"
+        "For the potatoes": [
+            "250g/9oz Anya potatoes, or similar salad potatoes",
+            "salt and freshly ground black pepper, to taste",
+            "110g/4oz white crab meat, free of shells",
+            "2 plum tomatoes, skinned, deseeded and chopped",
+            "2 spring onions, finely sliced",
+            "\u00bd lemon, juice only",
+            "1tbsp olive oil, plus extra for brushing",
+            "1 tbsp chopped fresh dill"
         ],
         "For the sauce": [
             "200g/7oz smoked shrimps, shell-on (available from specialist suppliers)",
@@ -38,16 +44,17 @@
             "125ml/4\u00bdfl oz whipping cream",
             "salt and freshly ground black pepper"
         ],
-        "For the potatoes": [
-            "250g/9oz Anya potatoes, or similar salad potatoes",
-            "salt and freshly ground black pepper, to taste",
-            "110g/4oz white crab meat, free of shells",
-            "2 plum tomatoes, skinned, deseeded and chopped",
-            "2 spring onions, finely sliced",
-            "\u00bd lemon, juice only",
-            "1tbsp olive oil, plus extra for brushing",
-            "1 tbsp chopped fresh dill"
+        "default": [
+            "2 x 200g/7oz hake fillets, skin on",
+            "1 tbsp olive oil",
+            "salt and freshly ground black pepper, to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -69,8 +76,9 @@
         "Add the crab, tomato, spring onion, half of the lemon juice, olive oil and dill and mix together.",
         "To serve, pile the potatoes in the centre of the plate. Place the fish on top with the skin-side up. Squeeze the remaining lemon juice over the top and brush with olive oil. Spoon the sauce around the fish."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Seared hake with crab crushed potatoes and smoked shrimp sauce",
     "videos": "[]"
 }

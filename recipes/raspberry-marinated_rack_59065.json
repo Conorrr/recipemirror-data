@@ -1,26 +1,30 @@
 {
-    "title": "Raspberry marinated rack of lamb",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "This roast rack of lamb with a difference sees the meat infused with a berry-and-herb sauce.",
     "author": {
         "gregg_wallace": "Gregg Wallace"
     },
-    "show": {
-        "b016pbs9": "Great British Food Revival"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "This roast rack of lamb with a difference sees the meat infused with a berry-and-herb sauce.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "roast_lamb",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "new potatoes",
+            "steamed green vegetables"
+        ],
         "default": [
             "350ml/12\u00bdfl oz vegetable bouillon",
             "300g/10\u00bdoz fresh raspberries",
@@ -28,11 +32,13 @@
             "2 tbsp red wine vinegar",
             "1 x 1.4kg/3lb rack of lamb (approx. 3-4 ribs per person)",
             "\u00bd tsp dried rosemary"
-        ],
-        "To serve": [
-            "new potatoes",
-            "steamed green vegetables"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b016pbs9": "Great British Food Revival"
     },
     "steps": [
         "Blend the vegetable bouillon, raspberries, raspberry jam, and red wine vinegar in a food processor until smooth. Transfer the mixture to a large bowl and set aside until needed.",
@@ -44,8 +50,9 @@
         "While the lamb is roasting, transfer the marinade to a saucepan and bring to the boil, then add the rosemary. Continue to boil over a medium to high heat for 8-10 minutes, or until the volume of sauce has reduced by one-third and the sauce has thickened slightly.",
         "To serve, carve the raspberry-marinated rack of lamb into individual cutlets. Arrange the cutlets on four serving plates, spooning over the raspberry sauce. Serve with new potatoes and green vegetables."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Raspberry marinated rack of lamb",
     "videos": "[]"
 }

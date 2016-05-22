@@ -1,26 +1,33 @@
 {
-    "title": "Smoked tea duck with bigarade sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2-3",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "A quick and easy twist on duck a l'orange, with home-smoked duck breasts in a rich, orange-flavoured sauce.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b03bhng2": "James Martin's Food Map of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A quick and easy twist on duck a l'orange, with home-smoked duck breasts in a rich, orange-flavoured sauce.",
+    "dishes": [
+        "caramel",
+        "jam",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "julienne"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the bigarade sauce": [
+            "2 oranges, 1 segmented",
+            "2 tbsp caster sugar",
+            "2 tbsp sherry vinegar",
+            "200ml/7fl oz dark chicken stock",
+            "50g/1\u00beoz butter"
+        ],
         "default": [
             "150g/5\u00bdoz demerara sugar",
             "200g/7oz rice",
@@ -29,14 +36,13 @@
             "salt and pepper",
             "50g/1\u00beoz butter",
             "300g/10\u00bdoz new potatoes, boiled until cooked, drained"
-        ],
-        "For the bigarade sauce": [
-            "2 oranges, 1 segmented",
-            "2 tbsp caster sugar",
-            "2 tbsp sherry vinegar",
-            "200ml/7fl oz dark chicken stock",
-            "50g/1\u00beoz butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2-3",
+    "show": {
+        "b03bhng2": "James Martin's Food Map of Britain"
     },
     "steps": [
         "Mix the demerara sugar, rice and tea together.",
@@ -46,8 +52,9 @@
         "Fry the potatoes in melted butter until hot and golden-brown.",
         "To serve, divide the potatoes between serving plates, slice the duck breasts and lay alongside. Spoon over the sauce."
     ],
-    "howTos": [
-        "julienne"
+    "tips": [
+        
     ],
+    "title": "Smoked tea duck with bigarade sauce",
     "videos": "[p01gys3p:p01gys46]"
 }

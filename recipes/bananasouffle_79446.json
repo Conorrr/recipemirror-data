@@ -1,24 +1,22 @@
 {
-    "title": "Banana souffl\u00e9",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "icing",
+        "oven-baked_dishes",
+        "souffle"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,6 +26,12 @@
             "2 free-range egg whites",
             "55g/2oz caster sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Makes 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Place a baking tray in the oven to heat up.",
@@ -39,8 +43,9 @@
         "Cook for ten minutes, until the souffl\u00e9 has risen by about an inch.",
         "To serve, place the souffl\u00e9 on the centre of a plate and dust with icing sugar."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Banana souffl\u00e9",
     "videos": "[]"
 }

@@ -1,37 +1,24 @@
 {
-    "title": "Dukkah lamb cutlets with quinoa salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "12",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/dukkah_lamb_cutlets_with_80089_16x9.jpg"
-    ],
-    "description": "This quick recipe is a lifesaver for midweek suppers. The dry dukkah spice mix is also great as a dip for flatbreads.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "North_African",
+    "description": "This quick recipe is a lifesaver for midweek suppers. The dry dukkah spice mix is also great as a dip for flatbreads.",
+    "dishes": [
+        "flatbread",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/dukkah_lamb_cutlets_with_80089_16x9.jpg"
+    ],
     "ingredients": {
-        "For the quinoa salad": [
-            "200g/7oz quinoa, cooked according to the packet instructions",
-            "handful fresh parsley, chopped",
-            "1 tbsp chopped fresh mint",
-            "1 red pepper, finely diced",
-            "1 cucumber, finely diced",
-            "1 red onion, finely diced",
-            "2 tbsp extra virgin olive oil",
-            "1 lemon, juice only",
-            "salt and freshly ground black pepper"
-        ],
         "For the dukkah": [
             "\u00bd tsp cloves",
             "1 tsp fennel seeds",
@@ -48,9 +35,26 @@
             "salt and freshly ground black pepper",
             "4 tbsp olive oil"
         ],
+        "For the quinoa salad": [
+            "200g/7oz quinoa, cooked according to the packet instructions",
+            "handful fresh parsley, chopped",
+            "1 tbsp chopped fresh mint",
+            "1 red pepper, finely diced",
+            "1 cucumber, finely diced",
+            "1 red onion, finely diced",
+            "2 tbsp extra virgin olive oil",
+            "1 lemon, juice only",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "12 lamb cutlets"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the quinoa salad, mix together the quinoa, herbs and vegetables in a bowl and dress with olive oil and lemon juice. Season, to taste, with salt and freshly ground black pepper.",
@@ -59,8 +63,9 @@
         "Rub each lamb cutlet with the dukkah and orange juice mixture and grill on a hot griddle, on a barbecue, or under a pre-heated grill, for 2-3 minutes on each side, or until cooked to your liking.",
         "To serve place some of the quinoa salad onto four plates and place three lamb cutlets on top of each."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Dukkah lamb cutlets with quinoa salad",
     "videos": "[]"
 }

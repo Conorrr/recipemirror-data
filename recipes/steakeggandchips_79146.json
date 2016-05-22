@@ -1,23 +1,21 @@
 {
-    "title": "Steak, egg and chips",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "chips",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -31,6 +29,12 @@
             "1 free-range egg"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat a heavy bottomed saucepan, one-third full of vegetable oil, until a breadcrumb sizzles in it. (CAUTION: hot oil can be dangerous! Do not leave unattended.)",
         "Add the potato chips and deep-fry for 8-10 minutes, until crisp and golden. Carefully remove using a slotted spoon and drain on kitchen towels.",
@@ -39,8 +43,9 @@
         "Using the same pan the steak was cooked in, crack the egg in and fry for 2 minutes, until the yolk is set.",
         "To serve, pile the chips up onto a serving plate and serve the steak and fried egg alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steak, egg and chips",
     "videos": "[]"
 }

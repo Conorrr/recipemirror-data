@@ -1,26 +1,38 @@
 {
-    "title": "Calamari ripieni",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Preparing the squid can be a little tricky, so get your fishmonger to do this for you if you're unsure. Otherwise the recipe is very easy - a bit of prep then the oven does the rest.",
     "author": {
         "gennaro_contaldo": "Gennaro Contaldo"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Italian",
+    "description": "Preparing the squid can be a little tricky, so get your fishmonger to do this for you if you're unsure. Otherwise the recipe is very easy - a bit of prep then the oven does the rest.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pasta",
+        "prepare-ahead_desserts",
+        "risotto",
+        "salad",
+        "sauce",
+        "seafood",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "cleaning_squid"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the salad": [
+            "1 head radicchio, leaves separated",
+            "1 small red onion, finely sliced",
+            "3 tbsp olive oil",
+            "1 tbsp balsamic vinegar",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "4 large squid including tentacles, cleaned",
             "3 tsp extra-virgin olive oil, plus extra to drizzle",
@@ -33,14 +45,13 @@
             "\u00bd lemon, zest only",
             "1 tbsp freshly chopped parsley",
             "salt and freshly ground black pepper"
-        ],
-        "For the salad": [
-            "1 head radicchio, leaves separated",
-            "1 small red onion, finely sliced",
-            "3 tbsp olive oil",
-            "1 tbsp balsamic vinegar",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "To prepare the squid, pull the tentacles away from the body. Feel inside the body for the quill (it resembles a shard of plastic). Pull it out of the squid and discard. Rinse inside the body of the squid in cold water. Pull the ears (wing-like flaps) from the body. Pull the purplish skin from the ears and body to leave only the white meat. Cut the tentacles away from the guts by slicing just below the eyes. Check the centre of the tentacles for the hard beak, which can be discarded. (Discard the guts of the squid or, if desired, retain the ink sack to use in seafood pasta or risotto.) Scrape away any traces of guts left inside the body. You should end up with four perfect sack-like calamari ready to fill. Roughly chop about half of the tentacles and set aside.",
@@ -51,8 +62,9 @@
         "For the salad, put the leaves and onion in a bowl. In a separate small bowl combine the oil, vinegar, salt and pepper to form a dressing.",
         "Just before serving pour the dressing over the salad and mix. Serve alongside the squid."
     ],
-    "howTos": [
-        "cleaning_squid"
+    "tips": [
+        
     ],
+    "title": "Calamari ripieni",
     "videos": "[]"
 }

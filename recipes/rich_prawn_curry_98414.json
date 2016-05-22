@@ -1,33 +1,34 @@
 {
-    "title": "Rich prawn curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "20",
-    "images": [
-        
-    ],
-    "description": "This prawn curry combines a fresh-flavoured Thai spice paste with a simple homemade stock for a tasty sauce. Each serving provides 185kcal, 25g protein, 5g carbohydrate (of which 4g sugars), 7g fat (of which 1g saturates), 2.5g fibre and 1.2g salt.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b01nd35k": "Nigel Slater's Dish of the Day"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "This prawn curry combines a fresh-flavoured Thai spice paste with a simple homemade stock for a tasty sauce. Each serving provides 185kcal, 25g protein, 5g carbohydrate (of which 4g sugars), 7g fat (of which 1g saturates), 2.5g fibre and 1.2g salt.",
+    "dishes": [
+        "curry",
+        "pie",
+        "prawn_curry",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "12 large king prawns, shells on"
-        ],
-        "For the stock": [
-            "12 retained prawn shells",
-            "2 kaffir lime leaves",
-            "5 peppercorns"
+        "For the prawns": [
+            "1 tbsp olive oil",
+            "4 tbsp coconut milk",
+            "pinch salt",
+            "100g/3\u00bdoz mangetout, shredded lengthways",
+            "100g/3\u00bdoz beansprouts"
         ],
         "For the spice paste": [
             "1 garlic clove",
@@ -36,13 +37,20 @@
             "1 red bird's-eye chilli",
             "handful fresh coriander"
         ],
-        "For the prawns": [
-            "1 tbsp olive oil",
-            "4 tbsp coconut milk",
-            "pinch salt",
-            "100g/3\u00bdoz mangetout, shredded lengthways",
-            "100g/3\u00bdoz beansprouts"
+        "For the stock": [
+            "12 retained prawn shells",
+            "2 kaffir lime leaves",
+            "5 peppercorns"
+        ],
+        "default": [
+            "12 large king prawns, shells on"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "20",
+    "serves": "Serves 2",
+    "show": {
+        "b01nd35k": "Nigel Slater's Dish of the Day"
     },
     "steps": [
         "First, prepare the stock. Remove the shells from the prawns and set the prawns aside. Place the shells in a small pan and cover with water. Add the lime leaves and peppercorns, then simmer over a gentle heat for five minutes.",
@@ -52,8 +60,9 @@
         "Add the coconut milk, a generous pinch of salt, the mangetout and the prawns. Simmer for 3-4 minutes.",
         "Divide the beansprouts between two large bowls, then spoon the prawn curry over the top, allowing the beansprouts to cook in the residual heat. Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Rich prawn curry",
     "videos": "[p00zzpfd:p00zzpfh]"
 }

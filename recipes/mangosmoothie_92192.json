@@ -1,24 +1,20 @@
 {
-    "title": "Mango smoothie",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "allegra_mcevedy": "Allegra McEvedy"
     },
-    "show": {
-        "b00m1c34": "Economy Gastronomy"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "smoothie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,12 +25,19 @@
             "ice cubes (optional)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 2",
+    "show": {
+        "b00m1c34": "Economy Gastronomy"
+    },
     "steps": [
         "Blend all of the ingredients in a food processor until smooth and well combined.",
         "To serve, pour into two tall glasses."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mango smoothie",
     "videos": "[]"
 }

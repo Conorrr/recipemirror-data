@@ -1,24 +1,26 @@
 {
-    "title": "Vegetarian curry with Indian cheese, tomatoes and peppers (paneer jalfrezi)",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2-4",
-    "recommendations": "28",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/vegetarian_curry_with_66421_16x9.jpg"
-    ],
-    "description": "According to a poll featured in the British Curry Club\u2019s in-house magazine, the jalfrezi is now the most popular choice in Britain\u2019s Indian restaurants. In many Indian restaurants, however, they list \u2018jalfrezi\u2019, \u2018rogan josh\u2019, \u2018dopiaza\u2019, and then simply change the main ingredient from mutton to chicken to vegetable, so you get the impression it\u2019s always the same sauce. This jalfrezi is specifically for paneer, the Indian cheese, and is little more than a stir-fry, which is perfect for the main ingredient. This meal, if served as four portions, provides 258kcal, 16g protein, 13g carbohydrate (of which 11.5g sugars), 15g fat (of which 5g saturates), 4g fibre and 1.3g salt per portion.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b033rhzh": "Rick Stein's India"
-    },
-    "tips": [
-        "Paneer is easier and easier to get now, and available in most larger supermarkets. I have on occasion used the Cypriot cheese halloumi, which is similar though saltier."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "According to a poll featured in the British Curry Club\u2019s in-house magazine, the jalfrezi is now the most popular choice in Britain\u2019s Indian restaurants. In many Indian restaurants, however, they list \u2018jalfrezi\u2019, \u2018rogan josh\u2019, \u2018dopiaza\u2019, and then simply change the main ingredient from mutton to chicken to vegetable, so you get the impression it\u2019s always the same sauce. This jalfrezi is specifically for paneer, the Indian cheese, and is little more than a stir-fry, which is perfect for the main ingredient. This meal, if served as four portions, provides 258kcal, 16g protein, 13g carbohydrate (of which 11.5g sugars), 15g fat (of which 5g saturates), 4g fibre and 1.3g salt per portion.",
+    "dishes": [
+        "curry",
+        "paneer",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "vegetable_curry"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/vegetarian_curry_with_66421_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -40,13 +42,20 @@
             "\u00be tsp garam masala"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "28",
+    "serves": "Serves 2-4",
+    "show": {
+        "b033rhzh": "Rick Stein's India"
+    },
     "steps": [
         "Heat the oil in a heavy-based saucepan or karahi over a medium heat and add the cumin seeds, whole dried chilli and about two-thirds of the shredded ginger, and fry for 30 seconds until aromatic.",
         "Add the onions and green chilli and fry for 5\u20136 minutes, or until the onions are just softening but not browned and still have a little crunch. Add the peppers, salt, turmeric and chilli powder, and fry for a further 3\u20134 minutes.",
         "Lower the heat, add the paneer to the pan and gently stir everything together for about five minutes, then add the tomato and heat through. Stir in the vinegar, ground cumin and garam masala, scatter with the remaining shredded ginger, and serve."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Paneer is easier and easier to get now, and available in most larger supermarkets. I have on occasion used the Cypriot cheese halloumi, which is similar though saltier."
     ],
+    "title": "Vegetarian curry with Indian cheese, tomatoes and peppers (paneer jalfrezi)",
     "videos": "[]"
 }

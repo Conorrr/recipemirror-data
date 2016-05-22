@@ -1,26 +1,29 @@
 {
-    "title": "Spinach soup with poached egg",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "aldo_zilli": "Aldo Zilli"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "1 free-range egg, poached",
+            "1 tbsp sesame oil",
+            "1 tbsp chopped mixed fresh herbs (basil, parsley, chervil, chives)"
+        ],
         "default": [
             "25g/1oz butter",
             "\u00bc onion, chopped",
@@ -30,20 +33,22 @@
             "2 handfuls spinach leaves",
             "4 tbsp chopped fresh mixed herbs (basil, parsley, chervil, chives)",
             "50ml/2fl oz double cream"
-        ],
-        "To serve": [
-            "1 free-range egg, poached",
-            "1 tbsp sesame oil",
-            "1 tbsp chopped mixed fresh herbs (basil, parsley, chervil, chives)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Melt the butter in a frying pan and fry the onion and garlic for 2-3 minutes, or until softened. Add the sweet potato and stock and bring to a gentle simmer for 5-6 minutes, or until the sweet potato is tender.",
         "Add the spinach and herbs and stir until wilted, then add the cream and blend until smooth with a stick blender.",
         "To serve, ladle the soup into a serving bowl and top with the poached egg. Drizzle over the sesame oil and garnish with the chopped herbs."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Spinach soup with poached egg",
     "videos": "[]"
 }

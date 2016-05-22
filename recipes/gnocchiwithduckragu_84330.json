@@ -1,33 +1,28 @@
 {
-    "title": "Gnocchi with duck rag\u00f9",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "gnocchi",
+        "pie",
+        "ragu",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the gnocchi": [
-            "600g/1lb 5oz floury potatoes (such Russets), unpeeled",
-            "1 large free-range egg",
-            "salt and freshly ground black pepper",
-            "450g/1lb plain flour",
-            "olive oil, to drizzle"
-        ],
         "For the duck ragu": [
             "2 tbsp olive oil",
             "1 onion, finely chopped",
@@ -42,7 +37,20 @@
             "sprig fresh rosemary",
             "450g/1lb ready-made confit duck leg, meat removed from the bone",
             "Pecorino cheese, shaved, to serve"
+        ],
+        "For the gnocchi": [
+            "600g/1lb 5oz floury potatoes (such Russets), unpeeled",
+            "1 large free-range egg",
+            "salt and freshly ground black pepper",
+            "450g/1lb plain flour",
+            "olive oil, to drizzle"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the gnocchi, boil the potatoes for about 40 minutes, until tender. Remove from the heat, drain and leave to cool. Once cooled, mash well in a bowl.",
@@ -57,8 +65,9 @@
         "Finally add the gnocchi to the ragu and warm through.",
         "To serve, spoon out into bowls and garnish with shavings of Pecorino cheese."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Gnocchi with duck rag\u00f9",
     "videos": "[]"
 }

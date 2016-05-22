@@ -1,26 +1,32 @@
 {
-    "title": "Navarin of lamb",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        "b00m1c34": "Economy Gastronomy"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "casserole",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the vegetables": [
+            "450g/1lb mixed seasonal vegetables, peeled, chopped into equal-sized pieces",
+            "50g/2oz butter",
+            "200-250g/7-9oz mashed potatoes, to serve"
+        ],
         "default": [
             "1.2kg/2\u00bd lb neck fillet of lamb, cut into 7.5cm/3in cubes",
             "1\u00bd tbsp flour",
@@ -32,12 +38,13 @@
             "3-4 sprigs fresh thyme, leaves only",
             "3-4 sprigs fresh rosemary, leaves only",
             "500ml/17fl oz cold lamb or chicken stock"
-        ],
-        "For the vegetables": [
-            "450g/1lb mixed seasonal vegetables, peeled, chopped into equal-sized pieces",
-            "50g/2oz butter",
-            "200-250g/7-9oz mashed potatoes, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 4",
+    "show": {
+        "b00m1c34": "Economy Gastronomy"
     },
     "steps": [
         "Sprinkle the flour onto a plate and dredge the lamb cubes in it until completely covered.",
@@ -52,8 +59,9 @@
         "Heat the butter in a pan over a high heat. Add the blanched vegetables and fry for 1-2 minutes, or until the butter has melted and coated the vegetables, and the vegetables are tender.",
         "To serve, divide the mashed potatoes equally among four serving plates. Spoon over the navarin of lamb. Top with the cooked mixed vegetables."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Navarin of lamb",
     "videos": "[]"
 }

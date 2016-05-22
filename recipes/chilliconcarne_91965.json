@@ -1,23 +1,25 @@
 {
-    "title": "Chilli con carne",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "4",
-    "recommendations": "26",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        "b00m1c34": "Economy Gastronomy"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Mexican",
+    "description": "",
+    "dishes": [
+        "chilli_con_carne",
+        "crumble",
+        "sauce",
+        "stir-fries",
+        "stock",
+        "wraps"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -56,6 +58,12 @@
             "100g/3\u00bdoz mature cheddar, grated"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "26",
+    "serves": "4",
+    "show": {
+        "b00m1c34": "Economy Gastronomy"
+    },
     "steps": [
         "For the braised mince, heat half of the vegetable oil in a large pan over a high heat. Add the onions, garlic and herbs and fry for 3-4 minutes, or until softened and golden-brown. Turn off the heat and set the pan aside.",
         "Heat a third of the remaining oil in a separate pan over a medium heat. Add a third of the beef mince and fry for 4-5 minutes, or until browned.",
@@ -70,8 +78,9 @@
         "Add the braised mince, mushrooms, kidney beans and beef stock, stir well, then simmer over a low heat, uncovered, for 40-45 minutes, stirring occasionally, or until the sauce has thickened and the flavours have intensified.",
         "To serve, divide the rice equally among four serving plates. Spoon over the chilli con carne. Place one tortilla alongside each serving. Place the soured cream and cheese into small bowls and serve alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chilli con carne",
     "videos": "[]"
 }

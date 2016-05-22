@@ -1,35 +1,26 @@
 {
-    "title": "Corn and quinoa tamale, grilled vegetable salsa and marinated grilled chicken",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Go all out for a Mexican barbecue with spiced cornmeal stuffed in corn husks with lime and honeyed chicken thighs.",
     "author": {
         "bruno_loubet": "Bruno Loubet"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Mexican",
+    "description": "Go all out for a Mexican barbecue with spiced cornmeal stuffed in corn husks with lime and honeyed chicken thighs.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "salsa",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 large chicken thighs"
-        ],
-        "For the marinade": [
-            "2 tbsp natural yoghurt",
-            "1 lime, juice and zest",
-            "1 tsp honey",
-            "\u00bc tsp smoked paprika"
-        ],
         "For the corn and quinoa tamale": [
             "4 sweetcorn on the cob with husks on",
             "4 tbsp olive oil",
@@ -39,6 +30,17 @@
             "1 dried chipotle chilli, seeds removed, finely chopped or 1 tsp chipotle paste",
             "200ml/7fl oz apple juice",
             "1-2 tbsp quinoa"
+        ],
+        "For the garnish": [
+            "\u00bd handful of fresh mint, chopped",
+            "\u00bd handful of fresh coriander, chopped",
+            "\u00bd handful of fresh basil, chopped"
+        ],
+        "For the marinade": [
+            "2 tbsp natural yoghurt",
+            "1 lime, juice and zest",
+            "1 tsp honey",
+            "\u00bc tsp smoked paprika"
         ],
         "For the vegetable salsa": [
             "\u00bd red pepper",
@@ -50,11 +52,15 @@
             "\u00bd garlic clove",
             "1 lime, juice only"
         ],
-        "For the garnish": [
-            "\u00bd handful of fresh mint, chopped",
-            "\u00bd handful of fresh coriander, chopped",
-            "\u00bd handful of fresh basil, chopped"
+        "default": [
+            "4 large chicken thighs"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Place all the ingredients for the marinade in a small bowl then mix well with a spoon. Dip each piece of chicken in the marinade then place on a plate. Cover with a cling film to marinate in the fridge for a couple of hours.",
@@ -68,8 +74,9 @@
         "Place the tamales on the griddle or barbecue to colour on both sides. Then switch off the heat (or move the tamale off the direct heat if on the barbecue) and leave to warm through.",
         "To serve, place the salsa in a jug. Cut off the top leaves of each tamale with scissors place one on each plate. Place a chicken thigh alongside, sprinkle over the herbs and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Corn and quinoa tamale, grilled vegetable salsa and marinated grilled chicken",
     "videos": "[]"
 }

@@ -1,32 +1,25 @@
 {
-    "title": "Mushroom and spinach pancakes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mushroomandspinachcr_87049_16x9.jpg"
-    ],
-    "description": "Pack your pancakes with spinach and mushrooms for a wonderfully moreish meal.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Pack your pancakes with spinach and mushrooms for a wonderfully moreish meal.",
+    "dishes": [
+        "crepe",
+        "jam",
+        "pancake",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mushroomandspinachcr_87049_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pancakes": [
-            "125g/4\u00bdoz plain flour or buckwheat flour",
-            "1 free-range egg",
-            "150ml/5fl oz milk",
-            "olive oil, for frying"
-        ],
         "For the filling": [
             "1 tbsp olive oil",
             "1 small onion, chopped",
@@ -36,7 +29,19 @@
             "few sprigs fresh parsley or chives, chopped (optional)",
             "salad leaves, to serve",
             "salt and freshly ground black pepper"
+        ],
+        "For the pancakes": [
+            "125g/4\u00bdoz plain flour or buckwheat flour",
+            "1 free-range egg",
+            "150ml/5fl oz milk",
+            "olive oil, for frying"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the pancakes, sift the flour with a pinch of salt into a mixing bowl, then crack in the egg and mix well. Add the milk and 150ml/5fl oz water, then beat well until smooth and well combined. Set aside while you make the filling.",
@@ -45,8 +50,9 @@
         "While the pancake is still in the pan, spread half the cr\u00e8me fra\u00eeche over one side (if using), scatter over half of the mushroom and spinach mixture, and sprinkle with parsley and chives (if using). Fold the sides of the pancake over the filling and lift onto a serving plate.",
         "Repeat with the remaining batter and filling to make another pancake (if you have any batter leftover, fry-up another pancake for dessert). Serve with salad leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mushroom and spinach pancakes",
     "videos": "[]"
 }

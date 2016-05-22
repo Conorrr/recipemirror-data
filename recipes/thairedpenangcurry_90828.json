@@ -1,26 +1,36 @@
 {
-    "title": "Beef panang curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2-4",
-    "recommendations": "17",
-    "images": [
-        
-    ],
-    "description": "A delicious Thai curry that's similar to the better-known red curry, but with a thicker, richer sauce",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "A delicious Thai curry that's similar to the better-known red curry, but with a thicker, richer sauce",
+    "dishes": [
+        "beef_curry",
+        "curry",
+        "jam",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the curry": [
+            "1 tbsp groundnut oil",
+            "250g/9oz beef fillet, sliced thinly",
+            "400ml/14fl oz coconut milk",
+            "1-2 tbsp fish sauce",
+            "1 lime, juice only",
+            "small handful Thai basil leaves, roughly torn"
+        ],
         "For the paste": [
             "1 large shallot, roughly chopped",
             "3cm/1.2 in piece galangal, peeled and roughly chopped",
@@ -39,17 +49,15 @@
             "\u00bc tsp ground nutmeg",
             "\u00bc tsp ground cloves"
         ],
-        "For the curry": [
-            "1 tbsp groundnut oil",
-            "250g/9oz beef fillet, sliced thinly",
-            "400ml/14fl oz coconut milk",
-            "1-2 tbsp fish sauce",
-            "1 lime, juice only",
-            "small handful Thai basil leaves, roughly torn"
-        ],
         "To serve": [
             "300g/11oz Thai jasmine rice, steamed"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "17",
+    "serves": "Serves 2-4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the paste, place all the paste ingredients into a food processor or pestle and mortar and blend (or grind) to a smooth pur\u00e9e.",
@@ -57,8 +65,9 @@
         "Add fish sauce and lime juice to the curry, to taste.",
         "Ladle the stir fry into bowls and top with the Thai basil leaves. Serve with the Thai jasmine rice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef panang curry",
     "videos": "[]"
 }

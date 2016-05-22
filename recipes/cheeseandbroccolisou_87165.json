@@ -1,24 +1,23 @@
 {
-    "title": "Cheese and broccoli souffl\u00e9",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "souffle"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "chopping_vegetables",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,6 +29,12 @@
             "flour, for dusting"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6 and place a baking tray inside to heat.",
         "Place the broccoli into a small blender and blend until finely chopped. Add the egg yolks and blend until combined. Pour into a bowl.",
@@ -39,9 +44,9 @@
         "Place the ramekins onto the heated baking tray and place in the oven for eight minutes, or until risen and golden.",
         "Serve straight away, in the ramekins."
     ],
-    "howTos": [
-        "chopping_vegetables",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Cheese and broccoli souffl\u00e9",
     "videos": "[]"
 }

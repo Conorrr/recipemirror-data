@@ -1,34 +1,29 @@
 {
-    "title": "Dark chocolate tart with Turkish delight",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6-8",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "A simple dark chocolate tart with rose-flavoured Turkish delight, plain and dipped in chocolate, on the side.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Turkish_and_Middle_Eastern",
+    "description": "A simple dark chocolate tart with rose-flavoured Turkish delight, plain and dipped in chocolate, on the side.",
+    "dishes": [
+        "chocolate_tart",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "trimming_pastry_case"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the tart": [
-            "butter, for greasing",
-            "flour, for dusting",
-            "375g/13oz ready-made sweet pastry",
-            "400g/14oz dark chocolate, 85 per cent cocoa solids, roughly chopped",
-            "250ml/9fl oz double cream",
-            "2 free-range egg yolks, beaten"
-        ],
         "For the Turkish delight": [
             "450g/1lb granulated sugar",
             "1 lemon, juice only",
@@ -39,9 +34,23 @@
             "3 tbsp icing sugar, plus extra for dusting",
             "110g/4oz dark chocolate, 85 per cent cocoa solids, melted"
         ],
+        "For the tart": [
+            "butter, for greasing",
+            "flour, for dusting",
+            "375g/13oz ready-made sweet pastry",
+            "400g/14oz dark chocolate, 85 per cent cocoa solids, roughly chopped",
+            "250ml/9fl oz double cream",
+            "2 free-range egg yolks, beaten"
+        ],
         "To serve": [
             "vanilla ice cream"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "3",
+    "serves": "Serves 6-8",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Grease a 20cm/8in loose-bottomed tart tin.",
@@ -66,8 +75,9 @@
         "Dip the remaining squares of Turkish delight into the melted chocolate and place onto a plate. Place into the fridge to chill and for the chocolate coating to set.",
         "To serve, place a slice of the chocolate tart into the centre of each plate. Place two pieces of chocolate-coated Turkish delight and one piece of plain Turkish delight alongside. Serve with a spoonful of vanilla ice cream."
     ],
-    "howTos": [
-        "trimming_pastry_case"
+    "tips": [
+        
     ],
+    "title": "Dark chocolate tart with Turkish delight",
     "videos": "[]"
 }

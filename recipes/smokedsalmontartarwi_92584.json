@@ -1,24 +1,24 @@
 {
-    "title": "Smoked salmon blini canap\u00e9s",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "20-24",
-    "recommendations": "13",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/smokedsalmontartarwi_92584_16x9.jpg"
-    ],
-    "description": "Classic smoked salmon on blinis with soured cream is the perfect partner to a glass of cold champagne.",
     "author": {
         "smiths_of_smithfield": "Smiths of Smithfield"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Classic smoked salmon on blinis with soured cream is the perfect partner to a glass of cold champagne.",
+    "dishes": [
+        "blini",
+        "bun",
+        "canape",
+        "champ"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "chopping_vegetables",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/smokedsalmontartarwi_92584_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -31,6 +31,12 @@
             "freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "13",
+    "serves": "20-24",
+    "show": {
+        
+    },
     "steps": [
         "Use a lemon zester to remove thin strips of zest from the lemon, taking care to avoid the white pith, which tastes bitter. Put the strips to one side.",
         "To dice the salmon, pile up the slices of smoked salmon into a stack. Using a very sharp knife, cut across the stack to give you thin strips. Turn the stack 90 degrees and cut across the strips again so that end up with fine dice. Place into a bowl.",
@@ -38,9 +44,9 @@
         "Add the finely chopped shallot and mix well.",
         "To serve, spread a layer of soured cream onto each blini. Place a spoonful of the salmon mixture on top of the soured cream and garnish each with a small sprig of dill and a strip of lemon zest."
     ],
-    "howTos": [
-        "chopping_vegetables",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Smoked salmon blini canap\u00e9s",
     "videos": "[]"
 }

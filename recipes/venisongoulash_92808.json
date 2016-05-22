@@ -1,26 +1,29 @@
 {
-    "title": "Venison goulash",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "East_European",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "1-2 spring onions, finely chopped",
+            "steamed rice"
+        ],
         "default": [
             "2 tbsp plain flour",
             "salt and freshly ground black pepper",
@@ -32,11 +35,13 @@
             "2 tbsp chopped jalapeno peppers, from a jar",
             "150ml/5\u00bdfl oz soured cream",
             "200ml/7fl oz hot beef or game stock"
-        ],
-        "To serve": [
-            "1-2 spring onions, finely chopped",
-            "steamed rice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Season the flour with salt and freshly ground black pepper. Dredge the venison cubes in the seasoned flour until completely covered, then shake off any excess.",
@@ -46,8 +51,9 @@
         "Return the venison to the pan, then pour over the soured cream and stock, stirring well to combine. Bring the mixture to the boil, then reduce the heat until the mixture is simmering and continue to simmer for one hour, or until the sauce has thickened.",
         "To serve, spoon the rice onto six serving plates. Spoon the goulash alongside. Sprinkle over the spring onions."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Venison goulash",
     "videos": "[]"
 }

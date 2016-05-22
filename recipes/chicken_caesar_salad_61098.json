@@ -1,38 +1,28 @@
 {
-    "title": "Chicken caesar salad with crunchy grapes, spicy pecans and rosemary croutons",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A special chicken Caesar salad with super tasty caramel coated grapes",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "A special chicken Caesar salad with super tasty caramel coated grapes",
+    "dishes": [
+        "bread",
+        "caramel",
+        "jam",
+        "mayonnaise",
+        "oven-baked_dishes",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the rosemary cro\u00fbtons": [
-            "2 slices spelt loaf bread, sliced into thin cro\u00fbtons",
-            "2 tbsp olive oil",
-            "2 sprigs rosemary, leaves picked and roughly chopped"
-        ],
-        "For the spicy pecans": [
-            "125g/4\u00bdoz butter",
-            "150g/5\u00bdoz brown sugar",
-            "two pinches cayenne pepper",
-            "300g/10\u00bdoz pecans",
-            "50g/1\u00beoz egg white, beaten until frothy"
-        ],
         "For the chicken Caesar salad": [
             "1 whole chicken",
             "1 carrot, cut into chunks",
@@ -43,6 +33,17 @@
             "2 garlic cloves, peeled and smashed",
             "1 Cos lettuce, roughly chopped",
             "1 Little Gem lettuce, roughly chopped"
+        ],
+        "For the crunchy grapes": [
+            "10g black sesame seeds",
+            "10g fennel seeds",
+            "10g sunflower seeds",
+            "10g wasabi peas",
+            "20g/\u00beoz puffed rice cereal",
+            "10g shelled pistachios",
+            "50g/1\u00beoz sugar",
+            "100g/3\u00bdoz red seedless grapes",
+            "100g/3\u00bdoz green seedless grapes"
         ],
         "For the dressing": [
             "1 bulb of garlic, top cut off",
@@ -58,17 +59,24 @@
             "2 tbsp honey",
             "50ml/2fl oz rapeseed oil"
         ],
-        "For the crunchy grapes": [
-            "10g black sesame seeds",
-            "10g fennel seeds",
-            "10g sunflower seeds",
-            "10g wasabi peas",
-            "20g/\u00beoz puffed rice cereal",
-            "10g shelled pistachios",
-            "50g/1\u00beoz sugar",
-            "100g/3\u00bdoz red seedless grapes",
-            "100g/3\u00bdoz green seedless grapes"
+        "For the rosemary cro\u00fbtons": [
+            "2 slices spelt loaf bread, sliced into thin cro\u00fbtons",
+            "2 tbsp olive oil",
+            "2 sprigs rosemary, leaves picked and roughly chopped"
+        ],
+        "For the spicy pecans": [
+            "125g/4\u00bdoz butter",
+            "150g/5\u00bdoz brown sugar",
+            "two pinches cayenne pepper",
+            "300g/10\u00bdoz pecans",
+            "50g/1\u00beoz egg white, beaten until frothy"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the rosemary cro\u00fbtons, preheat the oven to its lowest setting.",
@@ -85,8 +93,9 @@
         "To serve, in a large glass bowl add the Cos and baby gem lettuce, spicy pecans, crunchy grapes, cro\u00fbtons, chicken and mix.",
         "Pour over the dressing and toss to coat."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken caesar salad with crunchy grapes, spicy pecans and rosemary croutons",
     "videos": "[]"
 }

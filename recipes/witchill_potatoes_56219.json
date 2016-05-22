@@ -1,26 +1,32 @@
 {
-    "title": "Witchill potatoes, caramelised onion pur\u00e9e, buffalo milk and turkey prosciutto",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Here\u2019s something special from two Michelin star chef David Everitt-Matthias.",
     "author": {
         "david_everitt-matthias": "David Everitt-Matthias"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Here\u2019s something special from two Michelin star chef David Everitt-Matthias.",
+    "dishes": [
+        "caramel",
+        "jelly",
+        "pickle",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Witchill potatoes": [
+            "6 Witchill potatoes, about 40g/1\u00bdoz each, scrubbed",
+            "50g/1\u00beoz unsalted butter",
+            "4g leek ash (from above)"
+        ],
         "For the brine and the turkey prosciutto": [
             "1kg/2lb 4oz red wine",
             "225g/8oz salt",
@@ -33,13 +39,19 @@
             "20 black peppercorns",
             "400g/14oz piece skinless turkey breast, sinew-free"
         ],
-        "For the turkey coating": [
-            "6g black peppercorns",
-            "8g coriander seeds",
-            "8g mustard seeds",
-            "2g cumin seeds",
-            "5g fennel seeds",
-            "8g flaked sea salt"
+        "For the buffalo milk jelly": [
+            "450g/1lb buffalo milk",
+            "80g/3oz double cream",
+            "50g/1\u00beoz dried buffalo milk powder (available from specialist suppliers online)",
+            "1.8g agar-agar"
+        ],
+        "For the caramelised onion pur\u00e9e": [
+            "50g/1\u00beoz duck fat",
+            "600g/1lb 5oz onions, finely sliced",
+            "30g/1oz unsalted butter"
+        ],
+        "For the leek ash": [
+            "3 leeks"
         ],
         "For the pickled green elderberries": [
             "75g/2\u00bdoz salt",
@@ -50,35 +62,30 @@
             "40g/1\u00bdoz salt",
             "250g/9oz wild garlic buds"
         ],
-        "For the leek ash": [
-            "3 leeks"
-        ],
-        "For the buffalo milk jelly": [
-            "450g/1lb buffalo milk",
-            "80g/3oz double cream",
-            "50g/1\u00beoz dried buffalo milk powder (available from specialist suppliers online)",
-            "1.8g agar-agar"
-        ],
-        "For the Witchill potatoes": [
-            "6 Witchill potatoes, about 40g/1\u00bdoz each, scrubbed",
-            "50g/1\u00beoz unsalted butter",
-            "4g leek ash (from above)"
-        ],
-        "For the caramelised onion pur\u00e9e": [
-            "50g/1\u00beoz duck fat",
-            "600g/1lb 5oz onions, finely sliced",
-            "30g/1oz unsalted butter"
-        ],
         "For the spring onions": [
             "12 pencil-thin spring onions, trimmed",
             "1 tsp olive oil",
             "salt and freshly ground black pepper"
+        ],
+        "For the turkey coating": [
+            "6g black peppercorns",
+            "8g coriander seeds",
+            "8g mustard seeds",
+            "2g cumin seeds",
+            "5g fennel seeds",
+            "8g flaked sea salt"
         ],
         "To serve and garnish": [
             "10g/\u00bcoz pickled green elderberries (from above)",
             "10g/\u00bcoz salted garlic buds (from above)",
             "chickweed"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "3",
+    "serves": "Serves 6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the brine, combine all the ingredients, except the turkey, in a large saucepan with 1 litre/1\u00be pints water and bring to the boil. Cook for five minutes. Remove from the heat and leave to cool. Place the turkey in the brine, cover and leave in the brine in the fridge for 4-5 days.",
@@ -97,8 +104,9 @@
         "For the spring onions, heat a large frying pan. While it is getting hot, toss the spring onions in the oil and seasoning. Place them in the pan and keep turning until wilted, golden-brown and cooked.",
         "To serve, make a smear of onion pur\u00e9e down the centre of each plate. Sprinkle with green elderberries and garlic buds. Using a teaspoon, place four scoops of buffalo milk jelly on each place, then add the spring onions. Now, add the potatoes, four slices per plate. Arrange 4-5 slices of turkey prosciutto on each plate, bending them a little. Finally, add the chickweed and dust a band of leek ash over the centre of the plate."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Witchill potatoes, caramelised onion pur\u00e9e, buffalo milk and turkey prosciutto",
     "videos": "[]"
 }

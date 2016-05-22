@@ -1,43 +1,50 @@
 {
-    "title": "Custard tart with Earl Grey poached prunes",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Add class to the classic custard tart with warm tea-infused prunes for an impressive dessert.",
     "author": {
         "jun_tanaka": "Jun Tanaka"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Add class to the classic custard tart with warm tea-infused prunes for an impressive dessert.",
+    "dishes": [
+        "custard",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "750g/1lb 10oz plain flour",
-            "1 free-range egg, plus 2 free-range egg yolks",
-            "225g/8oz unsalted butter",
-            "150g/5\u00bdoz caster sugar"
-        ],
         "For the custard": [
             "500ml/18fl oz full-fat milk",
             "1 fresh vanilla pod, split and seeds scraped out",
             "5 free-range egg yolks",
             "80g/3oz golden caster sugar"
         ],
+        "For the pastry": [
+            "750g/1lb 10oz plain flour",
+            "1 free-range egg, plus 2 free-range egg yolks",
+            "225g/8oz unsalted butter",
+            "150g/5\u00bdoz caster sugar"
+        ],
         "For the prunes": [
             "50g/1\u00beoz caster sugar",
             "2 Earl Grey tea bags",
             "150g/5\u00bdoz prunes"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4 and grease a 22cm/9in flan tin.",
@@ -53,8 +60,9 @@
         "Once the tart has cooked (there should just be a bit of a wobble in the centre of the tart when it is shaken slightly), remove from the oven and set aside to cool.",
         "To serve, reheat the prunes and serve alongside slices of the custard tart."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry"
+    "tips": [
+        
     ],
+    "title": "Custard tart with Earl Grey poached prunes",
     "videos": "[]"
 }

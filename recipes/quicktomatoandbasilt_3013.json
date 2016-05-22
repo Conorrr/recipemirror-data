@@ -1,24 +1,25 @@
 {
-    "title": "Quick tomato and basil tart",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "16",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/quicktomatoandbasilt_3013_16x9.jpg"
-    ],
-    "description": "Make this simple tart in the summer when tomatoes are at their best. Serve with a green salad for a quick lunch.",
     "author": {
         "merrilees_parker": "Merrilees Parker"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "Make this simple tart in the summer when tomatoes are at their best. Serve with a green salad for a quick lunch.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "pesto",
+        "salad",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/quicktomatoandbasilt_3013_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -31,6 +32,12 @@
             "2 tsp lemon juice"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "16",
+    "serves": "Serves 8",
+    "show": {
+        "p0077hsg": "Housecall"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "Place the puff pastry on a non-stick baking sheet. Prick all over with a fork, leaving a 1inc/2cm border around the edge.",
@@ -39,8 +46,9 @@
         "Dress the salad with two tbsp of olive oil and the lemon juice, season generously with salt and freshly ground black pepper and mix well.",
         "To serve, cut into the tart into slices. Place the salad in the centre of each serving plate and place a slice of tart on top. Finish with a drizzle of olive oil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Quick tomato and basil tart",
     "videos": "[]"
 }

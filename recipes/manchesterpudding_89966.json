@@ -1,24 +1,27 @@
 {
-    "title": "Manchester pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "jam",
+        "meringue",
+        "oven-baked_dishes",
+        "souffle",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "whipping_cream",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,6 +35,12 @@
             "225g/8oz sugar",
             "raspberry jam, to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/360F/Gas 4.",
@@ -47,9 +56,9 @@
         "Return the puddings to the oven in the bain marie and bake for 8-10 minutes, or until the meringue is set.",
         "Remove from the oven and serve the puddings in their ramekins."
     ],
-    "howTos": [
-        "whipping_cream",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Manchester pudding",
     "videos": "[]"
 }

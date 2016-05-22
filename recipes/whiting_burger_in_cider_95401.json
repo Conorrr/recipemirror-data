@@ -1,41 +1,28 @@
 {
-    "title": "Whiting burger in cider rolls with tartare sauce and gherkin salad",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Makes 10 burgers",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "The sweet and sour rolls complement the fish perfectly. This is a great dish for the barbecue in summer.",
     "author": {
         "nathan_outlaw": "Nathan Outlaw"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        "The fermented starter dough will live in the fridge happily for up to five days."
+    "cookTime": "1 to 2 hours",
+    "description": "The sweet and sour rolls complement the fish perfectly. This is a great dish for the barbecue in summer.",
+    "dishes": [
+        "beef_burger",
+        "bread",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "knocking_back",
+        "using_fresh_yeast"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the starter dough": [
-            "1 x 400g/14oz tin peaches or pears, juice reserved",
-            "160ml/5fl oz reserved peach or pear juice",
-            "280g/10oz strong white flour",
-            "15g/\u00bdoz fresh yeast"
-        ],
-        "For the cider rolls": [
-            "100g/3\u00bdoz strong white flour",
-            "200g/7oz granary bread flour",
-            "60g/2\u00bcoz starter dough (from above)",
-            "150ml/5\u00bdoz cider",
-            "15g/\u00bdoz fresh yeast",
-            "15g/\u00bdoz unsalted butter",
-            "10g/\u00bcoz fine salt"
-        ],
         "For the burger": [
             "olive oil for cooking",
             "6 banana shallots, roughly chopped",
@@ -47,6 +34,27 @@
             "250g/9oz fresh white breadcrumbs",
             "sea salt (preferably Cornish) and freshly ground black pepper"
         ],
+        "For the cider rolls": [
+            "100g/3\u00bdoz strong white flour",
+            "200g/7oz granary bread flour",
+            "60g/2\u00bcoz starter dough (from above)",
+            "150ml/5\u00bdoz cider",
+            "15g/\u00bdoz fresh yeast",
+            "15g/\u00bdoz unsalted butter",
+            "10g/\u00bcoz fine salt"
+        ],
+        "For the gherkin salad": [
+            "3 gherkins, finely sliced",
+            "1 cucumber, chopped",
+            "2 shallots, finely sliced",
+            "rapeseed oil, for drizzling"
+        ],
+        "For the starter dough": [
+            "1 x 400g/14oz tin peaches or pears, juice reserved",
+            "160ml/5fl oz reserved peach or pear juice",
+            "280g/10oz strong white flour",
+            "15g/\u00bdoz fresh yeast"
+        ],
         "For the tartare sauce": [
             "2 large free-range egg yolks",
             "1 tsp white wine vinegar",
@@ -57,13 +65,13 @@
             "2 tbsp chopped capers",
             "4 gherkins, chopped",
             "1 tbsp flat leaf parsley"
-        ],
-        "For the gherkin salad": [
-            "3 gherkins, finely sliced",
-            "1 cucumber, chopped",
-            "2 shallots, finely sliced",
-            "rapeseed oil, for drizzling"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "6",
+    "serves": "Makes 10 burgers",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the starter dough, drain the tin of peaches/pears, reserving the juice. Place the fruit into a mixing bowl with 160ml/5fl oz of the reserved juice. Cover and leave to ferment at room temperature for two days.",
@@ -88,9 +96,9 @@
         "For the gherkin salad, mix the ingredients together then season with salt and freshly ground black pepper.",
         "Split each roll in half. Drizzle the bottom halves with a little olive oil, then add some gherkin salad. Top with a whiting burger, then spoon on some tartare sauce."
     ],
-    "howTos": [
-        "knocking_back",
-        "using_fresh_yeast"
+    "tips": [
+        "The fermented starter dough will live in the fridge happily for up to five days."
     ],
+    "title": "Whiting burger in cider rolls with tartare sauce and gherkin salad",
     "videos": "[]"
 }

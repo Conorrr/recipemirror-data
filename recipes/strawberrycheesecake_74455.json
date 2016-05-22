@@ -1,24 +1,23 @@
 {
-    "title": "Strawberry cheesecake",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "24",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/strawberrycheesecake_74455_16x9.jpg"
-    ],
-    "description": "Paul Rankin layers citrusy crushed biscuits, stewed strawberries and cheesecake in this easy yet dramatic dessert.",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Paul Rankin layers citrusy crushed biscuits, stewed strawberries and cheesecake in this easy yet dramatic dessert.",
+    "dishes": [
+        "biscuit",
+        "cheesecake",
+        "sauce",
+        "stew"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/strawberrycheesecake_74455_16x9.jpg"
     ],
     "ingredients": {
         "For the biscuit layer": [
@@ -28,13 +27,6 @@
             "\u00bd tbsp freshly grated lemon zest, very finely chopped",
             "6 tbsp orange juice or juice from the strawberries"
         ],
-        "For the strawberry layer": [
-            "1 tbsp lemon juice",
-            "1 tbsp water",
-            "2 tsp cornflour, dissolved in a little cold water or orange juice",
-            "100g/4oz caster sugar",
-            "1kg/2lb 3\u00bcoz strawberries, cleaned and sliced"
-        ],
         "For the cheesecake layer": [
             "2 sheets gelatine",
             "1-2 tbsp of lemon juice",
@@ -43,10 +35,23 @@
             "300g/10\u00bdoz thick Greek-style yoghurt",
             "1 tbsp of vanilla extract"
         ],
+        "For the strawberry layer": [
+            "1 tbsp lemon juice",
+            "1 tbsp water",
+            "2 tsp cornflour, dissolved in a little cold water or orange juice",
+            "100g/4oz caster sugar",
+            "1kg/2lb 3\u00bcoz strawberries, cleaned and sliced"
+        ],
         "To serve": [
             "whipped cream",
             "sprigs of mint"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "24",
+    "serves": "Serves 6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the biscuit layer, mix all the biscuit ingredients together and reserve.",
@@ -60,8 +65,9 @@
         "When the mixture is blended together add the vanilla extract.",
         "To assemble, place the biscuit layer into the base of six wine glasses, add a good dollop of cheesecake mixture, then add some strawberries. Chill the mixture for a few hours and top with whipped cream and a sprig of mint. Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Strawberry cheesecake",
     "videos": "[]"
 }

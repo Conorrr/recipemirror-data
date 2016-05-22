@@ -1,24 +1,23 @@
 {
-    "title": "Easy white bread",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 1 loaf",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/easy_white_bread_37005_16x9.jpg"
-    ],
-    "description": "Don\u2019t imagine a bread machine is a must-have for stress-free baking. With a little effort and barely any kneading, you can conjure up an impressive crusty white loaf.",
     "author": {
         "dan_lepard": "Dan Lepard"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "If flavours are your thing, then toss in up to 200g/7oz of cubed cheddar, or a little crispy bacon or some well-drained pitted olives and a handful of chopped herbs and you\u2019ll have one of those \u2018wow\u2019 breads you see in the best bakeries."
+    "cookTime": "30 mins to 1 hour",
+    "description": "Don\u2019t imagine a bread machine is a must-have for stress-free baking. With a little effort and barely any kneading, you can conjure up an impressive crusty white loaf.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "stir-fries",
+        "white_bread"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/easy_white_bread_37005_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -29,6 +28,12 @@
             "oil, for kneading"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "6",
+    "serves": "Makes 1 loaf",
+    "show": {
+        
+    },
     "steps": [
         "Put the flour, yeast and salt in a bowl, pour in the warm water and stir everything together into a sticky shaggy mass.",
         "Scrape the dough from your hands, cover the bowl with a cloth and leave for 10 minutes.",
@@ -38,8 +43,9 @@
         "Meanwhile preheat the oven to 220C/425F/Gas 7 (fan 200C).",
         "Flour the top of the dough, cut a slash down the middle and bake for 35\u201340 minutes."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If flavours are your thing, then toss in up to 200g/7oz of cubed cheddar, or a little crispy bacon or some well-drained pitted olives and a handful of chopped herbs and you\u2019ll have one of those \u2018wow\u2019 breads you see in the best bakeries."
     ],
+    "title": "Easy white bread",
     "videos": "[]"
 }

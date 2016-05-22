@@ -1,29 +1,27 @@
 {
-    "title": "Fennel and mushroom tartlets",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fennelandmushroomtar_71555_16x9.jpg"
-    ],
-    "description": "These beautiful delicate fennel tartlets make a gorgeous starter or part of a buffet lunch.",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "These beautiful delicate fennel tartlets make a gorgeous starter or part of a buffet lunch.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "salad",
+        "sauce",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fennelandmushroomtar_71555_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "225g/8oz shortcrust pastry"
-        ],
         "For the filling": [
             "175g/6oz mushrooms, ideally mixed, such as brown caps, shiitake, oysters, trimmed where necessary",
             "1 red onion, cut into 8 wedges",
@@ -38,7 +36,16 @@
         ],
         "To serve": [
             "a handful of herby salad"
+        ],
+        "default": [
+            "225g/8oz shortcrust pastry"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Grease 4 x 10 cm/4 in tartlet tins. Roll out the pastry to about 3 mm/1/8 in thick, and use to line the prepared tartlet tins.",
@@ -53,8 +60,9 @@
         "Heat the tarts for a minute or two in the oven, and then present on warmed plates, surrounded with a little sauce.",
         "Serve with herby salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fennel and mushroom tartlets",
     "videos": "[]"
 }

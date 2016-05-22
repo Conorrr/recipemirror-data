@@ -1,28 +1,36 @@
 {
-    "title": "Chicken korma with grilled flatbread",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "",
+    "dishes": [
+        "casserole",
+        "crumble",
+        "curry",
+        "flatbread",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 whole chicken, skinned and cut into 10 pieces: 2 drumsticks, 2 wings, 2 thighs and 4 breast portions"
+        "For the flatbread": [
+            "50g/2oz fresh yeast",
+            "2-3 tbsp lukewarm water",
+            "500g/1lb 1\u00bdoz self-raising flour",
+            "\u00bd tsp caster sugar",
+            "10 tbsp water (plus extra if needed)",
+            "\u00bd tsp salt",
+            "1 tbsp vegetable oil"
         ],
         "For the marinade": [
             "150g/6oz yoghurt",
@@ -50,15 +58,15 @@
             "2 tsp garam masala",
             "1 tbsp chopped coriander"
         ],
-        "For the flatbread": [
-            "50g/2oz fresh yeast",
-            "2-3 tbsp lukewarm water",
-            "500g/1lb 1\u00bdoz self-raising flour",
-            "\u00bd tsp caster sugar",
-            "10 tbsp water (plus extra if needed)",
-            "\u00bd tsp salt",
-            "1 tbsp vegetable oil"
+        "default": [
+            "1 whole chicken, skinned and cut into 10 pieces: 2 drumsticks, 2 wings, 2 thighs and 4 breast portions"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the chicken korma, place all the marinade ingredients together in a large bowl and mix to combine.",
@@ -83,8 +91,9 @@
         "Heat the vegetable oil in a griddle pan until hot, then add the disc and grill for three minutes on each side.",
         "Serve with the chicken korma."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Chicken korma with grilled flatbread",
     "videos": "[]"
 }

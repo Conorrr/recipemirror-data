@@ -1,26 +1,34 @@
 {
-    "title": "Keralan seafood pie",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "This succulent fish pie serves up sumptuous coconut and spices alongside prawns, mussels and smoked haddock.",
     "author": {
         "vivek_singh": "Vivek Singh"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "This succulent fish pie serves up sumptuous coconut and spices alongside prawns, mussels and smoked haddock.",
+    "dishes": [
+        "curry",
+        "fish_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "salad",
+        "sauce",
+        "seafood"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the garnish": [
+            "10 fresh curry leaves",
+            "2 green chillies, split open lengthways"
+        ],
         "For the pie": [
             "2 tbsp coconut oil or vegetable oil",
             "10 fresh curry leaves",
@@ -49,11 +57,13 @@
             "\u00bd tsp salt",
             "\u00bd tsp sugar",
             "2-3 tbsp olive oil"
-        ],
-        "For the garnish": [
-            "10 fresh curry leaves",
-            "2 green chillies, split open lengthways"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the pie, preheat the oven to 200C/400F/Gas 6.",
@@ -68,8 +78,9 @@
         "For the salad, mix together all the ingredients for the salad.",
         "Serve the pie with the sprouted fenugreek and moong lentil salad alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Keralan seafood pie",
     "videos": "[]"
 }

@@ -1,26 +1,29 @@
 {
-    "title": "Thai-style steamed sea bass",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "",
+    "dishes": [
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "1 tbsp soy sauce",
+            "1 tsp sesame oil",
+            "1 tsp chilli, chopped"
+        ],
         "default": [
             "1 sea bass fillet",
             "1 tsp olive oil",
@@ -29,12 +32,13 @@
             "1 tsp fresh thyme leaves",
             "handful fresh coriander, chopped",
             "\u00bd chilli, chopped"
-        ],
-        "For the dressing": [
-            "1 tbsp soy sauce",
-            "1 tsp sesame oil",
-            "1 tsp chilli, chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Bring a large pan of water to the boil and place a bamboo steamer or colander over the top.",
@@ -42,8 +46,9 @@
         "For the dressing mix the soy, sesame oil and chilli together.",
         "To serve, place the sea bass on a plate and pour over the dressing."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Thai-style steamed sea bass",
     "videos": "[]"
 }

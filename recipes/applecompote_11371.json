@@ -1,24 +1,21 @@
 {
-    "title": "Apple comp\u00f4te",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Apple comp\u00f4te is a great way to use up a glut of apples, and makes a delicious breakfast or healthy dessert.",
     "author": {
         "michael_caines": "Michael Caines"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Apple comp\u00f4te is a great way to use up a glut of apples, and makes a delicious breakfast or healthy dessert.",
+    "dishes": [
+        "compote",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,6 +25,12 @@
             "1 vanilla pod split"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Place the butter in a stainless steel saucepan and start to melt.",
         "Add the apples, sugar and vanilla pod.",
@@ -36,8 +39,9 @@
         "Remove the vanilla pod, and reserve for use later.",
         "Place the apple compote into a blender, blend to a fine pulp and pass through a fine sieve. Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Apple comp\u00f4te",
     "videos": "[]"
 }

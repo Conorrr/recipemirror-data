@@ -1,26 +1,34 @@
 {
-    "title": "Strawberry pyramids",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "pastry",
+        "samosa",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the basil syrup": [
+            "200g/7oz sugar",
+            "150ml/5fl oz water",
+            "few drops vanilla extract",
+            "4 tbsp chopped fresh basil"
+        ],
+        "For the mint yoghurt": [
+            "175ml/6fl oz Greek-style yoghurt",
+            "2 tbsp chopped fresh mint"
+        ],
         "For the strawberry pyramids": [
             "225g/8oz plain flour",
             "pinch salt",
@@ -31,17 +39,13 @@
             "75g/3oz soft light brown sugar",
             "pinch ground cinnamon",
             "vegetable oil, for frying"
-        ],
-        "For the mint yoghurt": [
-            "175ml/6fl oz Greek-style yoghurt",
-            "2 tbsp chopped fresh mint"
-        ],
-        "For the basil syrup": [
-            "200g/7oz sugar",
-            "150ml/5fl oz water",
-            "few drops vanilla extract",
-            "4 tbsp chopped fresh basil"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the strawberry pyramids, sift the flour and salt into a bowl, then use a knife to 'cut' the butter into it until well combined. Add the warm milk and bring together to make a dough (this is a special samosa pastry but you could use ready-made filo pastry if you prefer). Cover with cling film and place into the fridge to chill for 20 minutes.",
@@ -52,8 +56,9 @@
         "For the basil syrup, heat the sugar, water and vanilla extract in a small saucepan over a medium heat until the sugar has dissolved. Remove from the heat and allow to cool, then pour into a blender with the basil and blend until well combined. Pass the mixture through a very fine sieve into a bowl.",
         "To serve, place two pyramids onto each serving plate and serve with a dollop of mint yoghurt and a swirl of basil syrup."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Strawberry pyramids",
     "videos": "[]"
 }

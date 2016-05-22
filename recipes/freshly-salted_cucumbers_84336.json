@@ -1,24 +1,22 @@
 {
-    "title": "Freshly-salted cucumbers",
-    "cookTime": "no cooking required",
-    "prepTime": "overnight",
-    "serves": "Makes 1 jar of salted cucumbers",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "These salted cucumbers are great for sandwiches and salads.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b069hr3q": "The Hairy Bikers' Northern Exposure"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "East_European",
+    "description": "These salted cucumbers are great for sandwiches and salads.",
+    "dishes": [
+        "salad",
+        "sandwich"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,13 +27,20 @@
             "2 tbsp salt"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Makes 1 jar of salted cucumbers",
+    "show": {
+        "b069hr3q": "The Hairy Bikers' Northern Exposure"
+    },
     "steps": [
         "Put the garlic, horseradish and horseradish leaves in the bottom of a large sterilised jar and add the cucumbers.",
         "Add the salt to 2 litres/3\u00bd pints water and mix thoroughly. Pour the salted water over the cucumbers, screw on the lid and leave to rest for 24 hours.",
         "The cucumbers will keep in the fridge for one month."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Freshly-salted cucumbers",
     "videos": "[]"
 }

@@ -1,34 +1,27 @@
 {
-    "title": "Turkey skewers and bulgur salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/turkey_skewers_and_58075_16x9.jpg"
-    ],
-    "description": "Bulgur is nutritious and filling, try it as an alternative to rice or couscous. Top with tender turkey skewers and hummus dressing for a healthy evening meal. With a GI of 45, this meal is high protein, low GI and provides 485 kcal per portion.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Bulgur is nutritious and filling, try it as an alternative to rice or couscous. Top with tender turkey skewers and hummus dressing for a healthy evening meal. With a GI of 45, this meal is high protein, low GI and provides 485 kcal per portion.",
+    "dishes": [
+        "hummus",
+        "pie",
+        "prepare-ahead_desserts",
+        "salad",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/turkey_skewers_and_58075_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "2 tbsp sunflower oil",
-            "2 tbsp lemon juice",
-            "1 tsp paprika",
-            "3 tbsp chopped flat leaf parsley, plus extra to garnish",
-            "400g/14oz turkey breast, diced",
-            "salt and freshly ground black pepper"
-        ],
         "For the bulgur salad": [
             "400ml/14fl oz chicken stock",
             "250g/9oz bulgur wheat",
@@ -41,7 +34,21 @@
         "For the hummus dressing": [
             "4 tbsp hummus",
             "1 tbsp lemon juice"
+        ],
+        "default": [
+            "2 tbsp sunflower oil",
+            "2 tbsp lemon juice",
+            "1 tsp paprika",
+            "3 tbsp chopped flat leaf parsley, plus extra to garnish",
+            "400g/14oz turkey breast, diced",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Put 8 wooden skewers in warm water and let them soak while you prepare the turkey.",
@@ -53,8 +60,9 @@
         "For the dressing, combine the hummus with the lemon juice and 1 tablespoon of water.",
         "Place the turkey skewers on the bulgur wheat salad and spoon over the dressing. Garnish with lemon wedges and flat leaf parsley and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Turkey skewers and bulgur salad",
     "videos": "[]"
 }

@@ -1,24 +1,29 @@
 {
-    "title": "Lime and chipotle black bean tacos",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "These delicious and zesty black bean wraps are a doddle to make - but even better, everything can be made in advance.",
     "author": {
         "anna_jones": "Anna Jones"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        "Manchego is often made using animal rennet, but vegetarian versions are available."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Mexican",
+    "description": "These delicious and zesty black bean wraps are a doddle to make - but even better, everything can be made in advance.",
+    "dishes": [
+        "bun",
+        "guacamole",
+        "oven-baked_dishes",
+        "salsa",
+        "sauce",
+        "stir-fries",
+        "stock",
+        "taco",
+        "wraps"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the beans": [
@@ -30,17 +35,17 @@
             "2 x 400g tins black beans",
             "sea salt and freshly ground black pepper"
         ],
+        "For the guacamole": [
+            "1 ripe avocado, stone removed and peeled",
+            "1 green chilli",
+            "\u00bd lime, juice only"
+        ],
         "For the salsa": [
             "20 cherry tomatoes",
             "\u00bd red chilli, deseeded and finely chopped",
             "few sprigs fresh coriander, leaves picked",
             "\u00bd lime, juice only",
             "extra virgin olive oil, to taste"
-        ],
-        "For the guacamole": [
-            "1 ripe avocado, stone removed and peeled",
-            "1 green chilli",
-            "\u00bd lime, juice only"
         ],
         "For the sweet chilli sauce": [
             "2 tbsp olive oil",
@@ -63,6 +68,12 @@
             "a few coriander sprigs"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "For the beans, heat a frying pan over a medium heat. Add the garlic and a splash of olive oil and cook for a minute or so, until the edges of the garlic begin to just brown.",
         "Add the cinnamon, cumin and chipotle paste or chilli and stir for another minute to gently toast the spices. Add the beans and their liquid, bring to a simmer, then turn the heat down and cook for 10-15 minutes, until the liquid has thickened but the beans are still holding their shape. If you need to, add a little hot water to loosen. Season with salt and pepper and keep warm.",
@@ -72,8 +83,9 @@
         "Once everything is ready, heat your tortillas. I do this by holding them with tongs over the flame of my gas hob \u2013 its super quick and gives a delicious charred taste \u2013 but the oven will do just fine.",
         "Fill the tortillas with the beans, salsa, guacamole, egg, cheese and radishes. Don\u2019t forget the chilli sauce, coriander and a little yoghurt, if using."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Manchego is often made using animal rennet, but vegetarian versions are available."
     ],
+    "title": "Lime and chipotle black bean tacos",
     "videos": "[]"
 }

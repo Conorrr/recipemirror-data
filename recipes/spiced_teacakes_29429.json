@@ -1,24 +1,25 @@
 {
-    "title": "Spiced teacakes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 6 teacakes",
-    "recommendations": "19",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spiced_teacakes_29429_16x9.jpg"
-    ],
-    "description": "The Hairy Bikers share their recipe for this traditional teatime treat - far superior to anything shop-bought.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "The Hairy Bikers share their recipe for this traditional teatime treat - far superior to anything shop-bought.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries",
+        "teacake"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spiced_teacakes_29429_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -38,6 +39,12 @@
             "butter, for serving"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "19",
+    "serves": "Makes 6 teacakes",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
+    },
     "steps": [
         "Mix the flour, salt, yeast, spices, orange zest and sugar in a large bowl.",
         "Put the butter and milk in a small saucepan and heat very gently until the butter is melted and the milk is just lukewarm. Remove from the heat and whisk in the egg.",
@@ -46,8 +53,9 @@
         "Knead the dough lightly, divide into six portions and roll into balls. Using a rolling pin, flatten each ball to a circle about 1cm/\u00bdin thick and place on a large baking tray lined with baking parchment. Cover with oiled clingfilm and leave to rise for a further 45 minutes.",
         "Preheat the oven to 190C/375F/Gas 5. Remove the clingfilm and bake the teacakes in the centre of the oven for 15-18 minutes, or until well risen and golden-brown. Serve warm or leave to cool on a wire rack, then toast and serve spread thickly with butter. Eat within 24 hours to enjoy them at their best."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spiced teacakes",
     "videos": "[]"
 }

@@ -1,30 +1,23 @@
 {
-    "title": "Christmas pudding with syllabub",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "icing",
+        "syllabub"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "segmenting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "150g/5\u00bd oz Christmas pudding",
-            "1 orange, peeled and segmented"
-        ],
         "For the syllabub": [
             "150g/5\u00bdoz mascarpone",
             "100ml/3\u00bdfl oz double cream, lightly whipped",
@@ -34,7 +27,17 @@
         "To decorate": [
             "5 physalis (Cape gooseberries)",
             "icing sugar"
+        ],
+        "default": [
+            "150g/5\u00bd oz Christmas pudding",
+            "1 orange, peeled and segmented"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Place the Christmas pudding on a serving dish and top with orange segments.",
@@ -42,8 +45,9 @@
         "Add the icing sugar and orange juice to the bowl and mix well.",
         "To serve, top the Christmas pudding and orange segments with the syllabub and decorate with physalis and a dusting of icing sugar."
     ],
-    "howTos": [
-        "segmenting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Christmas pudding with syllabub",
     "videos": "[]"
 }

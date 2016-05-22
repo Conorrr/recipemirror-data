@@ -1,26 +1,32 @@
 {
-    "title": "Warm duck and citrus salad",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "1 tbsp soy sauce",
+            "1 tbsp honey",
+            "1 tsp Worcestershire sauce",
+            "1 tbsp sesame seeds",
+            "2 tbsp olive oil"
+        ],
         "For the duck and citrus salad": [
             "1 tbsp olive oil",
             "\u00bd smoked duck breast, sliced thinly",
@@ -32,14 +38,13 @@
             "1 lemon, peeled and segmented",
             "1 orange, peeled and segmented",
             "salt and freshly ground black pepper"
-        ],
-        "For the dressing": [
-            "1 tbsp soy sauce",
-            "1 tbsp honey",
-            "1 tsp Worcestershire sauce",
-            "1 tbsp sesame seeds",
-            "2 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the duck and citrus salad, heat the oil in a frying pan over a medium heat, add the duck breast and fry gently for 2-3 minutes, or until warmed through.",
@@ -48,8 +53,9 @@
         "For the dressing, place all the dressing ingredients into a bowl and mix well to combine.",
         "To serve, pile the warm duck and citrus salad onto a serving plate and pour the dressing over it."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Warm duck and citrus salad",
     "videos": "[]"
 }

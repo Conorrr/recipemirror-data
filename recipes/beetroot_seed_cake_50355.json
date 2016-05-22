@@ -1,26 +1,32 @@
 {
-    "title": "Beetroot seed cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves about 8",
-    "recommendations": "41",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beetroot_seed_cake_50355_16x9.jpg"
-    ],
-    "description": "Beetroot cake is the hero of vegetable-based cakes \u2013 moist, tasty and full of goodness. Nigel Slater shows you how.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b00vt10m": "Nigel Slater's Simple Suppers"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Beetroot cake is the hero of vegetable-based cakes \u2013 moist, tasty and full of goodness. Nigel Slater shows you how.",
+    "dishes": [
+        "cake",
+        "icing",
+        "oven-baked_dishes",
+        "pie",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beetroot_seed_cake_50355_16x9.jpg"
+    ],
     "ingredients": {
+        "For the icing": [
+            "8 tablespoons icing sugar",
+            "a little lemon juice or orange blossom water",
+            "poppy seeds, to garnish"
+        ],
         "default": [
             "butter or oil, for greasing",
             "225g/8oz self-raising flour",
@@ -34,12 +40,13 @@
             "juice of half a lemon",
             "75g/3oz sultanas or raisins",
             "75g/3oz mixed seeds (such as sunflower, pumpkin and linseed)"
-        ],
-        "For the icing": [
-            "8 tablespoons icing sugar",
-            "a little lemon juice or orange blossom water",
-            "poppy seeds, to garnish"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "41",
+    "serves": "Serves about 8",
+    "show": {
+        "b00vt10m": "Nigel Slater's Simple Suppers"
     },
     "steps": [
         "Preheat the oven at 180C/350F/Gas 4. Lightly grease a rectangular loaf tin (20cm x 9cm x 7cm/8in x 4in x 3in), then line the base with baking parchment.",
@@ -49,8 +56,9 @@
         "Beat the egg whites until light and almost stiff. Fold gently but thoroughly into the cake mixture, using a large metal spoon (a wooden one will knock the air out). Pour the mixture into the cake tin and bake for 50-55 minutes, covering the top with a piece of foil after thirty minutes. Test with a skewer for doneness. The cake should be moist inside but not sticky. Leave the cake to settle for a good twenty minutes before turning out of its tin onto a wire cooling rack.",
         "To make the icing, sift the icing sugar into a bowl and stir in enough lemon juice or orange blossom water to achieve a consistency where the icing will run over the top of the cake and drizzle slowly down the sides (about three teaspoonfuls), stirring to remove any lumps. Drizzle it over the cake and scatter with the poppy seeds. Leave to set before eating."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beetroot seed cake",
     "videos": "[]"
 }

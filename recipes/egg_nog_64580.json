@@ -1,24 +1,22 @@
 {
-    "title": "Egg nog",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 12",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/egg_nog_64580_16x9.jpg"
-    ],
-    "description": "The ready-made supermarket versions of egg nog have given it a bad press, but this deliciously creamy recipe is a little taste of Christmas history. George Washington, the first American president, even made his own egg nog, and is very clear about ageing it for a few days to let the flavour mellow.",
     "author": {
         "emily_angle": "Emily Angle"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "Tip: You can also use pasteurised egg whites that are available to buy in a carton if you are worried about egg safety."
+    "cookTime": "no cooking required",
+    "cusine": "British",
+    "description": "The ready-made supermarket versions of egg nog have given it a bad press, but this deliciously creamy recipe is a little taste of Christmas history. George Washington, the first American president, even made his own egg nog, and is very clear about ageing it for a few days to let the flavour mellow.",
+    "dishes": [
+        "rum_cocktail",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/egg_nog_64580_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -30,6 +28,12 @@
             "freshly grated nutmeg, to taste"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 12",
+    "show": {
+        
+    },
     "steps": [
         "Whisk the egg yolks in a bowl with 100g/3\u00bd oz of the caster sugar until the mixture is pale yellow and thick (this is best done with an electric handheld mixer).",
         "Stir in the milk, double cream, and the rum and/or bourbon. You can add a little grated nutmeg as well, if you like your nog this way.",
@@ -38,8 +42,9 @@
         "When ready to serve, defrost the egg whites into a clean metal or glass bowl. Using a handheld electric mixer, whisk the egg whites until foamy and opaque. Add the remaining 50g of sugar and whisk the egg whites until soft peaks form when the whisk is removed.",
         "Pour the egg nog from the bottles into a large bowl and fold in the egg whites until well combined. Ladle the egg nog into glass tumblers and serve with a little freshly grated nutmeg over the top of each glass."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Tip: You can also use pasteurised egg whites that are available to buy in a carton if you are worried about egg safety."
     ],
+    "title": "Egg nog",
     "videos": "[]"
 }

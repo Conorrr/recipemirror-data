@@ -1,24 +1,25 @@
 {
-    "title": "Mushroom stroganoff",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "13",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mushroom_stroganoff_80260_16x9.jpg"
-    ],
-    "description": "Try this quick, creamy and comforting vegetarian casserole with brown or basmati rice.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b01cbwfm": "Operation Hospital Food with James Martin"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Try this quick, creamy and comforting vegetarian casserole with brown or basmati rice.",
+    "dishes": [
+        "casserole",
+        "jam",
+        "sauce",
+        "stir-fries",
+        "stock",
+        "stroganoff"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mushroom_stroganoff_80260_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -37,14 +38,21 @@
             "boiled rice, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "13",
+    "serves": "Serves 4",
+    "show": {
+        "b01cbwfm": "Operation Hospital Food with James Martin"
+    },
     "steps": [
         "Melt the butter and oil in a large pan. Add the onions, mushrooms, garlic pur\u00e9e, spices and wine and cook for 10 minutes.",
         "Stir in the tomato pur\u00e9e, stock and cream. Bring to the boil and then reduce the heat to a simmer. Add the parsley.",
         "If the sauce is too thin, simmer the stroganoff until the volume of liquid has reduced to the desired consistency.",
         "Serve with boiled rice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mushroom stroganoff",
     "videos": "[]"
 }

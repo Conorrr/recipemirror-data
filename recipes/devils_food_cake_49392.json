@@ -1,26 +1,35 @@
 {
-    "title": "Devil\u2019s food cake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10-12",
-    "recommendations": "38",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/devils_food_cake_49392_16x9.jpg"
-    ],
-    "description": "Forget the name, this cake is heavenly. The crumb is tender, the filling and frosting luscious.",
     "author": {
         "nigella_lawson": "Nigella Lawson"
     },
-    "show": {
-        "b00v37l6": "Nigella Kitchen"
-    },
-    "tips": [
-        "You may prefer to prepare this cake the other way round from me, and get the frosting underway before you make the cakes. Either way, read the recipe through before you start cooking (I shouldn\u2019t have to remind you) to get the shape of things in your head, not least because the frosting is softer and stickier than you may be used to. While you\u2019re making it, don\u2019t panic. The mixture will seem very runny for ages once the chocolate has melted and you will think you have a liquid gleaming glaze, beautiful but unfit for purpose; but leave it for about an hour, as stipulated, and it will be perfect and spreadable. It never quite dries to the touch, but this is, in part, what makes the cake so darkly luscious. Goo here is good."
+    "cookTime": "1 to 2 hours",
+    "description": "Forget the name, this cake is heavenly. The crumb is tender, the filling and frosting luscious.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "oven-baked_dishes",
+        "prepare-ahead_desserts",
+        "sandwich",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "greasing_and_lining",
+        "icing_cake_ganache",
+        "testing_to_see_if_a_cake_is_cooked"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/devils_food_cake_49392_16x9.jpg"
+    ],
     "ingredients": {
+        "For the frosting": [
+            "125ml/4fl oz water",
+            "30g/1oz dark muscovado sugar",
+            "175g/6oz unsalted butter, cubed",
+            "300g/10oz best-quality dark chocolate, finely chopped"
+        ],
         "default": [
             "50g/2oz best-quality cocoa powder, sifted",
             "100g/4oz dark muscovado sugar",
@@ -32,13 +41,13 @@
             "\u00bd tsp bicarbonate of soda",
             "2 tsp vanilla extract",
             "2 free-range eggs"
-        ],
-        "For the frosting": [
-            "125ml/4fl oz water",
-            "30g/1oz dark muscovado sugar",
-            "175g/6oz unsalted butter, cubed",
-            "300g/10oz best-quality dark chocolate, finely chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "38",
+    "serves": "Serves 10-12",
+    "show": {
+        "b00v37l6": "Nigella Kitchen"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Line the bottoms of two 20cm/8in sandwich tins with baking parchment and butter the sides.",
@@ -53,10 +62,9 @@
         "Set the frosting aside for about one hour, whisking now and again \u2013 when you\u2019re passing the pan \u2013 by which time the cakes will be cooled, and ready for the frosting.",
         "Set one of the cooled cakes, with its top side facing downwards, onto a cake stand or plate, and spread with about one-third of the frosting. Top that with the second cake, regular way up, and spread the remaining frosting over the top and sides, swirling away with your spatula. You can go for a smooth look, but I never do and probably couldn\u2019t."
     ],
-    "howTos": [
-        "greasing_and_lining",
-        "icing_cake_ganache",
-        "testing_to_see_if_a_cake_is_cooked"
+    "tips": [
+        "You may prefer to prepare this cake the other way round from me, and get the frosting underway before you make the cakes. Either way, read the recipe through before you start cooking (I shouldn\u2019t have to remind you) to get the shape of things in your head, not least because the frosting is softer and stickier than you may be used to. While you\u2019re making it, don\u2019t panic. The mixture will seem very runny for ages once the chocolate has melted and you will think you have a liquid gleaming glaze, beautiful but unfit for purpose; but leave it for about an hour, as stipulated, and it will be perfect and spreadable. It never quite dries to the touch, but this is, in part, what makes the cake so darkly luscious. Goo here is good."
     ],
+    "title": "Devil\u2019s food cake",
     "videos": "[]"
 }

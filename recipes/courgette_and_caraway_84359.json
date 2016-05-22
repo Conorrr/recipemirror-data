@@ -1,37 +1,26 @@
 {
-    "title": "Courgette and caraway cake",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 20cm/8in cake",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/courgette_and_caraway_84359_16x9.jpg"
-    ],
-    "description": "A moist, spiced teatime cake filled with apple-flavoured cream cheese and topped with crunchy caramelized oats.",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A moist, spiced teatime cake filled with apple-flavoured cream cheese and topped with crunchy caramelized oats.",
+    "dishes": [
+        "cake",
+        "caramel",
+        "icing",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/courgette_and_caraway_84359_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "2 tsp caraway seeds",
-            "100g/3\u00bdoz self-raising flour",
-            "100g/3\u00bdoz wholemeal flour",
-            "175g/6oz golden caster sugar",
-            "1 tsp baking powder",
-            "pinch salt",
-            "200g/7oz unsalted butter, softened",
-            "3 free-range eggs",
-            "250g/9oz courgettes, grated and dried in a clean tea towel"
-        ],
         "For the filling": [
             "3-4 juicy eating apples, peeled",
             "2-3 tbsp cloudy apple juice",
@@ -42,7 +31,24 @@
         "For the topping": [
             "2 handfuls oats",
             "golden caster sugar"
+        ],
+        "default": [
+            "2 tsp caraway seeds",
+            "100g/3\u00bdoz self-raising flour",
+            "100g/3\u00bdoz wholemeal flour",
+            "175g/6oz golden caster sugar",
+            "1 tsp baking powder",
+            "pinch salt",
+            "200g/7oz unsalted butter, softened",
+            "3 free-range eggs",
+            "250g/9oz courgettes, grated and dried in a clean tea towel"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Makes 1 20cm/8in cake",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
     },
     "steps": [
         "Pre-heat the oven to 190C/375F/Gas 5. Line 2 x 20cm/8in diameter cake tins with baking parchment.",
@@ -55,8 +61,9 @@
         "For the topping, toast the oats in a dry frying pan until golden-brown and aromatic, then add the sugar to caramelize the oats.",
         "Once the cakes are cool, spread a thick layer of the filling on onto one cake. Gently place the other cake onto the top, then spread a thinner layer of icing on top. Sprinkle with the toasted oats and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Courgette and caraway cake",
     "videos": "[]"
 }

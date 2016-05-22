@@ -1,34 +1,31 @@
 {
-    "title": "Chocolate pecan tart",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 10",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_pecan_tart_86249_16x9.jpg"
-    ],
-    "description": "Impress the chocoholic in your life with chocolate shortcrust pastry filled with a rich chocolate and nut filling. For this recipe you will need a heavy, flat baking tray and a 25cm/10in fluted flan tin.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Impress the chocoholic in your life with chocolate shortcrust pastry filled with a rich chocolate and nut filling. For this recipe you will need a heavy, flat baking tray and a 25cm/10in fluted flan tin.",
+    "dishes": [
+        "bread",
+        "chocolate_tart",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry",
+        "melting_chocolate",
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_pecan_tart_86249_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pastry": [
-            "125g/4\u00bdoz plain flour",
-            "2 tbsp icing sugar",
-            "2 tbsp cocoa powder",
-            "1 medium free-range egg",
-            "1 tsp lemon juice",
-            "135g/4\u00beoz cold unsalted butter, cut into roughly 1cm/\u00bdin cubes"
-        ],
         "For the filling": [
             "80g/3oz dark chocolate, broken into pieces",
             "45g/1\u00bdoz unsalted butter",
@@ -38,7 +35,21 @@
             "1 tsp vanilla extract",
             "235g/8\u00bcoz pecans, chopped",
             "vanilla ice cream or double cream, to serve"
+        ],
+        "For the pastry": [
+            "125g/4\u00bdoz plain flour",
+            "2 tbsp icing sugar",
+            "2 tbsp cocoa powder",
+            "1 medium free-range egg",
+            "1 tsp lemon juice",
+            "135g/4\u00beoz cold unsalted butter, cut into roughly 1cm/\u00bdin cubes"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 10",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the pastry, put the flour, icing sugar and cocoa powder into a large bowl and mix them together. Lightly beat the egg with the lemon juice and 2 tablespoons very cold water in a measuring jug with a fork. Set aside.",
@@ -52,10 +63,9 @@
         "Beat the eggs in a large bowl, then stir in the chocolate mixture. Whisk in the sugar syrup mixture and thoroughly combine. (It\u2019s important to cool the melted chocolate and sugar syrup or they will scramble the eggs.) Add the vanilla extract and stir in the pecans.",
         "Pour the pecan filling into the baked pastry and bake in the oven for 30-40 minutes until set. Cool and serve with vanilla ice cream or double cream."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry",
-        "melting_chocolate",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Chocolate pecan tart",
     "videos": "[]"
 }

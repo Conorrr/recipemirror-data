@@ -1,24 +1,22 @@
 {
-    "title": "Celeriac remoulade",
-    "cookTime": "no cooking required",
-    "prepTime": "overnight",
-    "serves": "Serves 2",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/celeriacremoulade_77607_16x9.jpg"
-    ],
-    "description": "This remoulade recipe is the perfect way to use celeriac. It's great as a starter with charcuterie or smoked fish.",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "French",
+    "description": "This remoulade recipe is the perfect way to use celeriac. It's great as a starter with charcuterie or smoked fish.",
+    "dishes": [
+        "mayonnaise",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/celeriacremoulade_77607_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -30,14 +28,21 @@
             "salt and white pepper"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "5",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Place the celeriac strips into a bowl along with the lemon and juice and toss to combine.",
         "Mix the double cream, mayonnaise and mustard together then stir into the celeriac.",
         "Season with salt and white pepper.",
         "Place in the fridge for a couple of hours for the flavours to develop before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Celeriac remoulade",
     "videos": "[]"
 }

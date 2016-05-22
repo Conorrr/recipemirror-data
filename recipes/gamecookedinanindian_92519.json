@@ -1,47 +1,27 @@
 {
-    "title": "Game cooked in an Indian wok (Kadhai ka shikar)",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This Indian recipe for cooking grouse is heady, aromatic and packed full of flavour. It will also work will other types of game.",
     "author": {
         "vivek_singh": "Vivek Singh"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "This Indian recipe for cooking grouse is heady, aromatic and packed full of flavour. It will also work will other types of game.",
+    "dishes": [
+        "pickle",
+        "pie",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the spice mixture": [
-            "1 dried red chilli",
-            "1 tsp coriander seeds",
-            "1 tsp fennel seeds",
-            "\u00bd tsp cumin seeds",
-            "\u00bc tsp black peppercorns",
-            "1cm/\u00bdin cinnamon stick",
-            "\u00bc tsp carom seeds or ajwain seeds"
-        ],
-        "For the pumpkin pickle": [
-            "4 tbsp vegetable or corn oil",
-            "\u00bc tsp fenugreek seeds",
-            "2 dried red chillies, each broken into 2-3 pieces",
-            "\u00bd tsp black onion seeds",
-            "700g/1lb 9oz pumpkin flesh, peeled, cut into 1cm/\u00bdin cubes",
-            "1\u00bd tsp salt",
-            "1 tsp red chilli powder",
-            "\u00bd tsp ground turmeric",
-            "3-5 tbsp sugar",
-            "2 tsp dried mango powder (amchoor), available from Indian supermarkets (or mango pickle from a jar)"
-        ],
         "For the grouse": [
             "3 tbsp vegetable or corn oil",
             "\u00bc tsp cloves",
@@ -61,7 +41,34 @@
             "1 tbsp chopped fresh coriander leaves",
             "1 lime, juice only",
             "few sprigs micro salad leaves or mixed salad leaves, to serve"
+        ],
+        "For the pumpkin pickle": [
+            "4 tbsp vegetable or corn oil",
+            "\u00bc tsp fenugreek seeds",
+            "2 dried red chillies, each broken into 2-3 pieces",
+            "\u00bd tsp black onion seeds",
+            "700g/1lb 9oz pumpkin flesh, peeled, cut into 1cm/\u00bdin cubes",
+            "1\u00bd tsp salt",
+            "1 tsp red chilli powder",
+            "\u00bd tsp ground turmeric",
+            "3-5 tbsp sugar",
+            "2 tsp dried mango powder (amchoor), available from Indian supermarkets (or mango pickle from a jar)"
+        ],
+        "For the spice mixture": [
+            "1 dried red chilli",
+            "1 tsp coriander seeds",
+            "1 tsp fennel seeds",
+            "\u00bd tsp cumin seeds",
+            "\u00bc tsp black peppercorns",
+            "1cm/\u00bdin cinnamon stick",
+            "\u00bc tsp carom seeds or ajwain seeds"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the spice mixture, heat a frying pan over a medium heat. When the pan is hot, add the spice mixture ingredients and dry fry for 1-2 minutes, or until the spices are fragrant.",
@@ -81,8 +88,9 @@
         "Sprinkle over the fresh coriander leaves, then squeeze over the lime juice and remove the pan from the heat.",
         "To serve, spoon the wok-cooked grouse onto each of four serving plates. Spoon the pumpkin pickle alongside each serving. Garnish each plate with a few sprigs of micro salad leaves."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Game cooked in an Indian wok (Kadhai ka shikar)",
     "videos": "[]"
 }

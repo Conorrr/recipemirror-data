@@ -1,31 +1,26 @@
 {
-    "title": "Fresh spaghetti with tomato and basil sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "pasta",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading",
+        "rolling_pasta_dough"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the spaghetti": [
-            "100g/3\u00bdoz plain flour",
-            "1 free-range egg",
-            "pinch salt"
-        ],
         "For the sauce": [
             "1 tbsp olive oil",
             "\u00bd onion, chopped",
@@ -33,7 +28,18 @@
             "200g/7oz fresh chopped tomatoes",
             "handful fresh basil, chopped",
             "salt and freshly ground black pepper"
+        ],
+        "For the spaghetti": [
+            "100g/3\u00bdoz plain flour",
+            "1 free-range egg",
+            "pinch salt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "To make the spaghetti, mix the flour with the egg and salt in a blender until combined.",
@@ -47,9 +53,9 @@
         "Stir the basil through the tomato sauce and season to taste with salt and freshly ground black pepper.",
         "Serve the pasta in a serving bowl with the sauce spooned over."
     ],
-    "howTos": [
-        "kneading",
-        "rolling_pasta_dough"
+    "tips": [
+        
     ],
+    "title": "Fresh spaghetti with tomato and basil sauce",
     "videos": "[]"
 }

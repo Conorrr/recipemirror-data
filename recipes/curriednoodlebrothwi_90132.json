@@ -1,26 +1,34 @@
 {
-    "title": "Curried noodle broth with cashews",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "broth",
+        "curry",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the broth": [
+            "55g/2oz cashew nuts",
+            "5 asparagus spears, woody stems only",
+            "\u00bd red pepper, chopped",
+            "250ml/9fl oz chicken or vegetable stock",
+            "100ml/3\u00bdfl oz double cream",
+            "2 tbsp chopped fresh coriander"
+        ],
         "For the curry paste": [
             "\u00bd red pepper",
             "\u00bd tsp mild curry powder",
@@ -32,18 +40,16 @@
             "200g/7oz egg noodles, cooked according to packet instructions",
             "1 tbsp sesame oil"
         ],
-        "For the broth": [
-            "55g/2oz cashew nuts",
-            "5 asparagus spears, woody stems only",
-            "\u00bd red pepper, chopped",
-            "250ml/9fl oz chicken or vegetable stock",
-            "100ml/3\u00bdfl oz double cream",
-            "2 tbsp chopped fresh coriander"
-        ],
         "To serve": [
             "sprigs fresh coriander",
             "sprigs fresh chives"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the curry paste, place all of the paste ingredients into a small food processor and blend to a smooth paste.",
@@ -51,8 +57,9 @@
         "For the broth, dry fry the cashew nuts in a frying pan for 2-3 minutes, or until golden-brown, then remove and set aside. Add the remaining curry paste to the pan along with the asparagus and red pepper and fry for 3-4 minutes, coating the vegetables evenly in the paste. Stir in the stock and cream and bring to a gentle simmer for 2-3 minutes, or until the vegetables are tender. Stir in the coriander and the toasted cashews.",
         "Serve the noodles in a soup bowl with the broth spooned over the top, and garnish with the fresh coriander and chives."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Curried noodle broth with cashews",
     "videos": "[]"
 }

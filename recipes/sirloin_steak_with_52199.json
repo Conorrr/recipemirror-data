@@ -1,26 +1,38 @@
 {
-    "title": "Sirloin steak with peppercorn sauce, mash and hazelnut beans",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "16",
-    "images": [
-        
-    ],
-    "description": "Classic steaks with peppercorn sauce, provide a delicious bistro supper, served with mash to mop up the sauce.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Classic steaks with peppercorn sauce, provide a delicious bistro supper, served with mash to mop up the sauce.",
+    "dishes": [
+        "ham",
+        "jam",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the beans:": [
+            "200g/7oz fine green beans, trimmed",
+            "40g/1\u00bd oz butter",
+            "75g/3oz toasted hazelnuts, lighty crushed",
+            "3 tbsp sherry vinegar",
+            "2 tbsp olive oil",
+            "2 tbsp flatleaf parsley, roughly chopped"
+        ],
+        "For the mash:": [
+            "1 kg/2lb 4oz floury potatoes, peeled and cut into chunks",
+            "110g/4oz butter",
+            "125ml/4fl oz full fat milk"
+        ],
         "For the steak:": [
             "4 x 200g/7oz sirloin steaks, flattened slightly using a meat hammer or rolling pin",
             "salt and freshly ground black pepper",
@@ -32,20 +44,13 @@
             "50ml/2fl oz brandy",
             "200ml/7fl oz beef stock",
             "250ml/9fl oz double cream"
-        ],
-        "For the mash:": [
-            "1 kg/2lb 4oz floury potatoes, peeled and cut into chunks",
-            "110g/4oz butter",
-            "125ml/4fl oz full fat milk"
-        ],
-        "For the beans:": [
-            "200g/7oz fine green beans, trimmed",
-            "40g/1\u00bd oz butter",
-            "75g/3oz toasted hazelnuts, lighty crushed",
-            "3 tbsp sherry vinegar",
-            "2 tbsp olive oil",
-            "2 tbsp flatleaf parsley, roughly chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "16",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the steak, season the steaks, to taste, with salt and freshly ground black pepper.",
@@ -64,8 +69,9 @@
         "Season with salt and black pepper then add the beans and parsley and toss to coat.",
         "To serve, spoon the mash onto the plate then place the steak alongside. Place the beans next to it then spoon over the peppercorn sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sirloin steak with peppercorn sauce, mash and hazelnut beans",
     "videos": "[]"
 }

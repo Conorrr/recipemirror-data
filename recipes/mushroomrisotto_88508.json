@@ -1,24 +1,27 @@
 {
-    "title": "Mushroom and herb risotto",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "Use any mixture of mushrooms in this classic recipe.",
     "author": {
         "sylvia_and_jamie_haselock": "Sylvia & Jamie Haselock"
     },
-    "show": {
-        "b009f3wl": "Recipe for Success"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "Use any mixture of mushrooms in this classic recipe.",
+    "dishes": [
+        "bun",
+        "crumble",
+        "jam",
+        "risotto",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -41,6 +44,12 @@
             "bunch fresh parsley, roughly chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 2",
+    "show": {
+        "b009f3wl": "Recipe for Success"
+    },
     "steps": [
         "In a pan, heat half of the butter and some olive oil until the butter has melted. Add the mushrooms and fry until cooked all the way through. Set aside.",
         "Melt the remainder of the butter in a large saucepan with a little more olive oil. Add the shallots, onions and then the garlic. Fry until softened, but not coloured.",
@@ -48,8 +57,9 @@
         "Add the rice to the pan and stir constantly until the rice is very hot and the grains are starting to turn translucent. Begin to add the white wine and hot stock little by little, stirring continuously. Cook for 18-20 minutes, until all the liquid has been absorbed and the rice is tender with a little crunch. Remove the pan from the heat.",
         "Add the cream and stir thoroughly. Add the mushrooms and parmesan to the rice. Finish with the chopped parsley and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mushroom and herb risotto",
     "videos": "[]"
 }

@@ -1,23 +1,26 @@
 {
-    "title": "Ultimate burger in a brioche bun",
-    "cookTime": "less than 10 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "James Martin once worked in one of the oldest diners in America, so he's well-placed to judge what makes the ultimate burger recipe.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b04xycrx": "James Martin: Home Comforts"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "American",
+    "description": "James Martin once worked in one of the oldest diners in America, so he's well-placed to judge what makes the ultimate burger recipe.",
+    "dishes": [
+        "beef_burger",
+        "bread",
+        "brioche",
+        "bun",
+        "jam",
+        "mayonnaise",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -39,6 +42,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "1-2 hours",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b04xycrx": "James Martin: Home Comforts"
+    },
     "steps": [
         "Season the steak mince with salt and freshly ground black pepper and mix in a bowl using your hands. Divide the mince into four equally-sized balls and press each one between your palms to form a patty. Place the patties on a plate, cover, and chill in the fridge for an hour.",
         "Thirty minutes before you want to eat, light your barbecue. Allow the flames to flare up and die down.",
@@ -48,8 +57,9 @@
         "To assemble the burgers, spread a little of the chilli relish onto the base of each brioche bun. Place a lettuce leaf and a slice of tomato on top, then add a burger, a slice of cheese, and a dollop of the mustard mayonnaise. Top with a few gherkin and red onion slices, then place the top half of the brioche bun on top.",
         "Place the burgers onto serving plates, keeping them from toppling over by spearing them with wooden skewers, if desired."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Ultimate burger in a brioche bun",
     "videos": "[p02ffq61:p02ffq6d]"
 }

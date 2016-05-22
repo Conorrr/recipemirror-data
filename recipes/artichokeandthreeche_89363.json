@@ -1,23 +1,27 @@
 {
-    "title": "Artichoke and three cheese pizza",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bun",
+        "crumble",
+        "ham",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "pizza",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -44,6 +48,12 @@
             "1 bunch fresh basil, leaves only"
         ]
     },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Makes 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "For the dough, place the flour, salt and sugar into a large bowl and stir to combine.",
         "Crumble the yeast into a small bowl and add four tablespoons of the water. Whisk to combine and set aside for one minute.",
@@ -59,8 +69,9 @@
         "Carefully transfer the pizzas into the oven, pushing the pizzas from the floured tray onto the hot tray pizza stone. Cook for 15 minutes, or until the base is crisp and the topping is cooked through.",
         "Remove from the oven and sprinkle with the basil leaves. Serve immediately."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Artichoke and three cheese pizza",
     "videos": "[]"
 }

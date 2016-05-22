@@ -1,24 +1,27 @@
 {
-    "title": "Scotch broth",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "21",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bikers_scotch_broth_91406_16x9.jpg"
-    ],
-    "description": "Warm up with a classic recipe for Scotch broth from The Hairy Bikers.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Warm up with a classic recipe for Scotch broth from The Hairy Bikers.",
+    "dishes": [
+        "broth",
+        "bun",
+        "casserole",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bikers_scotch_broth_91406_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -38,6 +41,12 @@
             "freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "21",
+    "serves": "Serves 6",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
+    },
     "steps": [
         "Put the pearl barley into a bowl and cover with cold water. Set aside to soak.",
         "Meanwhile, pace the lamb in a large saucepan or flameproof casserole and cover with the cold water or lamb stock. Bring to a simmer and skim off the scum. Add the onion, bay leaf and thyme to the pan. Return to a gentle simmer and cook for one hour, skimming occasionally.",
@@ -46,8 +55,9 @@
         "Stir in the cabbage and return to a gentle simmer. Continue cooking uncovered for a further 15 minutes or until the lamb is very tender and is falling off the bone and the barley is softened. Remove the pan from the heat",
         "Lift the lamb out of the pot with tongs or a large fork and put on a board. Carve off all the meat, slicing or tearing into largish chunks and discarding any skin and bone. Season the broth with more salt and pepper to taste and spoon into large, deep plates. Divide the lamb between the plates and sprinkle with freshly chopped parsley."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Scotch broth",
     "videos": "[]"
 }

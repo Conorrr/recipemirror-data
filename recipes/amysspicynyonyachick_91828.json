@@ -1,35 +1,26 @@
 {
-    "title": "Amy's spicy Nyonya chicken",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "This is a simple South-East Asian chicken curry, rich and fragrant with spices. The person who introduced me to this dish, Amy, says she often stirs in a little lime juice and coconut milk at the end to \u2018wake up the curry\u2019.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b00ltm3b": "Rick Stein's Far Eastern Odyssey"
-    },
-    "tips": [
-        "This curry is very hot, if you like your curries a bit miler reduce the amount of chilli."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "This is a simple South-East Asian chicken curry, rich and fragrant with spices. The person who introduced me to this dish, Amy, says she often stirs in a little lime juice and coconut milk at the end to \u2018wake up the curry\u2019.",
+    "dishes": [
+        "chicken_curry",
+        "curry",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "testing_cooked_poultry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the spice paste": [
-            "6 dried red chillies, preferably Kashmiri, soaked in hot water for 30 minutes, then drained",
-            "75g/2\u00beoz shallots, thinly sliced",
-            "3 fat lemongrass stalks, hard outer leaves removed, soft inner core chopped",
-            "40g/1\u00bdoz garlic, peeled, roughly chopped",
-            "1 tsp shrimp paste (available from some supermarkets and Asian grocers)",
-            "25g/1oz galangal or root ginger, peeled, roughly chopped",
-            "2 tbsp vegetable oil"
-        ],
         "For the chicken": [
             "2 tbsp vegetable oil",
             "1 x 1.5kg/3lb 5oz chicken, cut into 8 pieces",
@@ -39,7 +30,22 @@
             "1 tsp palm sugar (available from some supermarkets and Asian grocers; substitute golden caster sugar if unavailable)",
             "1 lime, juice only",
             "salt, to taste"
+        ],
+        "For the spice paste": [
+            "6 dried red chillies, preferably Kashmiri, soaked in hot water for 30 minutes, then drained",
+            "75g/2\u00beoz shallots, thinly sliced",
+            "3 fat lemongrass stalks, hard outer leaves removed, soft inner core chopped",
+            "40g/1\u00bdoz garlic, peeled, roughly chopped",
+            "1 tsp shrimp paste (available from some supermarkets and Asian grocers)",
+            "25g/1oz galangal or root ginger, peeled, roughly chopped",
+            "2 tbsp vegetable oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 4",
+    "show": {
+        "b00ltm3b": "Rick Stein's Far Eastern Odyssey"
     },
     "steps": [
         "For the spice paste, blend all of the spice paste ingredients together in a food processor until smooth.",
@@ -49,8 +55,9 @@
         "When the chicken is cooked through, stir in the palm sugar and lime juice and season, to taste, with salt.",
         "Serve immediately in serving bowls."
     ],
-    "howTos": [
-        "testing_cooked_poultry"
+    "tips": [
+        "This curry is very hot, if you like your curries a bit miler reduce the amount of chilli."
     ],
+    "title": "Amy's spicy Nyonya chicken",
     "videos": "[]"
 }

@@ -1,32 +1,29 @@
 {
-    "title": "Coquilles Saint Jacques \u00e0 la Parisienne with taboulleh",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "michel_roux": "Michel Roux"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pie",
+        "roux",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "using_piping_bags"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "8 scallops, live in the shell, shell cleaned",
-            "200g/7oz button mushrooms, thinly sliced",
-            "\u00bc lemon, juice only",
-            "500ml/18fl oz fish stock"
-        ],
         "For the potatoes": [
             "300g/11oz medium baking potatoes",
             "2 free-range egg yolks",
@@ -52,7 +49,19 @@
             "15g/\u00bdoz fine breadcrumbs",
             "50g/2oz butter, melted",
             "salt and freshly ground black pepper"
+        ],
+        "default": [
+            "8 scallops, live in the shell, shell cleaned",
+            "200g/7oz button mushrooms, thinly sliced",
+            "\u00bc lemon, juice only",
+            "500ml/18fl oz fish stock"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Place the whole live scallops onto a hotplate or hot griddle pan for 1-2 minutes, until they begin to open.",
@@ -81,8 +90,9 @@
         "Place the scallops into the hot oven to bake for 3-5 minutes, until the top of the sauce is lightly glazed and the potato border pale golden.",
         "To serve, spoon the tabbouleh out onto four plates and carefully remove the scallops from the oven and place one on top of each pile of tabbouleh. Do not forget to warn your guests that the scallop shell will be extremely hot."
     ],
-    "howTos": [
-        "using_piping_bags"
+    "tips": [
+        
     ],
+    "title": "Coquilles Saint Jacques \u00e0 la Parisienne with taboulleh",
     "videos": "[]"
 }

@@ -1,24 +1,26 @@
 {
-    "title": "Poulet saut\u00e9 au vinaigre",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "43",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/poulet_saut_au_vinaigre_50938_16x9.jpg"
-    ],
-    "description": "Chicken on the bone gently cooked with tart vinegar, delicate tarragon, punchy mustard and cream - a real French gem.",
     "author": {
         "henry_harris": "Henry Harris"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Chicken on the bone gently cooked with tart vinegar, delicate tarragon, punchy mustard and cream - a real French gem.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "punch",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/poulet_saut_au_vinaigre_50938_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,6 +38,12 @@
             "250ml/9fl oz whipping cream",
             "1 tbsp chopped fresh tarragon"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "43",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Remove the legs from the chicken and separate the thighs from the drumsticks.",
@@ -57,8 +65,9 @@
         "Check the seasoning a final time and then add the diced tomato and tarragon.",
         "To serve, pour the sauce over the chicken and serve. This is particularly good with buttery mashed potato."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Poulet saut\u00e9 au vinaigre",
     "videos": "[]"
 }

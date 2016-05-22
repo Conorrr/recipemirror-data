@@ -1,30 +1,30 @@
 {
-    "title": "Spiced whole orange cake with orange mascarpone icing",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Makes 1 20cm/8in cake",
-    "recommendations": "30",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spiced_whole_orange_cake_42761_16x9.jpg"
-    ],
-    "description": "A whole orange is boiled and pur\u00e9ed to make a rich marmalade-y cake which is lightly spiced and decorated with curls of orange rind. Add a little more spice if you want it to be very spicy.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "When selecting oranges for this recipe the crucial thing is avoid varieties which have a thick pith as they will make the cake taste bitter."
+    "cookTime": "1 to 2 hours",
+    "description": "A whole orange is boiled and pur\u00e9ed to make a rich marmalade-y cake which is lightly spiced and decorated with curls of orange rind. Add a little more spice if you want it to be very spicy.",
+    "dishes": [
+        "cake",
+        "fruit_cake",
+        "icing",
+        "marmalade",
+        "oven-baked_dishes",
+        "salad",
+        "sandwich",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "greasing_and_lining"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spiced_whole_orange_cake_42761_16x9.jpg"
+    ],
     "ingredients": {
-        "To decorate": [
-            "1 large, thin-skinned orange",
-            "50g/1\u00beoz caster sugar"
-        ],
         "For the cake": [
             "1 small, thin-skinned orange (such as Valencia)",
             "275g/9\u00beoz self-raising flour",
@@ -40,7 +40,17 @@
             "175g/6oz icing sugar, sieved",
             "250g/9oz full-fat mascarpone cheese",
             "2 tbsp orange pulp, reserved from above"
+        ],
+        "To decorate": [
+            "1 large, thin-skinned orange",
+            "50g/1\u00beoz caster sugar"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "30",
+    "serves": "Makes 1 20cm/8in cake",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the decoration, using a canelle knife, peel thick long strips of orange peel from the large orange. If you don't have a canelle knife, carefully slice away the rind and then cut into pencil-thick strips (use the leftover orange for juice or a fruit salad). Place in a saucepan, cover with boiling water, add half of the sugar and boil for one minute, drain then place on non-stick paper. Scatter over the remaining sugar and toss together, leave in a warm place to dry out for as long as possible or overnight until crisp.",
@@ -53,8 +63,9 @@
         "Slice each cake in half to make four layers. Divide the icing into four and then stack the layers of cake - icing between each layer and finishing with icing on the top.",
         "Decorate the cake with the candied orange rind and serve."
     ],
-    "howTos": [
-        "greasing_and_lining"
+    "tips": [
+        "When selecting oranges for this recipe the crucial thing is avoid varieties which have a thick pith as they will make the cake taste bitter."
     ],
+    "title": "Spiced whole orange cake with orange mascarpone icing",
     "videos": "[]"
 }

@@ -1,38 +1,45 @@
 {
-    "title": "Lemon and ricotta tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "25",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemon_and_ricotta_tart_44080_16x9.jpg"
-    ],
-    "description": "This easy lemon tart is delicious served on its own or with roasted pears.",
     "author": {
         "antonio_carluccio": "Antonio Carluccio"
     },
-    "show": {
-        "b01gk0b2": "Two Greedy Italians"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "This easy lemon tart is delicious served on its own or with roasted pears.",
+    "dishes": [
+        "fruit_tart",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "lining_tin_with_pastry",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemon_and_ricotta_tart_44080_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pastry": [
-            "1 x 400g/14oz ready-made puff pastry",
-            "plain flour, for dusting",
-            "1 lemon, finely grated zest only"
-        ],
         "For the filling": [
             "300g/10\u00bdoz ricotta cheese",
             "200g/7oz mascarpone cheese",
             "200g/7oz candied peel, roughly chopped",
             "125g/4\u00bdoz caster sugar",
             "6 free-range eggs, separated"
+        ],
+        "For the pastry": [
+            "1 x 400g/14oz ready-made puff pastry",
+            "plain flour, for dusting",
+            "1 lemon, finely grated zest only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "25",
+    "serves": "Serves 8",
+    "show": {
+        "b01gk0b2": "Two Greedy Italians"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -43,10 +50,9 @@
         "Beat the reserved egg yolk in a bowl. Fold in the overhanging pastry and brush with the egg yolk. Bake in the oven for 30 minutes, until the pastry is cooked through and the filling has a slight wobble in the centre.",
         "Set aside to cool for two hours, then sprinkle with lemon zest."
     ],
-    "howTos": [
-        "folding",
-        "lining_tin_with_pastry",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Lemon and ricotta tart",
     "videos": "[]"
 }

@@ -1,31 +1,30 @@
 {
-    "title": "Easter lemon pavlova",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6-8",
-    "recommendations": "78",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/easter_lemon_pavlova_99601_16x9.jpg"
-    ],
-    "description": "If you\u2019re looking for something different for an Easter dessert, this stunning pavlova from Mary Berry should do the trick: lemon curd pavolva topped with mini-mounds of meringue and chocolate eggs.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "If you\u2019re looking for something different for an Easter dessert, this stunning pavlova from Mary Berry should do the trick: lemon curd pavolva topped with mini-mounds of meringue and chocolate eggs.",
+    "dishes": [
+        "meringue",
+        "oven-baked_dishes",
+        "pavlova",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "using_piping_bags",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/easter_lemon_pavlova_99601_16x9.jpg"
+    ],
     "ingredients": {
-        "For the meringue": [
-            "6 free-range egg whites",
-            "350g/12oz caster sugar",
-            "2 tsp white wine vinegar",
-            "2 level tsp cornflour"
+        "For the candied lemon zest": [
+            "100g/3\u00bdoz caster sugar, plus extra for coating the zest",
+            "4 lemons, zest only (in long thin strips)"
         ],
         "For the lemon curd filling": [
             "6 free-range egg yolks",
@@ -34,13 +33,21 @@
             "225g/8oz butter",
             "450ml/\u00bepint double cream"
         ],
+        "For the meringue": [
+            "6 free-range egg whites",
+            "350g/12oz caster sugar",
+            "2 tsp white wine vinegar",
+            "2 level tsp cornflour"
+        ],
         "To serve": [
             "30 chocolate mini-eggs"
-        ],
-        "For the candied lemon zest": [
-            "100g/3\u00bdoz caster sugar, plus extra for coating the zest",
-            "4 lemons, zest only (in long thin strips)"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "78",
+    "serves": "Serves 6-8",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 160C/325F/Gas 3. Lay a piece of baking paper on a baking tray and draw a 25cm/10in circle on it.",
@@ -53,9 +60,9 @@
         "Spoon the lemon curd and cream mixture into the middle of the pavlova and spread over the base of the meringue nest. Spoon a lemon filling into each of the mini nests. Decorate by placing three chocolate mini-eggs in each of the 10 mini-nests around the edge of the dessert.",
         "Put 100ml/3\u00bdfl oz water and the caster sugar in a pan. Bring to the boil, stirring. Add the zest and boil for 2-3 minutes, or until syrupy. Drain on parchment paper, roll in extra caster sugar and leave to dry in a warm place for a couple of hours, or overnight. Place a delicate mound of candied zest in the middle of the pavlova, and serve."
     ],
-    "howTos": [
-        "using_piping_bags",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Easter lemon pavlova",
     "videos": "[]"
 }

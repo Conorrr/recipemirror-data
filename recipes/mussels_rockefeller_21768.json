@@ -1,26 +1,31 @@
 {
-    "title": "Mussels \u2018Rockefeller\u2019 style",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mussels_rockefeller_21768_16x9.jpg"
-    ],
-    "description": "Finger bowls at the ready for a classy mussel recipe that packs a punch - serve with toasted baguette or sourdough.",
     "author": {
         "simon_hopkinson": "Simon Hopkinson"
     },
-    "show": {
-        "b012gg69": "The Good Cook"
-    },
-    "tips": [
-        "Make sure you discard any mussels that fail to open once cooked. Because of the copious amount of sauce, the mussels are eaten on the half shell. If you\u2019re making a lot for friends, get everyone involved to help remove the shells. Also be sure to weigh out the parsley in this recipe to ensure you have the correct amount."
+    "cookTime": "less than 10 mins",
+    "description": "Finger bowls at the ready for a classy mussel recipe that packs a punch - serve with toasted baguette or sourdough.",
+    "dishes": [
+        "baguette",
+        "punch",
+        "sauce",
+        "seafood"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mussels_rockefeller_21768_16x9.jpg"
+    ],
     "ingredients": {
+        "For the Rockefeller mixture": [
+            "200g/7oz spinach",
+            "10g/\u00bcoz fresh parsley leaves, chopped",
+            "2 sprigs fresh tarragon, leaves only",
+            "2-3 drops Tabasco"
+        ],
         "For the mussels": [
             "30g/1oz butter",
             "2 small shallots, finely chopped",
@@ -28,13 +33,13 @@
             "1kg/2lb 4oz mussels, cleaned and de-bearded",
             "30ml/1fl oz pastis",
             "200ml/7fl oz dry sherry"
-        ],
-        "For the Rockefeller mixture": [
-            "200g/7oz spinach",
-            "10g/\u00bcoz fresh parsley leaves, chopped",
-            "2 sprigs fresh tarragon, leaves only",
-            "2-3 drops Tabasco"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 2",
+    "show": {
+        "b012gg69": "The Good Cook"
     },
     "steps": [
         "Bring a large pan of salted water to the boil and blanch the spinach for 30 seconds. Drain the spinach, rinse it under cold water, squeeze and pat dry.",
@@ -43,8 +48,9 @@
         "Pour the juices into a blender along with the reserved spinach and other remaining \u2018Rockefeller\u2019 ingredients. Blend until smooth and return the green sauce to the mussel cooking pot.",
         "Remove the empty half shell from all the mussels and add the full halves to the green sauce. Briefly reheat and serve."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Make sure you discard any mussels that fail to open once cooked. Because of the copious amount of sauce, the mussels are eaten on the half shell. If you\u2019re making a lot for friends, get everyone involved to help remove the shells. Also be sure to weigh out the parsley in this recipe to ensure you have the correct amount."
     ],
+    "title": "Mussels \u2018Rockefeller\u2019 style",
     "videos": "[]"
 }

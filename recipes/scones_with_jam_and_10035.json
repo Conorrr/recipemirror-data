@@ -1,24 +1,24 @@
 {
-    "title": "Scones with jam and cream",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 8-12",
-    "recommendations": "19",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/scones_with_jam_and_10035_16x9.jpg"
-    ],
-    "description": "A delicious cream tea can be knocked up from scratch in around half an hour, using this simple recipe.",
     "author": {
         "tom_whitaker": "Tom Whitaker"
     },
-    "show": {
-        "b006t1k5": "MasterChef"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "A delicious cream tea can be knocked up from scratch in around half an hour, using this simple recipe.",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "scone"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/scones_with_jam_and_10035_16x9.jpg"
     ],
     "ingredients": {
         "For the scones": [
@@ -33,6 +33,12 @@
             "1 large jar raspberry jam"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "19",
+    "serves": "Makes 8-12",
+    "show": {
+        "b006t1k5": "MasterChef"
+    },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7. Line a baking tray with greaseproof paper.",
         "Sift the flour and salt into a bowl. Using your fingertips, lightly rub the butter into the flour until the mixture resembles breadcrumbs. Add the sugar and the milk and lightly mix until just combined.",
@@ -40,8 +46,9 @@
         "Place the scones on to the lined baking tray and bake for 12-15 minutes, or until the scones are golden-brown and well-risen. Remove from the oven and place onto a wire rack until cool enough to handle.",
         "Serve the scones with clotted cream and raspberry jam."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Scones with jam and cream",
     "videos": "[]"
 }

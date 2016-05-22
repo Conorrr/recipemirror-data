@@ -1,26 +1,34 @@
 {
-    "title": "Iced coffee and honeycomb parfait with vanilla custard and chocolate-coated coffee beans",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6-8",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "custard",
+        "honeycomb",
+        "jam",
+        "meringue",
+        "parfait",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "de-seeding_vanilla_pods",
+        "whipping_cream"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chocolate-coated coffee beans": [
+            "75g/3oz plain chocolate, chopped",
+            "25g/1oz roasted espresso coffee beans"
+        ],
         "For the honeycomb": [
             "vegetable oil, for greasing",
             "400g/14oz caster sugar",
@@ -41,11 +49,13 @@
             "150ml/5fl oz milk",
             "150ml/5fl oz double cream",
             "1 vanilla pod, split"
-        ],
-        "For the chocolate-coated coffee beans": [
-            "75g/3oz plain chocolate, chopped",
-            "25g/1oz roasted espresso coffee beans"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "1",
+    "serves": "Serves 6-8",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the honeycomb, line a baking tray with greaseproof paper and grease with vegetable oil.",
@@ -70,9 +80,9 @@
         "Add the coffee beans to the chocolate and stir to coat. Pour into the lined tray and allow to cool. Break into pieces when cool.",
         "To serve, remove the parfait from the freezer 20 minutes before serving. Cut 2cm/\u00be slices of the parfait and place onto the centre of each serving plate. Spoon the custard around the edge and scatter over the chocolate coated coffee beans."
     ],
-    "howTos": [
-        "de-seeding_vanilla_pods",
-        "whipping_cream"
+    "tips": [
+        
     ],
+    "title": "Iced coffee and honeycomb parfait with vanilla custard and chocolate-coated coffee beans",
     "videos": "[]"
 }

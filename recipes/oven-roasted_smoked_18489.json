@@ -1,26 +1,34 @@
 {
-    "title": "Oven-roasted smoked haddock",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "12",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/oven-roasted_smoked_18489_16x9.jpg"
-    ],
-    "description": "Smoked haddock and black pudding packs a punch in this delicious recipe.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Smoked haddock and black pudding packs a punch in this delicious recipe.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "punch",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/oven-roasted_smoked_18489_16x9.jpg"
+    ],
     "ingredients": {
+        "For the cauliflower pur\u00e9e": [
+            "1 cauliflower, broken into florets",
+            "100ml/3\u00bdfl oz vegetable stock",
+            "1 tbsp wholegrain mustard",
+            "250ml/9fl oz double cream",
+            "15g/\u00bdoz butter",
+            "salt and freshly ground black pepper"
+        ],
         "For the haddock": [
             "4 x 175g/6oz smoked haddock fillets",
             "60g/2oz butter",
@@ -30,17 +38,15 @@
             "1 tbsp vegetable oil",
             "knob of butter"
         ],
-        "For the cauliflower pur\u00e9e": [
-            "1 cauliflower, broken into florets",
-            "100ml/3\u00bdfl oz vegetable stock",
-            "1 tbsp wholegrain mustard",
-            "250ml/9fl oz double cream",
-            "15g/\u00bdoz butter",
-            "salt and freshly ground black pepper"
-        ],
         "To serve": [
             "chives, snipped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -50,8 +56,9 @@
         "Cook the cauliflower in boiling water until tender. Drain and place the cauliflower into a food processor with some of the vegetable stock. Blend until smooth. (You may need to add all of the stock.) Add the mustard and cream and season with salt and pepper.",
         "Spoon some of the pur\u00e9e onto a plate, place the pudding on top and top with the fish. Garnish with a few snipped chives."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Oven-roasted smoked haddock",
     "videos": "[]"
 }

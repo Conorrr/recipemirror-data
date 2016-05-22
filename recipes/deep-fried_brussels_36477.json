@@ -1,26 +1,35 @@
 {
-    "title": "Deep-fried Brussels sprouts with tomato tartare",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This spicy deep-fried dish is a fantastic way of using up leftover Brussels sprouts after Christmas.",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b04v6210": "Christmas Kitchen with James Martin"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This spicy deep-fried dish is a fantastic way of using up leftover Brussels sprouts after Christmas.",
+    "dishes": [
+        "bread",
+        "curry",
+        "jam",
+        "mayonnaise",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the deep-fried Brussels sprouts": [
+            "125g/4\u00bcoz plain flour",
+            "1 tsp curry powder",
+            "3 free-range eggs",
+            "350g/12oz Japanese panko breadcrumbs",
+            "vegetable oil, for deep-frying",
+            "500g/1lb 2oz cooked Brussels sprouts (leftovers would work well), cut in half through the root"
+        ],
         "For the tomato tartare": [
             "1 tsp vegetable oil",
             "1 shallot, finely chopped",
@@ -30,15 +39,13 @@
             "2 tbsp chopped gherkins",
             "1 tbsp chopped fresh parsley",
             "1 tbsp chopped fresh tarragon"
-        ],
-        "For the deep-fried Brussels sprouts": [
-            "125g/4\u00bcoz plain flour",
-            "1 tsp curry powder",
-            "3 free-range eggs",
-            "350g/12oz Japanese panko breadcrumbs",
-            "vegetable oil, for deep-frying",
-            "500g/1lb 2oz cooked Brussels sprouts (leftovers would work well), cut in half through the root"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b04v6210": "Christmas Kitchen with James Martin"
     },
     "steps": [
         "For the tomato tartare, heat the oil in a frying pan over a medium heat. Add the shallot and fry gently for 4-5 minutes, or until softened but not coloured.",
@@ -50,8 +57,9 @@
         "Deep-fry the breaded Brussels sprouts in the hot oil, in batches if necessary, until crisp, golden-brown and heated through. Remove from the oil with a slotted spoon and set aside to drain on kitchen paper.",
         "To serve, divide the deep-fried Brussels sprouts among four serving plates. Spoon a little of the tomato tartare alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Deep-fried Brussels sprouts with tomato tartare",
     "videos": "[]"
 }

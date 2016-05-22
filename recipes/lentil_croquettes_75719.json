@@ -1,26 +1,30 @@
 {
-    "title": "Lentil croquettes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A delicious vegetarian snack, these spicy croquettes go perfectly with a minty raita.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        "You can prepare the croquettes in advance and chill them in the fridge. Remove from the fridge 30 minutes before cooking, and fry just before serving."
+    "cookTime": "10 to 30 mins",
+    "description": "A delicious vegetarian snack, these spicy croquettes go perfectly with a minty raita.",
+    "dishes": [
+        "bread",
+        "prepare-ahead_desserts",
+        "raita"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the coating": [
+            "100g/3\u00bdoz plain flour, plus extra for dusting",
+            "1 free-range egg, beaten",
+            "150g/5\u00bdoz polenta",
+            "vegetable oil, for frying"
+        ],
         "For the croquettes": [
             "75g/2\u00beoz Puy lentils",
             "100g/3\u00bdoz cooked, mashed sweet potato",
@@ -29,17 +33,17 @@
             "1 tsp grated nutmeg",
             "1 free-range egg yolk"
         ],
-        "For the coating": [
-            "100g/3\u00bdoz plain flour, plus extra for dusting",
-            "1 free-range egg, beaten",
-            "150g/5\u00bdoz polenta",
-            "vegetable oil, for frying"
-        ],
         "For the raita": [
             "200g/7oz yoghurt",
             "1 tbsp chopped fresh mint",
             "1 lime, juice and zest"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the croquettes, cook the Puy lentils according to packet instructions. Drain.",
@@ -52,8 +56,9 @@
         "For the raita, mix the yoghurt, mint and lime zest and juice together in a bowl.",
         "Serve the croquettes with the raita dip alongside."
     ],
-    "howTos": [
-        
+    "tips": [
+        "You can prepare the croquettes in advance and chill them in the fridge. Remove from the fridge 30 minutes before cooking, and fry just before serving."
     ],
+    "title": "Lentil croquettes",
     "videos": "[]"
 }

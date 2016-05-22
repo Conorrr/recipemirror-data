@@ -1,26 +1,32 @@
 {
-    "title": "Greek lamb with orzo",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "25",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/greek_lamb_with_orzo_36568_16x9.jpg"
-    ],
-    "description": "Serve up a table-sharing delight with this recipe for Greek-style lamb.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Greek",
+    "description": "Serve up a table-sharing delight with this recipe for Greek-style lamb.",
+    "dishes": [
+        "casserole",
+        "flatbread",
+        "pasta",
+        "pie",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/greek_lamb_with_orzo_36568_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "Greek-style yoghurt",
+            "flatbread"
+        ],
         "default": [
             "1 tbsp vegetable oil",
             "1kg/2lb 4oz lamb shoulder, cut into large chunks",
@@ -36,11 +42,13 @@
             "1 tbsp chopped fresh parsley",
             "1 tbsp chopped fresh mint",
             "1 tbsp chopped fresh rosemary"
-        ],
-        "To serve": [
-            "Greek-style yoghurt",
-            "flatbread"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "25",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Heat the oil in a large casserole dish over a medium heat and fry the lamb pieces until browned on all sides. Remove the meat from the pan with a slotted spoon and set aside.",
@@ -49,8 +57,9 @@
         "Add the orzo and cook for a further 20 minutes.",
         "Finally stir in the sherry vinegar and fresh herbs. Serve with Greek-style yoghurt and flatbread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Greek lamb with orzo",
     "videos": "[]"
 }

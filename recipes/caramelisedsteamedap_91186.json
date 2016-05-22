@@ -1,41 +1,35 @@
 {
-    "title": "Caramelised steamed apple pudding",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "galton_blackiston": "Galton Blackiston"
     },
-    "show": {
-        "b00dznhb": "Put Your Money Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "pie",
+        "sauce",
+        "steamed_pudding",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the apples": [
+            "25g/1oz unsalted butter, plus extra for greasing",
+            "3 large eating apples, peeled, cores removed, roughly chopped"
+        ],
         "For the butterscotch sauce": [
             "125g/4\u00bdoz unsalted butter",
             "175g/6\u00bcoz light muscovado sugar",
             "1 tsp vanilla extract",
             "200ml/4\u00bdfl oz double cream"
-        ],
-        "For the apples": [
-            "25g/1oz unsalted butter, plus extra for greasing",
-            "3 large eating apples, peeled, cores removed, roughly chopped"
-        ],
-        "For the sponge": [
-            "150g/5oz unsalted butter",
-            "130g/4\u00bdoz light soft brown sugar",
-            "3 free-range eggs, beaten",
-            "150g/5\u00bcoz self-raising flour"
         ],
         "For the cr\u00e8me anglaise": [
             "150ml/5\u00bcfl oz full-fat milk",
@@ -43,7 +37,19 @@
             "1 vanilla pod, split, seeds scraped out with a knife",
             "6 free-range egg yolks",
             "110g/4oz caster sugar"
+        ],
+        "For the sponge": [
+            "150g/5oz unsalted butter",
+            "130g/4\u00bdoz light soft brown sugar",
+            "3 free-range eggs, beaten",
+            "150g/5\u00bcoz self-raising flour"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b00dznhb": "Put Your Money Where Your Mouth Is"
     },
     "steps": [
         "Lightly grease a 1.5 litre/12\u00befl oz pudding basin with butter.",
@@ -61,8 +67,9 @@
         "Strain the mixture through a sieve into a clean pan and place the sieved liquid over a low heat. Heat, stirring continuously, until the cr\u00e8me anglaise mixture is thick enough to coat the back of a spoon. Remove from the heat and place into a bowl of cold water to prevent it from thickening further.",
         "To serve, turn out the steamed apple pudding onto a serving plate and cut it into slices. Place one slice into the centre of each of four serving plates. Drizzle over the remaining butterscotch sauce and the cr\u00e8me anglaise."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Caramelised steamed apple pudding",
     "videos": "[]"
 }

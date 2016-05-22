@@ -1,26 +1,37 @@
 {
-    "title": "Sichuan steak",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "overnight",
-    "serves": "Serves 2",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "This recipe is all in the preparation - marinate the meat and make the dressing in advance, then it takes just 10 minutes to fry the steak and chop the salad.",
     "author": {
         "wolfgang_puck": "Wolfgang Puck"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This recipe is all in the preparation - marinate the meat and make the dressing in advance, then it takes just 10 minutes to fry the steak and chop the salad.",
+    "dishes": [
+        "bun",
+        "ketchup",
+        "pickle",
+        "pie",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Asian cabbage salad": [
+            "\u00bc green cabbage, cut into quarters, cored and shredded",
+            "\u00bd radicchio, cut in half, cored and shredded",
+            "1 medium carrot, peeled, very thinly sliced and julienned",
+            "\u00bd daikon, peeled, very thinly sliced and julienned",
+            "\u00bd pack daikon sprouts",
+            "1 red peppers, seeds removed, sliced into fine strips",
+            "1 yellow pepper, seeds removed, sliced into fine strips",
+            "2 Japanese cucumbers, ends cut off, seeds removed, julienned"
+        ],
         "For the Sichuan marinade": [
             "4 tbsp Worcestershire sauce",
             "4 tbsp mirin",
@@ -48,17 +59,13 @@
             "1\u00be tbsp chili oil",
             "1\u00bc tbsp sesame oil",
             "240ml/8\u00bdfl oz peanut oil"
-        ],
-        "For the Asian cabbage salad": [
-            "\u00bc green cabbage, cut into quarters, cored and shredded",
-            "\u00bd radicchio, cut in half, cored and shredded",
-            "1 medium carrot, peeled, very thinly sliced and julienned",
-            "\u00bd daikon, peeled, very thinly sliced and julienned",
-            "\u00bd pack daikon sprouts",
-            "1 red peppers, seeds removed, sliced into fine strips",
-            "1 yellow pepper, seeds removed, sliced into fine strips",
-            "2 Japanese cucumbers, ends cut off, seeds removed, julienned"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "3",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the Sichuan marinade, place all the ingredients in a non-reactive bowl and add the steak. Marinade for 24 hours in the fridge.",
@@ -67,8 +74,9 @@
         "Remove from the fridge and wipe off the marinade. Allow the steak to come up to room temperature. When you are ready to cook the steak, heat a griddle pan until hot. Add the steak and cook for 2-3 minutes on each side. Allow to rest for a few minutes before serving.",
         "To serve, gently toss the salad in the vinaigrette. Slice the steak and serve with the dressed salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sichuan steak",
     "videos": "[]"
 }

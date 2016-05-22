@@ -1,24 +1,21 @@
 {
-    "title": "Gentleman's julep",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "wayne_collins": "Wayne Collins"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "champ",
+        "whisky_cocktail"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,13 +27,20 @@
             "splash champagne"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Place the wedges of white peach and the mint leaves into a cocktail shaker and crush lightly (muddle) with a long-handled spoon.",
         "Add the sugar syrup, bourbon and ice and shake well.",
         "To serve, strain the mixture into a tumbler and top up with the champagne. Hook a wedge of peach and a sprig of mint over the edge of the glass."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Gentleman's julep",
     "videos": "[]"
 }

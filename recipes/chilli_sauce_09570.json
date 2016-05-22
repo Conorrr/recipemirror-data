@@ -1,24 +1,22 @@
 {
-    "title": "Chilli sauce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 2 bottles",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Authentic Mexican chillies coupled with cocoa powder, various spices and, rather surprisingly, cola make this simple chilli sauce great for drizzling on Mexican food.",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Mexican",
+    "description": "Authentic Mexican chillies coupled with cocoa powder, various spices and, rather surprisingly, cola make this simple chilli sauce great for drizzling on Mexican food.",
+    "dishes": [
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "de-skinning_tomatoes"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -40,6 +38,12 @@
             "\u00bc tsp cocoa powder"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Makes 2 bottles",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
+    },
     "steps": [
         "Skin the tomatoes by making a criss-cross on the bottom of each one and then plunging them into a pan of boiling water for a couple of minutes. Remove with a slotted spoon and transfer to refresh in a bowl of ice cold water. Once cool, carefully remove the skin.",
         "Scoop out the seeds of the tomatoes over a sieve to collect the juices, and tear the flesh into small pieces. Set aside in a bowl.",
@@ -53,8 +57,9 @@
         "Add more cola, orange juice, seasoning and spices to taste if necessary.",
         "Pour into sterilised bottles and seal."
     ],
-    "howTos": [
-        "de-skinning_tomatoes"
+    "tips": [
+        
     ],
+    "title": "Chilli sauce",
     "videos": "[]"
 }

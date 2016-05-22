@@ -1,26 +1,29 @@
 {
-    "title": "Simple roast chicken with sweet potato and spicy yoghurt",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "Roast everything in one tin with some herbs and garlic and you've got a very easy meal for four. Maximum flavour, minimum fuss!",
     "author": {
         "donal_skehan": "Donal Skehan"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Roast everything in one tin with some herbs and garlic and you've got a very easy meal for four. Maximum flavour, minimum fuss!",
+    "dishes": [
+        "chips",
+        "oven-baked_dishes",
+        "roast_chicken",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "testing_cooked_poultry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "150g/5\u00bdoz natural yoghurt",
+            "1 tsp hot sauce of your choice (optional)"
+        ],
         "default": [
             "4 garlic cloves",
             "3 tbsp vegetable oil",
@@ -28,11 +31,13 @@
             "2-3 large sweet potatoes",
             "2 red onions",
             "4 chicken legs"
-        ],
-        "To serve": [
-            "150g/5\u00bdoz natural yoghurt",
-            "1 tsp hot sauce of your choice (optional)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 200C/180C Fan/Gas 6. Peel and finely grate the garlic. Mix the garlic, oil and mixed herbs in a large bowl. Set aside a little of the herby oil for the chicken. Cut the sweet potatoes into thick chips then peel the onions and cut into thin wedges. Combine the sweet potatoes and onions in the large bowl with the herby oil, toss to coat then tip into a large roasting tray.",
@@ -40,8 +45,9 @@
         "Remove the tray from the oven. Leave it to rest for 10 minutes for the chicken to become tender.",
         "Meanwhile, mix together the yoghurt and hot sauce. Serve the chicken and vegetables with the yoghurt on top."
     ],
-    "howTos": [
-        "testing_cooked_poultry"
+    "tips": [
+        
     ],
+    "title": "Simple roast chicken with sweet potato and spicy yoghurt",
     "videos": "[p02rg6m4:p02rg6mr]"
 }

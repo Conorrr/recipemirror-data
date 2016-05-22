@@ -1,24 +1,22 @@
 {
-    "title": "Cuban summer",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "andy_pearson": "Andy Pearson"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "lemonade",
+        "pie",
+        "rum_cocktail"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,13 +28,20 @@
             "cloudy lemonade, to top up"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Pour the rum, apple juice and elderflower cordial into a large jug.",
         "Squeeze in the juice of the two lemons, then add the lemon pieces and lime wedges. Mix with a wooden spoon.",
         "Half-fill a plastic cup filled with ice with the rum mixture, then top up with cloudy lemonade."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cuban summer",
     "videos": "[]"
 }

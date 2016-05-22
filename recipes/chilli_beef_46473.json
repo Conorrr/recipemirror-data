@@ -1,23 +1,23 @@
 {
-    "title": "Chilli beef",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "22",
-    "images": [
-        
-    ],
-    "description": "Enjoy a Chinese restaurant classic at home, with Simon Rimmer\u2019s crispy chilli beef.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Chinese",
+    "description": "Enjoy a Chinese restaurant classic at home, with Simon Rimmer\u2019s crispy chilli beef.",
+    "dishes": [
+        "bread",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -44,6 +44,12 @@
             "lime wedges"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "22",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "For the beef, pour the vegetable oil into a deep fat fryer or medium saucepan and heat until it reaches 180C/350F, or when a small cube of bread dropped in turns golden in 30 seconds. (NB: Hot oil can be dangerous. Do not leave unattended.)",
         "Whisk the eggs, cornflour and salt in a bowl to a thick batter.",
@@ -52,8 +58,9 @@
         "Add the sugar, vinegar and soy sauce, deep-fried beef and carrots and stir until well combined. Remove the pan from the heat.",
         "Serve the chilli beef with boiled rice, chilli slices and lime wedges."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chilli beef",
     "videos": "[]"
 }

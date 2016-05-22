@@ -1,26 +1,35 @@
 {
-    "title": "Chicken stuffed with Stilton served with sweet potato mash and Stilton sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Stilton sauce": [
+            "1 tbsp olive oil",
+            "1tbsp oz butter",
+            "\u00bd onion, chopped",
+            "1 garlic clove, chopped",
+            "3 tbsp white wine",
+            "5 tbsp double cream",
+            "85g/3oz Stilton",
+            "1 tbsp chopped fresh chervil, plus an extra sprig, to garnish"
+        ],
         "For the chicken": [
             "1 chicken breast",
             "55g/2oz Stilton",
@@ -31,17 +40,13 @@
         "For the mash": [
             "200g/7oz sweet potato, peeled, cut into cubes",
             "55g/2oz butter"
-        ],
-        "For the Stilton sauce": [
-            "1 tbsp olive oil",
-            "1tbsp oz butter",
-            "\u00bd onion, chopped",
-            "1 garlic clove, chopped",
-            "3 tbsp white wine",
-            "5 tbsp double cream",
-            "85g/3oz Stilton",
-            "1 tbsp chopped fresh chervil, plus an extra sprig, to garnish"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the chicken, preheat the oven to 200C/400F/Gas 6.",
@@ -57,8 +62,9 @@
         "Stir in the chervil and season with salt and freshly ground black pepper.",
         "To serve, fill a tall 5cm/2in ring with mash placed in the centre of a dinner plate. Remove the ring and arrange the chicken breast on top of the mash. Spoon the sauce over the chicken and around the plate. Garnish with a sprig of chervil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken stuffed with Stilton served with sweet potato mash and Stilton sauce",
     "videos": "[]"
 }

@@ -1,24 +1,22 @@
 {
-    "title": "Sada roti",
-    "cookTime": "less than 10 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4-6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This is a traditional Indo-Trinidadian flatbread that is typically eaten with a breakfast of curried vegetables.",
     "author": {
         "vilma_khan": "Vilma Khan"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Caribbean",
+    "description": "This is a traditional Indo-Trinidadian flatbread that is typically eaten with a breakfast of curried vegetables.",
+    "dishes": [
+        "curry",
+        "flatbread"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,6 +27,12 @@
             "pinch of salt"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4-6",
+    "show": {
+        
+    },
     "steps": [
         "Sift flour into a mixing bowl, add baking powder and salt and mix thoroughly.",
         "Make a well in the centre of the flour mixture, add water and knead until smooth.",
@@ -38,8 +42,9 @@
         "Add a small amount of oil to a hot griddle or wide frying pan and cook until both sides are brown.",
         "Serve as an accompaniment to a curry meal."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Sada roti",
     "videos": "[]"
 }

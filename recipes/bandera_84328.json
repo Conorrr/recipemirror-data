@@ -1,24 +1,21 @@
 {
-    "title": "Bandera",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 litre",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "andy_pearson": "Andy Pearson"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "tequila_cocktail"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the sangrita": [
@@ -34,13 +31,20 @@
             "50ml/2fl oz lime juice"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 1 litre",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "For the sangrita, pour all of the sangrita ingredients into a jug and mix well.",
         "To serve, pour each of the three drinks into a shot glass, then line up the three glasses.",
         "Sip from each glass in turn - first the lime, then the tequila, and finally the sangrita."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Bandera",
     "videos": "[]"
 }

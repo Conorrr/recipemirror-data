@@ -1,24 +1,28 @@
 {
-    "title": "Mulled wine trifle",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "If you don\u2019t have time to make the nutmeg-flavoured Madeira cake for this Christmas trifle ahead of time, simply buy a plain version to make this spiced festive dessert.",
     "author": {
         "tony_singh": "Tony Singh"
     },
-    "show": {
-        "b03lsr84": "Christmas Kitchen with James Martin"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "If you don\u2019t have time to make the nutmeg-flavoured Madeira cake for this Christmas trifle ahead of time, simply buy a plain version to make this spiced festive dessert.",
+    "dishes": [
+        "cake",
+        "custard",
+        "jam",
+        "jelly",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "trifle"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "creaming"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the Madeira cake": [
@@ -29,6 +33,14 @@
             "2-3 tbsp milk",
             "2 lime zest, only",
             "2 pinches finely ground nutmeg"
+        ],
+        "For the custard": [
+            "3 large free-range eggs, yolks only",
+            "50g/1\u00beoz caster sugar",
+            "50g/1\u00beoz cornflour",
+            "1 tsp vanilla extract",
+            "600ml/1 pint whole milk",
+            "300ml/10\u00bdfl oz single cream"
         ],
         "For the mulled wine jelly": [
             "240ml/8\u00befl oz red wine",
@@ -45,15 +57,13 @@
             "250ml/9fl oz whipping cream",
             "25g/1oz flaked almonds, toasted",
             "small handful glac\u00e9 cherries"
-        ],
-        "For the custard": [
-            "3 large free-range eggs, yolks only",
-            "50g/1\u00beoz caster sugar",
-            "50g/1\u00beoz cornflour",
-            "1 tsp vanilla extract",
-            "600ml/1 pint whole milk",
-            "300ml/10\u00bdfl oz single cream"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b03lsr84": "Christmas Kitchen with James Martin"
     },
     "steps": [
         "For the cake, preheat the oven to 180C/350F/Gas 4.",
@@ -76,8 +86,9 @@
         "To finally assemble, beat the whipping cream in a bowl until a ribbon of cream falls from the whisk when the whisk is removed.",
         "Gently spread the cream over the surface of the set custard and scatter with the almonds and top with glac\u00e9 cherries."
     ],
-    "howTos": [
-        "creaming"
+    "tips": [
+        
     ],
+    "title": "Mulled wine trifle",
     "videos": "[]"
 }

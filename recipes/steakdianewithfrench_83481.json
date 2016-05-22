@@ -1,26 +1,28 @@
 {
-    "title": "Steak Diane",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "French fries",
+            "buttered peas"
+        ],
         "default": [
             "50g/2 oz unsalted butter",
             "2 x 175g /6oz fillet or sirloin steaks, flattened out with a meat mallet until 5mm/\u00bcin thick",
@@ -33,11 +35,13 @@
             "1 tbsp brandy",
             "3 tbsp double cream",
             "1 tbsp chopped fresh parsley"
-        ],
-        "To serve": [
-            "French fries",
-            "buttered peas"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Heat 25g/1oz of the butter in a large frying pan.",
@@ -50,8 +54,9 @@
         "Return the steaks to the pan and warm through but do not boil.",
         "Place the steaks on a warmed plate, top with the sauce and serve with French fries and buttered peas."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steak Diane",
     "videos": "[]"
 }

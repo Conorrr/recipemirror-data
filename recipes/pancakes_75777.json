@@ -1,23 +1,19 @@
 {
-    "title": "Pancakes",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "pancake"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -30,14 +26,21 @@
             "honey, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 6",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Mix the flour, milk, salt and egg in a food processor.",
         "Heat the butter in a pan.",
         "Add the batter to the pan in two batches, frying for 1-2 minutes on each side, until golden.",
         "Serve with honey."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pancakes",
     "videos": "[]"
 }

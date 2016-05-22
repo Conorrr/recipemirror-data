@@ -1,29 +1,38 @@
 {
-    "title": "Pork and mushroom pie and Gujarati-style green beans",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "Gentle Asian spices warm up this pork and mushroom pie with fluffy mash topping. A real winter warmer.",
     "author": {
         "rachel_allen": "Rachel Allen"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Gentle Asian spices warm up this pork and mushroom pie with fluffy mash topping. A real winter warmer.",
+    "dishes": [
+        "casserole",
+        "meat_pie",
+        "oven-baked_dishes",
+        "pie",
+        "roux",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the roux": [
-            "100g/4oz butter",
-            "100g/4oz plain flour"
+        "For beans": [
+            "450g/1lb green beans, cut into 2.5cm/1in pieces",
+            "4 tbsp vegetable oil",
+            "1 tbsp whole black mustard seeds",
+            "4 garlic cloves, peeled and very finely chopped",
+            "1 hot, dried red chilli, coarsely crushed in a mortar",
+            "1 tsp salt",
+            "1 tsp sugar",
+            "salt and freshly ground black pepper"
         ],
         "For the filling": [
             "25g/1oz butter",
@@ -44,16 +53,16 @@
             "200ml/7fl oz boiling milk (or 150ml/\u00bc pint boiling milk and 60ml/2fl oz single cream)",
             "salt and freshly ground black pepper"
         ],
-        "For beans": [
-            "450g/1lb green beans, cut into 2.5cm/1in pieces",
-            "4 tbsp vegetable oil",
-            "1 tbsp whole black mustard seeds",
-            "4 garlic cloves, peeled and very finely chopped",
-            "1 hot, dried red chilli, coarsely crushed in a mortar",
-            "1 tsp salt",
-            "1 tsp sugar",
-            "salt and freshly ground black pepper"
+        "For the roux": [
+            "100g/4oz butter",
+            "100g/4oz plain flour"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 160C/325F/Gas 3.",
@@ -82,8 +91,9 @@
         "Turn the heat down to low and cook the beans for 7-8 minutes, then season, to taste, with salt and freshly ground black pepper.",
         "To serve, serve generous portions of pie onto plates and place a spoonful of green beans alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pork and mushroom pie and Gujarati-style green beans",
     "videos": "[]"
 }

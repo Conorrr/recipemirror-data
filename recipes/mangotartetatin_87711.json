@@ -1,39 +1,44 @@
 {
-    "title": "Mango tarte tatin",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "caramel",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "100g/3\u00bdoz plain flour, plus extra for dusting",
-            "2 tbsp caster sugar",
-            "55g/2oz butter",
-            "1 free-range egg yolk"
-        ],
         "For the filling": [
             "30g/1oz butter",
             "1 tbsp brown sugar",
             "\u00bd mango, peeled and sliced",
             "\u00bd lime, juice only",
             "double cream, to serve"
+        ],
+        "For the pastry": [
+            "100g/3\u00bdoz plain flour, plus extra for dusting",
+            "2 tbsp caster sugar",
+            "55g/2oz butter",
+            "1 free-range egg yolk"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -45,8 +50,9 @@
         "Transfer the pan to the oven and bake for 12-15 minutes, or until the pastry is golden-brown and crisp.",
         "Carefully turn the tart out onto a plate so that the mango is on top and slice into wedges. Serve with double cream."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Mango tarte tatin",
     "videos": "[]"
 }

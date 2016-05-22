@@ -1,34 +1,25 @@
 {
-    "title": "Langoustine scampi with lemon mayo",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Crisp scampi with a vodka tonic batter, hot from the fryer with sharp lemon mayo.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Crisp scampi with a vodka tonic batter, hot from the fryer with sharp lemon mayo.",
+    "dishes": [
+        "jam",
+        "mayonnaise",
+        "seafood",
+        "slow-cooked_dishes"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "vegetable oil, for deep frying",
-            "28 langoustines, shelled and de-viened",
-            "110g/4oz self-raising flour",
-            "110g/4oz cornflour",
-            "275ml/9floz tonic water",
-            "2 tbsp vodka"
-        ],
         "For the mayonnaise": [
             "2 free-range eggs, yolks only",
             "2 tsp white wine vinegar",
@@ -36,7 +27,21 @@
             "300ml/10fl oz rapeseed oil",
             "1 lemon, juice only",
             "sea salt, to taste"
+        ],
+        "default": [
+            "vegetable oil, for deep frying",
+            "28 langoustines, shelled and de-viened",
+            "110g/4oz self-raising flour",
+            "110g/4oz cornflour",
+            "275ml/9floz tonic water",
+            "2 tbsp vodka"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the scampi, heat a deep fat fryer to 190C/375F. (CAUTION: Hot oil can be dangerous. Do not leave unattended.)",
@@ -48,8 +53,9 @@
         "With the motor running, pour in the oil, in a slow steady stream, until the mayonnaise is thick (you may not need all the oil). Mix in the lemon juice.",
         "To serve, pile the scampi in a serving bowl and serve the lemon mayonnaise alongside. Finish with a sprinkle of sea salt and a squeeze of lemon juice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Langoustine scampi with lemon mayo",
     "videos": "[]"
 }

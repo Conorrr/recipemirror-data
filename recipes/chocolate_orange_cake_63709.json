@@ -1,24 +1,26 @@
 {
-    "title": "Chocolate orange cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8-10",
-    "recommendations": "15",
-    "images": [
-        
-    ],
-    "description": "This is a simple but impressive birthday cake. The syrup keeps the cake really moist, so it can be made in advance.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        "The unfilled cake will keep well for a few days - once completely cool, wrap it in cling film."
+    "cookTime": "30 mins to 1 hour",
+    "description": "This is a simple but impressive birthday cake. The syrup keeps the cake really moist, so it can be made in advance.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "icing",
+        "oven-baked_dishes",
+        "sandwich",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the cake": [
@@ -31,16 +33,22 @@
             "1 tsp baking powder",
             "150g/5\u00bcoz cocoa powder"
         ],
-        "For the sugar syrup": [
-            "150g/5\u00bcoz sugar",
-            "150ml/5\u00bcfl oz water",
-            "dash orange liqueur"
-        ],
         "For the ganache": [
             "200ml/7fl oz double cream",
             "200g/7fl oz good-quality dark chocolate",
             "dash orange liqueur"
+        ],
+        "For the sugar syrup": [
+            "150g/5\u00bcoz sugar",
+            "150ml/5\u00bcfl oz water",
+            "dash orange liqueur"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "15",
+    "serves": "Serves 8-10",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease and line two 20cm/8in sandwich tins.",
@@ -52,8 +60,9 @@
         "For the ganache, warm the double cream in a saucepan then remove from the heat. Stir in the chocolate and set aside for a few minutes to melt. Stir the ganache until smooth then add the orange liqueur. Set aside to cool.",
         "To ice the cake, sit one cake on a serving plate and use the chocolate ganache to sandwich the cakes. Ice the top and sides of the cakes with the remaining ganache (use kitchen paper to clean up any spills). Allow the icing to set slightly, then smooth with a palette knife."
     ],
-    "howTos": [
-        
+    "tips": [
+        "The unfilled cake will keep well for a few days - once completely cool, wrap it in cling film."
     ],
+    "title": "Chocolate orange cake",
     "videos": "[]"
 }

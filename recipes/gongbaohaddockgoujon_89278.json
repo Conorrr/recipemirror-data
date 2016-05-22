@@ -1,26 +1,33 @@
 {
-    "title": "Gong bao haddock goujons",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "Try Ching-he Huang's take on fish and chips in this delicious and healthy recipe.",
     "author": {
         "ching-he_huang": "Ching-He Huang"
     },
-    "show": {
-        "b00cjxzp": "Chinese Food Made Easy"
-    },
-    "tips": [
-        "Serve with sweet potato wedges."
+    "cookTime": "less than 10 mins",
+    "cusine": "Chinese",
+    "description": "Try Ching-he Huang's take on fish and chips in this delicious and healthy recipe.",
+    "dishes": [
+        "bread",
+        "chips",
+        "goujons",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the gong bao sauce": [
+            "2 tbsp lemon juice",
+            "2 tbsp hoisin sauce",
+            "1 tbsp dark soy sauce",
+            "1 tsp crushed dried chilli flakes",
+            "1 tbsp cornflour, mixed with 2 tbsp cold water, to thicken"
+        ],
         "For the haddock goujons": [
             "1 tbsp Shaoxing rice wine or dry sherry",
             "1 tbsp peeled and grated fresh root ginger",
@@ -33,14 +40,13 @@
             "100g/3\u00bdoz plain flour",
             "2 free-range eggs, beaten",
             "groundnut oil, for deep-frying"
-        ],
-        "For the gong bao sauce": [
-            "2 tbsp lemon juice",
-            "2 tbsp hoisin sauce",
-            "1 tbsp dark soy sauce",
-            "1 tsp crushed dried chilli flakes",
-            "1 tbsp cornflour, mixed with 2 tbsp cold water, to thicken"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 2",
+    "show": {
+        "b00cjxzp": "Chinese Food Made Easy"
     },
     "steps": [
         "For the haddock goujons, mix the Shaoxing rice wine, grated ginger and chopped spring onion together in a shallow bowl and add the fish strips. Cover with cling film and leave to marinate in the fridge for 20 minutes.",
@@ -49,8 +55,9 @@
         "For the gong bao sauce, heat all of the sauce ingredients together in a small saucepan, and, if necessary, thicken with the cornflour and water mixture. Remove from the heat and transfer to a small bowl or ramekin for dipping.",
         "To serve, pile the fish goujons onto a serving plate and place the bowl of gong bao sauce on the side. Serve immediately with roast sweet potato wedges."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Serve with sweet potato wedges."
     ],
+    "title": "Gong bao haddock goujons",
     "videos": "[]"
 }

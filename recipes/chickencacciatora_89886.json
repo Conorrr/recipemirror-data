@@ -1,26 +1,28 @@
 {
-    "title": "Chicken cacciatora",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "casserole",
+        "pie",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "roast potatoes"
+        ],
         "default": [
             "75g/2\u00beoz plain flour",
             "salt and freshly ground black pepper",
@@ -36,10 +38,13 @@
             "150ml/5fl oz chicken stock",
             "1 tbsp red wine vinegar",
             "handful fresh parsley leaves"
-        ],
-        "To serve": [
-            "roast potatoes"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Season the flour with salt and freshly ground black pepper, then dredge the chicken pieces in it.",
@@ -50,8 +55,9 @@
         "Return the chicken pieces to the casserole and cover with a lid. Simmer over a low heat for 30-40 minutes, or until the chicken is tender.",
         "To serve, remove the lid and sprinkle with parsley leaves. Spoon out onto plates and serve with roast potatoes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken cacciatora",
     "videos": "[]"
 }

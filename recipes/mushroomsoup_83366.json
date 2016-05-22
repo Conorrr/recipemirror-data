@@ -1,24 +1,22 @@
 {
-    "title": "Mushroom soup",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "This is a really easy recipe for mushroom soup for one.",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "This is a really easy recipe for mushroom soup for one.",
+    "dishes": [
+        "soup",
+        "stock",
+        "vegetable_soup"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,6 +32,12 @@
             "1 tsp chopped fresh parsley"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Melt the butter with the olive oil in a frying pan and fry the onion and garlic until soft.",
         "Add the mushroom and cook until soft, then season well with salt and freshly ground black pepper.",
@@ -41,8 +45,9 @@
         "Add the stock and simmer for five minutes, then add the cream and parsley.",
         "Allow to cool slightly, then iquidise until smooth in a blender. Serve in a warm bowl, reheating if necessary."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mushroom soup",
     "videos": "[]"
 }

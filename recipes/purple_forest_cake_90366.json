@@ -1,26 +1,50 @@
 {
-    "title": "Purple forest cake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 large 3-tiered cake",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "An indulgent Black Forest g\u00e2teau with three layers of moist chocolate cake, topped with homemade cherry jam, mascarpone cream and Italian meringue. For this recipe you will need 3 x 18cm/7in springform cake tins, a freestanding mixer and a chef's blow torch.",
     "author": {
         "stu": "Stu"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "If you have truffles leftover from decorating the cake, they will keep in the fridge for up to a week."
+    "cookTime": "1 to 2 hours",
+    "description": "An indulgent Black Forest g\u00e2teau with three layers of moist chocolate cake, topped with homemade cherry jam, mascarpone cream and Italian meringue. For this recipe you will need 3 x 18cm/7in springform cake tins, a freestanding mixer and a chef's blow torch.",
+    "dishes": [
+        "black_forest_gateau",
+        "cake",
+        "gateau",
+        "icing",
+        "jam",
+        "meringue",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "creaming",
+        "how_to_make_italian_meringue",
+        "testing_to_see_if_a_cake_is_cooked",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Italian meringue frosting": [
+            "3 egg whites",
+            "\u00bd tsp cream of tartar",
+            "175g/6oz caster sugar"
+        ],
+        "For the cream": [
+            "250g/9oz mascarpone",
+            "50g/1\u00beoz icing sugar",
+            "150ml/5\u00bdoz double cream"
+        ],
+        "For the jam": [
+            "600g/1lb 5oz large fresh cherries",
+            "4 tbsp Kirsch (cherry liqueur)",
+            "100g/3\u00bdoz caster sugar"
+        ],
         "For the sponge": [
             "250g/9oz plain flour, plus extra for dusting",
             "50g/1\u00beoz cocoa powder, plus extra for dusting",
@@ -33,25 +57,16 @@
             "1 vanilla pod, split in half lengthways and seeds scraped out",
             "300ml/10floz hot water"
         ],
-        "For the cream": [
-            "250g/9oz mascarpone",
-            "50g/1\u00beoz icing sugar",
-            "150ml/5\u00bdoz double cream"
-        ],
-        "For the jam": [
-            "600g/1lb 5oz large fresh cherries",
-            "4 tbsp Kirsch (cherry liqueur)",
-            "100g/3\u00bdoz caster sugar"
-        ],
         "For the truffles": [
             "100g/3\u00bdoz dark chocolate (minimum 70% cocoa solids)",
             "75ml/2\u00bdfl oz double cream"
-        ],
-        "For the Italian meringue frosting": [
-            "3 egg whites",
-            "\u00bd tsp cream of tartar",
-            "175g/6oz caster sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 1 large 3-tiered cake",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the sponge, preheat the oven to 180C/170C Fan/Gas 4. Grease three 18cm/7in springform cake tins with butter. Line the base with baking parchment and dust the sides with flour.",
@@ -68,11 +83,9 @@
         "To decorate the cake, put one of the cakes on a serving plate or cake board and brush with the syrup from the jam. Spread half the mascarpone cream over the top and add half of the jammy cherries. Repeat with the next layer of cake and top with the third cake.",
         "Smooth the Italian meringue all over the cake. Use a chef\u2019s blowtorch to brown the meringue. Arrange the reserved cherries on top and around the base. Dust the truffles with cocoa powder and arrange them around the base."
     ],
-    "howTos": [
-        "creaming",
-        "how_to_make_italian_meringue",
-        "testing_to_see_if_a_cake_is_cooked",
-        "whisking_egg_whites"
+    "tips": [
+        "If you have truffles leftover from decorating the cake, they will keep in the fridge for up to a week."
     ],
+    "title": "Purple forest cake",
     "videos": "[]"
 }

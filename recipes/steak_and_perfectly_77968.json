@@ -1,24 +1,22 @@
 {
-    "title": "Steak and perfectly cooked chips",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "21",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/steak_and_perfectly_77968_16x9.jpg"
-    ],
-    "description": "Follow Simon Hopkinson\u2019s simple steps for the perfect steak and homemade chips recipe.",
     "author": {
         "simon_hopkinson": "Simon Hopkinson"
     },
-    "show": {
-        "b012gg69": "The Good Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Follow Simon Hopkinson\u2019s simple steps for the perfect steak and homemade chips recipe.",
+    "dishes": [
+        "chips",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "how_to_cook_chips"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/steak_and_perfectly_77968_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -28,6 +26,12 @@
             "salt and freshly ground black pepper",
             "Dijon mustard, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "21",
+    "serves": "Serves 1",
+    "show": {
+        "b012gg69": "The Good Cook"
     },
     "steps": [
         "For the chips, peel the potatoes and cut into whatever size you prefer. Wash well in cold water until the water runs clear, drain and pat dry with a clean tea towel.",
@@ -39,8 +43,9 @@
         "Once cooked, leave the steak to rest on a warm plate in a warm place (such as a very low oven) for a few minutes, so that the juices will settle evenly within the meat, while also allowing the meat to relax and become even tenderer.",
         "Serve the steak and chips with Dijon mustard."
     ],
-    "howTos": [
-        "how_to_cook_chips"
+    "tips": [
+        
     ],
+    "title": "Steak and perfectly cooked chips",
     "videos": "[]"
 }

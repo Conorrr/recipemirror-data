@@ -1,26 +1,31 @@
 {
-    "title": "Coffee parfait",
-    "cookTime": "no cooking required",
-    "prepTime": "overnight",
-    "serves": "Makes 1.4litres/2 pints 10fl oz",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "parfait",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "caramel sauce (optional)",
+            "vanilla cream (optional)",
+            "chopped roasted nuts",
+            "cocoa powder, for dusting"
+        ],
         "default": [
             "8 free-range egg yolks",
             "100g/3\u00bdoz caster sugar",
@@ -29,13 +34,13 @@
             "1-2 tsp freshly squeezed lemon juice",
             "200ml/7fl oz whipping cream, whisked until soft peaks form when the whisk is removed",
             "50ml/2fl oz coffee essence or cooled strong coffee"
-        ],
-        "To serve": [
-            "caramel sauce (optional)",
-            "vanilla cream (optional)",
-            "chopped roasted nuts",
-            "cocoa powder, for dusting"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "Makes 1.4litres/2 pints 10fl oz",
+    "show": {
+        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
     },
     "steps": [
         "Whisk the egg yolks, sugar and dessert wine together in a large heatproof bowl until pale and fluffy.",
@@ -48,8 +53,9 @@
         "When ready to serve, remove the coffee parfait from the freezer and dip the loaf tin into hot water to loosen the parfait from the tin. Run a blunt knife around the parfait, then turn it out onto a long rectangular plate.",
         "To serve, slice the coffee parfait and serve with caramel sauce or vanilla cream, if using. Sprinkle with chopped roasted nuts and dust with cocoa powder."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Coffee parfait",
     "videos": "[]"
 }

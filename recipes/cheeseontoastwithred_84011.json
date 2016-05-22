@@ -1,26 +1,31 @@
 {
-    "title": "Cheese on toast with red pepper chutney",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1-2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "chutney",
+        "ciabatta",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cheese on toast": [
+            "1 tbsp wholegrain mustard",
+            "4 tbsp Greek yoghurt",
+            "2 slices of ciabatta bread, toasted",
+            "55g/2oz Edam cheese, grated"
+        ],
         "For the chutney": [
             "1 onion, chopped",
             "1 tbsp olive oil",
@@ -29,13 +34,13 @@
             "2 tsp brown sugar",
             "knob of butter",
             "splash balsamic vinegar"
-        ],
-        "For the cheese on toast": [
-            "1 tbsp wholegrain mustard",
-            "4 tbsp Greek yoghurt",
-            "2 slices of ciabatta bread, toasted",
-            "55g/2oz Edam cheese, grated"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1-2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the grill to its highest setting.",
@@ -46,8 +51,9 @@
         "Sprinkle the cheese on top and place under the grill to cook for 2-3 minutes, or until the cheese has melted and is bubbling.",
         "Remove the cheese on toast from the grill and place on a serving plate, with a spoonful of the chutney."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cheese on toast with red pepper chutney",
     "videos": "[]"
 }

@@ -1,33 +1,35 @@
 {
-    "title": "Salmon rendang with mint salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "13",
-    "images": [
-        
-    ],
-    "description": "This Indonesian dish packs a massive flavour punch and is quick and easy to make.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "This Indonesian dish packs a massive flavour punch and is quick and easy to make.",
+    "dishes": [
+        "curry",
+        "jam",
+        "punch",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the spice paste": [
-            "5 shallots, roughly chopped",
-            "3cm/1\u00bcin galangal, roughly chopped",
-            "3 stalks lemongrass, roughly chopped",
-            "5 cloves garlic, roughly chopped",
-            "3cm/1\u00bcin ginger, roughly chopped",
-            "5 dried chillies, soaked in warm water, seeds removed and roughly chopped"
+        "For the mint salad": [
+            "2 tbsp rice wine vinegar",
+            "3 tbsp toasted sesame oil",
+            "3 tbsp mint leaves",
+            "3 tbsp coriander leaves",
+            "\u00bd cucumber, finely shredded",
+            "250g/9oz white cabbage, finely shredded",
+            "1 red chilli, finely shredded"
         ],
         "For the salmon": [
             "5 tbsp vegetable oil",
@@ -46,15 +48,20 @@
             "2 limes, juice only",
             "sea salt and freshly ground black pepper"
         ],
-        "For the mint salad": [
-            "2 tbsp rice wine vinegar",
-            "3 tbsp toasted sesame oil",
-            "3 tbsp mint leaves",
-            "3 tbsp coriander leaves",
-            "\u00bd cucumber, finely shredded",
-            "250g/9oz white cabbage, finely shredded",
-            "1 red chilli, finely shredded"
+        "For the spice paste": [
+            "5 shallots, roughly chopped",
+            "3cm/1\u00bcin galangal, roughly chopped",
+            "3 stalks lemongrass, roughly chopped",
+            "5 cloves garlic, roughly chopped",
+            "3cm/1\u00bcin ginger, roughly chopped",
+            "5 dried chillies, soaked in warm water, seeds removed and roughly chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "13",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the spice paste, place all the ingredients into a food processor and pulse to form a paste. Transfer the paste to a small bowl and set aside.",
@@ -66,8 +73,9 @@
         "For the salad, whisk the rice wine vinegar and sesame oil together in a bowl then add the remaining ingredients and toss to combine.",
         "To serve, spoon the curry onto the plate and pile the salad alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salmon rendang with mint salad",
     "videos": "[]"
 }

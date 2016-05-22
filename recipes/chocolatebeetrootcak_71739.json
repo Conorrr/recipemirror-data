@@ -1,24 +1,24 @@
 {
-    "title": "Chocolate beetroot cakes",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 12",
-    "recommendations": "47",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolatebeetrootcak_71739_16x9.jpg"
-    ],
-    "description": "Adding beetroot to a chocolate cake recipe makes it wonderfully fudgy and moist. (Possibly a tiny bit healthy, too!)",
     "author": {
         "jill_dupleix": "Jill Dupleix"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Adding beetroot to a chocolate cake recipe makes it wonderfully fudgy and moist. (Possibly a tiny bit healthy, too!)",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "icing",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolatebeetrootcak_71739_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -33,6 +33,12 @@
             "icing sugar for dusting"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "47",
+    "serves": "Makes 12",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Preheat the oven to 180C/355F/Gas 4. Arrange paper muffin cases in a 12-mould muffin tin.",
         "Sift the cocoa powder, flour and baking powder into a bowl. Mix in the sugar, and set aside.",
@@ -41,8 +47,9 @@
         "Bake for 30 minutes or until the top is firm when pressed with a finger.",
         "Cool on a wire rack and dust with icing sugar to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chocolate beetroot cakes",
     "videos": "[]"
 }

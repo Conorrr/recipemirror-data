@@ -1,24 +1,24 @@
 {
-    "title": "Seashell caramels",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 20 chocolates",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/seashell_caramels_89965_16x9.jpg"
-    ],
-    "description": "These pretty dark chocolate shells are filled with caramel and sealed with a white chocolate base. Equipment: You will need 20 assorted seashell or similar chocolate moulds and a sugar thermometer.",
     "author": {
         "kitty_hope_and_mark_greenwood": "Kitty Hope and Mark Greenwood"
     },
-    "show": {
-        "b04d9lns": "Sweets Made Simple"
-    },
-    "tips": [
-        "You will not need all the dark chocolate but it's easier to temper chocolate in larger quantities. Any leftover chocolate can be cooled in a heatproof container and used later in other recipes."
+    "cookTime": "30 mins to 1 hour",
+    "description": "These pretty dark chocolate shells are filled with caramel and sealed with a white chocolate base. Equipment: You will need 20 assorted seashell or similar chocolate moulds and a sugar thermometer.",
+    "dishes": [
+        "caramel",
+        "chips",
+        "confectionery",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "how_to_make_caramel_and_praline",
+        "how_to_temper_chocolate"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/seashell_caramels_89965_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -29,6 +29,12 @@
             "good pinch of sea salt crystals",
             "100g/3\u00bdoz white chocolate"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Makes 20 chocolates",
+    "show": {
+        "b04d9lns": "Sweets Made Simple"
     },
     "steps": [
         "Put the dark chocolate into a bowl over a pan of some simmering water. Don\u2019t let the bowl touch the water or the chocolate will burn, and don\u2019t let any water into the chocolate or the chocolate will seize.",
@@ -42,9 +48,9 @@
         "Melt the white chocolate, as before. Then spoon the chocolate over the caramel to cover. Chill again for 15 minutes. When hard, gently turn the chocolates out of the mould.",
         "Store in an airtight container in the fridge for up to five days."
     ],
-    "howTos": [
-        "how_to_make_caramel_and_praline",
-        "how_to_temper_chocolate"
+    "tips": [
+        "You will not need all the dark chocolate but it's easier to temper chocolate in larger quantities. Any leftover chocolate can be cooled in a heatproof container and used later in other recipes."
     ],
+    "title": "Seashell caramels",
     "videos": "[]"
 }

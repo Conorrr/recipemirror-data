@@ -1,24 +1,22 @@
 {
-    "title": "Penne al'arrabiata (pasta with a tomato and chilli sauce)",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Hot, quick and tasty - an easy storecupboard pasta dish for a weeknight supper.",
     "author": {
         "max_beesley": "Max Beesley"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "Hot, quick and tasty - an easy storecupboard pasta dish for a weeknight supper.",
+    "dishes": [
+        "pasta",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,14 +30,21 @@
             "parmesan shavings (or similar vegetarian hard cheese), to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Makes 4",
+    "show": {
+        "b00701fw": "A Taste of My Life"
+    },
     "steps": [
         "Heat the olive oil in a frying pan. Add the chilli and garlic to the pan. After about a minute, add the basil leaves and gently wilt them in the flavoured oil.",
         "Remove the garlic, basil and chilli from the pan and set aside. Add the chopped tomatoes to the frying pan.",
         "Put the garlic, basil and chilli back in the pan with the tomatoes. Simmer for at least 10 minutes, until the sauce has thickened a little. Add salt to taste.",
         "Meanwhile, cook the pasta for a few minutes in large saucepan of boiling, salted water with a dash of olive oil. Drain the pasta and the tomato sauce to it. Serve with shavings of parmesan."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Penne al'arrabiata (pasta with a tomato and chilli sauce)",
     "videos": "[]"
 }

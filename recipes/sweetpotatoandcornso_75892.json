@@ -1,24 +1,22 @@
 {
-    "title": "Sweet potato and corn soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,6 +31,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil in a pan and gently saut\u00e9 the sweet potato, sweetcorn, garlic and thyme for 5-8 minutes.",
         "Add the wine and stock and cook for ten minutes.",
@@ -40,8 +44,9 @@
         "Add the cream and season with salt and freshly ground black pepper.",
         "Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sweet potato and corn soup",
     "videos": "[]"
 }

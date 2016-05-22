@@ -1,32 +1,27 @@
 {
-    "title": "Lee's brown-bag fried chicken",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/leesbrownbagfriedchi_91744_16x9.jpg"
-    ],
-    "description": "",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b00lpbxs": "What to Eat Now"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "American",
+    "description": "",
+    "dishes": [
+        "crumble",
+        "ketchup",
+        "mayonnaise",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/leesbrownbagfriedchi_91744_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "2 chicken breasts (wing bone attached), skin on, cut in two diagonally",
-            "2 chicken legs, skin on",
-            "2 chicken thighs, skin on",
-            "1 litre/1\u00be pints sunflower oil, for deep frying"
-        ],
         "For the coating": [
             "7 tbsp plain white flour",
             "1 tbsp dried oregano, crumbled",
@@ -41,7 +36,19 @@
         "To serve": [
             "French fries",
             "ready-made tomato ketchup, mayonnaise or barbecue sauce (optional)"
+        ],
+        "default": [
+            "2 chicken breasts (wing bone attached), skin on, cut in two diagonally",
+            "2 chicken legs, skin on",
+            "2 chicken thighs, skin on",
+            "1 litre/1\u00be pints sunflower oil, for deep frying"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b00lpbxs": "What to Eat Now"
     },
     "steps": [
         "Rinse the chicken pieces in cold water, then pat dry with kitchen paper.",
@@ -52,8 +59,9 @@
         "Carefully lower the coated chicken pieces into the hot oil, one at a time, using tongs. When all of the chicken pieces have been added, the oil should be just bubbling. Cook the chicken in the oil for 18-20 minutes, turning regularly, until crisp and deep golden-brown and completely cooked through. Remove the cooked chicken from the pan using a slotted spoon and set aside to drain on kitchen paper.",
         "To serve, divide the chicken pieces equally among four serving plates. Serve with French fries and dollops of tomato ketchup, mayonnaise or barbecue sauce, if using."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lee's brown-bag fried chicken",
     "videos": "[]"
 }

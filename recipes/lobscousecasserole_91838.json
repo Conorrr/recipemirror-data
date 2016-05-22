@@ -1,23 +1,25 @@
 {
-    "title": "Lobscouse casserole",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "",
+    "dishes": [
+        "bread",
+        "casserole",
+        "oven-baked_dishes",
+        "pie",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -36,6 +38,12 @@
             "crusty bread, to serve (optional)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4-6",
+    "show": {
+        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
+    },
     "steps": [
         "Preheat oven to 150C/300F/Gas 2.",
         "Heat the olive oil in a large casserole dish over a medium heat. Add the beef pieces and cook for 4-5 minutes, stirring occasionally, or until browned all over.",
@@ -48,8 +56,9 @@
         "Cover the casserole with a lid, then transfer to the oven and cook for 2\u00bd-3 hours, or until the beef is tender.",
         "To serve, spoon some of the lobscouse casserole into the centre of four to six serving plates and serve with crusty bread, if desired."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lobscouse casserole",
     "videos": "[]"
 }

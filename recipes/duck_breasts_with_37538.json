@@ -1,33 +1,42 @@
 {
-    "title": "Duck breasts with beetroot, apple and braised red cabbage",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "The pickled beetroot leaves are best made a day ahead, but can be done in an hour if you're pressed for time.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "The pickled beetroot leaves are best made a day ahead, but can be done in an hour if you're pressed for time.",
+    "dishes": [
+        "bun",
+        "gravy",
+        "jam",
+        "oven-baked_dishes",
+        "pickle",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the roasted beetroot": [
-            "\u00bd bunch baby heritage beetroots, cleaned and trimmed, leaves reserved",
-            "200ml/7fl oz white wine vinegar",
-            "75g/2\u00bdoz caster sugar",
-            "1 tsp salt",
-            "\u00bd tsp black peppercorns",
-            "75g/2\u00bdoz unsalted butter"
+        "For the apple pur\u00e9e": [
+            "2 cooking apples (preferably Bramley), peeled, cored and chopped",
+            "50g/1\u00beoz butter",
+            "2-4 tbsp caster sugar, to taste"
+        ],
+        "For the beetroot pur\u00e9e": [
+            "600g/1lb 5oz raw beetroot, peeled, cut into chunks",
+            "1 onion, roughly chopped",
+            "\u00bd garlic clove, roughly chopped",
+            "2 sprigs fresh thyme, leaves only"
+        ],
+        "For the duck": [
+            "4 tbsp olive oil",
+            "4 duck breasts, trimmed"
         ],
         "For the red cabbage": [
             "100g/3\u00bdoz unsalted butter",
@@ -41,25 +50,24 @@
             "1 cinnamon stick",
             "salt"
         ],
-        "For the beetroot pur\u00e9e": [
-            "600g/1lb 5oz raw beetroot, peeled, cut into chunks",
-            "1 onion, roughly chopped",
-            "\u00bd garlic clove, roughly chopped",
-            "2 sprigs fresh thyme, leaves only"
-        ],
-        "For the apple pur\u00e9e": [
-            "2 cooking apples (preferably Bramley), peeled, cored and chopped",
-            "50g/1\u00beoz butter",
-            "2-4 tbsp caster sugar, to taste"
-        ],
-        "For the duck": [
-            "4 tbsp olive oil",
-            "4 duck breasts, trimmed"
+        "For the roasted beetroot": [
+            "\u00bd bunch baby heritage beetroots, cleaned and trimmed, leaves reserved",
+            "200ml/7fl oz white wine vinegar",
+            "75g/2\u00bdoz caster sugar",
+            "1 tsp salt",
+            "\u00bd tsp black peppercorns",
+            "75g/2\u00bdoz unsalted butter"
         ],
         "To serve": [
             "curly kale, wilted and buttered",
             "jus or gravy"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the roasted beetroot, put the baby beetroot in a large saucepan of boiling water and cook for 15-20 minutes. Drain and leave to cool slightly. Carefully peel the beetroots and cut them in half.",
@@ -73,8 +81,9 @@
         "Meanwhile to finish the roasted beetroot, melt the butter in a frying pan and add the beetroots. Cook for 2-3 minutes, or until slightly golden-brown.",
         "To serve, dress the plates with the beetroot and apple pur\u00e9e. Place the red cabbage on the plates with the duck breast, roasted beetroot, kale, beetroot leaves and drizzle with jus or gravy."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Duck breasts with beetroot, apple and braised red cabbage",
     "videos": "[]"
 }

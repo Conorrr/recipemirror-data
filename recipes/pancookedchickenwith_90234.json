@@ -1,26 +1,29 @@
 {
-    "title": "How to cook chicken in tarragon sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "7",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pancookedchickenwith_90234_16x9.jpg"
-    ],
-    "description": "Chicken and tarragon are a match made in heaven. This recipe is a sure-fire way to please the whole family.",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Chicken and tarragon are a match made in heaven. This recipe is a sure-fire way to please the whole family.",
+    "dishes": [
+        "bread",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "jointing_chicken"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pancookedchickenwith_90234_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "truffle oil, optional"
+        ],
         "default": [
             "1 x 2kg/4lb 7oz whole chicken, preferably free-range",
             "\u00bd onion, peeled",
@@ -37,10 +40,13 @@
             "1 tbsp vegetable oil",
             "knob of butter",
             "salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "truffle oil, optional"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "If jointing a whole chicken, cut the chicken up into eight serving pieces: two thighs, two drumsticks and two breasts, cut in half. (If buying prepared chicken pieces, go to Step 4.)",
@@ -58,8 +64,9 @@
         "Add the chopped herbs to the chicken and cream sauce and adjust seasoning.",
         "To finish, add a drizzle of truffle oil, if you like. Serve the chicken pieces in a bowl with the sauce and place the mushrooms on top. Serve with crusty bread."
     ],
-    "howTos": [
-        "jointing_chicken"
+    "tips": [
+        
     ],
+    "title": "How to cook chicken in tarragon sauce",
     "videos": "[]"
 }

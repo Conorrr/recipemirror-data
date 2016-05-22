@@ -1,26 +1,32 @@
 {
-    "title": "Braised beef cheeks and parsley salad",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "15",
-    "images": [
-        
-    ],
-    "description": "Bryn Williams' recipe for beef cheeks that are so tender you could eat them with a spoon. Serve with lots of mash.",
     "author": {
         "bryn_williams": "Bryn Williams"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Bryn Williams' recipe for beef cheeks that are so tender you could eat them with a spoon. Serve with lots of mash.",
+    "dishes": [
+        "casserole",
+        "oven-baked_dishes",
+        "salad",
+        "slow-cooked_dishes",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the parsley salad": [
+            "1 shallot, sliced",
+            "\u00bd lemon, juice only",
+            "2 tbsp extra virgin olive oil",
+            "2 tbsp chopped fresh flatleaf parsley"
+        ],
         "default": [
             "4 large beef cheeks",
             "1 small onion, quartered",
@@ -32,13 +38,13 @@
             "500ml/18fl oz beer",
             "2 tbsp vegetable oil",
             "1 litre/1\u00be pints chicken stock"
-        ],
-        "For the parsley salad": [
-            "1 shallot, sliced",
-            "\u00bd lemon, juice only",
-            "2 tbsp extra virgin olive oil",
-            "2 tbsp chopped fresh flatleaf parsley"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "15",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Place the beef cheeks in a large bowl add the vegetables, herbs and peppercorns; pour over the beer and mix until well combined, then chill in the fridge for 24 hours.",
@@ -52,8 +58,9 @@
         "For the parsley salad, place the shallot in a bowl, season with salt and freshly ground black pepper, add the lemon juice, olive oil and parsley.",
         "To serve, spoon the cheeks onto serving plates, pile the salad alongside with a dollop of mash."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Braised beef cheeks and parsley salad",
     "videos": "[]"
 }

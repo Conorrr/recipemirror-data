@@ -1,24 +1,24 @@
 {
-    "title": "Jumbo cheese and ham straws",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "18",
-    "recommendations": "19",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/jumbocheesestraws_90633_16x9.jpg"
-    ],
-    "description": "Ooh, if cheese straws weren't tasty enough, work in a few strips of savoury Parma ham to kick it up a level.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00g24tp": "The Hairy Bakers' Christmas Special"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Ooh, if cheese straws weren't tasty enough, work in a few strips of savoury Parma ham to kick it up a level.",
+    "dishes": [
+        "cheese_straws",
+        "crumble",
+        "ham",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/jumbocheesestraws_90633_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -28,6 +28,12 @@
             "1 tbsp celery seeds",
             "1 free-range egg, beaten"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "19",
+    "serves": "18",
+    "show": {
+        "b00g24tp": "The Hairy Bakers' Christmas Special"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -39,8 +45,9 @@
         "Twist the strips and transfer each to a baking tray. Press the ends of the pastry twists down to secure them to the tray and prevent them from unravelling.",
         "Bake in the oven for 20-25 minutes, or until golden-brown. Set aside to cool slightly, then serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Jumbo cheese and ham straws",
     "videos": "[]"
 }

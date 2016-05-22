@@ -1,26 +1,33 @@
 {
-    "title": "Stuffed trout and purple sprouting broccoli",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gennaro_contaldo": "Gennaro Contaldo"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "bread",
+        "breadsticks",
+        "stir-fries",
+        "stuffing"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the purple sprouting broccoli": [
+            "salt and freshly ground black pepper",
+            "300g/10\u00bdoz purple sprouting broccoli",
+            "1 tbsp olive oil",
+            "12 cloves garlic (or to taste), finely sliced",
+            "1 lemon, juice only"
+        ],
         "default": [
             "50g/2oz hazelnuts",
             "50g/2oz almonds",
@@ -36,14 +43,13 @@
             "salt and freshly ground black pepper",
             "4 whole trout, each about 450g/16oz, scaled, gutted, gills removed",
             "110g/4oz butter"
-        ],
-        "For the purple sprouting broccoli": [
-            "salt and freshly ground black pepper",
-            "300g/10\u00bdoz purple sprouting broccoli",
-            "1 tbsp olive oil",
-            "12 cloves garlic (or to taste), finely sliced",
-            "1 lemon, juice only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Place the hazelnuts, almonds, pine nuts, anchovies, garlic and capers into a food processor and blend.",
@@ -56,8 +62,9 @@
         "Heat a frying pan until hot and add the olive oil and garlic, stir fry for 30 seconds before adding the drained broccoli. Stir-fry for one minute, then add the lemon juice and season, to taste, with salt and freshly ground black pepper.",
         "To serve, place each trout onto a serving plate and place equal amounts of the broccoli alongside."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Stuffed trout and purple sprouting broccoli",
     "videos": "[]"
 }

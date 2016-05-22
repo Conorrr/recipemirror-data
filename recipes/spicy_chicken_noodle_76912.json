@@ -1,26 +1,32 @@
 {
-    "title": "Spicy chicken noodle salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spicy_chicken_noodle_76912_16x9.jpg"
-    ],
-    "description": "This Asian-style salad is full of crunchy vegetables and topped with crisp, breadcrumbed chicken.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This Asian-style salad is full of crunchy vegetables and topped with crisp, breadcrumbed chicken.",
+    "dishes": [
+        "bread",
+        "noodle_salad",
+        "pie",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spicy_chicken_noodle_76912_16x9.jpg"
+    ],
     "ingredients": {
+        "For the breadcrumbs": [
+            "125g/4oz panko breadcrumbs",
+            "1 tsp chilli flakes",
+            "salt and white pepper",
+            "pinch ground star anise"
+        ],
         "For the dressing": [
             "150g/5oz palm sugar",
             "150ml/5fl oz fresh lime juice",
@@ -30,12 +36,6 @@
             "1 lemongrass stalk, chopped",
             "1 garlic clove, crushed",
             "1 red chilli, chopped"
-        ],
-        "For the breadcrumbs": [
-            "125g/4oz panko breadcrumbs",
-            "1 tsp chilli flakes",
-            "salt and white pepper",
-            "pinch ground star anise"
         ],
         "For the salad": [
             "2 chicken breasts, cut into strips",
@@ -48,6 +48,12 @@
             "small handful chopped fresh coriander"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "For the dressing, place the palm sugar, lime juice and fish sauce in a saucepan and bring to the boil, stirring until the sugar has dissolved.",
         "Add the grated ginger, lime leaves, lemongrass, garlic and chilli and return to the boil. Remove the pan from the heat and allow to cool. Strain the mixture through a sieve.",
@@ -57,8 +63,9 @@
         "Mix the mooli, carrot, pak choi, spring onions and noodles together in a bowl. Add the dressing, to taste and mix together until well combined.",
         "Divide the salad among serving bowls, top with the chicken pieces and sprinkle over the coriander."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spicy chicken noodle salad",
     "videos": "[]"
 }

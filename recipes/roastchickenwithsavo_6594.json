@@ -1,34 +1,28 @@
 {
-    "title": "Roast chicken with savoury bread pudding and tarragon",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "richard_corrigan": "Richard Corrigan"
     },
-    "show": {
-        "b006t1k5": "MasterChef"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "skimming_stock",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 organic free-range chicken (about 1.5kg/3lb50z)",
-            "1 lemon, halved",
-            "fresh thyme",
-            "softened, unsalted butter",
-            "1 glass white wine",
-            "1 tbsp fresh tarragon, chopped"
-        ],
         "For the bread pudding": [
             "450ml/16fl oz milk",
             "1 small bay leaf",
@@ -42,7 +36,21 @@
             "1 small onion, peeled and very finely chopped",
             "1 egg and 2 egg whites",
             "salt and freshly ground black pepper"
+        ],
+        "default": [
+            "1 organic free-range chicken (about 1.5kg/3lb50z)",
+            "1 lemon, halved",
+            "fresh thyme",
+            "softened, unsalted butter",
+            "1 glass white wine",
+            "1 tbsp fresh tarragon, chopped"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006t1k5": "MasterChef"
     },
     "steps": [
         "To make the bread pudding: put the milk, bay leaf, thyme, garlic, cloves, lemon zest and a little nutmeg in a saucepan and heat until bubbles form around the edge of the pan. Remove from the heat and set aside to infuse for 20 minutes.",
@@ -56,9 +64,9 @@
         "When the chicken has finished cooking, put it on a carving board and set aside in a warm place to rest for 15 minutes. Skim off some of the fat from the juices in the tin. Set the tin over a moderate heat, add the wine and bring to the boil. Check the seasoning, then add a squeeze of lemon juice and the tarragon. Keep hot.",
         "Carve the chicken and divide among the hot plates. Turn out the bread puddings and put one on each plate. Moisten the chicken and puddings with the sauce and serve."
     ],
-    "howTos": [
-        "skimming_stock",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Roast chicken with savoury bread pudding and tarragon",
     "videos": "[]"
 }

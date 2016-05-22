@@ -1,30 +1,32 @@
 {
-    "title": "Grilled pork chop with almond croquettes and salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Pork chops cooked with apple wedges, flaked almond-flecked croquettes and a herb-packed salad make for a stunning dinner party supper.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b04xycrx": "James Martin: Home Comforts"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Pork chops cooked with apple wedges, flaked almond-flecked croquettes and a herb-packed salad make for a stunning dinner party supper.",
+    "dishes": [
+        "jam",
+        "prepare-ahead_desserts",
+        "salad",
+        "sauce",
+        "sausage"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 pork loin chops",
-            "1 apple, cored and cut into wedges",
-            "salt, to taste"
+        "For the almond croquettes": [
+            "500g/1lb 2oz mashed potatoes",
+            "1 tbsp finely chopped flatleaf parsley",
+            "50g/1\u00beoz plain flour",
+            "1 free-range egg, beaten",
+            "75g/3oz flaked almonds"
         ],
         "For the dressing": [
             "1 free-range egg yolk",
@@ -39,17 +41,21 @@
             "1 tbsp finely chopped basil",
             "1 tbsp finely chopped thyme"
         ],
-        "For the almond croquettes": [
-            "500g/1lb 2oz mashed potatoes",
-            "1 tbsp finely chopped flatleaf parsley",
-            "50g/1\u00beoz plain flour",
-            "1 free-range egg, beaten",
-            "75g/3oz flaked almonds"
-        ],
         "For the salad": [
             "1 head Little Gem, roughly chopped",
             "2 handfuls lamb\u2019s lettuce"
+        ],
+        "default": [
+            "2 pork loin chops",
+            "1 apple, cored and cut into wedges",
+            "salt, to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b04xycrx": "James Martin: Home Comforts"
     },
     "steps": [
         "Preheat the grill to high. Place the pork chops in an ovenproof frying pan along with the apple wedges, then season the pork fat with salt and place under the grill for 10 minutes.",
@@ -63,8 +69,9 @@
         "Place straight into the fat fryer for 2-3 minutes, or until golden-brown, crisp and hot through, then remove using a slotted spoon onto a plate lined with kitchen paper.",
         "Place the salad leaves into a bowl and add enough dressing to just coat the leaves, then serve alongside the croquettes and pork chop."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Grilled pork chop with almond croquettes and salad",
     "videos": "[p01s2h26:p01s2h2m]"
 }

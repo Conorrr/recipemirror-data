@@ -1,23 +1,25 @@
 {
-    "title": "Parsee-style lamb cutlet served with tomato gravy and salad",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "This fancy Indian-style version of lamb chops with mash is a taste sensation and looks absolutely stunning on the plate.",
     "author": {
         "cyrus_todiwala": "Cyrus Todiwala"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Indian",
+    "description": "This fancy Indian-style version of lamb chops with mash is a taste sensation and looks absolutely stunning on the plate.",
+    "dishes": [
+        "bread",
+        "chutney",
+        "gravy",
+        "pie",
+        "salad",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -42,6 +44,18 @@
             "200g/7oz breadcrumbs",
             "vegetable oil, for frying"
         ],
+        "For the salad": [
+            "2 tbsp ready-made mango chutney relish with mint",
+            "\u00bd lime, juice only",
+            "1 tbsp vegetable oil",
+            "pinch salt",
+            "\u00bd cucumber, diced",
+            "1 beef tomato, seeds removed, finely diced",
+            "1 medium green chilli, finely chopped",
+            "1 small banana shallot, finely sliced",
+            "1 lettuce, leaves finely chopped",
+            "1 tbsp chopped fresh coriander leaves"
+        ],
         "For the tomato gravy": [
             "500g/1lb 2oz tomatoes, roughly chopped",
             "25g/1oz butter",
@@ -54,19 +68,13 @@
             "2 tbsp raw cane sugar or jaggery",
             "1 tbsp tamarind paste",
             "pinch salt"
-        ],
-        "For the salad": [
-            "2 tbsp ready-made mango chutney relish with mint",
-            "\u00bd lime, juice only",
-            "1 tbsp vegetable oil",
-            "pinch salt",
-            "\u00bd cucumber, diced",
-            "1 beef tomato, seeds removed, finely diced",
-            "1 medium green chilli, finely chopped",
-            "1 small banana shallot, finely sliced",
-            "1 lettuce, leaves finely chopped",
-            "1 tbsp chopped fresh coriander leaves"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the lamb, remove the two outer bones from each 3-bone rack of lamb, leaving only the centre bone on each piece of meat.",
@@ -91,8 +99,9 @@
         "For the salad, whisk the mango chutney, lime juice, oil and salt together until well combined, then mix with the rest of the ingredients.",
         "To serve, pile some salad onto each of four serving plates. Rest one lamb cutlet alongside each portion of salad, then spoon over the tomato gravy."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Parsee-style lamb cutlet served with tomato gravy and salad",
     "videos": "[]"
 }

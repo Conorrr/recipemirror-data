@@ -1,24 +1,25 @@
 {
-    "title": "Madeira cake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 cake",
-    "recommendations": "79",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/madeiracake_73878_16x9.jpg"
-    ],
-    "description": "James Martin\u2019s simple steps for making Madeira cake, will have you whipping up a soft, buttery afternoon treat.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006mk00": "Castle in the Country"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "James Martin\u2019s simple steps for making Madeira cake, will have you whipping up a soft, buttery afternoon treat.",
+    "dishes": [
+        "cake",
+        "jam",
+        "madeira_cake",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "creaming",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/madeiracake_73878_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -31,6 +32,12 @@
             "1-2 thin pieces of candied citron or lemon peel, to decorate"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "79",
+    "serves": "Makes 1 cake",
+    "show": {
+        "b006mk00": "Castle in the Country"
+    },
     "steps": [
         "Pre-heat the oven to 180C/350F/Gas 4. Grease an 18cm/7in round cake tin, line the base with greaseproof paper and grease the paper.",
         "Cream the butter and sugar together in a bowl until pale and fluffy. Beat in the eggs, one at a time, beating the mixture well between each one and adding a tablespoon of the flour with the last egg to prevent the mixture curdling.",
@@ -39,9 +46,9 @@
         "Remove from the oven and set aside to cool in the tin for 10 minutes, then turn it out on to a wire rack and leave to cool completely.",
         "To serve, decorate the cake with the candied peel."
     ],
-    "howTos": [
-        "creaming",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Madeira cake",
     "videos": "[]"
 }

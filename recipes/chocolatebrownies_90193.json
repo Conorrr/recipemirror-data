@@ -1,26 +1,30 @@
 {
-    "title": "Chocolate brownies",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 9",
-    "recommendations": "71",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolatebrownies_90193_16x9.jpg"
-    ],
-    "description": "You won\u2019t be able to resist Lesley Water\u2019s squidgy chocolate brownie recipe - get it on the table in ten easy steps.",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "You won\u2019t be able to resist Lesley Water\u2019s squidgy chocolate brownie recipe - get it on the table in ten easy steps.",
+    "dishes": [
+        "cake",
+        "chocolate_brownies",
+        "icing",
+        "oven-baked_dishes",
+        "prepare-ahead_desserts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "creaming"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolatebrownies_90193_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "icing sugar, for dusting"
+        ],
         "default": [
             "115g/4oz unsalted butter, softened, plus extra for greasing",
             "170g/6oz caster sugar",
@@ -33,10 +37,13 @@
             "1 tsp baking powder",
             "55g/2oz plain flour",
             "55g/2oz cocoa powder"
-        ],
-        "To serve": [
-            "icing sugar, for dusting"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "71",
+    "serves": "Makes 9",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -50,9 +57,9 @@
         "Bake in the oven for 35-40 minutes. Allow to cool in the tin for ten minutes, then place on a wire rack to cool.",
         "To serve, cut into rectangles and dust with icing sugar."
     ],
-    "howTos": [
-        "folding",
-        "creaming"
+    "tips": [
+        
     ],
+    "title": "Chocolate brownies",
     "videos": "[]"
 }

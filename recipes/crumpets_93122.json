@@ -1,24 +1,22 @@
 {
-    "title": "Crumpets",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 12",
-    "recommendations": "15",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00pymg1": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        "When you come make the last few crumpets, you may find that your batter thickens and the bubbles find it harder to burst. If this occurs, simply help each one on its way by pricking lightly with a cocktail stick."
+    "cookTime": "over 2 hours",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,6 +31,12 @@
             "butter, for greasing, plus extra to serve"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "15",
+    "serves": "Makes 12",
+    "show": {
+        "b00pymg1": "The Hairy Bikers: Mums Know Best"
+    },
     "steps": [
         "Warm the milk in a saucepan very gently until tepid.",
         "Sift the flours into a large bowl and stir in the yeast, salt and sugar until well-combined.",
@@ -46,8 +50,9 @@
         "Flip the crumpets over with a spatula and cook on the other side for a further two minutes, or until golden-brown. You can keep these crumpets warm while the remaining batter is prepared, or serve immediately spread with lots of butter.",
         "Cook the remaining crumpets in exactly the same way as the first, washing and buttering the rings well before re-using. The crumpets can also be cooled and then toasted."
     ],
-    "howTos": [
-        
+    "tips": [
+        "When you come make the last few crumpets, you may find that your batter thickens and the bubbles find it harder to burst. If this occurs, simply help each one on its way by pricking lightly with a cocktail stick."
     ],
+    "title": "Crumpets",
     "videos": "[]"
 }

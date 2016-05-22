@@ -1,24 +1,24 @@
 {
-    "title": "Plum clafoutis",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "24",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/plumclafoutis_11536_16x9.jpg"
-    ],
-    "description": "Halved plums are covered in a light batter and then baked in the oven to make this traditional French dessert. British plums are at their best in September, so make the most of them then and try this simple pud.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Halved plums are covered in a light batter and then baked in the oven to make this traditional French dessert. British plums are at their best in September, so make the most of them then and try this simple pud.",
+    "dishes": [
+        "clafoutis",
+        "icing",
+        "jam",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/plumclafoutis_11536_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,6 +36,12 @@
             "double cream, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "24",
+    "serves": "Serves 4-6",
+    "show": {
+        "p0077hsg": "Housecall"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "Pour the milk, cream and vanilla into a pan and boil for a minute. Remove from the heat and set aside to cool.",
@@ -45,8 +51,9 @@
         "Cook in the oven for about 30 minutes, until golden-brown and set but still light and soft inside.",
         "Dust with icing sugar and serve immediately with cream."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Plum clafoutis",
     "videos": "[]"
 }

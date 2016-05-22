@@ -1,32 +1,26 @@
 {
-    "title": "Leek, smoked eel, whelk and clam pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Try James Martin's version of a luxury fish pie. Homemade pastry is well worth the effort, but you can use ready-made if you're short of time.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Try James Martin's version of a luxury fish pie. Homemade pastry is well worth the effort, but you can use ready-made if you're short of time.",
+    "dishes": [
+        "fish_pie",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the rough puff pastry": [
-            "250g/9oz plain flour",
-            "250g/9oz very cold butter, cut into small cubes",
-            "\u00bd tsp salt",
-            "125ml/4\u00bdfloz ice-cold water"
-        ],
         "For the pie": [
             "50g/2oz butter",
             "2 leeks, finely sliced",
@@ -40,6 +34,12 @@
             "3 tbsp chives",
             "2 free-range egg yolks, beaten"
         ],
+        "For the rough puff pastry": [
+            "250g/9oz plain flour",
+            "250g/9oz very cold butter, cut into small cubes",
+            "\u00bd tsp salt",
+            "125ml/4\u00bdfloz ice-cold water"
+        ],
         "To serve": [
             "1kg/2lb 2oz potatoes, peeled, cut into large chunks",
             "150g/5oz butter",
@@ -47,6 +47,12 @@
             "200g/7oz brussel sprouts tops, sliced thinly",
             "3-4 tbsp water"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the rough puff pastry, sift the flour onto a work surface and make a well in the middle. Add the butter and salt to the well and work them together with your fingertips of one hand, gradually drawing the flour into the centre with the other hand. When the cubes of butter have become small pieces and the dough is grainy, gradually add 125ml/4\u00bdfl oz ice-cold water and mix until well combined.",
@@ -67,8 +73,9 @@
         "Brush the pastry with the remaining beaten egg and pierce holes in the top to let the steam escape.",
         "Put the pies into the oven on a baking sheet for 15-20 minutes, or until the pastry has risen and is crispy and golden-brown."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Leek, smoked eel, whelk and clam pie",
     "videos": "[]"
 }

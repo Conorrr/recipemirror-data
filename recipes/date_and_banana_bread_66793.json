@@ -1,33 +1,26 @@
 {
-    "title": "Date and banana bread and butter pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/date_and_banana_bread_66793_16x9.jpg"
-    ],
-    "description": "Give your bread and butter pudding a new twist by adding bananas and sticky dates and serving with a rich butterscotch sauce.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Give your bread and butter pudding a new twist by adding bananas and sticky dates and serving with a rich butterscotch sauce.",
+    "dishes": [
+        "bread",
+        "bread_and_butter_pudding",
+        "custard",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/date_and_banana_bread_66793_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "1 loaf thick-sliced white bread, crusts removed",
-            "200g/7oz unsalted butter",
-            "150g/5oz demerera sugar",
-            "6 bananas, sliced",
-            "12 pitted dates, chopped"
-        ],
         "For the custard": [
             "3 free-range eggs",
             "3 free-range egg yolks",
@@ -39,7 +32,20 @@
             "100ml/3\u00bdfl oz double cream, plus extra to serve",
             "100g/3\u00bdoz unsalted butter",
             "100g/3\u00bdoz soft dark brown sugar"
+        ],
+        "default": [
+            "1 loaf thick-sliced white bread, crusts removed",
+            "200g/7oz unsalted butter",
+            "150g/5oz demerera sugar",
+            "6 bananas, sliced",
+            "12 pitted dates, chopped"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "5",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Butter the slices of bread and cut in half diagonally.",
@@ -52,8 +58,9 @@
         "Meanwhile for the sauce, heat the ingredients in a heavy-bottomed saucepan until just boiling, then remove from the heat.",
         "Serve the bread and butter pudding with the sauce and some extra cream."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Date and banana bread and butter pudding",
     "videos": "[]"
 }

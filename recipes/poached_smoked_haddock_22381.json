@@ -1,23 +1,21 @@
 {
-    "title": "Poached smoked haddock Monte Carlo",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Gently smoked haddock fillets served with spinach, poached eggs and a white wine sauce brings some Monte Carlo panache.",
     "author": {
         "lawrence_keogh": "Lawrence Keogh"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Gently smoked haddock fillets served with spinach, poached eggs and a white wine sauce brings some Monte Carlo panache.",
+    "dishes": [
+        "salad",
+        "sauce",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -33,17 +31,6 @@
             "10 whole white peppercorns",
             "2 lemon slices"
         ],
-        "For the white wine sauce": [
-            "25g/1oz butter",
-            "115g/4oz shallots, sliced",
-            "115g/4oz button mushrooms, sliced",
-            "2 thyme sprigs",
-            "1 bay leaf",
-            "300ml/10fl oz white wine",
-            "1 litre/1\u00be pints fish stock (made above)",
-            "800ml/1 pint 8fl oz double cream",
-            "salt and freshly ground black pepper"
-        ],
         "For the haddock Monte Carlo": [
             "1.3 litres/2\u00bc pints milk",
             "1 onion, halved",
@@ -58,7 +45,24 @@
             "115g/4oz chives, finely chopped",
             "3 ripe tomatoes, skinned, seeds removed and cut into diamonds",
             "salt and freshly ground black pepper"
+        ],
+        "For the white wine sauce": [
+            "25g/1oz butter",
+            "115g/4oz shallots, sliced",
+            "115g/4oz button mushrooms, sliced",
+            "2 thyme sprigs",
+            "1 bay leaf",
+            "300ml/10fl oz white wine",
+            "1 litre/1\u00be pints fish stock (made above)",
+            "800ml/1 pint 8fl oz double cream",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the fish stock, in a large pan, add the butter and gently fry the onions, leek and celery with the thyme and bay leaf, without browning.",
@@ -80,8 +84,9 @@
         "Place a small amount of spinach in the centre of each plate and place a haddock fillet on top.Sit a small amount of spinach on top of the haddock, this will act as a nest for the poached egg and prevent it from slipping.",
         "Liberally spoon sauce over the fish and scatter over the chives and tomatoes. Serve with boiled parsley potatoes and a simple green salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Poached smoked haddock Monte Carlo",
     "videos": "[]"
 }

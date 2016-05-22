@@ -1,35 +1,24 @@
 {
-    "title": "John Dory with orange, fennel and caper salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "matt_tebbutt": "Matt Tebbutt"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "segmenting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "400g/14oz new potatoes, cut into 2.5cm/1in slices, parboiled",
-            "2 tbsp olive oil",
-            "200g/7oz flour",
-            "salt and freshly ground black pepper",
-            "4 fillets John Dory",
-            "50g/1\u00beoz butter",
-            "\u00bd lemon, juice only"
-        ],
         "For the fennel and caper salad": [
             "2 fennel bulbs, thinly sliced, (set aside in a bowl of ice cold water)",
             "2 oranges, peeled, segmented, juice reserved",
@@ -41,7 +30,22 @@
         "To serve": [
             "8 salted anchovies, cut in half lengthways",
             "4 tsp caper berries"
+        ],
+        "default": [
+            "400g/14oz new potatoes, cut into 2.5cm/1in slices, parboiled",
+            "2 tbsp olive oil",
+            "200g/7oz flour",
+            "salt and freshly ground black pepper",
+            "4 fillets John Dory",
+            "50g/1\u00beoz butter",
+            "\u00bd lemon, juice only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Place the parboiled potatoes into a bowl with the olive oil and season, to taste, with salt and freshly ground black pepper. Stir until well combined.",
@@ -52,8 +56,9 @@
         "To make the dressing, place the reserved juice from the oranges into a small bowl and add the oil, white wine vinegar and the remaining dill. Whisk until well combined. Drizzle the dressing over the fennel and orange salad and mix well.",
         "To serve, place one John Dory fillet onto each of four serving plates. Spoon the potatoes and orange and fennel salad alongside and garnish with the anchovy fillets and caper berries."
     ],
-    "howTos": [
-        "segmenting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "John Dory with orange, fennel and caper salad",
     "videos": "[]"
 }

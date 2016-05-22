@@ -1,26 +1,33 @@
 {
-    "title": "Chicken salad with Thai basil and coconut dressing",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "john_torode": "John Torode"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "",
+    "dishes": [
+        "bun",
+        "pie",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "1 tsp vegetable oil",
+            "1 tsp cold water",
+            "4 square pieces banana leaf, 15cm x 15cm/6in x 6in (available from some Asian grocers)",
+            "50g/2oz roasted salted peanuts, lightly crushed",
+            "1 coconut, shell removed, flesh thinly sliced (optional)"
+        ],
         "default": [
             "50g/2oz palm sugar",
             "50ml/2fl oz fish sauce",
@@ -35,14 +42,13 @@
             "1 large bunch coriander, leaves only",
             "1 small bunch mint, leaves only",
             "1 small bunch Thai basil, leaves only"
-        ],
-        "To serve": [
-            "1 tsp vegetable oil",
-            "1 tsp cold water",
-            "4 square pieces banana leaf, 15cm x 15cm/6in x 6in (available from some Asian grocers)",
-            "50g/2oz roasted salted peanuts, lightly crushed",
-            "1 coconut, shell removed, flesh thinly sliced (optional)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Bring the palm sugar, fish sauce and coconut milk to the boil in a pan.",
@@ -56,8 +62,9 @@
         "Add the herbs and mix well to combine.",
         "To serve, mix the teaspoon of vegetable oil with one teaspoon of water. Brush the squares of banana leaf with this mixture. Place one square of banana leaf into the centre of each of four serving plates. Divide the chicken salad equally among the squares of banana leaf. Drizzle over a little of the remaining coconut and lime dressing. Sprinkle over the peanuts and the coconut, if using."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken salad with Thai basil and coconut dressing",
     "videos": "[]"
 }

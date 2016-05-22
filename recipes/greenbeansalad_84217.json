@@ -1,24 +1,20 @@
 {
-    "title": "Green bean salad",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ross_burden": "Ross Burden"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "salad"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,13 +26,20 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "In a large bowl whisk together the egg yolk, shallot and vinegar. Gradually add the oil while whisking to create a thick emulsion, and then season, to taste, with salt and freshly ground black pepper.",
         "Add the beans to the dressing and mix together.",
         "To serve, pile the beans high on a plate."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Green bean salad",
     "videos": "[]"
 }

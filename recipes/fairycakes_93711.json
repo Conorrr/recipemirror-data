@@ -1,26 +1,33 @@
 {
-    "title": "Fairy cakes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "24",
-    "recommendations": "122",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fairycakes_93711_16x9.jpg"
-    ],
-    "description": "This easy peasy recipe is perfect for baking with children.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This easy peasy recipe is perfect for baking with children.",
+    "dishes": [
+        "cake",
+        "fairy_cakes",
+        "icing",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "creaming"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fairycakes_93711_16x9.jpg"
+    ],
     "ingredients": {
+        "For the icing": [
+            "300g/10\u00bdoz icing sugar",
+            "2-3 tbsp water",
+            "2-3 drops food colouring",
+            "hundreds and thousands, or other cake decorations"
+        ],
         "default": [
             "110g/4oz butter or margarine, softened at room temperature",
             "110g/4oz caster sugar",
@@ -28,13 +35,13 @@
             "1 tsp vanilla extract",
             "110g/4oz self-raising flour",
             "1-2 tbsp milk"
-        ],
-        "For the icing": [
-            "300g/10\u00bdoz icing sugar",
-            "2-3 tbsp water",
-            "2-3 drops food colouring",
-            "hundreds and thousands, or other cake decorations"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "122",
+    "serves": "24",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4 and line 2 x 12-hole fairy cake tins with paper cases.",
@@ -44,9 +51,9 @@
         "For the icing, sift the icing sugar into a large mixing bowl and stir in enough water to create a smooth mixture. Stir in the food colouring.",
         "To ice the fairy cakes, drizzle the icing over the cakes, sprinkle with decorations and set aside until the icing hardens."
     ],
-    "howTos": [
-        "folding",
-        "creaming"
+    "tips": [
+        
     ],
+    "title": "Fairy cakes",
     "videos": "[]"
 }

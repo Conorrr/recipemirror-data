@@ -1,24 +1,22 @@
 {
-    "title": "Asian-style tofu stir-fry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "9",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/asianstyletofustirfr_92503_16x9.jpg"
-    ],
-    "description": "Take care to squeeze out any excess water from the tofu to get the maximum flavour from the marinade.",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Take care to squeeze out any excess water from the tofu to get the maximum flavour from the marinade.",
+    "dishes": [
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/asianstyletofustirfr_92503_16x9.jpg"
     ],
     "ingredients": {
         "For the marinated tofu": [
@@ -39,14 +37,21 @@
             "150g/5\u00bdoz basmati rice, cooked according to packet instructions and drained"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "For the marinated tofu, combine all the marinade ingredients, except the vegetable oil, in a bowl and mix well. Add the tofu, coat in the mixture and allow to marinate for 5-10 minutes, or longer if possible.",
         "Heat a wok over a medium heat. Remove the tofu from the marinade, setting the marinade aside. Fry the tofu for 5-10 minutes until golden-brown all over. Strain the marinade to remove any small pieces of tofu.",
         "For the rice, heat the oil in a pan and fry the onions and garlic for 2-3 minutes until softened, then add the pepper and fry until the tofu for 2 minutes. Add the spinach, rice and reserved marinade and heat through for a further 3-4 minutes.",
         "Serve the rice with the marinated tofu on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Asian-style tofu stir-fry",
     "videos": "[]"
 }

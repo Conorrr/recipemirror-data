@@ -1,34 +1,29 @@
 {
-    "title": "Summer berry trifle",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "6-8",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "Capture all the wonderful fresh flavours of summer fruits in this wonderful trifle.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00pymg1": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        "Thickening the custard with a little cornflour will prevent the cream topping from sinking. We like the jelly, but if you're short of time, simply leave it out altogether."
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Capture all the wonderful fresh flavours of summer fruits in this wonderful trifle.",
+    "dishes": [
+        "custard",
+        "jam",
+        "jelly",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries",
+        "trifle"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "whipping_cream"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 x 135g/4\u00beoz packet raspberry or strawberry jelly",
-            "170g/6oz ready-made jam-filled Swiss roll",
-            "5 tbsp cream sherry",
-            "75g/2\u00bdoz blueberries",
-            "100g/3\u00bdoz raspberries",
-            "150g/5oz strawberries, hulled and halved"
-        ],
         "For the custard": [
             "300ml/10\u00bdfl oz milk",
             "300ml/10\u00bdfl oz double cream",
@@ -41,7 +36,21 @@
         "For the topping": [
             "10g/\u00bdoz flaked almonds",
             "300ml/10\u00bdfl oz double cream"
+        ],
+        "default": [
+            "1 x 135g/4\u00beoz packet raspberry or strawberry jelly",
+            "170g/6oz ready-made jam-filled Swiss roll",
+            "5 tbsp cream sherry",
+            "75g/2\u00bdoz blueberries",
+            "100g/3\u00bdoz raspberries",
+            "150g/5oz strawberries, hulled and halved"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "8",
+    "serves": "6-8",
+    "show": {
+        "b00pymg1": "The Hairy Bikers: Mums Know Best"
     },
     "steps": [
         "Prepare the jelly according to packet instructions, but do not place it into the fridge to set.",
@@ -59,8 +68,9 @@
         "Whip the cream in a bowl until soft peaks form when the whisk is removed. Spoon the whipped cream over the custard, starting at the sides of the bowl before working your way into the middle. Scatter over the almonds, cover and return to the fridge until ready to serve.",
         "To serve, spoon the trifle into serving bowls and eat immediately."
     ],
-    "howTos": [
-        "whipping_cream"
+    "tips": [
+        "Thickening the custard with a little cornflour will prevent the cream topping from sinking. We like the jelly, but if you're short of time, simply leave it out altogether."
     ],
+    "title": "Summer berry trifle",
     "videos": "[]"
 }

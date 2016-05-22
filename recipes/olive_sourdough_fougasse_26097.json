@@ -1,24 +1,23 @@
 {
-    "title": "Olive sourdough fougasse",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 2 loaves",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/olive_sourdough_fougasse_26097_16x9.jpg"
-    ],
-    "description": "Sourdough produces a unique flavour for this traditional French bread studded with black and green olives and oregano.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b01rhdgt": "Paul Hollywood's Bread"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "Sourdough produces a unique flavour for this traditional French bread studded with black and green olives and oregano.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading_bread_with_oil"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/olive_sourdough_fougasse_26097_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -33,6 +32,12 @@
             "1 tbsp dried oregano"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "5",
+    "serves": "Makes 2 loaves",
+    "show": {
+        "b01rhdgt": "Paul Hollywood's Bread"
+    },
     "steps": [
         "Combine the flour, starter and salt in a large mixing bowl. Add the water, a little at a time (you might not need all of it) and mix with your hands, until you have made a soft dough.",
         "Tip the dough onto a lightly oiled surface and it and knead the dough for 10-15 minutes, or until the dough is soft, elastic and smooth. The dough will form a soft, smooth skin when it's ready.",
@@ -42,8 +47,9 @@
         "When you are ready to bake, half fill a roasting tin with water and place on the bottom shelf of the oven, and preheat the oven to 220C/425F/Gas 7. This will make steam which helps form a good crust.",
         "Bake the loaves for 20 minutes until golden-brown and crisp. Leave to cool on a wire rack."
     ],
-    "howTos": [
-        "kneading_bread_with_oil"
+    "tips": [
+        
     ],
+    "title": "Olive sourdough fougasse",
     "videos": "[]"
 }

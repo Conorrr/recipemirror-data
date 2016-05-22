@@ -1,26 +1,30 @@
 {
-    "title": "Super spring salad",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This vegetarian salad is simply bursting with the fresh flavours of spring, the perfect meal for a sun soaked day.",
     "author": {
         "john_torode": "John Torode"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "This vegetarian salad is simply bursting with the fresh flavours of spring, the perfect meal for a sun soaked day.",
+    "dishes": [
+        "bun",
+        "salad",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "1 tbsp Dijon mustard",
+            "5 tbsp red wine vinegar",
+            "1 tsp walnut oil",
+            "300ml/10\u00bdoz extra virgin olive oil"
+        ],
         "For the spring salad": [
             "12 Jersey Royal potatoes",
             "10 green asparagus spears, sliced on an angle",
@@ -37,13 +41,13 @@
             "handful watercress",
             "punnet of pea shoots",
             "sea salt and freshly ground black pepper"
-        ],
-        "For the dressing": [
-            "1 tbsp Dijon mustard",
-            "5 tbsp red wine vinegar",
-            "1 tsp walnut oil",
-            "300ml/10\u00bdoz extra virgin olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Bring a large pot of water to the boil and blanch the potatoes, drain and carefully slice in half.",
@@ -54,8 +58,9 @@
         "Mix all of the vegetables with the shallots, mint, chervil, watercress and pea shoots and pour over the dressing.",
         "Divide between four plates and dig in."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Super spring salad",
     "videos": "[]"
 }

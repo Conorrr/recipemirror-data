@@ -1,24 +1,24 @@
 {
-    "title": "Crispy duck salad",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/crispy_duck_salad_03934_16x9.jpg"
-    ],
-    "description": "Enjoy fantastic contrasts in this zingy salad - salt, sweet and sour flavours combine with warm duck and chilled fruit.",
     "author": {
         "tom_kerridge": "Tom Kerridge"
     },
-    "show": {
-        "b04ksltb": "Tom Kerridge's Best Ever Dishes"
-    },
-    "tips": [
-        "Tip: To remove the seeds from the pomegranate, cut the fruit in half. Hold the seeded side against your palm over a large bowl, then bash the skin with a wooden spoon until the seeds fall out."
+    "cookTime": "over 2 hours",
+    "description": "Enjoy fantastic contrasts in this zingy salad - salt, sweet and sour flavours combine with warm duck and chilled fruit.",
+    "dishes": [
+        "bun",
+        "oven-baked_dishes",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/crispy_duck_salad_03934_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,6 +34,12 @@
             "\u00bd tsp ground Sichuan pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b04ksltb": "Tom Kerridge's Best Ever Dishes"
+    },
     "steps": [
         "Preheat the oven to 160C/350F/Gas 4.",
         "Place a wire rack on a roasting tin and place the duck legs on top, skin-side up. Roast the duck legs on the rack for 1\u00be-2 hours, or until the skin is crisp and the meat is cooked through (when the duck is cooked, the juices should run clear when a skewer is inserted into the thickest part of the leg). Set aside to cool for 10-15 minutes, reserving the duck fat on the baking tray.",
@@ -41,8 +47,9 @@
         "When the duck legs have cooled, flake the meat from the bone and add it to the watermelon and pomegranate mixture. Add the soy sauce, fish sauce, lime juice and a little of the reserved duck fat, to taste, if desired. Season with Sichuan pepper and gently toss.",
         "Serve the salad immediately, while the watermelon is cold and the duck meat still warm."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Tip: To remove the seeds from the pomegranate, cut the fruit in half. Hold the seeded side against your palm over a large bowl, then bash the skin with a wooden spoon until the seeds fall out."
     ],
+    "title": "Crispy duck salad",
     "videos": "[]"
 }

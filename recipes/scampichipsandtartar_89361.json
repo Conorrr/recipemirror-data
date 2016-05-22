@@ -1,37 +1,36 @@
 {
-    "title": "'Scampi', chips and tartare sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "chips",
+        "jam",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "folding",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the fat chips": [
-            "vegetable oil, for deep fat frying",
-            "3 large King Edwards, or similar waxy potatoes, peeled",
-            "salt"
-        ],
         "For the 'scampi'": [
             "2 free-range eggs, separated",
             "150g/5oz plain flour",
             "salt and freshly ground black pepper",
             "250ml/9fl oz British ale",
             "400g/14oz monkfish cheeks (or same weight of monkfish fillets)"
+        ],
+        "For the fat chips": [
+            "vegetable oil, for deep fat frying",
+            "3 large King Edwards, or similar waxy potatoes, peeled",
+            "salt"
         ],
         "For the tartare sauce": [
             "2 large free-range egg yolks",
@@ -44,6 +43,12 @@
             "4 gherkins, chopped",
             "1 tbsp flatleaf parsley"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the fat chips, heat the oil in a deep-fat fryer to 140C/285F. (CAUTION: hot oil can be dangerous. Do not leave unattended.)",
@@ -62,9 +67,9 @@
         "Spoon the mixture into a bowl, then add the remaining ingredients and mix well. Season to taste with salt and freshly ground black pepper.",
         "To serve, place equal amounts of the fried monkfish and chips onto each plate and serve with a dollop of tartare sauce alongside."
     ],
-    "howTos": [
-        "folding",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "'Scampi', chips and tartare sauce",
     "videos": "[]"
 }

@@ -1,24 +1,26 @@
 {
-    "title": "How to make a souffl\u00e9",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "21",
-    "images": [
-        
-    ],
-    "description": "Souffl\u00e9s can be fiddly to make, but if you follow this recipe carefully you\u2019ll get great results.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Souffl\u00e9s can be fiddly to make, but if you follow this recipe carefully you\u2019ll get great results.",
+    "dishes": [
+        "custard",
+        "icing",
+        "oven-baked_dishes",
+        "sauce",
+        "souffle"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "grating_lemon_zest",
+        "preparing_ramekins",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,6 +34,12 @@
             "110ml/4fl oz full-fat milk",
             "icing sugar, for dusting (optional)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "21",
+    "serves": "Serves 4",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Brush the insides of four ramekins with butter. Add a small amount of sugar to each and turn them to coat the sides and bottom, shaking out any excess. Set aside to chill in the fridge.",
@@ -52,10 +60,9 @@
         "Place the ramekins on the baking tray in the middle of the oven for about 14 minutes until risen and turning golden. Don\u2019t open the oven during cooking. Time and watch the souffl\u00e9s carefully \u2013 take them out as soon as they\u2019ve risen and are starting to go golden. If you\u2019re using smaller ramekins you\u2019ll need to reduce the cooking time by a few minutes (5 or 6 smaller souffl\u00e9s will need about 10 minutes).",
         "Dust with icing sugar and serve immediately."
     ],
-    "howTos": [
-        "grating_lemon_zest",
-        "preparing_ramekins",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "How to make a souffl\u00e9",
     "videos": "[p009ww8k:p009ww8m]"
 }

@@ -1,38 +1,28 @@
 {
-    "title": "Curry mutton",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4-6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "neneh_cherry_and_andi_oliver": "Neneh Cherry and Andi Oliver"
     },
-    "show": {
-        "b00728t5": "Neneh and Andi Dish It Up"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Caribbean",
+    "description": "",
+    "dishes": [
+        "curry",
+        "lamb_curry",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "3.4kg/7lb 5oz mutton on the bone, chopped"
-        ],
-        "For the first marinade": [
-            "2 sprigs lemon thyme, chopped",
-            "small handful coriander, chopped",
-            "2 pinches freshly ground black pepper",
-            "3 garlic cloves, crushed",
-            "1 onion, finely chopped",
-            "2 small chillies - 1 scotch bonnet, 1 green bird's-eye (or to taste), both chopped",
-            "400ml/14fl oz red wine"
-        ],
         "For the dry spice fry": [
             "olive oil, for frying",
             "3 cloves",
@@ -49,7 +39,25 @@
             "1 litre/1\u00be pints lamb or beef stock",
             "40g/1\u00bdoz good-quality dark cooking chocolate (70% cocoa solids)",
             "1\u00bd tbsp pomegranate molasses (optional)"
+        ],
+        "For the first marinade": [
+            "2 sprigs lemon thyme, chopped",
+            "small handful coriander, chopped",
+            "2 pinches freshly ground black pepper",
+            "3 garlic cloves, crushed",
+            "1 onion, finely chopped",
+            "2 small chillies - 1 scotch bonnet, 1 green bird's-eye (or to taste), both chopped",
+            "400ml/14fl oz red wine"
+        ],
+        "default": [
+            "3.4kg/7lb 5oz mutton on the bone, chopped"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "3",
+    "serves": "Serves 4-6",
+    "show": {
+        "b00728t5": "Neneh and Andi Dish It Up"
     },
     "steps": [
         "For the first marinade, combine all the ingredients for the marinade in a bowl. Add the chopped mutton. Cover with cling film and leave to sit in the fridge for about an hour or overnight if possible.",
@@ -60,8 +68,9 @@
         "Grate the chocolate on top and add the pomegranate molasses (if using).",
         "Cover the saucepan and leave it to cook on a very low heat for about 3-4 hours. The curry is cooked and ready to serve when the meat is soft and falls off the bone."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Curry mutton",
     "videos": "[]"
 }

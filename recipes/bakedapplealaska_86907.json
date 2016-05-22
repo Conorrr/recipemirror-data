@@ -1,24 +1,22 @@
 {
-    "title": "Baked apple Alaska",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "meringue",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "caramelising_sugar",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +29,12 @@
             "1 tbsp honey"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the red wine in a small saucepan and simmer until its volume is reduced by half.",
         "Add the sugar, vanilla pod and seeds and apple slices and simmer for 4-5 minutes, or until the apple softens but still holds it's shape. Spoon into a dessert bowl.",
@@ -39,9 +43,9 @@
         "Spoon the egg white mixture over the bowl to completely cover the apple mixture, then drizzle over the honey.",
         "Use a mini-blowtorch to brown the meringue all over. Serve immediately."
     ],
-    "howTos": [
-        "caramelising_sugar",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Baked apple Alaska",
     "videos": "[]"
 }

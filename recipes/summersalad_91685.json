@@ -1,26 +1,32 @@
 {
-    "title": "Summer salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/summersalad_91685_16x9.jpg"
-    ],
-    "description": "A crunchy salad topped with a zingy dressing makes for a lovely lunch.",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b00lpbxs": "What to Eat Now"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A crunchy salad topped with a zingy dressing makes for a lovely lunch.",
+    "dishes": [
+        "bun",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/summersalad_91685_16x9.jpg"
+    ],
     "ingredients": {
+        "For the vinaigrette": [
+            "2 tbsp white wine vinegar",
+            "2 tsp Dijon mustard",
+            "1 heaped tsp caster sugar",
+            "Pinch sea salt flakes",
+            "3\u00bd tbsp sunflower oil",
+            "3\u00bd tbsp olive oil",
+            "Salt and freshly ground black pepper"
+        ],
         "default": [
             "250g/9oz baby broad beans, pods removed",
             "300g/10\u00bdoz baby carrots, scrubbed, green bases left on",
@@ -31,16 +37,13 @@
             "Small bunch fresh chives",
             "Large handful fresh, young curly-leaved parsley leaves, chopped",
             "1 Little Gem lettuce, or similar crisp lettuce, core removed, leaves separated"
-        ],
-        "For the vinaigrette": [
-            "2 tbsp white wine vinegar",
-            "2 tsp Dijon mustard",
-            "1 heaped tsp caster sugar",
-            "Pinch sea salt flakes",
-            "3\u00bd tbsp sunflower oil",
-            "3\u00bd tbsp olive oil",
-            "Salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b00lpbxs": "What to Eat Now"
     },
     "steps": [
         "Cook the beans in a pan of salted, boiling water for 2-3 minutes, or until tender. Drain well, then refresh in cold water and peel away the outer membranes.",
@@ -49,8 +52,9 @@
         "For the vinaigrette, whisk together the white wine vinegar, mustard, sugar and salt in a bowl until smooth and well combined. Gradually whisk in the sunflower oil and olive oil until the mixture has thickened and is glossy. Season, to taste, with salt and freshly ground black pepper.",
         "To serve, drizzle the vinaigrette over the summer salad and mix well to coat the leaves. Divide equally among four serving plates."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Summer salad",
     "videos": "[]"
 }

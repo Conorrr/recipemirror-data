@@ -1,31 +1,30 @@
 {
-    "title": "Bolognese with tagliatelle",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "James' bolognese is a cinch to make - just let it bubble away for a rich sauce that's sure to please. If you're short of time, fresh tagliatelle is available in most large supermarkets. For this recipe you will need a pasta machine with a tagliatelle cutter.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "James' bolognese is a cinch to make - just let it bubble away for a rich sauce that's sure to please. If you're short of time, fresh tagliatelle is available in most large supermarkets. For this recipe you will need a pasta machine with a tagliatelle cutter.",
+    "dishes": [
+        "jam",
+        "pasta",
+        "sauce",
+        "spaghetti_bolognese",
+        "stir-fries",
+        "tagliatelle"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "browning_meat",
+        "rolling_pasta_dough",
+        "pulsing"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pasta": [
-            "250g/9oz 00 flour",
-            "3-4 medium free-range eggs (preferably with bright yellow yolks)",
-            "250g/9oz fine semolina flour"
-        ],
         "For the bolognese": [
             "4 tbsp olive oil",
             "150g/5\u00bdoz pancetta, diced",
@@ -36,9 +35,20 @@
             "2 tbsp fresh basil, torn (optional)",
             "sea salt and freshly ground black pepper"
         ],
+        "For the pasta": [
+            "250g/9oz 00 flour",
+            "3-4 medium free-range eggs (preferably with bright yellow yolks)",
+            "250g/9oz fine semolina flour"
+        ],
         "To serve": [
             "100g/3\u00bdoz Parmesan cheese, grated"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the pasta, place the flour and eggs into a food processor and pulse until well combined and the mixture comes together as a dough. Place the dough in a bowl, cover with cling film and place in the fridge to rest for 30 minutes.",
@@ -49,10 +59,9 @@
         "For the pasta, cook the pasta in a large pan of salted boiling water until al dente (about 3-4 minutes). Drain, reserving a little pasta water, and add the bolognese. Mix together with a little pasta water.",
         "To serve, place some of the pasta and bolognese in serving bowls. Garnish with freshly grated Parmesan cheese."
     ],
-    "howTos": [
-        "browning_meat",
-        "rolling_pasta_dough",
-        "pulsing"
+    "tips": [
+        
     ],
+    "title": "Bolognese with tagliatelle",
     "videos": "[]"
 }

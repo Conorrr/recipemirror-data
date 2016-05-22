@@ -1,32 +1,43 @@
 {
-    "title": "Beef Wellington with purple broccoli and jus",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "15",
-    "images": [
-        
-    ],
-    "description": "The trick to a beautiful beef Wellington is to let the seared beef cool completely before wrapping it in pancakes and pastry.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "The trick to a beautiful beef Wellington is to let the seared beef cool completely before wrapping it in pancakes and pastry.",
+    "dishes": [
+        "beef_wellington",
+        "jam",
+        "oven-baked_dishes",
+        "pancake",
+        "pastry",
+        "pate",
+        "pie",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the puff pastry": [
-            "250g/9oz plain flour",
-            "250g/9oz very cold butter, cut into small cubes",
-            "\u00bd tsp salt",
-            "125ml/4\u00bdfloz ice-cold water",
-            "2 free-range egg yolks, beaten, for egg wash"
+        "For the beef Wellington": [
+            "500g/1lb 2oz beef fillet, middle section",
+            "freshly ground black pepper",
+            "200g/7oz chicken liver p\u00e2t\u00e9"
+        ],
+        "For the duxelle and spinach": [
+            "25g/1oz butter",
+            "4 Portobello mushrooms, finely chopped",
+            "250g/9oz large leaf spinach, blanched"
+        ],
+        "For the jus": [
+            "500ml/18fl oz beef stock",
+            "150ml/5fl oz red wine"
         ],
         "For the pancakes": [
             "2 free-range eggs",
@@ -34,24 +45,23 @@
             "100ml/3\u00bdfl oz milk",
             "knob of butter"
         ],
-        "For the duxelle and spinach": [
-            "25g/1oz butter",
-            "4 Portobello mushrooms, finely chopped",
-            "250g/9oz large leaf spinach, blanched"
-        ],
-        "For the beef Wellington": [
-            "500g/1lb 2oz beef fillet, middle section",
-            "freshly ground black pepper",
-            "200g/7oz chicken liver p\u00e2t\u00e9"
+        "For the puff pastry": [
+            "250g/9oz plain flour",
+            "250g/9oz very cold butter, cut into small cubes",
+            "\u00bd tsp salt",
+            "125ml/4\u00bdfloz ice-cold water",
+            "2 free-range egg yolks, beaten, for egg wash"
         ],
         "For the purple sprouting broccoli": [
             "400g/14oz purple sprouting broccoli",
             "2 tbsp olive oil"
-        ],
-        "For the jus": [
-            "500ml/18fl oz beef stock",
-            "150ml/5fl oz red wine"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "15",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the pastry, place the flour in a mound on a clean work surface and make a well in the centre.",
@@ -78,8 +88,9 @@
         "Place the stock in a pan and boil to reduce in volume by half. Add the red wine and reduce again to half the volume.",
         "To serve, cut the Wellington into portions and place on a plate serve with the broccoli and jus."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef Wellington with purple broccoli and jus",
     "videos": "[]"
 }

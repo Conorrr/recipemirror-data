@@ -1,24 +1,22 @@
 {
-    "title": "Couscous salad",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "21",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/couscoussalad_1921_16x9.jpg"
-    ],
-    "description": "A hearty couscous salad that is so simple to make. For a slightly different flavour, use the zest and juice of one lime. Serve with plain grilled chicken or fish for an easy summer meal. Each serving provides 280kcal, 8g protein, 31g carbohydrate (of which 2g sugars), 13g fat (of which 2g saturates), 3g fibre and 0g salt.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "A hearty couscous salad that is so simple to make. For a slightly different flavour, use the zest and juice of one lime. Serve with plain grilled chicken or fish for an easy summer meal. Each serving provides 280kcal, 8g protein, 31g carbohydrate (of which 2g sugars), 13g fat (of which 2g saturates), 3g fibre and 0g salt.",
+    "dishes": [
+        "bun",
+        "couscous_salad",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "how_to_make_couscous"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/couscoussalad_1921_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,13 +32,20 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "21",
+    "serves": "Serves 4-6",
+    "show": {
+        
+    },
     "steps": [
         "Cover the couscous with twice its volume of hot water and leave to soak for 10 minutes.",
         "Mix together with the remaining ingredients and leave to stand for 30 minutes to let the flavours develop.",
         "Serve at room temperature."
     ],
-    "howTos": [
-        "how_to_make_couscous"
+    "tips": [
+        
     ],
+    "title": "Couscous salad",
     "videos": "[]"
 }

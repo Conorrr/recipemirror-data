@@ -1,23 +1,22 @@
 {
-    "title": "Popcorn pork tiger prawns",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Juicy tiger prawns seared with a novel popcorn and pork dust coating.",
     "author": {
         "steve_love": "Steve Love"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Juicy tiger prawns seared with a novel popcorn and pork dust coating.",
+    "dishes": [
+        "mayonnaise",
+        "salad",
+        "sauce",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -25,6 +24,13 @@
             "5 garlic cloves, peeled",
             "iced water",
             "2 tbsp mayonnaise"
+        ],
+        "For the popcorn tiger prawns": [
+            "20g/1oz smoked bacon fat, reserved from above",
+            "50g/2oz popcorn kernels",
+            "70g/2\u00bdoz pork scratchings",
+            "salt, to taste",
+            "24 tiger prawns"
         ],
         "For the smoked bacon relish": [
             "25g/1oz smoked streaky bacon, finely diced",
@@ -35,16 +41,15 @@
             "1 sprig thyme",
             "10g/\u00bcoz flat leaf parsley"
         ],
-        "For the popcorn tiger prawns": [
-            "20g/1oz smoked bacon fat, reserved from above",
-            "50g/2oz popcorn kernels",
-            "70g/2\u00bdoz pork scratchings",
-            "salt, to taste",
-            "24 tiger prawns"
-        ],
         "To serve": [
             "salad leaves of your choice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the garlic mayonnaise, remove the root from each of the garlic cloves.",
@@ -64,8 +69,9 @@
         "Place the cooked prawns on kitchen paper to drain off any excess fat and then roll the cooked prawns in the popcorn powder coating.",
         "Serve on bed of dressed salad leaves and pot of garlic mayonnaise and smoked bacon relish."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Popcorn pork tiger prawns",
     "videos": "[]"
 }

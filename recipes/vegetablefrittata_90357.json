@@ -1,35 +1,23 @@
 {
-    "title": "Vegetable frittata",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "maria_elia": "Maria Elia"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "frittata",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the frittata": [
-            "2 tbsp olive oil",
-            "\u00bc onion, finely chopped",
-            "\u00bd red pepper from a jar, cut into strips",
-            "55g/2oz black olives, chopped",
-            "55g/2oz smoked salmon, chopped",
-            "4 free-range eggs, beaten",
-            "salt and freshly ground black pepper"
-        ],
         "For the dressing": [
             "2 red peppers from a jar",
             "1 tbsp black olives",
@@ -39,10 +27,25 @@
             "\u00bd lemon, juice only",
             "2 tbsp chopped fresh parsley"
         ],
+        "For the frittata": [
+            "2 tbsp olive oil",
+            "\u00bc onion, finely chopped",
+            "\u00bd red pepper from a jar, cut into strips",
+            "55g/2oz black olives, chopped",
+            "55g/2oz smoked salmon, chopped",
+            "4 free-range eggs, beaten",
+            "salt and freshly ground black pepper"
+        ],
         "To serve": [
             "2 tbsp Greek-style yoghurt",
             "2 tbsp capers, drained, then fried until crisp"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the grill to medium.",
@@ -51,8 +54,9 @@
         "For the dressing, place all of the ingredients into a food processor and blend until smooth.",
         "Turn the frittata out onto a serving plate and cut into wedges. Drizzle with some of the dressing, spoon over the yoghurt and scatter the capers over the top to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Vegetable frittata",
     "videos": "[]"
 }

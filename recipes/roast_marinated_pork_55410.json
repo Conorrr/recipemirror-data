@@ -1,34 +1,36 @@
 {
-    "title": "Roast marinated pork loin, rosemary potatoes and garlic scented mushrooms",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Try something different for Sunday lunch with this luxurious slow-roasted pork recipe.",
     "author": {
         "richard_phillips": "Richard Phillips"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Try something different for Sunday lunch with this luxurious slow-roasted pork recipe.",
+    "dishes": [
+        "bun",
+        "oven-baked_dishes",
+        "pie",
+        "roast_pork",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "50g/1\u00beoz fine salt",
-            "50g/1\u00beoz sea salt",
-            "4 garlic cloves",
-            "2 tbsp flatleaf parsley",
-            "2 tbsp fresh coriander",
-            "2 tbsp fresh sage",
-            "4-bone pork loin, in one piece"
+        "For the greens": [
+            "100g/3\u00bdoz baby spinach, stalks removed",
+            "2 heads chicory, leaves removed and cut into four",
+            "1 bunch rocket"
+        ],
+        "For the mushrooms": [
+            "1 garlic clove, finely chopped",
+            "knob of butter"
         ],
         "For the potatoes": [
             "2 tbsp olive oil",
@@ -44,15 +46,21 @@
             "400ml/14fl oz double cream",
             "1 tbsp olive oil"
         ],
-        "For the greens": [
-            "100g/3\u00bdoz baby spinach, stalks removed",
-            "2 heads chicory, leaves removed and cut into four",
-            "1 bunch rocket"
-        ],
-        "For the mushrooms": [
-            "1 garlic clove, finely chopped",
-            "knob of butter"
+        "default": [
+            "50g/1\u00beoz fine salt",
+            "50g/1\u00beoz sea salt",
+            "4 garlic cloves",
+            "2 tbsp flatleaf parsley",
+            "2 tbsp fresh coriander",
+            "2 tbsp fresh sage",
+            "4-bone pork loin, in one piece"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "Place the salts, garlic and herbs in a food processor and blend. Spread over the skin of the pork loin and chill in the fridge for two hours.",
@@ -66,8 +74,9 @@
         "To finish the mushrooms, heat a non-stick frying pan and once hot add the chopped garlic and a knob of butter. Season with salt and pepper and cook for 3-4 minutes. Add the reserved chestnut mushrooms and stir to coat in the garlic butter.",
         "To serve, place some chicory and spinach in the centre of each plate. Place the pork on top with the mushrooms and rocket. Pour the sauce over the meat and serve the potatoes on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roast marinated pork loin, rosemary potatoes and garlic scented mushrooms",
     "videos": "[]"
 }

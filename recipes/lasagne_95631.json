@@ -1,26 +1,43 @@
 {
-    "title": "Make and freeze lasagne",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 20 portions",
-    "recommendations": "13",
-    "images": [
-        
-    ],
-    "description": "Make up 20 portions of lasagne to freeze and have a ready-made meal whenever you need it. This is one serious lasagne \u2013 made with pork rib rag\u00f9, homemade pasta sheets and drizzled with basil oil. Equipment and preparation: you will need 20 x small, foil, takeaway style tray containers with lids (12x9.5x3.5cm/4\u00bdx3\u00bex1\u00bcin) and a pasta machine.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
-    },
-    "tips": [
-        "If you do not have a large enough pot, the rag\u00f9 recipe is happy in a few smaller ones."
+    "cookTime": "over 2 hours",
+    "cusine": "Italian",
+    "description": "Make up 20 portions of lasagne to freeze and have a ready-made meal whenever you need it. This is one serious lasagne \u2013 made with pork rib rag\u00f9, homemade pasta sheets and drizzled with basil oil. Equipment and preparation: you will need 20 x small, foil, takeaway style tray containers with lids (12x9.5x3.5cm/4\u00bdx3\u00bex1\u00bcin) and a pasta machine.",
+    "dishes": [
+        "bread",
+        "lasagne",
+        "oven-baked_dishes",
+        "pasta",
+        "pie",
+        "prepare-ahead_desserts",
+        "ragu",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "browning_meat",
+        "de-glazing_pans",
+        "making_pasta_dough",
+        "rolling_pasta_dough"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the basil oil": [
+            "50g/1\u00beoz basil leaves",
+            "400ml/14fl oz olive oil"
+        ],
+        "For the cheese sauce": [
+            "1 litre/1\u00be pints double cream",
+            "300g/10\u00bdoz cheddar, grated",
+            "2 tbsp English mustard"
+        ],
         "For the pasta": [
             "1kg/2lb 4oz \u201800\u2019 pasta flour, plus extra flour for dusting",
             "10 free-range eggs"
@@ -37,18 +54,15 @@
             "handful fresh oregano",
             "few bay leaves"
         ],
-        "For the cheese sauce": [
-            "1 litre/1\u00be pints double cream",
-            "300g/10\u00bdoz cheddar, grated",
-            "2 tbsp English mustard"
-        ],
-        "For the basil oil": [
-            "50g/1\u00beoz basil leaves",
-            "400ml/14fl oz olive oil"
-        ],
         "To finish": [
             "300g/10\u00bdoz breadcrumbs"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "13",
+    "serves": "Makes 20 portions",
+    "show": {
+        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
     },
     "steps": [
         "For the pasta, put the flour into a large mixing bowl, make a well in the middle and crack the eggs into it. Bring together with a wooden spoon until it combines into one mass.",
@@ -76,11 +90,9 @@
         "To prepare the lasagne for freezing, allow to cool, cover each portion with the lid and then freeze. They will keep for up to one month.",
         "To cook from frozen, preheat the oven to 180C/350F/Gas 4, but cook for one hour."
     ],
-    "howTos": [
-        "browning_meat",
-        "de-glazing_pans",
-        "making_pasta_dough",
-        "rolling_pasta_dough"
+    "tips": [
+        "If you do not have a large enough pot, the rag\u00f9 recipe is happy in a few smaller ones."
     ],
+    "title": "Make and freeze lasagne",
     "videos": "[]"
 }

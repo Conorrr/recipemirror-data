@@ -1,23 +1,21 @@
 {
-    "title": "Hot curry paste",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This curry paste is very versatile - you can use it as a dip by mixing it with yoghurt, or as an accompaniment to barbecued fish or vegetables.",
     "author": {
         "daniel_green": "Daniel Green"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "This curry paste is very versatile - you can use it as a dip by mixing it with yoghurt, or as an accompaniment to barbecued fish or vegetables.",
+    "dishes": [
+        "curry",
+        "curry_paste",
+        "pie"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -33,12 +31,19 @@
             "freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "",
+    "show": {
+        
+    },
     "steps": [
         "Mix all the ingredients together, either in a food processor or in a large pestle and mortar, until they form a very smooth paste.",
         "The paste needs to be smooth so it does not interfere with the textures and flavours of other ingredients."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Hot curry paste",
     "videos": "[]"
 }

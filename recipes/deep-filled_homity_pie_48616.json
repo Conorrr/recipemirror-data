@@ -1,32 +1,28 @@
 {
-    "title": "Deep-filled homity pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "69",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/deep-filled_homity_pie_48616_16x9.jpg"
-    ],
-    "description": "Rich wholemeal pastry packed with a potato, onion and cheese filling. We\u2019ve added spinach and a hint of nutmeg for a Biker twist.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        "This recipe is great for using up leftover boiled potatoes or even mash."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Rich wholemeal pastry packed with a potato, onion and cheese filling. We\u2019ve added spinach and a hint of nutmeg for a Biker twist.",
+    "dishes": [
+        "bread",
+        "cake",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/deep-filled_homity_pie_48616_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pastry": [
-            "125g/4oz plain flour, plus extra for rolling",
-            "125g/4oz wholemeal flour",
-            "150g/5oz butter",
-            "1 free-range egg, beaten"
-        ],
         "For the filling": [
             "850g/1lb 14oz floury potatoes, such as Maris Piper or King Edward, peeled and cut into quarters",
             "25g/1oz butter",
@@ -39,7 +35,19 @@
             "250ml/9fl oz double cream",
             "pinch freshly grated nutmeg",
             "flaked sea salt and freshly ground black pepper"
+        ],
+        "For the pastry": [
+            "125g/4oz plain flour, plus extra for rolling",
+            "125g/4oz wholemeal flour",
+            "150g/5oz butter",
+            "1 free-range egg, beaten"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "69",
+    "serves": "Serves 6-8",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "Put the flour and butter in a food processor and blend until the mixture resembles fine breadcrumbs. Add the egg and pulse until the mixture just comes together as a dough. Bring the dough together and flatten into a round.",
@@ -51,8 +59,9 @@
         "Spoon the filling mixture into the pastry case. Pour over the cream and allow it to drizzle down between the layers. Sprinkle the remaining cheese on top. Place the tin on a baking tray and bake in the oven for 40-45 minutes, or until the pastry is crisp and pale golden-brown.",
         "Leave the pie to cool in the tin for 10 minutes. Remove the pie from the tin and place it on a serving plate. Cut into thick wedges with a sharp knife."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This recipe is great for using up leftover boiled potatoes or even mash."
     ],
+    "title": "Deep-filled homity pie",
     "videos": "[]"
 }

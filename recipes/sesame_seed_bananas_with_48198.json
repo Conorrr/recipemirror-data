@@ -1,24 +1,26 @@
 {
-    "title": "Sesame seed bananas with vanilla souffl\u00e9",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "Banoffee with a crunch! Crisp banana fritters are coated in caramel and served with a creamy souffl\u00e9 and vanilla ice cream.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Banoffee with a crunch! Crisp banana fritters are coated in caramel and served with a creamy souffl\u00e9 and vanilla ice cream.",
+    "dishes": [
+        "caramel",
+        "custard",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "souffle",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the banana fritters": [
@@ -29,6 +31,11 @@
             "1 tsp sesame oil",
             "4 bananas, cut into chunks"
         ],
+        "For the caramel": [
+            "250g/9oz caster sugar",
+            "3 tbsp sesame seeds",
+            "iced water"
+        ],
         "For the souffl\u00e9": [
             "25g/1oz butter, softened, for greasing",
             "4 tbsp caster sugar",
@@ -36,15 +43,16 @@
             "175ml/6fl oz fresh ready-made vanilla custard",
             "icing sugar, for dusting"
         ],
-        "For the caramel": [
-            "250g/9oz caster sugar",
-            "3 tbsp sesame seeds",
-            "iced water"
-        ],
         "To serve": [
             "vanilla ice cream",
             "110ml/4floz fresh ready-made vanilla custard"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -58,8 +66,9 @@
         "Remove from the heat and carefully add one banana fritter at a time to the hot caramel (CAUTION: The caramel will be very hot, take care not to burn yourself). Turn it over with a fork to completely coat the fritter in caramel, then remove immediately and plunge into a bowl of iced water. Remove and drain on a wire rack while cooking the remaining fritters.",
         "Serve the fritters immediately with a scoop of vanilla ice cream, the souffl\u00e9 and a spoonful of custard."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sesame seed bananas with vanilla souffl\u00e9",
     "videos": "[]"
 }

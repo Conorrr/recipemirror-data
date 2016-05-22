@@ -1,26 +1,29 @@
 {
-    "title": "Penne with radicchio and pancetta",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ed_baines": "Ed Baines"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "pasta",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "handful fresh parsley, chopped",
+            "shavings of parmesan"
+        ],
         "default": [
             "1 packet of penne",
             "4 shallots, chopped",
@@ -34,11 +37,13 @@
             "small tub double cream",
             "zest and juice of 1 lemon",
             "1 tbsp mascarpone"
-        ],
-        "To serve": [
-            "handful fresh parsley, chopped",
-            "shavings of parmesan"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "p0077hsg": "Housecall"
     },
     "steps": [
         "Cook the penne in a large pan of salted water, drain and return to the pan.",
@@ -46,8 +51,9 @@
         "Add the wine, stock and reduce, add the cream and cook for a few minutes more. Add the mascarpone, lemon juice and zest and mix well.",
         "Add the radicchio mixture to the cooked pasta and stir well. Tip into a bowl, scatter with parsley and shavings of parmesan and serve immediately."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Penne with radicchio and pancetta",
     "videos": "[]"
 }

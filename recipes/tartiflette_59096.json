@@ -1,24 +1,25 @@
 {
-    "title": "Tartiflette",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "38",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/tartiflette_59096_16x9.jpg"
-    ],
-    "description": "Try serving this French-style cheesy potato bake with pickled onions, gherkins and charcuterie.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00sy9ws": "The Hairy Bikers' Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "Try serving this French-style cheesy potato bake with pickled onions, gherkins and charcuterie.",
+    "dishes": [
+        "charlotte",
+        "gratin",
+        "oven-baked_dishes",
+        "pickle",
+        "sauce"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "de-glazing_pans"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/tartiflette_59096_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,6 +33,12 @@
             "1 whole Reblochon cheese (about 450g/1lb), sliced"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "38",
+    "serves": "Serves 4",
+    "show": {
+        "b00sy9ws": "The Hairy Bikers' Cook Off"
+    },
     "steps": [
         "For the tartiflette, preheat oven to 200C/400F/Gas 7.",
         "Cook the potatoes in a saucepan of salted boiling water for 5-10 minutes, or until tender.",
@@ -40,8 +47,9 @@
         "Slice the potatoes thinly and layer into an ovenproof gratin dish with the bacon mixture. Pour over the double cream. Season with salt and lots of freshly ground black pepper. Layer the Reblochon slices on top.",
         "Bake in the oven for 10-15 minutes or until the cheese is golden-brown and bubbling."
     ],
-    "howTos": [
-        "de-glazing_pans"
+    "tips": [
+        
     ],
+    "title": "Tartiflette",
     "videos": "[]"
 }

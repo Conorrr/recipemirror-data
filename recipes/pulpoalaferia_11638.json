@@ -1,23 +1,22 @@
 {
-    "title": "Pulpo \u00e0 la feria",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Rick Stein's authentic recipe for a traditional octopus dish from Galicia in Spain.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Spanish",
+    "description": "Rick Stein's authentic recipe for a traditional octopus dish from Galicia in Spain.",
+    "dishes": [
+        "bread",
+        "pie",
+        "seafood"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -31,6 +30,12 @@
             "\u00bd-1 tsp sea salt flakes"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "You will need to start the preparation for this dish well in advance. Seal the octopus in a plastic bag and leave it in the freezer for two weeks (this helps to tenderize it). Then transfer it to the fridge the day before you want to cook it to allow it to thaw gently for 24 hours.",
         "The next day, clean the octopus by turning the body inside out and pulling away the entrails and bone-like strips sticking to the sides. Locate the stomach sac, which is about the size of an avocado stone, and cut it away.",
@@ -40,8 +45,9 @@
         "Cut the body into similar-sized pieces, place them on 4 small pine boards or on one large warmed serving plate and sprinkle with the paprika and the cayenne.",
         "Heat the olive oil in a small pan until it is sizzling. Drizzle it over the octopus and then finally sprinkle with the sea salt. Serve with plenty of crusty fresh bread."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Pulpo \u00e0 la feria",
     "videos": "[]"
 }

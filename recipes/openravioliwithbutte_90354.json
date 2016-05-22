@@ -1,32 +1,26 @@
 {
-    "title": "Open ravioli with butternut squash, cherry tomatoes and herb paste",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "pasta",
+        "pesto",
+        "ravioli",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading",
+        "rolling_pasta_dough"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pasta": [
-            "200g/7oz plain flour, plus extra for dusting",
-            "pinch salt",
-            "2 free-range eggs",
-            "1 tsp olive oil"
-        ],
         "For the filling": [
             "2 tbsp olive oil",
             "\u00bc butternut squash, peeled and chopped",
@@ -43,7 +37,19 @@
             "1 garlic clove, crushed",
             "at least 4 tbsp olive oil",
             "salt and freshly ground black pepper"
+        ],
+        "For the pasta": [
+            "200g/7oz plain flour, plus extra for dusting",
+            "pinch salt",
+            "2 free-range eggs",
+            "1 tsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the pasta, place all of the pasta ingredients together into a food processor and pulse until the mixture comes together to form a dough. Tip out onto a floured surface and knead into a ball, then wrap in cling film and allow to rest in the fridge for 5-10 minutes.",
@@ -52,9 +58,9 @@
         "For the herb paste, pulse all of the pesto ingredients together in a food processor until smooth, adding more oil if necessary.",
         "Place the pasta squares onto a serving plate and spoon the squash filling into the middle of each square. Spoon the pesto around the edges of the plate and serve."
     ],
-    "howTos": [
-        "kneading",
-        "rolling_pasta_dough"
+    "tips": [
+        
     ],
+    "title": "Open ravioli with butternut squash, cherry tomatoes and herb paste",
     "videos": "[]"
 }

@@ -1,26 +1,30 @@
 {
-    "title": "Eastern chicken stir-fry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Chinese",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "1 tbsp soy sauce",
+            "\u00bdtsp cornflour",
+            "1 tbsp hoi sin sauce",
+            "25g/1oz salted cashew nuts"
+        ],
         "default": [
             "1 tbsp olive oil",
             "1 large chicken breast, boneless and skinless, cut into pencil thin strips and seasoned",
@@ -31,21 +35,22 @@
             "110g/4oz button chestnut mushrooms, left whole",
             "100g/4oz pak choi, thickly sliced keeping the white and green parts separate",
             "salt and freshly ground black pepper"
-        ],
-        "For the sauce": [
-            "1 tbsp soy sauce",
-            "\u00bdtsp cornflour",
-            "1 tbsp hoi sin sauce",
-            "25g/1oz salted cashew nuts"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Heat the oil in a wok or deep frying pan over a high heat and add the chicken. Pour over 1 tsp of the honey and brown the chicken quickly. Remove from the pan with a slotted spoon, and set aside.",
         "Add the spring onion to the frying pan and add a little more oil if needed. Pour over the remaining teaspoon of honey and allow to cook for couple of minutes. Add red peppers, mangetout, mushrooms and the white parts of pak choi and toss over high heat.",
         "Slate together the cornflour, soy sauce, and hoi sin sauce in and mix well. Return the chicken to the pan, add the green parts of pak choi, soy mixture and cashew nuts and cook until sauce is bubbling and thick. Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Eastern chicken stir-fry",
     "videos": "[]"
 }

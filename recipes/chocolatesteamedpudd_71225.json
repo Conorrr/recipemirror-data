@@ -1,24 +1,22 @@
 {
-    "title": "Chocolate steamed pudding",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "custard",
+        "steamed_pudding"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "melting_chocolate"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,6 +32,12 @@
             "margarine, for greasing"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Melt the chocolate in a bowl set over a pan of simmering water.",
         "Combine the remaining ingredients, except for the hazelnuts, in a food processor or mixer and blend for one minute at low speed.",
@@ -46,8 +50,9 @@
         "Remove the pudding from the pan and allow to cool for ten minutes. Run a knife around the edge to loosen and invert on to a serving dish.",
         "Serve with vanilla custard."
     ],
-    "howTos": [
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "Chocolate steamed pudding",
     "videos": "[]"
 }

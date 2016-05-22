@@ -1,26 +1,32 @@
 {
-    "title": "Leek and potato soup with crisp ox tongue and poached egg",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "If you can't get ox tongue, substitute with pieces of crisp-fried bacon.",
     "author": {
         "tom_kitchin": "Tom Kitchin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "If you can't get ox tongue, substitute with pieces of crisp-fried bacon.",
+    "dishes": [
+        "bun",
+        "pie",
+        "sauce",
+        "soup",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the leek and potato soup": [
+            "150g/5\u00bcoz unsalted butter",
+            "2 onions, peeled, finely sliced",
+            "4 leeks, finely sliced",
+            "3 medium potatoes, peeled, finely sliced"
+        ],
         "For the ox tongue </strong": [
             "1 onion, peeled, diced",
             "1 carrot, peeled, diced",
@@ -32,18 +38,18 @@
             "2kg/4lb 6\u00bdoz ox tongue",
             "1 tsp vegetable oil"
         ],
-        "For the leek and potato soup": [
-            "150g/5\u00bcoz unsalted butter",
-            "2 onions, peeled, finely sliced",
-            "4 leeks, finely sliced",
-            "3 medium potatoes, peeled, finely sliced"
-        ],
         "To serve": [
             "4 free-range eggs, poached",
             "100g/3\u00bdoz leeks, white part only, finely sliced",
             "knob of butter",
             "100g/3\u00bdoz potato, peeled, cut into 2cm/1in cubes, boiled until tender, drained"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the ox tongue, place the vegetables, parsley stalks, garlic and bouquet garni into a large saucepan. Cover with water and bring to the boil.",
@@ -56,8 +62,9 @@
         "To serve, heat the butter in a frying pan and fry the leeks for 4-5 minutes, or until softened. Season, to taste with salt and freshly ground black pepper.",
         "Spoon some fried leeks and cooked potato into each of 4 serving bowls and top with a poached egg. Ladle the soup around the egg and top with the crisp ox tongue."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Leek and potato soup with crisp ox tongue and poached egg",
     "videos": "[]"
 }

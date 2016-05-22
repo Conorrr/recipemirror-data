@@ -1,26 +1,29 @@
 {
-    "title": "Masour pulao (Layered minced lamb with rice)",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "reza_mahammad": "Reza Mahammad"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "bun",
+        "prepare-ahead_desserts",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_brown_mince"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the garnish": [
+            "3 boiled eggs, shelled and halved"
+        ],
         "default": [
             "1 tsp saffron strands",
             "600g/1 lb 5oz basmati rice (uncooked weight)",
@@ -40,10 +43,13 @@
             "1 tbsp plain yoghurt",
             "handful of fresh coriander leaves, chopped",
             "small bunch mint leaves, chopped"
-        ],
-        "For the garnish": [
-            "3 boiled eggs, shelled and halved"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Make the saffron water by soaking the saffron strands in 200ml/7fl oz of hot water. Leave to stand until needed.",
@@ -61,8 +67,9 @@
         "Cover the pan with a clean, dry cloth and steam over a low heat for 10 - 15 minutes.",
         "Transfer to a large platter and garnish with the boiled egg halves. Serve."
     ],
-    "howTos": [
-        "how_to_brown_mince"
+    "tips": [
+        
     ],
+    "title": "Masour pulao (Layered minced lamb with rice)",
     "videos": "[]"
 }

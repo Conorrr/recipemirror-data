@@ -1,30 +1,26 @@
 {
-    "title": "Lobster thermidor",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006mk00": "Castle in the Country"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "jam",
+        "pie",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "picking_lobster"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1x750g/1\u00bdlb lobster, cooked",
-            "20g/\u00beoz fresh parmesan, grated"
-        ],
         "For the sauce": [
             "30g/1oz butter",
             "1 shallot, finely chopped",
@@ -36,15 +32,26 @@
             "\u00bd lemon, juice only",
             "salt",
             "freshly ground black pepper"
+        ],
+        "default": [
+            "1x750g/1\u00bdlb lobster, cooked",
+            "20g/\u00beoz fresh parmesan, grated"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 2",
+    "show": {
+        "b006mk00": "Castle in the Country"
     },
     "steps": [
         "Cut the lobster in half and remove the meat from the claws and tail. Leave to one side. Remove any meat from the head and set aside. Cut the meat up into pieces and place back into the shell.",
         "For the sauce, put the butter in a pan, add the shallots and cook until softened. Add the stock, wine and double cream and bring to the boil. Reduce by half. Add the mustard, herbs, lemon juice and seasoning.",
         "Pre-heat the grill and spoon the sauce over the lobster meat. Sprinkle with the grated parmesan cheese. Place the lobster halves under a pre-heated grill for 3-4 minutes until golden brown."
     ],
-    "howTos": [
-        "picking_lobster"
+    "tips": [
+        
     ],
+    "title": "Lobster thermidor",
     "videos": "[]"
 }

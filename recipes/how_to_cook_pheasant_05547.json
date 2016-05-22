@@ -1,33 +1,27 @@
 {
-    "title": "How to cook pheasant",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "This pheasant with a flavourful mustard sauce is beautifully succulent and much less gamey than you might expect.",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This pheasant with a flavourful mustard sauce is beautifully succulent and much less gamey than you might expect.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 pheasants, about 500g/1lb 2 oz each",
-            "50g/2oz flour",
-            "salt",
-            "1 tbsp vegetable oil",
-            "knob of butter"
-        ],
         "For the sauce": [
             "1 tbsp unsalted butter",
             "1\u00bd banana shallots, finely chopped",
@@ -39,7 +33,20 @@
             "2 tsp Dijon mustard, or more to taste",
             "100ml/3\u00bdfl oz double cream",
             "Puy lentils, cooked according to the packet instructions, to serve"
+        ],
+        "default": [
+            "2 pheasants, about 500g/1lb 2 oz each",
+            "50g/2oz flour",
+            "salt",
+            "1 tbsp vegetable oil",
+            "knob of butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Prepare the pheasant first. Pheasant legs have tough tendons that need to be removed before cooking. Using a pair of pliers, tug hard on the exposed ends of the tendons (at the foot end), and pull them out.",
@@ -55,8 +62,9 @@
         "Carve the pheasant breast from the ribcage (it should still be a little pink). This will give two pieces of breast from each bird. Cut into thick slices.",
         "To serve, arrange Puy lentils on each of four plates, spoon over a generous amount of sauce, then top with one sliced breast and a leg per plate. Sprinkle over a little chopped curly leaf parsley."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "How to cook pheasant",
     "videos": "[p00yrvj1:p00yrvj3]"
 }

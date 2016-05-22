@@ -1,26 +1,31 @@
 {
-    "title": "Homemade gravad lax with cucumber salad and mustard sauce",
-    "cookTime": "no cooking required",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "34",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/homemade_gravadlax_with_08463_16x9.jpg"
-    ],
-    "description": "Remove the mystique from this classic dinner party recipe with six simple steps for how to make gravad lax.",
     "author": {
         "simon_hopkinson": "Simon Hopkinson"
     },
-    "show": {
-        "b012gg69": "The Good Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Remove the mystique from this classic dinner party recipe with six simple steps for how to make gravad lax.",
+    "dishes": [
+        "bread",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/homemade_gravadlax_with_08463_16x9.jpg"
+    ],
     "ingredients": {
+        "For the cucumber salad": [
+            "1 large cucumber, peeled, thinly sliced",
+            "1 tsp sea salt",
+            "2 tsp caster sugar",
+            "freshly ground white pepper",
+            "1-2 tbsp white wine vinegar"
+        ],
         "For the salmon": [
             "85g/3oz caster sugar",
             "70g/2\u00bdoz flaky sea salt",
@@ -28,13 +33,6 @@
             "2 tsp freshly ground white pepper",
             "100g/3\u00bdoz fresh dill",
             "500g/1lb 2oz centre-cut salmon fillet, skin on, bones removed"
-        ],
-        "For the cucumber salad": [
-            "1 large cucumber, peeled, thinly sliced",
-            "1 tsp sea salt",
-            "2 tsp caster sugar",
-            "freshly ground white pepper",
-            "1-2 tbsp white wine vinegar"
         ],
         "For the sauce": [
             "3 tbsp Dijon mustard",
@@ -45,6 +43,12 @@
             "2-3 tbsp sunflower oil"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "34",
+    "serves": "Serves 4",
+    "show": {
+        "b012gg69": "The Good Cook"
+    },
     "steps": [
         "To cure the salmon, blend together the sugar, salt, alcohol, white pepper and dill in a food processor to make a paste.",
         "Place half of the mixture into a container that will accommodate the fish snugly (say the plastic container the fish was bought in). Lay the salmon on top of this flesh-side down, press it down, then cover with the other half of the mixture, smearing it well over the surface of the fish. Secure with a lid or cling film and leave to chill in the fridge for 48 hours, turning the fish occasionally, until firm to the touch.",
@@ -53,8 +57,9 @@
         "Carefully rinse the fish under cold running water, but not so much that no remnants of dill remain. Dry with kitchen paper.",
         "Thinly slice the gravad lax at an angle and present on a large serving dish. Serve alongside the cucumber salad and the mustard sauce with buttered rye bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Homemade gravad lax with cucumber salad and mustard sauce",
     "videos": "[]"
 }

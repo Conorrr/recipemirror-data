@@ -1,38 +1,35 @@
 {
-    "title": "Salmon, crab fregola, lemon curd, and 'granola'",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A creative blend of flavours from chef Matt Gillan, with a granola made from deep-fried black rice and pumpkin seeds.",
     "author": {
         "matt_gillan": "Matt Gillan"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A creative blend of flavours from chef Matt Gillan, with a granola made from deep-fried black rice and pumpkin seeds.",
+    "dishes": [
+        "bread",
+        "curry",
+        "pie",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the lemon curd": [
-            "6 egg yolks",
-            "1 whole egg",
-            "150g/5\u00bdoz muscavado sugar",
-            "80ml/3fl oz lemon juice",
-            "50g/1\u00beoz butter"
-        ],
-        "For the spice mix": [
-            "15g/\u00bdoz ground cumin",
-            "15g/\u00bdoz star anise",
-            "40g/1\u00bdoz ground coriander",
-            "10g mild curry powder"
+        "For the fregola": [
+            "200g/7oz toasted fregola",
+            "500ml/18fl oz shellfish stock (or fish stock)",
+            "50g/1\u00beoz picked white crab meat",
+            "50g/1\u00beoz butter",
+            "50g/1\u00beoz grated Parmesan",
+            "sea salt",
+            "lime juice, to taste",
+            "2 tbsp chopped chives"
         ],
         "For the granola": [
             "sunflower oil for deep-frying",
@@ -44,15 +41,12 @@
             "10g onion powder",
             "5g table salt"
         ],
-        "For the fregola": [
-            "200g/7oz toasted fregola",
-            "500ml/18fl oz shellfish stock (or fish stock)",
-            "50g/1\u00beoz picked white crab meat",
-            "50g/1\u00beoz butter",
-            "50g/1\u00beoz grated Parmesan",
-            "sea salt",
-            "lime juice, to taste",
-            "2 tbsp chopped chives"
+        "For the lemon curd": [
+            "6 egg yolks",
+            "1 whole egg",
+            "150g/5\u00bdoz muscavado sugar",
+            "80ml/3fl oz lemon juice",
+            "50g/1\u00beoz butter"
         ],
         "For the salmon": [
             "1 tbsp sunflower oil",
@@ -61,9 +55,21 @@
             "50g/1\u00beoz butter",
             "1 lemon, juice only"
         ],
+        "For the spice mix": [
+            "15g/\u00bdoz ground cumin",
+            "15g/\u00bdoz star anise",
+            "40g/1\u00bdoz ground coriander",
+            "10g mild curry powder"
+        ],
         "To serve": [
             "150g/5\u00bdoz raw samphire"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the lemon curd, put all ingredients except the butter in a pan over a low heat. Using a whisk, keep the mixture moving constantly. Cook gently until it thickens.",
@@ -78,8 +84,9 @@
         "Add the butter and 100ml/3\u00bdfl oz water and gently shake to create an emulsion. Turn off the heat and leave the salmon to carry on cooking for 1-2 minutes. Pour a little lemon juice over the fish and remove from the pan.",
         "To serve, divide the fregola between 4 serving bowls. Lay a piece of salmon on top. Add 2 dessert spoons of granola, a few pieces of samphire and dot a couple of teaspoons of lemon curd around the bowl."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salmon, crab fregola, lemon curd, and 'granola'",
     "videos": "[]"
 }

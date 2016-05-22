@@ -1,24 +1,22 @@
 {
-    "title": "Chocolate fondue with kebabs",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "fondue",
+        "kebab",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "melting_chocolate"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For fondue": [
@@ -34,6 +32,12 @@
             "100g/3\u00bdoz raspberries"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "For the fondue, in a bain-marie over a low heat melt the chocolate and butter together. Add the brandy.",
         "Stir through the cream, honey and cocoa powder.",
@@ -41,8 +45,9 @@
         "For the kebabs, thread the pears and raspberries onto the skewers, alternating one another.",
         "Place the kebabs around the bowl of chocolate fondue and serve."
     ],
-    "howTos": [
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "Chocolate fondue with kebabs",
     "videos": "[]"
 }

@@ -1,35 +1,35 @@
 {
-    "title": "Party vol-au-vents",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 30",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Combine a basic white sauce and shop-bought puff pastry with a few tasty ingredients to create this party classic.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b018nq5b": "The Hairy Bikers' Christmas Party"
-    },
-    "tips": [
-        "The filled vol-au-vents can be made ahead of time and kept in the fridge for up to 24 hours before baking."
+    "cookTime": "10 to 30 mins",
+    "description": "Combine a basic white sauce and shop-bought puff pastry with a few tasty ingredients to create this party classic.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "vol-au-vent"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "making_bechamel_sauce"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chicken and tarragon filling": [
+            "2 boneless chicken breasts, roasted, skin removed, cut into small pieces",
+            "1 tbsp fresh tarragon leaves",
+            "1 tbsp white wine"
+        ],
         "For the pastry": [
             "500g/1lb 2oz ready-made puff pastry",
             "plain flour, for rolling"
-        ],
-        "For the smoked haddock and prawn filling": [
-            "225g/8oz un-dyed smoked haddock fillet",
-            "300ml/10fl oz whole milk",
-            "100g/3\u00bdoz cooked, peeled prawns",
-            "2 tbsp chives, finely sliced"
         ],
         "For the sauce": [
             "\u00bd onion, cut into quarters",
@@ -41,11 +41,18 @@
             "sea salt flakes",
             "freshly ground black pepper"
         ],
-        "For the chicken and tarragon filling": [
-            "2 boneless chicken breasts, roasted, skin removed, cut into small pieces",
-            "1 tbsp fresh tarragon leaves",
-            "1 tbsp white wine"
+        "For the smoked haddock and prawn filling": [
+            "225g/8oz un-dyed smoked haddock fillet",
+            "300ml/10fl oz whole milk",
+            "100g/3\u00bdoz cooked, peeled prawns",
+            "2 tbsp chives, finely sliced"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "Makes 30",
+    "show": {
+        "b018nq5b": "The Hairy Bikers' Christmas Party"
     },
     "steps": [
         "For the pastry, preheat the oven to 200C/400F/Gas 6 and line a large baking tray with greaseproof paper. Roll out the pastry on a lightly floured surface and cut into 30 x 6cm/2\u00bdin squares. Score a smaller square inside each one, leaving a 75mm/\u00bcin border. (Take care not to cut the pastry all the way through.)",
@@ -58,8 +65,9 @@
         "Divide the sauce into two portions, flake the haddock into one half of the sauce, checking for any remaining bones and stir in the prawns and chives. For the chicken and tarragon filling, stir the chicken, tarragon and wine into the other half of the sauce.",
         "To assemble the vol-au-vents preheat the oven to 200C/400F/Gas 6. Put the pastry squares onto a baking tray, spoon in the fillings and warm in the oven for 8-10 minutes or until the filling is bubbling. Serve warm or cold."
     ],
-    "howTos": [
-        "making_bechamel_sauce"
+    "tips": [
+        "The filled vol-au-vents can be made ahead of time and kept in the fridge for up to 24 hours before baking."
     ],
+    "title": "Party vol-au-vents",
     "videos": "[]"
 }

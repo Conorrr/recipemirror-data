@@ -1,26 +1,31 @@
 {
-    "title": "Deep-fried camembert with red pepper sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "jam",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "1 tbsp olive oil",
+            "\u00bd Romero pepper, sliced",
+            "pinch chilli flakes",
+            "1 clove garlic, crushed",
+            "35g/1\u00bcoz breadcrumbs"
+        ],
         "default": [
             "50g/1\u00beoz breadcrumbs",
             "handful fresh thyme, chopped",
@@ -28,14 +33,13 @@
             "1 free-range egg, beaten",
             "100g/3\u00bdoz Camembert, cut into triangles",
             "oil for deep frying"
-        ],
-        "For the sauce": [
-            "1 tbsp olive oil",
-            "\u00bd Romero pepper, sliced",
-            "pinch chilli flakes",
-            "1 clove garlic, crushed",
-            "35g/1\u00bcoz breadcrumbs"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "In a bowl, mix the breadcrumbs together with the herbs.",
@@ -45,8 +49,9 @@
         "For the sauce, saut\u00e9 the pepper, chilli flakes, garlic and breadcrumbs for 2-4 minutes or until softened. Blend in a food processor until smooth. You may need some water to loosen it.",
         "Serve the deep fried cheese with the red pepper sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Deep-fried camembert with red pepper sauce",
     "videos": "[]"
 }

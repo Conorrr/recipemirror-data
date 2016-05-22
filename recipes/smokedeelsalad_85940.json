@@ -1,38 +1,41 @@
 {
-    "title": "Smoked eel salad",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "griff_rhys_jones": "Griff Rhys Jones"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "pie",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 handfuls rocket",
-            "15-20 cherry tomatoes, halved",
-            "150g/5oz smoked eel, cut into 6cm/2\u00bdin pieces (available from some supermarkets and delicatessens)"
-        ],
         "For the dressing": [
             "1 tbsp tarragon vinegar (or white wine vinegar if unavailable)",
             "2 tsp Dijon mustard",
             "2 tbsp olive oil",
             "3 tbsp vegetable oil",
             "salt and freshly ground black pepper"
+        ],
+        "default": [
+            "2 handfuls rocket",
+            "15-20 cherry tomatoes, halved",
+            "150g/5oz smoked eel, cut into 6cm/2\u00bdin pieces (available from some supermarkets and delicatessens)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b00701fw": "A Taste of My Life"
     },
     "steps": [
         "Preheat the grill to medium.",
@@ -41,8 +44,9 @@
         "For the dressing, place all of the dressing ingredients together in a bowl and mix well.",
         "To serve, pour the dressing over the salad and mix to coat the leaves, then place the eel fillets over the top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Smoked eel salad",
     "videos": "[]"
 }

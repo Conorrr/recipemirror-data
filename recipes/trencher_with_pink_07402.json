@@ -1,34 +1,30 @@
 {
-    "title": "Trencher with pink peppercorn and garlic lamb",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "In medieval times trenchers were square pieces of stale bread used as a plate. This version serves marinated lamb atop a mixed flour loaf.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b01rhdgt": "Paul Hollywood's Bread"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "In medieval times trenchers were square pieces of stale bread used as a plate. This version serves marinated lamb atop a mixed flour loaf.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pie",
+        "pizza",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the trencher": [
-            "250g/9oz strong wholemeal flour",
-            "100g/3\u00bdoz rye flour",
-            "150g/5\u00bdoz strong white flour",
-            "2g instant yeast",
-            "10g salt",
-            "340ml/11\u00befl oz water",
-            "oil, for greasing"
+        "For the dressing": [
+            "3 tbsp cr\u00e8me fra\u00eeche",
+            "\u00bd lemon, juice only",
+            "1 heaped tsp English mustard"
         ],
         "For the pink peppercorn and garlic lamb": [
             "1 sprig fresh rosemary, finely chopped",
@@ -39,10 +35,14 @@
             "2 tbsp pink peppercorns, crushed",
             "salt, to taste"
         ],
-        "For the dressing": [
-            "3 tbsp cr\u00e8me fra\u00eeche",
-            "\u00bd lemon, juice only",
-            "1 heaped tsp English mustard"
+        "For the trencher": [
+            "250g/9oz strong wholemeal flour",
+            "100g/3\u00bdoz rye flour",
+            "150g/5\u00bdoz strong white flour",
+            "2g instant yeast",
+            "10g salt",
+            "340ml/11\u00befl oz water",
+            "oil, for greasing"
         ],
         "To garnish": [
             "150g/5\u00bdoz watercress",
@@ -50,6 +50,12 @@
             "8 spring onions, trimmed and sliced",
             "12 radishes, washed and halved"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b01rhdgt": "Paul Hollywood's Bread"
     },
     "steps": [
         "Mix the flours, yeast and salt in a bowl. Add 255ml/9fl oz of water and, using your hands, mix to form a dough. Add a splash of the remaining water and continue to add it until all the flour has been incorporated and the edges of the bowl are clean (you may not need it all).",
@@ -63,8 +69,9 @@
         "To serve, take a large serving board or plate. Place the trencher in the centre. Scatter the watercress, beans, spring onions and radishes over the top.",
         "Slice the lamb on a slant and lay the pieces on top of the salad. Finally top with a little of the mustard dressing and serve at once."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Trencher with pink peppercorn and garlic lamb",
     "videos": "[]"
 }

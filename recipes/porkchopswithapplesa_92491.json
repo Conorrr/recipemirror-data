@@ -1,24 +1,21 @@
 {
-    "title": "Pork chops with apples and cider",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "84",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/porkchopswithapplesa_92491_16x9.jpg"
-    ],
-    "description": "The great thing about this dish is you can either cook it quickly on a high heat or cook it for hours on low.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b00vt10m": "Nigel Slater's Simple Suppers"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "The great thing about this dish is you can either cook it quickly on a high heat or cook it for hours on low.",
+    "dishes": [
+        "oven-baked_dishes"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "how_to_cook_pork_chops"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/porkchopswithapplesa_92491_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,13 +29,20 @@
             "a good glass of dry cider"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "84",
+    "serves": "Serves 4",
+    "show": {
+        "b00vt10m": "Nigel Slater's Simple Suppers"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "Season the chops well with salt and freshly ground black pepper. In a large shallow ovenproof pan, heat the olive oil and fry the rind of each chop for a good head start to getting them crisp. Then lightly fry each side for a minute or so to get the outside crusty and golden brown, and remove from the pan. Add the onion to the same pan with the pork juices, and brown a little before adding in the apple wedges and sage leaves (add only a few as sage can overpower the dish) with the juniper berries.",
         "Add the chops back into the pan, and nestle them among the apples and onions, along with the remaining whole apples. Pour over the cider, enough to just cover the ingredients, season to taste and place in the oven for about half an hour, or until the pork and apple are cooked."
     ],
-    "howTos": [
-        "how_to_cook_pork_chops"
+    "tips": [
+        
     ],
+    "title": "Pork chops with apples and cider",
     "videos": "[]"
 }

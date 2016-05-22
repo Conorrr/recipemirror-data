@@ -1,31 +1,26 @@
 {
-    "title": "Lemon posset with fennel biscotti",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "20",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemon_posset_with_fennel_86459_16x9.jpg"
-    ],
-    "description": "Three simple ingredients is all it takes to make a zingy, refreshing lemon posset",
     "author": {
         "tom_kerridge": "Tom Kerridge"
     },
-    "show": {
-        "b03bv3vm": "Tom Kerridge's Proper Pub Food"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Three simple ingredients is all it takes to make a zingy, refreshing lemon posset",
+    "dishes": [
+        "biscotti",
+        "biscuit",
+        "icing",
+        "oven-baked_dishes",
+        "sausage"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemon_posset_with_fennel_86459_16x9.jpg"
+    ],
     "ingredients": {
-        "For the posset": [
-            "425ml/\u00be pint double cream",
-            "125g/4\u00bdoz sugar",
-            "2 lemons, juice only"
-        ],
         "For the biscotti": [
             "95g/3\u00bcoz butter",
             "60g/2\u00bcoz sugar",
@@ -36,7 +31,18 @@
             "50g/1\u00beoz chopped toasted almonds",
             "\u00bd tbsp fennel seeds",
             "icing sugar, for dusting"
+        ],
+        "For the posset": [
+            "425ml/\u00be pint double cream",
+            "125g/4\u00bdoz sugar",
+            "2 lemons, juice only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "20",
+    "serves": "Serves 6",
+    "show": {
+        "b03bv3vm": "Tom Kerridge's Proper Pub Food"
     },
     "steps": [
         "For the posset, bring the cream and sugar to the boil in a pan. Reduce the heat to a simmer and cook for 1-2 minutes. Add the lemon juice and mix thoroughly. Pass through a fine sieve and set aside to cool for five minutes.",
@@ -48,8 +54,9 @@
         "After 10 minutes, slice the loaf into 2cm/\u00bein thick slices and lay the biscuits out onto a wire rack that will fit in the oven. Place the rack into the oven for five minutes, or until the biscuits are dried out.",
         "Remove from the oven and immediately dust with icing sugar. Leave to cool completely before serving with the lemon posset."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lemon posset with fennel biscotti",
     "videos": "[]"
 }

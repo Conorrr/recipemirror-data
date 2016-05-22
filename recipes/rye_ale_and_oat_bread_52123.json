@@ -1,26 +1,33 @@
 {
-    "title": "Rye, ale and oat bread",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 1 loaf",
-    "recommendations": "31",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/rye_ale_and_oat_bread_52123_16x9.jpg"
-    ],
-    "description": "Serve this richly flavoured bread with a ploughman\u2019s lunch of chutney, pickled onions, apple and celery slices, radishes and your favourite cheese.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b01rhdgt": "Paul Hollywood's Bread"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Serve this richly flavoured bread with a ploughman\u2019s lunch of chutney, pickled onions, apple and celery slices, radishes and your favourite cheese.",
+    "dishes": [
+        "bread",
+        "chutney",
+        "oven-baked_dishes",
+        "pickle",
+        "rye_bread",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/rye_ale_and_oat_bread_52123_16x9.jpg"
+    ],
     "ingredients": {
+        "For the beer batter topping": [
+            "150ml/5fl oz ale",
+            "100g/3\u00bdoz rye flour",
+            "pinch sugar",
+            "handful jumbo oats"
+        ],
         "For the loaf": [
             "350g/12oz rye flour",
             "150g/5\u00bdoz strong white flour, plus extra for flouring",
@@ -29,13 +36,13 @@
             "50ml/2fl oz black treacle",
             "140ml/4\u00befl oz water",
             "250ml/9fl oz ale"
-        ],
-        "For the beer batter topping": [
-            "150ml/5fl oz ale",
-            "100g/3\u00bdoz rye flour",
-            "pinch sugar",
-            "handful jumbo oats"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "31",
+    "serves": "Makes 1 loaf",
+    "show": {
+        "b01rhdgt": "Paul Hollywood's Bread"
     },
     "steps": [
         "Mix the flours, salt and yeast in a bowl. Add the treacle, 100ml/3\u00bdfl oz of the water and 150ml/5fl oz of the ale. Using your hands, stir the ingredients together until all the flour leaves the side of the bowl. Gradually add the remaining ale and water if needed - the dough should be soft and all the sides of the bowl should be clean.",
@@ -46,8 +53,9 @@
         "Bake for 25 minutes. Reduce the oven temperature to 200C/400F/Gas 6 and bake for a further 10 minutes.",
         "The loaf will be golden-brown and should sound hollow when tapped on the base. Leave to cool on a wire rack."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Rye, ale and oat bread",
     "videos": "[]"
 }

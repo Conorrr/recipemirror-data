@@ -1,24 +1,27 @@
 {
-    "title": "Baked burrito",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/baked_burrito_04690_16x9.jpg"
-    ],
-    "description": "These baked burritos make a tasty Mexican meal with minimum fuss. If cooking with kids, get them to help with rolling up the burritos and spreading oil on the wraps before baking. Serve with guacamole or salsa.",
     "author": {
         "aaron_craze": "Aaron Craze"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "If you\u2019re making this for a vegetarian then you can replace the turkey with a tin of cooked mixed beans (e.g. kidney beans, cannellini beans and butter beans etc.), drained. You can buy ones already flavoured with a little Mexican spice, which would be absolutely delicious. This is a great way to use up leftover cooked meat; it doesn\u2019t have to be turkey. Try with chopped leftover roast chicken or beef or leftover bolognaise sauce or chilli con carne. For a healthier burrito, use a wholemeal wrap, reduce the amount of cheese and add some extra veggies."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Mexican",
+    "description": "These baked burritos make a tasty Mexican meal with minimum fuss. If cooking with kids, get them to help with rolling up the burritos and spreading oil on the wraps before baking. Serve with guacamole or salsa.",
+    "dishes": [
+        "guacamole",
+        "oven-baked_dishes",
+        "salsa",
+        "sauce",
+        "stir-fries",
+        "taco",
+        "wraps"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/baked_burrito_04690_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -33,6 +36,12 @@
             "4 tbsp natural yoghurt, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Preheat the oven to 200C/180C Fan/Gas 4.",
         "Peel and roughly chop the onion. Heat a large frying pan over a medium heat, then add a dash of oil and the onion. Cook for 7-10 minutes, or until soft and translucent but not brown. Reduce the heat if the onion starts to colour.",
@@ -42,8 +51,9 @@
         "Put the wraps, folded side-down on a baking tray. Put a little oil into your hand and gently rub it over the wraps. Place in the oven and bake for 7 minutes, then turn the wraps over and bake for a further 5 minutes, or until golden and crisp all over.",
         "Serve each burritos with a tablespoon of yoghurt on the side for dipping."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If you\u2019re making this for a vegetarian then you can replace the turkey with a tin of cooked mixed beans (e.g. kidney beans, cannellini beans and butter beans etc.), drained. You can buy ones already flavoured with a little Mexican spice, which would be absolutely delicious. This is a great way to use up leftover cooked meat; it doesn\u2019t have to be turkey. Try with chopped leftover roast chicken or beef or leftover bolognaise sauce or chilli con carne. For a healthier burrito, use a wholemeal wrap, reduce the amount of cheese and add some extra veggies."
     ],
+    "title": "Baked burrito",
     "videos": "[]"
 }

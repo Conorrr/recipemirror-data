@@ -1,26 +1,33 @@
 {
-    "title": "Traditional Christmas pudding with brandy butter",
-    "cookTime": "over 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6-8",
-    "recommendations": "15",
-    "images": [
-        
-    ],
-    "description": "Loaded with big pieces of fruit, Mary Berry's Christmas pudding recipe will win over the harshest critics. Equipment and preparation: You will need a 1.4 litre/2\u00bd pint pudding basin",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "Tip: If you are making brandy butter in the processor, you don\u2019t need to sieve the icing sugar. Just mix the butter and sugar, then add the brandy at the end."
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Loaded with big pieces of fruit, Mary Berry's Christmas pudding recipe will win over the harshest critics. Equipment and preparation: You will need a 1.4 litre/2\u00bd pint pudding basin",
+    "dishes": [
+        "bread",
+        "christmas_pudding",
+        "icing",
+        "jam",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "creaming"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the brandy butter": [
+            "100g/3\u00bdoz unsalted butter, softened",
+            "225g/8oz icing sugar, sieved",
+            "3 tbsp brandy, rum or cognac"
+        ],
         "For the pudding": [
             "450g/1lb dried mixed fruit (use a mixture of sultanas, raisins, and snipped apricots)",
             "1 small cooking apple, peeled, cored and roughly chopped",
@@ -34,14 +41,15 @@
             "40g/1\u00bdoz fresh white breadcrumbs",
             "40g/1\u00bdoz whole shelled almonds, roughly chopped"
         ],
-        "For the brandy butter": [
-            "100g/3\u00bdoz unsalted butter, softened",
-            "225g/8oz icing sugar, sieved",
-            "3 tbsp brandy, rum or cognac"
-        ],
         "To serve": [
             "4 tbsp brandy or rum"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "15",
+    "serves": "Serves 6-8",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Measure the sultanas, raisins, apricots and apple into a bowl with the orange juice. Add the measured brandy (rum or sherry), stir and leave to marinate for about one hour.",
@@ -56,8 +64,9 @@
         "When cooked through, remove the pudding from the pan and cool completely. Discard the paper and foil and replace with fresh. Store in a cool, dry place.",
         "To serve, on Christmas Day, steam or boil the pudding for about two hours to reheat. Turn the pudding onto a serving plate. To flame, warm the brandy or rum in a small pan, pour it over the hot pudding and set light to it. Serve with brandy butter."
     ],
-    "howTos": [
-        "creaming"
+    "tips": [
+        "Tip: If you are making brandy butter in the processor, you don\u2019t need to sieve the icing sugar. Just mix the butter and sugar, then add the brandy at the end."
     ],
+    "title": "Traditional Christmas pudding with brandy butter",
     "videos": "[]"
 }

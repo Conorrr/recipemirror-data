@@ -1,24 +1,22 @@
 {
-    "title": "Brownies",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 16",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "One of the simplest, tastiest and most popular of recipes - it is the relatively high sugar content that gives brownies their delicious and characteristic crust. Do buy a chocolate with at least 70 percent cocoa solids for real flavour.",
     "author": {
         "darina_allen_and_rosemary_kearney": "Darina Allen and Rosemary Kearney"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "One of the simplest, tastiest and most popular of recipes - it is the relatively high sugar content that gives brownies their delicious and characteristic crust. Do buy a chocolate with at least 70 percent cocoa solids for real flavour.",
+    "dishes": [
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "creaming",
+        "melting_chocolate"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,15 +32,21 @@
             "20cm/8in square tin, lined with silicone paper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Makes 16",
+    "show": {
+        
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "Melt the chocolate in a heatproof bowl suspended over a pan of simmering water or in a low oven.",
         "Cream the butter and sugar until pale, soft and light, then beat in the lightly whisked eggs, the vanilla extract and melted chocolate. Lastly stir in the ground almonds, gluten-free baking powder, salt and chopped nuts. Spread the mixture in the tin and bake in the oven for about 30-35 minutes.",
         "Leave to cool, then cut into 5cm/2in squares for serving."
     ],
-    "howTos": [
-        "creaming",
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "Brownies",
     "videos": "[]"
 }

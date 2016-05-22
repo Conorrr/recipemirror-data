@@ -1,24 +1,22 @@
 {
-    "title": "Eggs Benedict",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "American",
+    "description": "",
+    "dishes": [
+        "muffins",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,6 +26,12 @@
             "Good-quality readymade hollandaise sauce"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Fill a large, shallow pan with water, about 3cm (1in) deep and bring to a simmer. Add some vinegar (1-2 tablespoons per one litre of water) to help the eggs hold their shape.",
         "Break four eggs into separate coffee cups (this is also to help eggs maintain their shape when they're placed in the pan). Gently tip the eggs into the simmering water and poach for 2-3 minutes.",
@@ -36,8 +40,9 @@
         "Place the spinach on top of the muffins, top with the egg and spoon a generous amount of hollandaise sauce over the eggs.",
         "Serve at once."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Eggs Benedict",
     "videos": "[]"
 }

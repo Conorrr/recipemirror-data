@@ -1,34 +1,31 @@
 {
-    "title": "Clementine and chestnut torte",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 10",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "A rich chestnut torte with creamy lemon and chestnut fillings, decorated with frosted verbena leaves.",
     "author": {
         "brendan_lynch": "Brendan Lynch"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A rich chestnut torte with creamy lemon and chestnut fillings, decorated with frosted verbena leaves.",
+    "dishes": [
+        "cake",
+        "icing",
+        "oven-baked_dishes",
+        "panettone",
+        "torte"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "segmenting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the torte": [
-            "6 large free-range eggs, separated",
-            "190g/6\u00beoz caster sugar",
-            "300g/10\u00bdoz full fat cr\u00e8me fra\u00eeche",
-            "2 unwaxed lemons, zest only",
-            "\u00bd tsp fiori di Sicilia or arome di panetone (both available online)",
-            "190g/6\u00beoz chestnut flour (available online)",
-            "3 tsp baking powder"
+        "For the lemon cheese icing": [
+            "325g/11\u00bdoz butter, softened, plus extra for greasing the cake tins",
+            "450g/1lb icing sugar",
+            "190g/6\u00beoz cream cheese, full fat",
+            "2 tsp lemon oil extract"
         ],
         "For the topping": [
             "3 tbsp caster sugar",
@@ -41,12 +38,21 @@
             "2 tbsp caster sugar",
             "1 x 250g/9oz tin of vanilla flavoured chestnut spread (such as Creme de Marrons de L\u2019Ardeche)"
         ],
-        "For the lemon cheese icing": [
-            "325g/11\u00bdoz butter, softened, plus extra for greasing the cake tins",
-            "450g/1lb icing sugar",
-            "190g/6\u00beoz cream cheese, full fat",
-            "2 tsp lemon oil extract"
+        "For the torte": [
+            "6 large free-range eggs, separated",
+            "190g/6\u00beoz caster sugar",
+            "300g/10\u00bdoz full fat cr\u00e8me fra\u00eeche",
+            "2 unwaxed lemons, zest only",
+            "\u00bd tsp fiori di Sicilia or arome di panetone (both available online)",
+            "190g/6\u00beoz chestnut flour (available online)",
+            "3 tsp baking powder"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "3",
+    "serves": "Serves 10",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 170C/325F/Gas 3. Grease two 23cm/9in round cake tins and line the sides and bottom with parchment paper.",
@@ -61,8 +67,9 @@
         "Place the second layer of torte on top, with the lemon icing facing upwards. Fill the 1cm/\u00bdin border with piped rosettes of lemon icing.",
         "Drain the citrus rinds and pat dry with kitchen towel. On each lemon icing rosette apply a small amount of the citrus rinds. Arrange the remaining orange segments in centre of cake. Pipe small rosettes of cream in any gaps, and scatter some of the mixed zest over. Place crystallised verbena leaves on top in a radiating pattern."
     ],
-    "howTos": [
-        "segmenting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Clementine and chestnut torte",
     "videos": "[]"
 }

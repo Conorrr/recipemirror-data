@@ -1,23 +1,21 @@
 {
-    "title": "Chicken chow mein",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "102",
-    "images": [
-        
-    ],
-    "description": "Cook this authentic Chinese stir-fry in less than ten minutes, adding any crisp seasonal vegetables you fancy.",
     "author": {
         "ching-he_huang": "Ching-He Huang"
     },
-    "show": {
-        "b00cjxzp": "Chinese Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Chinese",
+    "description": "Cook this authentic Chinese stir-fry in less than ten minutes, adding any crisp seasonal vegetables you fancy.",
+    "dishes": [
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -36,6 +34,12 @@
             "freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "102",
+    "serves": "Serves 2",
+    "show": {
+        "b00cjxzp": "Chinese Food Made Easy"
+    },
     "steps": [
         "Cook the noodles in a pan of boiling water for 2-3 minutes until al dente, or according to packet instructions. Drain, then rinse under cold running water and drain again. Drizzle with a dash of sesame oil and toss through to prevent the noodles from sticking to each other.",
         "Put the chicken strips in a bowl and season with a dash of light soy sauce, the five-spice powder and chilli sauce, if using. Mix well, then lightly dust the chicken strips with the cornflour.",
@@ -43,8 +47,9 @@
         "Add the red pepper and stir fry for 1 minute, then add the bean sprouts and spring onion and stir fry for 30 seconds. Stir in the cooked noodles and season with the soy sauce, a dash of sesame oil and freshly ground black pepper.",
         "Pile the noodles onto a serving plate and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken chow mein",
     "videos": "[p0195b3r:p0195b3v]"
 }

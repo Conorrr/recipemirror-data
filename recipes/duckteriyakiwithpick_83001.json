@@ -1,43 +1,29 @@
 {
-    "title": "Duck teriyaki with pickled cucumber served with celery leaf tempura",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Japanese",
+    "description": "",
+    "dishes": [
+        "bread",
+        "pickle",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "tempura",
+        "teriyaki"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pickled cucumber": [
-            "\u00bd large cucumber",
-            "1 tsp Dijon mustard",
-            "\u00bd tsp salt",
-            "1 tbsp sugar",
-            "2 tbsp rice wine vinegar"
-        ],
-        "For the duck": [
-            "4 duck breasts, boneless and skin removed",
-            "salt and freshly ground black pepper",
-            "1 tbsp vegetable oil"
-        ],
-        "For the teriyaki glaze": [
-            "100ml/4fl oz soy sauce",
-            "100ml/4fl oz sake",
-            "3 tbsp sugar"
-        ],
         "For the celery leaf tempura": [
             "vegetable oil, for deep frying",
             "1 free-range egg yolk",
@@ -45,7 +31,30 @@
             "125g/4\u00bdoz plain flour, plus extra for dusting",
             "8 sprigs pale celery leaves",
             "salt"
+        ],
+        "For the duck": [
+            "4 duck breasts, boneless and skin removed",
+            "salt and freshly ground black pepper",
+            "1 tbsp vegetable oil"
+        ],
+        "For the pickled cucumber": [
+            "\u00bd large cucumber",
+            "1 tsp Dijon mustard",
+            "\u00bd tsp salt",
+            "1 tbsp sugar",
+            "2 tbsp rice wine vinegar"
+        ],
+        "For the teriyaki glaze": [
+            "100ml/4fl oz soy sauce",
+            "100ml/4fl oz sake",
+            "3 tbsp sugar"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the pickled cucumber, peel and seed the cucumber and slice into 1cm/\u00bdin pieces. In a bowl, whisk together the mustard, salt, sugar and vinegar. Marinate the cucumber slices in the mixture for at least 15 minutes and up to one hour.",
@@ -57,8 +66,9 @@
         "Dip the celery leaves in the dusting flour, and then into the tempura batter. Fry in the hot oil for about three minutes until golden brown, turning the leaves in the oil to ensure even cooking. Remove with a slotted spoon and season lightly with salt.",
         "Serve the duck with the pickled cucumber and garnish with the celery leaf tempura."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Duck teriyaki with pickled cucumber served with celery leaf tempura",
     "videos": "[]"
 }

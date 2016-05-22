@@ -1,23 +1,28 @@
 {
-    "title": "Quadruple chocolate Black Forest g\u00e2teau",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 1 large cake",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A spectacular four-layered Black Forest g\u00e2teau for people who are serious about chocolate.",
     "author": {
         "nadiya": "Nadiya"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "A spectacular four-layered Black Forest g\u00e2teau for people who are serious about chocolate.",
+    "dishes": [
+        "black_forest_gateau",
+        "cake",
+        "gateau",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "sandwich",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "creaming",
+        "melting_chocolate"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -42,6 +47,20 @@
             "5 tbsp cherry and chocolate flavour syrup (such as Monin Black Forest syrup)",
             "\u00bd tsp cherry essence"
         ],
+        "For the chocolate buttercream": [
+            "50g/1\u00beoz dark chocolate (minimum 70% cocoa solids)",
+            "100g/3\u00bdoz unsalted butter, softened",
+            "200g/7oz icing sugar, sifted"
+        ],
+        "For the chocolate decorations (optional)": [
+            "50g/1\u00beoz dark chocolate (minimum 70% cocoa solids), finely chopped",
+            "1 x A4 sheet of acetate"
+        ],
+        "For the chocolate ganache": [
+            "200g/7oz dark chocolate (minimum 70% cocoa solids), finely chopped",
+            "200ml/7fl oz double cream",
+            "dark glace cherries (to decorate)"
+        ],
         "For the chocolate mirror glaze": [
             "10g/\u2153oz powdered bovine gelatine",
             "150g/5\u00bdoz caster sugar",
@@ -54,26 +73,18 @@
             "2 tbsp cherry and chocolate flavour syrup (such as Monin Black Forest syrup)",
             "\u00bd tsp cherry essence"
         ],
-        "For the chocolate buttercream": [
-            "50g/1\u00beoz dark chocolate (minimum 70% cocoa solids)",
-            "100g/3\u00bdoz unsalted butter, softened",
-            "200g/7oz icing sugar, sifted"
-        ],
-        "For the chocolate ganache": [
-            "200g/7oz dark chocolate (minimum 70% cocoa solids), finely chopped",
-            "200ml/7fl oz double cream",
-            "dark glace cherries (to decorate)"
-        ],
         "For the whipped cream": [
             "400ml/14fl oz double cream",
             "1 tbsp icing sugar, sifted",
             "1 tsp cornflour, sifted",
             "1 tbsp milk powder, sifted (optional)"
-        ],
-        "For the chocolate decorations (optional)": [
-            "50g/1\u00beoz dark chocolate (minimum 70% cocoa solids), finely chopped",
-            "1 x A4 sheet of acetate"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes 1 large cake",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 180C/170C Fan/Gas 4. Grease and line two 20cm/8in sandwich tins. Set up a freestanding mixer with a paddle attachment.",
@@ -93,9 +104,9 @@
         "Cover the whole cake in butter cream (if you have time freeze the cake for 10 minutes to help it set). Pour the chocolate mirror glaze over the top of the cake (you should have a smooth glossy surface on the top of the cake with the glaze drizzling down the sides attractively).",
         "Decorate the cake by piping rosettes of the chocolate ganache on top, add the chocolate decorations (if using) and finish with a few glac\u00e9 cherries."
     ],
-    "howTos": [
-        "creaming",
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "Quadruple chocolate Black Forest g\u00e2teau",
     "videos": "[]"
 }

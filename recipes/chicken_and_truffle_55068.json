@@ -1,34 +1,31 @@
 {
-    "title": "Chicken and truffle tortellini with a cream and chive sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Homemade pasta filled with creamy chicken sauce and served with a luxurious mushroom and truffle sauce. For this recipe you will need a food processor, and a pasta machine.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "Homemade pasta filled with creamy chicken sauce and served with a luxurious mushroom and truffle sauce. For this recipe you will need a food processor, and a pasta machine.",
+    "dishes": [
+        "bread",
+        "jam",
+        "pasta",
+        "pastry",
+        "sauce",
+        "stock",
+        "torte",
+        "tortellini"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "rolling_pasta_dough",
+        "pulsing"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the tortellini": [
-            "200g/7oz 00 pasta flour, plus extra for dusting",
-            "3 free-range eggs",
-            "\u00bd chicken breast, roughly chopped",
-            "100-200ml/3\u00bd-7fl oz double cream",
-            "fresh truffle, to taste",
-            "salt and freshly ground pepper"
-        ],
         "For the cream and chive sauce": [
             "2 tbsp unsalted butter, plus extra to finish",
             "1 shallot, finely chopped",
@@ -39,10 +36,24 @@
             "2 tbsp fresh chives, chopped",
             "fresh truffle shavings, to taste"
         ],
+        "For the tortellini": [
+            "200g/7oz 00 pasta flour, plus extra for dusting",
+            "3 free-range eggs",
+            "\u00bd chicken breast, roughly chopped",
+            "100-200ml/3\u00bd-7fl oz double cream",
+            "fresh truffle, to taste",
+            "salt and freshly ground pepper"
+        ],
         "To serve": [
             "1 head kale, leaves shredded",
             "2 tbsp unsalted butter"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "To make the pasta, put the flour and 2 of the eggs in a food processor and pulse until the mixture resembles breadcrumbs. Turn the mixture out onto a floured work surface and gently work the mixture together to form a dough.",
@@ -56,9 +67,9 @@
         "Cook the tortellini in a large pan of boiling salted water for 2-3 minutes. Drain well then add the tortellini and chives to the sauce and mix. Cut open one of the tortellini to check the chicken is cooked through, if not, continue to heat them in the pan.",
         "Place the wilted kale in the centre of serving bowls, top with the tortellini and freshly grated truffle."
     ],
-    "howTos": [
-        "rolling_pasta_dough",
-        "pulsing"
+    "tips": [
+        
     ],
+    "title": "Chicken and truffle tortellini with a cream and chive sauce",
     "videos": "[]"
 }

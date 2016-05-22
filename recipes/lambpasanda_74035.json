@@ -1,34 +1,26 @@
 {
-    "title": "Lamb pasanda",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "reza_mahammad": "Reza Mahammad"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "bread",
+        "casserole",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "500g/17\u00bdoz boned leg of lamb",
-            "100g/3\u00bdoz ghee (clarified butter)",
-            "4 cinnamon sticks, each 4cm (1\u00bein) long",
-            "4 black cardamoms",
-            "200g/7\u00bcoz flour, approx",
-            "50ml/1\u00befl oz water, or enough to bind into a slack dough"
-        ],
         "For the marinade": [
             "8 dried figs, soaked in water, to cover",
             "3 tbsp khoya (dried reduced milk), available from ethnic grocers",
@@ -45,12 +37,26 @@
             "1 tsp freshly ground cardamom seeds",
             "1 tbsp chopped coriander, to garnish"
         ],
+        "Specialist equipment": [
+            "meat mallet"
+        ],
         "To serve": [
             "naan bread, warmed"
         ],
-        "Specialist equipment": [
-            "meat mallet"
+        "default": [
+            "500g/17\u00bdoz boned leg of lamb",
+            "100g/3\u00bdoz ghee (clarified butter)",
+            "4 cinnamon sticks, each 4cm (1\u00bein) long",
+            "4 black cardamoms",
+            "200g/7\u00bcoz flour, approx",
+            "50ml/1\u00befl oz water, or enough to bind into a slack dough"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Remove all the white membranes from the surface of the meat.",
@@ -65,8 +71,9 @@
         "Remove the lid from the pan. If there's too much liquid, cook the sauce down until there's a thin film of oil on top.",
         "Scatter with chopped coriander and serve straight away with warm naan bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb pasanda",
     "videos": "[]"
 }

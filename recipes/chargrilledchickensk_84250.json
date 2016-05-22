@@ -1,39 +1,43 @@
 {
-    "title": "Chargrilled chicken skewers",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "jam",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dip": [
+            "\u00bd avocado, peeled, stone removed",
+            "small bunch fresh coriander",
+            "\u00bd red chilli, chopped",
+            "1 tbsp milk"
+        ],
         "default": [
             "1 chicken breast",
             "2 tbsp chopped fresh coriander",
             "2 tbsp olive oil",
             "1 tbsp clear honey",
             "2 tsp sesame seeds"
-        ],
-        "For the dip": [
-            "\u00bd avocado, peeled, stone removed",
-            "small bunch fresh coriander",
-            "\u00bd red chilli, chopped",
-            "1 tbsp milk"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Soak three wooden skewers in water for ten minutes.",
@@ -44,8 +48,9 @@
         "Sprinkle with sesame seeds and place onto a plate.",
         "For the dip, place all of the dip ingredients into a food processor and blend until smooth. Serve in a small bowl alongside the chicken skewers."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chargrilled chicken skewers",
     "videos": "[]"
 }

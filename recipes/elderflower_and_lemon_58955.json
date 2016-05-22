@@ -1,26 +1,43 @@
 {
-    "title": "Elderflower and lemon buns and spiced buns",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 24 iced finger buns",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "These iced buns celebrate the very British flavours of elderflower and apple. For this recipe you will need a freestanding mixer fitted with a dough hook, 4 baking trays and disposable piping bags.",
     "author": {
         "ian": "Ian"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "These iced buns celebrate the very British flavours of elderflower and apple. For this recipe you will need a freestanding mixer fitted with a dough hook, 4 baking trays and disposable piping bags.",
+    "dishes": [
+        "bun",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sandwich",
+        "sausage",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the apple and cranberry jam": [
+            "3 Braeburn apples, peeled, cored and finely chopped",
+            "80g/3oz frozen cranberries, defrosted",
+            "1 lemon, juice only",
+            "150g/5\u00bdoz jam sugar"
+        ],
+        "For the cinnamon icing": [
+            "150g/5\u00bdoz icing sugar",
+            "1 tsp vanilla paste",
+            "1 tsp cinnamon",
+            "1 tsp lemon juice",
+            "2 tsp orange juice"
+        ],
         "For the elderflower and lemon dough": [
             "250g/9oz strong white flour",
             "250g/9oz plain white flour",
@@ -31,6 +48,20 @@
             "2 large free-range eggs",
             "75ml/2\u00bdfl oz elderflower cordial",
             "1 cap food-grade lemon oil"
+        ],
+        "For the elderflower icing": [
+            "150g/5\u00bdoz icing sugar",
+            "2 tbsp elderflower cordial"
+        ],
+        "For the filling": [
+            "600ml/20fl oz double cream",
+            "40g/1\u00bdoz icing sugar"
+        ],
+        "For the lemon curd recipe": [
+            "80g/3oz butter",
+            "160g/5\u00beoz golden caster sugar",
+            "3 lemons, zest and juice only",
+            "2 large free-range eggs and 1 large free-range egg yolk"
         ],
         "For the spiced bun dough": [
             "250g/9oz strong white flour",
@@ -44,34 +75,13 @@
             "60g/2\u00bcoz golden caster sugar",
             "150ml/5fl oz full-fat milk",
             "2 large free-range eggs"
-        ],
-        "For the lemon curd recipe": [
-            "80g/3oz butter",
-            "160g/5\u00beoz golden caster sugar",
-            "3 lemons, zest and juice only",
-            "2 large free-range eggs and 1 large free-range egg yolk"
-        ],
-        "For the apple and cranberry jam": [
-            "3 Braeburn apples, peeled, cored and finely chopped",
-            "80g/3oz frozen cranberries, defrosted",
-            "1 lemon, juice only",
-            "150g/5\u00bdoz jam sugar"
-        ],
-        "For the elderflower icing": [
-            "150g/5\u00bdoz icing sugar",
-            "2 tbsp elderflower cordial"
-        ],
-        "For the cinnamon icing": [
-            "150g/5\u00bdoz icing sugar",
-            "1 tsp vanilla paste",
-            "1 tsp cinnamon",
-            "1 tsp lemon juice",
-            "2 tsp orange juice"
-        ],
-        "For the filling": [
-            "600ml/20fl oz double cream",
-            "40g/1\u00bdoz icing sugar"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Makes 24 iced finger buns",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the elderflower dough, put both flours in the bowl of a freestanding mixer fitted with a dough hook. Rub in the butter using your fingertips then add the salt to one side of the bowl and the yeast to the other.",
@@ -93,8 +103,9 @@
         "To fill the buns, whip the cream with the icing sugar until stiff peaks form when the whisk is removed. Transfer to a disposable piping bag.",
         "Spread the jam on half the buns and the lemon curd on the other half, then pipe the cream on top. Sandwich the buns together using the respective iced tops. Serve immediately."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Elderflower and lemon buns and spiced buns",
     "videos": "[]"
 }

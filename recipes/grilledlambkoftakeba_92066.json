@@ -1,34 +1,32 @@
 {
-    "title": "Grilled lamb kofta kebabs",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gordon_jones": "Gordon Jones"
     },
-    "show": {
-        "b00mb9r7": "Virgin Cooks"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bread",
+        "bun",
+        "hummus",
+        "kebab",
+        "lamb_kofta",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "sauce",
+        "sausage",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pitta bread": [
-            "500g/17\u00bdoz strong bread flour, plus extra for dusting",
-            "10g/\u00bdoz quick yeast (not dried active yeast)",
-            "5g/\u00bcoz sugar",
-            "5g/\u00bcoz salt",
-            "200ml/7fl oz room temperature water",
-            "olive oil, for brushing"
-        ],
         "For the chilli sauce": [
             "50g/2oz sugar",
             "150ml/5fl oz water",
@@ -57,6 +55,14 @@
             "pinch cayenne pepper",
             "salt and freshly ground black pepper, to taste"
         ],
+        "For the pitta bread": [
+            "500g/17\u00bdoz strong bread flour, plus extra for dusting",
+            "10g/\u00bdoz quick yeast (not dried active yeast)",
+            "5g/\u00bcoz sugar",
+            "5g/\u00bcoz salt",
+            "200ml/7fl oz room temperature water",
+            "olive oil, for brushing"
+        ],
         "For the salad": [
             "1 small bunch spring onions, chopped",
             "2 tomatoes, chopped",
@@ -65,6 +71,12 @@
             "1 large bunch lettuce leaves, torn into pieces",
             "1 small bunch fresh coriander, chopped"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b00mb9r7": "Virgin Cooks"
     },
     "steps": [
         "For the pitta bread dough, place the strong bread flour, yeast, sugar and salt into a mixing bowl and mix together.",
@@ -83,8 +95,9 @@
         "For the salad, mix all of the salad ingredients together in a large bowl.",
         "To serve, place a few pitta breads onto each serving plate along with a few lamb kofta kebabs. Arrange the salad alongside and place the chilli sauce and hummus into small bowls for sharing."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Grilled lamb kofta kebabs",
     "videos": "[p00bfy1d:p00bfy1g]"
 }

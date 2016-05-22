@@ -1,24 +1,23 @@
 {
-    "title": "B\u00e9chamel sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "A traditional sauce that is the base for many other white sauces, such as parsley or cheese.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "A traditional sauce that is the base for many other white sauces, such as parsley or cheese.",
+    "dishes": [
+        "bechamel_sauce",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,6 +32,12 @@
             "salt and white pepper"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Put the milk in a saucepan with the onion, peppercorns, bay leaf, parsley stalks and mace. Bring up to the boil and then turn off the heat. Allow to infuse for 30 minutes and then drain.",
         "Melt the butter in a saucepan. Stir in the flour and cook for 1-2 minutes.",
@@ -40,8 +45,9 @@
         "Return to the heat and, stirring all the time, bring to the boil.",
         "Simmer gently for 8-10 minutes and season with salt and white pepper."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "B\u00e9chamel sauce",
     "videos": "[]"
 }

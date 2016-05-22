@@ -1,24 +1,22 @@
 {
-    "title": "Smoked trout salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/smoked_trout_salad_57965_16x9.jpg"
-    ],
-    "description": "Serve up smoked trout with a healthy and filling salad of puy lentils, yellow peas and crushed walnuts.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Serve up smoked trout with a healthy and filling salad of puy lentils, yellow peas and crushed walnuts.",
+    "dishes": [
+        "bun",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/smoked_trout_salad_57965_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -38,6 +36,12 @@
             "150ml/5fl oz soured cream"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Heat one tablespoon of the olive oil in a frying pan and fry the onion and garlic for 3-4 minutes, or until softened.",
         "Stir in the lentils, peas and mustard and mix until well combined.",
@@ -45,8 +49,9 @@
         "Finally, add the crushed walnuts, mint and parsley. Mix gently and remove from the heat.",
         "To serve, spoon some of the lentil mixture onto serving plates, top with the trout and watercress, and drizzle over with soured cream."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Smoked trout salad",
     "videos": "[]"
 }

@@ -1,26 +1,33 @@
 {
-    "title": "Finnish pancakes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A cross between a Yorkshire pudding and a pancake, served with a sweet topping of your choice \u2013 what\u2019s not to like?",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b069hr3q": "The Hairy Bikers' Northern Exposure"
-    },
-    "tips": [
-        "Swap the fruit comp\u00f4te for jam, maple syrup or honey."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Nordic",
+    "description": "A cross between a Yorkshire pudding and a pancake, served with a sweet topping of your choice \u2013 what\u2019s not to like?",
+    "dishes": [
+        "compote",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pancake",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "icing sugar, for dusting",
+            "fruit comp\u00f4te",
+            "cr\u00e8me fra\u00eeche or sour cream"
+        ],
         "default": [
             "150g/5\u00bdoz plain flour",
             "1 tsp baking powder",
@@ -29,12 +36,13 @@
             "4 large free-range eggs",
             "600ml/20fl oz milk",
             "25g/1oz butter, melted"
-        ],
-        "To serve": [
-            "icing sugar, for dusting",
-            "fruit comp\u00f4te",
-            "cr\u00e8me fra\u00eeche or sour cream"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b069hr3q": "The Hairy Bikers' Northern Exposure"
     },
     "steps": [
         "Put the flour, baking powder, sugar and salt in a large bowl. Make a well in the centre and break in the eggs. Using a whisk, gradually work in all the flour until you have a thick batter. Then gradually pour in all the milk, whisking as you go, until it is all incorporated.",
@@ -43,8 +51,9 @@
         "Coat a roasting tray or baking dish with the melted butter and pour in the batter. Bake for around 30 minutes. It is ready when it is well risen and starting to turn a golden-brown, but still doughy underneath.",
         "To serve, dust with icing sugar, cut into 6 pieces and top each piece with fruit comp\u00f4te and cr\u00e8me fra\u00eeche."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Swap the fruit comp\u00f4te for jam, maple syrup or honey."
     ],
+    "title": "Finnish pancakes",
     "videos": "[p032tryt:p032trz1]"
 }

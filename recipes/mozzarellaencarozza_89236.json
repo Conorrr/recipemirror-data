@@ -1,26 +1,30 @@
 {
-    "title": "Mozzarella in carrozza",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "bread",
+        "chutney",
+        "pastry",
+        "sandwich"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "sea salt flakes",
+            "tomato chutney"
+        ],
         "default": [
             "8 slices white bread",
             "8 large fresh basil leaves",
@@ -29,11 +33,13 @@
             "2 tbsp flour, seasoned with salt and freshly ground black pepper",
             "2 free-range eggs, beaten with a splash of milk and seasoned with salt and freshly ground black pepper",
             "2 tbsp olive oil, for frying"
-        ],
-        "To serve": [
-            "sea salt flakes",
-            "tomato chutney"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Use a 10cm/4in pastry cutter to cut circles from the bread slices.",
@@ -46,8 +52,9 @@
         "Fry the sandwiches for 3-4 minutes each side, or until crisp and golden-brown all over.",
         "To serve, place two sandwiches onto each of four plates, sprinkle with sea salt flakes and serve with a dollop of tomato chutney."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mozzarella in carrozza",
     "videos": "[]"
 }

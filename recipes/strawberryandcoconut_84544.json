@@ -1,24 +1,28 @@
 {
-    "title": "Strawberry and coconut trifle",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "cake",
+        "custard",
+        "icing",
+        "jam",
+        "muffins",
+        "pie",
+        "sauce",
+        "trifle"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the coconut custard": [
@@ -29,6 +33,11 @@
             "1 vanilla pod, split, seeds scraped out",
             "200ml/7fl oz double cream, whipped until soft peaks form when the whisk is removed"
         ],
+        "For the topping": [
+            "100ml/3\u00bdfl oz whipping cream",
+            "100g/3\u00bdoz mascarpone cheese",
+            "50g/2oz desiccated coconut, toasted"
+        ],
         "For the trifle base": [
             "400g/14oz strawberries, hulled and chopped into large chunks",
             "50g/2oz icing sugar",
@@ -36,12 +45,13 @@
             "250g/9oz ready-made sponge cake (madeira cake, swiss roll or muffins)",
             "2 kiwi fruit, peeled and sliced",
             "250g/9oz strawberry jam"
-        ],
-        "For the topping": [
-            "100ml/3\u00bdfl oz whipping cream",
-            "100g/3\u00bdoz mascarpone cheese",
-            "50g/2oz desiccated coconut, toasted"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the coconut custard, whisk the egg yolks and sugar together in a bowl until pale and thickened. Add the flour and mix well.",
@@ -56,8 +66,9 @@
         "For the topping, whip cream the cream until stiff peaks form when the whisk is removed. Add the mascarpone and mix together gently, then spoon the mixture over the custard in the bowl.",
         "Finally, sprinkle the toasted coconut over the top and serve."
     ],
-    "howTos": [
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Strawberry and coconut trifle",
     "videos": "[]"
 }

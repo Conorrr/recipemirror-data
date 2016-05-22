@@ -1,23 +1,27 @@
 {
-    "title": "Traditional pie 'n' mash with parsley liquor",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "Fill-up on this authentic British dish of beef pie with a hearty suet pastry case and all the traditional trimmings.",
     "author": {
         "cliff_parisi": "Cliff Parisi"
     },
-    "show": {
-        "b00sy9ws": "The Hairy Bikers' Cook Off"
-    },
-    "tips": [
-        "If there's time, make the filling the day before assembling the pie to allow the flavours to come together."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Fill-up on this authentic British dish of beef pie with a hearty suet pastry case and all the traditional trimmings.",
+    "dishes": [
+        "bun",
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "making_pastry_lids"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -35,15 +39,6 @@
             "2 tbsp plain flour",
             "salt and freshly ground black pepper"
         ],
-        "For the suet pastry": [
-            "350g/12oz self-raising flour, plus extra for dusting",
-            "225g/8oz beef suet",
-            "large knob of butter, softened, for greasing"
-        ],
-        "For the pie crust": [
-            "450g/1lb ready-made shortcrust pastry, for the top of the pie",
-            "1 free-range egg yolk, lightly beaten"
-        ],
         "For the mashed potatoes": [
             "2 large potatoes (preferably Rooster or Nadine), peeled, cut into chunks",
             "100ml/3\u00bdfl oz hot milk",
@@ -57,9 +52,24 @@
             "generous bunch parsley, leaves only, chopped",
             "1-2 garlic cloves, roasted and pur\u00e9ed, to taste"
         ],
+        "For the pie crust": [
+            "450g/1lb ready-made shortcrust pastry, for the top of the pie",
+            "1 free-range egg yolk, lightly beaten"
+        ],
+        "For the suet pastry": [
+            "350g/12oz self-raising flour, plus extra for dusting",
+            "225g/8oz beef suet",
+            "large knob of butter, softened, for greasing"
+        ],
         "To serve": [
             "jellied eels"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 2",
+    "show": {
+        "b00sy9ws": "The Hairy Bikers' Cook Off"
     },
     "steps": [
         "For the filling, heat the olive oil in a large frying pan over a medium heat and fry the onion and garlic for five minutes or until softened. Add the mince and cook for five minutes, stirring occasionally, or until browned and cooked through.",
@@ -74,8 +84,9 @@
         "For the parsley liquor, melt the butter in a saucepan over a medium heat and whisk in the cornflour to make a paste. Gradually stir in the stock, bring to a simmer, then stir in the parsley and garlic and stir until thickened and smooth.",
         "Serve the hot pies with the mash, parsley liquor and jellied eels on the side."
     ],
-    "howTos": [
-        "making_pastry_lids"
+    "tips": [
+        "If there's time, make the filling the day before assembling the pie to allow the flavours to come together."
     ],
+    "title": "Traditional pie 'n' mash with parsley liquor",
     "videos": "[]"
 }

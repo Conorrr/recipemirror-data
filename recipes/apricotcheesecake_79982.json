@@ -1,24 +1,23 @@
 {
-    "title": "Apricot cheesecake",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "cake",
+        "cheesecake",
+        "icing",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "caramelising_sugar"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +30,12 @@
             "8 tinned apricot halves, drained and dried with kitchen paper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place the cream cheese, double cream, yoghurt, icing sugar and lemon juice into a large bowl and mix together well.",
         "Place a 15cm/6in chefs' ring in the centre of a large plate and add the ginger cake, pressing in firmly to form a base.",
@@ -38,8 +43,9 @@
         "Arrange the apricot halves on top, round-side facing up.",
         "To serve, carefully apply heat from a mini-blowtorch to the sides of the chefs' ring and lift away to reveal the cheesecake."
     ],
-    "howTos": [
-        "caramelising_sugar"
+    "tips": [
+        
     ],
+    "title": "Apricot cheesecake",
     "videos": "[]"
 }

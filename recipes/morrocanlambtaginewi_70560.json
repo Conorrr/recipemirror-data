@@ -1,26 +1,35 @@
 {
-    "title": "Moroccan lamb tagine with polenta chips",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "North_African",
+    "description": "",
+    "dishes": [
+        "chips",
+        "pie",
+        "stir-fries",
+        "stock",
+        "tagine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the relish": [
+            "2 oranges, segmented",
+            "1 red onion, finely chopped",
+            "1 red chilli, finely chopped",
+            "handful fresh coriander leaves",
+            "1 tbsp fresh mint leaves, shredded",
+            "55g/2oz pine nuts, lightly toasted, to serve"
+        ],
         "default": [
             "900g/2lb shoulder lamb",
             "600ml/1 pint chicken stock",
@@ -35,15 +44,13 @@
             "175g/6oz dried apricots",
             "\u00bd tsp ground black pepper",
             "3 large pieces orange peel"
-        ],
-        "For the relish": [
-            "2 oranges, segmented",
-            "1 red onion, finely chopped",
-            "1 red chilli, finely chopped",
-            "handful fresh coriander leaves",
-            "1 tbsp fresh mint leaves, shredded",
-            "55g/2oz pine nuts, lightly toasted, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Remove excess fat from the surface of the lamb and cut into 5cm/2 inch chunks.",
@@ -56,8 +63,9 @@
         "Add the reserved meat and the remaining tagine ingredients, including the stock. Bring to the boil, cover and simmer very gently for approximately two hours or until the meat is meltingly tender.",
         "Combine all the relish ingredients in a bowl. Sprinkle the pine nuts over the tagine and serve with the relish."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Moroccan lamb tagine with polenta chips",
     "videos": "[]"
 }

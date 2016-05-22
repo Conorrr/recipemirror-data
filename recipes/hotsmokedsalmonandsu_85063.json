@@ -1,23 +1,20 @@
 {
-    "title": "Hot-smoked salmon and sun-blushed tomato blinis",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "blini",
+        "jam"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "whisking_egg_whites"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -27,16 +24,16 @@
             "1\u00bd tbsp self-raising flour, sifted",
             "1 tbsp olive oil"
         ],
-        "For the sun-blushed tomato topping": [
-            "3 tbsp sun-blushed tomatoes, chopped",
-            "6 fresh basil leaves, torn",
-            "100ml/3\u00bdfl oz plain yoghurt",
-            "salt and freshly ground black pepper"
-        ],
         "For the hot-smoked salmon topping": [
             "85g/3oz hot-smoked salmon, flaked",
             "squeeze lemon juice",
             "1 spring onion, chopped",
+            "salt and freshly ground black pepper"
+        ],
+        "For the sun-blushed tomato topping": [
+            "3 tbsp sun-blushed tomatoes, chopped",
+            "6 fresh basil leaves, torn",
+            "100ml/3\u00bdfl oz plain yoghurt",
             "salt and freshly ground black pepper"
         ],
         "To serve": [
@@ -44,6 +41,12 @@
             "1 tbsp chopped fresh chives",
             "\u00bd lemon, cut into wedges"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 4",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the blinis, whisk the egg whites with an electric hand whisk until stiff peaks form when the whisk is removed.",
@@ -53,8 +56,9 @@
         "For the salmon topping, place the salmon, lemon juice and spring onion into a bowl. Mix well and season, to taste, with salt and freshly ground black pepper.",
         "To serve, place the blinis onto a plate and top two of them with the tomato topping and two with the salmon topping. Garnish the blinis with whole sun-blushed tomatoes, chives and lemon wedges."
     ],
-    "howTos": [
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Hot-smoked salmon and sun-blushed tomato blinis",
     "videos": "[]"
 }

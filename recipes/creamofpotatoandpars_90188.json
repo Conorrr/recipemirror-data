@@ -1,26 +1,39 @@
 {
-    "title": "Cream of potato and parsley soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "bun",
+        "pie",
+        "soup",
+        "stir-fries",
+        "stock",
+        "vegetable_soup"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the soup": [
+            "2 shallots, roughly chopped",
+            "1 clove garlic, roughly chopped",
+            "1 tbsp olive oil",
+            "600-850ml/1-1\u00bd pints fresh vegetable stock (you can also use vegetable stock cubes or chicken stock)",
+            "1-2 medium white potatoes, peeled and cut into cubes",
+            "salt and freshly ground black pepper",
+            "knob of butter",
+            "285ml/\u00bd pint single cream",
+            "large bunch curly leaf parsley"
+        ],
         "For the vegetable stock": [
             "1 tbsp olive oil",
             "\u00bd onion, diced",
@@ -33,18 +46,13 @@
             "1 stick celery, diced",
             "3 tomatoes, diced",
             "3-4 fresh parsley stalks, roughly torn"
-        ],
-        "For the soup": [
-            "2 shallots, roughly chopped",
-            "1 clove garlic, roughly chopped",
-            "1 tbsp olive oil",
-            "600-850ml/1-1\u00bd pints fresh vegetable stock (you can also use vegetable stock cubes or chicken stock)",
-            "1-2 medium white potatoes, peeled and cut into cubes",
-            "salt and freshly ground black pepper",
-            "knob of butter",
-            "285ml/\u00bd pint single cream",
-            "large bunch curly leaf parsley"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "To make the vegetable stock, add the olive oil to a heavy-bottomed pan or stockpot over a medium heat.",
@@ -61,8 +69,9 @@
         "For a very smooth soup, you can pass the soup through a sieve into a clean pan. If you like a slightly thinner soup, add a bit more vegetable stock until the soup has the desired consistency.",
         "Serve the soup in warm bowls with bread on the side, or top with a poached egg and a drizzle of truffle oil for a special meal."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Cream of potato and parsley soup",
     "videos": "[]"
 }

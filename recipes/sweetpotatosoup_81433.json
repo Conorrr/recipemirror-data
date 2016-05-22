@@ -1,24 +1,22 @@
 {
-    "title": "Sweet potato soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -35,6 +33,12 @@
             "15g/\u00bdoz spinach leaves, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil in a saucepan over a medium heat. Add the garlic and onion and fry for 3-4 minutes, until golden and softened.",
         "Add the chilli flakes and ground ginger and fry for one minute, then add the sweet potato and cook for 2-3 minutes.",
@@ -42,8 +46,9 @@
         "Remove from the heat and allow to cool slightly, then pour into a food processor and blend until smooth. Season, to taste, with salt and freshly ground black pepper.",
         "To serve, pour the soup into a warm bowl and garnish with the spinach leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sweet potato soup",
     "videos": "[]"
 }

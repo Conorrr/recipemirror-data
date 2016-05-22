@@ -1,33 +1,27 @@
 {
-    "title": "Rice pudding with raspberry coulis",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "icing",
+        "jam",
+        "pastry",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the rice pudding": [
-            "150g/5\u00bdoz cooked rice",
-            "100ml/3\u00bdfl oz double cream",
-            "1 tbsp caster sugar",
-            "30g/1oz butter",
-            "\u00bd vanilla pod, split and seeds scraped out"
-        ],
         "For the caramel topping": [
             "150g/5\u00bdoz caster sugar",
             "290ml/10fl oz warm water"
@@ -36,7 +30,20 @@
             "100g/3\u00bdoz raspberries",
             "30g/1oz icing sugar",
             "2 tbsp hot water"
+        ],
+        "For the rice pudding": [
+            "150g/5\u00bdoz cooked rice",
+            "100ml/3\u00bdfl oz double cream",
+            "1 tbsp caster sugar",
+            "30g/1oz butter",
+            "\u00bd vanilla pod, split and seeds scraped out"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "To make the rice pudding, put all the pudding ingredients into a small non-stick saucepan, stir well and cook over a gentle heat for 3 minutes. Discard the vanilla pod and pour into a small ovenproof dish and set aside.",
@@ -44,8 +51,9 @@
         "To make the coulis, put the raspberries, icing sugar and hot water into a mini blender and blitz until smooth.",
         "To serve, serve the rice pudding with the coulis in a jug on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Rice pudding with raspberry coulis",
     "videos": "[]"
 }

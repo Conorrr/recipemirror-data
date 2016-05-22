@@ -1,26 +1,31 @@
 {
-    "title": "Chashu pork ramen",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This ramen looks effortless in its assembly, but the key to its success is the slow-cooked intensely savoury Japanese-style stock coupled with full-flavoured braised pork and overnight marinated eggs.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b03vp3tt": "The Hairy Bikers' Asian Adventure"
-    },
-    "tips": [
-        "If you don\u2019t have any chashu pork, you could substitute it with leftover roast pork."
+    "cookTime": "less than 10 mins",
+    "cusine": "Japanese",
+    "description": "This ramen looks effortless in its assembly, but the key to its success is the slow-cooked intensely savoury Japanese-style stock coupled with full-flavoured braised pork and overnight marinated eggs.",
+    "dishes": [
+        "noodle_soup",
+        "slow-cooked_dishes",
+        "soup",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve (optional)": [
+            "Japanese shop-bought chilli oil",
+            "shichimi togarashi (Japanese seven-spice seasoning)",
+            "dried tuna flakes"
+        ],
         "default": [
             "750g/1lb 10oz ramen noodles (alternatively use udon noodles)",
             "drizzle sesame oil",
@@ -38,12 +43,13 @@
             "4 spring onion, cut on the diagonal",
             "1 long red chilli, finely sliced on a diagonal",
             "4 whole tomago eggs, halved"
-        ],
-        "To serve (optional)": [
-            "Japanese shop-bought chilli oil",
-            "shichimi togarashi (Japanese seven-spice seasoning)",
-            "dried tuna flakes"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b03vp3tt": "The Hairy Bikers' Asian Adventure"
     },
     "steps": [
         "Cook the noodles following the instructions on the packet. Once cooked, drain and drizzle with a little sesame oil to stop the noodles from sticking.",
@@ -54,8 +60,9 @@
         "Carefully half the eggs and place on the top of each serving.",
         "Serve at once with a drizzle of chilli oil, a sprinkling of shichimi togarashi (Japanese seven-spice seasoning) and a flourish of dried tuna flakes (if liked)."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If you don\u2019t have any chashu pork, you could substitute it with leftover roast pork."
     ],
+    "title": "Chashu pork ramen",
     "videos": "[p01t7phz:p01t7pj1]"
 }

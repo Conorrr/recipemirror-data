@@ -1,24 +1,27 @@
 {
-    "title": "Cumberland rum Nicky",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cumberland_rum_nicky_17799_16x9.jpg"
-    ],
-    "description": "This traditional northern treat is a real favourite of mine. It\u2019s stuffed with sticky dates and treacly brown sugar and laced with ginger and rum. \u2018Nicky\u2019 may stem from the original technique of covering the filling with a whole piece of pastry then making slashes or \u2018nicks\u2019 in it. Equipment and preparation: for this recipe you will need a 20cm/8in metal pie dish, about 3cm/1\u00bcin deep.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b03hcv64": "Paul Hollywood's Pies & Puds"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "This traditional northern treat is a real favourite of mine. It\u2019s stuffed with sticky dates and treacly brown sugar and laced with ginger and rum. \u2018Nicky\u2019 may stem from the original technique of covering the filling with a whole piece of pastry then making slashes or \u2018nicks\u2019 in it. Equipment and preparation: for this recipe you will need a 20cm/8in metal pie dish, about 3cm/1\u00bcin deep.",
+    "dishes": [
+        "bread",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "trimming_pastry_case",
+        "rolling_pastry"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cumberland_rum_nicky_17799_16x9.jpg"
     ],
     "ingredients": {
         "For the filling": [
@@ -29,18 +32,24 @@
             "50g/1\u00beoz soft dark brown sugar",
             "50g/1\u00beoz unsalted butter, cut into 1\u20132cm/\u00bd-\u00bein cubes"
         ],
+        "For the rum butter": [
+            "100g/3\u00bdoz unsalted butter, softened",
+            "225g/8oz soft light brown sugar",
+            "75ml/2\u00bdfl oz dark rum"
+        ],
         "For the sweet shortcrust pastry": [
             "200g/7oz plain flour",
             "2 tbsp icing sugar",
             "100g/3\u00bdoz unsalted butter, chilled and cut into 1cm/\u00bdin cubes",
             "1 free-range egg, lightly beaten",
             "1 tsp lemon juice"
-        ],
-        "For the rum butter": [
-            "100g/3\u00bdoz unsalted butter, softened",
-            "225g/8oz soft light brown sugar",
-            "75ml/2\u00bdfl oz dark rum"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 6-8",
+    "show": {
+        "b03hcv64": "Paul Hollywood's Pies & Puds"
     },
     "steps": [
         "Start by mixing all the filling ingredients, except the butter, together in a bowl. Set aside to soak while you make the pastry.",
@@ -54,9 +63,9 @@
         "Meanwhile, for the rum butter, beat together the butter and sugar, then gradually beat in the rum. Refrigerate until needed.",
         "Serve the tart warm or cold, with a spoonful of rum butter."
     ],
-    "howTos": [
-        "trimming_pastry_case",
-        "rolling_pastry"
+    "tips": [
+        
     ],
+    "title": "Cumberland rum Nicky",
     "videos": "[]"
 }

@@ -1,26 +1,31 @@
 {
-    "title": "Sweet and sour pork",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Cook up a flavourful sweet and sour sauce for deep-fried cubes of marinated pork. So much better than any takeaway.",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Cook up a flavourful sweet and sour sauce for deep-fried cubes of marinated pork. So much better than any takeaway.",
+    "dishes": [
+        "bread",
+        "ketchup",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the deep-fried seaweed": [
+            "2 bok choi, stalks removed, leaves finely shredded",
+            "1 tsp sugar",
+            "1 tsp salt",
+            "cooked basmati rice, to serve"
+        ],
         "For the pork": [
             "450g/1lb pork fillet, cut into 2cm/\u00bein cubes",
             "1 tbsp dry sherry",
@@ -43,13 +48,13 @@
             "1 tbsp cornflour",
             "1 tbsp orange juice",
             "salt and freshly ground pepper"
-        ],
-        "For the deep-fried seaweed": [
-            "2 bok choi, stalks removed, leaves finely shredded",
-            "1 tsp sugar",
-            "1 tsp salt",
-            "cooked basmati rice, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "In a bowl, mix the pork with the dry sherry, soy sauce, sesame oil, five-spice and pinch of salt. Leave to marinade in the fridge for 20 minutes.",
@@ -62,8 +67,9 @@
         "For the seaweed, deep-fry the shredded leaves for 1-2 minutes until bright green and crispy. Drain on a plate with kitchen roll and season with sugar and salt.",
         "To serve, place the sweet and sour pork in a shallow serving dish with the crispy seaweed on the top and the rice in a separate serving bowl."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sweet and sour pork",
     "videos": "[]"
 }

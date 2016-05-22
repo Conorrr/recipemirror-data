@@ -1,26 +1,30 @@
 {
-    "title": "Hot fish salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "2 tbsp soy sauce",
+            "1 lime, juice only",
+            "1 tsp sesame oil",
+            "2 tbsp sunflower oil"
+        ],
         "default": [
             "2 tbsp olive oil",
             "1 clove garlic, chopped",
@@ -31,13 +35,13 @@
             "20g/\u00beoz plain flour",
             "20g/\u00beoz corn flour",
             "oil for deep frying"
-        ],
-        "For the dressing": [
-            "2 tbsp soy sauce",
-            "1 lime, juice only",
-            "1 tsp sesame oil",
-            "2 tbsp sunflower oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat the oil in a pan and saut\u00e9 the garlic, yellow pepper, spring onion and sugar snap peas for 4-5 minutes to soften.",
@@ -45,8 +49,9 @@
         "To make the dressing, whisk together all the ingredients.",
         "Serve the vegetables on a plate and top with the fish. Drizzle with the dressing."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Hot fish salad",
     "videos": "[]"
 }

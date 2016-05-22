@@ -1,39 +1,41 @@
 {
-    "title": "Fillet steak with red wine sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "150g/5\u00bdoz beef fillet steak",
-            "2 asparagus spears",
-            "1 tsp olive oil",
-            "salt and freshly ground black pepper"
-        ],
         "For the pepper sauce": [
             "55ml/2fl oz red wine",
             "1 tbsp Worcestershire sauce",
             "1 tsp Dijon mustard",
             "55ml/2fl oz double cream",
             "\u00bdtsp freshly ground black pepper"
+        ],
+        "default": [
+            "150g/5\u00bdoz beef fillet steak",
+            "2 asparagus spears",
+            "1 tsp olive oil",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Cut a pocket into the fillet steak and stuff with the asparagus spears. Rub the steak with olive oil, salt and freshly ground black pepper, to taste.",
@@ -41,8 +43,9 @@
         "Meanwhile, to make the sauce, place the wine, Worcestershire sauce, mustard, cream and pepper in a small saucepan. Bring to the boil and reduce for five minutes, or until thick.",
         "Serve the steak with the sauce poured over."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fillet steak with red wine sauce",
     "videos": "[]"
 }

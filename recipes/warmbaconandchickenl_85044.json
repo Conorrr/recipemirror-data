@@ -1,26 +1,32 @@
 {
-    "title": "Warm bacon and chicken liver salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "ciabatta",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "3 tbsp olive oil",
+            "1 tbsp Dijon mustard",
+            "\u00bd lemon, juice only",
+            "1 garlic clove, crushed",
+            "1 tsp clear honey",
+            "salt and freshly ground black pepper"
+        ],
         "For the salad": [
             "200g/7oz chicken livers, trimmed",
             "2 tbsp plain flour",
@@ -30,15 +36,13 @@
             "50g/1\u00beoz bacon lardons",
             "salt and freshly ground black pepper",
             "handful mixed herbs, such as parsley, chives, basil"
-        ],
-        "For the dressing": [
-            "3 tbsp olive oil",
-            "1 tbsp Dijon mustard",
-            "\u00bd lemon, juice only",
-            "1 garlic clove, crushed",
-            "1 tsp clear honey",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the chicken livers, wipe the livers with kitchen paper, then coat them with the flour and shake off any excess.",
@@ -49,8 +53,9 @@
         "Add the herbs to the bowl with the dressing and stir well to coat the leaves.",
         "To serve, place the dressed herbs onto a plate with the chicken livers, bacon and ciabatta cubes on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Warm bacon and chicken liver salad",
     "videos": "[]"
 }

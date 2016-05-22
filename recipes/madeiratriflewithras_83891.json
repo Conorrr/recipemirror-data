@@ -1,32 +1,27 @@
 {
-    "title": "Madeira trifle with raspberries",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "cake",
+        "custard",
+        "jam",
+        "stir-fries",
+        "trifle"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "70g/3oz raspberry jam",
-            "225g/8oz madeira cake, sliced",
-            "200g/7oz fresh raspberries",
-            "150ml/5fl oz madeira wine"
-        ],
         "For the custard": [
             "570ml/1 pint milk",
             "1 vanilla pod split",
@@ -37,7 +32,19 @@
         "To serve": [
             "400ml/14fl oz double cream",
             "25g/1oz toasted flaked almonds"
+        ],
+        "default": [
+            "70g/3oz raspberry jam",
+            "225g/8oz madeira cake, sliced",
+            "200g/7oz fresh raspberries",
+            "150ml/5fl oz madeira wine"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 8",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Spread the jam over the slices of madeira cake and place in the bottom of a large glass dish, or divide evenly between six tall glasses.",
@@ -47,8 +54,9 @@
         "Whip the double cream. Pipe or spread the double cream over the top.",
         "Refrigerate overnight, and sprinkle with the toasted flaked almonds just before serving."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Madeira trifle with raspberries",
     "videos": "[]"
 }

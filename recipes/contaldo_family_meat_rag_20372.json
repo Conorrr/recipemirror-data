@@ -1,26 +1,34 @@
 {
-    "title": "Contaldo family meat rag\u00f9",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "24",
-    "images": [
-        
-    ],
-    "description": "An authentic Italian tomato sauce for pasta is full of sweet pork, rich beef and spicy sausage. A real feast!",
     "author": {
         "gennaro_contaldo": "Gennaro Contaldo"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Italian",
+    "description": "An authentic Italian tomato sauce for pasta is full of sweet pork, rich beef and spicy sausage. A real feast!",
+    "dishes": [
+        "pasta",
+        "ragu",
+        "salad",
+        "sauce",
+        "sausage",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the salad": [
+            "3 tbsp extra virgin olive oil",
+            "1 lemon, juice only",
+            "2 Little Gem lettuces, leaves separated",
+            "1 handful fris\u00e9e leaves, torn"
+        ],
         "default": [
             "5 tbsp extra virgin olive oil",
             "1 small onion, finely chopped",
@@ -36,13 +44,13 @@
             "salt and freshly ground black pepper",
             "25g/1oz parmesan, grated",
             "400g/14oz large rigatoni pasta, cooked according to packet instructions"
-        ],
-        "For the salad": [
-            "3 tbsp extra virgin olive oil",
-            "1 lemon, juice only",
-            "2 Little Gem lettuces, leaves separated",
-            "1 handful fris\u00e9e leaves, torn"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "24",
+    "serves": "Serves 4-6",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Heat the extra virgin olive oil in a large saucepan, then add the onion, carrot, basil and bay leaves and fry gently over a medium heat until the onion has softened slightly.",
@@ -55,8 +63,9 @@
         "For the salad, whisk together the olive oil and the lemon juice in a small bowl. Place the lettuce leaves into a serving bowl and toss the salad with the dressing.",
         "To serve, ladle the pasta into four serving bowls, top with the meat and serve the salad alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Contaldo family meat rag\u00f9",
     "videos": "[]"
 }

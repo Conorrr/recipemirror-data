@@ -1,26 +1,29 @@
 {
-    "title": "Lemon iced buns",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 8 buns",
-    "recommendations": "13",
-    "images": [
-        
-    ],
-    "description": "Bake a batch of these sweet, sticky buns with a hint of lemon. They\u2019re perfect for afternoon tea.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Bake a batch of these sweet, sticky buns with a hint of lemon. They\u2019re perfect for afternoon tea.",
+    "dishes": [
+        "bun",
+        "icing",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading",
+        "knocking_back"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the icing": [
+            "50g/2oz icing sugar, sifted",
+            "\u00bd lemon, juice only"
+        ],
         "default": [
             "250g/9oz strong white flour, sifted",
             "250g/9oz plain flour, sifted",
@@ -33,11 +36,13 @@
             "1 free-range egg, beaten",
             "50g/2oz butter, cut into cubes",
             "vegetable oil, for greasing"
-        ],
-        "For the icing": [
-            "50g/2oz icing sugar, sifted",
-            "\u00bd lemon, juice only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "13",
+    "serves": "Makes 8 buns",
+    "show": {
+        
     },
     "steps": [
         "Place the flours, water, milk, yeast, salt, sugar and lemon zest into a large bowl and mix with a fork until combined. Add the beaten egg and butter and continue to mix until the mixture comes together as a sticky dough.",
@@ -51,9 +56,9 @@
         "Meanwhile for the icing, mix the icing sugar and lemon juice together in a bowl until smooth.",
         "Once the buns have completely cooled, spread the icing on top of them and set aside until the icing has hardened."
     ],
-    "howTos": [
-        "kneading",
-        "knocking_back"
+    "tips": [
+        
     ],
+    "title": "Lemon iced buns",
     "videos": "[]"
 }

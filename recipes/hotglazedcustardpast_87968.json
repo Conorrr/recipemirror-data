@@ -1,37 +1,43 @@
 {
-    "title": "Hot glazed custard pastry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "phil_vickery": "Phil Vickery"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "custard",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "200g/7oz ready-rolled puff pastry",
-            "1 free-range egg white",
-            "250g/9oz icing sugar, plus extra for dusting"
-        ],
         "For the custard": [
             "2 free-range egg yolks",
             "4 tbsp caster sugar",
             "450ml/16fl oz milk",
             "1 vanilla pod, split"
+        ],
+        "default": [
+            "200g/7oz ready-rolled puff pastry",
+            "1 free-range egg white",
+            "250g/9oz icing sugar, plus extra for dusting"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -40,8 +46,9 @@
         "Heat the milk with the vanilla pod in a pan until it reaches boiling point. Remove the vanilla pod. Pour the hot milk onto the eggs and whisk well. Pour the mixture into a clean pan and stir over a low heat until thickened.",
         "To serve, place a slice of pastry onto a serving plate and pour over some custard. Layer up the remaining pastry slices and custard. Dust with icing sugar."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Hot glazed custard pastry",
     "videos": "[]"
 }

@@ -1,37 +1,42 @@
 {
-    "title": "Quince and orange tart",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ainsley_harriott": "Ainsley Harriott"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "icing",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "segmenting_citrus_fruit",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "100g/3\u00bdoz Greek yoghurt",
+            "zest of 1 orange",
+            "icing sugar, for dusting"
+        ],
         "default": [
             "3 sheets ready-made filo pastry, cut into 15cm/6in circles",
             "55g/2oz butter, melted",
             "55g/2oz quince paste",
             "1 orange, peeled, pith removed and segmented"
-        ],
-        "To serve": [
-            "100g/3\u00bdoz Greek yoghurt",
-            "zest of 1 orange",
-            "icing sugar, for dusting"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 225C/440F/Gas 7.",
@@ -41,9 +46,9 @@
         "Meanwhile, mix the yoghurt with the orange zest.",
         "Remove the tart from the oven when cooked and transfer to a warm plate. Dust with icing sugar and serve with the orange yoghurt."
     ],
-    "howTos": [
-        "segmenting_citrus_fruit",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Quince and orange tart",
     "videos": "[]"
 }

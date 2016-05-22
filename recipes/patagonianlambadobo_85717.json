@@ -1,26 +1,26 @@
 {
-    "title": "Patagonian lamb adobo",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "mashed potatoes",
+            "roasted root vegetables (such as carrots, parsnips or swede)"
+        ],
         "default": [
             "20g/\u00beoz dried porcini mushrooms, soaked",
             "2 tsp red wine vinegar",
@@ -34,11 +34,13 @@
             "\u00bd tsp freshly ground black pepper",
             "250g/9oz thin streaky bacon or pancetta",
             "2 lamb loin fillets, trimmed"
-        ],
-        "To serve": [
-            "mashed potatoes",
-            "roasted root vegetables (such as carrots, parsnips or swede)"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 180C/355F/Gas 4.",
@@ -50,8 +52,9 @@
         "Remove the fillets from the oven and allow to rest in a warm place for 5-10 minutes.",
         "To serve, slice the wrapped fillets on the diagonal and place onto warmed plates. Serve with mashed potatoes and root vegetables alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Patagonian lamb adobo",
     "videos": "[]"
 }

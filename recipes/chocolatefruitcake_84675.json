@@ -1,24 +1,23 @@
 {
-    "title": "Chocolate fruit cake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 12",
-    "recommendations": "45",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolatefruitcake_84675_16x9.jpg"
-    ],
-    "description": "The prunes in this easy Christmas cake ensure that it is dark, moist and squidgy - but what makes it really special is the chocolate.",
     "author": {
         "nigella_lawson": "Nigella Lawson"
     },
-    "show": {
-        "b00g9kvg": "Nigella's Christmas Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "The prunes in this easy Christmas cake ensure that it is dark, moist and squidgy - but what makes it really special is the chocolate.",
+    "dishes": [
+        "cake",
+        "christmas_cake",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolatefruitcake_84675_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -44,6 +43,12 @@
             "approx 10 gold stars"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "45",
+    "serves": "Serves 12",
+    "show": {
+        "b00g9kvg": "Nigella's Christmas Kitchen"
+    },
     "steps": [
         "Preheat the oven to 150C/300F/Gas mark 2.",
         "Line the sides and bottom of a 20cm/8in, 9cm/3\u00bdin deep, round loose-bottomed cake tin with a layer of bake-o-glide or other reusable silicon-baking parchment. When lining the tin with the bake-o-glide, cut the material into strips that are twice as high as the tin itself (it\u2019s easier to use two shorter strips of bake-o-glide, than one long strip); the height of the strips protects the cake from catching on the outside of the cake tin.",
@@ -53,8 +58,9 @@
         "Place the cake on a cooling rack. Once the cake has cooled, remove it from the tin.",
         "To decorate, place the chocolate covered coffee beans in the centre of the cake and arrange the gold starts around the perimeter of the top of the cake. Then sprinkle some gold mini-balls over the whole of the cake. Sprinkle the Disco Gold Hologram Glitter over the top of the cake."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chocolate fruit cake",
     "videos": "[]"
 }

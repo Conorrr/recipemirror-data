@@ -1,26 +1,37 @@
 {
-    "title": "Rum babas",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/rum_babas_served_with_48561_16x9.jpg"
-    ],
-    "description": "Impress your guests with this rum-soaked, retro classic. You will need four 11cm/4\u00bdin baba tins (savarin moulds). Alternatively you can use small dariole moulds.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Impress your guests with this rum-soaked, retro classic. You will need four 11cm/4\u00bdin baba tins (savarin moulds). Alternatively you can use small dariole moulds.",
+    "dishes": [
+        "cake",
+        "icing",
+        "oven-baked_dishes",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/rum_babas_served_with_48561_16x9.jpg"
+    ],
     "ingredients": {
+        "For the Chantilly cream": [
+            "250ml/9fl oz double cream",
+            "100g/3\u00bd oz icing sugar",
+            "1 vanilla pod, seeds only",
+            "fresh fruit, for garnish"
+        ],
+        "For the syrup": [
+            "250g/9oz caster sugar",
+            "3-4 tbsp dark rum"
+        ],
         "default": [
             "220g/8oz strong flour",
             "1 x 7g sachet fast action yeast",
@@ -29,17 +40,13 @@
             "2 medium eggs",
             "70ml/4\u00bd tbsp milk",
             "100g/3\u00bdoz butter, softened"
-        ],
-        "For the syrup": [
-            "250g/9oz caster sugar",
-            "3-4 tbsp dark rum"
-        ],
-        "For the Chantilly cream": [
-            "250ml/9fl oz double cream",
-            "100g/3\u00bd oz icing sugar",
-            "1 vanilla pod, seeds only",
-            "fresh fruit, for garnish"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Place the flour in a large bowl. Place the yeast on one side of the bowl and the salt on the other side. (Make sure the salt is not placed on top of the yeast, as it can kill it, making it inactive). Add the sugar and stir everything together with a spoon until evenly mixed.",
@@ -60,8 +67,9 @@
         "Meanwhile for the Chantilly cream, whip the cream with the icing sugar and vanilla seeds. The cream must be firm enough to pipe and hold its shape on top of the babas. Transfer the cream to a piping bag and keep in the fridge until needed. Prepare the fruit as necessary.",
         "To serve, pipe the Chantilly cream, using a star nozzle, into the middle of the babas. Garnish with the mixed fruit."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Rum babas",
     "videos": "[]"
 }

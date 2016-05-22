@@ -1,24 +1,25 @@
 {
-    "title": "Schichttorte",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8-10",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/_schichttorte_49934_16x9.jpg"
-    ],
-    "description": "This German 20-layer cake is cooked under the grill with the most watchful of eyes - namely, Paul Hollywood's!",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "This German 20-layer cake is cooked under the grill with the most watchful of eyes - namely, Paul Hollywood's!",
+    "dishes": [
+        "cake",
+        "icing",
+        "jam",
+        "pastry",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "whisking_egg_whites"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/_schichttorte_49934_16x9.jpg"
     ],
     "ingredients": {
         "For the cake": [
@@ -46,6 +47,12 @@
             "1-2 tbsp milk"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 8-10",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
+    },
     "steps": [
         "Whisk the egg yolks in the bowl of a freestanding mixer on a high speed for five minutes, until pale, thick and creamy.",
         "In a separate bowl, beat the butter and sugar together until pale and creamy. Add the lemon zest and vanilla paste and mix well. Add the whisked egg yolks and beat well. Add the flour and cornflour and mix.",
@@ -60,8 +67,9 @@
         "Place a large piece of greaseproof paper under the wire rack holding the cake. Pour the glaze evenly over the cake to cover completely. Any excess glaze will be caught on the greaseproof paper and can be reused to fill in any unglazed areas of the cake.",
         "For the vanilla glaze, sieve the icing sugar into a bowl. Add the rum, vanilla paste and milk, stirring until completely smooth. Drizzle over the chocolate glaze."
     ],
-    "howTos": [
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Schichttorte",
     "videos": "[]"
 }

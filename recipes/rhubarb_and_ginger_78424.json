@@ -1,26 +1,35 @@
 {
-    "title": "Rhubarb and ginger pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A moist ginger sponge topped with tangy stewed rhubarb and served with cr\u00e8me anglaise.",
     "author": {
         "brendan_lynch": "Brendan Lynch"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "A moist ginger sponge topped with tangy stewed rhubarb and served with cr\u00e8me anglaise.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "sponge_pudding",
+        "stew",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cr\u00e8me anglaise": [
+            "1 vanilla pod",
+            "250ml/9fl oz of double cream",
+            "250ml/9fl oz of full-fat milk",
+            "6 free-range eggs, yolks only",
+            "75g/2 2/3oz caster sugar"
+        ],
         "For the pudding": [
             "200g/7oz rhubarb, chopped into 1\u00bd \u2013 2 cm lengths",
             "2 tbsp blackcurrant cordial",
@@ -33,14 +42,13 @@
             "2 tsp ground ginger",
             "175g/6oz self-raising flour",
             "125g/4\u00bdoz crystallised ginger, chopped into small pieces"
-        ],
-        "For the cr\u00e8me anglaise": [
-            "1 vanilla pod",
-            "250ml/9fl oz of double cream",
-            "250ml/9fl oz of full-fat milk",
-            "6 free-range eggs, yolks only",
-            "75g/2 2/3oz caster sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 6",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Grease six metal pudding moulds and line the bottoms with a small circle of parchment paper.",
@@ -50,8 +58,9 @@
         "To make the cr\u00e8me anglaise, scrape out the seeds from the vanilla pod. In a pan set over a medium heat bring the vanilla seeds, cream and milk to the boil. In a medium-sized bowl, beat the egg yolks and caster sugar together with a whisk. Gradually pour in the hot milk and whisk to incorporate. Transfer to a clean saucepan and cook over a low heat, constantly stirring until it starts to thicken. As soon as it is thick enough to coat the back of a wooden spoon, strain through a fine sieve into a serving jug.",
         "To serve, run a small sharp knife round the inside of each mould and turn the puddings out onto serving plates. Pour over the cr\u00e8me anglaise."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Rhubarb and ginger pudding",
     "videos": "[]"
 }

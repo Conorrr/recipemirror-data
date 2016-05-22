@@ -1,23 +1,21 @@
 {
-    "title": "Duck rillettes",
-    "cookTime": "no cooking required",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "jam",
+        "rillettes"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -27,6 +25,12 @@
             "5 tbsp roughly chopped flatleaf parsley"
         ]
     },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "Remove all of the meat from the duck legs, discarding skin, bone and tendons.",
         "Place the duck meat into a bowl and mash with a fork.",
@@ -35,8 +39,9 @@
         "Spoon the mixture into four small ramekins and place in the fridge to set.",
         "Remove from the fridge ten minutes before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Duck rillettes",
     "videos": "[]"
 }

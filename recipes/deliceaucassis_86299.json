@@ -1,39 +1,39 @@
 {
-    "title": "Delice au cassis",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4-6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b00728v4": "Sweet Baby James"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "custard",
+        "jam",
+        "meringue",
+        "mousse",
+        "sorbet",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "folding",
+        "how_to_make_italian_meringue",
+        "skimming_stock"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sorbet syrup": [
-            "190g/7oz sugar",
-            "165ml/5\u00bdfl oz water",
-            "1 tbsp liquid glucose"
-        ],
-        "For the blackcurrant pur\u00e9e": [
-            "350g/12oz blackcurrants",
-            "50ml/2fl oz sorbet syrup (see above)"
-        ],
         "For the Italian meringue": [
             "60g/2\u00bdoz sugar",
             "5 tsp water",
             "1 free-range egg white"
+        ],
+        "For the base": [
+            "\u00bd ready-made round sponge flan base, cut horizontally",
+            "50ml/2fl oz sorbet syrup (see above)",
+            "1 tbsp blackcurrant pur\u00e9e (see above)"
         ],
         "For the blackcurrant mousse": [
             "4\u00bd gelatine leaves",
@@ -47,17 +47,27 @@
             "200ml/7fl oz cr\u00e8me de cassis",
             "400ml/14fl oz double cream, lightly whipped until ribbons form"
         ],
-        "For the base": [
-            "\u00bd ready-made round sponge flan base, cut horizontally",
-            "50ml/2fl oz sorbet syrup (see above)",
-            "1 tbsp blackcurrant pur\u00e9e (see above)"
+        "For the blackcurrant pur\u00e9e": [
+            "350g/12oz blackcurrants",
+            "50ml/2fl oz sorbet syrup (see above)"
         ],
         "For the glaze": [
             "3 gelatine leaves",
             "cold water, to soak",
             "50ml/2fl oz sorbet syrup (see above)",
             "3 tbsp blackcurrant pur\u00e9e (see above)"
+        ],
+        "For the sorbet syrup": [
+            "190g/7oz sugar",
+            "165ml/5\u00bdfl oz water",
+            "1 tbsp liquid glucose"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "1",
+    "serves": "Serves 4-6",
+    "show": {
+        "b00728v4": "Sweet Baby James"
     },
     "steps": [
         "For the syrup, place all the syrup ingredients into a pan and bring to the boil, stirring occasionally with a wooden spoon. Boil for about 2-3 minutes, skimming the surface if necessary. Pass the syrup through a conical strainer and leave until completely cold before using. What you don't use for this recipe can be stored for several months.",
@@ -75,10 +85,9 @@
         "For the glaze, soak the gelatine leaves in cold water for 15 minutes, then drain well. Place 50ml/2fl oz of the syrup and the remaining three tablespoons of blackcurrant pur\u00e9e into a pan and heat gently, then remove from the heat and stir in the gelatine. Leave to cool, then spread the glaze over the top of the mousse. Place into the fridge to chill before serving.",
         "To serve, remove the tart ring by heating the outside of the ring with a blowtorch for a few seconds, then slide the ring upwards, rotating it slightly."
     ],
-    "howTos": [
-        "folding",
-        "how_to_make_italian_meringue",
-        "skimming_stock"
+    "tips": [
+        
     ],
+    "title": "Delice au cassis",
     "videos": "[]"
 }

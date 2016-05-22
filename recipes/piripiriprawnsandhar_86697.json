@@ -1,38 +1,27 @@
 {
-    "title": "Piri-piri prawns and harissa couscous",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "4",
-    "recommendations": "26",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/piripiriprawnsandhar_86697_16x9.jpg"
-    ],
-    "description": "Note: If the baharat spice mix is unavailable, make your own blend of black pepper, paprika, ground cumin, ground coriander, freshly grated nutmeg and ground cinnamon and keep the unused spice blend in an airtight jar.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Portuguese",
+    "description": "Note: If the baharat spice mix is unavailable, make your own blend of black pepper, paprika, ground cumin, ground coriander, freshly grated nutmeg and ground cinnamon and keep the unused spice blend in an airtight jar.",
+    "dishes": [
+        "bun",
+        "jam",
+        "piri-piri",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/piripiriprawnsandhar_86697_16x9.jpg"
+    ],
     "ingredients": {
-        "For the piri-piri prawns": [
-            "2 red chillies, seeds removed, roughly chopped",
-            "1 dried chilli, roughly chopped",
-            "\u00bd lemon, juice only",
-            "3 garlic cloves, peeled",
-            "1 tbsp sweet smoked paprika",
-            "4 tbsp olive oil",
-            "1 tbsp red wine vinegar",
-            "1 tsp sea salt",
-            "\u00bd tsp freshly ground black pepper",
-            "12 very large prawns, shells removed but tails left on, cleaned"
-        ],
         "For the couscous": [
             "200g/7oz wholegrain couscous",
             "400ml/14fl oz boiling water",
@@ -44,7 +33,25 @@
             "1 pomegranate, fleshy seeds only",
             "1 small bunch coriander, roughly chopped",
             "1 lemon, quartered, to serve"
+        ],
+        "For the piri-piri prawns": [
+            "2 red chillies, seeds removed, roughly chopped",
+            "1 dried chilli, roughly chopped",
+            "\u00bd lemon, juice only",
+            "3 garlic cloves, peeled",
+            "1 tbsp sweet smoked paprika",
+            "4 tbsp olive oil",
+            "1 tbsp red wine vinegar",
+            "1 tsp sea salt",
+            "\u00bd tsp freshly ground black pepper",
+            "12 very large prawns, shells removed but tails left on, cleaned"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "26",
+    "serves": "4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the piri-piri prawns, place all the ingredients except the prawns into a food processor and blend until smooth.",
@@ -54,8 +61,9 @@
         "Remove the cling film and fluff up with a fork. Add the red onion, fleshy pomegranate seeds and coriander and mix well.",
         "To serve, place three prawns onto each plate with a pile of couscous. Drizzle over the reserved piri-piri sauce and a squeeze of lemon."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Piri-piri prawns and harissa couscous",
     "videos": "[]"
 }

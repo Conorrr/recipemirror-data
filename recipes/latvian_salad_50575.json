@@ -1,26 +1,36 @@
 {
-    "title": "Latvian salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "The creamy, tangy dressing and chopped herbs are the stars of this Latvian salad. You can swap the vegetables to your taste, swapping beetroot for tomato, for example. If you can\u2019t find Latvian cheese, feta works perfectly well as a substitute.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b069hr3q": "The Hairy Bikers' Northern Exposure"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "East_European",
+    "description": "The creamy, tangy dressing and chopped herbs are the stars of this Latvian salad. You can swap the vegetables to your taste, swapping beetroot for tomato, for example. If you can\u2019t find Latvian cheese, feta works perfectly well as a substitute.",
+    "dishes": [
+        "bun",
+        "salad",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "100ml/3\u00bdfl oz buttermilk",
+            "1 tbsp sour cream",
+            "1 tbsp lemon juice or wine vinegar",
+            "\u00bd garlic clove, crushed or finely chopped",
+            "1 tsp honey",
+            "salt and freshly ground black pepper"
+        ],
+        "To garnish": [
+            "1 pomegranate, seeds only"
+        ],
         "default": [
             "100g/3\u00bdoz barley, rinsed",
             "1 tbsp olive oil",
@@ -33,18 +43,13 @@
             "small bunch of mint, leaves only",
             "100g/3\u00bdoz crumbly Latvian cheese or feta",
             "50g/2oz walnuts, lightly toasted"
-        ],
-        "For the dressing": [
-            "100ml/3\u00bdfl oz buttermilk",
-            "1 tbsp sour cream",
-            "1 tbsp lemon juice or wine vinegar",
-            "\u00bd garlic clove, crushed or finely chopped",
-            "1 tsp honey",
-            "salt and freshly ground black pepper"
-        ],
-        "To garnish": [
-            "1 pomegranate, seeds only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b069hr3q": "The Hairy Bikers' Northern Exposure"
     },
     "steps": [
         "Put the barley in a saucepan, cover with cold water. Season with salt and bring to the boil. Simmer for around 30 minutes until the barley is just cooked through \u2013 it should still have a bite. Drain, drizzle with the olive oil and leave to cool.",
@@ -53,8 +58,9 @@
         "Arrange the salad leaves on a large platter. Add the beans, radishes and beetroot, then sprinkle over the herbs, barley, cheese and walnuts, tossing very slightly to combine well.",
         "Drizzle over the salad dressing, garnish with the pomegranate seeds and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Latvian salad",
     "videos": "[p031llk8:p031llkc]"
 }

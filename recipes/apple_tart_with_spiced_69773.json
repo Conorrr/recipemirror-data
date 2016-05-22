@@ -1,26 +1,37 @@
 {
-    "title": "Apple tart with spiced caramel sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "These pretty apple tarts belie just how quick and easy they are to make. Perfect for dinner parties.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b03lsr84": "Christmas Kitchen with James Martin"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "These pretty apple tarts belie just how quick and easy they are to make. Perfect for dinner parties.",
+    "dishes": [
+        "caramel",
+        "fruit_tart",
+        "jam",
+        "marzipan",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the spiced caramel sauce": [
+            "150g/5\u00bdoz caster sugar",
+            "2 star anise",
+            "\u00bd tsp cloves",
+            "\u00bc tsp freshly grated nutmeg",
+            "\u00bd tsp juniper berries",
+            "175ml/6fl oz double cream"
+        ],
         "For the tart": [
             "450g/1lb all-butter puff pastry",
             "1 free-range egg yolk, beaten",
@@ -29,15 +40,13 @@
             "50g/1\u00beoz butter",
             "4 tbsp clear honey",
             "vanilla ice cream, to serve"
-        ],
-        "For the spiced caramel sauce": [
-            "150g/5\u00bdoz caster sugar",
-            "2 star anise",
-            "\u00bd tsp cloves",
-            "\u00bc tsp freshly grated nutmeg",
-            "\u00bd tsp juniper berries",
-            "175ml/6fl oz double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b03lsr84": "Christmas Kitchen with James Martin"
     },
     "steps": [
         "Preheat the oven to 210C/425F/Gas 7.",
@@ -51,8 +60,9 @@
         "Cook for 3-5 minutes, or until just thickened, then pass through a fine sieve into a clean pan.",
         "To serve, place the tarts in the centre of serving plates and spoon the sauce around the edge. Finish with a spoonful of ice cream on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Apple tart with spiced caramel sauce",
     "videos": "[]"
 }

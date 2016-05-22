@@ -1,26 +1,38 @@
 {
-    "title": "Lamb seekh kebab",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Cooked simply on a barbeque these kebabs are great as starters or as a filling for a wrap. This dish shows two ways with lamb kebab, one tandoori style from Amritsar and the other from Lahore. Equipment and preparation: for this recipe you will need six bamboo skewers which have been soaked in water for a few hours.",
     "author": {
         "vivek_singh": "Vivek Singh"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "Cooked simply on a barbeque these kebabs are great as starters or as a filling for a wrap. This dish shows two ways with lamb kebab, one tandoori style from Amritsar and the other from Lahore. Equipment and preparation: for this recipe you will need six bamboo skewers which have been soaked in water for a few hours.",
+    "dishes": [
+        "bread",
+        "chutney",
+        "kebab",
+        "pie",
+        "salad",
+        "wraps"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the green coriander chutney": [
+            "100g/3\u00bdoz coriander leaves and stalks, washed thoroughly to remove any grit",
+            "20g/1oz mint leaves, stalks removed (optional)",
+            "3 garlic cloves, peeled",
+            "3 Thai green chillies, stalks removed",
+            "3 tbsp vegetable oil",
+            "1 tsp salt",
+            "\u00bd tsp sugar",
+            "1 lemon, juice only"
+        ],
         "For the kebab": [
             "2 green chillies, stalk removed, broken",
             "2 tbsp chopped fresh coriander (stem, stalk and leaves)",
@@ -39,21 +51,17 @@
             "1 large tomato, sliced into 3-4mm thick slices",
             "1 tbsp chopped fresh coriander (stem, stalk and leaves)"
         ],
-        "For the green coriander chutney": [
-            "100g/3\u00bdoz coriander leaves and stalks, washed thoroughly to remove any grit",
-            "20g/1oz mint leaves, stalks removed (optional)",
-            "3 garlic cloves, peeled",
-            "3 Thai green chillies, stalks removed",
-            "3 tbsp vegetable oil",
-            "1 tsp salt",
-            "\u00bd tsp sugar",
-            "1 lemon, juice only"
-        ],
         "To serve": [
             "salad greens, to serve",
             "1 pomegranate, seeds removed",
             "naan breads, to serve (optional)"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the kebab, put all the ingredients except the mince in a food processor. Blend until thoroughly combined then add the mince and pulse briefly - this will maintain the texture of the meat. Alternatively, mix all the ingredients together in a bowl and pass through a mincer.",
@@ -69,8 +77,9 @@
         "Cook the meat patties on a hot grill pan or barbeque for 3-4 minutes, vegetable side first, then turn over and cook another 2-3 minutes.",
         "Rest the kebabs for a few of minutes then serve with the green coriander chutney, salad leaves and pomegranate seeds. Or serve in naan breads to make wraps."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb seekh kebab",
     "videos": "[]"
 }

@@ -1,24 +1,23 @@
 {
-    "title": "Vegetarian chilli",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4-6",
-    "recommendations": "66",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/vegetarianchilli_6544_16x9.jpg"
-    ],
-    "description": "This tasty vegetarian chilli is packed with lentils, vegetables and beans. Serve with rice, guacamole and soured cream. Each serving provides 265kcal, 15g protein, 33g carbohydrate (of which 12g sugars), 5g fat (of which 1g saturates), 12g fibre and 0.4g salt.",
     "author": {
         "the_vegetarian_society": "The Vegetarian Society"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This tasty vegetarian chilli is packed with lentils, vegetables and beans. Serve with rice, guacamole and soured cream. Each serving provides 265kcal, 15g protein, 33g carbohydrate (of which 12g sugars), 5g fat (of which 1g saturates), 12g fibre and 0.4g salt.",
+    "dishes": [
+        "guacamole",
+        "sauce",
+        "stock",
+        "veggie_chilli"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/vegetarianchilli_6544_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -40,6 +39,12 @@
             "1 can kidney beans, drained"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "66",
+    "serves": "Serves 4-6",
+    "show": {
+        
+    },
     "steps": [
         "Place the green lentils in a large bowl and pour boiling water over them. Leave to soak for 30 minutes. (Alternatively, buy a tin of pre soaked lentils.) Drain.",
         "Heat the oil in a large saucepan and fry the onion and garlic together with the chilli and cumin, about ten minutes or until the onions are soft.",
@@ -47,8 +52,9 @@
         "Add the cooked kidney beans and simmer for five more minutes.",
         "Serve with cooked rice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Vegetarian chilli",
     "videos": "[]"
 }

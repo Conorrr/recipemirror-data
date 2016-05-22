@@ -1,26 +1,36 @@
 {
-    "title": "Beef rendang",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "67",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beefrendang_78767_16x9.jpg"
-    ],
-    "description": "This recipe for slow-cooked beef in a rich lemongrass and coconut sauce is well worth the effort.",
     "author": {
         "merrilees_parker": "Merrilees Parker"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "This recipe for slow-cooked beef in a rich lemongrass and coconut sauce is well worth the effort.",
+    "dishes": [
+        "beef_curry",
+        "curry",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beefrendang_78767_16x9.jpg"
+    ],
     "ingredients": {
+        "For the herby rice": [
+            "1 tbsp sunflower oil",
+            "1 cinnamon stick",
+            "4 cardamom pods",
+            "250g/9oz basmati rice",
+            "600ml/1pint 1\u00bdfl oz water",
+            "2 tbsp chopped fresh coriander",
+            "sea salt"
+        ],
         "For the rendang": [
             "1 onion, roughly chopped",
             "1 tbsp chopped fresh ginger",
@@ -40,19 +50,16 @@
             "50g/2oz desiccated coconut flakes",
             "coriander sprigs to garnish"
         ],
-        "For the herby rice": [
-            "1 tbsp sunflower oil",
-            "1 cinnamon stick",
-            "4 cardamom pods",
-            "250g/9oz basmati rice",
-            "600ml/1pint 1\u00bdfl oz water",
-            "2 tbsp chopped fresh coriander",
-            "sea salt"
-        ],
         "To serve": [
             "deep-fried shallots",
             "1 deep-fried red chilli"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "67",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the rendang paste, place the onion, ginger, galangal, garlic, lemongrass, turmeric and chillies into a food processor. Blend to form a smooth pur\u00e9e.",
@@ -72,8 +79,9 @@
         "Keep warm until everything else is ready. You can hold rice like this for up to half an hour.",
         "To serve, mix the herbs into the rice and divide between four warmed serving dishes. Next spoon on the rendang, finish with a few sprigs of coriander and serve immediately, garnished with the deep-fried shallots and chilli."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Beef rendang",
     "videos": "[]"
 }

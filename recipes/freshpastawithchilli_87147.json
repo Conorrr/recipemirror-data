@@ -1,31 +1,26 @@
 {
-    "title": "Fresh pasta with chilli, smoked garlic and wild mushrooms",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "pasta",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading",
+        "rolling_pasta_dough",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pasta": [
-            "200g/7oz plain flour, plus extra for dusting",
-            "2 free-range eggs",
-            "2 tsp extra virgin olive oil, plus extra for drizzling"
-        ],
         "For the chilli sauce": [
             "3 tbsp olive oil",
             "1 smoked garlic clove, chopped",
@@ -37,7 +32,18 @@
             "150g/5\u00bdoz wild mushrooms, cleaned and sliced",
             "1 smoked garlic clove, finely chopped",
             "1 tbsp chopped parsley, to garnish"
+        ],
+        "For the pasta": [
+            "200g/7oz plain flour, plus extra for dusting",
+            "2 free-range eggs",
+            "2 tsp extra virgin olive oil, plus extra for drizzling"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the pasta, place the flour into a food processor and crack in the eggs one at a time with the motor running until the mixture resembles fine breadcrumbs.",
@@ -49,10 +55,9 @@
         "For the mushrooms, heat the butter in a frying pan, add the mushrooms and garlic and cook gently for 2-3 minutes until soft.",
         "To serve, mix the pasta with the chilli sauce, spoon into a serving bowl and scatter with the mushrooms. Garnish with parsley."
     ],
-    "howTos": [
-        "kneading",
-        "rolling_pasta_dough",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Fresh pasta with chilli, smoked garlic and wild mushrooms",
     "videos": "[]"
 }

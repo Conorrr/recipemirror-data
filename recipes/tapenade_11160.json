@@ -1,23 +1,23 @@
 {
-    "title": "Tapenade",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "Classic Mediterranean ingredients, olives, capers and anchovies, are combined to make this flavoursome dip. Choose whether you prefer a rough or smooth textured finish and serve with bread and crudit\u00e9 for dipping.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "French",
+    "description": "Classic Mediterranean ingredients, olives, capers and anchovies, are combined to make this flavoursome dip. Choose whether you prefer a rough or smooth textured finish and serve with bread and crudit\u00e9 for dipping.",
+    "dishes": [
+        "bread",
+        "bun",
+        "jam",
+        "tapenade"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -32,13 +32,20 @@
             "2-4 tbsp extra virgin olive oil"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "p0077hsg": "Housecall"
+    },
     "steps": [
         "To make a rough textured tapenade, simply mix all the ingredients together, adding enough olive oil to form a paste.",
         "For a smoother texture, tip the garlic, lemon juice, capers and anchovy into a food processor and process for about 10 seconds. Add the olives and parsley and enough olive oil to make a paste.",
         "Season to taste if necessary."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tapenade",
     "videos": "[]"
 }

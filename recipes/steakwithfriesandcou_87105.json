@@ -1,31 +1,24 @@
 {
-    "title": "Steak with fries and courgette chips",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "chips",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the steak": [
-            "150g/5\u00bdoz rump steak",
-            "1 tbsp olive oil",
-            "salt and freshly ground black pepper"
-        ],
         "For the chips": [
             "\u00bd potato, cut into chips",
             "300ml/\u00bd pint vegetable oil for deep frying",
@@ -33,7 +26,18 @@
             "3 tbsp milk",
             "2 tbsp plain flour",
             "sea salt, for sprinkling"
+        ],
+        "For the steak": [
+            "150g/5\u00bdoz rump steak",
+            "1 tbsp olive oil",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the steak, rub the steak in olive oil and season well. Heat a griddle pan until smoking hot and griddle the steak for 3-4 minutes each side. Set aside and leave to rest for three minutes.",
@@ -43,8 +47,9 @@
         "Carefully drop the potato chips back into the hot oil and fry for another five minutes to make sure they are really crisp and golden. Carefully remove with a slotted spoon and drain on kitchen paper. Sprinkle with sea salt.",
         "To serve, place the steak on a serving plate and serve with the courgette and potato chips."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steak with fries and courgette chips",
     "videos": "[]"
 }

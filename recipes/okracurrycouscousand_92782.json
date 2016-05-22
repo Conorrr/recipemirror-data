@@ -1,33 +1,35 @@
 {
-    "title": "Okra curry, couscous and flatbread",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "matt_tebbutt": "Matt Tebbutt"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "curry",
+        "flatbread",
+        "pie",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the flatbreads": [
-            "300g/10\u00bdoz plain flour",
-            "2 heaped tsp baking powder",
-            "1 tsp sea salt",
-            "1 tbsp black onion seeds",
-            "1 tbsp chilli oil",
-            "125ml/4\u00bdfl oz water"
+        "For the couscous": [
+            "200g/7oz couscous",
+            "3 tbsp extra virgin olive oil",
+            "275ml/10fl oz boiling water",
+            "2 banana shallots, peeled, finely sliced into rings",
+            "3 tbsp red wine vinegar",
+            "1 tbsp caster sugar",
+            "2 tbsp chopped fresh flatleaf parsley",
+            "Salt and freshly ground black pepper"
         ],
         "For the curry": [
             "1 tbsp olive oil",
@@ -43,16 +45,20 @@
             "110ml/4fl oz vegetable stock",
             "Salt and freshly ground black pepper"
         ],
-        "For the couscous": [
-            "200g/7oz couscous",
-            "3 tbsp extra virgin olive oil",
-            "275ml/10fl oz boiling water",
-            "2 banana shallots, peeled, finely sliced into rings",
-            "3 tbsp red wine vinegar",
-            "1 tbsp caster sugar",
-            "2 tbsp chopped fresh flatleaf parsley",
-            "Salt and freshly ground black pepper"
+        "For the flatbreads": [
+            "300g/10\u00bdoz plain flour",
+            "2 heaped tsp baking powder",
+            "1 tsp sea salt",
+            "1 tbsp black onion seeds",
+            "1 tbsp chilli oil",
+            "125ml/4\u00bdfl oz water"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "For the flatbreads, place the flour, baking powder, salt, black onion seeds and chilli oil into a bowl and mix together. Stir in enough water to form a firm dough. (NB: You may not need to add all the water.)",
@@ -68,8 +74,9 @@
         "Heat a griddle pan over a high heat until hot. Brush each flatbread disc with olive oil on each side and place onto the griddle pan. Cook on each side for 1-2 minutes, or until slightly risen and golden-brown. Remove from the pan and set aside. Keep warm. Repeat with the remaining discs.",
         "To serve, spoon the couscous into the centre of four serving plates. Top with the okra curry, and serve a flatbread alongside."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Okra curry, couscous and flatbread",
     "videos": "[]"
 }

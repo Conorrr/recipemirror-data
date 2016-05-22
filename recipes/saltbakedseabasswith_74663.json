@@ -1,26 +1,36 @@
 {
-    "title": "Salt-baked sea bass with sorrel hollandaise",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bun",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the hollandaise": [
+            "1 tbsp white wine vinegar",
+            "1 tbsp of water",
+            "3 free-range egg yolks beaten with 2 tbsp water",
+            "225g/8oz unsalted butter cut in tiny pieces, or melted and left to cool until just warm"
+        ],
+        "For the sorrel sauce": [
+            "15g/1oz unsalted butter",
+            "225g/8oz sorrel, washed"
+        ],
         "default": [
             "1.8kg/4lb sea bass, cleaned and scaled",
             "1 lemon, thickly sliced",
@@ -33,17 +43,13 @@
             "1 tsp chilli flakes",
             "1 free-range egg white, lightly beaten",
             "melted butter and lemon wedges, to serve"
-        ],
-        "For the hollandaise": [
-            "1 tbsp white wine vinegar",
-            "1 tbsp of water",
-            "3 free-range egg yolks beaten with 2 tbsp water",
-            "225g/8oz unsalted butter cut in tiny pieces, or melted and left to cool until just warm"
-        ],
-        "For the sorrel sauce": [
-            "15g/1oz unsalted butter",
-            "225g/8oz sorrel, washed"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 220C/450F/Gas 7. Lightly oil a deep-sided roasting tin.",
@@ -59,8 +65,9 @@
         "When the fish is cooked, remove from the oven. Carefully crack open the salt case and remove the fish.",
         "Serve on a large dish with the sorrel hollandaise."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Salt-baked sea bass with sorrel hollandaise",
     "videos": "[]"
 }

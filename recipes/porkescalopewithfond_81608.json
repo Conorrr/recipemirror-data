@@ -1,26 +1,32 @@
 {
-    "title": "Pork escalope with fondant potato and wild mushroom sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the fondant potatoes": [
+            "30g/1oz butter",
+            "2 tbsp olive oil",
+            "2 sprigs fresh thyme, leaves stripped",
+            "1 clove garlic, crushed",
+            "\u00bd large potato, peeled, sliced in \u00bdcm/\u00bcin rounds"
+        ],
         "For the pork escalope": [
             "6 basil leaves",
             "150g/5\u00bdoz pork fillet, flattened out using a meat mallet",
@@ -31,13 +37,6 @@
             "100g/3\u00bdoz fresh breadcrumbs",
             "1 tbsp olive oil"
         ],
-        "For the fondant potatoes": [
-            "30g/1oz butter",
-            "2 tbsp olive oil",
-            "2 sprigs fresh thyme, leaves stripped",
-            "1 clove garlic, crushed",
-            "\u00bd large potato, peeled, sliced in \u00bdcm/\u00bcin rounds"
-        ],
         "For the wild mushroom sauce": [
             "2 tsp butter",
             "1 clove garlic, crushed",
@@ -46,6 +45,12 @@
             "150ml/5fl oz double cream",
             "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -56,8 +61,9 @@
         "To make the wild mushroom sauce, melt the butter in a small frying pan. Add the garlic and onion and saut\u00e9 gently until softened. Add the mushrooms, cream, salt and freshly ground black pepper and cook gently for 5 minutes.",
         "To serve, pour the mushroom sauce onto a plate, place the pork escalope on top and serve with the fondant potatoes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pork escalope with fondant potato and wild mushroom sauce",
     "videos": "[]"
 }

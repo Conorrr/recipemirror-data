@@ -1,24 +1,24 @@
 {
-    "title": "Turkey pot pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/turkey_pot_pie_09104_16x9.jpg"
-    ],
-    "description": "This pie is a delicious recipe for leftover roast turkey. Serve with mash or bubble and squeak.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This pie is a delicious recipe for leftover roast turkey. Serve with mash or bubble and squeak.",
+    "dishes": [
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/turkey_pot_pie_09104_16x9.jpg"
     ],
     "ingredients": {
         "For the filling": [
@@ -37,6 +37,12 @@
             "250g/10oz shortcrust pastry"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Heat the oil in a frying pan over a medium heat. Fry the bacon lardons until crisp. Remove the lardons using a slotted spoon and set aside.",
         "In same pan, fry the onions and garlic for 5-6 minutes, or until golden-brown and softened.",
@@ -45,8 +51,9 @@
         "Divide the mixture between four individual pie dishes. Cut the pastry into four pieces, each big enough to cover the pie dish. Brush the edge of each dish with egg wash and cover with the pastry. Trim any excess pastry and brush the lid with the remaining egg wash.",
         "Cook for 20-25 minutes until the lid is crisp and golden-brown."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Turkey pot pie",
     "videos": "[]"
 }

@@ -1,26 +1,40 @@
 {
-    "title": "Harissa chicken and potato stew with herby chickpea salad",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "You can use shop-bought harissa for James Martin\u2019s spicy stew, but the homemade version is so much better.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "You can use shop-bought harissa for James Martin\u2019s spicy stew, but the homemade version is so much better.",
+    "dishes": [
+        "casserole",
+        "chicken_stew",
+        "jam",
+        "oven-baked_dishes",
+        "salad",
+        "sauce",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chicken stew": [
+            "8 chicken thighs",
+            "2 tbsp olive oil",
+            "2 onions, thinly sliced",
+            "400g/14oz potatoes, peeled, cut into chunks",
+            "1 x 400g/14oz tin chopped tomatoes",
+            "500ml/18fl oz chicken stock",
+            "1 lemon, juice only",
+            "3 tbsp roughly chopped fresh flatleaf parsley,"
+        ],
         "For the harissa": [
             "15g/\u00bdoz dried red chillies, soaked in cold water, roughly chopped",
             "50g/2oz fresh red chillies, seeds removed, roughly chopped",
@@ -31,16 +45,6 @@
             "2 tbsp tomato pur\u00e9e",
             "3 tbsp red wine vinegar",
             "4 tbsp olive oil"
-        ],
-        "For the chicken stew": [
-            "8 chicken thighs",
-            "2 tbsp olive oil",
-            "2 onions, thinly sliced",
-            "400g/14oz potatoes, peeled, cut into chunks",
-            "1 x 400g/14oz tin chopped tomatoes",
-            "500ml/18fl oz chicken stock",
-            "1 lemon, juice only",
-            "3 tbsp roughly chopped fresh flatleaf parsley,"
         ],
         "For the herby chickpea salad": [
             "1 garlic clove, crushed",
@@ -56,6 +60,12 @@
             "3 tbsp roughly chopped fresh mint"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "9",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "For the harissa, place all the harissa ingredients into a food processor and blend to a smooth paste. Spoon the harissa into a jar and store in the fridge until ready to use.",
         "For the stew, slash the chicken thighs several times then place into a bowl with three tablespoons of the harissa paste and mix until well combined. Marinate in the fridge for at least two hours.",
@@ -69,8 +79,9 @@
         "Place the remaining ingredients into a bowl and mix together. Add the dressing and mix until well combined.",
         "To serve, spoon the chicken stew onto serving plates and spoon some salad alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Harissa chicken and potato stew with herby chickpea salad",
     "videos": "[]"
 }

@@ -1,39 +1,47 @@
 {
-    "title": "My mother\u2019s cheese and onion pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "151",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/my_mothers_cheese_and_42949_16x9.jpg"
-    ],
-    "description": "Make time for a lazy afternoon of cooking with Simon Hopkinson\u2019s homemade cheese and onion pie recipe.",
     "author": {
         "simon_hopkinson": "Simon Hopkinson"
     },
-    "show": {
-        "b012gg69": "The Good Cook"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Make time for a lazy afternoon of cooking with Simon Hopkinson\u2019s homemade cheese and onion pie recipe.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "rolling_pastry"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/my_mothers_cheese_and_42949_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pastry": [
-            "60g/2oz butter, cut into small pieces",
-            "60g/2oz lard, cut into small pieces",
-            "200g/7oz self-raising flour, plus extra for dusting",
-            "pinch salt"
-        ],
         "For the filling": [
             "25g/1oz butter",
             "3 onions, roughly sliced",
             "salt and freshly ground white pepper",
             "250g/9oz Lancashire cheese, coarsely grated",
             "milk, for sealing and glazing"
+        ],
+        "For the pastry": [
+            "60g/2oz butter, cut into small pieces",
+            "60g/2oz lard, cut into small pieces",
+            "200g/7oz self-raising flour, plus extra for dusting",
+            "pinch salt"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "151",
+    "serves": "Serves 4",
+    "show": {
+        "b012gg69": "The Good Cook"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4 and place a baking tray in the oven to heat through.",
@@ -47,8 +55,9 @@
         "Place the pie into the oven and bake for 40-50 minutes, or until golden-brown. Remove from the oven and leave for a good 20-30 minutes before un-moulding and cutting into generous wedges.",
         "Serve the pie warm or at room temperature (not piping hot)."
     ],
-    "howTos": [
-        "rolling_pastry"
+    "tips": [
+        
     ],
+    "title": "My mother\u2019s cheese and onion pie",
     "videos": "[]"
 }

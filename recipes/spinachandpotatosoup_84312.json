@@ -1,24 +1,22 @@
 {
-    "title": "Spinach and potato soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,6 +31,12 @@
             "2 tbsp double cream"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil in a saucepan over a medium heat. Add the onion and garlic and fry for 2-3 minutes, or until soft.",
         "Add the potato and saut&eactute;e for two minutes.",
@@ -42,8 +46,9 @@
         "Transfer to a food processor and blend until smooth.",
         "To serve, pour the soup into a serving bowl and pour the cream in a swirl over the soup."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spinach and potato soup",
     "videos": "[]"
 }

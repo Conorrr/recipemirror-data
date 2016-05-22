@@ -1,24 +1,23 @@
 {
-    "title": "Raspberry ripple ice cream",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6",
-    "recommendations": "7",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/raspberryrippleicecr_91970_16x9.jpg"
-    ],
-    "description": "This is a must for summer - rich custard ice cream can only be improved by sharp raspberry sauce rippled through. Equipment and preparation: For this recipe you will need an ice cream maker.",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b00lpbxs": "What to Eat Now"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "This is a must for summer - rich custard ice cream can only be improved by sharp raspberry sauce rippled through. Equipment and preparation: For this recipe you will need an ice cream maker.",
+    "dishes": [
+        "custard",
+        "ice_cream",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/raspberryrippleicecr_91970_16x9.jpg"
     ],
     "ingredients": {
         "For the ice cream": [
@@ -34,6 +33,12 @@
             "3 tbsp water"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "7",
+    "serves": "Serves 6",
+    "show": {
+        "b00lpbxs": "What to Eat Now"
+    },
     "steps": [
         "For the ice cream, pour the cream and milk into a large saucepan, whisk in the vanilla pod and seeds and bring to the boil. As soon as the mixture is boiling, remove the pan from the heat. Remove the vanilla pod (it can be rinsed, dried and re-used in another recipe).",
         "Whisk together the egg yolks and caster sugar until pale and creamy. Pour over the hot milk and cream mixture, whisking continuously, until the mixture is smooth and well combined.",
@@ -47,8 +52,9 @@
         "Repeat the process until the container has three layers of ice cream and two layers of ripple sauce. Using a blunt knife, marble the ice cream and ripple sauce lightly, then cover the container with a lid and freeze for 3-4 hours, or until solid.",
         "Remove the raspberry ripple ice cream from the freezer and leave to stand at room temperature for 10 minutes before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Raspberry ripple ice cream",
     "videos": "[]"
 }

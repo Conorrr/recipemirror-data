@@ -1,24 +1,21 @@
 {
-    "title": "Baked garlic",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "By baking the garlic it softens the sharpness of the flavour and brings out it's sweetness.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "p0077j91": "Fresh Food"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "By baking the garlic it softens the sharpness of the flavour and brings out it's sweetness.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,14 +25,21 @@
             "warmed rustic bread, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 6",
+    "show": {
+        "p0077j91": "Fresh Food"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "Place the garlic onto a baking sheet and drizzle with a little olive oil.",
         "Sprinkle over a little rock salt and place in a hot oven for 20-30 minutes or until the cloves have softened.",
         "Squeeze out the garlic pur\u00e9e from each clove and spread onto warmed bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Baked garlic",
     "videos": "[]"
 }

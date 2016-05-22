@@ -1,26 +1,38 @@
 {
-    "title": "Beef and oyster pie",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Oysters were once as cheap as chips and were used as filled in pies like this. Now a beef and oyster pie is posh enough for a prince. The original surf and turf!",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Oysters were once as cheap as chips and were used as filled in pies like this. Now a beef and oyster pie is posh enough for a prince. The original surf and turf!",
+    "dishes": [
+        "casserole",
+        "chips",
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pastry": [
+            "400g/14oz plain flour, plus extra for rolling",
+            "\u00bc tsp salt",
+            "250g/9oz butter, frozen for at least 2 hours",
+            "1 free-range egg, beaten, to glaze"
+        ],
         "default": [
             "900g/2lb stewing beef, trimmed, cut into rough 3cm/1\u00bcin cubes",
             "2-3 tbsp sunflower oil",
@@ -34,13 +46,13 @@
             "flaked sea salt and freshly ground black pepper",
             "2 tbsp cornflour, blended with 2 tbsp water to make a smooth paste",
             "8 oysters, freshly shucked"
-        ],
-        "For the pastry": [
-            "400g/14oz plain flour, plus extra for rolling",
-            "\u00bc tsp salt",
-            "250g/9oz butter, frozen for at least 2 hours",
-            "1 free-range egg, beaten, to glaze"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "Season the beef cubes with salt and black pepper. Heat a tablespoon of oil in the frying pan and fry the meat over a high heat. Do this in three batches so that you don\u2019t overcrowd the pan, transferring the meat to a large flameproof casserole dish once it is browned all over. Add extra oil if the pan seems dry.",
@@ -52,8 +64,9 @@
         "Roll the rest of the pastry out until about 2cm/\u00bein larger than the dish you\u2019re using. Line the dish with the pastry then pile in the filling, tucking the oysters in as well. Brush the edge of the pastry with beaten egg.",
         "Roll the remaining pastry until slightly larger than your dish and gently lift over the filling, pressing the edges firmly to seal, then trim with a sharp knife. Brush with beaten egg to glaze. Put the dish on a baking tray and bake for 25-30 minutes, or until the pastry is golden-brown and the filling is bubbling."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef and oyster pie",
     "videos": "[p017qnxs:p017qny1]"
 }

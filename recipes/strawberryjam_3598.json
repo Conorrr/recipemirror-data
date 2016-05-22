@@ -1,24 +1,24 @@
 {
-    "title": "Strawberry jam",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "12 pots",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "mrs_beeton": "Mrs Beeton"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "jam",
+        "sauce",
+        "stir-fries",
+        "strawberry_jam"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -27,6 +27,12 @@
             "575g/1\u00bclb loaf sugar"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "12 pots",
+    "show": {
+        
+    },
     "steps": [
         "Strip the currants from the stalks, put them into a jar; place this jar in a sauce-pan of boiling water, and simmer until the juice is well drawn from the fruit.",
         "Strain the currants, measure the juice, put it into a preserving-pan, and add the sugar.",
@@ -34,8 +40,9 @@
         "Simmer the whole lot over a moderate fire from \u00bd to \u00be hour, carefully removing the scum as it rises.",
         "Stir the jam only enough to prevent it from burning at the bottom of the pan, as the fruit should be preserved as whole as possible. Put the jam into jars, and when cold, cover down."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Strawberry jam",
     "videos": "[]"
 }

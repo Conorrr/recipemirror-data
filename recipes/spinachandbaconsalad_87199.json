@@ -1,23 +1,25 @@
 {
-    "title": "Spinach and bacon salad with blue cheese dressing",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "crumble",
+        "jam",
+        "pie",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -32,6 +34,12 @@
             "1 free-range egg"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the vegetable oil in a non-stick frying pan. Add the bacon and fry until golden. Remove from the pan using a slotted spoon and drain on kitchen paper. Set aside and keep warm.",
         "Heat a griddle pan. Generously drizzle both sides of the bread slices with olive oil, add to the griddle pan and cook on both sides until toasted and lightly charred. Remove from the pan and slice or tear into bite-sized pieces.",
@@ -41,8 +49,9 @@
         "Bring a pan of water to the boil. Crack in an egg and reduce the heat to a simmer. Poach for four minutes then remove with a slotted spoon.",
         "Serve the poached egg on top of the spinach and bacon salad and serve straightaway."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Spinach and bacon salad with blue cheese dressing",
     "videos": "[]"
 }

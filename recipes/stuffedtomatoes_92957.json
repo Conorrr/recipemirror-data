@@ -1,37 +1,26 @@
 {
-    "title": "Stuffed tomatoes",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries",
+        "stuffing"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the tomato sauce": [
-            "80-100ml/3-3\u00bdfl oz olive oil",
-            "1 white onion, finely chopped",
-            "2 garlic cloves, crushed and sliced",
-            "2 tbsp tomato pur\u00e9e (if the tomatoes are not very ripe)",
-            "1kg/2lb 3oz ripe plum tomatoes, roughly chopped",
-            "4 pinches salt",
-            "2 pinches freshly ground black pepper",
-            "3 pinches sugar (optional)",
-            "3 fresh basil leaves"
-        ],
         "For the stuffed tomatoes": [
             "4 x 200g/7oz ripe tomatoes (preferably marmande or beef, organic if possible)",
             "200g/7oz minced pork",
@@ -44,7 +33,24 @@
             "1 tbsp olive oil, plus extra for brushing and drizzling",
             "60g/2oz Comt\u00e9 cheese, grated",
             "salt and freshly ground black pepper"
+        ],
+        "For the tomato sauce": [
+            "80-100ml/3-3\u00bdfl oz olive oil",
+            "1 white onion, finely chopped",
+            "2 garlic cloves, crushed and sliced",
+            "2 tbsp tomato pur\u00e9e (if the tomatoes are not very ripe)",
+            "1kg/2lb 3oz ripe plum tomatoes, roughly chopped",
+            "4 pinches salt",
+            "2 pinches freshly ground black pepper",
+            "3 pinches sugar (optional)",
+            "3 fresh basil leaves"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 4",
+    "show": {
+        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
     },
     "steps": [
         "For the tomato sauce, heat the olive oil in a pan over a medium heat and gently fry the onion and garlic for 3-4 minutes, or until softened but not coloured.",
@@ -60,8 +66,9 @@
         "Brush a baking dish with a little olive oil then place the tomatoes on top. Drizzle with some more olive oil and cook in the oven for 25 minutes, or until the tomatoes are tender and the stuffing is cooked through.",
         "To serve, reheat the tomato sauce and pour into the baking dish with the stuffed tomatoes. Alternatively, pour the sauce into individual serving dishes and top each with a stuffed tomato."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Stuffed tomatoes",
     "videos": "[]"
 }

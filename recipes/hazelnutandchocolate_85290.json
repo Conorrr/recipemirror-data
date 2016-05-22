@@ -1,26 +1,34 @@
 {
-    "title": "Hazelnut and chocolate roulade with strawberries",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "cake",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "greasing_and_lining"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chocolate sauce": [
+            "200g/7oz dark chocolate, chopped",
+            "85ml/3fl oz double cream",
+            "6 strawberries, sliced, to garnish"
+        ],
+        "For the filling": [
+            "200ml/7fl oz double cream, whipped until soft peaks form when the whisk is removed",
+            "50g/1\u00beoz hazelnuts, chopped"
+        ],
         "For the roulade": [
             "5 free-range eggs",
             "125g/4\u00bdoz caster sugar",
@@ -28,16 +36,13 @@
             "30g/1oz cocoa powder",
             "115g/4oz plain flour",
             "50g/1\u00beoz hazelnuts, chopped"
-        ],
-        "For the filling": [
-            "200ml/7fl oz double cream, whipped until soft peaks form when the whisk is removed",
-            "50g/1\u00beoz hazelnuts, chopped"
-        ],
-        "For the chocolate sauce": [
-            "200g/7oz dark chocolate, chopped",
-            "85ml/3fl oz double cream",
-            "6 strawberries, sliced, to garnish"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -50,8 +55,9 @@
         "For the chocolate sauce, place the chocolate and cream into a bowl set over a pan of gently simmering water and heat, stirring occasionally, until melted together to make a sauce.",
         "To serve, pour the chocolate sauce over the roulade and decorate with sliced strawberries."
     ],
-    "howTos": [
-        "greasing_and_lining"
+    "tips": [
+        
     ],
+    "title": "Hazelnut and chocolate roulade with strawberries",
     "videos": "[]"
 }

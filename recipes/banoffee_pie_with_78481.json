@@ -1,23 +1,33 @@
 {
-    "title": "Banoffee pie with marshmallows and caramelised bananas",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Give classic banoffee pie an upgrade with homemade marshmallows and caramelied bananas. The perfect recipe for when you need a showstopper dessert.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Give classic banoffee pie an upgrade with homemade marshmallows and caramelied bananas. The perfect recipe for when you need a showstopper dessert.",
+    "dishes": [
+        "banoffee_pie",
+        "bread",
+        "bun",
+        "caramel",
+        "icing",
+        "jam",
+        "marshmallow",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "how_to_blind_bake_pastry",
+        "rubbing_in",
+        "whisking_egg_whites"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -32,6 +42,10 @@
             "2 small bananas, sliced",
             "100g/3\u00bdoz dark chocolate, grated"
         ],
+        "For the caramelised bananas": [
+            "100g//3\u00bdoz caster sugar",
+            "1 bunch baby bananas"
+        ],
         "For the marshmallows": [
             "vegetable oil, for greasing",
             "5-6 tbsp icing sugar, sieved, for dusting",
@@ -42,14 +56,16 @@
             "2 large free-range egg whites",
             "1 tsp vanilla extract"
         ],
-        "For the caramelised bananas": [
-            "100g//3\u00bdoz caster sugar",
-            "1 bunch baby bananas"
-        ],
         "To serve": [
             "vanilla ice cream",
             "fresh mint, chopped"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 200C/180C Fan/Gas 6.",
@@ -66,10 +82,9 @@
         "For the caramelised bananas, heat a large frying pan and add the sugar, leave on the heat until it turns to caramel (CAUTION: boiling sugar is extremely hot. Handle very carefully.) Once turned to a caramel carefully add 4 tablespoons water to create a little sauce. Add the chopped baby bananas to the sauce and stir to coat.",
         "To serve, put a slice of the banoffee pie in the centre. Garnish with a scoop of ice cream, squares of marshmallows, some caramelised bananas and sprinkle over the mint."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry",
-        "rubbing_in",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Banoffee pie with marshmallows and caramelised bananas",
     "videos": "[]"
 }

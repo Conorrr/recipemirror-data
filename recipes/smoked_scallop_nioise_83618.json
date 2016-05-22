@@ -1,26 +1,28 @@
 {
-    "title": "Smoked scallop Ni\u00e7oise",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This dish has a touch of theatre in the serving. If you don\u2019t have smoke gun, try it without \u2013 it still tastes lovely.",
     "author": {
         "chris_wheeler": "Chris Wheeler"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This dish has a touch of theatre in the serving. If you don\u2019t have smoke gun, try it without \u2013 it still tastes lovely.",
+    "dishes": [
+        "nicoise_salad",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "pinch chopped chives",
+            "100ml/3\u00bdfl oz thick natural yoghurt",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "4 new potatoes, blanched and sliced",
             "8 cherry tomatoes, halved",
@@ -33,12 +35,13 @@
             "knob of butter",
             "200g/7oz mixed leaf salad, including watercress",
             "4 soft boiled quail\u2019s eggs"
-        ],
-        "For the dressing": [
-            "pinch chopped chives",
-            "100ml/3\u00bdfl oz thick natural yoghurt",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "In a warm pan, place the potato, cherry tomatoes, mixed peppers, olives, caper berries and green beans, along with some rapeseed oil.",
@@ -49,8 +52,9 @@
         "To smoke, place a glass dome on top of the plate, place the tube of a smoke gun inside and smoke for a few minutes.",
         "To serve, remove the dome in front of the guest."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Smoked scallop Ni\u00e7oise",
     "videos": "[]"
 }

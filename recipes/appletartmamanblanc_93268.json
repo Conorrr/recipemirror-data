@@ -1,33 +1,32 @@
 {
-    "title": "Apple tart 'Maman Blanc'",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "58",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/appletartmamanblanc_93268_16x9.jpg"
-    ],
-    "description": "A simple tart topped with buttery soft apples, cream and calvados - takes no time to make, but is so delicious.",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "A simple tart topped with buttery soft apples, cream and calvados - takes no time to make, but is so delicious.",
+    "dishes": [
+        "apple_pie",
+        "caramel",
+        "custard",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sandwich",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/appletartmamanblanc_93268_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pastry": [
-            "250g/9oz plain flour",
-            "pinch sea salt",
-            "125g/4oz unsalted butter, diced, at room temperature",
-            "1 tsp cold water",
-            "1 medium free-range egg"
-        ],
         "For the filling": [
             "15g/\u00bdoz unsalted butter",
             "\u00bd tbsp lemon juice",
@@ -37,7 +36,20 @@
             "100ml/3\u00bdfl oz double cream",
             "1 medium free-range egg",
             "1-2 tbsp icing sugar, for dusting"
+        ],
+        "For the pastry": [
+            "250g/9oz plain flour",
+            "pinch sea salt",
+            "125g/4oz unsalted butter, diced, at room temperature",
+            "1 tsp cold water",
+            "1 medium free-range egg"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "58",
+    "serves": "Serves 6",
+    "show": {
+        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
     },
     "steps": [
         "For the pastry, pulse together the flour, butter and salt in a food processor until you reach a sandy texture. Add the egg, water and pulse again. If you over mix the dough at this stage it will lose its flakiness.",
@@ -52,8 +64,9 @@
         "Whisk together the double cream, egg and the remaining 50g/2oz caster sugar until well combined. When the pastry is pale golden-brown and the apples have caramelised, sprinkle the tart with a tablespoon of sugar and pour the custard mixture into the tart, bake for a further 10 minutes, until the filling mixture has just set.",
         "To serve, remove the tart from the oven and set aside for 1 hour to cool slightly, then carefully remove the tart ring. Dust all over with icing sugar. Serve immediately."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Apple tart 'Maman Blanc'",
     "videos": "[]"
 }

@@ -1,26 +1,36 @@
 {
-    "title": "Gourmet burger and unbelievable onion rings",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "bun",
+        "focaccia",
+        "mayonnaise",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the burger": [
+            "600g/1lb 5oz steak mince",
+            "salt and freshly ground black pepper",
+            "50ml/2fl oz olive oil",
+            "4 x onion focaccia buns, sliced, griddled until slightly charred",
+            "ready-made mayonnaise, to taste",
+            "1 large beefsteak tomato, sliced",
+            "2 large gherkins, sliced",
+            "handful rocket leaves"
+        ],
         "For the onion rings": [
             "1 large sweet white onion, sliced into 1cm/\u00bdin rings",
             "1 litre/1\u00be pints buttermilk",
@@ -31,17 +41,13 @@
             "1 tbsp chilli powder",
             "vegetable oil, for deep frying",
             "balsamic vinegar, to serve"
-        ],
-        "For the burger": [
-            "600g/1lb 5oz steak mince",
-            "salt and freshly ground black pepper",
-            "50ml/2fl oz olive oil",
-            "4 x onion focaccia buns, sliced, griddled until slightly charred",
-            "ready-made mayonnaise, to taste",
-            "1 large beefsteak tomato, sliced",
-            "2 large gherkins, sliced",
-            "handful rocket leaves"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the onion rings, heat the vegetable oil in a deep, heavy-bottomed pan until a bread crumb sizzles and turns brown when dropped into it. (CAUTION: hot oil can be dangerous. Do not leave unattended.)",
@@ -58,8 +64,9 @@
         "To serve, place the onion rings into a large bowl and sprinkle with salt. Place a small bowl of balsamic vinegar alongside to dip into.",
         "Place the burgers and buns onto plates and serve with the onion rings."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Gourmet burger and unbelievable onion rings",
     "videos": "[]"
 }

@@ -1,26 +1,36 @@
 {
-    "title": "Jamaican-style bean curry with battered chicken",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "curry",
+        "jam",
+        "ketchup",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the battered chicken": [
+            "vegetable oil, for deep frying",
+            "100g/3\u00bdoz self-raising flour",
+            "1 free-range egg yolk",
+            "1 tbsp oregano",
+            "1 tsp cayenne pepper",
+            "150ml/5fl oz sparkling mineral water",
+            "1 skinless chicken breast, cut into strips",
+            "55g/2oz plain flour, seasoned, to taste, with salt and freshly ground black pepper"
+        ],
         "For the curry": [
             "2 tbsp vegetable oil",
             "1 garlic clove, finely sliced",
@@ -32,17 +42,13 @@
             "100g/3\u00bdoz tinned gungo beans, rinsed and drained",
             "25g/1oz fresh coconut, grated",
             "salt and freshly ground black pepper"
-        ],
-        "For the battered chicken": [
-            "vegetable oil, for deep frying",
-            "100g/3\u00bdoz self-raising flour",
-            "1 free-range egg yolk",
-            "1 tbsp oregano",
-            "1 tsp cayenne pepper",
-            "150ml/5fl oz sparkling mineral water",
-            "1 skinless chicken breast, cut into strips",
-            "55g/2oz plain flour, seasoned, to taste, with salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "To make the curry, heat the vegetable oil in a medium frying pan. Add the garlic, shallot, paprika and mixed spice and cook for two minutes.",
@@ -54,8 +60,9 @@
         "Sprinkle lightly with salt.",
         "To serve, spoon the curry onto a warm plate and place the chicken strips on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Jamaican-style bean curry with battered chicken",
     "videos": "[]"
 }

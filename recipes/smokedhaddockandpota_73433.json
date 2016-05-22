@@ -1,26 +1,28 @@
 {
-    "title": "Smoked haddock and potato hash",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the poached eggs": [
+            "2 soft poached eggs",
+            "vinegar",
+            "iced water"
+        ],
         "default": [
             "600ml/1 pint semi-skimmed milk",
             "1 onion halved",
@@ -34,12 +36,13 @@
             "25g1oz parmesan cheese, grated",
             "2 tbsp low-fat Greek yoghurt",
             "freshly ground black pepper"
-        ],
-        "For the poached eggs": [
-            "2 soft poached eggs",
-            "vinegar",
-            "iced water"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Heat the milk in a saucepan with the onion and bay leaf. Remove from the heat and allow to infuse for 15 minutes. Return to the heat.",
@@ -53,8 +56,9 @@
         "Warm through the poached egg and place one on each warm plate.",
         "Top with the smoked haddock hash."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Smoked haddock and potato hash",
     "videos": "[]"
 }

@@ -1,24 +1,23 @@
 {
-    "title": "Moules marini\u00e8re with cream, garlic and parsley",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "44",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/moulesmarinierewithc_71787_16x9.jpg"
-    ],
-    "description": "Cook yourself a restaurant-style dish in six simple steps \u2013 a splash of white wine, cider or beer gives an extra kick.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b006xkb4": "Rick Stein's Food Heroes"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "Cook yourself a restaurant-style dish in six simple steps \u2013 a splash of white wine, cider or beer gives an extra kick.",
+    "dishes": [
+        "bread",
+        "moules_mariniere",
+        "pie"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/moulesmarinierewithc_71787_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -33,6 +32,12 @@
             "crusty bread, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "44",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006xkb4": "Rick Stein's Food Heroes"
+    },
     "steps": [
         "Wash the mussels under plenty of cold, running water. Discard any open ones that won't close when lightly squeezed.",
         "Pull out the tough, fibrous beards protruding from between the tightly closed shells and then knock off any barnacles with a large knife. Give the mussels another quick rinse to remove any little pieces of shell.",
@@ -41,8 +46,9 @@
         "Remove the bouquet garni, add the cream and chopped parsley and remove from the heat.",
         "Spoon into four large warmed bowls and serve with lots of crusty bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Moules marini\u00e8re with cream, garlic and parsley",
     "videos": "[]"
 }

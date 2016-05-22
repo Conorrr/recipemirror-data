@@ -1,26 +1,31 @@
 {
-    "title": "Baked ham",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves approx 20",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "This impressive ham recipe is perfect for a Sunday roast, dinner party dish or as an alternative to turkey on Christmas day.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "This impressive ham recipe is perfect for a Sunday roast, dinner party dish or as an alternative to turkey on Christmas day.",
+    "dishes": [
+        "ham",
+        "marmalade",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "skimming_stock"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the glaze": [
+            "cloves for spiking",
+            "8 tbsp shredless orange marmalade",
+            "juice of half a lemon"
+        ],
         "default": [
             "4.5-5.5kg/10-12lb gammon joint - unsmoked",
             "1 pint of dry cider",
@@ -30,12 +35,13 @@
             "2 cloves garlic",
             "2 tbsp brown sugar",
             "12 peppercorns"
-        ],
-        "For the glaze": [
-            "cloves for spiking",
-            "8 tbsp shredless orange marmalade",
-            "juice of half a lemon"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "6",
+    "serves": "Serves approx 20",
+    "show": {
+        
     },
     "steps": [
         "Soak the gammon joint overnight.",
@@ -47,8 +53,9 @@
         "Heat the marmalade and lemon juice in a pan for a few minutes until it thickens to a sticky glaze. Brush the marmalade glaze over the surface of the ham.",
         "Bake in the oven for 30 minutes until the glaze has set."
     ],
-    "howTos": [
-        "skimming_stock"
+    "tips": [
+        
     ],
+    "title": "Baked ham",
     "videos": "[]"
 }

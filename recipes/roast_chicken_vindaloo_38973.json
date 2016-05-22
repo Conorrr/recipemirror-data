@@ -1,38 +1,27 @@
 {
-    "title": "Roast chicken vindaloo",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Spice up your Sunday roast with marinated chicken and vindaloo gravy. And don't be intimidated by the long list of ingredients: this is a really easy recipe.",
     "author": {
         "atul_kochhar": "Atul Kochhar"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        "Any leftover spice mix can be stored in an airtight container for up to six months."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "Spice up your Sunday roast with marinated chicken and vindaloo gravy. And don't be intimidated by the long list of ingredients: this is a really easy recipe.",
+    "dishes": [
+        "gravy",
+        "oven-baked_dishes",
+        "roast_chicken",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the vindaloo spice mix": [
-            "1 tsp ground cumin",
-            "1 tbsp ground coriander",
-            "1 tsp turmeric",
-            "\u00bd tsp ground ginger",
-            "1 tsp ground cinnamon",
-            "\u00bd tsp ground cloves",
-            "1 tsp ground black pepper",
-            "\u00bd tsp ground fenugreek seeds",
-            "1 tsp mustard powder",
-            "1 tsp red chili powder"
-        ],
         "For the chicken vindaloo": [
             "3 tbsp garlic paste",
             "3 tbsp palm vinegar or red wine vinegar",
@@ -42,6 +31,15 @@
             "2 double (large) poussin or small chickens, oven-ready with skin on",
             "16-20 baby carrots",
             "watercress leaves, to garnish"
+        ],
+        "For the masala corn": [
+            "70g/2\u00bdoz butter",
+            "\u00bd tsp red chilli powder",
+            "2 tbsp lime juice",
+            "1 tsp chaat masala",
+            "1 tsp caster sugar",
+            "300g/10\u00bdoz frozen sweetcorn kernels",
+            "2 tbsp chopped fresh coriander leaves"
         ],
         "For the vindaloo gravy": [
             "2 tbsp sunflower oil",
@@ -56,15 +54,24 @@
             "salt, to taste",
             "1 tbsp chopped fresh coriander leaves"
         ],
-        "For the masala corn": [
-            "70g/2\u00bdoz butter",
-            "\u00bd tsp red chilli powder",
-            "2 tbsp lime juice",
-            "1 tsp chaat masala",
-            "1 tsp caster sugar",
-            "300g/10\u00bdoz frozen sweetcorn kernels",
-            "2 tbsp chopped fresh coriander leaves"
+        "For the vindaloo spice mix": [
+            "1 tsp ground cumin",
+            "1 tbsp ground coriander",
+            "1 tsp turmeric",
+            "\u00bd tsp ground ginger",
+            "1 tsp ground cinnamon",
+            "\u00bd tsp ground cloves",
+            "1 tsp ground black pepper",
+            "\u00bd tsp ground fenugreek seeds",
+            "1 tsp mustard powder",
+            "1 tsp red chili powder"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the vindaloo spice mix, put all the ingredients in a container and mix to combine.",
@@ -75,8 +82,9 @@
         "Meanwhile, make the masala corn. Melt the butter in a pan, then add the chilli powder, lime juice, chat masala and sugar and let it simmer for a few minutes. Add the frozen sweetcorn kernels and cook until warm. Sprinkle with chopped coriander leaves and keep warm until ready to serve.",
         "Joint the chicken and serve with the carrots, masala corn and vindaloo gravy. Garnish with watercress leaves."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Any leftover spice mix can be stored in an airtight container for up to six months."
     ],
+    "title": "Roast chicken vindaloo",
     "videos": "[]"
 }

@@ -1,24 +1,21 @@
 {
-    "title": "Ginger and broccoli fried rice",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "fried_rice",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,12 +27,19 @@
             "2 tbsp chopped fresh dill"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil and butter in a pan and gently fry the broccoli and ginger for 3-4 minutes, or until the broccoli is tender. Add the cooked rice and fry for a further 3-4 minutes, then stir in the dill.",
         "Spoon the fried rice onto a plate and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Ginger and broccoli fried rice",
     "videos": "[]"
 }

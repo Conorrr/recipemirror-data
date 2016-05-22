@@ -1,36 +1,41 @@
 {
-    "title": "Ginger and syrup cheesecake",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b00728v4": "Sweet Baby James"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "biscuit",
+        "cheesecake",
+        "jam",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "caramelising_sugar"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "2 sugar twists (optional)"
+        ],
         "default": [
             "4 digestive biscuits",
             "1 tbsp butter, softened",
             "300g/10\u00bdoz full-fat cream cheese",
             "4 pieces stem ginger in syrup, 2 finely chopped, 2 halved, plus 4 tbsp syrup from the jar",
             "3 tbsp grated dark chocolate"
-        ],
-        "To serve": [
-            "2 sugar twists (optional)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b00728v4": "Sweet Baby James"
     },
     "steps": [
         "Crush the biscuits by placing them into a bag or clean tea towel and hitting with a rolling pin. Pour the crumbs into a bowl and mix with the softened butter. Place two 5cm/2in chefs' rings onto serving plates and fill with the crumb mixture to form the base of the cheesecake.",
@@ -39,8 +44,9 @@
         "To loosen the rings, quickly warm around the edges using a warm cloth or a mini-blowtorch, then lift off the rings.",
         "To serve, garnish with a sugar twist."
     ],
-    "howTos": [
-        "caramelising_sugar"
+    "tips": [
+        
     ],
+    "title": "Ginger and syrup cheesecake",
     "videos": "[]"
 }

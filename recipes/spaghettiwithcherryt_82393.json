@@ -1,24 +1,23 @@
 {
-    "title": "Spaghetti with cherry tomatoes and basil",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "katie_and_giancarlo_caldesi": "Katie and Giancarlo Caldesi"
     },
-    "show": {
-        "p007b4jj": "Return to Tuscany"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "pasta",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,6 +32,12 @@
             "grated parmesan, or similar vegetarian hard cheese, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "p007b4jj": "Return to Tuscany"
+    },
     "steps": [
         "Boil the spaghetti in salted water until al dente.",
         "Meanwhile, heat the olive oil in a frying pan and saut\u00e9 the onion until soft.",
@@ -41,8 +46,9 @@
         "Add the spaghetti to the sauce and add the torn basil leaves. Toss until the pasta is coated in the sauce.",
         "Serve garnished with grated parmesan."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spaghetti with cherry tomatoes and basil",
     "videos": "[]"
 }

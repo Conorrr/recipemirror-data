@@ -1,24 +1,21 @@
 {
-    "title": "Red cabbage salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "kevin_woodford": "Kevin Woodford"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,13 +28,20 @@
             "handful fresh parsley, chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil in a wok. When very hot and smoking add the cabbage and apple. Stir-fry for 4-5 minutes.",
         "Add the ground ginger, red wine vinegar and brown sugar and cook for 10 minutes, stirring regularly.",
         "Serve in a bowl and top with the chopped parsley."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Red cabbage salad",
     "videos": "[]"
 }

@@ -1,34 +1,27 @@
 {
-    "title": "The people's Cornish pasty",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "4-6",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "pasty",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "450g/1lb plain flour, plus extra for dusting",
-            "2 tsp baking powder",
-            "1 tsp salt",
-            "125g/4\u00bdoz unsalted butter",
-            "2 free-range egg yolks",
-            "125ml/4\u00bdfl oz cold water"
-        ],
         "For the filling": [
             "300g/11oz beef skirt (or braising steak), finely chopped",
             "1 tbsp plain flour",
@@ -37,7 +30,21 @@
             "450g/1lb potato, peeled, finely chopped",
             "40g/1\u00bdoz butter",
             "1 free-range egg, beaten"
+        ],
+        "For the pastry": [
+            "450g/1lb plain flour, plus extra for dusting",
+            "2 tsp baking powder",
+            "1 tsp salt",
+            "125g/4\u00bdoz unsalted butter",
+            "2 free-range egg yolks",
+            "125ml/4\u00bdfl oz cold water"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "10",
+    "serves": "4-6",
+    "show": {
+        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
     },
     "steps": [
         "For the pastry, blend the flour, baking powder, salt, butter and egg yolks in a food processor until the mixture resembles breadcrumbs.",
@@ -56,8 +63,9 @@
         "Place the pasties onto a baking tray and transfer to the oven. Bake for 45-50 minutes, or until the pastry is crisp and golden-brown and the filling is cooked through and piping hot (use a meat thermometer to check trhe temperature of the interior).",
         "When the pasties are cooked, remove them from the oven and set aside to rest for 5-10 minutes, then serve."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "The people's Cornish pasty",
     "videos": "[]"
 }

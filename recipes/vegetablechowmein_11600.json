@@ -1,24 +1,25 @@
 {
-    "title": "Vegetable chow mein",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2-4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Noodles stir-fried with vegetables and classic Chinese flavourings such as garlic, ginger and sesame oil, make up this popular dish. Serve as a vegetarian main course or to accompany meat or fish dishes.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Chinese",
+    "description": "Noodles stir-fried with vegetables and classic Chinese flavourings such as garlic, ginger and sesame oil, make up this popular dish. Serve as a vegetarian main course or to accompany meat or fish dishes.",
+    "dishes": [
+        "bun",
+        "jam",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -39,14 +40,21 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 2-4",
+    "show": {
+        "p0077hsg": "Housecall"
+    },
     "steps": [
         "Cook the noodles as per instructions on the pack and drain. Rinse in cold water, drain thoroughly and toss in sesame oil to keep the noodles separate.",
         "Heat a little groundnut oil in a hot wok. Add the ginger and garlic and stir fry briefly. Add the mushrooms and mangetout. Stir fry for 2-3 minutes over a high heat.",
         "Add the noodles, the soy sauce, sherry, seasoning and sugar and stir fry briefly before adding the salad onions, pak choi and beansprouts.",
         "Drizzle with sesame oil just before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Vegetable chow mein",
     "videos": "[]"
 }

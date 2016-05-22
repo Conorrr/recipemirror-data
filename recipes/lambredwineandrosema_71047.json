@@ -1,26 +1,41 @@
 {
-    "title": "Lamb, red wine and rosemary casserole",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "86",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lambredwineandrosema_71047_16x9.jpg"
-    ],
-    "description": "Cook a hearty and unctuous lamb dish and top it all off with Nick Nairn\u2019s tasty side dishes.",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Cook a hearty and unctuous lamb dish and top it all off with Nick Nairn\u2019s tasty side dishes.",
+    "dishes": [
+        "casserole",
+        "jelly",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lambredwineandrosema_71047_16x9.jpg"
+    ],
     "ingredients": {
+        "For the braised red cabbage": [
+            "50g/2oz butter",
+            "750g/1lb 10oz red cabbage, cored and thinly sliced",
+            "2 tbsp redcurrant jelly",
+            "3 tbsp red wine vinegar or sherry vinegar",
+            "1 orange, finely grated zest and juice",
+            "250ml/9fl oz ruby port",
+            "salt",
+            "freshly ground black pepper",
+            "85g/3oz raisins"
+        ],
         "For the casserole": [
             "650g/1lb 7oz boned shoulder of lamb, cut into 2cm/\u00be inch cubes",
             "2 tbsp plain white flour, seasoned",
@@ -45,18 +60,13 @@
             "1 tbsp roughly chopped fresh thyme",
             "salt",
             "freshly ground black pepper"
-        ],
-        "For the braised red cabbage": [
-            "50g/2oz butter",
-            "750g/1lb 10oz red cabbage, cored and thinly sliced",
-            "2 tbsp redcurrant jelly",
-            "3 tbsp red wine vinegar or sherry vinegar",
-            "1 orange, finely grated zest and juice",
-            "250ml/9fl oz ruby port",
-            "salt",
-            "freshly ground black pepper",
-            "85g/3oz raisins"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "86",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -76,8 +86,9 @@
         "Stir in the raisins and bring back to a simmer. Cook gently for another 30 minutes. Check that the cabbage is tender.",
         "Either serve straight away, keep warm in a low oven for up to one hour or cool and reheat."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Lamb, red wine and rosemary casserole",
     "videos": "[]"
 }

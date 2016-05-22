@@ -1,26 +1,57 @@
 {
-    "title": "Chocolate, almond praline and saffron opera cake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 large cake",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Saffron adds a grown-up flavour to this classic French cake made of layers of thin almond sponge, sandwiched with ganache and coffee syrup and topped with a dark chocolate glaze. Equipment and preparation: for this recipe you will need a silicone mat, sugar thermometer, free standing mixer with whisk attachment, three 23x31cm/9x12\u00bdin Swiss roll tins, a rectangular piece of acetate/greaseproof paper (approximately 7x5cm/2\u00bex2in) and a piping bag with a small plain nozzle.",
     "author": {
         "ruby": "Ruby Tandoh"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "French",
+    "description": "Saffron adds a grown-up flavour to this classic French cake made of layers of thin almond sponge, sandwiched with ganache and coffee syrup and topped with a dark chocolate glaze. Equipment and preparation: for this recipe you will need a silicone mat, sugar thermometer, free standing mixer with whisk attachment, three 23x31cm/9x12\u00bdin Swiss roll tins, a rectangular piece of acetate/greaseproof paper (approximately 7x5cm/2\u00bex2in) and a piping bag with a small plain nozzle.",
+    "dishes": [
+        "cake",
+        "caramel",
+        "icing",
+        "oven-baked_dishes",
+        "pie",
+        "praline",
+        "sandwich",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "how_to_make_caramel_and_praline",
+        "melting_chocolate",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dark chocolate glaze": [
+            "240ml/8\u00bdfl oz cream",
+            "225g/8oz dark chocolate, finely chopped",
+            "1 tbsp liquid glucose (or butter)"
+        ],
+        "For the decoration": [
+            "50g/1\u00beoz dark chocolate",
+            "300g/10\u00bdoz white chocolate",
+            "pinch saffron threads"
+        ],
+        "For the ganache": [
+            "230ml/8fl oz double cream",
+            "pinch saffron threads",
+            "140g/5oz dark chocolate (minimum 70% cocoa solids), broken into small pieces",
+            "140g/5oz milk chocolate, broken into small pieces",
+            "1 tbsp soft butter"
+        ],
+        "For the praline buttercream": [
+            "700g/1lb 9oz caster sugar",
+            "200g/7oz flaked almonds, toasted",
+            "8 free-range egg yolks (partly from above)",
+            "300g/10\u00bdoz butter, at room temperature"
+        ],
         "For the sponge cake": [
             "7 free-range eggs, whites only (yolks reserved for buttercream)",
             "50g/1\u00beoz caster sugar",
@@ -31,35 +62,18 @@
             "55g/2oz unsalted butter, melted and cooled, plus extra for greasing",
             "1-2 tsp vanilla extract"
         ],
-        "For the praline buttercream": [
-            "700g/1lb 9oz caster sugar",
-            "200g/7oz flaked almonds, toasted",
-            "8 free-range egg yolks (partly from above)",
-            "300g/10\u00bdoz butter, at room temperature"
-        ],
-        "For the ganache": [
-            "230ml/8fl oz double cream",
-            "pinch saffron threads",
-            "140g/5oz dark chocolate (minimum 70% cocoa solids), broken into small pieces",
-            "140g/5oz milk chocolate, broken into small pieces",
-            "1 tbsp soft butter"
-        ],
         "For the syrup": [
             "150g/5\u00bdoz caster sugar",
             "1 tsp coffee essence",
             "3-4 tbsp amaretto liqueur",
             "pinch saffron threads"
-        ],
-        "For the decoration": [
-            "50g/1\u00beoz dark chocolate",
-            "300g/10\u00bdoz white chocolate",
-            "pinch saffron threads"
-        ],
-        "For the dark chocolate glaze": [
-            "240ml/8\u00bdfl oz cream",
-            "225g/8oz dark chocolate, finely chopped",
-            "1 tbsp liquid glucose (or butter)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 1 large cake",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Grease and line 3 x 23x31cm/9x12.5in Swiss roll tins.",
@@ -86,11 +100,9 @@
         "For the chocolate decoration, melt the remaining white chocolate and pour into a piping bag with a small plain nozzle attached.",
         "When the buttercream is chilled, pour a smooth layer of the dark chocolate glaze on top of the cake, taking care not to let it run down the edges. Place the chocolate decoration in the middle and pipe the melted white chocolate into shapes to decorate."
     ],
-    "howTos": [
-        "folding",
-        "how_to_make_caramel_and_praline",
-        "melting_chocolate",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Chocolate, almond praline and saffron opera cake",
     "videos": "[]"
 }

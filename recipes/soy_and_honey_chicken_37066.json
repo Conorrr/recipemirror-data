@@ -1,26 +1,31 @@
 {
-    "title": "Soy and honey chicken with coconut brown rice",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "62",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/soy_and_honey_chicken_37066_16x9.jpg"
-    ],
-    "description": "This quick, easy recipe by MasterChef\u2019s Monica Galetti is inspired by her mother\u2019s home cooking back in New Zealand. Each serving provides 359kcal, 28g protein, 35g carbohydrate (of which 7g sugars), 11g fat (of which 2.5g saturates), 2g fibre and 1.2g salt.",
     "author": {
         "monica_galetti": "Monica Galetti"
     },
-    "show": {
-        "b03mzc66": "Food & Drink"
-    },
-    "tips": [
-        "It's important to start cooking the chicken in a cold pan so that meat stews as it cooks. If the pan is hot, the honey and soy sauce will caramelise before the meat is cooked through."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "This quick, easy recipe by MasterChef\u2019s Monica Galetti is inspired by her mother\u2019s home cooking back in New Zealand. Each serving provides 359kcal, 28g protein, 35g carbohydrate (of which 7g sugars), 11g fat (of which 2.5g saturates), 2g fibre and 1.2g salt.",
+    "dishes": [
+        "caramel",
+        "sauce",
+        "stew",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/soy_and_honey_chicken_37066_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "1 tbsp sesame oil",
+            "1 tbsp rapeseed oil",
+            "2 heads of bok choi, halved"
+        ],
         "default": [
             "4 tsp clear honey",
             "4 tsp soy sauce",
@@ -31,12 +36,13 @@
             "1 tsp black sesame seeds",
             "handful fresh coriander leaves",
             "1 tsp pumpkin seeds, chopped"
-        ],
-        "To serve": [
-            "1 tbsp sesame oil",
-            "1 tbsp rapeseed oil",
-            "2 heads of bok choi, halved"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "62",
+    "serves": "Serves 4",
+    "show": {
+        "b03mzc66": "Food & Drink"
     },
     "steps": [
         "In a bowl, mix together the honey and soy sauce. Add the chicken thighs and mix until completely coated in the marinade.",
@@ -46,8 +52,9 @@
         "When the rice is cooked, fluff it with a fork, then stir through the coconut oil, sesame seeds and coriander. Sprinkle over the chopped pumpkin seeds.",
         "To serve, spoon the rice onto serving plates and top with the soy and honey chicken. Place the bok choi alongside."
     ],
-    "howTos": [
-        
+    "tips": [
+        "It's important to start cooking the chicken in a cold pan so that meat stews as it cooks. If the pan is hot, the honey and soy sauce will caramelise before the meat is cooked through."
     ],
+    "title": "Soy and honey chicken with coconut brown rice",
     "videos": "[]"
 }

@@ -1,24 +1,24 @@
 {
-    "title": "Tarka dal",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "113",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/tarkadal_90055_16x9.jpg"
-    ],
-    "description": "Cheap, delicious and healthy - dal is the perfect comfort food supper.",
     "author": {
         "anjum_anand": "Anjum Anand"
     },
-    "show": {
-        "b007szxr": "Indian Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Indian",
+    "description": "Cheap, delicious and healthy - dal is the perfect comfort food supper.",
+    "dishes": [
+        "dal",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "skimming_stock"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/tarkadal_90055_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -37,6 +37,12 @@
             "handful chopped fresh coriander leaves"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "113",
+    "serves": "Serves 4-6",
+    "show": {
+        "b007szxr": "Indian Food Made Easy"
+    },
     "steps": [
         "Place the lentils and 900ml/1\u00be pints of the water into a pan, stir well and bring to the boil. Skim off any froth that forms on the surface of the water with a spoon. Cover the pan with a lid and reduce the heat to a simmer. Simmer, stirring regularly, for 35-40 minutes, or until the lentils are just tender, adding more water as necessary.",
         "When the lentils have cooked through, remove the pan from the heat and use a whisk to break down the lentils. Set the mixture aside to thicken and cool.",
@@ -46,8 +52,9 @@
         "Add the ground spices and 100ml/3\u00bdfl oz of water to the pan and stir well to combine. Season, to taste, with salt and simmer over a medium heat for 15-20 minutes, or until the oil from the sauce has risen to the surface of the sauce.",
         "Add the cooked lentils to the sauce and stir well, adding more water as necessary to loosen the mixture. Bring the mixture to the boil and season, to taste, with salt and freshly ground black pepper. Stir in the chopped coriander just before serving."
     ],
-    "howTos": [
-        "skimming_stock"
+    "tips": [
+        
     ],
+    "title": "Tarka dal",
     "videos": "[]"
 }

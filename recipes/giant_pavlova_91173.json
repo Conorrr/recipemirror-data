@@ -1,24 +1,26 @@
 {
-    "title": "Giant pavlova",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10-12",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/giant_pavlova_91173_16x9.jpg"
-    ],
-    "description": "The Hairy Bikers don't do anything by halves, and this generous dessert is no exception. Just add friends.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b01qkkjj": "Hairy Bikers Everyday Gourmets"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "The Hairy Bikers don't do anything by halves, and this generous dessert is no exception. Just add friends.",
+    "dishes": [
+        "cake",
+        "icing",
+        "meringue",
+        "oven-baked_dishes",
+        "pavlova",
+        "sauce",
+        "stew"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "whisking_egg_whites"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/giant_pavlova_91173_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,6 +34,12 @@
             "Icing sugar, for dusting"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 10-12",
+    "show": {
+        "b01qkkjj": "Hairy Bikers Everyday Gourmets"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "Line two baking trays with baking parchment.",
@@ -44,8 +52,9 @@
         "When the meringues have cooked, gently peel off the baking parchment.",
         "To serve, place one of the meringues onto a serving plate or cake stand. Spoon half of the cream and fruit mixture on top of it. Top with the second meringue and spoon over the remaining cream and fruit mixture. Dust with icing sugar and serve immediately."
     ],
-    "howTos": [
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Giant pavlova",
     "videos": "[]"
 }

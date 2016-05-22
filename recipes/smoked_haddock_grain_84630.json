@@ -1,37 +1,26 @@
 {
-    "title": "Smoked haddock, mustard butter sauce and Iberico ham",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/smoked_haddock_grain_84630_16x9.jpg"
-    ],
-    "description": "Smoked haddock is accompanied by a buttery mustard sauce, wilted spinach and salty Iberico ham. Perfect to impress your friends at a dinner party.",
     "author": {
         "daniel_clifford": "Daniel Clifford"
     },
-    "show": {
-        "b04wl5mz": "Series 3"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Smoked haddock is accompanied by a buttery mustard sauce, wilted spinach and salty Iberico ham. Perfect to impress your friends at a dinner party.",
+    "dishes": [
+        "fish_pie",
+        "ham",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/smoked_haddock_grain_84630_16x9.jpg"
+    ],
     "ingredients": {
-        "For the potatoes": [
-            "200g/7oz floury potatoes (preferably Mayan Gold), peeled and sliced thickly",
-            "50g/1\u00beoz butter"
-        ],
-        "For the haddock": [
-            "2 large fillets smoked haddock, pin-boned and cut into 125g/4\u00bdoz chunks",
-            "100ml/3\u00bdfl oz whole milk, or enough to cover the haddock fillets",
-            "2 bay leaves",
-            "3 sprigs thyme",
-            "3 garlic cloves, sliced"
-        ],
         "For the grain mustard butter sauce": [
             "100g/3\u00bdoz unsalted butter",
             "2 garlic cloves, thinly sliced",
@@ -43,6 +32,13 @@
             "pinch chopped tarragon, preferably fresh",
             "2 tbsp chopped chives"
         ],
+        "For the haddock": [
+            "2 large fillets smoked haddock, pin-boned and cut into 125g/4\u00bdoz chunks",
+            "100ml/3\u00bdfl oz whole milk, or enough to cover the haddock fillets",
+            "2 bay leaves",
+            "3 sprigs thyme",
+            "3 garlic cloves, sliced"
+        ],
         "For the poached eggs and spinach": [
             "2 free-range eggs",
             "2 tbsp white wine vinegar",
@@ -51,7 +47,17 @@
             "50g/1\u00beoz unsalted butter",
             "1 garlic clove, peeled and left whole",
             "Iberico ham, to serve"
+        ],
+        "For the potatoes": [
+            "200g/7oz floury potatoes (preferably Mayan Gold), peeled and sliced thickly",
+            "50g/1\u00beoz butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 2",
+    "show": {
+        "b04wl5mz": "Series 3"
     },
     "steps": [
         "Bring a pan of salted water to the boil. Add the potatoes and butter and cook for approximately 20 minutes, or until tender.",
@@ -61,8 +67,9 @@
         "In a saucepan, melt the butter over a medium heat. Add the spinach and cook until wilted. Stab the clove of garlic onto a fork and use it to stir the spinach around the pan. Discard the garlic.",
         "Place the spinach in the centre of the plates. Spoon the potatoes around the spinach and place the haddock on the spinach. Top with the poached egg and pour over the sauce. Garnish with Iberico ham."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Smoked haddock, mustard butter sauce and Iberico ham",
     "videos": "[]"
 }

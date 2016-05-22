@@ -1,47 +1,54 @@
 {
-    "title": "Good vegetable soup",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4-6",
-    "recommendations": "66",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/goodvegetablesoup_73412_16x9.jpg"
-    ],
-    "description": "The ultimate vegetable soup is a meal in itself, packed full with healthy veggies, spices and aromatics. This meal, if served as four portions, provides 110kcal, 3g protein, 13g carbohydrate (of which 5g sugars), 14g fat (of which 0.6g saturates), 4g fibre and 1g salt per portion.",
     "author": {
         "sophie_grigson": "Sophie Grigson"
     },
-    "show": {
-        "p007b4j1": "Veg Talk"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "The ultimate vegetable soup is a meal in itself, packed full with healthy veggies, spices and aromatics. This meal, if served as four portions, provides 110kcal, 3g protein, 13g carbohydrate (of which 5g sugars), 14g fat (of which 0.6g saturates), 4g fibre and 1g salt per portion.",
+    "dishes": [
+        "curry",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock",
+        "vegetable_soup"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/goodvegetablesoup_73412_16x9.jpg"
+    ],
     "ingredients": {
-        "For the base ingredients": [
-            "2 tbsp olive or sunflower oil, or 30g/1oz butter",
-            "1 onion, peeled and chopped",
-            "1 garlic clove, peeled and chopped"
-        ],
         "For the aromatics": [
             "1 bouquet garni",
             "and/or 1-2 fresh red chillies, de-seeded and chopped",
             "or 1 tsp or more curry paste or curry powder or spices, e.g. cumin, fennel seeds, cinnamon, etc"
         ],
-        "For the main ingredients": [
-            "1 potato, or other thickener if needed, peeled and cut into chunks",
-            "500g/18oz vegetables, prepared as appropriate and roughly chopped"
+        "For the base ingredients": [
+            "2 tbsp olive or sunflower oil, or 30g/1oz butter",
+            "1 onion, peeled and chopped",
+            "1 garlic clove, peeled and chopped"
         ],
         "For the liquid": [
             "1-1.5 litres/1\u00be-2\u00be pints) vegetable or chicken stock, or vegetable cooking water, or a mixture of water and milk"
+        ],
+        "For the main ingredients": [
+            "1 potato, or other thickener if needed, peeled and cut into chunks",
+            "500g/18oz vegetables, prepared as appropriate and roughly chopped"
         ],
         "Seasonings": [
             "salt",
             "freshly ground black pepper"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "66",
+    "serves": "Serves 4-6",
+    "show": {
+        "p007b4j1": "Veg Talk"
     },
     "steps": [
         "Heat the oil or butter gently in a large saucepan, then add the base ingredients, the aromatics and the main ingredients. Stir around to coat everything in the fat, then sweat very gently for 10-15 minutes.",
@@ -49,8 +56,9 @@
         "Liquidise in several batches, and return to the pan. Thin down with the reserved stock, water or milk as required, and check the seasoning",
         "Reheat when needed."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Good vegetable soup",
     "videos": "[]"
 }

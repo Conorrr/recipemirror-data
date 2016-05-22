@@ -1,31 +1,28 @@
 {
-    "title": "Roasted vegetable quiche",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 10-12",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Filled with colourful chunky vegetables and large enough to serve a crowd, this would make a decorative addition to an Easter feast. Roasting the vegetables, and including Gruye\u0300re with its distinctive flavour, ensures that it is very moreish too. For this recipe you will need a 28cm/11in loose-bottomed fluted tart tin and some baking beans.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b074bqr2": "Mary Berry's Easter Feast"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Filled with colourful chunky vegetables and large enough to serve a crowd, this would make a decorative addition to an Easter feast. Roasting the vegetables, and including Gruye\u0300re with its distinctive flavour, ensures that it is very moreish too. For this recipe you will need a 28cm/11in loose-bottomed fluted tart tin and some baking beans.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "quiche",
+        "sandwich"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry",
+        "how_to_roast_vegetables",
+        "pulsing"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "225g/8oz plain flour, plus extra for dusting",
-            "175g/6oz cold butter, cubed",
-            "1 free-range egg, beaten"
-        ],
         "For the filling": [
             "2 onions, quartered, then halve each quarter lenghtways",
             "200g/7oz baby courgettes, halved lengthways",
@@ -35,7 +32,18 @@
             "4 free-range eggs",
             "180g/6\u00bd oz gruye\u0300re cheese (or vegetarian alternative), grated",
             "salt and freshly ground black pepper"
+        ],
+        "For the pastry": [
+            "225g/8oz plain flour, plus extra for dusting",
+            "175g/6oz cold butter, cubed",
+            "1 free-range egg, beaten"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 10-12",
+    "show": {
+        "b074bqr2": "Mary Berry's Easter Feast"
     },
     "steps": [
         "Put the flour and butter in a food processor and pulse until they take on the texture of bread crumbs. (Or place in a mixing bowl and rub the butter into the flour with your fingertips). Once combined, add the egg and 1 tablespoon cold water and pulse until combined (or mix by hand).",
@@ -48,10 +56,9 @@
         "Once the vegetables are roasted you are ready to assemble the quiche. Sprinkle the remaining cheese onto the base of the pastry case. Pile in the vegetables, spreading them out so that they are evenly distributed, and pour over the cream mixture.",
         "Bake the quiche for 25\u201335 minutes or until the filling is set and golden-brown on top. Take out of the oven and leave to cool slightly before removing from the tin and transferring to a serving plate. Serve warm."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry",
-        "how_to_roast_vegetables",
-        "pulsing"
+    "tips": [
+        
     ],
+    "title": "Roasted vegetable quiche",
     "videos": "[]"
 }

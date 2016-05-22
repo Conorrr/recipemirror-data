@@ -1,33 +1,33 @@
 {
-    "title": "Buffalo and ale pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Water buffalo are now farmed in the UK. Their meat makes a delicious alternative to beef: it\u2019s lean and cooks to a lovely tenderness, with a rich flavour. If you can\u2019t get hold of buffalo, you can use good stewing beef such as braising or chuck steak (simmer it for about twice as long before putting in the pie). Equipment: You will need a 1.5 litre/2\u00bd pint pie dish and a pie funnel.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b03hcv64": "Paul Hollywood's Pies & Puds"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Water buffalo are now farmed in the UK. Their meat makes a delicious alternative to beef: it\u2019s lean and cooks to a lovely tenderness, with a rich flavour. If you can\u2019t get hold of buffalo, you can use good stewing beef such as braising or chuck steak (simmer it for about twice as long before putting in the pie). Equipment: You will need a 1.5 litre/2\u00bd pint pie dish and a pie funnel.",
+    "dishes": [
+        "casserole",
+        "gravy",
+        "ketchup",
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stew",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "browning_meat",
+        "making_pastry_lids",
+        "rolling_pastry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the flaky pastry": [
-            "175g/6oz plain flour",
-            "pinch salt",
-            "65g/2\u00bcoz cold, unsalted butter, cut into 5-10mm/\u00bc-\u00bdin cubes",
-            "65g/2\u00bcoz cold lard, cut into 5-10mm/\u00bc-\u00bdin cubes",
-            "1 tsp lemon juice"
-        ],
         "For the filling": [
             "2 tbsp plain flour",
             "1kg/2lb 4oz buffalo stewing steak, cut into 4-5cm/2in cubes",
@@ -43,7 +43,20 @@
             "1 tsp soft dark brown sugar",
             "salt and freshly ground black pepper",
             "1 free-range egg, beaten, for glazing"
+        ],
+        "For the flaky pastry": [
+            "175g/6oz plain flour",
+            "pinch salt",
+            "65g/2\u00bcoz cold, unsalted butter, cut into 5-10mm/\u00bc-\u00bdin cubes",
+            "65g/2\u00bcoz cold lard, cut into 5-10mm/\u00bc-\u00bdin cubes",
+            "1 tsp lemon juice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4-6",
+    "show": {
+        "b03hcv64": "Paul Hollywood's Pies & Puds"
     },
     "steps": [
         "To make the flaky pastry, combine the flour and salt in a large bowl. Put the butter and lard in a separate bowl, mixing them together loosely.",
@@ -66,10 +79,9 @@
         "Cut the remaining pastry a little larger than the pie dish. Sit a pie funnel in the centre of the filling. Press the lid over the top and crimp the edges. Trim away the excess pastry.",
         "Brush the pastry with beaten egg and make a steam hole exposing the funnel. Bake for 35-40 minutes until the pastry is crisp and golden-brown. Leave to settle for 10-15 minutes before serving."
     ],
-    "howTos": [
-        "browning_meat",
-        "making_pastry_lids",
-        "rolling_pastry"
+    "tips": [
+        
     ],
+    "title": "Buffalo and ale pie",
     "videos": "[]"
 }

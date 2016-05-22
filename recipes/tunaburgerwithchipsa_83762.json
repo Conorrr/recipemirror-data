@@ -1,34 +1,25 @@
 {
-    "title": "Tuna burger with chips and roasted tomatoes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "chips",
+        "oven-baked_dishes",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the tuna burger": [
-            "100g/3\u00bdoz tuna steak",
-            "2 salad onions, chopped",
-            "1 tsp soy sauce",
-            "pinch caster sugar",
-            "2 tsp sesame seeds",
-            "salt and freshly ground black pepper"
-        ],
         "For the chips": [
             "100g/3\u00bdoz new potatoes, blanched and halved",
             "1 tbsp olive oil"
@@ -39,7 +30,21 @@
             "1 tbsp balsamic vinegar",
             "1 tsp dried chilli flakes",
             "salt and freshly ground black pepper"
+        ],
+        "For the tuna burger": [
+            "100g/3\u00bdoz tuna steak",
+            "2 salad onions, chopped",
+            "1 tsp soy sauce",
+            "pinch caster sugar",
+            "2 tsp sesame seeds",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -50,8 +55,9 @@
         "For the roasted tomatoes, place the tomatoes onto a small baking sheet. Drizzle over the oil and balsamic vinegar and sprinkle over the dried chilli flakes. Season well with salt and freshly ground black pepper and place into the oven to roast for 8-10 minutes, until softened.",
         "To serve, place the tuna burger on a warm plate with some of the tomatoes on top and the chips alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tuna burger with chips and roasted tomatoes",
     "videos": "[]"
 }

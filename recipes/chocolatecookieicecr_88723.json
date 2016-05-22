@@ -1,26 +1,36 @@
 {
-    "title": "Chocolate cookie ice cream sandwich",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 5-6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "American",
+    "description": "",
+    "dishes": [
+        "chips",
+        "cookies",
+        "oven-baked_dishes",
+        "sandwich",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chocolate sauce": [
+            "75g/2\u00bdoz butter",
+            "75g/2\u00bdoz sugar",
+            "75ml/2\u00bdfl oz double cream",
+            "75g/2\u00bdoz cocoa powder",
+            "75ml/2\u00bdfl oz water",
+            "75g/2\u00bdoz dark chocolate, chopped"
+        ],
         "For the cookies": [
             "75ml/2\u00bdoz butter, melted, plus extra for greasing",
             "250g/9oz soft dark brown sugar",
@@ -33,17 +43,15 @@
             "150g/5oz chocolate chips (available from supermarkets and baking shops)",
             "crisp-coated chocolates (such as Smarties or M&Ms), to decorate"
         ],
-        "For the chocolate sauce": [
-            "75g/2\u00bdoz butter",
-            "75g/2\u00bdoz sugar",
-            "75ml/2\u00bdfl oz double cream",
-            "75g/2\u00bdoz cocoa powder",
-            "75ml/2\u00bdfl oz water",
-            "75g/2\u00bdoz dark chocolate, chopped"
-        ],
         "To serve": [
             "vanilla ice cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 5-6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -56,8 +64,9 @@
         "Meanwhile, for the chocolate sauce, place the butter, sugar, cream, cocoa powder, water and chocolate into a pan over a low heat and stir until combined. Cook gently for 4-5 minutes until thick and glossy.",
         "To serve, place one cookie onto each plate. Add a large spoonful of ice cream and sandwich with a second cookie on top. Drizzle with chocolate sauce and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chocolate cookie ice cream sandwich",
     "videos": "[]"
 }

@@ -1,26 +1,31 @@
 {
-    "title": "Chestnut, roasted butternut squash and Bramley apple soup",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "",
-    "recommendations": "8",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chestnutroastedbutte_90627_16x9.jpg"
-    ],
-    "description": "This hearty, rib-sticking soup welcomes all sorts of Christmas leftovers and brings out the best in them.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00g24tp": "The Hairy Bakers' Christmas Special"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This hearty, rib-sticking soup welcomes all sorts of Christmas leftovers and brings out the best in them.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "soup",
+        "stir-fries",
+        "stock",
+        "vegetable_soup"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chestnutroastedbutte_90627_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "truffle oil, for drizzling",
+            "double cream, for drizzling (optional)"
+        ],
         "default": [
             "1.5kg/3lb 5oz butternut squash, seeds removed, flesh cut into large wedges",
             "5 tbsp olive oil",
@@ -34,11 +39,13 @@
             "500g/1lb 2oz chestnuts, roasted and peeled, plus extra, sliced, to serve",
             "400g/14oz ready-made chestnut pur\u00e9e",
             "salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "truffle oil, for drizzling",
-            "double cream, for drizzling (optional)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "",
+    "show": {
+        "b00g24tp": "The Hairy Bakers' Christmas Special"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -50,8 +57,9 @@
         "Transfer the mixture to a food processor and blend until smooth. Return to the pan and heat until warmed through.",
         "To serve, divide the soup equally between ten serving bowls. Garnish each serving with a few drops of truffle oil and cream (if using) and sprinkle over the sliced roasted chestnuts."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chestnut, roasted butternut squash and Bramley apple soup",
     "videos": "[]"
 }

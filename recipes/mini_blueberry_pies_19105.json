@@ -1,24 +1,28 @@
 {
-    "title": "Mini blueberry pies",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Cute, individual blueberry pies with decadent toppings of clotted cream and homemade custard. You\u2019ll need four dariole moulds for this recipe.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        "Making a quenelle out of clotted cream is achieved by dipping a hot spoon into boiling water and scooping the cream in one movement. Make sure the spoon is dipped into the water each time."
+    "cookTime": "30 mins to 1 hour",
+    "description": "Cute, individual blueberry pies with decadent toppings of clotted cream and homemade custard. You\u2019ll need four dariole moulds for this recipe.",
+    "dishes": [
+        "bread",
+        "compote",
+        "custard",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "quenelle",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the blueberry pie": [
@@ -32,17 +36,23 @@
             "2 free-range egg yolks, beaten",
             "200g/7oz clotted cream"
         ],
+        "For the compote": [
+            "150g/5oz blueberries",
+            "50g/2oz caster sugar",
+            "2 tbsp water"
+        ],
         "For the custard": [
             "4 free-range egg yolks",
             "40g/1\u00bdoz caster sugar",
             "150ml/5floz milk",
             "150ml/5floz double cream"
-        ],
-        "For the compote": [
-            "150g/5oz blueberries",
-            "50g/2oz caster sugar",
-            "2 tbsp water"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the pie, place the flour, salt and butter into a bowl and rub together until the mixture resembles breadcrumbs.",
@@ -59,8 +69,9 @@
         "For the compote, heat a frying pan until hot, add the blueberries, sugar and water and cook for 2-3 minutes, or until syrupy.",
         "To serve, spoon the custard in a pool in the centre of the plate then turn the pie out on top. Drizzle the compote around the plate and finish with a quenelle of clotted cream."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Making a quenelle out of clotted cream is achieved by dipping a hot spoon into boiling water and scooping the cream in one movement. Make sure the spoon is dipped into the water each time."
     ],
+    "title": "Mini blueberry pies",
     "videos": "[]"
 }

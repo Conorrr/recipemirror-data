@@ -1,36 +1,30 @@
 {
-    "title": "Cheese and onion pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "45",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cheeseandonionpie_89625_16x9.jpg"
-    ],
-    "description": "This stunning vegetarian pie is perfect for a picnic or lunchbox and looks just as at home at the centre of the dinner table.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00d6g4f": "The Hairy Bakers"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This stunning vegetarian pie is perfect for a picnic or lunchbox and looks just as at home at the centre of the dinner table.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "making_pastry_lids",
+        "lining_tin_with_pastry",
+        "trimming_pastry_case",
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cheeseandonionpie_89625_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pastry": [
-            "450g/1lb plain flour, plus extra for dusting",
-            "2 tsp baking powder",
-            "\u00bd tsp salt",
-            "120g/4\u00bdoz unsalted butter, plus extra for greasing",
-            "1 free-range egg yolk",
-            "50g/2oz parmesan cheese (or a similar vegetarian hard cheese), grated",
-            "120ml/4fl oz water",
-            "1 free-range egg, beaten, for glazing"
-        ],
         "For the filling": [
             "1 medium potato, peeled and cut into cubes",
             "2 onions, finely sliced",
@@ -41,7 +35,23 @@
             "\u00bd tsp English mustard",
             "\u00bd tsp cayenne pepper",
             "salt and freshly ground black pepper"
+        ],
+        "For the pastry": [
+            "450g/1lb plain flour, plus extra for dusting",
+            "2 tsp baking powder",
+            "\u00bd tsp salt",
+            "120g/4\u00bdoz unsalted butter, plus extra for greasing",
+            "1 free-range egg yolk",
+            "50g/2oz parmesan cheese (or a similar vegetarian hard cheese), grated",
+            "120ml/4fl oz water",
+            "1 free-range egg, beaten, for glazing"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "45",
+    "serves": "Serves 4",
+    "show": {
+        "b00d6g4f": "The Hairy Bakers"
     },
     "steps": [
         "For the pastry, pulse the flour, baking powder, salt, butter and egg yolk in a food processor until the mixture resembles breadcrumbs. Add the grated parmesan and stir until well combined.",
@@ -55,11 +65,9 @@
         "Roll the remaining one third of the pastry out onto a clean, floured work surface until it is slightly larger than the diameter of the pie tin. Brush the rim of the cooked pastry case with some of the beaten egg and place the pastry lid on top of the pie. Trim off any excess pastry. Seal the pastry lid to the pastry case by crimping the edges of the pastry lid with a fork.",
         "With a knife, make two small holes in the centre of the pastry lid to allow steam to escape. Brush the pastry lid with the remaining beaten egg, then transfer to the oven and bake for 25-30 mins, or until golden-brown."
     ],
-    "howTos": [
-        "making_pastry_lids",
-        "lining_tin_with_pastry",
-        "trimming_pastry_case",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Cheese and onion pie",
     "videos": "[]"
 }

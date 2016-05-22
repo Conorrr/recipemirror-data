@@ -1,26 +1,28 @@
 {
-    "title": "Venison chilli",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Mexican",
+    "description": "",
+    "dishes": [
+        "pie",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "plain rice, cooked according to packet instructions",
+            "4 soft flour tortillas"
+        ],
         "default": [
             "1 tbsp vegetable oil",
             "450g/1lb venison shoulder, trimmed and cut into large pieces",
@@ -39,11 +41,13 @@
             "400g/14oz canned chopped tomatoes",
             "salt and freshly ground black pepper",
             "50g/1\u00beoz dark chocolate, grated"
-        ],
-        "To serve": [
-            "plain rice, cooked according to packet instructions",
-            "4 soft flour tortillas"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Heat the vegetable oil in a non-stick frying pan until hot and add the venison. Fry the meat for a few minutes on each side, until golden-brown all over. Remove the venison from the pan and set aside to keep warm.",
@@ -53,8 +57,9 @@
         "Return the venison to the pan and add the grated chocolate. Reduce the heat to very low and simmer for one hour, or until the venison is tender.",
         "To serve, place the venison chilli onto plates. Spoon some plain rice alongside and serve with the soft flour tortillas."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Venison chilli",
     "videos": "[]"
 }

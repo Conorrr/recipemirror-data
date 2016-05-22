@@ -1,24 +1,29 @@
 {
-    "title": "Fondant fancies",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 25",
-    "recommendations": "9",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fondant_fancies_28732_16x9.jpg"
-    ],
-    "description": "These miniature cakes are perfect for a posh afternoon tea.",
     "author": {
         "mari_williams": "Mari Williams"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "Try replacing the lemon essence in the sugar syrup with rose water, peppermint essence or even orange essence. You could match the colour of the cake to the sugar syrup used - yellow cakes flavoured with lemon syrup, pink cakes flavoured with rose water syrup and the green cakes with peppermint syrup."
+    "cookTime": "over 2 hours",
+    "description": "These miniature cakes are perfect for a posh afternoon tea.",
+    "dishes": [
+        "cake",
+        "fondant_fancies",
+        "icing",
+        "jam",
+        "marzipan",
+        "oven-baked_dishes",
+        "sandwich",
+        "sauce",
+        "stir-fries",
+        "upside-down_cake"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fondant_fancies_28732_16x9.jpg"
     ],
     "ingredients": {
         "For the cake": [
@@ -28,15 +33,15 @@
             "175g/6oz self-raising flour",
             "1-2 tbsp milk"
         ],
-        "For the syrup": [
-            "50g/1\u00beoz caster sugar",
-            "50ml/2fl oz water",
-            "\u00bc tsp lemon essence"
-        ],
         "For the filling": [
             "150g/5\u00bdoz icing sugar",
             "75g/2\u00beoz butter, softened",
             "3-5 tbsp strawberry jam"
+        ],
+        "For the syrup": [
+            "50g/1\u00beoz caster sugar",
+            "50ml/2fl oz water",
+            "\u00bc tsp lemon essence"
         ],
         "For the topping": [
             "2 tbsp apricot jam, warmed gently, then passed through a sieve",
@@ -45,6 +50,12 @@
             "green, pink and yellow food colouring",
             "sugar flowers, to decorate"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Makes 25",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5. Grease and line a 20cm/8in square cake tin.",
@@ -62,8 +73,9 @@
         "Coat the cake squares with the icing, easing the icing down the sides of the cakes until you have an even coating all over the cakes. Sit the cakes on a cooling rack until the icing is set.",
         "Spoon the reserved icing into a piping bag with a very fine nozzle and pipe simple decorations onto the fondant fancies. Squeeze a little of the icing onto the sugar flowers and use them to decorate the fondant fancies."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Try replacing the lemon essence in the sugar syrup with rose water, peppermint essence or even orange essence. You could match the colour of the cake to the sugar syrup used - yellow cakes flavoured with lemon syrup, pink cakes flavoured with rose water syrup and the green cakes with peppermint syrup."
     ],
+    "title": "Fondant fancies",
     "videos": "[]"
 }

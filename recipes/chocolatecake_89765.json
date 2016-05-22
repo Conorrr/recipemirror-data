@@ -1,24 +1,27 @@
 {
-    "title": "Chocolate cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 1",
-    "recommendations": "41",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolatecake_89765_16x9.jpg"
-    ],
-    "description": "Covered in chocolate icing and decorated with sweets, this cake is perfect for a children's birthday party.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00d6g4f": "The Hairy Bakers"
-    },
-    "tips": [
-        "This recipe makes one 25cm/10in chocolate cake. To make the larger cake The Hairy Bakers made, use double the quantities given and bake in two tins."
+    "cookTime": "30 mins to 1 hour",
+    "description": "Covered in chocolate icing and decorated with sweets, this cake is perfect for a children's birthday party.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sandwich",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "creaming"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolatecake_89765_16x9.jpg"
     ],
     "ingredients": {
         "For the chocolate cake": [
@@ -43,6 +46,12 @@
             "chocolate buttons, to decorate"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "41",
+    "serves": "Makes 1",
+    "show": {
+        "b00d6g4f": "The Hairy Bakers"
+    },
     "steps": [
         "Preheat the oven to 170C/325F/Gas 3.",
         "Grease a 25cm/10in cake tin with butter and line with greaseproof paper.",
@@ -60,8 +69,9 @@
         "Bring a little water to the boil in a pan, reduce the heat to a simmer and suspend a heatproof bowl over the simmering water. (Do not allow the base of the bowl to touch the water.) Add the chocolate to the bowl and allow to melt. Spread the melted chocolate over the top and sides of the cake.",
         "While the chocolate is still soft, place the jellied sweets and chocolate buttons all over the cake to decorate. Set aside to cool until the chocolate has cooled."
     ],
-    "howTos": [
-        "creaming"
+    "tips": [
+        "This recipe makes one 25cm/10in chocolate cake. To make the larger cake The Hairy Bakers made, use double the quantities given and bake in two tins."
     ],
+    "title": "Chocolate cake",
     "videos": "[]"
 }

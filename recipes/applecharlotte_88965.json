@@ -1,24 +1,25 @@
 {
-    "title": "Apple charlotte",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "jane_horrocks": "Jane Horrocks"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "cake",
+        "charlotte",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,6 +31,12 @@
             "50g/2oz butter, melted, plus extra for greasing"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b00701fw": "A Taste of My Life"
+    },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5.",
         "Place the apples, lemon zest and juice, sugar and cinnamon into a heavy-based saucepan over a medium heat. Cover and bring to a simmer. Simmer, stirring frequently, until the apples break down and become soft.",
@@ -39,8 +46,9 @@
         "Spoon the apple pur\u00e9e into the tin and cover with the remaining slices of bread, overlapping the slices so that there are no gaps. Fold down the bread lining the sides of the tin and press down onto the bread lid to seal.",
         "Transfer to the oven and bake for 30 minutes or until golden-brown. Remove from the oven and leave to cool slightly. Serve."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Apple charlotte",
     "videos": "[]"
 }

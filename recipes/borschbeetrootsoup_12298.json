@@ -1,24 +1,22 @@
 {
-    "title": "Borsch (beetroot soup)",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "martin_blunos": "Martin Blunos"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "East_European",
+    "description": "",
+    "dishes": [
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,14 +31,21 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Peel and roughly chop the vegetables. Place in a large pan with the bay leaf and caraway seeds.",
         "Cover with the stock. Bring to a rapid boil. Cover the pan and reduce the heat to a simmer and cook for about 1 hour or until the vegetables are tender.",
         "Remove the bay leaf and liquidise the soup until smooth, adjust the seasoning. Pass the soup through a medium sieve.",
         "Reheat gently, do not allow to boil, serve with the soured cream and Pirags."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Borsch (beetroot soup)",
     "videos": "[]"
 }

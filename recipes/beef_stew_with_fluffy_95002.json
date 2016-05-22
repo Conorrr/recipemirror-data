@@ -1,26 +1,38 @@
 {
-    "title": "Beef stew with fluffy dumplings",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This is the ultimate cold-weather comforter that will stick to your ribs after a hearty wintry walk.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b06s5h9c": "Home Comforts at Christmas"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "This is the ultimate cold-weather comforter that will stick to your ribs after a hearty wintry walk.",
+    "dishes": [
+        "beef_stew",
+        "casserole",
+        "jam",
+        "jelly",
+        "oven-baked_dishes",
+        "pie",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dumplings": [
+            "200g/7oz plain flour, plus extra for dusting",
+            "1\u00bd tsp baking powder",
+            "100g/3\u00bdoz suet, shredded",
+            "2 tbsp finely chopped flatleaf parsley",
+            "sea salt and freshly ground black pepper"
+        ],
         "For the stew": [
             "1kg/2lb 4oz silverside beef, cut into large pieces",
             "1 tsp plain flour",
@@ -37,14 +49,13 @@
             "2 garlic cloves, finely sliced",
             "25g/1oz butter",
             "1 tsp redcurrant jelly"
-        ],
-        "For the dumplings": [
-            "200g/7oz plain flour, plus extra for dusting",
-            "1\u00bd tsp baking powder",
-            "100g/3\u00bdoz suet, shredded",
-            "2 tbsp finely chopped flatleaf parsley",
-            "sea salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b06s5h9c": "Home Comforts at Christmas"
     },
     "steps": [
         "Dredge the beef in the flour until coated.",
@@ -58,8 +69,9 @@
         "Remove the bouquet garni from the stew, season, to taste, with salt and freshly ground black pepper, then stir in the butter and redcurrant jelly.",
         "Top the stew with the dumplings, cover the casserole with the lid, then return to the oven for 10-15 minutes, or until the dumplings have puffed up and are cooked through. Serve in bowls."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef stew with fluffy dumplings",
     "videos": "[p03b2jf1:p03b2jf7]"
 }

@@ -1,26 +1,40 @@
 {
-    "title": "Ham hock terrine with pickled marrow",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "",
+    "dishes": [
+        "bun",
+        "ham",
+        "jam",
+        "pickle",
+        "pie",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "terrine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pickled marrow": [
+            "250ml/9fl oz pickling malt vinegar",
+            "125g/4\u00bdoz caster sugar",
+            "1 tbsp olive oil",
+            "1 tbsp mustard seeds",
+            "\u00bd tsp chilli flakes",
+            "400g/14oz marrows, peeled, deseeded and cut into 1cm/\u00bdin rounds",
+            "\u00bd tsp salt",
+            "pinch freshly ground black pepper"
+        ],
         "For the terrine": [
             "1.5kg/3lb 4oz ham hocks",
             "1 onion, roughly chopped",
@@ -33,17 +47,13 @@
             "water, to cover",
             "2 leaves gelatine",
             "1 bunch spring onions, trimmed"
-        ],
-        "For the pickled marrow": [
-            "250ml/9fl oz pickling malt vinegar",
-            "125g/4\u00bdoz caster sugar",
-            "1 tbsp olive oil",
-            "1 tbsp mustard seeds",
-            "\u00bd tsp chilli flakes",
-            "400g/14oz marrows, peeled, deseeded and cut into 1cm/\u00bdin rounds",
-            "\u00bd tsp salt",
-            "pinch freshly ground black pepper"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the terrine, place the ham hocks into a deep saucepan with the onion, carrot, peppercorns, salt and herbs. Cover with water and bring to the boil, then reduce the heat and simmer for two hours. Remove from the heat and allow to cool.",
@@ -61,8 +71,9 @@
         "Place the marrow into a bowl, pour over the vinegar mixture and stir well. Allow to cool completely, then place into the fridge. The pickled marrow will keep for several days in the fridge if stored in sealed sterilised jars.",
         "To serve, remove the cling film from the terrine and cut the terrine into slices. Place onto serving plates with a spoonful of the pickled marrow, drained from its vinegar."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Ham hock terrine with pickled marrow",
     "videos": "[]"
 }

@@ -1,24 +1,24 @@
 {
-    "title": "Chunky banana bread",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Banana bread is a fantastic tea-time treat and is also an easy cake to transport to the office or on a picnic.",
     "author": {
         "kate_morris_and_sally_brown": "Kate Morris and Sally Brown"
     },
-    "show": {
-        "b00w1ddl": "I Can Cook"
-    },
-    "tips": [
-        "This dish can be frozen for up to one month."
+    "cookTime": "30 mins to 1 hour",
+    "description": "Banana bread is a fantastic tea-time treat and is also an easy cake to transport to the office or on a picnic.",
+    "dishes": [
+        "banana_bread",
+        "bread",
+        "cake",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,6 +32,12 @@
             "1 tsp baking powder"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 6-8",
+    "show": {
+        "b00w1ddl": "I Can Cook"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Grease a loaf tin with a little sunflower oil.",
         "In a large bowl, mix the mashed banana with the sunflower oil until well combined. Beat in the egg, then stir in the raisins and vanilla extract.",
@@ -39,8 +45,9 @@
         "Stir the dry ingredients into the wet ingredients until well combined.",
         "Pour the cake mixture into the prepared loaf tin and bake in the oven for 30-40 minutes, or until a skewer inserted into the centre of the cake comes out clean. Set aside to cool on a wire rack, then cut into slices and serve."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This dish can be frozen for up to one month."
     ],
+    "title": "Chunky banana bread",
     "videos": "[]"
 }

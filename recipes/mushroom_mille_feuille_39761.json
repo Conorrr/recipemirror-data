@@ -1,30 +1,28 @@
 {
-    "title": "Mushroom millefeuille",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "A simple mushroom filling is turned into dainty party food using readymade puff pastry.",
     "author": {
         "michel_roux_jr": "Michel Roux Jr."
     },
-    "show": {
-        "b03mzc66": "Food & Drink"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A simple mushroom filling is turned into dainty party food using readymade puff pastry.",
+    "dishes": [
+        "biscuit",
+        "bun",
+        "millefeuille",
+        "mousse",
+        "oven-baked_dishes",
+        "pastry",
+        "roux"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "500g/1lb 2oz all-butter puff pastry",
-            "pinch of cayenne, paprika or chilli flakes, optional"
-        ],
         "For the filling": [
             "2 shallots, finely chopped",
             "450g/1lb chestnut mushrooms, finely chopped",
@@ -39,7 +37,17 @@
             "knob of butter",
             "squeeze of lemon juice",
             "small handful chives, chopped, to garnish"
+        ],
+        "default": [
+            "500g/1lb 2oz all-butter puff pastry",
+            "pinch of cayenne, paprika or chilli flakes, optional"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b03mzc66": "Food & Drink"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -50,8 +58,9 @@
         "For the garnish, fry the girolles in a separate pan with a knob of butter for 2-3 minutes until softened. Finish with a squeeze of lemon juice.",
         "To assemble, cut out twelve circles of pastry using a biscuit cutter. The circles should be about 7.5cm/3in across. Pipe a good amount of the mushroom mousse neatly onto a pastry circle. Top with another circle of pastry and another layer of mousse. Finish with a final circle of pastry and decorate with the girolles and chives. Repeat until you have used up all the pastry circles."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mushroom millefeuille",
     "videos": "[p022hftg:p022hftk]"
 }

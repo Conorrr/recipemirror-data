@@ -1,24 +1,20 @@
 {
-    "title": "Godfather",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "jim_wrigley": "Jim Wrigley"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -27,11 +23,18 @@
             "twist of orange peel, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Place a few ice cubes into a rocks glass. Add the whisky and the amaretto, stir and garnish with a twist of orange peel."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Godfather",
     "videos": "[]"
 }

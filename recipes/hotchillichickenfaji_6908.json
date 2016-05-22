@@ -1,34 +1,25 @@
 {
-    "title": "Hot chilli chicken fajitas",
-    "cookTime": "less than 10 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "p0077hw4": "Food and Drink"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Mexican",
+    "description": "",
+    "dishes": [
+        "pie",
+        "salsa",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 tbsp chilli oil",
-            "1 tbsp hot chilli powder",
-            "1 tbsp paprika",
-            "pinch of sugar",
-            "zest and juice of 1 lime",
-            "4 chicken breasts"
-        ],
         "For the Tomato and Avocado Salsa": [
             "4 large tomatoes, deseeded and finely diced",
             "1 red chilli, finely chopped",
@@ -44,7 +35,21 @@
             "1 small iceberg lettuce, shredded",
             "150ml/\u00bcpt soured cream",
             "8 bamboo skewers, soaked in water overnight"
+        ],
+        "default": [
+            "2 tbsp chilli oil",
+            "1 tbsp hot chilli powder",
+            "1 tbsp paprika",
+            "pinch of sugar",
+            "zest and juice of 1 lime",
+            "4 chicken breasts"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "p0077hw4": "Food and Drink"
     },
     "steps": [
         "Mix together the chilli oil, paprika, chilli powder, sugar and the lime juice and zest. Cut each chicken breast lengthways into six strips. Add to the chilli paste, cover and leave to marinate for 1-2 hours.",
@@ -53,8 +58,9 @@
         "Thread three pieces of chicken onto each skewer, place on the barbecue or griddle pan and cook for 3-4 minutes on each side until the chicken is cooked through.",
         "Place the chicken skewers on a serving plate and hand around the tomato and avocado salsa, warmed tortillas, lettuce and soured cream and allow each person to assemble the fajitas themselves."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Hot chilli chicken fajitas",
     "videos": "[]"
 }

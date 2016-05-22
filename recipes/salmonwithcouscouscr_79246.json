@@ -1,26 +1,31 @@
 {
-    "title": "Salmon with couscous crust and mango salsa",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "salsa",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the salsa": [
+            "\u00bc mango, peeled and cut into cubes",
+            "1 tomato, de-seeded and chopped",
+            "1 tbsp fresh parsley, chopped",
+            "dash Tabasco sauce",
+            "1 tbsp olive oil"
+        ],
         "default": [
             "50g/2oz couscous, cooked according to instructions on packet",
             "2 tbsp fresh chives, chopped",
@@ -29,14 +34,13 @@
             "150g/5\u00bcoz salmon fillet, skinless",
             "1 free-range egg, beaten",
             "2 tbsp vegetable oil"
-        ],
-        "For the salsa": [
-            "\u00bc mango, peeled and cut into cubes",
-            "1 tomato, de-seeded and chopped",
-            "1 tbsp fresh parsley, chopped",
-            "dash Tabasco sauce",
-            "1 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
@@ -47,8 +51,9 @@
         "For the salsa, mix the mango, tomato, parsley, Tabasco sauce and olive oil in a bowl.",
         "To serve, place the crusted salmon onto a warm plate and spoon the mango salsa alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salmon with couscous crust and mango salsa",
     "videos": "[]"
 }

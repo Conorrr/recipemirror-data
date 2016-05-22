@@ -1,23 +1,24 @@
 {
-    "title": "Sushi salmon rolls",
-    "cookTime": "no cooking required",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "4-6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "griff_rhys_jones": "Griff Rhys Jones"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "Japanese",
+    "description": "",
+    "dishes": [
+        "bun",
+        "pie",
+        "sauce",
+        "sausage",
+        "sushi"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -31,6 +32,12 @@
             "soy sauce"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "4-6",
+    "show": {
+        "b00701fw": "A Taste of My Life"
+    },
     "steps": [
         "Place each square of nori flat onto a sushi rolling mat. (Sushi rolling mats are available from Asian supermarkets and larger supermarkets.)",
         "Place a layer of cooled sushi rice onto the seaweed wrap and gently press flat. (NB: don't add too much rice or you will end up with very fat sushi rolls.)",
@@ -40,8 +47,9 @@
         "Carefully roll the sushi up into a sausage shape and slice it into 3cm/1in long pieces, trimming the ends.",
         "Serve with bowls of soy sauce and extra wasabi."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sushi salmon rolls",
     "videos": "[]"
 }

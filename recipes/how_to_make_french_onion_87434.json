@@ -1,26 +1,32 @@
 {
-    "title": "How to make French onion soup",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "32",
-    "images": [
-        
-    ],
-    "description": "French onion soup is very easy to make and is deeply savoury and hearty - and cheesy croutons make it extra special!",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "If cooking for vegetarians, the beef stock could be substituted for mushroom stock."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "French onion soup is very easy to make and is deeply savoury and hearty - and cheesy croutons make it extra special!",
+    "dishes": [
+        "bread",
+        "slow-cooked_dishes",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cro\u00fbtons": [
+            "8 thick slices French bread",
+            "2 cloves garlic, cut in half",
+            "100g/3\u00bdoz Gruy\u00e8re cheese, grated"
+        ],
         "default": [
             "50g/2oz butter",
             "1kg/2lb 4oz onions, thinly sliced",
@@ -30,12 +36,13 @@
             "1 litre/1\u00be pint fresh beef stock",
             "salt and freshly ground black pepper",
             "chopped parsley to garnish"
-        ],
-        "For the cro\u00fbtons": [
-            "8 thick slices French bread",
-            "2 cloves garlic, cut in half",
-            "100g/3\u00bdoz Gruy\u00e8re cheese, grated"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "32",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Melt the butter in a medium-sized ovenproof pan, add the onions and garlic and gently fry over a low heat for 30-35 minutes, stirring occasionally, until the onions are really soft and a rich dark brown colour. This stage of the recipe is really important, the long slow cooking of the onions gives this soup its lovely rich flavour and colour.",
@@ -46,8 +53,9 @@
         "Lay the cro\u00fbtons on top of the soup and scatter with fresh chopped parsley.",
         "To serve, ladle the soup into bowls, making sure each serving has a cheesy cro\u00fbton. Serve immediately, before the cro\u00fbton goes soggy."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If cooking for vegetarians, the beef stock could be substituted for mushroom stock."
     ],
+    "title": "How to make French onion soup",
     "videos": "[p00yb389:p00yb38d]"
 }

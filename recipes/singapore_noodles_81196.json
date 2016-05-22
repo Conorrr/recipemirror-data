@@ -1,29 +1,26 @@
 {
-    "title": "Singapore noodles",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "It\u2019s all in the preparation. Soften the super thin noodles before cooking up a fast stir-fry feast.",
     "author": {
         "ken_hom": "Ken Hom"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Chinese",
+    "description": "It\u2019s all in the preparation. Soften the super thin noodles before cooking up a fast stir-fry feast.",
+    "dishes": [
+        "curry",
+        "ham",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            
-        ],
         "For the Singapore noodles": [
             "225g/8oz thin rice noodles",
             "50g/1\u00beoz Chinese black mushrooms",
@@ -50,7 +47,16 @@
             "1 tsp salt",
             "1 tsp freshly ground black pepper",
             "250ml/9fl oz tinned coconut milk"
+        ],
+        "default": [
+            
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4-6",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Soak the rice noodles in a bowl of warm water for 25 minutes. Then drain them in a colander or sieve. Set them aside until you are ready to use them.",
@@ -61,8 +67,9 @@
         "Add the sauce and cook over high heat for another 5 minutes or until most of the liquid has evaporated. Pour the egg mixture over the noodles. Stir-fry constantly until the egg has set.",
         "Turn the noodles unto a large platter, garnish with the coriander leaves and serve at once."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Singapore noodles",
     "videos": "[]"
 }

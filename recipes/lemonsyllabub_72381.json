@@ -1,33 +1,26 @@
 {
-    "title": "Lemon syllabub",
-    "cookTime": "less than 10 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "p0077hxk": "Saturday Brunch"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "biscuit",
+        "oven-baked_dishes",
+        "stir-fries",
+        "syllabub"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "275g/9\u00beoz caster sugar",
-            "3 lemons, rind and juice only",
-            "275 ml/9\u00befl oz sherry or wine",
-            "150 ml/5\u00bcfl oz brandy",
-            "725 ml/1 pint 6fl oz double cream"
-        ],
         "For the ginger snaps": [
             "150g/5\u00bcoz self-raising flour",
             "\u00bd tsp baking soda",
@@ -39,7 +32,20 @@
             "\u00bd beaten egg",
             "40g/1\u00bdoz golden syrup",
             "granulated sugar, for coating"
+        ],
+        "default": [
+            "275g/9\u00beoz caster sugar",
+            "3 lemons, rind and juice only",
+            "275 ml/9\u00befl oz sherry or wine",
+            "150 ml/5\u00bcfl oz brandy",
+            "725 ml/1 pint 6fl oz double cream"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 8",
+    "show": {
+        "p0077hxk": "Saturday Brunch"
     },
     "steps": [
         "Mix the caster sugar with the lemon juice; add the rind, sherry or wine, and brandy.",
@@ -51,8 +57,9 @@
         "Stir in the flour mixture and combine. Using a teaspoon, spoon small amounts of the mixture onto a lightly greased baking sheet around 5cm/2in apart. Slightly flatten down and sprinkle with sugar.",
         "Bake in the oven for 8-10 minutes. Serve with the syllabub."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lemon syllabub",
     "videos": "[]"
 }

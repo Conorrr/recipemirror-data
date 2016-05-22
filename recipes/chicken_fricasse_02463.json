@@ -1,26 +1,35 @@
 {
-    "title": "Chicken fricass\u00e9e",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "Use a whole jointed chicken to give maximum flavour in this comforting classic. Best served on creamy mash.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b04xycrx": "James Martin: Home Comforts"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "Use a whole jointed chicken to give maximum flavour in this comforting classic. Best served on creamy mash.",
+    "dishes": [
+        "casserole",
+        "fricassee",
+        "jam",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the mash": [
+            "1kg/2lb 4oz floury potatoes, peeled and cut into chunks",
+            "150g/5\u00bdoz butter",
+            "150ml/5fl oz full-fat milk or cream",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "500ml/18fl oz chicken stock",
             "200ml/7fl oz white wine",
@@ -32,13 +41,13 @@
             "150ml/5fl oz double cream",
             "salt and freshly ground black pepper",
             "2 tbsp finely chopped flatleaf parsley"
-        ],
-        "For the mash": [
-            "1kg/2lb 4oz floury potatoes, peeled and cut into chunks",
-            "150g/5\u00bdoz butter",
-            "150ml/5fl oz full-fat milk or cream",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 4",
+    "show": {
+        "b04xycrx": "James Martin: Home Comforts"
     },
     "steps": [
         "Place a large casserole over a high heat, add the stock, white wine, pearl onions and thyme and bring to a simmer.",
@@ -54,8 +63,9 @@
         "Add the butter and milk (or cream) and beat to form a very smooth mash, then season to taste with salt and black pepper.",
         "To serve, spoon the mash into bowls, then top with two pieces of chicken and a ladleful of sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken fricass\u00e9e",
     "videos": "[p01s117v:p01s1180]"
 }

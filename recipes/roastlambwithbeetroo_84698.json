@@ -1,34 +1,25 @@
 {
-    "title": "Roast lamb with beetroot, couscous and red wine sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the roasted lamb and beetroot": [
-            "250g/9oz lamb loin steak",
-            "olive oil",
-            "salt and freshly ground black pepper",
-            "2 garlic cloves,unpeeled, lightly crushed",
-            "2 sprigs rosemary",
-            "2 raw beetroot, peeled and quartered"
-        ],
         "For the couscous": [
             "100g/3\u00bdoz couscous, cooked according to packet instructions",
             "75g/3oz walnuts, finely chopped",
@@ -41,7 +32,21 @@
             "\u00bd tsp red wine vinegar",
             "\u00bd tsp sugar",
             "15g/\u00bdoz butter"
+        ],
+        "For the roasted lamb and beetroot": [
+            "250g/9oz lamb loin steak",
+            "olive oil",
+            "salt and freshly ground black pepper",
+            "2 garlic cloves,unpeeled, lightly crushed",
+            "2 sprigs rosemary",
+            "2 raw beetroot, peeled and quartered"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat oven to 200C/400F/Gas 6.",
@@ -53,8 +58,9 @@
         "For the sauce, heat the frying pan used to cook the lamb and beetroot over a high heat, pour the red wine into the pan and simmer for 2-3 minutes. Add the red wine vinegar and sugar and cook for another 1-2 minutes, then add the butter, stir well and cook for another minute.",
         "To serve, slide the ring off the couscous, cut the lamb into four pieces and place on top of the couscous with the roasted beetroot alongside and the sauce drizzled over."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Roast lamb with beetroot, couscous and red wine sauce",
     "videos": "[]"
 }

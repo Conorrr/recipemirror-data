@@ -1,24 +1,24 @@
 {
-    "title": "Pumpkin and apple soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,13 +33,20 @@
             "salt and freshly ground pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        
+    },
     "steps": [
         "Heat the oil in a large saucepan and add the onions and the garlic. Cook for 2 minutes and then add the pumpkin, chopped apples and sage.",
         "Cook for another 2 minutes, season well and add the stock and the cider or apple juice. Bring to the boil and simmer for 15-20 minutes until the ingredients are tender.",
         "Liquidise and serve piping hot with crusty bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pumpkin and apple soup",
     "videos": "[]"
 }

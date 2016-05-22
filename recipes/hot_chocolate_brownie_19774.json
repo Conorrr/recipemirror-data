@@ -1,24 +1,27 @@
 {
-    "title": "Hot chocolate brownie, chocolate sauce, whipped mint cream and honeycomb",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8-10",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Who doesn't love a chocolate brownie? Turn yours into a showstopper with fresh mint cream and chocolate sauce.",
     "author": {
         "stephanie_moon": "Stephanie Moon"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "Who doesn't love a chocolate brownie? Turn yours into a showstopper with fresh mint cream and chocolate sauce.",
+    "dishes": [
+        "chocolate_brownies",
+        "honeycomb",
+        "icing",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "melting_chocolate",
+        "whipping_cream"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the chocolate brownie": [
@@ -46,6 +49,12 @@
             "4 tbsp crushed honeycomb"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 8-10",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease and line a 23cm/9in square tray with parchment paper.",
         "For the brownie, whisk the eggs and sugar in a large bowl until pale and thickened.",
@@ -58,9 +67,9 @@
         "For the mint cream, whip the double cream and icing sugar together in a large bowl until soft peaks form when the whisk is removed. Fold in the shredded mint.",
         "When the brownie is completely cool, cut into squares and place in serving bowls. Drizzle with the chocolate sauce and top with a spoonful of whipped mint cream. Sprinkle over the crushed honeycomb to serve."
     ],
-    "howTos": [
-        "melting_chocolate",
-        "whipping_cream"
+    "tips": [
+        
     ],
+    "title": "Hot chocolate brownie, chocolate sauce, whipped mint cream and honeycomb",
     "videos": "[]"
 }

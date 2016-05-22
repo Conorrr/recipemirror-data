@@ -1,26 +1,33 @@
 {
-    "title": "Red mullet with spicy peppers, chorizo and black olives with candied aubergine",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "jason_atherton": "Jason Atherton"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bun",
+        "caramel",
+        "ketchup",
+        "oven-baked_dishes",
+        "pie",
+        "sausage",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the aubergine crisps": [
+            "1 baby aubergine",
+            "groundnut oil, for deep-frying",
+            "fine sea salt, to sprinkle"
+        ],
         "For the candied aubergine": [
             "500g/1lb 2oz aubergines (about 1 large or 2 medium ones)",
             "75g/3oz caster sugar",
@@ -28,6 +35,12 @@
             "1 garlic clove, finely chopped",
             "small bunch fresh thyme, leaves only",
             "4 tbsp hazelnut oil"
+        ],
+        "For the red mullet": [
+            "4 x 100-125g/4 - 4\u00bd oz red mullet fillets",
+            "2 tbsp olive oil",
+            "salt and freshly ground black pepper",
+            "coriander shoots (or leaves), to serve"
         ],
         "For the spicy peppers": [
             "2 tbsp olive oil",
@@ -39,18 +52,13 @@
             "10 black olives, halved, stones removed",
             "salt and freshly ground black pepper",
             "few coriander sprigs, leaves only, chopped"
-        ],
-        "For the aubergine crisps": [
-            "1 baby aubergine",
-            "groundnut oil, for deep-frying",
-            "fine sea salt, to sprinkle"
-        ],
-        "For the red mullet": [
-            "4 x 100-125g/4 - 4\u00bd oz red mullet fillets",
-            "2 tbsp olive oil",
-            "salt and freshly ground black pepper",
-            "coriander shoots (or leaves), to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the candied aubergine, preheat the oven to 200C/400F/Gas 6 and line a baking tray with a large piece of foil.",
@@ -71,8 +79,9 @@
         "Turn the fillets over and fry on the other side for 30 seconds to one minute, or until the fish is just cooked through, then remove from the heat.",
         "To serve, place a spoonful of candied aubergine in the centre of each plate. Top with the red mullet fillets and garnish with the aubergine crisps and coriander. Serve the spicy peppers in a bowl alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Red mullet with spicy peppers, chorizo and black olives with candied aubergine",
     "videos": "[]"
 }

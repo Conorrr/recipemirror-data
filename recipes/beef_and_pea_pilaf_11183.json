@@ -1,23 +1,23 @@
 {
-    "title": "Beef and pea pilaf",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "This spicy one-pot dish can be ready in under 30 minutes - perfect when you want a quick and hearty meal without any fuss. This is designed to be a low cost recipe.",
     "author": {
         "tony_singh": "Tony Singh"
     },
-    "show": {
-        "b036x3pv": "Great British Budget Menu"
-    },
-    "tips": [
-        "In May 2013 this recipe was costed at \u00a32.56 at Asda, \u00a33.95 at Tesco and \u00a33.67 at Sainsbury\u2019s. This recipe is designed to be made in conjunction with a low-cost store-cupboard."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "This spicy one-pot dish can be ready in under 30 minutes - perfect when you want a quick and hearty meal without any fuss. This is designed to be a low cost recipe.",
+    "dishes": [
+        "pilaf",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "browning_meat"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -35,6 +35,12 @@
             "salt and pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b036x3pv": "Great British Budget Menu"
+    },
     "steps": [
         "Heat a large saucepan with a lid over a medium heat. Add the olive oil and, once hot, fry the onion with a pinch of salt for 5-6 minutes or until cooked through and lightly golden-brown. Add the garlic, cumin seeds and chilli and continue to cook for two minutes, or until aromatic.",
         "Add the beef mince to the pan and cook for 4-5 minutes, or until all the meat is brown rather than raw.",
@@ -42,8 +48,9 @@
         "After five minutes remove the lid, add the peas and stir through. Poke some holes into the rice to allow any steam to escape and continue to cook with the lid off until all the liquid is absorbed and the rice is cooked through.",
         "Serve warm, dividing up the crisp rice at the bottom of the pan."
     ],
-    "howTos": [
-        "browning_meat"
+    "tips": [
+        "In May 2013 this recipe was costed at \u00a32.56 at Asda, \u00a33.95 at Tesco and \u00a33.67 at Sainsbury\u2019s. This recipe is designed to be made in conjunction with a low-cost store-cupboard."
     ],
+    "title": "Beef and pea pilaf",
     "videos": "[]"
 }

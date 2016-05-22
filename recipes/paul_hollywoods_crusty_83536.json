@@ -1,24 +1,25 @@
 {
-    "title": "How to make easy white bread",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 1 loaf",
-    "recommendations": "266",
-    "images": [
-        
-    ],
-    "description": "Paul Hollywood shows you how to make bread in a step-by-step video recipe.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Paul Hollywood shows you how to make bread in a step-by-step video recipe.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "stir-fries",
+        "white_bread"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading",
+        "kneading_bread_with_oil",
+        "shaping_a_loaf_of_bread"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,6 +30,12 @@
             "about 300ml/10\u00befl oz tepid water (warm not cold \u2013 about body temperature)",
             "a little olive or sunflower oil"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "266",
+    "serves": "Makes 1 loaf",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Put the flour into a large mixing bowl and add the butter. Add the yeast at one side of the bowl and add the salt at the other, otherwise the salt will kill the yeast. Stir all the ingredients with a spoon to combine.",
@@ -46,10 +53,9 @@
         "Bake the loaf for about 30 minutes.",
         "The loaf is cooked when it\u2019s risen and golden. To check, take it out of the oven and tap it gently underneath \u2013 it should sound hollow. Turn onto a wire rack to cool."
     ],
-    "howTos": [
-        "kneading",
-        "kneading_bread_with_oil",
-        "shaping_a_loaf_of_bread"
+    "tips": [
+        
     ],
+    "title": "How to make easy white bread",
     "videos": "[p009rd8h:p009rd8k]"
 }

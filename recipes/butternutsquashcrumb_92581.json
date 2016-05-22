@@ -1,26 +1,33 @@
 {
-    "title": "Butternut squash crumble",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bread",
+        "bun",
+        "crumble",
+        "curry",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the crumble": [
+            "150g/5\u00bdoz plain flour",
+            "pinch salt",
+            "200g/7oz chilled butter, cut into cubes",
+            "150g/5\u00bdoz porridge oats"
+        ],
         "For the filling": [
             "2 tbsp vegetable oil",
             "1 onion, peeled, sliced",
@@ -34,17 +41,17 @@
             "1 tsp curry powder",
             "salt and freshly ground black pepper"
         ],
-        "For the crumble": [
-            "150g/5\u00bdoz plain flour",
-            "pinch salt",
-            "200g/7oz chilled butter, cut into cubes",
-            "150g/5\u00bdoz porridge oats"
-        ],
         "For the topping": [
             "150ml/5fl oz olive oil",
             "small bunch basil leaves, torn",
             "\u00bd lemon, juice only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -56,8 +63,9 @@
         "Meanwhile, for the topping, blend the olive oil, basil and lemon juice in a food processor until well combined.",
         "To serve, divide the butternut squash crumble equally among four serving plates. Drizzle over the topping."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Butternut squash crumble",
     "videos": "[]"
 }

@@ -1,33 +1,25 @@
 {
-    "title": "Onion bhajis with mango salsa",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "bhaji",
+        "bread",
+        "salsa"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the onion bhajis": [
-            "\u00bd onion, peeled, sliced",
-            "1 tsp black onion seeds",
-            "\u00bd tsp turmeric",
-            "2 tbsp chapatti flour",
-            "vegetable oil, for deep frying"
-        ],
         "For the mango salsa": [
             "\u00bd small mango, peeled, stone removed, chopped",
             "1 ripe tomato, chopped",
@@ -35,7 +27,20 @@
             "2 tbsp chopped fresh coriander leaves",
             "\u00bd lime, juice only",
             "\u00bd small onion, peeled, finely chopped"
+        ],
+        "For the onion bhajis": [
+            "\u00bd onion, peeled, sliced",
+            "1 tsp black onion seeds",
+            "\u00bd tsp turmeric",
+            "2 tbsp chapatti flour",
+            "vegetable oil, for deep frying"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the onion bhajis, combine all the onion bhaji ingredients, except the vegetable oil, in a mixing bowl.",
@@ -44,8 +49,9 @@
         "For the salsa, combine all the salsa ingredients in a bowl.",
         "To serve, put the bhajis onto a plate and serve with the salsa."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Onion bhajis with mango salsa",
     "videos": "[]"
 }

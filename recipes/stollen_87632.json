@@ -1,26 +1,31 @@
 {
-    "title": "Stollen",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 8-12",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "This traditional German recipe makes a great alternative to Christmas cake. Enjoy it with a glass of brandy.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This traditional German recipe makes a great alternative to Christmas cake. Enjoy it with a glass of brandy.",
+    "dishes": [
+        "cake",
+        "icing",
+        "marzipan",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To finish": [
+            "25g/1oz butter, melted",
+            "50g/2oz icing sugar"
+        ],
         "default": [
             "100ml/3\u00bdfl oz warm milk",
             "2 tsp dried yeast",
@@ -33,11 +38,13 @@
             "50g/2oz unsalted butter",
             "1 free-range egg, beaten",
             "250g/9oz marzipan"
-        ],
-        "To finish": [
-            "25g/1oz butter, melted",
-            "50g/2oz icing sugar"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "6",
+    "serves": "Serves 8-12",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Place the milk and yeast into a bowl and mix well. Leave to sit for 5-6 minutes.",
@@ -55,8 +62,9 @@
         "To finish, remove the stollen from the oven, brush with the melted butter and dust with icing sugar immediately.",
         "Allow the stollen to cool, then serve in slices."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Stollen",
     "videos": "[]"
 }

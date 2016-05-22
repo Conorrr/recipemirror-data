@@ -1,26 +1,35 @@
 {
-    "title": "Icelandic breaded lamb chops with spiced red cabbage",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/icelandic_breaded_lamb_29809_16x9.jpg"
-    ],
-    "description": "Little lamb chops are coated in breadcrumbs and simply fried. Serve with braised red cabbage and buttered potatoes for an easy dinner party dish.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b078dj4l": "Rick Stein's Long Weekends"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Nordic",
+    "description": "Little lamb chops are coated in breadcrumbs and simply fried. Serve with braised red cabbage and buttered potatoes for an easy dinner party dish.",
+    "dishes": [
+        "bread",
+        "jam",
+        "jelly",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/icelandic_breaded_lamb_29809_16x9.jpg"
+    ],
     "ingredients": {
+        "For the lamb chops": [
+            "16 small best-end lamb chops",
+            "100g/3\u00bdoz plain flour",
+            "2 free-range eggs, beaten",
+            "100g/3\u00bdoz fresh white breadcrumbs",
+            "60g/2\u00bcoz butter, for frying",
+            "2 tbsp vegetable or rapeseed oil",
+            "salt and pepper"
+        ],
         "For the red cabbage": [
             "60g/2\u00bcoz butter",
             "1 large onion, thinly sliced",
@@ -35,20 +44,17 @@
             "freshly ground black pepper",
             "1\u00bd tsp salt"
         ],
-        "For the lamb chops": [
-            "16 small best-end lamb chops",
-            "100g/3\u00bdoz plain flour",
-            "2 free-range eggs, beaten",
-            "100g/3\u00bdoz fresh white breadcrumbs",
-            "60g/2\u00bcoz butter, for frying",
-            "2 tbsp vegetable or rapeseed oil",
-            "salt and pepper"
-        ],
         "To serve": [
             "new potatoes, boiled",
             "knob of butter",
             "1 tsp freshly chopped parsley"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 8",
+    "show": {
+        "b078dj4l": "Rick Stein's Long Weekends"
     },
     "steps": [
         "For the red cabbage, melt the butter in a large saucepan and gently fry the onion until soft. Add the red cabbage and cook for 2 minutes. Add the apple, vinegar, blueberries, brown sugar, bramble jelly, cloves, cinnamon stick and 125ml/4fl oz water. Season with 20 turns of a black pepper mill and the salt. Cover with a tight-fitting lid and cook for 45 minutes, then check the liquid, if drying out add a splash more water; if there is a lot of liquid in the pan, remove the lid so any excess evaporates. Cook for another 15 minutes.",
@@ -56,8 +62,9 @@
         "Heat the butter and oil in a large frying pan. Once hot, fry the chops until golden-brown all over and cooked through (about 7\u20138 minutes on each side).",
         "To serve, remove the cinnamon stick and cloves from the cabbage. Serve the cabbage and chops with boiled new potatoes rolled in melted butter and sprinkled with chopped parsley."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Icelandic breaded lamb chops with spiced red cabbage",
     "videos": "[]"
 }

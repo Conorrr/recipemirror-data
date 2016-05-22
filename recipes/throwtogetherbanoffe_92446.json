@@ -1,24 +1,26 @@
 {
-    "title": "Throw-together banoffee pie",
-    "cookTime": "less than 10 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4-6",
-    "recommendations": "10",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/throwtogetherbanoffe_92446_16x9.jpg"
-    ],
-    "description": "Try this super-easy recipe when you need a last-minute dessert. It takes just 15 minutes of effort and an hour in the fridge.",
     "author": {
         "gizzi_erskine": "Gizzi Erskine"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Try this super-easy recipe when you need a last-minute dessert. It takes just 15 minutes of effort and an hour in the fridge.",
+    "dishes": [
+        "banoffee_pie",
+        "biscuit",
+        "bread",
+        "icing",
+        "pie",
+        "sauce",
+        "toffee"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "whipping_cream"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/throwtogetherbanoffe_92446_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -31,6 +33,12 @@
             "100g/3\u00bdoz dark chocolate, grated, to serve"
         ]
     },
+    "prepTime": "1-2 hours",
+    "recommendations": "10",
+    "serves": "Serves 4-6",
+    "show": {
+        
+    },
     "steps": [
         "Place the biscuits into a freezer bag and crush using a rolling pin until they resemble breadcrumbs.",
         "Melt the butter in a small saucepan over a low to medium heat.",
@@ -40,8 +48,9 @@
         "When the banoffee base has chilled, whip the cream and icing sugar until soft peaks form when the whisk is removed. Spread the whipped cream over the bananas.",
         "Just before serving, sprinkle over the grated chocolate."
     ],
-    "howTos": [
-        "whipping_cream"
+    "tips": [
+        
     ],
+    "title": "Throw-together banoffee pie",
     "videos": "[]"
 }

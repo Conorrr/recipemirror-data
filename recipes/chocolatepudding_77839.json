@@ -1,31 +1,23 @@
 {
-    "title": "Chocolate pudding with raspberry coulis and pear",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "biscuit",
+        "icing"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "100g/3\u00bdoz mascarpone",
-            "50g/1\u00beoz chocolate, melted",
-            "50g/1\u00beoz biscuits, crushed"
-        ],
         "For the coulis": [
             "100g/3\u00bdoz raspberries",
             "25g/1oz icing sugar",
@@ -35,7 +27,18 @@
             "1 pear, sliced",
             "25g/1oz butter, melted",
             "2 tbsp runny honey"
+        ],
+        "default": [
+            "100g/3\u00bdoz mascarpone",
+            "50g/1\u00beoz chocolate, melted",
+            "50g/1\u00beoz biscuits, crushed"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the chocolate pudding, in a bowl mix together the mascarpone with the melted chocolate. Fold through the biscuits.",
@@ -44,8 +47,9 @@
         "For the pear, in a frying pan add the pear, butter and honey. Cook until golden.",
         "To serve, remove the chef's ring using a blow-torch. Place the pears around the pudding and drizzle over the coulis."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chocolate pudding with raspberry coulis and pear",
     "videos": "[]"
 }

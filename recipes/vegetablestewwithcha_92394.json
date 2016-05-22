@@ -1,26 +1,31 @@
 {
-    "title": "Vegetable stew with chapattis",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "curry",
+        "pie",
+        "stew",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chapattis": [
+            "200g/7oz chapatti flour, plus extra for dusting",
+            "pinch salt",
+            "warm water, to bind",
+            "1 tbsp black onion seeds"
+        ],
         "For the stew": [
             "2 tbsp vegetable oil",
             "\u00bd onion, peeled, sliced",
@@ -31,13 +36,13 @@
             "225g/8oz cooked Puy lentils, drained, rinsed",
             "1 tbsp tomato pur\u00e9e",
             "handful fresh spinach leaves"
-        ],
-        "For the chapattis": [
-            "200g/7oz chapatti flour, plus extra for dusting",
-            "pinch salt",
-            "warm water, to bind",
-            "1 tbsp black onion seeds"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the stew, heat the vegetable oil in a pan over a medium heat. Fry the onions, garlic and ginger in the oil for 3-4 minutes, to soften.",
@@ -47,8 +52,9 @@
         "One by one, dry fry the rolled-out dough circles in a frying pan on both sides until they start to bubble up and turn golden-brown.",
         "To serve, heat up the stew and serve with the two or more chapattis (keep any leftover chapattis for another meal)."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Vegetable stew with chapattis",
     "videos": "[]"
 }

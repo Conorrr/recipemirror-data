@@ -1,41 +1,30 @@
 {
-    "title": "Arabian night tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A rich pastry case filled with pistachio frangipane and cardamom cr\u00e8me p\u00e2tissi\u00e8re, all topped with exotic fruits and crushed nuts.",
     "author": {
         "john_whaite": "John Whaite"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A rich pastry case filled with pistachio frangipane and cardamom cr\u00e8me p\u00e2tissi\u00e8re, all topped with exotic fruits and crushed nuts.",
+    "dishes": [
+        "bread",
+        "frangipane",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sandwich",
+        "sauce",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "125g/4\u00bdoz caster sugar",
-            "1 medium free-range egg",
-            "250g/9oz plain flour",
-            "125g/4\u00bdoz salted butter, chilled and diced",
-            "1 free-range egg, white only"
-        ],
-        "For the pistachio frangipane": [
-            "100g/3\u00bdoz unsalted pistachio nuts, shelled",
-            "30g/1oz ground almonds",
-            "100g/3\u00bdoz salted butter, softened",
-            "80g/3oz caster sugar",
-            "2 large free-range eggs",
-            "20g/\u00beoz runny honey"
-        ],
         "For the cardamom cr\u00e8me p\u00e2tissi\u00e8re": [
             "80g/3oz sugar",
             "4 large free-range eggs, yolks only",
@@ -53,7 +42,28 @@
             "5 tbsp smooth apricot jam",
             "handful unsalted pistachio nuts, shelled and crushed",
             "handful flaked almonds"
+        ],
+        "For the pastry": [
+            "125g/4\u00bdoz caster sugar",
+            "1 medium free-range egg",
+            "250g/9oz plain flour",
+            "125g/4\u00bdoz salted butter, chilled and diced",
+            "1 free-range egg, white only"
+        ],
+        "For the pistachio frangipane": [
+            "100g/3\u00bdoz unsalted pistachio nuts, shelled",
+            "30g/1oz ground almonds",
+            "100g/3\u00bdoz salted butter, softened",
+            "80g/3oz caster sugar",
+            "2 large free-range eggs",
+            "20g/\u00beoz runny honey"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the pastry case, add a little ice-cold water to a large mixing bowl. Place a smaller metal bowl on top, and place the egg and sugar into the smaller bowl. Whisk the egg and sugar together until the sugar has dissolved.",
@@ -67,8 +77,9 @@
         "Spread the frangipane onto the base of the pastry case, and cover the pastry edges with doubled foil so they don\u2019t burn when cooking again. Bake in the oven for 15-20 minutes, or until the frangipane is cooked and lightly browned. Remove the foil and set aside to cool.",
         "For the topping, pipe on the cr\u00e8me p\u00e2tissi\u00e8re and arrange the fruit on top in concentric circles. Make a glaze by heating the apricot jam with one tablespoon of water in a small saucepan. Sieve to remove any lumps. Then gently brush the glaze over the fruit. Finish by sprinkling over the pistachios and flaked almonds."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Arabian night tart",
     "videos": "[]"
 }

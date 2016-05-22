@@ -1,26 +1,37 @@
 {
-    "title": "Layered beef and mushroom suet pudding",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "Come in from the cold with this comforting steamed pudding of beef, stout and mushrooms. Look for well-marbled braising beef such as chuck steak for this recipe.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Come in from the cold with this comforting steamed pudding of beef, stout and mushrooms. Look for well-marbled braising beef such as chuck steak for this recipe.",
+    "dishes": [
+        "bun",
+        "casserole",
+        "gravy",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "steamed_pudding",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "sealing_steamed_puddings"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the suet pastry": [
+            "325g/11\u00bdoz self-raising flour",
+            "150g/5\u00bdoz shredded suet",
+            "25g/1oz bunch fresh parsley, tough stalks removed and leaves finely chopped",
+            "1 tsp fine sea salt",
+            "knob of butter, for greasing"
+        ],
         "default": [
             "2 tbsp sunflower oil",
             "2 medium onions, chopped",
@@ -35,14 +46,13 @@
             "2 tbsp tomato pur\u00e9e",
             "2 tsp caster sugar",
             "freshly ground black pepper"
-        ],
-        "For the suet pastry": [
-            "325g/11\u00bdoz self-raising flour",
-            "150g/5\u00bdoz shredded suet",
-            "25g/1oz bunch fresh parsley, tough stalks removed and leaves finely chopped",
-            "1 tsp fine sea salt",
-            "knob of butter, for greasing"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "7",
+    "serves": "Serves 6",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -58,8 +68,9 @@
         "When the pudding is done, turn off the heat and carefully lift the basin from the water. Stand for five minutes. Heat the reserved sauce until bubbling, stirring constantly and adding a little extra water if needed.",
         "Cut the string, and peel the foil and paper off the basin. Loosen the sides of the pudding right down to the bottom with a blunt-ended knife and, holding with an oven-cloth, invert onto a deep plate. Peel off the lining disc. Pour a little of the gravy over the top and then serve in generous wedges with more hot gravy."
     ],
-    "howTos": [
-        "sealing_steamed_puddings"
+    "tips": [
+        
     ],
+    "title": "Layered beef and mushroom suet pudding",
     "videos": "[p017j48t:p017j48x]"
 }

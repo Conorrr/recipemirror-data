@@ -1,26 +1,28 @@
 {
-    "title": "Pot roast beef with red cabbage",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "Free from: dairy, wheat, gluten, soya, egg and nuts",
     "author": {
         "michelle_berriedale-johnson": "Michelle Berriedale-Johnson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Free from: dairy, wheat, gluten, soya, egg and nuts",
+    "dishes": [
+        "casserole",
+        "slow-cooked_dishes",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "baked potatoes",
+            "green vegetables of your choice"
+        ],
         "default": [
             "1.5 kg/3lb 5oz pot roast of beef",
             "9 small red onions, peeled but kept whole",
@@ -33,11 +35,13 @@
             "1 litre/35fl oz wheat-free & gluten-free stock",
             "300ml/10fl oz red wine (optional - if you don't want to use wine, use an extra 300ml/10fl oz of stock)",
             "sea salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "baked potatoes",
-            "green vegetables of your choice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 6",
+    "show": {
+        
     },
     "steps": [
         "Put the pot roast in the middle of a heavy casserole.",
@@ -49,8 +53,9 @@
         "To serve, place the pot roast in the middle of a platter and surround it with the vegetables.",
         "Serve with baked potatoes and lots of extra green vegetables."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pot roast beef with red cabbage",
     "videos": "[]"
 }

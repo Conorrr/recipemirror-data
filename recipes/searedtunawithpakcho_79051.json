@@ -1,31 +1,24 @@
 {
-    "title": "Seared tuna with pak choi",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 fresh tuna steak",
-            "1 tsp olive oil",
-            "squeeze lime juice"
-        ],
         "For the pak choi": [
             "1 tsp olive oil",
             "1 pak choi, sliced",
@@ -33,7 +26,18 @@
             "\u00bd lime juice, juice only",
             "1 tsp soy sauce",
             "2 tsp chicken or vegetable stock"
+        ],
+        "default": [
+            "1 fresh tuna steak",
+            "1 tsp olive oil",
+            "squeeze lime juice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the pak choi, heat the little olive oil in a non-stick frying pan and saut\u00e9 the pak choi for 2-3 minutes.",
@@ -41,8 +45,9 @@
         "For the tuna, heat the oil in a non-stick frying pan and sear the tuna for two minutes on each side. Remove from the heat.",
         "Spoon the pak choi onto a serving plate and serve the seared tuna on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Seared tuna with pak choi",
     "videos": "[]"
 }

@@ -1,32 +1,29 @@
 {
-    "title": "Apricot frangipane tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 8-10",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/apricot_frangipane_tart_19845_16x9.jpg"
-    ],
-    "description": "Apricot and almonds are a match made in heaven and this tart makes the most of both of them. For this recipe you will need a 28cm/11in flan tin and a food processor.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Apricot and almonds are a match made in heaven and this tart makes the most of both of them. For this recipe you will need a 28cm/11in flan tin and a food processor.",
+    "dishes": [
+        "bread",
+        "frangipane",
+        "fruit_tart",
+        "jam",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry",
+        "rubbing_in",
+        "pulsing"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/apricot_frangipane_tart_19845_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pastry": [
-            "225g/8oz plain flour",
-            "100g/3\u00bdoz butter, cubed",
-            "50g/1\u00beoz caster sugar",
-            "1 free-range egg"
-        ],
         "For the almond filling": [
             "175g/6oz butter",
             "175g/6oz caster sugar",
@@ -39,7 +36,19 @@
             "8 ripe apricots, halved and stoned",
             "4 tbsp apricot jam",
             "15g/\u00bdoz flaked almonds, toasted"
+        ],
+        "For the pastry": [
+            "225g/8oz plain flour",
+            "100g/3\u00bdoz butter, cubed",
+            "50g/1\u00beoz caster sugar",
+            "1 free-range egg"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 8-10",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 190C/170C Fan/Gas 5. Heat a heavy, flat baking tray.",
@@ -51,10 +60,9 @@
         "For the decoration, gently poach the apricot halves in water until tender. Set aside to cool slightly.",
         "Arrange the apricot halves in circles over the top of the tart. Warm the apricot jam over a low heat then pass through a fine sieve. Brush the warm apricot jam over the top of the fruit to glaze. Scatter over the flaked almonds. Serve the tart warm or cold."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry",
-        "rubbing_in",
-        "pulsing"
+    "tips": [
+        
     ],
+    "title": "Apricot frangipane tart",
     "videos": "[]"
 }

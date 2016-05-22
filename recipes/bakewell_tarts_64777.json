@@ -1,33 +1,29 @@
 {
-    "title": "Bakewell tart",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4-6",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bakewell_tarts_64777_16x9.jpg"
-    ],
-    "description": "This classic almond tart with a hidden layer of raspberry jam is a tried and tested crowd-pleaser.",
     "author": {
         "jackie_kearney": "Jackie Kearney"
     },
-    "show": {
-        "b006t1k5": "MasterChef"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "This classic almond tart with a hidden layer of raspberry jam is a tried and tested crowd-pleaser.",
+    "dishes": [
+        "bakewell_tart",
+        "bread",
+        "cake",
+        "jam",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "lining_tin_with_pastry",
+        "pulsing"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bakewell_tarts_64777_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pastry": [
-            "300g/10\u00bdoz plain flour, plus extra for dusting",
-            "125g/4oz cold unsalted butter, cut into cubes",
-            "30g/1oz sugar",
-            "2 free-range eggs",
-            "2 tbsp milk (optional)"
-        ],
         "For the filling": [
             "225g/8oz unsalted butter, softened",
             "225g/8oz caster sugar",
@@ -37,7 +33,20 @@
             "50g/2oz plain flour",
             "1 jar raspberry jam",
             "flaked almonds, for sprinkling"
+        ],
+        "For the pastry": [
+            "300g/10\u00bdoz plain flour, plus extra for dusting",
+            "125g/4oz cold unsalted butter, cut into cubes",
+            "30g/1oz sugar",
+            "2 free-range eggs",
+            "2 tbsp milk (optional)"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "6",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006t1k5": "MasterChef"
     },
     "steps": [
         "For the pastry, place the flour, butter and sugar into a food processor and pulse until the mixture resembles breadcrumbs. Add one of the eggs and pulse until the mixture comes together to form a rough dough. If the dough is too dry, add a bit of milk. Shape the dough into a ball and wrap in cling film. Chill in the fridge for 20 minutes.",
@@ -52,9 +61,9 @@
         "Bake the tart for 20 minutes, or until the filling is set and golden-brown. Allow to cool in the tin before serving.",
         "To serve, cut the tart into 5cm/2in squares."
     ],
-    "howTos": [
-        "lining_tin_with_pastry",
-        "pulsing"
+    "tips": [
+        
     ],
+    "title": "Bakewell tart",
     "videos": "[]"
 }

@@ -1,26 +1,31 @@
 {
-    "title": "Ginger and honey pudding",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "custard",
+        "prepare-ahead_desserts",
+        "sauce",
+        "steamed_pudding"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the custard": [
+            "150ml/\u00bc pint milk",
+            "2 eggs, beaten",
+            "30g/1oz caster sugar"
+        ],
         "For the pudding": [
             "3in/8cm fresh ginger, peeled",
             "2 eggs",
@@ -29,12 +34,13 @@
             "110g/4oz caster sugar",
             "30g/1oz honey",
             "1 tsp ground mixed spice"
-        ],
-        "For the custard": [
-            "150ml/\u00bc pint milk",
-            "2 eggs, beaten",
-            "30g/1oz caster sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        
     },
     "steps": [
         "Grate the ginger into a square of muslin.",
@@ -50,8 +56,9 @@
         "Remove the pudding from the microwave and take off the cling film.",
         "Use a plate to tip the pudding out of the basin. Pour over the custard and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Ginger and honey pudding",
     "videos": "[]"
 }

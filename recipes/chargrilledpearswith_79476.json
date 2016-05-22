@@ -1,26 +1,36 @@
 {
-    "title": "Chargrilled pears with spinach and coriander salad and tomato chutney",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "bun",
+        "chutney",
+        "ciabatta",
+        "jam",
+        "pie",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chutney": [
+            "1 tbsp olive oil",
+            "\u00bc onion, chopped",
+            "1 garlic clove, finely sliced",
+            "50g/1\u00beoz brown sugar",
+            "150g/5\u00bdoz cherry tomatoes, halved",
+            "3 tbsp white wine vinegar"
+        ],
         "For the salad": [
             "1 pear, cut into quarters, cored and skin left on",
             "4 thin slices ciabatta brushed with olive oil",
@@ -29,15 +39,13 @@
             "2 slices toast, cut into thick croutons and tossed in olive oil",
             "1 tbsp olive oil",
             "salt and freshly ground black pepper"
-        ],
-        "For the chutney": [
-            "1 tbsp olive oil",
-            "\u00bc onion, chopped",
-            "1 garlic clove, finely sliced",
-            "50g/1\u00beoz brown sugar",
-            "150g/5\u00bdoz cherry tomatoes, halved",
-            "3 tbsp white wine vinegar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat a griddle pan until smoking. Add the pear quarters and griddle on both sides for one minute to create grill lines, then remove from the heat and set aside.",
@@ -50,8 +58,9 @@
         "Add the white wine vinegar and heat to simmer and cook to reduce for five minutes.",
         "To serve, place the salad on a plate with the remaining chargrilled pear pieces and ciabatta placed around the salad. Pour the chutney into a small bowl and serve beside the salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chargrilled pears with spinach and coriander salad and tomato chutney",
     "videos": "[]"
 }

@@ -1,24 +1,28 @@
 {
-    "title": "Beef and ale stew with dumplings",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "44",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beefandalestewwithdu_90180_16x9.jpg"
-    ],
-    "description": "This classic stew with dumplings recipe is something that every cook should have in their repetoir.",
     "author": {
         "mike_robinson": "Mike Robinson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "This classic stew with dumplings recipe is something that every cook should have in their repetoir.",
+    "dishes": [
+        "beef_stew",
+        "casserole",
+        "oven-baked_dishes",
+        "pie",
+        "sausage",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beefandalestewwithdu_90180_16x9.jpg"
     ],
     "ingredients": {
         "For the stew": [
@@ -44,6 +48,12 @@
             "water to bind"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "44",
+    "serves": "Serves 6",
+    "show": {
+        
+    },
     "steps": [
         "Preheat the oven to 160C/320F/Gas 2. Heat a large casserole on the hob. Add some of the vegetable oil and, when hot, add some of the beef in a single layer and cook over a high heat until browned. When browned, remove the beef to a bowl, before adding the next batch and browning. Don't crowd the pan. Remove the last batch of meat and place in a bowl.",
         "Roughly chop the celery. Add the last bit of oil to the casserole and add the celery.",
@@ -59,8 +69,9 @@
         "After two hours, turn the dumplings over. Add the bay leaves and the thyme and continue cooking for a further half hour to an hour. When the beef is done, it should fall apart to the touch and the dumplings should be light and fluffy.",
         "Serve the dumplings and beef stew in large bowls."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef and ale stew with dumplings",
     "videos": "[]"
 }

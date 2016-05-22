@@ -1,24 +1,22 @@
 {
-    "title": "Fresh mango sorbet",
-    "cookTime": "no cooking required",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b00728v4": "Sweet Baby James"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "icing",
+        "jam",
+        "sorbet"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -27,13 +25,20 @@
             "2 lemons, juice only"
         ]
     },
+    "prepTime": "1-2 hours",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b00728v4": "Sweet Baby James"
+    },
     "steps": [
         "Roughly chop the mango flesh and place into a food processor with the icing sugar and lemon juice. Blend to a pur\u00e9e.",
         "Transfer the mixture into an ice cream machine and churn to freeze, according to manufacturer's instructions.",
         "Once frozen, remove and place into a container. Cover and store in the freezer until ready to serve. It will keep for a couple of months."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fresh mango sorbet",
     "videos": "[]"
 }

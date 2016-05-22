@@ -1,24 +1,24 @@
 {
-    "title": "Quick 'pizza' with goats' cheese",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "phil_vickery": "Phil Vickery"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "crumble",
+        "oven-baked_dishes",
+        "pizza",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,6 +30,12 @@
             "2 tbsp olive oil"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Preheat the oven to 200C/390F/Gas 6.",
         "Place the slices of bread on a baking tray and top with the cherry tomatoes.",
@@ -37,8 +43,9 @@
         "Cook in the oven for five minutes or until golden.",
         "Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Quick 'pizza' with goats' cheese",
     "videos": "[]"
 }

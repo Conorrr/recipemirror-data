@@ -1,24 +1,22 @@
 {
-    "title": "Coffee and chocolate sauce",
-    "cookTime": "less than 10 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "heston_blumenthal": "Heston Blumenthal"
     },
-    "show": {
-        "p007b4j1": "Veg Talk"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "pastry",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,6 +28,12 @@
             "60g/2oz of the best quality bitter chocolate you can find"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "p007b4j1": "Veg Talk"
+    },
     "steps": [
         "Place the sugar in a pan over a medium heat. Brush the sides of the pan with a pastry brush dipped in a mug of cold water. Continue this process until the sugar caramelises. (You will probably end up using a third of the water).",
         "Add the rest of the water, coffee beans, cocoa powder, salt and chocolate.",
@@ -37,8 +41,9 @@
         "Pass through a very fine sieve and allow to cool.",
         "Serve cold."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Coffee and chocolate sauce",
     "videos": "[]"
 }

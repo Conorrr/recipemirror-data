@@ -1,23 +1,26 @@
 {
-    "title": "Beef, venison and oyster pie",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Tempt your taste buds with a classic British pie recipe. Serve with a dollop of mash and green vegetables.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Tempt your taste buds with a classic British pie recipe. Serve with a dollop of mash and green vegetables.",
+    "dishes": [
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -39,6 +42,12 @@
             "1 free-range egg, beaten"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "2",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Mix the stout, wine, garlic and thyme in a bowl until well combined. Add the steak and venison. Cover and chill in the fridge overnight.",
         "Remove the meat from the marinade and dredge it in half of the flour.",
@@ -51,8 +60,9 @@
         "Roll out the remaining pastry and use it to cover the meat mixture. Trim the pastry and crimp the edges. Brush the top of the pie with the beaten egg. Cut a small hole in the top of the pie to allow steam to escape.",
         "Bake in the oven for 30-35 minutes, or until the pastry is crisp and golden-brown and filling is piping hot."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef, venison and oyster pie",
     "videos": "[]"
 }

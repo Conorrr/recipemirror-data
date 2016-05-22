@@ -1,33 +1,26 @@
 {
-    "title": "Raspberry, peach and almond tart",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 8-10",
-    "recommendations": "11",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/raspberrypeachandalm_91971_16x9.jpg"
-    ],
-    "description": "Sweet peaches and sour raspberries work perfectly in this simple almond tart recipe.",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b00lpbxs": "What to Eat Now"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Sweet peaches and sour raspberries work perfectly in this simple almond tart recipe.",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/raspberrypeachandalm_91971_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pastry": [
-            "250g/9oz plain flour, plus extra for dusting",
-            "150g/5\u00bdoz fridge-cold unsalted butter, cut into small pieces",
-            "1 tbsp caster sugar",
-            "1 medium free-range egg, beaten",
-            "1 tbsp cold water"
-        ],
         "For the filling": [
             "175g/6oz unsalted butter, softened",
             "175g/6oz golden caster sugar",
@@ -42,7 +35,20 @@
             "large handful fresh raspberries",
             "large handful flaked almonds",
             "whipped cream, to serve"
+        ],
+        "For the pastry": [
+            "250g/9oz plain flour, plus extra for dusting",
+            "150g/5\u00bdoz fridge-cold unsalted butter, cut into small pieces",
+            "1 tbsp caster sugar",
+            "1 medium free-range egg, beaten",
+            "1 tbsp cold water"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "11",
+    "serves": "Serves 8-10",
+    "show": {
+        "b00lpbxs": "What to Eat Now"
     },
     "steps": [
         "For the pastry, pulse the flour, butter and sugar in a food processor until the mixture resembles breadcrumbs.",
@@ -57,8 +63,9 @@
         "Remove the tart from the oven, sprinkle all over with the flaked almonds, then return to the oven and continue to bake for a further 20-25 minutes, or until the peaches are tender and the filling has risen and is golden-brown. Set aside for 15 minutes to cool slightly, then lift the tart from the tin.",
         "Serve warm or cold in wedges with cream."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Raspberry, peach and almond tart",
     "videos": "[]"
 }

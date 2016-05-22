@@ -1,37 +1,25 @@
 {
-    "title": "Gazpacho",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gordon_jones": "Gordon Jones"
     },
-    "show": {
-        "b00mb9r7": "Virgin Cooks"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Spanish",
+    "description": "",
+    "dishes": [
+        "baguette",
+        "chilled_soup",
+        "soup"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the soup": [
-            "1kg/2lb 4oz ripe tomatoes, roughly chopped",
-            "1 green pepper, seeds removed, chopped",
-            "1 small red onion or 6 spring onions, chopped",
-            "\u00bd cucumber, peeled",
-            "2 large cloves garlic, peeled and chopped",
-            "1 small handful fresh basil leaves",
-            "50ml/2fl oz extra virgin olive oil",
-            "1 tbsp sherry vinegar",
-            "salt and freshly ground black pepper"
-        ],
         "For the garnish": [
             "1 day-old baguette, thinly sliced",
             "olive oil",
@@ -42,7 +30,24 @@
             "\u00bd red pepper, seeds removed, finely chopped",
             "\u00bd yellow pepper, seeds removed, finely chopped",
             "fresh basil leaves"
+        ],
+        "For the soup": [
+            "1kg/2lb 4oz ripe tomatoes, roughly chopped",
+            "1 green pepper, seeds removed, chopped",
+            "1 small red onion or 6 spring onions, chopped",
+            "\u00bd cucumber, peeled",
+            "2 large cloves garlic, peeled and chopped",
+            "1 small handful fresh basil leaves",
+            "50ml/2fl oz extra virgin olive oil",
+            "1 tbsp sherry vinegar",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b00mb9r7": "Virgin Cooks"
     },
     "steps": [
         "For the soup, place all of the vegetables, garlic and basil for into a food processor and blend until smooth. Pass the mixture through a fine sieve to remove most of the pulp and skin, which you should then discard.",
@@ -52,8 +57,9 @@
         "Place the slices of baguette onto a baking tray and drizzle with olive oil. Season the baguette slices with paprika and salt, then toast under the grill for 1-2 minutes on both sides, or until golden-brown all over.",
         "To serve, place an ice cube into each serving bowl and ladle over the soup. Float the crisp baguette slices over the soup, scatter over the finely chopped spring onions and peppers and garnish with a few basil leaves."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Gazpacho",
     "videos": "[p00bfxyg:p00bfxyj]"
 }

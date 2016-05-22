@@ -1,24 +1,22 @@
 {
-    "title": "Custard",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 500ml/18fl oz",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "If you like your custard thicker, just cook the mixture for longer until it coats the back of a spoon - but take care not to let it boil."
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "custard",
+        "meringue"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "separating_eggs",
+        "de-seeding_vanilla_pods"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,6 +26,12 @@
             "6 free-range eggs",
             "75g/2\u00bd oz caster sugar, or more to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 500ml/18fl oz",
+    "show": {
+        
     },
     "steps": [
         "Pour the milk and cream into a heavy-bottomed pan over a gentle heat and bring slowly to a simmer.",
@@ -40,9 +44,9 @@
         "When it has reached the desired consistency, remove from the heat and pour the mixture through a sieve to remove the vanilla pod and any small lumps that may have formed.",
         "Serve warm or allow to cool - the mixture will thicken slightly as it cools."
     ],
-    "howTos": [
-        "separating_eggs",
-        "de-seeding_vanilla_pods"
+    "tips": [
+        "If you like your custard thicker, just cook the mixture for longer until it coats the back of a spoon - but take care not to let it boil."
     ],
+    "title": "Custard",
     "videos": "[p00dzjmz:p00dzjn1]"
 }

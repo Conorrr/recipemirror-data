@@ -1,26 +1,33 @@
 {
-    "title": "Pesto and salmon parcels",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/open_salmon_and_pesto_56820_16x9.jpg"
-    ],
-    "description": "This fuss-free and thrifty tart is a doddle to prepare and uses ingredients from the freezer. Defrost the fish and pastry overnight for a speedy after-work supper. Each serving provides 752kcal, 33g protein, 55g carbohydrate (of which 3g sugars), 43g fat (of which 14g saturates), 3.5g fibre and 1g salt.",
     "author": {
         "justine_pattison": "Justine Pattison"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "Tip 1: This dish is not suitable for freezing. Tip 2: If you can\u2019t find sun-dried-tomato pesto, use regular basil pesto instead. Tip 3: If preferred, substitute the salmon fillets for any frozen skinless fish fillets you like - smoked-haddock fillets served with poached eggs and asparagus work well. Tip 4: It\u2019s easy to double up the ingredients for this recipe. Just increase the cooking time by 5 minutes if you are baking more than 4 parcels at a time. Tip 5: These parcels are also delicious served cold at picnics or in packed lunches. Top with a dollop of mayonnaise and serve with salad."
+    "cookTime": "10 to 30 mins",
+    "description": "This fuss-free and thrifty tart is a doddle to prepare and uses ingredients from the freezer. Defrost the fish and pastry overnight for a speedy after-work supper. Each serving provides 752kcal, 33g protein, 55g carbohydrate (of which 3g sugars), 43g fat (of which 14g saturates), 3.5g fibre and 1g salt.",
+    "dishes": [
+        "mayonnaise",
+        "oven-baked_dishes",
+        "pastry",
+        "pesto",
+        "pie",
+        "prepare-ahead_desserts",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/open_salmon_and_pesto_56820_16x9.jpg"
+    ],
     "ingredients": {
+        "For the vegetable rice": [
+            "400g/14oz frozen cooked rice",
+            "200g/7oz frozen mixed vegetables"
+        ],
         "default": [
             "1 x 320g pack frozen ready-rolled puff pastry",
             "4 x 125g/4\u00bdoz frozen skinless salmon fillets",
@@ -30,11 +37,13 @@
             "1 tsp freshly squeezed lemon juice",
             "freshly ground black pepper",
             "handful fresh basil leaves, to garnish (optional)"
-        ],
-        "For the vegetable rice": [
-            "400g/14oz frozen cooked rice",
-            "200g/7oz frozen mixed vegetables"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Take the puff pastry and salmon out of the freezer and thaw for 2 hours at room temperature, or overnight in the fridge.",
@@ -46,8 +55,9 @@
         "For the vegetable rice, 5 minutes before the salmon-and-pesto parcels finish cooking, defrost the rice in the microwave until piping hot throughout. Meanwhile, cook the vegetables in a saucepan of boiling water for 2-3 minutes, or until piping hot throughout. Drain in a colander, then mix with the rice.",
         "To serve, divide the vegetable rice equally among four warmed serving plates, then place one salmon-and-pesto parcel on top of each portion. Garnish with the basil leaves, if using."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Tip 1: This dish is not suitable for freezing. Tip 2: If you can\u2019t find sun-dried-tomato pesto, use regular basil pesto instead. Tip 3: If preferred, substitute the salmon fillets for any frozen skinless fish fillets you like - smoked-haddock fillets served with poached eggs and asparagus work well. Tip 4: It\u2019s easy to double up the ingredients for this recipe. Just increase the cooking time by 5 minutes if you are baking more than 4 parcels at a time. Tip 5: These parcels are also delicious served cold at picnics or in packed lunches. Top with a dollop of mayonnaise and serve with salad."
     ],
+    "title": "Pesto and salmon parcels",
     "videos": "[]"
 }

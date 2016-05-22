@@ -1,24 +1,24 @@
 {
-    "title": "Chargrilled steak with beer, mustard and watercress salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chargrilledribeyeste_91464_16x9.jpg"
-    ],
-    "description": "The mustard and cro\u00fbtons can be made in advance, while the steaks will be sizzlingly succulent in minutes.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "The mustard and cro\u00fbtons can be made in advance, while the steaks will be sizzlingly succulent in minutes.",
+    "dishes": [
+        "bread",
+        "bun",
+        "jam",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chargrilledribeyeste_91464_16x9.jpg"
     ],
     "ingredients": {
         "For the beer mustard": [
@@ -29,18 +29,24 @@
             "2 tbsp English mustard powder",
             "110ml/4fl oz beer"
         ],
-        "For the steak": [
-            "2 x 250g/9oz ribeye steaks",
-            "2 tbsp olive oil",
-            "salt and freshly ground black pepper"
-        ],
         "For the salad": [
             "\u00bd small wholegrain loaf, cut into 1.5cm/3in cubes",
             "2 tsp cider vinegar",
             "1\u00bd tbsp rapeseed oil",
             "salt and freshly ground black pepper",
             "1 bunch watercress, leaves only"
+        ],
+        "For the steak": [
+            "2 x 250g/9oz ribeye steaks",
+            "2 tbsp olive oil",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the homemade beer mustard, place the vinegar and sugar into a non-reactive pan and bring to a simmer. Add the yellow and brown mustard seeds and the mustard powder and stir well. Simmer over a high heat for three minutes, until the volume of liquid has reduced by half and the seeds have softened slightly.",
@@ -52,8 +58,9 @@
         "Place one teaspoon of the homemade mustard into a large bowl. Add the cider vinegar, whisk in the rapeseed oil and season to taste with salt and freshly ground black pepper. Add the croutons and watercress and mix well.",
         "To serve, cut the steaks into thick slices and spoon the mustard into 2 small pots. Pile the salad onto the centre of each plate. Lay the steak over the salad and serve with a mustard pot on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chargrilled steak with beer, mustard and watercress salad",
     "videos": "[]"
 }

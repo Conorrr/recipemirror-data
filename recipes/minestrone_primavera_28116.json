@@ -1,24 +1,25 @@
 {
-    "title": "Minestrone primavera",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Spring vegetables - asparagus, peas and broad beans \u2013 are made into a fresh-tasting soup, served with a dollop of fresh pesto on top.",
     "author": {
         "theo_randall": "Theo Randall"
     },
-    "show": {
-        "b0424667": "Spring Kitchen with Tom Kerridge"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "Italian",
+    "description": "Spring vegetables - asparagus, peas and broad beans \u2013 are made into a fresh-tasting soup, served with a dollop of fresh pesto on top.",
+    "dishes": [
+        "pesto",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the minestrone primavera": [
@@ -42,6 +43,12 @@
             "4 tbsp grated parmesan cheese (or vegetarian alternative)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b0424667": "Spring Kitchen with Tom Kerridge"
+    },
     "steps": [
         "For the minestrone primavera, blanch the asparagus, peas, broad beans and green beans in a pan of boiling salted water for a few minutes until cooked but with a crunch. Drain and set aside on a tray.",
         "Heat a drizzle of olive oil in a saucepan, add the spring onions, celery and potatoes and fry for about 10 minutes, or until the potatoes are soft, stirring occasionally.",
@@ -49,8 +56,9 @@
         "For the pesto, place all the ingredients into a food processor with a tablespoon of water and blend to make a smooth pesto.",
         "Serve the minestrone in bowls with a drizzle of fresh pesto on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Minestrone primavera",
     "videos": "[]"
 }

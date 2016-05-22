@@ -1,29 +1,25 @@
 {
-    "title": "Steamed mussels",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "10",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/steamedmussels_76585_16x9.jpg"
-    ],
-    "description": "Try Ken Hom's fragrant steamed mussels for an economical and quick supper.",
     "author": {
         "ken_hom": "Ken Hom"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Chinese",
+    "description": "Try Ken Hom's fragrant steamed mussels for an economical and quick supper.",
+    "dishes": [
+        "sauce",
+        "seafood",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/steamedmussels_76585_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "500g/1 lb 2oz fresh mussels"
-        ],
         "For the sauce": [
             "2 tsp garlic, finely chopped",
             "1 tbsp fresh root ginger, finely chopped",
@@ -35,7 +31,16 @@
             "3 tbsp spring onions, finely shredded",
             "3 tbsp groundnut or peanut oil",
             "fresh coriander sprigs, to garnish"
+        ],
+        "default": [
+            "500g/1 lb 2oz fresh mussels"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 2",
+    "show": {
+        
     },
     "steps": [
         "Scrub the mussels clean. Discard any mussels that don't close when tapped gently.",
@@ -49,8 +54,9 @@
         "Stir the sauce then pour over the mussels.",
         "Garnish with fresh coriander sprigs and serve at once."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steamed mussels",
     "videos": "[]"
 }

@@ -1,23 +1,25 @@
 {
-    "title": "Thai prawn curry with noodles",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This fragrant Thai-style curry has lots of flavour packed into its homemade paste, sauce and noodles accompaniment.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b06s5h9c": "Home Comforts at Christmas"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "This fragrant Thai-style curry has lots of flavour packed into its homemade paste, sauce and noodles accompaniment.",
+    "dishes": [
+        "bun",
+        "curry",
+        "jam",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -32,16 +34,6 @@
             "3 lime leaves, roughly chopped",
             "1 tbsp Thai fish sauce"
         ],
-        "For the prawn curry": [
-            "1 tbsp vegetable oil",
-            "400g/14oz raw tiger prawns, peeled and de-veined",
-            "1 tbsp palm sugar",
-            "1 tbsp tamarind paste",
-            "1 x 225g/8oz tin water chestnuts, drained and roughly chopped",
-            "\u00bc tsp freshly ground white pepper",
-            "400ml/14fl oz coconut milk",
-            "1 lime, juice only"
-        ],
         "For the noodles": [
             "1 tbsp vegetable oil",
             "1 tbsp hot chilli sauce",
@@ -53,7 +45,23 @@
             "1 tbsp toasted sesame oil",
             "3 tbsp chopped fresh coriander",
             "1 lime, juice only"
+        ],
+        "For the prawn curry": [
+            "1 tbsp vegetable oil",
+            "400g/14oz raw tiger prawns, peeled and de-veined",
+            "1 tbsp palm sugar",
+            "1 tbsp tamarind paste",
+            "1 x 225g/8oz tin water chestnuts, drained and roughly chopped",
+            "\u00bc tsp freshly ground white pepper",
+            "400ml/14fl oz coconut milk",
+            "1 lime, juice only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b06s5h9c": "Home Comforts at Christmas"
     },
     "steps": [
         "For the Thai red curry paste, blend all of the Thai red curry paste ingredients, including the soaking water, in a food processor to a smooth paste. Keep any spare paste in a sealed sterilised jar in the fridge for up to 1 week.",
@@ -63,8 +71,9 @@
         "Add the cooked noodles, peanuts, soy sauce, sesame oil and coriander and and stir-fry until heated through. Season, to taste, with lime juice.",
         "To serve, divide the noodles among four serving plates. Spoon over the prawn curry."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Thai prawn curry with noodles",
     "videos": "[p03c0jwy:p03c0jx2]"
 }

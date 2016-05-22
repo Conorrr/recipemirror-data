@@ -1,26 +1,34 @@
 {
-    "title": "How to make chilli con carne",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "41",
-    "images": [
-        
-    ],
-    "description": "Chilli con carne is an all-time favourite party dish that\u2019s incredibly easy to make, served here with a little grated chocolate for an authentic Mexican touch. Make your chilli in advance for even better flavour.",
     "author": {
         "allegra_mcevedy": "Allegra McEvedy"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Mexican",
+    "description": "Chilli con carne is an all-time favourite party dish that\u2019s incredibly easy to make, served here with a little grated chocolate for an authentic Mexican touch. Make your chilli in advance for even better flavour.",
+    "dishes": [
+        "bun",
+        "casserole",
+        "chilli_con_carne",
+        "pie",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_brown_mince",
+        "how_to_cook_perfect_rice"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "cooked rice",
+            "fresh coriander, roughly chopped",
+            "soured cream"
+        ],
         "default": [
             "1 large red onion, finely chopped",
             "2 tbsp olive oil",
@@ -38,12 +46,13 @@
             "sea salt and black pepper",
             "2 squares 70% dark chocolate, grated",
             "small bunch coriander, chopped"
-        ],
-        "To serve": [
-            "cooked rice",
-            "fresh coriander, roughly chopped",
-            "soured cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "41",
+    "serves": "Serves 4-6",
+    "show": {
+        
     },
     "steps": [
         "Heat a large casserole or heavy-based pan over a medium heat. Add a glug of oil and once hot add the onion. Cook for a minute and add the carrots. Cook for 5-7 minutes, or until the onions are softened and translucent. Add the garlic and cook for a further 2-3 minutes.",
@@ -53,9 +62,9 @@
         "Before serving, add the grated squares of chocolate and stir through the hot chilli con carne to melt. Taste and season with salt and pepper as necessary.",
         "Serve with rice and garnish the chilli with coriander and soured cream."
     ],
-    "howTos": [
-        "how_to_brown_mince",
-        "how_to_cook_perfect_rice"
+    "tips": [
+        
     ],
+    "title": "How to make chilli con carne",
     "videos": "[p018clyn:p018clyv]"
 }

@@ -1,24 +1,26 @@
 {
-    "title": "Praline brioche (Brioche aux pralines)",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 10 - 12",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "Brioche is a rich yeast bread that contains lots of butter and eggs. Some say it was first made in Brittany, while others claim it is from Normandy, but it has been baked in Paris since the 17th century.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b01dl8gl": "Hairy Bikers' Bakeation"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Brioche is a rich yeast bread that contains lots of butter and eggs. Some say it was first made in Brittany, while others claim it is from Normandy, but it has been baked in Paris since the 17th century.",
+    "dishes": [
+        "bread",
+        "brioche",
+        "cake",
+        "oven-baked_dishes",
+        "praline"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading",
+        "knocking_back"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,6 +36,12 @@
             "75g/3oz pink (rose) pralines",
             "1 egg yolk, beaten, to glaze"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "9",
+    "serves": "Serves 10 - 12",
+    "show": {
+        "b01dl8gl": "Hairy Bikers' Bakeation"
     },
     "steps": [
         "To make the dough, sprinkle the yeast and one teaspoon caster sugar on to the warm milk in a small bowl. Whisk lightly, then leave in a warm place for 10 minutes or until a light foam forms on the surface.",
@@ -53,9 +61,9 @@
         "Cool in the tin for 10 minutes, then release on to a wire rack.",
         "Sprinkle with sugar and serve warm or cold."
     ],
-    "howTos": [
-        "kneading",
-        "knocking_back"
+    "tips": [
+        
     ],
+    "title": "Praline brioche (Brioche aux pralines)",
     "videos": "[]"
 }

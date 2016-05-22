@@ -1,26 +1,34 @@
 {
-    "title": "Salmon parcels and salad dressed with salmon roe",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "dave_myers": "Dave Myers"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "pastry",
+        "pie",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the salad": [
+            "2 tbsp olive oil",
+            "1 tbsp white wine vinegar",
+            "2 tsp honey",
+            "pinch of salt",
+            "110g/4oz watercress",
+            "110g/4oz rocket",
+            "2 avocados, peeled, halved, stone removed",
+            "1 jar salmon roe"
+        ],
         "default": [
             "4 x ready-made filo pastry sheets",
             "flour, for dusting",
@@ -33,17 +41,13 @@
             "pinch sea salt flakes",
             "1 free-range egg, beaten, for egg wash",
             "vegetable oil, for shallow frying"
-        ],
-        "For the salad": [
-            "2 tbsp olive oil",
-            "1 tbsp white wine vinegar",
-            "2 tsp honey",
-            "pinch of salt",
-            "110g/4oz watercress",
-            "110g/4oz rocket",
-            "2 avocados, peeled, halved, stone removed",
-            "1 jar salmon roe"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Lay out the sheets of filo pastry onto a lightly floured work surface.",
@@ -58,8 +62,9 @@
         "Place a handful of watercress and rocket salad alongside the avocado fans and sprinkle a little salmon roe over the top.",
         "Top each pile of salad with a salmon parcel and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salmon parcels and salad dressed with salmon roe",
     "videos": "[]"
 }

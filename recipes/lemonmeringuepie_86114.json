@@ -1,33 +1,32 @@
 {
-    "title": "Lemon meringue pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "72",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemonmeringuepie_86114_16x9.jpg"
-    ],
-    "description": "A classic combination of sharp lemon filling and sweet pillowy meringue, this pie is is on our top ten!",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b00728v4": "Sweet Baby James"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "A classic combination of sharp lemon filling and sweet pillowy meringue, this pie is is on our top ten!",
+    "dishes": [
+        "bread",
+        "jam",
+        "lemon_meringue_pie",
+        "marshmallow",
+        "meringue",
+        "oven-baked_dishes",
+        "pastry",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry",
+        "using_piping_bags",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemonmeringuepie_86114_16x9.jpg"
+    ],
     "ingredients": {
-        "For the sweet shortcrust pastry": [
-            "225g/8oz plain white flour",
-            "pinch salt",
-            "110g/4oz cold unsalted butter, cubed",
-            "2 tsp caster sugar",
-            "1 medium free-range egg yolk"
-        ],
         "For the lemon curd": [
             "100g/3\u00bdoz caster sugar",
             "7 tbsp cornflour",
@@ -38,7 +37,20 @@
         "For the meringue": [
             "6 medium free-range egg whites",
             "300g/10\u00bdoz caster sugar"
+        ],
+        "For the sweet shortcrust pastry": [
+            "225g/8oz plain white flour",
+            "pinch salt",
+            "110g/4oz cold unsalted butter, cubed",
+            "2 tsp caster sugar",
+            "1 medium free-range egg yolk"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "72",
+    "serves": "Serves 6",
+    "show": {
+        "b00728v4": "Sweet Baby James"
     },
     "steps": [
         "Sift the flour and salt into a mixing bowl.",
@@ -57,10 +69,9 @@
         "Bake for about 35-45 minutes until the meringue is crisp on the outside and soft and marshmallow-like underneath.",
         "Serve warm or cold in slices."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry",
-        "using_piping_bags",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Lemon meringue pie",
     "videos": "[]"
 }

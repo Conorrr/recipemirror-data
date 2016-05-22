@@ -1,26 +1,31 @@
 {
-    "title": "Ham shank croquettes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "ham",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "25g/1oz butter, unsalted",
+            "25g/1oz plain flour",
+            "200ml/7fl oz whole milk",
+            "3 tbsp chopped fresh parsley",
+            "\u00bd lemon, juice only",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "250g/9oz ham, picked from a ready-cooked ham shank",
             "250g/9oz potatoes, boiled until tender, drained, then mashed",
@@ -32,15 +37,13 @@
             "2 free-range eggs, beaten",
             "150g/5oz polenta",
             "2 tbsp vegetable oil"
-        ],
-        "For the sauce": [
-            "25g/1oz butter, unsalted",
-            "25g/1oz plain flour",
-            "200ml/7fl oz whole milk",
-            "3 tbsp chopped fresh parsley",
-            "\u00bd lemon, juice only",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Place the ham, mashed potato, parsley, chilli and gherkins into a bowl and mix to combine well. Season well with salt and freshly ground black pepper.",
@@ -52,8 +55,9 @@
         "Add the parsley and lemon juice, then season, to taste, with salt and freshly ground black pepper.",
         "To serve, place a few croquettes onto each plate and drizzle with the sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Ham shank croquettes",
     "videos": "[]"
 }

@@ -1,32 +1,26 @@
 {
-    "title": "Pumpkin fritters",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 15-20",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "cake",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 tsp vegetable oil, for greasing",
-            "1kg/2lb 4oz pumpkin, peeled, thinly sliced",
-            "30g/1\u00bcoz plain flour, plus extra for dusting",
-            "5cm/2in piece fresh root ginger, peeled, grated"
-        ],
         "For the batter": [
             "200ml/7fl oz light lager",
             "100g/3\u00bdoz flour",
@@ -38,7 +32,19 @@
             "1 red chilli, finely chopped",
             "2 tbsp soy sauce",
             "sweet chilli sauce"
+        ],
+        "default": [
+            "1 tsp vegetable oil, for greasing",
+            "1kg/2lb 4oz pumpkin, peeled, thinly sliced",
+            "30g/1\u00bcoz plain flour, plus extra for dusting",
+            "5cm/2in piece fresh root ginger, peeled, grated"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 15-20",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Lightly grease a plate with oil. Bring a small amount of water to the boil in a pan, then reduce the heat until the water is simmering. Suspend a steaming basket over the water (do not allow the base of the steaming basket to touch the water). Place the oiled plate into the basket.",
@@ -53,8 +59,9 @@
         "To serve, mix together the chopped spring onions, chopped chilli and soy sauce until well combined.",
         "Serve the pumpkin fritters with small bowls of the soy dipping sauce and sweet chilli sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pumpkin fritters",
     "videos": "[]"
 }

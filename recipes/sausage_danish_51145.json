@@ -1,26 +1,32 @@
 {
-    "title": "Sausage Danish",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 8-10",
-    "recommendations": "15",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sausage_danish_51145_16x9.jpg"
-    ],
-    "description": "Sausage meat is crumbled onto buttery puff pastry and speckled with fennel seeds in this stunning snack, that\u2019s perfect for parties or picnics.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Sausage meat is crumbled onto buttery puff pastry and speckled with fennel seeds in this stunning snack, that\u2019s perfect for parties or picnics.",
+    "dishes": [
+        "crumble",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "sausage",
+        "sausage_roll"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sausage_danish_51145_16x9.jpg"
+    ],
     "ingredients": {
+        "For the apple sauce": [
+            "1 large Bramley apple, cored and chopped",
+            "400ml/14fl oz apple juice",
+            "7 cardamom pods"
+        ],
         "default": [
             "small handful plain flour",
             "375g/13oz sheet all-butter puff pastry",
@@ -28,12 +34,13 @@
             "2 tsp fennel seeds, or to taste",
             "salt and freshly ground black pepper",
             "1 free-range egg, beaten"
-        ],
-        "For the apple sauce": [
-            "1 large Bramley apple, cored and chopped",
-            "400ml/14fl oz apple juice",
-            "7 cardamom pods"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "15",
+    "serves": "Makes 8-10",
+    "show": {
+        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -49,8 +56,9 @@
         "Crack open the cardamom pods and add the seeds to the sauce.",
         "Serve the pastries with the apple sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sausage Danish",
     "videos": "[]"
 }

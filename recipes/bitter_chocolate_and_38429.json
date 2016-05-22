@@ -1,33 +1,49 @@
 {
-    "title": "Bitter chocolate and coffee mousse cake served with a coffee anglaise",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This chocolate and coffee cake makes a decadent after-dinner treat slathered in homemade chocolate sauce. Equipment and Preparation: You will need 4 x 7cm/2\u00bein chefs' rings.",
     "author": {
         "john_burton_race": "John Burton Race"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "This chocolate and coffee cake makes a decadent after-dinner treat slathered in homemade chocolate sauce. Equipment and Preparation: You will need 4 x 7cm/2\u00bein chefs' rings.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "custard",
+        "icing",
+        "mousse",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "melting_chocolate",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sponge cake": [
-            "75g/2\u00bdoz caster sugar",
-            "2 free-range eggs",
-            "75g/2\u00bdoz plain flour, sifted",
-            "20g/1oz butter, melted and cooled",
-            "8 tbsp coffee liqueur",
-            "100g/3\u00bdoz dark chocolate, melted"
+        "For the chocolate mousse": [
+            "175g/6oz chocolate (70% cocoa solids), chopped",
+            "1 free-range egg yolk",
+            "4 free-range egg whites",
+            "25g/1oz caster sugar"
+        ],
+        "For the chocolate sauce": [
+            "100g/3\u00bdoz dark chocolate (70% cocoa solids)",
+            "40g/1\u00bdoz caster sugar",
+            "60ml/4 tbsp double cream",
+            "sweetened cocoa powder, to serve"
+        ],
+        "For the coffee anglaise": [
+            "275ml/9\u00beoz double cream",
+            "1 tbsp instant coffee granules",
+            "3 free-range eggs, yolks only",
+            "2 tbsp caster sugar",
+            "1 tbsp cornflour"
         ],
         "For the coffee mousse": [
             "1 leaf gelatin, soaked in cold water for five minutes",
@@ -37,25 +53,20 @@
             "300ml/10fl oz double cream, softly whipped",
             "2 free-range egg whites"
         ],
-        "For the chocolate mousse": [
-            "175g/6oz chocolate (70% cocoa solids), chopped",
-            "1 free-range egg yolk",
-            "4 free-range egg whites",
-            "25g/1oz caster sugar"
-        ],
-        "For the coffee anglaise": [
-            "275ml/9\u00beoz double cream",
-            "1 tbsp instant coffee granules",
-            "3 free-range eggs, yolks only",
-            "2 tbsp caster sugar",
-            "1 tbsp cornflour"
-        ],
-        "For the chocolate sauce": [
-            "100g/3\u00bdoz dark chocolate (70% cocoa solids)",
-            "40g/1\u00bdoz caster sugar",
-            "60ml/4 tbsp double cream",
-            "sweetened cocoa powder, to serve"
+        "For the sponge cake": [
+            "75g/2\u00bdoz caster sugar",
+            "2 free-range eggs",
+            "75g/2\u00bdoz plain flour, sifted",
+            "20g/1oz butter, melted and cooled",
+            "8 tbsp coffee liqueur",
+            "100g/3\u00bdoz dark chocolate, melted"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease and line two 18 x 30cm/7 x 12in flat baking trays with baking parchment.",
@@ -74,10 +85,9 @@
         "For the chocolate sauce, place the chocolate sauce ingredients with five tablespoons water into a saucepan and heat gently. When all the ingredients have melted, pour into a squeezy bottle or a bowl and allow to cool.",
         "Once ready to serve, use a blowtorch to warm the ring around the mousse stack making it easy to remove. Dust the tops with sweetened cocoa powder. Drizzle with a little of the chocolate sauce and serve the cold coffee anglaise in a jug alongside."
     ],
-    "howTos": [
-        "folding",
-        "melting_chocolate",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Bitter chocolate and coffee mousse cake served with a coffee anglaise",
     "videos": "[]"
 }

@@ -1,24 +1,24 @@
 {
-    "title": "How to make ice cream",
-    "cookTime": "less than 10 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6",
-    "recommendations": "12",
-    "images": [
-        
-    ],
-    "description": "Home-made ice cream is surprisingly easy, and tastes totally delicious with creamy vanilla flavours.",
     "author": {
         "william_leigh": "William Leigh"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Home-made ice cream is surprisingly easy, and tastes totally delicious with creamy vanilla flavours.",
+    "dishes": [
+        "custard",
+        "ice_cream",
+        "meringue",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,6 +29,12 @@
             "300ml/\u00bd pint full-fat milk",
             "1 vanilla pod"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "12",
+    "serves": "Serves 6",
+    "show": {
+        
     },
     "steps": [
         "Make sure that you have plenty of room spare in the freezer. First, separate the eggs, placing the yolks in a large bowl. (You will not need the whites for this recipe. You can use them to make meringues.)",
@@ -44,8 +50,9 @@
         "Then leave the ice-cream in the freezer for a final freeze, until it is solid.",
         "Remove the ice cream from the freezer 10 minutes before serving, so that it\u2019s easy to scoop."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "How to make ice cream",
     "videos": "[p00yktdl:p00yktdp]"
 }

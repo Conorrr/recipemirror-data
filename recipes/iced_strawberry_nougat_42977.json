@@ -1,31 +1,30 @@
 {
-    "title": "Iced strawberry nougat",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Michel Roux's impressive strawberry dessert can be made ahead of time and kept in the freezer until ready to serve.",
     "author": {
         "michel_roux_jr": "Michel Roux Jr."
     },
-    "show": {
-        "b016pbs9": "Great British Food Revival"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Michel Roux's impressive strawberry dessert can be made ahead of time and kept in the freezer until ready to serve.",
+    "dishes": [
+        "caramel",
+        "frozen_desserts",
+        "nougat",
+        "oven-baked_dishes",
+        "pie",
+        "roux",
+        "sauce",
+        "stir-fries",
+        "terrine"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the strawberry sauce": [
-            "250g/9oz strawberries, hulled, halved if large",
-            "2 tbsp runny honey",
-            "sugar, to taste"
-        ],
         "For the caramelised hazelnuts": [
             "100g/3\u00bdoz caster sugar",
             "100g/3\u00bdoz blanched hazelnuts"
@@ -36,7 +35,18 @@
             "125g/4\u00bdoz strawberries, hulled, halved if large",
             "2 tsp vanilla extract",
             "375ml/13fl oz whipping cream, whipped until soft peaks form when the whisk is removed"
+        ],
+        "For the strawberry sauce": [
+            "250g/9oz strawberries, hulled, halved if large",
+            "2 tbsp runny honey",
+            "sugar, to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 6",
+    "show": {
+        "b016pbs9": "Great British Food Revival"
     },
     "steps": [
         "Preheat the oven to 140C/275F/Gas 1.",
@@ -49,8 +59,9 @@
         "Fold in the caramelised hazelnuts, strawberries, vanilla and cream. Spoon the mixture into six lightly oiled individual moulds or a terrine. Freeze overnight.",
         "To serve, dip the moulds in a little hot water for a few seconds, then turn out onto a plate. Drizzle the strawberry sauce around the plate."
     ],
-    "howTos": [
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Iced strawberry nougat",
     "videos": "[]"
 }

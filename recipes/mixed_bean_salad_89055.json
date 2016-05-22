@@ -1,33 +1,22 @@
 {
-    "title": "Mixed bean salad",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mixed_bean_salad_89055_16x9.jpg"
-    ],
-    "description": "Grab that tin of beans from the back of your store cupboard and whip up this simple salad. Each serving provides 107kcal, 3g protein, 8g carbohydrate (of which 2g sugars), 6g fat (of which 1g saturates), 4g fibre and 0.1g salt.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b05vr6dl": "Mary Berry's Absolute Favourites"
-    },
-    "tips": [
-        "The salad will keep, covered, in the fridge for 2\u20133 days, in fact this will allow the flavours to develop."
+    "cookTime": "no cooking required",
+    "description": "Grab that tin of beans from the back of your store cupboard and whip up this simple salad. Each serving provides 107kcal, 3g protein, 8g carbohydrate (of which 2g sugars), 6g fat (of which 1g saturates), 4g fibre and 0.1g salt.",
+    "dishes": [
+        "salad"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mixed_bean_salad_89055_16x9.jpg"
+    ],
     "ingredients": {
-        "For the salad": [
-            "1 x 400g tin mixed bean salad, drained and rinsed",
-            "2 spring onions, finely chopped",
-            "2 celery sticks, thinly sliced",
-            "1 large tomato, deseeded and finely diced",
-            "salt and freshly ground black pepper"
-        ],
         "For the dressing": [
             "3 tbsp olive oil",
             "1 tbsp white wine vinegar",
@@ -35,15 +24,29 @@
             "2 tsp Dijon mustard",
             "1 tbsp chopped fresh tarragon",
             "1 tbsp chopped fresh parsley"
+        ],
+        "For the salad": [
+            "1 x 400g tin mixed bean salad, drained and rinsed",
+            "2 spring onions, finely chopped",
+            "2 celery sticks, thinly sliced",
+            "1 large tomato, deseeded and finely diced",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 6",
+    "show": {
+        "b05vr6dl": "Mary Berry's Absolute Favourites"
     },
     "steps": [
         "Put all the salad ingredients in a bowl and mix well.",
         "Mix the dressing ingredients in a separate bowl or jug until well combined.",
         "Pour the dressing over the salad, season well with salt and pepper and toss together."
     ],
-    "howTos": [
-        
+    "tips": [
+        "The salad will keep, covered, in the fridge for 2\u20133 days, in fact this will allow the flavours to develop."
     ],
+    "title": "Mixed bean salad",
     "videos": "[]"
 }

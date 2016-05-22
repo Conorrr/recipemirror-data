@@ -1,31 +1,30 @@
 {
-    "title": "Smoked quail with port dressing and cauliflower salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Inspired by Masterchef to expand your culinary horizons? Try John Torode's home-smoked quail for a delightfully different dinner.",
     "author": {
         "john_torode": "John Torode"
     },
-    "show": {
-        "b006t1k5": "MasterChef"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Inspired by Masterchef to expand your culinary horizons? Try John Torode's home-smoked quail for a delightfully different dinner.",
+    "dishes": [
+        "pickle",
+        "pie",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_deglaze_a_pan"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 quail",
-            "2 tsp olive oil",
-            "25g/1oz unsalted butter",
-            "30g/1oz walnut halves"
+        "For the port dressing": [
+            "250ml/9fl oz red wine",
+            "250ml/9fl oz port",
+            "1 banana shallot, finely chopped",
+            "1 cinnamon stick"
         ],
         "For the quail smoking mix": [
             "6 tbsp rice",
@@ -35,19 +34,25 @@
             "1 star anise",
             "6 thyme sprigs"
         ],
-        "For the port dressing": [
-            "250ml/9fl oz red wine",
-            "250ml/9fl oz port",
-            "1 banana shallot, finely chopped",
-            "1 cinnamon stick"
-        ],
         "For the salad": [
             "2 cauliflower florets, thinly sliced using a mandolin",
             "squeeze of lemon juice",
             "1 oak leaf lettuce head, leaves picked",
             "4 pickled walnuts, sliced",
             "4 spring onions, white part only, sliced at an angle"
+        ],
+        "default": [
+            "2 quail",
+            "2 tsp olive oil",
+            "25g/1oz unsalted butter",
+            "30g/1oz walnut halves"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b006t1k5": "MasterChef"
     },
     "steps": [
         "For each quail, cut down either side of the back bone, remove the bone and turn over the quail. Push down using the palm of your hand to flatten. Turn it back over and gently pull out the rib cage. Using your fingers, gently pull the breast bone away from the meat. Remove the bones from the legs and wings.",
@@ -60,8 +65,9 @@
         "Deglaze the quail pan with the port dressing. Return the quail to the frying pan. Coat and glaze with the dressing. Remove the quail from the pan and strain the sauce through a sieve.",
         "Arrange the oak leaf lettuce on a warm plate along with the pickled walnuts and spring onions. Spoon over the cauliflower and walnuts. Arrange the quail on the plate, drizzle over the dressing and serve."
     ],
-    "howTos": [
-        "how_to_deglaze_a_pan"
+    "tips": [
+        
     ],
+    "title": "Smoked quail with port dressing and cauliflower salad",
     "videos": "[]"
 }

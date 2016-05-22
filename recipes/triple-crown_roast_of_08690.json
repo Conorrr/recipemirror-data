@@ -1,28 +1,37 @@
 {
-    "title": "Triple-crown roast of lamb with a jewelled fruit stuffing and minted red wine sauce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/triple-crown_roast_of_08690_16x9.jpg"
-    ],
-    "description": "Put on your Sunday best and make rack of lamb the crowning glory for a special lunch.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Put on your Sunday best and make rack of lamb the crowning glory for a special lunch.",
+    "dishes": [
+        "bun",
+        "jelly",
+        "oven-baked_dishes",
+        "pie",
+        "roast_lamb",
+        "sauce",
+        "stir-fries",
+        "stock",
+        "stuffing"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/triple-crown_roast_of_08690_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "3 x racks of lamb (best end), French trimmed (ask your butcher to do this)"
+        "For the minted red wine sauce": [
+            "2 tsp plain flour",
+            "150ml/5fl oz red wine",
+            "150ml/5fl oz lamb stock or water",
+            "2 tsp redcurrant jelly",
+            "1 tbsp chopped fresh mint leaves"
         ],
         "For the stuffing": [
             "3 tbsp olive oil",
@@ -43,13 +52,15 @@
             "1 tbsp chopped fresh thyme",
             "sea salt and freshly ground black pepper"
         ],
-        "For the minted red wine sauce": [
-            "2 tsp plain flour",
-            "150ml/5fl oz red wine",
-            "150ml/5fl oz lamb stock or water",
-            "2 tsp redcurrant jelly",
-            "1 tbsp chopped fresh mint leaves"
+        "default": [
+            "3 x racks of lamb (best end), French trimmed (ask your butcher to do this)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -64,8 +75,9 @@
         "Sprinkle the flour into the tin and cook for a few seconds. Slowly pour in the red wine and allow to bubble for 20 seconds, stirring vigorously with a wooden spoon. Stir in the water, add the mint and return to a simmer. Cook for 2-3 minutes, or until slightly thickened. Strain though a sieve into a heatproof jug.",
         "Take the lamb to the table and cut through the bones to serve. Depending on the size of your racks, 2-3 chops should make one serving when accompanied by the fruity stuffing. Spoon over a little of the sauce and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Triple-crown roast of lamb with a jewelled fruit stuffing and minted red wine sauce",
     "videos": "[]"
 }

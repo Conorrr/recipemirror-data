@@ -1,26 +1,28 @@
 {
-    "title": "Steak tartare with toast",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "bread",
+        "ketchup",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "1 free-range egg yolk",
+            "1 slice crusty bread, toasted and drizzled with oil"
+        ],
         "default": [
             "100g/3\u00bdoz rump steak, trimmed and very finely chopped",
             "\u00bc red pepper, finely chopped",
@@ -30,19 +32,22 @@
             "1 tbsp Worcestershire sauce",
             "\u00bd lemon, juice only",
             "1 tbsp chopped fresh parsley"
-        ],
-        "To serve": [
-            "1 free-range egg yolk",
-            "1 slice crusty bread, toasted and drizzled with oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Place the chopped steak into a mixing bowl. Add all the remaining ingredients except the egg yolk and toast and mix well.",
         "Place a chefs' ring onto a serving plate and fill with the steak mixture.",
         "To serve, remove the chefs' ring, top with the egg yolk and serve with toast."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steak tartare with toast",
     "videos": "[]"
 }

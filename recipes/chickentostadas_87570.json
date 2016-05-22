@@ -1,26 +1,29 @@
 {
-    "title": "Chicken tostadas",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Mexican",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "1 avocado, peeled and chopped",
+            "4 tbsp sour cream",
+            "lime wedges"
+        ],
         "default": [
             "oil, for frying and brushing",
             "1 red onion, sliced",
@@ -32,12 +35,13 @@
             "1 tbsp chopped fresh coriander",
             "8 crisp tortilla discs",
             "200g/7oz Asiago or cheddar cheese, grated"
-        ],
-        "To serve": [
-            "1 avocado, peeled and chopped",
-            "4 tbsp sour cream",
-            "lime wedges"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Heat the oil in a frying pan and fry the onion, garlic and chilli until softened.",
@@ -48,8 +52,9 @@
         "Transfer the baking sheet to the oven or grill and cook for about five minutes, or until the tortillas are crisp and the cheese has melted, taking care not to burn the tortillas.",
         "To serve, place a tortilla stack onto each of four plates and garnish with chopped avocado, a dollop of sour cream and some lime wedges."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken tostadas",
     "videos": "[]"
 }

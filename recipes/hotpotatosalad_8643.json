@@ -1,24 +1,22 @@
 {
-    "title": "Hot potato salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ed_baines": "Ed Baines"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "potato_salad",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,14 +28,21 @@
             "salt and pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "p0077hsg": "Housecall"
+    },
     "steps": [
         "Boil the potatoes until just cooked.",
         "Make up a simple viniagrette using 3 parts oil to 1 part vinegar.",
         "Add the onions, garlic, herbs and seasoning.",
         "Drain the potatoes and whilst they are still hot, tip them into the dressing. Stir well and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Hot potato salad",
     "videos": "[]"
 }

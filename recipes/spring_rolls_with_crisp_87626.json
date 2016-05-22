@@ -1,26 +1,38 @@
 {
-    "title": "Spring rolls with crisp oyster mushrooms and dipping sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 10",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spring_rolls_with_crisp_87626_16x9.jpg"
-    ],
-    "description": "Vegetable spring rolls never taste better than when they're fresh out of the fryer. Sweet and hot dipping sauce adds zing.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Chinese",
+    "description": "Vegetable spring rolls never taste better than when they're fresh out of the fryer. Sweet and hot dipping sauce adds zing.",
+    "dishes": [
+        "bread",
+        "pastry",
+        "pie",
+        "sauce",
+        "spring_rolls",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spring_rolls_with_crisp_87626_16x9.jpg"
+    ],
     "ingredients": {
+        "For the crisp oyster mushrooms": [
+            "50g/2oz plain flour",
+            "50g/2oz five-spice powder",
+            "100g/3\u00bdoz oyster mushrooms, torn into strips",
+            "salt to season"
+        ],
+        "For the dipping sauce": [
+            "100ml/3\u00bdfl oz Chinese plum sauce",
+            "1 tbsp hot chilli sauce"
+        ],
         "default": [
             "1 tbsp vegetable oil",
             "12 spring onions, finely chopped",
@@ -34,17 +46,13 @@
             "50ml/2fl oz thick soy sauce",
             "20 spring roll wrappers",
             "groundnut oil to deep fry"
-        ],
-        "For the crisp oyster mushrooms": [
-            "50g/2oz plain flour",
-            "50g/2oz five-spice powder",
-            "100g/3\u00bdoz oyster mushrooms, torn into strips",
-            "salt to season"
-        ],
-        "For the dipping sauce": [
-            "100ml/3\u00bdfl oz Chinese plum sauce",
-            "1 tbsp hot chilli sauce"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Makes 10",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Heat a wok until smoking and add the vegetable oil. Then add the spring onions, carrots, garlic, ginger, beansprouts and chilli flakes and stir-fry for one minute.",
@@ -56,8 +64,9 @@
         "For dipping sauce combine the plum sauce and the chilli sauce.",
         "Serve the spring rolls with the crisp mushrooms sprinkled on top and the dipping sauce on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spring rolls with crisp oyster mushrooms and dipping sauce",
     "videos": "[]"
 }

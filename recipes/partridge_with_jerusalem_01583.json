@@ -1,32 +1,38 @@
 {
-    "title": "Partridge with Jerusalem artichoke pur\u00e9e, caramelised apple and chicken sauce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Impress your guests with partridge breast, earthy Jerusalem artichoke, sweet apple and crispy kale from Michelin-starred chef Kenny Atkinson.",
     "author": {
         "kenny_atkinson": "Kenny Atkinson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Impress your guests with partridge breast, earthy Jerusalem artichoke, sweet apple and crispy kale from Michelin-starred chef Kenny Atkinson.",
+    "dishes": [
+        "caramel",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the marinated artichoke discs": [
-            "200ml/7fl oz rapeseed oil",
-            "200ml/7fl oz chardonnay or white wine vinegar",
-            "100g/3\u00bdoz caster sugar",
-            "6 sprigs thyme",
-            "2 Jerusalem artichokes, peeled and thinly sliced"
+        "For the Jerusalem artichoke pur\u00e9e": [
+            "350g/12\u00bdoz Jerusalem artichokes, peeled and diced",
+            "150g/5\u00bdoz celeriac, diced",
+            "3 banana shallots, chopped",
+            "1 garlic clove, peeled",
+            "150g/5\u00bdoz unsalted butter",
+            "200ml/7fl oz double cream"
+        ],
+        "For the caramelised apple": [
+            "100g/3\u00bdoz sugar",
+            "1 Granny Smith apple, cored and cut into rings",
+            "50g/1\u00beoz butter"
         ],
         "For the chicken sauce": [
             "1 tbsp rapeseed oil",
@@ -40,13 +46,24 @@
             "100ml/3\u00bdfl oz double cream, to finish",
             "1 lemon, juice only"
         ],
-        "For the Jerusalem artichoke pur\u00e9e": [
-            "350g/12\u00bdoz Jerusalem artichokes, peeled and diced",
-            "150g/5\u00bdoz celeriac, diced",
-            "3 banana shallots, chopped",
-            "1 garlic clove, peeled",
-            "150g/5\u00bdoz unsalted butter",
-            "200ml/7fl oz double cream"
+        "For the kale": [
+            "vegetable oil, for deep frying",
+            "100g/3\u00bdoz kale leaves",
+            "salt, to taste"
+        ],
+        "For the marinated artichoke discs": [
+            "200ml/7fl oz rapeseed oil",
+            "200ml/7fl oz chardonnay or white wine vinegar",
+            "100g/3\u00bdoz caster sugar",
+            "6 sprigs thyme",
+            "2 Jerusalem artichokes, peeled and thinly sliced"
+        ],
+        "For the mushroom and smoked bacon garnish": [
+            "1 tbsp rapeseed oil",
+            "50g/1\u00beoz smoked pancetta, diced into 1cm/\u00bdin cubes",
+            "50g/1\u00beoz girolle mushrooms, trimmed",
+            "knob of butter",
+            "10g finely chopped chives"
         ],
         "For the partridge": [
             "1.1 litres/2 pints chicken stock",
@@ -56,24 +73,13 @@
             "1 tbsp rapeseed oil",
             "salt and freshly ground black pepper",
             "knob of butter"
-        ],
-        "For the kale": [
-            "vegetable oil, for deep frying",
-            "100g/3\u00bdoz kale leaves",
-            "salt, to taste"
-        ],
-        "For the mushroom and smoked bacon garnish": [
-            "1 tbsp rapeseed oil",
-            "50g/1\u00beoz smoked pancetta, diced into 1cm/\u00bdin cubes",
-            "50g/1\u00beoz girolle mushrooms, trimmed",
-            "knob of butter",
-            "10g finely chopped chives"
-        ],
-        "For the caramelised apple": [
-            "100g/3\u00bdoz sugar",
-            "1 Granny Smith apple, cored and cut into rings",
-            "50g/1\u00beoz butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the marinated artichoke discs, put all the ingredients apart from the artichokes into a large pan. Bring to a simmer, add the artichoke discs and bring back to a simmer. Pour into a deep container and leave to marinate for an hour.",
@@ -93,8 +99,9 @@
         "Add the apple rings and a little butter and cook for 30 seconds, flip the apple over and turn off the heat of the pan, after 20 seconds remove the apple from the pan.",
         "To serve, on large serving plates trim the partridge and neatly place off centre, and put the apple next to the partridge. Spoon the Jerusalem artichoke pur\u00e9e next to the them. Spoon the smoked bacon and mushrooms over and around the breast. Finish with a little drizzle of chicken sauce and arrange a few pieces of deep-fried kale and artichoke discs around the plate."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Partridge with Jerusalem artichoke pur\u00e9e, caramelised apple and chicken sauce",
     "videos": "[]"
 }

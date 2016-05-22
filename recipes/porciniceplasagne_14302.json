@@ -1,34 +1,28 @@
 {
-    "title": "Porcini (cep) lasagne",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hugh_fearnley-whittingstall": "Hugh Fearnley-Whittingstall"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "ham",
+        "lasagne",
+        "oven-baked_dishes",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "at least 500g/1lb 2oz fresh porcini, or other boletus (ideally twice that quantity)",
-            "275g/10oz parma ham, sliced very finely",
-            "white lasagne sheets, ideally fresh, but dried can be used (enough to make at least 3 layers in an 20cmx25cm/8x10in baking tray)",
-            "at least 250g/9oz fresh parmesan",
-            "truffle oil (optional)",
-            "butter"
-        ],
         "For the b\u00e9chamel": [
             "500ml/17fl oz hot milk",
             "50g/2oz butter",
@@ -36,7 +30,21 @@
             "pinch nutmeg",
             "salt",
             "freshly ground black pepper"
+        ],
+        "default": [
+            "at least 500g/1lb 2oz fresh porcini, or other boletus (ideally twice that quantity)",
+            "275g/10oz parma ham, sliced very finely",
+            "white lasagne sheets, ideally fresh, but dried can be used (enough to make at least 3 layers in an 20cmx25cm/8x10in baking tray)",
+            "at least 250g/9oz fresh parmesan",
+            "truffle oil (optional)",
+            "butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4-6",
+    "show": {
+        
     },
     "steps": [
         "To make the b\u00e9 chamel sauce, mix the flour with the melted butter in the pan and cook it for a few minutes. Add the hot milk by degrees and stir to thicken. Bring to the boil and allow to simmer for just a minute. Season with nutmeg, salt and pepper.",
@@ -46,8 +54,9 @@
         "Then pour over a layer of b\u00e9amel and repeat the layers. You can make as many layers as you have ingredients, or space for, but finish with a layer of b\u00e9amel sauce, some grated parmesan and a few knobs of butter.",
         "Bake for around 20-30 minutes in a fairly hot oven (190C/375F/Gas 5) until nicely browned on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Porcini (cep) lasagne",
     "videos": "[]"
 }

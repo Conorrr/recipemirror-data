@@ -1,23 +1,22 @@
 {
-    "title": "Baked sea bass, parsley mayonnaise and walnut truffle pesto",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Chef Adam Byatt's simple recipe makes for an impressive dinner party dish.",
     "author": {
         "adam_byatt": "Adam Byatt"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        "This recipe makes more mayonnaise and truffle pesto than you will need. Leftovers can be stored in the fridge for up to three days."
+    "cookTime": "10 to 30 mins",
+    "description": "Chef Adam Byatt's simple recipe makes for an impressive dinner party dish.",
+    "dishes": [
+        "bun",
+        "mayonnaise",
+        "oven-baked_dishes",
+        "pesto"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -29,6 +28,13 @@
             "1 tbsp English mustard",
             "1 lemon, juice only"
         ],
+        "For the seabass": [
+            "4 sea bass fillets, pin bones removed",
+            "1 lemon, zest only",
+            "2 tbsp extra virgin olive oil",
+            "2 red endive, leaves separated and placed into iced water",
+            "10g/\u00bdoz parsley micro cress"
+        ],
         "For the walnut truffle pesto": [
             "150ml/4\u00bdfl oz extra virgin olive oil",
             "250g/9oz walnuts",
@@ -37,14 +43,13 @@
             "15g/\u00bdoz fresh black truffle",
             "10g/\u00bcoz parmesan, grated",
             "2 tsp white truffle oil"
-        ],
-        "For the seabass": [
-            "4 sea bass fillets, pin bones removed",
-            "1 lemon, zest only",
-            "2 tbsp extra virgin olive oil",
-            "2 red endive, leaves separated and placed into iced water",
-            "10g/\u00bdoz parsley micro cress"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the parsley mayonnaise, blend the parsley and vegetable oil in a blender until smooth. (This will take 1-2 minutes.)",
@@ -59,8 +64,9 @@
         "Drain the endive leaves, pat dry and toss with some of the truffle pesto.",
         "To serve, place the seabass into the centre of serving plates and drizzle a little parsley mayonnaise over the top. Arrange the endive leaves around the edge and scatter over the parsley cress."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This recipe makes more mayonnaise and truffle pesto than you will need. Leftovers can be stored in the fridge for up to three days."
     ],
+    "title": "Baked sea bass, parsley mayonnaise and walnut truffle pesto",
     "videos": "[]"
 }

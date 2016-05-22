@@ -1,26 +1,32 @@
 {
-    "title": "Sweetcorn fritter with mango and sweetcorn salsa",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "salsa",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the salsa": [
+            "1 tbsp butter",
+            "3 tbsp sweetcorn",
+            "\u00bc red chilli, diced",
+            "\u00bd mango, diced",
+            "3 tbsp coriander"
+        ],
         "For the sweetcorn fritters": [
             "100g/3\u00bdoz flour",
             "1tsp baking powder",
@@ -29,14 +35,13 @@
             "salt and freshly ground black pepper",
             "2 free-range egg whites",
             "\u00bd tin sweetcorn"
-        ],
-        "For the salsa": [
-            "1 tbsp butter",
-            "3 tbsp sweetcorn",
-            "\u00bc red chilli, diced",
-            "\u00bd mango, diced",
-            "3 tbsp coriander"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 220F/425F/Gas 7.",
@@ -48,8 +53,9 @@
         "Add the coriander and stir through.",
         "Serve the fritters on a warm plate with the salsa beside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sweetcorn fritter with mango and sweetcorn salsa",
     "videos": "[]"
 }

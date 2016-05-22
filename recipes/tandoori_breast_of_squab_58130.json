@@ -1,23 +1,25 @@
 {
-    "title": "Tandoori breast of pigeon, black lentils, kachumber salad and naan bread",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 2",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Get the taste of authentic tandoori kebabs at home \u2013 delish with spicy lentils and homemade naan bread.",
     "author": {
         "vivek_singh": "Vivek Singh"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        "You will need metal skewers for this recipe. You can either cook this dish in a moderately hot tandoor of 250-300C/480F-570F or alternatively preheat your oven to 200C/400F/Gas 6."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "Get the taste of authentic tandoori kebabs at home \u2013 delish with spicy lentils and homemade naan bread.",
+    "dishes": [
+        "bread",
+        "kebab",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -34,6 +36,14 @@
             "1 tsp ground dried fenugreek leaves",
             "\u00bd tsp sugar",
             "50ml/2fl oz single cream"
+        ],
+        "For the kachumber salad": [
+            "15cm/6in piece cucumber, finely diced",
+            "1 tomato, seeds removed, chopped",
+            "1 red onion, finely diced",
+            "\u00bd lemon, juice only",
+            "1 pinch salt",
+            "1 pinch sugar"
         ],
         "For the naan bread": [
             "35g/1\u00bcoz sugar",
@@ -59,15 +69,13 @@
             "1 pinch sugar",
             "\u00bd tsp garam masala",
             "1 tbsp vegetable oil"
-        ],
-        "For the kachumber salad": [
-            "15cm/6in piece cucumber, finely diced",
-            "1 tomato, seeds removed, chopped",
-            "1 red onion, finely diced",
-            "\u00bd lemon, juice only",
-            "1 pinch salt",
-            "1 pinch sugar"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "2",
+    "serves": "Serves 2",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the black lentils, boil the soaked lentils in the water in a large saucepan until the lentils are thoroughly cooked but are not completely mashed \u2013 about one hour.",
@@ -90,8 +98,9 @@
         "For the kachumber salad, mix all the ingredients together in a bowl.",
         "To serve, cut the breasts into two lengthways. Spoon the black lentils onto a plate and arrange the pigeon breasts on top. Place the salad and naan bread alongside."
     ],
-    "howTos": [
-        
+    "tips": [
+        "You will need metal skewers for this recipe. You can either cook this dish in a moderately hot tandoor of 250-300C/480F-570F or alternatively preheat your oven to 200C/400F/Gas 6."
     ],
+    "title": "Tandoori breast of pigeon, black lentils, kachumber salad and naan bread",
     "videos": "[]"
 }

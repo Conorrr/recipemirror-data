@@ -1,24 +1,24 @@
 {
-    "title": "Syrup sponge",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "jane_horrocks": "Jane Horrocks"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "sealing_steamed_puddings",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +31,12 @@
             "2 tbsp milk"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b00701fw": "A Taste of My Life"
+    },
     "steps": [
         "Grease a 1 litre/2 pint pudding basin with butter. Pour the golden syrup into the basin.",
         "In a mixing bowl, cream together the butter and sugar until light and fluffy (a handheld electric whisk works best). Stir in the lemon zest.",
@@ -40,9 +46,9 @@
         "Place the lid on the pan, place over a low-medium heat and bring the water to a gentle simmer. Steam for one-and-a-half hours, checking the water level from time to time and topping up with more boiling water if necessary. (Do not lift the lid for the first 30 minutes of cooking or the sponge may collapse.)",
         "Carefully lift the pudding basin out of the pan using the string handle. Remove the greaseproof paper, gently run a knife around the edge of the pudding basin and turn the syrup sponge out onto a serving plate. Serve at once."
     ],
-    "howTos": [
-        "sealing_steamed_puddings",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Syrup sponge",
     "videos": "[]"
 }

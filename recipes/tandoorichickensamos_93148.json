@@ -1,33 +1,32 @@
 {
-    "title": "Tandoori chicken samosas",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 10-12",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "Samosas make a great little starter with endless variations on fillings to suit your tastes.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00pymg1": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "Samosas make a great little starter with endless variations on fillings to suit your tastes.",
+    "dishes": [
+        "bread",
+        "chutney",
+        "curry",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "raita",
+        "samosa",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "folding",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "250g/9oz plain flour, plus extra for dusting",
-            "1 tsp salt",
-            "2 tsp vegetable oil",
-            "1 free-range egg, separated",
-            "135ml/4\u00befl oz warm water"
-        ],
         "For the filling": [
             "1 tbsp ready-made tandoori curry paste",
             "1 tbsp yoghurt",
@@ -48,10 +47,23 @@
             "1 handful fresh coriander leaves, chopped",
             "vegetable oil, for deep frying"
         ],
+        "For the pastry": [
+            "250g/9oz plain flour, plus extra for dusting",
+            "1 tsp salt",
+            "2 tsp vegetable oil",
+            "1 free-range egg, separated",
+            "135ml/4\u00befl oz warm water"
+        ],
         "To serve": [
             "chutney (optional)",
             "raita (optional)"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "4",
+    "serves": "Makes 10-12",
+    "show": {
+        "b00pymg1": "The Hairy Bikers: Mums Know Best"
     },
     "steps": [
         "For the pastry, mix the flour and salt together in a bowl. Add the oil and egg yolk and mix until the mixture resembles breadcrumbs. Gradually mix in the warm water, until the mixture forms a smooth and elastic dough (you may not need all of the water). Roll the dough into a ball, cover with cling film and chill in the fridge until needed.",
@@ -67,9 +79,9 @@
         "Half-fill a deep, heavy-based pan with the vegetable oil and heat until a cube of bread dropped in sizzles and turns golden-brown in 30 seconds (CAUTION: hot oil can be dangerous. Do not leave unattended). Fry the samosas in small batches, for 4-5 minutes each time, or until golden-brown and crisp. Remove from the oil with a slotted spoon and drain on kitchen paper.",
         "Serve the samosas with small bowls of chutney and raita alongside."
     ],
-    "howTos": [
-        "folding",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Tandoori chicken samosas",
     "videos": "[]"
 }

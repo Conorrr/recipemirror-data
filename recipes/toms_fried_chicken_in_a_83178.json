@@ -1,24 +1,23 @@
 {
-    "title": "Tom's fried chicken in a basket",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "41",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/toms_fried_chicken_in_a_83178_16x9.jpg"
-    ],
-    "description": "Fried chicken with spicy smoky kick - serve it in a basket with coleslaw for a touch of nostalgia.",
     "author": {
         "tom_kerridge": "Tom Kerridge"
     },
-    "show": {
-        "b03bv3vm": "Tom Kerridge's Proper Pub Food"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "Fried chicken with spicy smoky kick - serve it in a basket with coleslaw for a touch of nostalgia.",
+    "dishes": [
+        "coleslaw",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/toms_fried_chicken_in_a_83178_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -41,6 +40,12 @@
             "coleslaw, to serve"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "41",
+    "serves": "Serves 4",
+    "show": {
+        "b03bv3vm": "Tom Kerridge's Proper Pub Food"
+    },
     "steps": [
         "Place the chicken pieces in a container, cover with the buttermilk and refrigerate for 12 hours.",
         "Preheat the oven to 180C/375F/Gas 4.",
@@ -49,8 +54,9 @@
         "Put the chicken pieces in the oven until the coating is crunchy rather than crisp (up to 15 minutes).",
         "Serve in a basket with some coleslaw."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tom's fried chicken in a basket",
     "videos": "[]"
 }

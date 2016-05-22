@@ -1,24 +1,21 @@
 {
-    "title": "How to make pancakes",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "62",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/how_to_make_pancakes_02824_16x9.jpg"
-    ],
-    "description": "This is the simple, straight-forward, everyday pancake recipe, great for sweet or savoury pancakes.",
     "author": {
         "william_leigh": "William Leigh"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "The pancakes can be eaten straight away, or frozen after cooling - stack and wrap them in twos. You can use this batter to make sweet or savoury pancakes. For sweet pancakes you can add a desert spoon of caster sugar and the zest of an orange, this will give the pancakes a great flavour. For savoury pancakes you can add some finely chopped herbs such as dill and parsley, or perhaps some grated Parmesan cheese."
+    "cookTime": "less than 10 mins",
+    "description": "This is the simple, straight-forward, everyday pancake recipe, great for sweet or savoury pancakes.",
+    "dishes": [
+        "crepe",
+        "pancake"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/how_to_make_pancakes_02824_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -30,6 +27,12 @@
             "vegetable oil, for frying"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "62",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Put the flour into a large bowl, make a well in the centre and pour in the milk and eggs. Give the liquid mixture a quick whisk before incorporating the flour. Continue to whisk until you have a smooth batter.",
         "Now add 1 tbsp vegetable oil and whisk thoroughly.",
@@ -37,8 +40,9 @@
         "Add just under a ladleful of batter to the pan and immediately start swirling it round the pan to get a nice even layer.",
         "Cook the pancake for approximately 30-40 seconds. Use a palette knife to lift the pancake carefully to look at the underside to check it is golden-brown before turning over. Cook the other side for approx 30-40 seconds and transfer to a serving plate."
     ],
-    "howTos": [
-        
+    "tips": [
+        "The pancakes can be eaten straight away, or frozen after cooling - stack and wrap them in twos. You can use this batter to make sweet or savoury pancakes. For sweet pancakes you can add a desert spoon of caster sugar and the zest of an orange, this will give the pancakes a great flavour. For savoury pancakes you can add some finely chopped herbs such as dill and parsley, or perhaps some grated Parmesan cheese."
     ],
+    "title": "How to make pancakes",
     "videos": "[]"
 }

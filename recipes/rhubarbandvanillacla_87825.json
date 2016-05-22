@@ -1,31 +1,28 @@
 {
-    "title": "Rhubarb and vanilla clafoutis",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/rhubarbandvanillacla_87825_16x9.jpg"
-    ],
-    "description": "A nice twist on the French classic, add shocking pink stalks of rhubarb to jazz up this tender pudding-cake.",
     "author": {
         "jun_tanaka": "Jun Tanaka"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "A nice twist on the French classic, add shocking pink stalks of rhubarb to jazz up this tender pudding-cake.",
+    "dishes": [
+        "cake",
+        "clafoutis",
+        "icing",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "de-seeding_vanilla_pods"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/rhubarbandvanillacla_87825_16x9.jpg"
+    ],
     "ingredients": {
-        "For the filling": [
-            "20g/\u00beoz butter, plus extra to grease the dish",
-            "400g/14\u00bcoz forced rhubarb, cut into 5cm/2in pieces",
-            "2 tbsp granulated sugar"
-        ],
         "For the batter": [
             "1 vanilla pod",
             "150ml/5\u00befl oz full-fat milk",
@@ -34,10 +31,21 @@
             "120g/4\u00bcoz caster sugar",
             "75g/2\u00bdoz plain flour"
         ],
+        "For the filling": [
+            "20g/\u00beoz butter, plus extra to grease the dish",
+            "400g/14\u00bcoz forced rhubarb, cut into 5cm/2in pieces",
+            "2 tbsp granulated sugar"
+        ],
         "To serve": [
             "icing sugar, to taste",
             "cr\u00e8me fra\u00eeche, to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -49,9 +57,9 @@
         "Place the rhubarb in the dish, pour in the batter and bake in the oven for 45 minutes, or until golden-brown and firm.",
         "Serve straightaway with a dusting of icing sugar and cr\u00e8me fra\u00eeche, to taste."
     ],
-    "howTos": [
-        "folding",
-        "de-seeding_vanilla_pods"
+    "tips": [
+        
     ],
+    "title": "Rhubarb and vanilla clafoutis",
     "videos": "[]"
 }

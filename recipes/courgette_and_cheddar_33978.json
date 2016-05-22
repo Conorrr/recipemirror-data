@@ -1,34 +1,25 @@
 {
-    "title": "Courgette and cheddar tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "A homemade quiche is always a treat and this mixed cheese and vegetable version can't fail to impress.",
     "author": {
         "tom_kerridge": "Tom Kerridge"
     },
-    "show": {
-        "b0424667": "Spring Kitchen with Tom Kerridge"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A homemade quiche is always a treat and this mixed cheese and vegetable version can't fail to impress.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "quiche",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the parmesan pastry": [
-            "200g/7oz plain flour",
-            "pinch salt",
-            "85g/3oz cold butter, diced",
-            "80g/2\u00beoz parmesan (or a similar vegetarian hard cheese)",
-            "2 free-range egg yolks",
-            "1 free-range egg, beaten for egg wash"
-        ],
         "For the filling": [
             "2 courgettes, cut into a large dice",
             "salt",
@@ -41,12 +32,26 @@
             "1 free-range egg",
             "pinch nutmeg"
         ],
+        "For the parmesan pastry": [
+            "200g/7oz plain flour",
+            "pinch salt",
+            "85g/3oz cold butter, diced",
+            "80g/2\u00beoz parmesan (or a similar vegetarian hard cheese)",
+            "2 free-range egg yolks",
+            "1 free-range egg, beaten for egg wash"
+        ],
         "To finish": [
             "50g/1\u00beoz parmesan, grated (or a similar vegetarian hard cheese)",
             "4 courgette flowers",
             "rapeseed oil, to taste",
             "salt and cracked black pepper"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "5",
+    "serves": "Serves 6",
+    "show": {
+        "b0424667": "Spring Kitchen with Tom Kerridge"
     },
     "steps": [
         "To make the parmesan pastry, in a food processor blend the flour, salt, butter and parmesan together and then add the yolks and two teaspoons of water. Pulse until it comes together in a dough.",
@@ -67,8 +72,9 @@
         "Place the courgette flowers in a steamer and cook for 2-3 minutes. Drizzle with a little rapeseed oil and season with salt and pepper.",
         "To serve, leave the tart to cool slightly before slicing and serving with the courgette flowers."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Courgette and cheddar tart",
     "videos": "[]"
 }

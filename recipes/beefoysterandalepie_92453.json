@@ -1,23 +1,24 @@
 {
-    "title": "Beef, oyster and ale pie",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "A beautifully balanced recipe for beef, oyster and ale pie with flavours of tarragon, dark ale, bacon.",
     "author": {
         "michael_caines": "Michael Caines"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "A beautifully balanced recipe for beef, oyster and ale pie with flavours of tarragon, dark ale, bacon.",
+    "dishes": [
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -43,6 +44,12 @@
             "1 free-range egg, plus 1 egg yolk, beaten together with a pinch of salt"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "Season the beef with salt and freshly ground black pepper. Heat a large pan until hot, then add the vegetable oil and fry the beef for 2-3 minutes, turning occasionally, until browned all over.",
         "Add the smoked bacon and fry for a further 1-2 minutes, then add the onion, carrots, garlic and mushrooms. Fry for 2-3 minutes, then add the flour and stir well to prevent any lumps from forming. Cook for a further minute.",
@@ -54,8 +61,9 @@
         "Prick the surface of the pastry with a fork, then brush with the beaten egg. Place the pies onto a baking tray and bake in the oven for 20 minutes, or until the pastry is golden-brown and crisp.",
         "Serve the pies with sides of lightly boiled seasonal green vegetables, such as green beans, broccoli or spinach."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef, oyster and ale pie",
     "videos": "[]"
 }

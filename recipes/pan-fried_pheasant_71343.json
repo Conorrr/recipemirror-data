@@ -1,29 +1,29 @@
 {
-    "title": "Pan-fried pheasant breast with gamekeeper\u2019s pie",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This hearty game dish is worthy of any top-rated gastropub. Serve in place of Sunday lunch after a wintry walk.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b01qkkjj": "Hairy Bikers Everyday Gourmets"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "This hearty game dish is worthy of any top-rated gastropub. Serve in place of Sunday lunch after a wintry walk.",
+    "dishes": [
+        "jelly",
+        "oven-baked_dishes",
+        "pie",
+        "quenelle",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "skimming_stock"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 young whole pheasants (preferably hens)"
-        ],
         "For the confit": [
             "2 tbsp crushed sea salt",
             "340g/12oz goose fat",
@@ -32,14 +32,6 @@
             "1 cinnamon stick",
             "2 bay leaves",
             "\u00bd tsp whole black peppercorns"
-        ],
-        "For the stock": [
-            "1 tbsp olive oil",
-            "1 small onion, roughly chopped",
-            "1 celery stalk, roughly chopped",
-            "1 carrot, roughly chopped",
-            "2 sprigs fresh thyme",
-            "1 litre/1\u00be pints hot chicken stock"
         ],
         "For the gamekeeper\u2019s pie": [
             "500g/1lb 2oz floury potatoes such as Maris Piper, peeled and cut into evenly sized pieces",
@@ -66,7 +58,24 @@
             "1 tbsp olive oil",
             "2 sprigs fresh thyme",
             "2 tbsp redcurrant jelly"
+        ],
+        "For the stock": [
+            "1 tbsp olive oil",
+            "1 small onion, roughly chopped",
+            "1 celery stalk, roughly chopped",
+            "1 carrot, roughly chopped",
+            "2 sprigs fresh thyme",
+            "1 litre/1\u00be pints hot chicken stock"
+        ],
+        "default": [
+            "2 young whole pheasants (preferably hens)"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b01qkkjj": "Hairy Bikers Everyday Gourmets"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -93,8 +102,9 @@
         "Return the pan to a medium to high heat. Add the remaining strained stock and bring to the boil, scraping the browned bits up from the bottom of the pan using a wooden spoon, to deglaze. Reduce the heat until the stock is simmering, then simmer until the volume of liquid has reduced by half. Stir in the redcurrant jelly.",
         "To serve, carefully remove the gamekeeper\u2019s pies from the muffin tins using a rounded knife. Place one into the centre of each of four plates. Spoon a quenelle of mash alongside, and place a pheasant breast on the other side. Spoon over the redcurrant sauce."
     ],
-    "howTos": [
-        "skimming_stock"
+    "tips": [
+        
     ],
+    "title": "Pan-fried pheasant breast with gamekeeper\u2019s pie",
     "videos": "[p015yx9v:p015yx9z]"
 }

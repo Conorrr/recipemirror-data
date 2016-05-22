@@ -1,33 +1,28 @@
 {
-    "title": "Three fish pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "32",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/three_fish_pie_58875_16x9.jpg"
-    ],
-    "description": "A lovely fish pie is always a great dish to make ahead and serve for a big family gathering or even a casual supper party with friends. The white wine and leeks make this pie taste a little more sophisticated than usual, but you can use all milk if you are feeding children.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "p01s4q10": "Mary Berry Cooks"
-    },
-    "tips": [
-        "The pie can be made and chilled in the fridge for up to 12 hours before cooking. If you want to make and freeze this, omit the eggs as they become tough and rubbery when frozen. You can of course use just haddock, cod or salmon, or add a few prawns and some mussels too if liked. You could also make the sauce with cider instead of wine. I sometimes add some spinach or peas to the mixture too."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "A lovely fish pie is always a great dish to make ahead and serve for a big family gathering or even a casual supper party with friends. The white wine and leeks make this pie taste a little more sophisticated than usual, but you can use all milk if you are feeding children.",
+    "dishes": [
+        "casserole",
+        "fish_pie",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/three_fish_pie_58875_16x9.jpg"
+    ],
     "ingredients": {
-        "For the potato topping": [
-            "1kg/2lb 4oz peeled main crop potatoes, cubed",
-            "knob of butter",
-            "a little milk",
-            "salt and pepper",
-            "50g/1\u00beoz Gruy\u00e8re cheese, grated"
-        ],
         "For the fish filling": [
             "75g/3oz butter",
             "2 leeks, sliced",
@@ -37,7 +32,20 @@
             "2 tbsp chopped parsley",
             "750g/1lb 10oz mixture of salmon, smoked haddock and fresh haddock, skinned and cut into cubes",
             "6 free-range eggs, hard-boiled, peeled and quartered"
+        ],
+        "For the potato topping": [
+            "1kg/2lb 4oz peeled main crop potatoes, cubed",
+            "knob of butter",
+            "a little milk",
+            "salt and pepper",
+            "50g/1\u00beoz Gruy\u00e8re cheese, grated"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "32",
+    "serves": "Serves 6",
+    "show": {
+        "p01s4q10": "Mary Berry Cooks"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6 (180C fan).",
@@ -47,8 +55,9 @@
         "Spoon the mashed potatoes over the fish mixture and mark with a fork. Sprinkle with cheese.",
         "Bake for 30-40 minutes, or until lightly golden-brown on top and bubbling around the edges."
     ],
-    "howTos": [
-        
+    "tips": [
+        "The pie can be made and chilled in the fridge for up to 12 hours before cooking. If you want to make and freeze this, omit the eggs as they become tough and rubbery when frozen. You can of course use just haddock, cod or salmon, or add a few prawns and some mussels too if liked. You could also make the sauce with cider instead of wine. I sometimes add some spinach or peas to the mixture too."
     ],
+    "title": "Three fish pie",
     "videos": "[]"
 }

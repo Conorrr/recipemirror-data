@@ -1,26 +1,36 @@
 {
-    "title": "Moussaka with griddled courgettes",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This traditional Greek dish makes a great alternative to lasagne - and any leftovers freeze well. The fresh lemony courgettes make a lovely accompaniment, but a simple salad is also good.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Greek",
+    "description": "This traditional Greek dish makes a great alternative to lasagne - and any leftovers freeze well. The fresh lemony courgettes make a lovely accompaniment, but a simple salad is also good.",
+    "dishes": [
+        "jam",
+        "lasagne",
+        "moussaka",
+        "oven-baked_dishes",
+        "salad",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the courgettes": [
+            "4 small courgettes, cut into ribbons using a peeler",
+            "4 tbsp olive oil",
+            "1 lemon, juice only",
+            "2 tbsp fresh mint"
+        ],
         "For the moussaka": [
             "6 tbsp olive oil",
             "4 aubergines, sliced",
@@ -42,13 +52,13 @@
             "75g/2\u00bdoz cheddar, grated",
             "75g/2\u00bdoz mozzarella, grated",
             "salt and freshly ground black pepper"
-        ],
-        "For the courgettes": [
-            "4 small courgettes, cut into ribbons using a peeler",
-            "4 tbsp olive oil",
-            "1 lemon, juice only",
-            "2 tbsp fresh mint"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 190C/170C Fan/Gas 5.",
@@ -61,8 +71,9 @@
         "For the courgettes, heat a griddle pan. Toss the strips of courgette in oil to coat and cook for 1-2 minutes or until charred. Place in a bowl and mix with the lemon juice and fresh mint.",
         "Serve the moussaka in slices with the courgettes alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Moussaka with griddled courgettes",
     "videos": "[]"
 }

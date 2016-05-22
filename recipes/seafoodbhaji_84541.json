@@ -1,26 +1,32 @@
 {
-    "title": "Seafood bhaji",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "bhaji",
+        "bread",
+        "chutney",
+        "sauce",
+        "seafood"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "large handful fresh coriander leaves, chopped",
+            "mango chutney",
+            "plain yoghurt, garnished with fresh mint leaves"
+        ],
         "default": [
             "300g/10\u00bdoz plain flour",
             "150ml/5fl oz water (approx)",
@@ -31,12 +37,13 @@
             "100g/3\u00bdoz salmon, cooked",
             "100g/3\u00bdoz haddock, cooked",
             "400ml/14fl oz vegetable oil, to deep fry"
-        ],
-        "To serve": [
-            "large handful fresh coriander leaves, chopped",
-            "mango chutney",
-            "plain yoghurt, garnished with fresh mint leaves"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Place the flour into a large bowl. Gradually add the water, whisking constantly, until a thick batter is formed. Add the chilli and mix in well.",
@@ -46,8 +53,9 @@
         "Using a tablespoon, take even amounts of the fish mixture and dip into the batter mixture, then carefully place into the hot oil. Deep-fry for 8-10 minutes, or until crisp and golden and completely cooked through, then carefully remove with a slotted spoon and drain on kitchen paper.",
         "To serve, place the bhajis into a serving bowl with the coriander, mango chutney and yoghurt in bowls alongside for dipping."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Seafood bhaji",
     "videos": "[]"
 }

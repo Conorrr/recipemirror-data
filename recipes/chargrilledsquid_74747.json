@@ -1,39 +1,42 @@
 {
-    "title": "Chargrilled squid",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "\u00bd squid, cleaned",
-            "drizzle of oil",
-            "squeeze of lime juice",
-            "pinch of chilli flakes"
-        ],
         "To serve": [
             "85g/3oz cooked couscous (cooked weight)",
             "1 lemon, juice only",
             "salt and freshly ground black pepper",
             "handful of dill",
             "55g/2oz pine nuts, toasted"
+        ],
+        "default": [
+            "\u00bd squid, cleaned",
+            "drizzle of oil",
+            "squeeze of lime juice",
+            "pinch of chilli flakes"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Cut slits in the squid flesh to make a criss-cross pattern. Drizzle with oil and the lime juice and sprinkle with a pinch of chilli flakes. Leave to marinate for a few minutes (or longer if time allows).",
@@ -41,8 +44,9 @@
         "Place the couscous in a bowl and stir in the lemon juice, seasoning, dill and pine nuts.",
         "Spoon onto a serving plate and serve the squid on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chargrilled squid",
     "videos": "[]"
 }

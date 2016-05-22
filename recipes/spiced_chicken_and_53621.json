@@ -1,26 +1,32 @@
 {
-    "title": "Spiced chicken and pandan leaves (Gai how bi towey)",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes about 20",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "These deep-fried parcels of spicy chicken loveliness make a great starter for a dinner party. You will need 20 cocktail sticks for this recipe.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b03vp3tt": "The Hairy Bikers' Asian Adventure"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "These deep-fried parcels of spicy chicken loveliness make a great starter for a dinner party. You will need 20 cocktail sticks for this recipe.",
+    "dishes": [
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "40g/1\u00bdoz finely grated ginger (squeeze the juice out of it using a piece of muslin then discard the ginger pulp)",
+            "1 pinch sugar",
+            "1 tbsp sesame oil",
+            "\u00bd tbsp Thai fish sauce",
+            "\u00bd tbsp soy sauce",
+            "\u00bd tbsp rice vinegar"
+        ],
         "default": [
             "4 garlic cloves, chopped",
             "10 coriander roots, washed and finely chopped",
@@ -35,15 +41,13 @@
             "20 pandan leaves, depending on how many chunks of chicken you get",
             "vegetable oil, for frying",
             "2 limes cut into wedges, to serve"
-        ],
-        "For the sauce": [
-            "40g/1\u00bdoz finely grated ginger (squeeze the juice out of it using a piece of muslin then discard the ginger pulp)",
-            "1 pinch sugar",
-            "1 tbsp sesame oil",
-            "\u00bd tbsp Thai fish sauce",
-            "\u00bd tbsp soy sauce",
-            "\u00bd tbsp rice vinegar"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes about 20",
+    "show": {
+        "b03vp3tt": "The Hairy Bikers' Asian Adventure"
     },
     "steps": [
         "In a pestle and mortar (or a small blender), pound together the garlic, coriander root and the galangal. Add the palm sugar and make a smooth paste.",
@@ -55,8 +59,9 @@
         "Fry for eight minutes, or until the pandan is golden-brown and the chicken cooked through. You will need to cook the parcels in batches. Remove with a slotted spoon and drain on a plate lined with kitchen paper.",
         "Serve with the sauce and wedges of lime."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spiced chicken and pandan leaves (Gai how bi towey)",
     "videos": "[]"
 }

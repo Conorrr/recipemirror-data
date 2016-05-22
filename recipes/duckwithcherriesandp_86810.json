@@ -1,39 +1,25 @@
 {
-    "title": "Duck with cherries and potato scones",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce",
+        "scone",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "scoring_skin"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 x 175g/6oz duck breasts",
-            "salt and freshly ground black pepper",
-            "50ml/2fl oz dry sherry",
-            "1 tbsp vegetable oil",
-            "1 onion, finely chopped",
-            "1 garlic clove, chopped",
-            "400g/14oz cherries, stones and stalks removed",
-            "pinch dried chilli flakes",
-            "100ml/3\u00bdfl oz cherry brandy",
-            "100ml/3\u00bdfl oz chicken stock",
-            "25g/1oz cold butter"
-        ],
         "For the scones": [
             "200g/7oz plain flour",
             "1 tsp baking powder",
@@ -47,7 +33,26 @@
         ],
         "To serve": [
             "125g/4\u00bdoz flaked almonds"
+        ],
+        "default": [
+            "4 x 175g/6oz duck breasts",
+            "salt and freshly ground black pepper",
+            "50ml/2fl oz dry sherry",
+            "1 tbsp vegetable oil",
+            "1 onion, finely chopped",
+            "1 garlic clove, chopped",
+            "400g/14oz cherries, stones and stalks removed",
+            "pinch dried chilli flakes",
+            "100ml/3\u00bdfl oz cherry brandy",
+            "100ml/3\u00bdfl oz chicken stock",
+            "25g/1oz cold butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -67,8 +72,9 @@
         "Melt the extra butter in a clean frying pan over a medium heat. Add the potato scones and fry for 2-3 minutes on each side, or until golden-brown on each side. (If the scones are still very moist you can transfer them to the warm oven for 2-3 minutes to dry out.)",
         "To serve, place a scone onto each of four plates. Slice each duck breast and place a few slices onto each scone. Pour over sauce and garnish with a sprinkling of flaked almonds."
     ],
-    "howTos": [
-        "scoring_skin"
+    "tips": [
+        
     ],
+    "title": "Duck with cherries and potato scones",
     "videos": "[]"
 }

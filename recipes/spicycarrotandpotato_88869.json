@@ -1,26 +1,30 @@
 {
-    "title": "Spicy carrot and potato soup with parsley pesto",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "pesto",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the parsley pesto": [
+            "2 handfuls parsley leaves",
+            "3 tbsp olive oil"
+        ],
         "For the soup": [
             "2 carrots, peeled and chopped",
             "150g/5oz new potatoes, chopped",
@@ -30,11 +34,13 @@
             "2 cloves garlic, finely chopped",
             "1 vine tomato, de-seeded and chopped",
             "salt and freshly ground black pepper"
-        ],
-        "For the parsley pesto": [
-            "2 handfuls parsley leaves",
-            "3 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the soup, place the carrot, potato, stock and chilli flakes in a saucepan and bring to the boil. Reduce the heat and leave to simmer for 7-8 minutes, then drain the vegetables, reserving the stock.",
@@ -43,8 +49,9 @@
         "For the pesto, blend the parsley and oil together in a mini food processor to a smooth pur\u00e9e.",
         "To serve, ladle the soup into a shallow bowl and drizzle over the parsley pesto."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spicy carrot and potato soup with parsley pesto",
     "videos": "[]"
 }

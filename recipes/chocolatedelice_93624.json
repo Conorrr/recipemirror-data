@@ -1,23 +1,25 @@
 {
-    "title": "Chocolate delice",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "11",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "custard",
+        "pastry",
+        "pie",
+        "praline",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "caramelising_sugar"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -25,12 +27,6 @@
             "100g/3\u00bdoz toasted hazelnuts",
             "100g/3\u00bdoz sugar, melted over a low heat until a caramel forms",
             "150g /5\u00bcoz bran flakes, slightly crushed"
-        ],
-        "For the delice": [
-            "140ml/5fl oz full-fat milk",
-            "325ml/11\u00bdfl oz double cream",
-            "2 free-range eggs",
-            "340g/12oz good-quality dark chocolate, minimum 60 per cent cocoa solids, roughly chopped"
         ],
         "For the caramel hazelnuts": [
             "125g/4\u00bdoz caster sugar",
@@ -40,10 +36,22 @@
             "200ml/7\u00bcfl oz strong black espresso coffee",
             "1 sheet gelatine, soaked in cold water for 10 minutes, drained"
         ],
+        "For the delice": [
+            "140ml/5fl oz full-fat milk",
+            "325ml/11\u00bdfl oz double cream",
+            "2 free-range eggs",
+            "340g/12oz good-quality dark chocolate, minimum 60 per cent cocoa solids, roughly chopped"
+        ],
         "To serve": [
             "2-3 tbsp cocoa powder",
             "1 tbsp freshly ground coffee beans"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 6-8",
+    "show": {
+        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
     },
     "steps": [
         "For the base, blend the hazelnuts and caramelised sugar in a food processor until you have a smooth paste. Heat the paste in a small pan on a gentle heat until warmed through.",
@@ -66,8 +74,9 @@
         "Heat the top of the delice very quickly using a chefs' blow torch to make the surface glossy. Dust the delice with some of the cocoa powder and ground coffee beans.",
         "Smear a teaspoonful of the coffee foam across the width of six to eight serving plates. Plunge the blade of a knife into boiling water to heat the metal, then slice the delice into six to eight pieces and place one onto each smear of foam, at an angle. Rest a caramel hazelnut against each slice. Dust each serving with the remaining cocoa powder."
     ],
-    "howTos": [
-        "caramelising_sugar"
+    "tips": [
+        
     ],
+    "title": "Chocolate delice",
     "videos": "[]"
 }

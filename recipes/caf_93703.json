@@ -1,26 +1,36 @@
 {
-    "title": "Caf\u00e9 cr\u00e8me",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "4",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "cake",
+        "caramel",
+        "parfait",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the coffee cup and saucer": [
+            "600g/21\u00bcoz dark chocolate (70 per cent cocoa), finely chopped",
+            "1 tbsp vegetable oil"
+        ],
+        "For the ganache 'sugar cubes'": [
+            "300ml/10\u00bdfl oz double or whipping cream",
+            "300g/10\u00bdoz dark chocolate (70 per cent cocoa), finely chopped",
+            "4-5 tbsp demerara sugar"
+        ],
         "For the sabayon and parfait": [
             "8 free-range egg yolks",
             "100g/3\u00bdoz caster sugar",
@@ -31,20 +41,17 @@
             "200ml/7fl oz whipping cream, whisked until soft peaks form when the whisk is removed",
             "50ml/2fl oz coffee essence"
         ],
-        "For the coffee cup and saucer": [
-            "600g/21\u00bcoz dark chocolate (70 per cent cocoa), finely chopped",
-            "1 tbsp vegetable oil"
-        ],
-        "For the ganache 'sugar cubes'": [
-            "300ml/10\u00bdfl oz double or whipping cream",
-            "300g/10\u00bdoz dark chocolate (70 per cent cocoa), finely chopped",
-            "4-5 tbsp demerara sugar"
-        ],
         "To serve": [
             "4 x 5cm/2in diameter sponge cake rounds",
             "50ml/1\u00befl oz strong espresso coffee, cooled",
             "2 tbsp caramel syrup"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "10",
+    "serves": "4",
+    "show": {
+        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
     },
     "steps": [
         "For the sabayon and parfait, whisk the egg yolks and sugar together in a large heatproof bowl until pale and fluffy.",
@@ -85,8 +92,9 @@
         "Place two chocolate ganache cubes on the edge of the saucer with a spoon alongside.",
         "Repeat the process with the remaining three cups and serve immediately."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Caf\u00e9 cr\u00e8me",
     "videos": "[]"
 }

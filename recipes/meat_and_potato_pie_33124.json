@@ -1,23 +1,25 @@
 {
-    "title": "Meat and potato pie",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "A hearty pie for a comforting supper. For a variation, try adding carrots or other root vegetables.",
     "author": {
         "christine_parker": "Christine Parker"
     },
-    "show": {
-        "b013y0nz": "Hairy Bikers' Meals on Wheels"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "A hearty pie for a comforting supper. For a variation, try adding carrots or other root vegetables.",
+    "dishes": [
+        "bread",
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -27,17 +29,23 @@
             "2 litres/3\u00bd pints beef stock",
             "pinch salt"
         ],
+        "For the glaze": [
+            "1 free-range egg, beaten",
+            "1 tbsp milk"
+        ],
         "For the pastry": [
             "450g/1lb plain flour",
             "115g/4oz margarine",
             "115g/4oz lard, cubed",
             "pinch salt",
             "about 8 tbsp sparkling water"
-        ],
-        "For the glaze": [
-            "1 free-range egg, beaten",
-            "1 tbsp milk"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 6",
+    "show": {
+        "b013y0nz": "Hairy Bikers' Meals on Wheels"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -48,8 +56,9 @@
         "Roll out the pastry on a floured work surface to a 1cm/\u00bdin thickness and place it on top of the pie dish. Trim the pastry, then seal and crimp the edges. For the glaze, mix together the egg and milk and brush it over the pastry.",
         "Bake the pie in the oven for 30-35 minutes or until the pastry is golden-brown. Let the pie stand for five minutes before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Meat and potato pie",
     "videos": "[]"
 }

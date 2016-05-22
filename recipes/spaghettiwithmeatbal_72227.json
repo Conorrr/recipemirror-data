@@ -1,23 +1,22 @@
 {
-    "title": "Spaghetti with meatballs",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "These are authentic meatballs in a thick, rich sauce. Cook the spaghetti the Italian way, in well-salted water.",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "These are authentic meatballs in a thick, rich sauce. Cook the spaghetti the Italian way, in well-salted water.",
+    "dishes": [
+        "meatballs",
+        "pasta",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -36,6 +35,12 @@
             "salt to taste"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "In a large bowl, mix the minced beef, egg and parsley together. Season to taste.",
         "Now take a teaspoon of mixture and, in your hand, roll it into a ball. Dust the ball in flour and put to one side. Repeat with the rest of the mixture.",
@@ -45,8 +50,9 @@
         "In the meantime, cook the pasta in boiling, salted water until al dente. Drain and add to the sauce.",
         "Mix well and serve with freshly grated pecorino."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spaghetti with meatballs",
     "videos": "[]"
 }

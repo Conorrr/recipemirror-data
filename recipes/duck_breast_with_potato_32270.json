@@ -1,26 +1,33 @@
 {
-    "title": "Duck breast with potato and apple rosti, apple pur\u00e9e and roasted figs",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This surprisingly easy recipe makes a great dinner party dish. You can make the rostis in advance and reheat them in the oven before serving.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This surprisingly easy recipe makes a great dinner party dish. You can make the rostis in advance and reheat them in the oven before serving.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the potato and apple rosti": [
+            "400g/14oz potatoes, peeled, grated",
+            "200g/7oz Granny Smith apples, peeled, grated",
+            "75g/3oz cr\u00e8me fra\u00eeche",
+            "1 free-range egg yolk",
+            "75g/3oz butter, melted"
+        ],
         "default": [
             "4 duck breasts, trimmed",
             "2 Bramley apples, peeled, roughly chopped",
@@ -31,14 +38,13 @@
             "1 shallot, roughly chopped",
             "250ml/9floz red wine",
             "250ml/9floz chicken or beef stock"
-        ],
-        "For the potato and apple rosti": [
-            "400g/14oz potatoes, peeled, grated",
-            "200g/7oz Granny Smith apples, peeled, grated",
-            "75g/3oz cr\u00e8me fra\u00eeche",
-            "1 free-range egg yolk",
-            "75g/3oz butter, melted"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -55,8 +61,9 @@
         "To serve, place a rosti into the centre of serving plates. Carve the duck into slices and place on top of the rosti.",
         "Place the fig and apple sauce alongside and finish with a drizzle of red wine sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Duck breast with potato and apple rosti, apple pur\u00e9e and roasted figs",
     "videos": "[]"
 }

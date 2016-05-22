@@ -1,24 +1,25 @@
 {
-    "title": "Oriental chicken salad",
-    "cookTime": "less than 10 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "19",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/orientalchickensalad_68063_16x9.jpg"
-    ],
-    "description": "This spicy, crunchy salad is low in fat but full of flavour - perfect for a healthy dinner. Each serving provides 216kcal, 26g protein, 14g carbohydrate (of which 13g sugars), 6g fat (of which 1g saturates), 2g fibre and 0.9g salt.",
     "author": {
         "jo_pratt": "Jo' Pratt"
     },
-    "show": {
-        "p0077hx8": "The Nation's Favourite Food"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Chinese",
+    "description": "This spicy, crunchy salad is low in fat but full of flavour - perfect for a healthy dinner. Each serving provides 216kcal, 26g protein, 14g carbohydrate (of which 13g sugars), 6g fat (of which 1g saturates), 2g fibre and 0.9g salt.",
+    "dishes": [
+        "bun",
+        "chicken_salad",
+        "pie",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/orientalchickensalad_68063_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -37,13 +38,20 @@
             "\u00bd Chinese lettuce, finely shredded"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "19",
+    "serves": "Serves 6",
+    "show": {
+        "p0077hx8": "The Nation's Favourite Food"
+    },
     "steps": [
         "Cut the chicken into thin strips and mix with the honey, vinegar and soy sauce. Leave to marinate in a non-metallic bowl for about 30 minutes.",
         "Heat the sesame oil in a frying pan and cook the chicken over a high heat with any marinade for about 5 minutes until the chicken is cooked through, leaving some cooked marinade in the pan to use as the salad dressing.",
         "To serve warm, toss in a large bowl with the remaining ingredients and eat immediately. To serve cold, leave the cooked chicken and marinade to cool and then toss with the remaining ingredients."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Oriental chicken salad",
     "videos": "[]"
 }

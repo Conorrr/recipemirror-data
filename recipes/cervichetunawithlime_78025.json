@@ -1,26 +1,39 @@
 {
-    "title": "Ceviche of tuna with lime and chilli with spinach salad and chips",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "ceviche",
+        "chips",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chips": [
+            "500ml/18fl oz vegetable oil",
+            "1 large baking potato, chopped into wedges, skin left on",
+            "salt and freshly ground black pepper, to taste"
+        ],
+        "For the spinach salad": [
+            "\u00bd lemon, juiced",
+            "\u00bd tsp Tabasco sauce",
+            "1tbsp olive oil",
+            "\u00bd red onion, finely sliced",
+            "100g/3\u00bdoz spinach",
+            "1 orange, segmented"
+        ],
         "For the tuna": [
             "100g/3\u00bdoz fresh tuna, thinly sliced",
             "1 lime, juice only",
@@ -31,20 +44,13 @@
         ],
         "To garnish": [
             "1 lime wedge"
-        ],
-        "For the spinach salad": [
-            "\u00bd lemon, juiced",
-            "\u00bd tsp Tabasco sauce",
-            "1tbsp olive oil",
-            "\u00bd red onion, finely sliced",
-            "100g/3\u00bdoz spinach",
-            "1 orange, segmented"
-        ],
-        "For the chips": [
-            "500ml/18fl oz vegetable oil",
-            "1 large baking potato, chopped into wedges, skin left on",
-            "salt and freshly ground black pepper, to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "To make the tuna, mix together the oil, lime juice and soy in a small bowl.",
@@ -59,8 +65,9 @@
         "Sprinkle with salt, to taste, and place in a bowl.",
         "Serve hot with the ceviche and salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Ceviche of tuna with lime and chilli with spinach salad and chips",
     "videos": "[]"
 }

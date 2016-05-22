@@ -1,33 +1,26 @@
 {
-    "title": "Chicory gratin",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicory_gratin_84963_16x9.jpg"
-    ],
-    "description": "A beloved classic of Belgian cooking; this is a simple, rustic family dish. The Comt\u00e9 cheese can be replaced by any British cheese. And, of course, omit the ham for a vegetarian version.",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b05n91p4": "Kew on a Plate"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "A beloved classic of Belgian cooking; this is a simple, rustic family dish. The Comt\u00e9 cheese can be replaced by any British cheese. And, of course, omit the ham for a vegetarian version.",
+    "dishes": [
+        "gratin",
+        "ham",
+        "oven-baked_dishes",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicory_gratin_84963_16x9.jpg"
+    ],
     "ingredients": {
-        "For the chicory": [
-            "4 heads yellow chicory",
-            "1 tbsp lemon juice",
-            "1 tbsp sugar",
-            "2 large pinches sea salt",
-            "6 white peppercorns"
-        ],
         "For the chard": [
             "10g unsalted butter",
             "2 small Swiss chard stalks with leaves, stalks chopped into 1cm pieces; leaves roughly chopped"
@@ -41,10 +34,23 @@
             "pinch sea salt",
             "pinch freshly ground white pepper"
         ],
+        "For the chicory": [
+            "4 heads yellow chicory",
+            "1 tbsp lemon juice",
+            "1 tbsp sugar",
+            "2 large pinches sea salt",
+            "6 white peppercorns"
+        ],
         "To assemble the gratin": [
             "4 slices cooked ham",
             "50g/1\u00beoz Comt\u00e9 cheese, finely grated"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b05n91p4": "Kew on a Plate"
     },
     "steps": [
         "For the chicory, put it in a medium saucepan and add the lemon juice, sugar, salt, peppercorns and enough water to barely cover. Place on a medium heat and cover with a circle of baking paper and a lid smaller than the diameter of the pan (this is to keep the chicory submerged). Bring to the boil, then simmer for 45\u201360 minutes. It is important to cook the chicory slowly to remove most of its bitterness.",
@@ -55,8 +61,9 @@
         "Add the cheese and mustard and cook for 3 minutes, stirring, until the cheese has fully melted. Remove from the heat, taste and season if required.",
         "To assemble the gratin, fold the ham slices in half and arrange one chicory head on each slice. Pack tightly in the gratin dish on top of the chard. Spoon over the cheese sauce and sprinkle with the remaining cheese. Bake in the top of the oven for 25 minutes until golden-brown."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicory gratin",
     "videos": "[]"
 }

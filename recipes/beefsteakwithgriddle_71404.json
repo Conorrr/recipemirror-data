@@ -1,36 +1,24 @@
 {
-    "title": "Beef steak with griddled vegetables and chilli pesto",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pesto"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the griddled vegetables": [
-            "1 sweet potato, peeled and cut into 2.5cm/1inch dice",
-            "1 courgette, peeled and cut into 2.5cm/1inch dice",
-            "1 banana shallot, peeled and diced",
-            "1 red chilli, de-seeded and diced",
-            "4 tbsp olive oil",
-            "few sprigs rosemary",
-            "few sprigs thyme",
-            "2 garlic cloves, peeled"
-        ],
         "For the beef steaks": [
             "2 tbsp olive oil",
             "2 beef steaks",
@@ -42,7 +30,23 @@
             "1 chilli, deseeded and roughly chopped",
             "4 tbsp olive oil",
             "small handful fresh basil leaves"
+        ],
+        "For the griddled vegetables": [
+            "1 sweet potato, peeled and cut into 2.5cm/1inch dice",
+            "1 courgette, peeled and cut into 2.5cm/1inch dice",
+            "1 banana shallot, peeled and diced",
+            "1 red chilli, de-seeded and diced",
+            "4 tbsp olive oil",
+            "few sprigs rosemary",
+            "few sprigs thyme",
+            "2 garlic cloves, peeled"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "To make the vegetables, place the potato, courgette, shallot and chilli into a large bowl and coat with the olive oil.",
@@ -55,8 +59,9 @@
         "To make the chilli pesto, place the chilli, olive oil and basil leaves into a mini-food processor and blitz until smooth.",
         "Serve the steak alongside the vegetables and drizzle with the chilli pesto."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef steak with griddled vegetables and chilli pesto",
     "videos": "[]"
 }

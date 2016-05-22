@@ -1,24 +1,23 @@
 {
-    "title": "Seeded loaf",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Makes 2 cob loaves",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Wholegrain mustard is used in this dough giving it a rich and complex flavour. The bread makes a great sandwich with cold meats and cornichons.",
     "author": {
         "susannah_vickers": "Susannah Vickers"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Wholegrain mustard is used in this dough giving it a rich and complex flavour. The bread makes a great sandwich with cold meats and cornichons.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "sandwich"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading",
+        "shaping_a_loaf_of_bread"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,6 +29,12 @@
             "20g/\u00beoz salt"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Makes 2 cob loaves",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
+    },
     "steps": [
         "In a large container mix 450ml/16fl oz of warm water with 20g/\u00beoz of the yeast. Add 500g/1lb 2oz of the harvester flour and mix well. Cover with cling film and set aside for six to twenty-four hours.",
         "Add another 50ml/2fl oz of warm water mixed with the remaining fresh yeast and the remaining harvester flour. Add in the mustard, brown sugar and rapeseed oil.",
@@ -39,9 +44,9 @@
         "Once the dough is ready, place in the hot oven and quickly add a cup full of water to the hot baking tray in the bottom before closing the door. This will create steam to give the loaf its crust.",
         "Bake for ten minutes and then open the door to release the steam. Bake for a further 15 minutes before removing the loaves from the oven. The loaves are ready when they sound hollow when tapped on the bottom. For the bread rolls, remove from the oven after ten minutes."
     ],
-    "howTos": [
-        "kneading",
-        "shaping_a_loaf_of_bread"
+    "tips": [
+        
     ],
+    "title": "Seeded loaf",
     "videos": "[]"
 }

@@ -1,24 +1,23 @@
 {
-    "title": "Creamy pasta with salmon",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "58",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/creamypastawithsalmo_79948_16x9.jpg"
-    ],
-    "description": "This is the perfect midweek supper \u2013 tasty salmon in a creamy sauce made extra special by a sprinkle of fresh parsley.",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This is the perfect midweek supper \u2013 tasty salmon in a creamy sauce made extra special by a sprinkle of fresh parsley.",
+    "dishes": [
+        "pasta",
+        "pasta_sauce",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/creamypastawithsalmo_79948_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,14 +31,21 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "58",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Cook the pasta according to packet instructions in a pan of salted boiling water, then drain.",
         "Meanwhile, heat the oil in a frying pan, add the garlic and red onion and fry for 3-4 minutes or until the onion has softened.",
         "Add the salmon cubes and double cream and continue to cook over a gentle heat for 5 minutes, or until the salmon has cooked through.",
         "Stir in the drained pasta and season with salt and pepper. Sprinkle over the parsley and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Creamy pasta with salmon",
     "videos": "[]"
 }

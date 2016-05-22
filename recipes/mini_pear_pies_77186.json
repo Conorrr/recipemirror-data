@@ -1,40 +1,45 @@
 {
-    "title": "Mini pear pies",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 6 pies",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mini_pear_pies_77186_16x9.jpg"
-    ],
-    "description": "This recipe turns the fruit tart on its head with stunning results. You can flavour the syrup with whatever spices you like.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This recipe turns the fruit tart on its head with stunning results. You can flavour the syrup with whatever spices you like.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mini_pear_pies_77186_16x9.jpg"
+    ],
     "ingredients": {
-        "For the rough puff pastry": [
-            "200g/7oz plain flour, plus extra for rolling",
-            "100g/3\u00bdoz butter, in a block, frozen",
-            "100g/3\u00bdoz lard, in a block, frozen",
-            "1 free-range egg, beaten",
-            "2 tbsp granulated sugar"
-        ],
         "For the poached pears": [
             "6 large, firm pears (preferably ones that are straight and tall)",
             "300g/10\u00bdoz caster sugar",
             "500ml/18fl oz dry white wine",
             "2 cinnamon sticks",
             "1 orange, zest only"
+        ],
+        "For the rough puff pastry": [
+            "200g/7oz plain flour, plus extra for rolling",
+            "100g/3\u00bdoz butter, in a block, frozen",
+            "100g/3\u00bdoz lard, in a block, frozen",
+            "1 free-range egg, beaten",
+            "2 tbsp granulated sugar"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "3",
+    "serves": "Makes 6 pies",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the rough puff pastry, measure the flour into a bowl and grate the butter and lard into the flour. Use a knife to coat the butter and lard in the flour. Add 120-150ml/4-5fl oz cold water and mix until it comes together to form a firm dough.",
@@ -50,8 +55,9 @@
         "Preheat the oven to 200C/180C(Fan)/400F/Gas 6. Place the pastry covered pears on a baking tray. Brush the pastry with beaten egg and sprinkle with the granulated sugar. Bake for 25-30 minutes.",
         "Remove from the oven and leave to cool for 10-15 minutes then serve with a drizzle of the reduced sugar syrup."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mini pear pies",
     "videos": "[]"
 }

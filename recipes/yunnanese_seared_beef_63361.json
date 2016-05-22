@@ -1,34 +1,26 @@
 {
-    "title": "Yunnanese seared beef with mint, fermented chilli bean, lime and lemongrass dressing",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2 as a main or 4 as a starter",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Yunnanese food is a variant of Chinese cuisine which often uses fermented beancurds. Serve with a simple salad or stir-fried vegetables.",
     "author": {
         "andrew_wong": "Andrew Wong"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Chinese",
+    "description": "Yunnanese food is a variant of Chinese cuisine which often uses fermented beancurds. Serve with a simple salad or stir-fried vegetables.",
+    "dishes": [
+        "pie",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "searing_meat"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "300g/10\u00bdoz well-marbled, dry-aged rib-eye beef",
-            "1 tbsp vegetable oil",
-            "100g/3\u00bdoz butter",
-            "5cm/2in piece cucumber, peeled and chopped into bite-sized pieces",
-            "12 mint leaves, deep-fried, plus 8 fresh mint leaves to garnish",
-            "salt and white pepper"
-        ],
         "For the dressing": [
             "2 tbsp white rice vinegar",
             "2 tbsp clear honey",
@@ -37,15 +29,30 @@
             "pinch white pepper",
             "1 tbsp lime juice",
             "1 tsp fermented chilli bean paste"
+        ],
+        "default": [
+            "300g/10\u00bdoz well-marbled, dry-aged rib-eye beef",
+            "1 tbsp vegetable oil",
+            "100g/3\u00bdoz butter",
+            "5cm/2in piece cucumber, peeled and chopped into bite-sized pieces",
+            "12 mint leaves, deep-fried, plus 8 fresh mint leaves to garnish",
+            "salt and white pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2 as a main or 4 as a starter",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Heat a dry, heavy-based frying pan until extremely hot. Rub the beef with the oil, season with salt and pepper and sear on both sides until you have a brown crust. Add the butter to the pan and baste the beef with the melted butter for 1-5 minutes, depending on how well-done you like your beef. Remove the beef from the pan and leave to rest for 10 minutes.",
         "For the dressing, combine all the ingredients in a saucepan and warm gently.",
         "Slice the beef into thin slices and pour over the dressing, then scatter over the cucumber pieces and the deep fried mint leaves. To finish, scrunch up the fresh mint leaves in your hand to release the aroma and scatter them over the beef."
     ],
-    "howTos": [
-        "searing_meat"
+    "tips": [
+        
     ],
+    "title": "Yunnanese seared beef with mint, fermented chilli bean, lime and lemongrass dressing",
     "videos": "[]"
 }

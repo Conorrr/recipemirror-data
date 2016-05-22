@@ -1,26 +1,32 @@
 {
-    "title": "Steak tartare burger with taleggio",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "beef_burger",
+        "ciabatta",
+        "jam",
+        "pickle",
+        "pie",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "2 olive ciabatta rolls, split",
+            "50g/2oz mixed salad leaves"
+        ],
         "default": [
             "300g/12oz high quality beef steak, minced by hand",
             "1 tbsp capers, drained and chopped",
@@ -34,11 +40,13 @@
             "2 medium free-range egg yolks",
             "2 slices taleggio cheese",
             "olive oil, for drizzling"
-        ],
-        "To serve": [
-            "2 olive ciabatta rolls, split",
-            "50g/2oz mixed salad leaves"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Place the meat into a bowl along with all the ingredients except the cheese and olive oil, and mix well to combine.",
@@ -49,8 +57,9 @@
         "Place the burger on the griddle and cook for 3-4 minutes on each side.",
         "Remove and serve in the ciabatta roll with some salad leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steak tartare burger with taleggio",
     "videos": "[]"
 }

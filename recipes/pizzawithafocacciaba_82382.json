@@ -1,24 +1,28 @@
 {
-    "title": "Pizza with a focaccia base",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4-6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "katie_and_giancarlo_caldesi": "Katie and Giancarlo Caldesi"
     },
-    "show": {
-        "p007b4jj": "Return to Tuscany"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "bread",
+        "focaccia",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "pizza",
+        "prepare-ahead_desserts"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading",
+        "knocking_back"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the focaccia": [
@@ -41,6 +45,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "1",
+    "serves": "Serves 4-6",
+    "show": {
+        "p007b4jj": "Return to Tuscany"
+    },
     "steps": [
         "Pour a little of the tepid water into a small bowl. Add the yeast and blend using your fingers. Leave the yeast for five minutes to soften and dissolve.",
         "Mix the flour and salt together in a large mixing bowl. You may like to transfer your mixture to a pastry board or other flat work surface at this stage and prepare the dough there, in traditional Tuscan style. Otherwise, mix the dough in the bowl.",
@@ -54,9 +64,9 @@
         "To make the pizza, spread the tomato passata thinly over the dough. Scatter over the mozzarella, oregano, olives, garlic (if using), and, if you like, some chilli. Season with salt and freshly ground black pepper.",
         "Place on the highest shelf of the oven and bake for 10-15 minutes until the base is crisp and the mozzarella is melted. Serve."
     ],
-    "howTos": [
-        "kneading",
-        "knocking_back"
+    "tips": [
+        
     ],
+    "title": "Pizza with a focaccia base",
     "videos": "[]"
 }

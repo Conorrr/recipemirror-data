@@ -1,24 +1,26 @@
 {
-    "title": "Eve's pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "alan_bennett": "Alan Bennett"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "custard",
+        "gratin",
+        "oven-baked_dishes",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "creaming"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the filling": [
@@ -39,6 +41,12 @@
             "cream or custard"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 4",
+    "show": {
+        "b00701fw": "A Taste of My Life"
+    },
     "steps": [
         "Preheat the oven to 180C/350/Gas 4.",
         "Peel, core and roughly chop the apples.",
@@ -52,8 +60,9 @@
         "Add a spoonful of boiling water to the mix.",
         "Spoon the mixture over the apples. Cook in the oven for 30-35 minutes or until the topping is puffy and golden. Serve with cream or custard."
     ],
-    "howTos": [
-        "creaming"
+    "tips": [
+        
     ],
+    "title": "Eve's pudding",
     "videos": "[]"
 }

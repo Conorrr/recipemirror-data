@@ -1,31 +1,25 @@
 {
-    "title": "Aubergine satay skewers",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "",
+    "dishes": [
+        "satay",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 aubergines, cut in half lengthways",
-            "1-2 tsp salt",
-            "6-8 tbsp vegetable oil"
-        ],
         "For the satay sauce": [
             "100ml/3\u00bdfl oz vegetable oil",
             "225g/8oz unsalted peanuts, shells removed",
@@ -38,7 +32,18 @@
             "1 small red chilli, finely chopped",
             "1 lemon, juice only",
             "pinch salt"
+        ],
+        "default": [
+            "2 aubergines, cut in half lengthways",
+            "1-2 tsp salt",
+            "6-8 tbsp vegetable oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Soak four to eight wooden skewers in a bowl of water for 10 minutes, then shake off any excess moisture and set aside.",
@@ -54,8 +59,9 @@
         "Add the peanut paste and chopped red chilli and stir well to combine. Bring the mixture to a simmer, then continue to simmer for 8-10 minutes, or until thickened. Stir in the lemon juice and salt.",
         "To serve, arrange the aubergine skewers in four tall glasses or onto four serving plates. Serve the satay sauce in dipping bowls alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Aubergine satay skewers",
     "videos": "[]"
 }

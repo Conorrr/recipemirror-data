@@ -1,35 +1,28 @@
 {
-    "title": "Beef shepherd's pie with champ",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "2",
-    "recommendations": "13",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "sophie_dahl": "Sophie Dahl"
     },
-    "show": {
-        "b00rs7c9": "The Delicious Miss Dahl"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "champ",
+        "cottage_pie",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the champ topping": [
-            "3 floury potatoes, such as King Edward or Maris Piper, peeled, chopped",
-            "small handful frozen peas",
-            "knob of butter",
-            "2 spring onions, roughly chopped",
-            "25ml/1fl oz milk",
-            "75g/3oz cheddar, broken into chunks",
-            "pinch smoked paprika"
-        ],
         "For the beef mixture": [
             "1 tbsp olive oil",
             "1 red onion, peeled, roughly chopped",
@@ -48,7 +41,22 @@
             "small handful fresh flatleaf parsley, roughly chopped",
             "250g/9oz lean beef mince",
             "sea salt and freshly ground black pepper"
+        ],
+        "For the champ topping": [
+            "3 floury potatoes, such as King Edward or Maris Piper, peeled, chopped",
+            "small handful frozen peas",
+            "knob of butter",
+            "2 spring onions, roughly chopped",
+            "25ml/1fl oz milk",
+            "75g/3oz cheddar, broken into chunks",
+            "pinch smoked paprika"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "13",
+    "serves": "2",
+    "show": {
+        "b00rs7c9": "The Delicious Miss Dahl"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. For the champ topping, heat a pan of salted water, add the potatoes and bring gently to the boil, then simmer until the potatoes are nearly cooked through, about 15-20 minutes.",
@@ -61,8 +69,9 @@
         "Spoon the beef mixture into a medium pie dish and top with the champ. Scatter over the cheese and smoked paprika.",
         "Place the dish onto a baking sheet and bake the pie for 25-30 minutes, or until the potato is golden-brown."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef shepherd's pie with champ",
     "videos": "[]"
 }

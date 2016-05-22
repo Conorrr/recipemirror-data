@@ -1,24 +1,23 @@
 {
-    "title": "Cheese and spinach souffl\u00e9",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce",
+        "souffle",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +30,12 @@
             "3 free-range egg whites"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "Melt the butter in a saucepan over a medium heat. Stir in the flour and cook for 30 seconds. Remove from the heat and gradually whisk in the milk.",
@@ -41,8 +46,9 @@
         "Transfer to an oven-proof frying pan. Place in the oven and cook for 10 minutes.",
         "Serve the souffl\u00e9 in the frying pan."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cheese and spinach souffl\u00e9",
     "videos": "[]"
 }

@@ -1,24 +1,23 @@
 {
-    "title": "Quick tartare sauce",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "jo_pratt": "Jo' Pratt"
     },
-    "show": {
-        "p0077hx8": "The Nation's Favourite Food"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "mayonnaise",
+        "sauce",
+        "tartare_sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,11 +30,18 @@
             "flaked sea salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 4",
+    "show": {
+        "p0077hx8": "The Nation's Favourite Food"
+    },
     "steps": [
         "Mix together all of the ingredients in a small bowl and serve straight away or store in the fridge until needed."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Quick tartare sauce",
     "videos": "[]"
 }

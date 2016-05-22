@@ -1,29 +1,47 @@
 {
-    "title": "Brothy Vietnamese pork cao lau",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This broth requires some time and love but you will be rewarded with a wonderfully flavourful bowl of noodle soup.",
     "author": {
         "ching-he_huang": "Ching-He Huang"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "This broth requires some time and love but you will be rewarded with a wonderfully flavourful bowl of noodle soup.",
+    "dishes": [
+        "bread",
+        "broth",
+        "noodle_soup",
+        "oven-baked_dishes",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "soup"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "320g/11\u00bdoz pork shoulder, washed, pat dry, skin removed",
-            "500g/1lb 2oz pork belly, washed, pat dry, skin removed"
+        "For the garnishes, divided into 4 bowls": [
+            "vegetable oil, for deep-frying",
+            "100g/3\u00bdoz beansprouts",
+            "half head of romaine lettuce, stalk removed, long leaves separated, washed, pat dry, sliced down the middle",
+            "30g/1oz fresh mint, washed, pat dry",
+            "30g/1oz fresh coriander",
+            "30g/1oz Vietnamese lemon balm",
+            "30g/1oz of fresh perilla leaves",
+            "1 red chilli, thinly sliced",
+            "1 lime, sliced into 4 wedges",
+            "4 tbsp hoisin sauce",
+            "4 tsp sriracha sauce"
+        ],
+        "For the noodles": [
+            "400g/14oz dried 5mm wide flat rice noodles",
+            "1 tbsp rapeseed oil",
+            "2cm/\u00bein fresh ginger, sliced"
         ],
         "For the pork broth": [
             "500g/1lb 2oz pork bones",
@@ -50,24 +68,16 @@
             "\u00bc tsp salt",
             "\u00bd tsp freshly ground black pepper"
         ],
-        "For the noodles": [
-            "400g/14oz dried 5mm wide flat rice noodles",
-            "1 tbsp rapeseed oil",
-            "2cm/\u00bein fresh ginger, sliced"
-        ],
-        "For the garnishes, divided into 4 bowls": [
-            "vegetable oil, for deep-frying",
-            "100g/3\u00bdoz beansprouts",
-            "half head of romaine lettuce, stalk removed, long leaves separated, washed, pat dry, sliced down the middle",
-            "30g/1oz fresh mint, washed, pat dry",
-            "30g/1oz fresh coriander",
-            "30g/1oz Vietnamese lemon balm",
-            "30g/1oz of fresh perilla leaves",
-            "1 red chilli, thinly sliced",
-            "1 lime, sliced into 4 wedges",
-            "4 tbsp hoisin sauce",
-            "4 tsp sriracha sauce"
+        "default": [
+            "320g/11\u00bdoz pork shoulder, washed, pat dry, skin removed",
+            "500g/1lb 2oz pork belly, washed, pat dry, skin removed"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 120C/100C Fan/Gas \u00bd. Line a roasting tray with greaseproof paper.",
@@ -81,8 +91,9 @@
         "Once the pork is cooked, take the pork out and add the broth to the wok so the broth fuses with the braising liquid and bring to the boil.",
         "To serve, dress the base of the noodle bowl with some fresh romaine lettuce leaves, top with a handful of cooked rice noodles, pour the broth over, dress with sliced braised pork belly and shoulder, top with blanched beansprouts, fresh mint, coriander, Vietnamese lemon balm, perilla leaves, chilli slices, lime wedge, tablespoon of hoisin and teaspoon of sriracha. Top with the fried pork skin. Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Brothy Vietnamese pork cao lau",
     "videos": "[]"
 }

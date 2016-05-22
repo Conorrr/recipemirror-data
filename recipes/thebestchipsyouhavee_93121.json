@@ -1,34 +1,38 @@
 {
-    "title": "The best chips you have ever tasted",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "4",
-    "recommendations": "39",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/thebestchipsyouhavee_93121_16x9.jpg"
-    ],
-    "description": "The secret of good chips is to cook them twice at two different temperatures, so you will need a deep pan and a thermometer for this recipe.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00pymg1": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "The secret of good chips is to cook them twice at two different temperatures, so you will need a deep pan and a thermometer for this recipe.",
+    "dishes": [
+        "chips",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_cook_chips"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/thebestchipsyouhavee_93121_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "4 large potatoes, preferably Maris Piper",
-            "sunflower oil, for deep frying"
-        ],
         "To serve": [
             "flaked sea salt",
             "malt vinegar"
+        ],
+        "default": [
+            "4 large potatoes, preferably Maris Piper",
+            "sunflower oil, for deep frying"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "39",
+    "serves": "4",
+    "show": {
+        "b00pymg1": "The Hairy Bikers: Mums Know Best"
     },
     "steps": [
         "Peel the potatoes and cut lengthways into roughly 1cm/\u00bdin slices. Cut each slice into fairly thick chips and rinse in a colander under plenty of cold water to remove excess starch. (If you have time, it's worth letting the chips soak in a bowl of cold water for several hours, or overnight.) Pat dry with kitchen paper.",
@@ -38,8 +42,9 @@
         "When ready to serve, reheat the oil to 190C. With a slotted spoon, lower all the par-cooked chips gently into the pan and cook for 4-5 minutes, or until crisp and golden-brown. Remove from the pan with a slotted spoon and drain on kitchen paper.",
         "Tip into a serving dish and sprinkle with salt and vinegar to serve."
     ],
-    "howTos": [
-        "how_to_cook_chips"
+    "tips": [
+        
     ],
+    "title": "The best chips you have ever tasted",
     "videos": "[]"
 }

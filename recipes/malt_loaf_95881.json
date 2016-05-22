@@ -1,24 +1,23 @@
 {
-    "title": "Malt loaf",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 2 x 450g/1lb loaves",
-    "recommendations": "43",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/malt_loaf_95881_16x9.jpg"
-    ],
-    "description": "Seek out malt extract from a good bakery and make your own dried fruit-packed treacly malt loaf \u2013 great for picnics or a yummy afternoon snack for kids.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b01rhdgt": "Paul Hollywood's Bread"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Seek out malt extract from a good bakery and make your own dried fruit-packed treacly malt loaf \u2013 great for picnics or a yummy afternoon snack for kids.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "tea_bread"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/malt_loaf_95881_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,6 +34,12 @@
             "1 tbsp warm honey, to glaze"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "43",
+    "serves": "Makes 2 x 450g/1lb loaves",
+    "show": {
+        "b01rhdgt": "Paul Hollywood's Bread"
+    },
     "steps": [
         "Place the sugar, malt extract, treacle and butter in a pan and heat gently until the butter has melted and the sugar has dissolved. Leave to cool.",
         "Mix the flours, salt, yeast and sultanas in a mixing bowl.",
@@ -45,8 +50,9 @@
         "Remove from the oven and brush the top with warm honey to glaze. Cool on a wire rack.",
         "Slice and eat with butter."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Malt loaf",
     "videos": "[]"
 }

@@ -1,26 +1,31 @@
 {
-    "title": "Salmon sushi",
-    "cookTime": "less than 10 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Japanese",
+    "description": "",
+    "dishes": [
+        "pickle",
+        "pie",
+        "sauce",
+        "sushi"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dipping sauce": [
+            "100ml/3fl oz rice vinegar",
+            "75g/3oz sugar",
+            "1 small red chilli, finely chopped"
+        ],
         "For the sushi": [
             "150g/5\u00bdoz sushi rice, rinsed thoroughly and drained",
             "225ml/8fl oz water",
@@ -34,15 +39,16 @@
             "\u00bd cucumber, peeled, seeds removed, cut into thin batons",
             "\u00bd red pepper, seeds removed, cut into thin batons"
         ],
-        "For the dipping sauce": [
-            "100ml/3fl oz rice vinegar",
-            "75g/3oz sugar",
-            "1 small red chilli, finely chopped"
-        ],
         "To serve": [
             "soy sauce",
             "pickled ginger"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the sushi, place the rice in a pan with the water and bring to the boil. Cover and simmer for five minutes, then take off the heat, leave covered and allow to cool.",
@@ -52,8 +58,9 @@
         "For the dipping sauce, heat the vinegar, sugar and chilli in a pan until the sugar dissolves.",
         "To serve, place the sushi rolls onto a large serving plate with a bowl of the dipping sauce, extra wasabi paste, soy sauce and pickled ginger."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salmon sushi",
     "videos": "[]"
 }

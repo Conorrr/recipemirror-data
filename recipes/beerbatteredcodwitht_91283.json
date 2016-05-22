@@ -1,36 +1,28 @@
 {
-    "title": "Beer-battered cod with triple-cooked chips, minted peas and tartare sauce",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "richard_phillips": "Richard Phillips"
     },
-    "show": {
-        "b00dznhb": "Put Your Money Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "chips",
+        "mayonnaise",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the triple-cooked chips": [
-            "1.2kg/2lb 10\u00bcoz floury potatoes, such as Maris Piper or King Edward, cut into 1cm/\u00bdinch thick chips, soaked in a bowl of cold water for 10-15 minutes (change the soaking water regularly), drained",
-            "1 litre/1 pint 15\u00bcoz groundnut oil, for frying",
-            "sea salt"
-        ],
-        "For the fish": [
-            "4 x 180g/6\u00bcoz cod fillets, skin removed",
-            "sea salt flakes",
-            "4 sprigs fresh thyme"
-        ],
         "For the beer batter": [
             "250ml/8\u00befl oz beer",
             "200g/7\u00bcoz plain flour, plus extra for drudging the fish",
@@ -39,6 +31,17 @@
             "pinch salt",
             "pinch sugar",
             "1 free-range egg white, whisked until soft peaks form when the whisk is removed"
+        ],
+        "For the fish": [
+            "4 x 180g/6\u00bcoz cod fillets, skin removed",
+            "sea salt flakes",
+            "4 sprigs fresh thyme"
+        ],
+        "For the minted peas": [
+            "300g/10\u00bdoz fresh peas, out of their pods",
+            "1 tbsp unsalted butter",
+            "1 tbsp chopped fresh young mint leaves",
+            "salt and freshly ground black pepper"
         ],
         "For the tartare sauce": [
             "1 tbsp ready-made good quality mayonnaise",
@@ -49,12 +52,17 @@
             "freshly squeezed lemon juice, to taste",
             "salt and freshly ground black pepper"
         ],
-        "For the minted peas": [
-            "300g/10\u00bdoz fresh peas, out of their pods",
-            "1 tbsp unsalted butter",
-            "1 tbsp chopped fresh young mint leaves",
-            "salt and freshly ground black pepper"
+        "For the triple-cooked chips": [
+            "1.2kg/2lb 10\u00bcoz floury potatoes, such as Maris Piper or King Edward, cut into 1cm/\u00bdinch thick chips, soaked in a bowl of cold water for 10-15 minutes (change the soaking water regularly), drained",
+            "1 litre/1 pint 15\u00bcoz groundnut oil, for frying",
+            "sea salt"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b00dznhb": "Put Your Money Where Your Mouth Is"
     },
     "steps": [
         "For the triple-cooked chips, bring a large pan of water to the boil. When the water is boiling, add the drained potato chips. Return the water to the boil, then reduce the heat to a gentle simmer. Simmer the potato chips for 5-8 minutes, or until tender.",
@@ -71,8 +79,9 @@
         "To finish the chips, increase the temperature of the oil to 180C. Carefully lower the partially-cooked chips into the hot oil and fry for 3-4 minutes, or until crisp and golden-brown. (CAUTION: The temperature of the chips may cause the oil to spit - keep eyes and face clear and ensure the chips are completely dry). Remove from the pan using a slotted spoon and set aside to drain on kitchen paper. Sprinkle over the salt.",
         "To serve, place one piece of beer-battered cod into the centre of each of four serving plates. Pile the triple-cooked chips alongside, along with a spoonful of the minted peas and tartare sauce."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Beer-battered cod with triple-cooked chips, minted peas and tartare sauce",
     "videos": "[]"
 }

@@ -1,24 +1,25 @@
 {
-    "title": "Ploughman\u2019s loaf",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 1 loaf",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This delicious cheesy loaf is at its best spread thickly with butter still warm from the oven.",
     "author": {
         "mary_anne_boerman": "Mary-Anne Boermans"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "This delicious cheesy loaf is at its best spread thickly with butter still warm from the oven.",
+    "dishes": [
+        "bread",
+        "caramel",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading",
+        "shaping_a_loaf_of_bread"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,6 +35,12 @@
             "4 onions, chopped"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Makes 1 loaf",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
+    },
     "steps": [
         "Place the rolled oats into a dry frying pan over medium heat and toast until lightly browned.",
         "Mix the dry ingredients, including the yeast, in a large bowl then add the beer and stir to combine.",
@@ -43,9 +50,9 @@
         "When dough has risen, knock it back on a floured work surface and knead in the cooled onions and the cheese. Form the dough into a loaf shape, place it on a greased baking sheet and set aside for one hour to prove again.",
         "Preheat the oven to 180C/350F/Gas4. Dust the loaf with a little more flour, cut slashes in the top and bake for 40-50 minutes or until the bottom of the loaf sounds hollow when tapped."
     ],
-    "howTos": [
-        "kneading",
-        "shaping_a_loaf_of_bread"
+    "tips": [
+        
     ],
+    "title": "Ploughman\u2019s loaf",
     "videos": "[]"
 }

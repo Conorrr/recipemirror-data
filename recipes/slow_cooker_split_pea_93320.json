@@ -1,24 +1,26 @@
 {
-    "title": "Slow cooker dal",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "56",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/slow_cooker_split_pea_93320_16x9.jpg"
-    ],
-    "description": "Tasty and filling, dal makes a cheap, healthy and satisfying meal. Try freezing it in portion-sized containers - it will keep for up to 2 months. Each serving provides 356kcal, 19g protein, 46g carbohydrate (of which 6g sugars), 9g fat (of which 1g saturates), 8g fibre and 1g salt.",
     "author": {
         "jane_hornby": "Jane Hornby"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Indian",
+    "description": "Tasty and filling, dal makes a cheap, healthy and satisfying meal. Try freezing it in portion-sized containers - it will keep for up to 2 months. Each serving provides 356kcal, 19g protein, 46g carbohydrate (of which 6g sugars), 9g fat (of which 1g saturates), 8g fibre and 1g salt.",
+    "dishes": [
+        "curry",
+        "dal",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/slow_cooker_split_pea_93320_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,12 +38,19 @@
             "lemon wedges, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "56",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Place the split peas, onion, tomatoes, ginger, ground cumin, turmeric, crushed garlic, curry leaves and stock into a slow cooker. Add most of the chilli and stir to combine. Cook on high for four hours, until the split peas are tender.",
         "Season the dal generously with salt and freshly ground black pepper. Just before serving, heat the oil in a saucepan. When the oil is very hot, add the whole cumin seeds and the sliced garlic. Fry until the garlic is golden-brown and the cumin smells toasty and almost smoky. Spoon the hot spiced oil over the dhal, scatter with the remaining green chilli, then serve with lemon wedges for squeezing."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Slow cooker dal",
     "videos": "[]"
 }

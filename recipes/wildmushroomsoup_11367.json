@@ -1,26 +1,29 @@
 {
-    "title": "Wild mushroom soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/wildmushroomsoup_11367_16x9.jpg"
-    ],
-    "description": "Use a mixture of wild mushrooms to make this luxurious soup really special.",
     "author": {
         "michael_caines": "Michael Caines"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Use a mixture of wild mushrooms to make this luxurious soup really special.",
+    "dishes": [
+        "sauce",
+        "soup",
+        "stock",
+        "vegetable_soup"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/wildmushroomsoup_11367_16x9.jpg"
+    ],
     "ingredients": {
+        "For the garnish": [
+            "100g/3\u00bdoz wild mushrooms, prepared and washed",
+            "50-100g/2-3\u00bdoz of hazelnuts"
+        ],
         "default": [
             "60g/2oz shallots, chopped",
             "50g/2oz butter",
@@ -30,11 +33,13 @@
             "290ml/\u00bd pint chicken stock",
             "salt and freshly ground black pepper, to taste",
             "50g/2oz butter"
-        ],
-        "For the garnish": [
-            "100g/3\u00bdoz wild mushrooms, prepared and washed",
-            "50-100g/2-3\u00bdoz of hazelnuts"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Sweat the shallots in the butter with a pinch of salt for 3 minutes. Do not let them colour.",
@@ -44,8 +49,9 @@
         "saut\u00e9 the garnish mushrooms and hazelnuts in butter while the soup is simmering.",
         "After 20 minutes, pour the soup into a liquidiser and blend until smooth. Place in a saucepan and using a hand blender whisk in the remaining butter. Correct the seasoning and serve garnished with the saut\u00e9ed mushrooms and hazelnuts."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Wild mushroom soup",
     "videos": "[]"
 }

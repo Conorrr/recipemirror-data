@@ -1,24 +1,22 @@
 {
-    "title": "Crispy polenta cake",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "cake",
+        "icing"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "segmenting_citrus_fruit",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,15 +28,21 @@
             "1 orange, peeled and segmented"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Cook polenta according to packet instructions, then pour onto a baking tray lined with greasproof paper and leave to cool, until the polenta becomes a solid block.",
         "Heat the oil in a frying pan and transfer the polenta block to the pan. Fry on both sides until crisp and golden-brown.",
         "Place the cream and the icing sugar in a clean bowl and whip together, until stiff peaks form when the whisk is removed.",
         "To serve, place the warm polenta cake onto a clean plate. Sprinkle the cinnamon on top, add the whipped cream and garnish with the orange segments."
     ],
-    "howTos": [
-        "segmenting_citrus_fruit",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Crispy polenta cake",
     "videos": "[]"
 }

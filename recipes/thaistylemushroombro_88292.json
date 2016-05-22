@@ -1,24 +1,25 @@
 {
-    "title": "Thai-style mushroom broth with crisp noodles, roasted pak choi and chargrilled Romero pepper",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "",
+    "dishes": [
+        "bread",
+        "broth",
+        "oven-baked_dishes",
+        "soup",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the Thai-style mushroom broth": [
@@ -34,6 +35,11 @@
             "100g/3\u00bdoz mixed oriental mushrooms, chopped",
             "200ml/7fl oz boiling water"
         ],
+        "For the chargrilled Romero pepper": [
+            "\u00bd Romero pepper",
+            "dash olive oil",
+            "salt and freshly ground black pepper"
+        ],
         "For the crisp noodles": [
             "300ml/\u00bd pint vegetable oil",
             "200g/7oz rice noodles"
@@ -42,12 +48,13 @@
             "2 pak choi, halved",
             "dash olive oil",
             "salt and freshly ground black pepper"
-        ],
-        "For the chargrilled Romero pepper": [
-            "\u00bd Romero pepper",
-            "dash olive oil",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -62,8 +69,9 @@
         "For the chargrilled Romero pepper, place the pepper onto a baking sheet, drizzle with olive oil and season with salt and freshly ground black pepper. Place into the oven and roast for 8-10 minutes, or until softened and slightly blackened all over.",
         "To serve, place a small handful of the crisp noodles on top of each bowl of soup. Garnish each bowl with roasted pak choi and chargrilled Romero pepper."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Thai-style mushroom broth with crisp noodles, roasted pak choi and chargrilled Romero pepper",
     "videos": "[]"
 }

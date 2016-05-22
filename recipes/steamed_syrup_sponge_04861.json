@@ -1,26 +1,36 @@
 {
-    "title": "Steamed syrup sponge with custard",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "4-6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Cooking the pudding takes time but it's very easy and satisfying - especially when served with homemade custard.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Cooking the pudding takes time but it's very easy and satisfying - especially when served with homemade custard.",
+    "dishes": [
+        "custard",
+        "jam",
+        "pie",
+        "sauce",
+        "sponge_pudding",
+        "stir-fries",
+        "upside-down_cake"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the custard": [
+            "6 free-range egg yolks",
+            "75g/2\u00bdoz caster sugar",
+            "200ml/7fl oz milk",
+            "200ml/7fl oz double cream",
+            "1 vanilla pod, split in half lengthways and seeds scraped out"
+        ],
         "For the sponge": [
             "6 tbsp golden syrup",
             "175g/6oz butter, softened",
@@ -30,14 +40,13 @@
             "4 medium free-range eggs",
             "175g/6oz self raising flour",
             "1 tsp baking powder"
-        ],
-        "For the custard": [
-            "6 free-range egg yolks",
-            "75g/2\u00bdoz caster sugar",
-            "200ml/7fl oz milk",
-            "200ml/7fl oz double cream",
-            "1 vanilla pod, split in half lengthways and seeds scraped out"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the sponge, butter a 1.2litre/2 pint heatproof bowl then pour the golden syrup into the bottom of the bowl.",
@@ -51,8 +60,9 @@
         "To serve, remove the pudding from the saucepan using the foil strip to help you. Discard the foil and baking parchment.",
         "Place a plate on top of the pudding and turn over, tipping out the pudding onto the plate. Cut the pudding into slices, place on plates and pour the custard alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steamed syrup sponge with custard",
     "videos": "[]"
 }

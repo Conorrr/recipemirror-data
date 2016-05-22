@@ -1,41 +1,44 @@
 {
-    "title": "Indian barbecue rack of lamb and jalfrezi lamb shoulder",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This lamb dish combines two types of spiced lamb and is served with cumin potato cakes, aubergine and mint chutney. Equipment and preparation: you will need a tandoor oven.",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Indian",
+    "description": "This lamb dish combines two types of spiced lamb and is served with cumin potato cakes, aubergine and mint chutney. Equipment and preparation: you will need a tandoor oven.",
+    "dishes": [
+        "bun",
+        "cake",
+        "charlotte",
+        "chutney",
+        "curry",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the lamb shoulder": [
-            "4-6 tbsp vegetable oil",
-            "\u00bd lamb shoulder, trimmed, boned and cut into 4 pieces",
-            "2 tsp cumin seeds",
-            "1 onion, peeled and sliced",
-            "2.5cm/1in piece fresh root ginger, peeled and chopped",
-            "2 garlic cloves, peeled and chopped",
-            "1 green chilli, seeds removed, chopped",
-            "2 tsp garam masala",
-            "1 tsp ground cinnamon",
-            "4 cardamom pods, crushed",
-            "2 cloves",
-            "2 star anise (optional)",
-            "600ml/20fl oz brown meat stock (lamb, chicken or beef)",
-            "salt, to taste"
+        "For the aubergine": [
+            "2 tbsp vegetable oil",
+            "1 tsp cumin seeds",
+            "2 garlic cloves, peeled and grated",
+            "2.5cm/1in ginger, peeled and grated",
+            "\u00bd green chilli, seeds removed (optional), finely diced",
+            "1 onion, finely chopped",
+            "1 tsp ground turmeric",
+            "salt",
+            "1 aubergine, cut into chunks",
+            "squeeze of lemon juice",
+            "small handful of coriander, chopped"
         ],
         "For the barbecue rack of lamb": [
             "2.5cm/1in knob ginger, peeled and finely chopped",
@@ -56,18 +59,21 @@
             "oil, for frying",
             "butter, for frying"
         ],
-        "For the aubergine": [
-            "2 tbsp vegetable oil",
-            "1 tsp cumin seeds",
-            "2 garlic cloves, peeled and grated",
-            "2.5cm/1in ginger, peeled and grated",
-            "\u00bd green chilli, seeds removed (optional), finely diced",
-            "1 onion, finely chopped",
-            "1 tsp ground turmeric",
-            "salt",
-            "1 aubergine, cut into chunks",
-            "squeeze of lemon juice",
-            "small handful of coriander, chopped"
+        "For the lamb shoulder": [
+            "4-6 tbsp vegetable oil",
+            "\u00bd lamb shoulder, trimmed, boned and cut into 4 pieces",
+            "2 tsp cumin seeds",
+            "1 onion, peeled and sliced",
+            "2.5cm/1in piece fresh root ginger, peeled and chopped",
+            "2 garlic cloves, peeled and chopped",
+            "1 green chilli, seeds removed, chopped",
+            "2 tsp garam masala",
+            "1 tsp ground cinnamon",
+            "4 cardamom pods, crushed",
+            "2 cloves",
+            "2 star anise (optional)",
+            "600ml/20fl oz brown meat stock (lamb, chicken or beef)",
+            "salt, to taste"
         ],
         "For the mint chutney": [
             "1 small bunch fresh mint, shredded",
@@ -80,6 +86,12 @@
             "2 tbsp vegetable oil, to blend",
             "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "For the lamb shoulder, heat half of the oil in a large pan and brown the lamb shoulder with the cumin seeds until nicely coloured. Set aside in a large bowl.",
@@ -97,8 +109,9 @@
         "For the mint chutney, blend the mint, coriander, chilli, garlic, lime zest and juice in a food processor until smooth. Add caster sugar to taste and a little oil, pulse again to combine. Season to taste with salt and freshly ground black pepper.",
         "To serve, serve the aubergine, potato cakes, mint chutney, two bones from the rack and a piece of shoulder and some sauce on each plate."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Indian barbecue rack of lamb and jalfrezi lamb shoulder",
     "videos": "[]"
 }

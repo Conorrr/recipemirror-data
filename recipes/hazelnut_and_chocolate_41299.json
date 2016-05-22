@@ -1,45 +1,35 @@
 {
-    "title": "Hazelnut and chocolate g\u00e2teau",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 large g\u00e2teau",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Six layers of chocolate and hazelnut sponge are laced with cognac and iced with a light meringue buttercream. A showstopper if ever there was one.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Six layers of chocolate and hazelnut sponge are laced with cognac and iced with a light meringue buttercream. A showstopper if ever there was one.",
+    "dishes": [
+        "cake",
+        "gateau",
+        "icing",
+        "jam",
+        "marshmallow",
+        "meringue",
+        "oven-baked_dishes",
+        "slow-cooked_dishes"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the hazelnut sponge": [
-            "3 free-range egg whites",
-            "150g/5oz icing sugar",
-            "3 free-range eggs",
-            "150g/5oz ground hazelnuts",
-            "50g/1\u00beoz plain flour",
-            "25g/1oz unsalted butter, melted, plus extra for greasing"
-        ],
         "For the chocolate sponge": [
             "4 free-range eggs",
             "110g/4oz caster sugar",
             "75g/3oz plain flour",
             "25g/1oz cocoa powder, sifted",
             "25g/1oz butter, melted"
-        ],
-        "For the hazelnut cream": [
-            "1 litre/1\u00be pint double cream",
-            "9 tbsp hazelnut paste",
-            "50ml/1\u00befl oz cognac"
         ],
         "For the coffee flavoured meringue buttercream": [
             "250g/9oz caster sugar",
@@ -48,11 +38,30 @@
             "110g/4oz butter, softened",
             "50ml/1\u00befl oz cold strong coffee"
         ],
+        "For the hazelnut cream": [
+            "1 litre/1\u00be pint double cream",
+            "9 tbsp hazelnut paste",
+            "50ml/1\u00befl oz cognac"
+        ],
+        "For the hazelnut sponge": [
+            "3 free-range egg whites",
+            "150g/5oz icing sugar",
+            "3 free-range eggs",
+            "150g/5oz ground hazelnuts",
+            "50g/1\u00beoz plain flour",
+            "25g/1oz unsalted butter, melted, plus extra for greasing"
+        ],
         "To decorate": [
             "3-5 small meringue shells",
             "9-15 small marshmallows",
             "2 tbsp cocoa powder, to sieve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Makes 1 large g\u00e2teau",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the sponge cakes, preheat the oven to 180C/350F/Gas 4 and lightly grease and line the base of two 25cm/10in loose bottomed cake tins.",
@@ -82,8 +91,9 @@
         "Use a little buttercream to stick the marshmallows to the meringue shells. Dust with cocoa powder, then place on the top of the cake in a little cluster.",
         "Slice and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Hazelnut and chocolate g\u00e2teau",
     "videos": "[]"
 }

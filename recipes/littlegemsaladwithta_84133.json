@@ -1,37 +1,36 @@
 {
-    "title": "Little Gem salad with tapenade cro\u00fbtons",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "salad",
+        "sauce",
+        "tapenade"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the poached egg": [
+            "1 free-range egg",
+            "1 tsp white wine vinegar",
+            "200ml/7fl oz water"
+        ],
         "For the tapenade": [
             "2 tbsp olive oil",
             "\u00bc onion",
             "1 garlic clove",
             "55g/2oz black olives, pitted",
             "1 tbsp chopped fresh parsley"
-        ],
-        "For the poached egg": [
-            "1 free-range egg",
-            "1 tsp white wine vinegar",
-            "200ml/7fl oz water"
         ],
         "For the vinaigrette": [
             "1 tbsp olive oil",
@@ -46,6 +45,12 @@
             "4 cubes white bread, fried until golden"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "To make the tapenade, place all the ingredients into a food processor and blend until smooth.",
         "To make the poached egg, carefully crack the egg into a ramekin. Bring the water to the boil in a saucepan over a high heat. Add the vinegar, then reduce the heat to a simmer.",
@@ -53,8 +58,9 @@
         "To make the vinaigrette, place all of the vinaigrette ingredients into a bowl and whisk together.",
         "To serve, place the lettuce leaves onto a plate and pour over the vinaigrette. Spread the tapenade onto the fried bread cubes and arrange over the salad. Finish by placing the poached egg onto the middle."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Little Gem salad with tapenade cro\u00fbtons",
     "videos": "[]"
 }

@@ -1,24 +1,25 @@
 {
-    "title": "Green tomato chutney",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes about 600g/1lb 5oz",
-    "recommendations": "37",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/green_tomato_chutney_41573_16x9.jpg"
-    ],
-    "description": "Use up green tomatoes from your garden with this tasty chutney recipe - it\u2019s delicious on a cheese sandwich.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Use up green tomatoes from your garden with this tasty chutney recipe - it\u2019s delicious on a cheese sandwich.",
+    "dishes": [
+        "caramel",
+        "chutney",
+        "jam",
+        "pie",
+        "sandwich",
+        "tomato_chutney"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/green_tomato_chutney_41573_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,13 +33,20 @@
             "600g/1lb 5oz green tomatoes, quartered"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "37",
+    "serves": "Makes about 600g/1lb 5oz",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Heat the sugar in a frying pan until the sugar melts and caramelises.",
         "Add the white wine vinegar, shallot, garlic, ginger, chilli, sultanas and green tomatoes and bring the mixture to the boil. Reduce the heat and simmer for 1 hour, or until the chutney has thickened and you can draw a wooden spoon across the base of the pan so that it leaves a channel behind it that does not immediately fill with liquid.",
         "Spoon the chutney into sterilised jars."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Green tomato chutney",
     "videos": "[]"
 }

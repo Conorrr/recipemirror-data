@@ -1,26 +1,37 @@
 {
-    "title": "Da Dong-inspired Peking duck salad",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2-4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Da Dong is an inspirational Beijing chef, famed for his Peking Duck roasted for double the usual time to cook out more fat. This is a great dish to make if you have any leftover roast duck pieces, and the sauce-like dressing is simply delicious.",
     "author": {
         "ching-he_huang": "Ching-He Huang"
     },
-    "show": {
-        "b01lybfj": "Exploring China: A Culinary Adventure"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Chinese",
+    "description": "Da Dong is an inspirational Beijing chef, famed for his Peking Duck roasted for double the usual time to cook out more fat. This is a great dish to make if you have any leftover roast duck pieces, and the sauce-like dressing is simply delicious.",
+    "dishes": [
+        "bread",
+        "pickle",
+        "pie",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "3 tbsp wheat flour bean paste (tian mian jiang), or alternatively 1 part yellow bean paste mixed with 4 parts Hoisin sauce)",
+            "1 tbsp sugar",
+            "2 tbsp Chinese black rice vinegar (or balsamic vinegar)",
+            "1 tbsp XO sauce (available online) or, alternatively, \u00bd tbsp each chilli sauce and chilli oil"
+        ],
+        "For the garnish": [
+            "small handful of micro herbs",
+            "small handful of edible yellow flowers (such as evening primrose or nasturtiums)"
+        ],
         "default": [
             "1 Granny Smith apple, unpeeled, halved, cored and sliced into thin half-moon shapes",
             "1 Chinese pear, halved and sliced into thin half-moon shapes",
@@ -31,17 +42,13 @@
             "250g/9oz Peking roast duck, boned and cut into small pieces",
             "\u00bc tsp Chinese five-spice powder",
             "2 tbsp cornflour"
-        ],
-        "For the dressing": [
-            "3 tbsp wheat flour bean paste (tian mian jiang), or alternatively 1 part yellow bean paste mixed with 4 parts Hoisin sauce)",
-            "1 tbsp sugar",
-            "2 tbsp Chinese black rice vinegar (or balsamic vinegar)",
-            "1 tbsp XO sauce (available online) or, alternatively, \u00bd tbsp each chilli sauce and chilli oil"
-        ],
-        "For the garnish": [
-            "small handful of micro herbs",
-            "small handful of edible yellow flowers (such as evening primrose or nasturtiums)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2-4",
+    "show": {
+        "b01lybfj": "Exploring China: A Culinary Adventure"
     },
     "steps": [
         "Place the apple and pear slices down the centre of a large, long, rectangular serving plate, to make heart shapes. Place some red radish strips down the middle of the hearts, then top with spring onion strips. Decorate the rest of the plate with sprinkles of Sichuan pickle.",
@@ -49,8 +56,9 @@
         "Dust the duck pieces with Chinese five-spice and then with the cornflour. Lower the pieces into the hot oil and deep-fry until crispy and the edges of the cornflour have turned golden-brown. Lift out and drain on kitchen paper. Place the duck down the middle of the apple, pear, radish and spring onion strips on the serving plate.",
         "Mix together all the dressing ingredients in a small bowl. Spoon some of this dressing over the duck pieces. Garnish the duck with micro herbs and decorate the plate with some edible yellow flowers."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Da Dong-inspired Peking duck salad",
     "videos": "[]"
 }

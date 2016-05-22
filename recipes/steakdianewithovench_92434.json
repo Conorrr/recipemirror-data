@@ -1,26 +1,33 @@
 {
-    "title": "Steak Diane with oven chips, wild rocket and tomatoes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "chips",
+        "curry",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the oven chips": [
+            "3 tbsp vegetable oil",
+            "\u00bd baking potato, cut into 6 wedges",
+            "\u00bd tsp curry powder",
+            "salt and freshly ground black pepper"
+        ],
         "For the steak Diane": [
             "2 tbsp olive oil",
             "1 shallot, peeled, finely chopped",
@@ -31,16 +38,16 @@
             "1 tbsp green peppercorns in brine, drained",
             "salt and freshly ground black pepper"
         ],
-        "For the oven chips": [
-            "3 tbsp vegetable oil",
-            "\u00bd baking potato, cut into 6 wedges",
-            "\u00bd tsp curry powder",
-            "salt and freshly ground black pepper"
-        ],
         "To serve": [
             "1 handful rocket leaves",
             "3 cherry tomatoes, halved"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -51,8 +58,9 @@
         "Place the pan into the oven for 6-8 minutes, or until the chips are golden-brown and cooked through.",
         "To serve, place the steak on a plate with the chips to one side and the rocket leaves and cherry tomatoes on top. Drizzle over the sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steak Diane with oven chips, wild rocket and tomatoes",
     "videos": "[]"
 }

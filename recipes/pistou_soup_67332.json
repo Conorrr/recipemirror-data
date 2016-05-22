@@ -1,23 +1,25 @@
 {
-    "title": "Pistou soup",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "A light, spicy twist on a traditional summer vegetable soup. French \u2018pistou\u2019 is a distant relative of the Italian pesto, but my version reflects the Vietnamese influence on modern French food.",
     "author": {
         "rachel_khoo": "Rachel Khoo"
     },
-    "show": {
-        "b01dy7yt": "The Little Paris Kitchen: Cooking with Rachel Khoo"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "A light, spicy twist on a traditional summer vegetable soup. French \u2018pistou\u2019 is a distant relative of the Italian pesto, but my version reflects the Vietnamese influence on modern French food.",
+    "dishes": [
+        "bun",
+        "pasta",
+        "pesto",
+        "pie",
+        "soup",
+        "vegetable_soup"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -46,6 +48,12 @@
             "freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4-6",
+    "show": {
+        "b01dy7yt": "The Little Paris Kitchen: Cooking with Rachel Khoo"
+    },
     "steps": [
         "For the pistou, crush the ingredients to a smooth paste in a pestle and mortar (or use a food processor).",
         "For the soup, heat the olive oil in a large pot. Add the onions and garlic and cook gently, stirring occasionally, until soft and translucent.",
@@ -54,8 +62,9 @@
         "Add the white beans and peas. Remove the sprig of thyme and the bay leaves, then add the salt, sugar and pepper to taste.",
         "Serve immediately in bowls, with a dollop of Vietnamese pistou on top of the soup."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pistou soup",
     "videos": "[]"
 }

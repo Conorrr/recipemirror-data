@@ -1,32 +1,29 @@
 {
-    "title": "Carrot, cumin and barley summer stew",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/carrot_cumin_and_barley_69308_16x9.jpg"
-    ],
-    "description": "For many years I\u2019ve had a deep longing to create a form of risotto using barley, but as the Italians might tell me off, I decided to play safe and call this a stew. The spices add complex notes, but the heat should be gentle. The dish is wholesome, satisfying and healthy yet luxuriously creamy and a fantastic showcase for the big flavour of my favourite Early Nantes carrots. Each serving provides 351kcal, 7g protein, 51g carbohydrates (of which 18g sugars), 12g fat (of which 1g saturates), 7g fibre and 0.8g salt.",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b05n91p4": "Kew on a Plate"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "For many years I\u2019ve had a deep longing to create a form of risotto using barley, but as the Italians might tell me off, I decided to play safe and call this a stew. The spices add complex notes, but the heat should be gentle. The dish is wholesome, satisfying and healthy yet luxuriously creamy and a fantastic showcase for the big flavour of my favourite Early Nantes carrots. Each serving provides 351kcal, 7g protein, 51g carbohydrates (of which 18g sugars), 12g fat (of which 1g saturates), 7g fibre and 0.8g salt.",
+    "dishes": [
+        "bun",
+        "caramel",
+        "pie",
+        "risotto",
+        "sauce",
+        "stew",
+        "stir-fries",
+        "veggie_stew"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/carrot_cumin_and_barley_69308_16x9.jpg"
+    ],
     "ingredients": {
-        "For the carrots": [
-            "500ml/18fl oz carrot juice",
-            "large pinch of sea salt",
-            "1 tsp ground cumin",
-            "6 carrots (ideally Early Nantes), skin on, scrubbed, halved lengthways then cut into 1cm/\u00bdin slices at an angle"
-        ],
         "For the barley": [
             "2 tbsp rapeseed oil",
             "80g/2\u00beoz white onion (about \u00bd a medium onion), chopped",
@@ -40,10 +37,22 @@
             "\u00bd lemon, juice only",
             "salt and freshly ground black pepper"
         ],
+        "For the carrots": [
+            "500ml/18fl oz carrot juice",
+            "large pinch of sea salt",
+            "1 tsp ground cumin",
+            "6 carrots (ideally Early Nantes), skin on, scrubbed, halved lengthways then cut into 1cm/\u00bdin slices at an angle"
+        ],
         "To finish": [
             "1\u00bd tbsp rapeseed oil",
             "micro coriander (optional)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b05n91p4": "Kew on a Plate"
     },
     "steps": [
         "For the carrots, in a large saucepan over a medium heat, bring the carrot juice and 100ml/3\u00bdfl oz water to the boil, then add the salt and cumin. Add the carrots and simmer gently for 10 minutes, or until they are cooked through. Remove from the heat, remove the carrots and reserve the cooking liquor.",
@@ -52,8 +61,9 @@
         "To finish, in a frying pan over a medium heat, fry the cooked carrot pieces in the rapeseed oil for 6\u20137 minutes, until caramelised. Add the reserved pieces of sliced corn to the pan and cook for 3 minutes, or until they begin to brown.",
         "To serve, remove the caramelised carrots, add them to the barley risotto and divide the risotto evenly between four plates. Finish with a length of sliced corn and micro coriander, if using. Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Carrot, cumin and barley summer stew",
     "videos": "[]"
 }

@@ -1,24 +1,22 @@
 {
-    "title": "Watercress soup with a poached egg",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "alex_mackay": "Alex Mackay"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,13 +27,20 @@
             "1 tbsp grated cheddar"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Bring the stock to a simmer in a pan, then stir in the watercress and simmer for 1-2 minutes, or until the watercress is wilted. Blend until smooth with a stick blender and keep warm.",
         "Bring a pan of water to the boil, then reduce to a gentle simmer and add the vinegar. Crack the egg into a bowl. Swirl the water with a wooden spoon to form a whirlpool, then pour the egg into the centre of the whirlpool. Poach for 2-3 minutes, or until the whites have just set, then remove with a slotted spoon and drain on kitchen paper.",
         "To serve, ladle the soup into a serving bowl and place the poached egg on top. Garnish with a sprinkling of grated cheddar."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Watercress soup with a poached egg",
     "videos": "[]"
 }

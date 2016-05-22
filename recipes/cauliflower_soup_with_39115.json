@@ -1,26 +1,33 @@
 {
-    "title": "Cauliflower soup with Stilton choux",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "The rich flavours of this creamy cauliflower soup and deep-fried Stilton beignets make a wonderful lunchtime treat on a chilly day.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "The rich flavours of this creamy cauliflower soup and deep-fried Stilton beignets make a wonderful lunchtime treat on a chilly day.",
+    "dishes": [
+        "crumble",
+        "jam",
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Stilton choux": [
+            "125ml/4fl oz water",
+            "50g/1\u00beoz butter, diced",
+            "75g/2\u00beoz plain flour",
+            "2 free-range eggs",
+            "75g/2\u00beoz Stilton, crumbled"
+        ],
         "For the cauliflower soup": [
             "50g/1\u00beoz butter",
             "1 onion, finely chopped",
@@ -31,14 +38,13 @@
             "2 tbsp reduced balsamic vinegar (or regular balsamic vinegar)",
             "2 tbsp extra virgin olive oil",
             "2 tbsp coriander cress"
-        ],
-        "For the Stilton choux": [
-            "125ml/4fl oz water",
-            "50g/1\u00beoz butter, diced",
-            "75g/2\u00beoz plain flour",
-            "2 free-range eggs",
-            "75g/2\u00beoz Stilton, crumbled"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the soup, heat a large pan until hot. Add the butter, onion and garlic and saut\u00e9 for two minutes, or until just softened.",
@@ -57,8 +63,9 @@
         "Drain onto kitchen paper and season with a little salt.",
         "To serve, ladle the soup into bowls and place a few of the Stilton cheese choux on top. Drizzle over the balsamic vinegar, the remaining double cream and olive oil. Finish with a scattering of coriander cress."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cauliflower soup with Stilton choux",
     "videos": "[]"
 }

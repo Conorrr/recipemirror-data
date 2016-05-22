@@ -1,23 +1,27 @@
 {
-    "title": "Lobster salad with Thai crab and lobster cakes and sweet chilli sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Seafood flavours are paired with sweet spicy sauce and a leafy mango salad.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Seafood flavours are paired with sweet spicy sauce and a leafy mango salad.",
+    "dishes": [
+        "bread",
+        "bun",
+        "cake",
+        "fish_cakes",
+        "jam",
+        "quenelle",
+        "salad",
+        "sauce",
+        "seafood"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -34,11 +38,6 @@
             "2 free-range eggs, lightly beaten",
             "50g/2oz panko breadcrumbs"
         ],
-        "For the sweet chilli sauce": [
-            "2 red chillies, finely diced",
-            "75g/3oz caster sugar",
-            "75ml/3fl oz rice wine vinegar"
-        ],
         "For the salad": [
             "1 mango, peeled and finely diced",
             "\u00bd vanilla pod, split and seeded",
@@ -51,7 +50,18 @@
             "1 small handful watercress leaves",
             "2 tbsp coriander cress",
             "olive oil, for dressing"
+        ],
+        "For the sweet chilli sauce": [
+            "2 red chillies, finely diced",
+            "75g/3oz caster sugar",
+            "75ml/3fl oz rice wine vinegar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the crab and lobster cakes, heat a deep fat fryer to 190C/375F. (CAUTION: hot oil can be dangerous. Do not leave unattended.)",
@@ -70,8 +80,9 @@
         "Top with a little pile of salad and a lobster claw.",
         "Place a few crab and lobster cakes around the plate and then finish with several drops of sweet chilli sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lobster salad with Thai crab and lobster cakes and sweet chilli sauce",
     "videos": "[]"
 }

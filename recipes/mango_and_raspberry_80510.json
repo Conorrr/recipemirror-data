@@ -1,23 +1,26 @@
 {
-    "title": "Mango and raspberry charlotte russe",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "This intricate dessert is made of homemade lady fingers filled with layers of flavoured creams, cake and jelly. For this recipe you will need a sugar thermometer, a freestanding mixer, a 20cm/8in springform cake tin, a large Swiss roll tin (about 33x23cm/13x9in) and a piping bag fitted with a large star nozzle.",
     "author": {
         "nadiya": "Nadiya"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "Lining your cake tin with cling film makes it much easier to remove this intricate dessert from its tin. Plus it can be used to help keep the fingers in place before you add the filling."
+    "cookTime": "over 2 hours",
+    "description": "This intricate dessert is made of homemade lady fingers filled with layers of flavoured creams, cake and jelly. For this recipe you will need a sugar thermometer, a freestanding mixer, a 20cm/8in springform cake tin, a large Swiss roll tin (about 33x23cm/13x9in) and a piping bag fitted with a large star nozzle.",
+    "dishes": [
+        "cake",
+        "charlotte",
+        "jelly",
+        "meringue",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "folding",
+        "whipping_cream",
+        "whisking_egg_whites"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -26,30 +29,12 @@
             "20g/\u00beoz liquid glucose",
             "4 medium free-range egg whites"
         ],
-        "For the sponge fingers": [
-            "4 medium free-range eggs, separated",
-            "120g/4oz caster sugar, plus extra for dusting",
-            "pinch table salt",
-            "120g/4oz plain flour"
-        ],
-        "For the syrup": [
-            "100g/3\u00bdoz caster sugar"
-        ],
         "For the g\u00e9noise sponge": [
             "unsalted butter, for greasing",
             "4 medium free-range egg yolks",
             "125g/4\u00bdoz caster sugar",
             "125g/4\u00bdoz plain flour, sifted",
             "30g/1oz butter, melted"
-        ],
-        "For the raspberry bavarois": [
-            "2 tbsp milk",
-            "400g/14oz raspberries, blended to a pur\u00e9e and sieved (200ml/7fl oz pur\u00e9e required)",
-            "\u00bd lime, juice only",
-            "3 large free-range egg yolks",
-            "20g/\u00beoz caster sugar",
-            "3 sheets leaf gelatine, soaked in cold water for 10 minutes",
-            "200ml/7fl oz double cream"
         ],
         "For the mango bavarois": [
             "2 tbsp milk",
@@ -64,11 +49,35 @@
             "200ml/7fl oz mango pur\u00e9e",
             "3 gelatine leaves, soaked in cold water for 10 minutes"
         ],
+        "For the raspberry bavarois": [
+            "2 tbsp milk",
+            "400g/14oz raspberries, blended to a pur\u00e9e and sieved (200ml/7fl oz pur\u00e9e required)",
+            "\u00bd lime, juice only",
+            "3 large free-range egg yolks",
+            "20g/\u00beoz caster sugar",
+            "3 sheets leaf gelatine, soaked in cold water for 10 minutes",
+            "200ml/7fl oz double cream"
+        ],
+        "For the sponge fingers": [
+            "4 medium free-range eggs, separated",
+            "120g/4oz caster sugar, plus extra for dusting",
+            "pinch table salt",
+            "120g/4oz plain flour"
+        ],
+        "For the syrup": [
+            "100g/3\u00bdoz caster sugar"
+        ],
         "To decorate": [
             "1 mango, peeled, stone removed and flesh cut into long slices",
             "1 small punnet raspberries",
             "edible gold leaf (optional)"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "3",
+    "serves": "",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the Italian meringue, put 55ml/2fl oz water in a pan with the sugar and glucose. Gently heat to 110C (check with a sugar thermometer) then keep a close eye on it and remove it from the heat as soon as it reaches 120C.",
@@ -97,10 +106,9 @@
         "When the jelly is set, carefully remove the charlotte russe from the tin and place on a serving plate.",
         "Place any remaining meringue into a piping bag fitted with a large star nozzle. Pipe rosettes of the meringue around the edge of the jelly and top each one with a raspberry. Arrange the mango slices on top of the jelly, starting in the centre and fanning outwards like the spokes of a bicycle wheel. Arrange the remaining raspberries around the bottom of the russe and top with gold leaf, if using."
     ],
-    "howTos": [
-        "folding",
-        "whipping_cream",
-        "whisking_egg_whites"
+    "tips": [
+        "Lining your cake tin with cling film makes it much easier to remove this intricate dessert from its tin. Plus it can be used to help keep the fingers in place before you add the filling."
     ],
+    "title": "Mango and raspberry charlotte russe",
     "videos": "[]"
 }

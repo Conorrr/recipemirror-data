@@ -1,23 +1,21 @@
 {
-    "title": "Pea and mint soup",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -32,14 +30,21 @@
             "Fresh chives, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Melt the butter in a saucepan over a medium heat, and when bubbling add the onion and garlic and cook, for five minutes, or until softened.",
         "Add the chicken stock, peas, cream and mint to the saucepan and simmer for two minutes.",
         "Blend the soup mixture with a hand blender and pour into a clean bowl.",
         "To serve, garnish with chives."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pea and mint soup",
     "videos": "[]"
 }

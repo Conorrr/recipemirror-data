@@ -1,24 +1,22 @@
 {
-    "title": "Banana pancakes with streaky bacon",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "16",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/banana_pancakes_with_98240_16x9.jpg"
-    ],
-    "description": "The Hairy Bikers\u2019 banana pancakes make a brilliant brunch or simple supper. Omit the bacon if you wish.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "American",
+    "description": "The Hairy Bikers\u2019 banana pancakes make a brilliant brunch or simple supper. Omit the bacon if you wish.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pancake"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/banana_pancakes_with_98240_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,6 +32,12 @@
             "maple or golden syrup, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "16",
+    "serves": "Serves 4",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
+    },
     "steps": [
         "Preheat the oven to 110C/225F/Gas \u00bc.",
         "Melt 25g/1oz of the butter in a small pan over a low heat and leave to cool for five minutes.",
@@ -46,8 +50,9 @@
         "Return the frying pan to the heat and add the streaky bacon. Cook for about three minutes on each side until golden and crisp, turning once. Add a splash of oil if the rashers begin to stick.",
         "Pile the pancakes onto four warmed plates and top with the fried bacon. Drizzle with a little maple syrup (or golden syrup) and serve the rest separately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Banana pancakes with streaky bacon",
     "videos": "[]"
 }

@@ -1,24 +1,27 @@
 {
-    "title": "Baked Alaska with hot chocolate sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 8-10",
-    "recommendations": "7",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/baked_alaska_with_hot_20041_16x9.jpg"
-    ],
-    "description": "A simple chocolate cake topped with your choice of ice cream \u2013 which is then smothered with soft meringue and lashings of chocolate sauce. Surely this 70s classic is due a revival? Equipment and preparation: you will need a 1 litre/1\u00be pint pudding basin (20cm/8in in diameter), a 20cm/8in round cake tin and a flat baking tray.",
     "author": {
         "rachel_allen": "Rachel Allen"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        "As an alternative, you can make a chocolate orange sauce - just add 1-2 tablespoons of orange liqueur (such as Cointreau or Grand Marnier) and one teaspoon of finely grated orange zest to the basic chocolate sauce."
+    "cookTime": "30 mins to 1 hour",
+    "description": "A simple chocolate cake topped with your choice of ice cream \u2013 which is then smothered with soft meringue and lashings of chocolate sauce. Surely this 70s classic is due a revival? Equipment and preparation: you will need a 1 litre/1\u00be pint pudding basin (20cm/8in in diameter), a 20cm/8in round cake tin and a flat baking tray.",
+    "dishes": [
+        "baked_alaska",
+        "cake",
+        "meringue",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "upside-down_cake"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "melting_chocolate"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/baked_alaska_with_hot_20041_16x9.jpg"
     ],
     "ingredients": {
         "For the chocolate cake base": [
@@ -29,16 +32,22 @@
             "2 free-range eggs, beaten",
             "125g/4\u00bdoz self-raising flour, sifted"
         ],
-        "For the meringue": [
-            "3 free-range egg whites",
-            "200g/7oz caster sugar",
-            "pinch cream of tartar"
-        ],
         "For the chocolate sauce": [
             "200ml/7fl oz double cream",
             "200g/7oz dark chocolate, in drops or chopped into pieces",
             "1\u20132 tbsp rum or brandy (optional)"
+        ],
+        "For the meringue": [
+            "3 free-range egg whites",
+            "200g/7oz caster sugar",
+            "pinch cream of tartar"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "7",
+    "serves": "Serves 8-10",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the base, line the pudding basin with two layers of cling film, leaving enough hanging over the edge to cover the sides of the basin.",
@@ -60,8 +69,9 @@
         "Carefully transfer the baked Alaska to a serving plate, using a palette knife dipped in hot water to help you slide and push it onto the plate.",
         "Serve immediately with the chocolate sauce."
     ],
-    "howTos": [
-        "melting_chocolate"
+    "tips": [
+        "As an alternative, you can make a chocolate orange sauce - just add 1-2 tablespoons of orange liqueur (such as Cointreau or Grand Marnier) and one teaspoon of finely grated orange zest to the basic chocolate sauce."
     ],
+    "title": "Baked Alaska with hot chocolate sauce",
     "videos": "[]"
 }

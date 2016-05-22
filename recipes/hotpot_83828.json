@@ -1,23 +1,24 @@
 {
-    "title": "Lamb and barley hotpot",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "broth",
+        "hotpot",
+        "oven-baked_dishes",
+        "stew",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "skimming_stock"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -37,6 +38,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "10",
+    "serves": "Serves 4",
+    "show": {
+        "b00701fw": "A Taste of My Life"
+    },
     "steps": [
         "Boil the pot barley in unsalted water for 25 minutes, then drain it.",
         "Preheat an oven to 160C/320F/Gas 3.",
@@ -51,8 +58,9 @@
         "Remove the lid. The liquor should be thin, thickened only slightly by the potatoes. Chop the parsley and mix it in carefully, so as not to smash the vegetables, then season with salt and freshly ground black pepper.",
         "Leave overnight. Next day, skim the fat from the top, then reheat slowly on the stove until the meat is thoroughly hot and the broth gently bubbling. Season as required and serve piping hot."
     ],
-    "howTos": [
-        "skimming_stock"
+    "tips": [
+        
     ],
+    "title": "Lamb and barley hotpot",
     "videos": "[]"
 }

@@ -1,26 +1,43 @@
 {
-    "title": "Cheat\u2019s chocolate tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 1 large tart",
-    "recommendations": "9",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cheats_chocolate_tart_45173_16x9.jpg"
-    ],
-    "description": "The pastry is the only part of this rich, chocolate tart that needs baking, making it perfect to prepare ahead for a dinner party. Equiopment and preparation: for this recipe you will need a 36x12cm/14x4\u00bdin rectangular tart tin or a 23cm/9in round tart tin.",
     "author": {
         "tom_kerridge": "Tom Kerridge"
     },
-    "show": {
-        "b04ksltb": "Tom Kerridge's Best Ever Dishes"
-    },
-    "tips": [
-        "Use the best quality chocolate you can for optimum results."
+    "cookTime": "30 mins to 1 hour",
+    "description": "The pastry is the only part of this rich, chocolate tart that needs baking, making it perfect to prepare ahead for a dinner party. Equiopment and preparation: for this recipe you will need a 36x12cm/14x4\u00bdin rectangular tart tin or a 23cm/9in round tart tin.",
+    "dishes": [
+        "bread",
+        "chocolate_tart",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "prepare-ahead_desserts",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry",
+        "how_to_make_caramel_and_praline",
+        "melting_chocolate",
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cheats_chocolate_tart_45173_16x9.jpg"
+    ],
     "ingredients": {
+        "For the coffee cream": [
+            "1 tbsp freeze-dried coffee granules, dissolved in 1 tbsp boiling water",
+            "3 tbsp coffee liqueur",
+            "200ml/7fl oz double cream",
+            "50g/1\u00beoz caster sugar"
+        ],
+        "For the filling": [
+            "750g/1lb 10oz milk chocolate",
+            "260ml/9\u00bdfl oz double cream",
+            "120ml/4fl oz amaretto"
+        ],
         "For the pastry": [
             "175g/6oz plain flour",
             "40g/1\u00bdoz cocoa powder",
@@ -28,23 +45,18 @@
             "140g/5oz butter, diced",
             "2 medium free-range egg yolks"
         ],
-        "For the filling": [
-            "750g/1lb 10oz milk chocolate",
-            "260ml/9\u00bdfl oz double cream",
-            "120ml/4fl oz amaretto"
-        ],
         "For the topping": [
             "200g/7oz blanched almonds",
             "250g/9oz caster sugar",
             "100g/3\u00bdoz dark chocolate, finely grated",
             "75g/2\u00bdoz coffee beans"
-        ],
-        "For the coffee cream": [
-            "1 tbsp freeze-dried coffee granules, dissolved in 1 tbsp boiling water",
-            "3 tbsp coffee liqueur",
-            "200ml/7fl oz double cream",
-            "50g/1\u00beoz caster sugar"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "9",
+    "serves": "Makes 1 large tart",
+    "show": {
+        "b04ksltb": "Tom Kerridge's Best Ever Dishes"
     },
     "steps": [
         "For the pastry, sift the flour, cocoa powder and icing sugar into a bowl. Add the butter and rub together using your fingers until the mixture resembles breadcrumbs. Add the egg yolks and mix together until it forms a dough. Add a little ice-cold water if the pastry feels dry. Wrap the dough in cling film and place in the fridge to rest for at least an hour.",
@@ -58,11 +70,9 @@
         "For the coffee cream, mix the dissolved coffee granules and coffee liquor to a paste in a large bowl and add the sugar. Pour in the double cream and whisk to firm peaks, being careful not to over-whip it. Cover with cling film and place in the fridge until needed.",
         "Check that the tart has set. If not, leave it in the fridge for a further 20 minutes. Once set, cover with grated chocolate and sprinkle with the coffee beans and frosted almonds. Serve with the whipped coffee cream."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry",
-        "how_to_make_caramel_and_praline",
-        "melting_chocolate",
-        "rubbing_in"
+    "tips": [
+        "Use the best quality chocolate you can for optimum results."
     ],
+    "title": "Cheat\u2019s chocolate tart",
     "videos": "[]"
 }

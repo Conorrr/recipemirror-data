@@ -1,26 +1,36 @@
 {
-    "title": "Slow-roast pork chops with orange gremolata served with creamed leeks with oranges",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "sophie_grigson": "Sophie Grigson"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "gremolata",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the creamed leeks": [
+            "5 large leeks, trimmed",
+            "40g/1\u00bd oz butter",
+            "1 orange, juice and finely grated zest",
+            "salt and freshly ground black pepper",
+            "40g/1\u00bd plain flour",
+            "300ml/10\u00bdfl oz milk",
+            "squeeze lemon juice"
+        ],
         "For the pork chops": [
             "4 thick-cut pork chops",
             "2 cloves garlic, peeled",
@@ -31,16 +41,13 @@
             "6 fresh bay leaves",
             "1 tbsp fennel seeds",
             "2 tbsp flatleaf parsley, roughly chopped1 orange, zest only"
-        ],
-        "For the creamed leeks": [
-            "5 large leeks, trimmed",
-            "40g/1\u00bd oz butter",
-            "1 orange, juice and finely grated zest",
-            "salt and freshly ground black pepper",
-            "40g/1\u00bd plain flour",
-            "300ml/10\u00bdfl oz milk",
-            "squeeze lemon juice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the pork chops, preheat the oven to 170C/325F/Gas 3. Preheat the grill to hot (or preheat a griddle pan to hot if the grill is located in the oven).",
@@ -58,8 +65,9 @@
         "Reheat gently, stirring frequently to prevent the sauce from catching and burning, before serving.",
         "Just before serving, pour away any excess fat off from the chops. To serve, spoon the leeks into the centre of the plate, top with a pork chop and sprinke over the gremolata."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Slow-roast pork chops with orange gremolata served with creamed leeks with oranges",
     "videos": "[]"
 }

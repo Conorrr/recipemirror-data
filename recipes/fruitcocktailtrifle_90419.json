@@ -1,24 +1,23 @@
 {
-    "title": "Fruit cocktail trifle",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "biscuit",
+        "crumble",
+        "icing",
+        "trifle"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,13 +32,20 @@
             "1 tbsp chopped mixed tropical fruit"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "In a tall dessert glass, arrange half of the nectarine slices, and crumble over half of the ginger biscuits and macadamia nuts. Squeeze over half of the orange juice and repeat the layering process once more.",
         "Whisk the cream, mascarpone, lime zest and icing sugar together in a bowl until smooth and creamy. Spoon the mixture into the glass.",
         "Top with the chopped tropical fruit and serve."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Fruit cocktail trifle",
     "videos": "[]"
 }

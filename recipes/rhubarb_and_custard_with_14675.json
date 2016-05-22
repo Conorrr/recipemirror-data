@@ -1,29 +1,35 @@
 {
-    "title": "Rhubarb and custard with almond crumble",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "The humble rhubarb crumble gets a dinner party makeover. Serve in sturdy wine glasses or individual serving bowls.",
     "author": {
         "silvena_rowe": "Silvena Rowe"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "The humble rhubarb crumble gets a dinner party makeover. Serve in sturdy wine glasses or individual serving bowls.",
+    "dishes": [
+        "bread",
+        "crumble",
+        "custard",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stew",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the rhubarb": [
-            "4 stalks rhubarb (approximately 400g/14oz)",
-            "35g/1\u00bcoz caster sugar"
+        "For the crumble": [
+            "100g/3\u00bd oz plain flour",
+            "80g/3oz butter",
+            "80g/3oz caster sugar",
+            "80g/3oz ground almonds"
         ],
         "For the custard": [
             "6 free-range egg yolks",
@@ -33,12 +39,16 @@
             "1 tsp cornflour, mixed with a little water to form a paste",
             "1 vanilla pod, sliced lengthways and the seeds scraped out"
         ],
-        "For the crumble": [
-            "100g/3\u00bd oz plain flour",
-            "80g/3oz butter",
-            "80g/3oz caster sugar",
-            "80g/3oz ground almonds"
+        "For the rhubarb": [
+            "4 stalks rhubarb (approximately 400g/14oz)",
+            "35g/1\u00bcoz caster sugar"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
     },
     "steps": [
         "Preheat the oven to 160C/320F/Gas 3.",
@@ -54,8 +64,9 @@
         "Sprinkle the mixture onto the lined baking tray and bake for approximately 15-20 minutes, turning occasionally, until the crumble is crunchy and golden-brown. Remove from the oven and set aside to cool completely.",
         "Once the rhubarb and custard has set, top with baked rhubarb pieces and some almond crumble. Decorate with the glazed rhubarb strips."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Rhubarb and custard with almond crumble",
     "videos": "[]"
 }

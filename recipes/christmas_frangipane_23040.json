@@ -1,26 +1,42 @@
 {
-    "title": "Christmas frangipane tart",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 1 x 25cm/10in tart",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Make a change from the usual Christmas desserts with this tart made from pears poached in spice and wine, pressed into frangipane. Equipment and preparation: You will need a 23cm/9in fluted loose bottom tart tin and a piping bag.",
     "author": {
         "paul": "Paul"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Make a change from the usual Christmas desserts with this tart made from pears poached in spice and wine, pressed into frangipane. Equipment and preparation: You will need a 23cm/9in fluted loose bottom tart tin and a piping bag.",
+    "dishes": [
+        "bread",
+        "frangipane",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry",
+        "lining_tin_with_pastry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the frangipane": [
+            "175g/6oz unsalted butter, softened",
+            "175g/6oz caster sugar",
+            "3 large free-range eggs",
+            "175g/6oz ground almonds",
+            "1 tsp almond extract"
+        ],
+        "For the icing": [
+            "100g/3\u00bdoz icing sugar",
+            "2 tsp lemon juice"
+        ],
         "For the infused pears": [
             "400ml/14fl oz Cabernet Sauvignon red wine",
             "1 whole cinnamon stick",
@@ -38,22 +54,17 @@
             "1 large free-range egg yolk",
             "1 tbsp ice-cold water"
         ],
-        "For the frangipane": [
-            "175g/6oz unsalted butter, softened",
-            "175g/6oz caster sugar",
-            "3 large free-range eggs",
-            "175g/6oz ground almonds",
-            "1 tsp almond extract"
-        ],
         "For the topping": [
             "25g/1oz ground almonds",
             "50g/1\u00beoz blanched sliced almonds",
             "2 tbsp apricot jam, sieved"
-        ],
-        "For the icing": [
-            "100g/3\u00bdoz icing sugar",
-            "2 tsp lemon juice"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Makes 1 x 25cm/10in tart",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the pears, add the red wine, spices, caster sugar and orange to a saucepan and warm gently. Place the pears in the saucepan and bring to the boil, reduce to a simmer and cook for 15 minutes, or until the pears are tender.",
@@ -68,9 +79,9 @@
         "For the icing, mix the icing sugar with the lemon juice until you have a smooth paste that drizzles from a spoon. Add a little water if the icing is too thick.",
         "Cool on a wire rack for 5-10 minutes before removing the tart casing. When cool, drizzle the icing all over and serve warm or cold."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry",
-        "lining_tin_with_pastry"
+    "tips": [
+        
     ],
+    "title": "Christmas frangipane tart",
     "videos": "[]"
 }

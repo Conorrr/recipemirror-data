@@ -1,40 +1,49 @@
 {
-    "title": "Victoria sponge with strawberry jam",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "8",
-    "recommendations": "85",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/victoriaspongewithst_90309_16x9.jpg"
-    ],
-    "description": "Watch our step-by-step recipe for the perfect Victoria sponge filled with softly whipped cream and strawberry jam.",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Watch our step-by-step recipe for the perfect Victoria sponge filled with softly whipped cream and strawberry jam.",
+    "dishes": [
+        "cake",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "sandwich",
+        "victoria_sponge"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "creaming"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/victoriaspongewithst_90309_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "knob of butter, melted",
-            "225g/8oz butter, softened",
-            "225g/8oz caster sugar",
-            "4 large free-range eggs",
-            "225g/8oz self-raising flour, sifted (you may need a bit extra)"
-        ],
         "For the filling": [
             "6 tbsp good-quality strawberry jam",
             "300ml/10\u00bd fl oz double cream, lightly whipped"
         ],
         "To serve": [
             "icing sugar, for dusting"
+        ],
+        "default": [
+            "knob of butter, melted",
+            "225g/8oz butter, softened",
+            "225g/8oz caster sugar",
+            "4 large free-range eggs",
+            "225g/8oz self-raising flour, sifted (you may need a bit extra)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "85",
+    "serves": "8",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -48,9 +57,9 @@
         "Spread the sponge with the jam and the whipped cream, then carefully sandwich together.",
         "Dust with icing sugar and serve."
     ],
-    "howTos": [
-        "folding",
-        "creaming"
+    "tips": [
+        
     ],
+    "title": "Victoria sponge with strawberry jam",
     "videos": "[]"
 }

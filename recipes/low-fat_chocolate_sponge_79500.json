@@ -1,26 +1,30 @@
 {
-    "title": "Low-fat chocolate sponge cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "12",
-    "images": [
-        
-    ],
-    "description": "This chocolate cake contains no butter or oil so is naturally lower in fat than a classic chocolate sponge. The addition of grated apple makes the sponge moist and its natural sweetness means you can afford to use less caster sugar.",
     "author": {
         "tim_maddams": "Tim Maddams"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This chocolate cake contains no butter or oil so is naturally lower in fat than a classic chocolate sponge. The addition of grated apple makes the sponge moist and its natural sweetness means you can afford to use less caster sugar.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "icing",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For finishing the cake": [
+            "150g/5\u00bdoz raspberries",
+            "75g/2\u00bdoz icing sugar, sifted, plus extra for dusting"
+        ],
         "default": [
             "olive oil cooking spray, for greasing",
             "4 large free-range egg whites",
@@ -31,11 +35,13 @@
             "2 Braeburn apples, peeled, cored and grated",
             "100g/3\u00bdoz self-raising flour, sifted",
             "40g/1\u00bdoz cocoa powder, sifted"
-        ],
-        "For finishing the cake": [
-            "150g/5\u00bdoz raspberries",
-            "75g/2\u00bdoz icing sugar, sifted, plus extra for dusting"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Serves 8",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 170C/330F/Gas 3.",
@@ -46,8 +52,9 @@
         "Once cooled, slice the cake in half horizontally to create two layers. Mash two-thirds of the raspberries and one tablespoon of icing sugar together roughly in a bowl and spread this mixture over the top of one of the pieces of cake. Top with the other piece.",
         "Mix together the remaining icing sugar and enough water to bring it together to form a thin icing of drizzling consistency. Drizzle the icing over the cake, leave for 2-3 minutes to harden slightly and then decorate with the remaining raspberries."
     ],
-    "howTos": [
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Low-fat chocolate sponge cake",
     "videos": "[p018rjwr:p018rjwz]"
 }

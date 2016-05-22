@@ -1,26 +1,37 @@
 {
-    "title": "Serrano ham and salt cod croquetas with aioli",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Perfect tapas food that's surprisingly simple to put together.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Spanish",
+    "description": "Perfect tapas food that's surprisingly simple to put together.",
+    "dishes": [
+        "bread",
+        "bun",
+        "ham",
+        "jam",
+        "mayonnaise",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_make_mayonnaise_using_a_food_processor"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the aioli": [
+            "3 free-range egg yolks",
+            "4 garlic cloves",
+            "\u00bd lemon, juice only",
+            "150ml/5fl oz extra virgin olive oil",
+            "mustard powder, optional",
+            "saffron, optional"
+        ],
         "default": [
             "75g/2\u00bdoz butter",
             "275g/7oz plain flour",
@@ -35,15 +46,13 @@
             "100g/3\u00bdoz dried breadcrumbs",
             "rapeseed oil, for deep-frying",
             "salt and freshly ground black pepper"
-        ],
-        "For the aioli": [
-            "3 free-range egg yolks",
-            "4 garlic cloves",
-            "\u00bd lemon, juice only",
-            "150ml/5fl oz extra virgin olive oil",
-            "mustard powder, optional",
-            "saffron, optional"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the croquetas, melt the butter in a large saucepan, then whisk in 200g/7oz of the flour and cook for 2-3 minutes. Whisk in the milk slowly until you have a very thick sauce. Season with salt and pepper. Divide into 2 bowls and in 1 bowl stir in the fresh breadcrumbs, ham, manchego and half the parsley, and in the other the cooked salt cod and remaining parsley. Place in the fridge to chill for 3-4 hours.",
@@ -53,8 +62,9 @@
         "For the aioli, blend all the ingredients, except the olive oil, in a food processor. Pour the oil into the blender in a steady stream, until it forms a thick sauce. The mixture, once blended, should be vibrant and yellow in colour. To vary the flavour, add a little mustard or some saffron. If you'd like your mayonnaise runnier, add a couple of tablespoons of hot water.",
         "Serve the croquetas on a board with a bowl of the aioli for dipping."
     ],
-    "howTos": [
-        "how_to_make_mayonnaise_using_a_food_processor"
+    "tips": [
+        
     ],
+    "title": "Serrano ham and salt cod croquetas with aioli",
     "videos": "[]"
 }

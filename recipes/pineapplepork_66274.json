@@ -1,26 +1,34 @@
 {
-    "title": "Pineapple pork",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ken_hom": "Ken Hom"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Chinese",
+    "description": "",
+    "dishes": [
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the garnish": [
+            "handful fresh coriander sprigs"
+        ],
+        "For the marinade": [
+            "2 tsp light soy sauce",
+            "2 tsp Shaoxing rice wine or dry sherry",
+            "1 tsp sesame oil",
+            "2 tsp cornflour"
+        ],
         "default": [
             "450g/1lb pork fillet",
             "1\u00bd tbsp groundnut oil",
@@ -29,16 +37,13 @@
             "1 tbsp dark soy sauce",
             "2 tsp sugar",
             "225g/8oz fresh or tinned pineapple, chopped"
-        ],
-        "For the marinade": [
-            "2 tsp light soy sauce",
-            "2 tsp Shaoxing rice wine or dry sherry",
-            "1 tsp sesame oil",
-            "2 tsp cornflour"
-        ],
-        "For the garnish": [
-            "handful fresh coriander sprigs"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Cut the pork into thin strips about 5cm/2in long. In a medium bowl, combine the marinade ingredients. Add the pork, mix well and leave to marinate at room temperature while you prepare the other ingredients. Drain, discarding the marinade.",
@@ -46,8 +51,9 @@
         "Add the pork and stir-fry for 3 minutes.",
         "Finally, add the pineapple, coriander, soy sauce and sugar and continue to stir-fry for 3 minutes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pineapple pork",
     "videos": "[]"
 }

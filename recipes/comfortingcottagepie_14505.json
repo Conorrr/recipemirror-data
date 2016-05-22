@@ -1,26 +1,35 @@
 {
-    "title": "Comforting cottage pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "108",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/comfortingcottagepie_14505_16x9.jpg"
-    ],
-    "description": "An easy twist on a classic dish. James Martin gives his topping a bit of oomph with parsnips and a dash of horseradish.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "An easy twist on a classic dish. James Martin gives his topping a bit of oomph with parsnips and a dash of horseradish.",
+    "dishes": [
+        "cottage_pie",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_brown_mince"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/comfortingcottagepie_14505_16x9.jpg"
+    ],
     "ingredients": {
+        "For the topping": [
+            "750g/1\u00bd lb potatoes, peeled and chopped",
+            "225g/8oz parsnips, peeled and chopped",
+            "2 tsp creamed horseradish",
+            "75g/2\u00bdoz butter",
+            "55ml/2fl oz milk"
+        ],
         "default": [
             "1 tbsp oil",
             "1 large onion chopped",
@@ -32,14 +41,13 @@
             "fresh thyme leaves from 1 sprig",
             "2 tbsp tomato pur\u00e9e",
             "salt and freshly ground black pepper"
-        ],
-        "For the topping": [
-            "750g/1\u00bd lb potatoes, peeled and chopped",
-            "225g/8oz parsnips, peeled and chopped",
-            "2 tsp creamed horseradish",
-            "75g/2\u00bdoz butter",
-            "55ml/2fl oz milk"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "108",
+    "serves": "Serves 4",
+    "show": {
+        "p0077hsg": "Housecall"
     },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5.",
@@ -50,8 +58,9 @@
         "Meanwhile, to make the topping, boil the potatoes and parsnips in water until soft. Drain and mash with the butter and milk. Stir in the horseradish and season with salt and pepper.",
         "Spoon the meat into an ovenproof dish. Top with the mash and bake for 30 minutes until golden brown."
     ],
-    "howTos": [
-        "how_to_brown_mince"
+    "tips": [
+        
     ],
+    "title": "Comforting cottage pie",
     "videos": "[]"
 }

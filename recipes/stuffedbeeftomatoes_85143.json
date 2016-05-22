@@ -1,26 +1,29 @@
 {
-    "title": "Stuffed beef tomatoes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "salad",
+        "stuffing"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "mixed salad leaves and herbs",
+            "vinaigrette dressing"
+        ],
         "default": [
             "2 beef tomatoes, skinned",
             "salt and freshly ground black pepper",
@@ -29,11 +32,13 @@
             "1 tbsp chopped fresh parsley",
             "1 tsp crushed garlic",
             "125g/4oz butter, melted"
-        ],
-        "To serve": [
-            "mixed salad leaves and herbs",
-            "vinaigrette dressing"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/355F/Gas 4.",
@@ -42,8 +47,9 @@
         "Remove the tomatoes from the oven and stuff each with equal amounts of the stuffing mixture. Drizzle with more oil and return to the oven to cook for five more minutes, or until the stuffing is heated through.",
         "Serve each stuffed tomato on a plate with a bed of fresh herb salad with dressed with vinaigrette of your choice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Stuffed beef tomatoes",
     "videos": "[]"
 }

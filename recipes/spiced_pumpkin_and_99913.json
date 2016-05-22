@@ -1,26 +1,34 @@
 {
-    "title": "Spiced pumpkin and beetroot cake with cream cheese frosting",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 cake",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Adding grated beetroot and squash makes for a really moist, flavourful cake that's full of vitamins.",
     "author": {
         "ed_baines": "Ed Baines"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Adding grated beetroot and squash makes for a really moist, flavourful cake that's full of vitamins.",
+    "dishes": [
+        "cake",
+        "icing",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_line_a_rectangular_cake_tin",
+        "testing_to_see_if_a_cake_is_cooked"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the frosting": [
+            "200g/7oz cream cheese, softened",
+            "85g/3oz butter, softened",
+            "100g/3\u00bdoz icing sugar, sifted",
+            "3 free-range eggs, whites only (use pasteurised egg whites if serving to pregnant women, children or the elderly)",
+            "1\u00bd oranges, zest and juice",
+            "2 tbsp golden syrup"
+        ],
         "default": [
             "300g/10\u00bdoz self-raising flour",
             "300g/10\u00bdoz light muscovado sugar",
@@ -36,15 +44,13 @@
             "1 tbsp golden syrup",
             "100g/3\u00bdoz grated beetroot, a mixture of yellow and striped varieties",
             "400g/14oz (peeled weight) pumpkin or butternut squash, grated"
-        ],
-        "For the frosting": [
-            "200g/7oz cream cheese, softened",
-            "85g/3oz butter, softened",
-            "100g/3\u00bdoz icing sugar, sifted",
-            "3 free-range eggs, whites only (use pasteurised egg whites if serving to pregnant women, children or the elderly)",
-            "1\u00bd oranges, zest and juice",
-            "2 tbsp golden syrup"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 1 cake",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
     },
     "steps": [
         "Preheat oven to 180C/350F/Gas 4.",
@@ -57,9 +63,9 @@
         "Heat the orange juice and golden syrup. Prick the cake all over with a skewer and drizzle with the orange syrup while the cake is still warm, then leave it to cool completely.",
         "Using a palette knife spread the frosting over the top the cake. Decorate with the orange zest, and serve."
     ],
-    "howTos": [
-        "how_to_line_a_rectangular_cake_tin",
-        "testing_to_see_if_a_cake_is_cooked"
+    "tips": [
+        
     ],
+    "title": "Spiced pumpkin and beetroot cake with cream cheese frosting",
     "videos": "[]"
 }

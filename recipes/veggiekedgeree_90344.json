@@ -1,24 +1,25 @@
 {
-    "title": "Veggie kedgeree",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "6",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/veggiekedgeree_90344_16x9.jpg"
-    ],
-    "description": "Veggie black pudding is worth seeking out for a really special breakfast treat. Combine with hard boiled eggs and savoury rice.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Veggie black pudding is worth seeking out for a really special breakfast treat. Combine with hard boiled eggs and savoury rice.",
+    "dishes": [
+        "curry",
+        "kedgeree",
+        "risotto",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/veggiekedgeree_90344_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,6 +36,12 @@
             "pinch freshly ground nutmeg"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "5",
+    "serves": "6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Melt the butter in a pan over a medium heat. Add the onion and fry until soft.",
         "Add the rice and stir until the rice becomes translucent.",
@@ -43,8 +50,9 @@
         "Add the hard boiled eggs, fried black pudding, cooked lentils, coriander and coconut and gently stir until combined and warmed through.",
         "To serve, spoon equal portions of the kedgeree into bowls and top with a little freshly grated nutmeg."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Veggie kedgeree",
     "videos": "[]"
 }

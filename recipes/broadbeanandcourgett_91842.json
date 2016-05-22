@@ -1,26 +1,30 @@
 {
-    "title": "Broad bean and courgette pilaf",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "7",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/broadbeanandcourgett_91842_16x9.jpg"
-    ],
-    "description": "Savour the summer until every pod is popped with this delicious broad bean recipe.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Savour the summer until every pod is popped with this delicious broad bean recipe.",
+    "dishes": [
+        "pie",
+        "pilaf",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/broadbeanandcourgett_91842_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "chopped fresh parsley",
+            "lemon juice",
+            "yoghurt"
+        ],
         "default": [
             "1 tsp cumin seeds",
             "1 tsp coriander seeds",
@@ -38,12 +42,13 @@
             "olive oil, for brushing",
             "salt and freshly ground black pepper",
             "50g/2oz butter"
-        ],
-        "To serve": [
-            "chopped fresh parsley",
-            "lemon juice",
-            "yoghurt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Heat a dry frying pan and add the cumin and coriander seeds. Fry over a medium heat, moving the spices around the pan frequently to prevent them from burning, for 2-3 minutes, or until aromatic and lightly browned. Transfer to a mortar and grind with a pestle.",
@@ -52,8 +57,9 @@
         "Meanwhile, heat a griddle pan until smoking. Brush the courgettes with the olive oil, season with salt and freshly ground black pepper then cook on the griddle for 2-3 minutes on both sides, or until charred and softened. Set aside.",
         "To serve, stir the butter into the pilaf until melted, then spoon into serving bowls and top with the griddled courgette pieces. Garnish with chopped fresh parsley, a squeeze of lemon juice and a dollop of yoghurt."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Broad bean and courgette pilaf",
     "videos": "[]"
 }

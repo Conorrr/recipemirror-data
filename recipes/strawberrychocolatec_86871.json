@@ -1,24 +1,23 @@
 {
-    "title": "Strawberry chocolate cheesecake",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2-3",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "biscuit",
+        "cheesecake",
+        "icing",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,6 +31,12 @@
             "5 strawberries, hulled and sliced, plus 3 whole strawberries"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2-3",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place a 7.5cm/3in chef's ring on a serving plate.",
         "In a bowl, mix one tablespoon of melted chocolate with the crushed biscuits and brandy and press into the base of the ring. Transfer to the fridge to chill.",
@@ -41,8 +46,9 @@
         "Fill the ring with some cream mixture and drizzle with some of the melted chocolate. Remove the ring and garnish with the strawberries.",
         "Repeat the process until the cream mixture and chocolate sauce is used up."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Strawberry chocolate cheesecake",
     "videos": "[]"
 }

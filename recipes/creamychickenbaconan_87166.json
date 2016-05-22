@@ -1,24 +1,23 @@
 {
-    "title": "Creamy chicken, bacon and basil pasta",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "131",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/creamychickenbaconan_87166_16x9.jpg"
-    ],
-    "description": "Looking for a quick supper? This easy chicken pasta recipe ticks all the boxes.",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Looking for a quick supper? This easy chicken pasta recipe ticks all the boxes.",
+    "dishes": [
+        "jam",
+        "pasta",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/creamychickenbaconan_87166_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -33,6 +32,12 @@
             "200g/7oz cheddar or Parmesan, grated, plus extra to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "131",
+    "serves": "Serves 4",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Cook the pasta according to packet instructions in a pan of salted boiling water, then drain.",
         "Heat the olive oil in a frying pan, add the chicken strips and bacon and cook for 3-4 minutes, or until the chicken is golden-brown and cooked through.",
@@ -40,8 +45,9 @@
         "Add the creamy sauce to the cooked, drained pasta and stir well.",
         "To serve, stir in the basil and cheddar spoon onto serving plates. Garnish with extra grated cheese and basil leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Creamy chicken, bacon and basil pasta",
     "videos": "[]"
 }

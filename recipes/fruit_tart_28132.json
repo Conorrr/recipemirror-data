@@ -1,35 +1,28 @@
 {
-    "title": "Fruit tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 1 large tart",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A deep-filled fruit tart topped with summer fruits and champagne jelly.",
     "author": {
         "galton_blackiston": "Galton Blackiston"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A deep-filled fruit tart topped with summer fruits and champagne jelly.",
+    "dishes": [
+        "champ",
+        "fruit_tart",
+        "jelly",
+        "oven-baked_dishes",
+        "pastry",
+        "quiche",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sweet pastry": [
-            "250g/9oz plain flour",
-            "75g/2\u00bdoz caster sugar",
-            "pinch salt",
-            "1 vanilla pod, seeds only",
-            "150g/5\u00bdoz unsalted butter, softened",
-            "1 free-range egg, lightly beaten",
-            "1 tbsp milk"
-        ],
         "For the cr\u00e8me p\u00e2tissi\u00e8re": [
             "1 pint full-fat milk",
             "1 vanilla pod, split in half lengthways",
@@ -47,7 +40,22 @@
             "325ml/11fl oz pink champagne",
             "4 gelatine leaves, softened in cold water for 10 minutes",
             "75g/2\u00bdoz sugar"
+        ],
+        "For the sweet pastry": [
+            "250g/9oz plain flour",
+            "75g/2\u00bdoz caster sugar",
+            "pinch salt",
+            "1 vanilla pod, seeds only",
+            "150g/5\u00bdoz unsalted butter, softened",
+            "1 free-range egg, lightly beaten",
+            "1 tbsp milk"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Makes 1 large tart",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
     },
     "steps": [
         "For the pastry, place the flour, sugar, salt, vanilla seeds and butter in a food processor. Use the pulse setting to mix until combined. Add the beaten egg and milk, then pulse again until the dough comes together and leaves the sides of the bowl.",
@@ -62,8 +70,9 @@
         "For the jelly, warm half of the champagne in a pan over a low heat. Add the sugar and cook until melted, then add the softened gelatine and stir well. Pour in the rest of the champagne and stir. Transfer to the fridge to cool. When the jelly is nearly set spoon it over the fruit tart and smooth the surface.",
         "Chill in the fridge until the jelly has set completely."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fruit tart",
     "videos": "[]"
 }

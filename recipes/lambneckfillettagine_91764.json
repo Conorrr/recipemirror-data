@@ -1,26 +1,41 @@
 {
-    "title": "Lamb neck fillet tagine with tabbouleh",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "15",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "North_African",
+    "description": "",
+    "dishes": [
+        "bun",
+        "jam",
+        "lamb_tagine",
+        "pie",
+        "stir-fries",
+        "stock",
+        "tagine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the tabbouleh": [
+            "175g/6oz bulgar wheat",
+            "700ml/1 pint 5fl oz chicken stock",
+            "2 small red onions, peeled, finely chopped",
+            "300g/10\u00bdoz pistachio nuts, shells removed, roughly chopped",
+            "1 lemon, juice only",
+            "3 tbsp extra virgin olive oil",
+            "5 tbsp chopped fresh flatleaf parsley",
+            "5 tbsp chopped fresh coriander leaves",
+            "5 tbsp chopped fresh mint",
+            "salt and freshly ground black pepper"
+        ],
         "For the tagine": [
             "1 tsp ras-el-hanout",
             "\u00bd tsp ground cinnamon",
@@ -42,19 +57,13 @@
             "75g/2\u00bdoz whole almonds",
             "1 small bunch fresh coriander",
             "salt and freshly ground black pepper"
-        ],
-        "For the tabbouleh": [
-            "175g/6oz bulgar wheat",
-            "700ml/1 pint 5fl oz chicken stock",
-            "2 small red onions, peeled, finely chopped",
-            "300g/10\u00bdoz pistachio nuts, shells removed, roughly chopped",
-            "1 lemon, juice only",
-            "3 tbsp extra virgin olive oil",
-            "5 tbsp chopped fresh flatleaf parsley",
-            "5 tbsp chopped fresh coriander leaves",
-            "5 tbsp chopped fresh mint",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "15",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the lamb tagine, mix the ras-el-hanout, ground cinnamon, ground ginger, smoked sweet paprika, ground cumin, freshly ground black pepper and ground turmeric together in a bowl. Add the lamb neck fillet pieces and turn in the mixture to evenly coat.",
@@ -66,8 +75,9 @@
         "Remove from the heat and allow to cool slightly, then transfer the bulgar wheat to a bowl. Add the red onion, pistachios, lemon juice, olive oil and herbs and mix well. Season, to taste, with salt and freshly ground black pepper.",
         "To serve, divide the tabbouleh among four serving plates, then spoon the lamb neck fillet tagine alongside. Chop the reserved coriander leaves and sprinkle over the tagine."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb neck fillet tagine with tabbouleh",
     "videos": "[]"
 }

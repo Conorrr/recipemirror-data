@@ -1,23 +1,22 @@
 {
-    "title": "Broad bean and Little Gem salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "This is such a lovely fresh tasting salad, ideal for a summer buffet or alfresco meal. For meat eaters, add six rashers of crispy fried, crumbled bacon.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "p01s4q10": "Mary Berry Cooks"
-    },
-    "tips": [
-        "Look for Parmesan-style cheese made without animal rennet if serving vegetarians."
+    "cookTime": "10 to 30 mins",
+    "description": "This is such a lovely fresh tasting salad, ideal for a summer buffet or alfresco meal. For meat eaters, add six rashers of crispy fried, crumbled bacon.",
+    "dishes": [
+        "bread",
+        "crumble",
+        "jam",
+        "salad"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -26,11 +25,6 @@
             "6 tbsp olive oil",
             "salt and pepper"
         ],
-        "For the salad": [
-            "300g/10oz frozen baby broad beans",
-            "6 Little Gem lettuces",
-            "100g/3\u00bdoz parmesan cheese, or vegetarian hard cheese, cut into shavings with a vegetable peeler"
-        ],
         "For the mustard dressing": [
             "3 tbsp Dijon mustard",
             "5 tbsp white wine vinegar",
@@ -38,7 +32,18 @@
             "5 tbsp double or single cream",
             "1 rounded tbsp caster sugar",
             "salt and pepper"
+        ],
+        "For the salad": [
+            "300g/10oz frozen baby broad beans",
+            "6 Little Gem lettuces",
+            "100g/3\u00bdoz parmesan cheese, or vegetarian hard cheese, cut into shavings with a vegetable peeler"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 10",
+    "show": {
+        "p01s4q10": "Mary Berry Cooks"
     },
     "steps": [
         "For the croutons, preheat the grill to hot. Cut the crusts off the bread and discard. Cut the bread into even-sized small cubes. Sit a plastic bag in a bowl, pour in the oil and season with salt and pepper.",
@@ -47,8 +52,9 @@
         "Trim the very ends off of the Little Gem lettuces but keep the root intact. Slice each lettuce into six wedges. Arrange on a platter, scatter with beans and parmesan and season with salt and pepper.",
         "For the mustard dressing, measure all of the dressing ingredients into a clean jam jar, season with salt and pepper and seal with a lid and shake until combined. Pour over the dressing, toss and serve."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Look for Parmesan-style cheese made without animal rennet if serving vegetarians."
     ],
+    "title": "Broad bean and Little Gem salad",
     "videos": "[]"
 }

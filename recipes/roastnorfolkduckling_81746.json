@@ -1,26 +1,39 @@
 {
-    "title": "Roast Norfolk duckling with orange served with bubble and squeak",
-    "cookTime": "over 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "galton_blackiston": "Galton Blackiston"
     },
-    "show": {
-        "b0071y6r": "Great British Menu"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "gravy",
+        "marmalade",
+        "oven-baked_dishes",
+        "pie",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "de-glazing_pans",
+        "scoring_skin",
+        "segmenting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the bubble and squeak": [
+            "3 large baking potatoes",
+            "450g/1lb swede, cubed",
+            "350g/12oz parsnips, chopped",
+            "1 Savoy cabbage, leaves separated and centre stalks removed",
+            "225g/8oz salted butter",
+            "3 medium onions, thinly sliced",
+            "1 clove garlic, chopped",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "1 duckling, about 1.8kg/4lb, with giblets",
             "olive oil, for frying",
@@ -35,17 +48,13 @@
             "2 tbsp runny marmalade",
             "a little butter",
             "1 orange, peeled and segmented"
-        ],
-        "For the bubble and squeak": [
-            "3 large baking potatoes",
-            "450g/1lb swede, cubed",
-            "350g/12oz parsnips, chopped",
-            "1 Savoy cabbage, leaves separated and centre stalks removed",
-            "225g/8oz salted butter",
-            "3 medium onions, thinly sliced",
-            "1 clove garlic, chopped",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b0071y6r": "Great British Menu"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -64,10 +73,9 @@
         "Chop the duck liver and fry in a little butter. Carefully take the breasts off the bone, then add the liver to the gravy and warm through the gravy.",
         "To serve, slice the duck breasts diagonally and arrange on four warmed plates with the meat from the legs alongside the vegetables. Add the orange segments to the gravy and spoon over the duck."
     ],
-    "howTos": [
-        "de-glazing_pans",
-        "scoring_skin",
-        "segmenting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Roast Norfolk duckling with orange served with bubble and squeak",
     "videos": "[]"
 }

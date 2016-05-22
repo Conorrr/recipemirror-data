@@ -1,38 +1,43 @@
 {
-    "title": "Stuffed nectarines",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A simple baked fruit dessert with tangy mascarpone and spicy ginger nuts.",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "A simple baked fruit dessert with tangy mascarpone and spicy ginger nuts.",
+    "dishes": [
+        "biscuit",
+        "oven-baked_dishes",
+        "quenelle",
+        "stuffing"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "2 tbsp mascarpone cheese",
+            "2 tbsp double cream",
+            "1 sprig fresh mint"
+        ],
         "default": [
             "4 ginger nut biscuits",
             "1 free-range egg yolk",
             "25g/1oz butter",
             "1 tbsp brown sugar",
             "1 nectarine, halved, stone removed"
-        ],
-        "To serve": [
-            "2 tbsp mascarpone cheese",
-            "2 tbsp double cream",
-            "1 sprig fresh mint"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -40,8 +45,9 @@
         "Place the nectarine halves on a baking tray, cut side up, and spoon the biscuit mixture inside. Bake in the oven for 6-8 minutes, or until the nectarines are tender and the stuffing is golden-brown and crisp.",
         "Whip the mascarpone cheese together with the cream until smooth and creamy. Using two spoons, form the mixture into quenelles and place on top of the nectarine halves. Garnish with a sprig of mint."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Stuffed nectarines",
     "videos": "[]"
 }

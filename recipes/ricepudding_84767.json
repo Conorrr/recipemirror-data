@@ -1,24 +1,22 @@
 {
-    "title": "Rice pudding",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "risotto",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,13 +27,20 @@
             "1 vanilla pod, seeds scraped out"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place all of the ingredients into a saucepan, bring to a simmer and cook for 12 minutes, or until the rice has absorbed the liquid and has softened.",
         "Discard the vanilla pod and leave the rice to cool slightly.",
         "To serve, pour the rice pudding into a serving bowl."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Rice pudding",
     "videos": "[]"
 }

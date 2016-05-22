@@ -1,37 +1,35 @@
 {
-    "title": "Deep-fried halloumi with potato r\u00f6stis",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Serve up juicy slices of crisp halloumi with a homemade tartare sauce.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Serve up juicy slices of crisp halloumi with a homemade tartare sauce.",
+    "dishes": [
+        "mayonnaise",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the batter": [
+            "225g/8oz plain flour",
+            "1 free-range egg, separated",
+            "300ml/10\u00bdfl oz fridge-cold lager"
+        ],
         "For the halloumi": [
             "2 x 250g/9oz blocks halloumi, cut into 1cm/\u00bdin slices",
             "200ml/7fl oz buttermilk",
             "plain flour, for dusting",
             "vegetable oil, for deep frying",
             "salt and freshly ground black pepper"
-        ],
-        "For the batter": [
-            "225g/8oz plain flour",
-            "1 free-range egg, separated",
-            "300ml/10\u00bdfl oz fridge-cold lager"
         ],
         "For the r\u00f6sti": [
             "2 large baking potatoes, grated",
@@ -47,6 +45,12 @@
             "lemon wedges, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Marinate the halloumi in the buttermilk for at least 20 minutes.",
         "To make the batter, sift the flour into a large bowl and add the egg yolk. Whisk in the lager gradually and add 125ml/4\u00bdoz ice-cold water until well combined.",
@@ -59,8 +63,9 @@
         "For the tartare sauce, stir the capers, gherkins, dill and lemon in a bowl, add the mayonnaise and mix until well combined.",
         "Serve the halloumi on top of a rosti with a spoonful of tartare sauce and a lemon wedge on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Deep-fried halloumi with potato r\u00f6stis",
     "videos": "[]"
 }

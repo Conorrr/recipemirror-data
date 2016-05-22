@@ -1,31 +1,25 @@
 {
-    "title": "Aged sirloin steak with Thai salad and toasted hazelnuts",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This steak recipe works as a quick and easy midweek supper or a dinner party main. If you'd rather not use an aged sirloin steak, one that hasn't been aged will work well, too.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "This steak recipe works as a quick and easy midweek supper or a dinner party main. If you'd rather not use an aged sirloin steak, one that hasn't been aged will work well, too.",
+    "dishes": [
+        "jam",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_cook_steak"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 x 300g/10\u00bdoz aged sirloin steaks",
-            "4 tbsp olive oil",
-            "salt and freshly ground black pepper"
-        ],
         "For the Thai salad": [
             "\u00bc red cabbage, thinly sliced",
             "1 small red onion, thinly sliced",
@@ -49,7 +43,18 @@
         "To serve": [
             "2 tbsp toasted hazelnuts, roughly chopped",
             "1 lime, halved"
+        ],
+        "default": [
+            "4 x 300g/10\u00bdoz aged sirloin steaks",
+            "4 tbsp olive oil",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Season the steaks with salt and pepper and rub the oil all over. Heat a griddle pan and cook the steaks to your liking. Remove from the heat, and leave to rest for around the same time you cooked it for.",
@@ -57,8 +62,9 @@
         "Put all the ingredients for the dressing into a pestle and mortar and pound to a rough paste. Just before serving, add the dressing to the salad and mix well.",
         "To serve, cut the steak into slices and lay on a serving dish. Add the salad over the slices of steak, and garnish with the chopped nuts and the lime on the side."
     ],
-    "howTos": [
-        "how_to_cook_steak"
+    "tips": [
+        
     ],
+    "title": "Aged sirloin steak with Thai salad and toasted hazelnuts",
     "videos": "[]"
 }

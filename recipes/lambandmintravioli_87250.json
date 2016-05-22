@@ -1,33 +1,29 @@
 {
-    "title": "Lamb and mint ravioli",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "pasta",
+        "pastry",
+        "ravioli",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading",
+        "rolling_pasta_dough"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pasta": [
-            "350g/12oz type '00' pasta flour",
-            "pinch salt",
-            "2 free-range eggs",
-            "3 free-range egg yolks",
-            "handful medium semolina flour, for dusting"
-        ],
         "For the filling": [
             "1 tbsp olive oil",
             "\u00bd onion, finely chopped",
@@ -35,6 +31,13 @@
             "375g/13oz minced lamb",
             "salt and freshly ground black pepper",
             "4 tbsp chopped fresh mint"
+        ],
+        "For the pasta": [
+            "350g/12oz type '00' pasta flour",
+            "pinch salt",
+            "2 free-range eggs",
+            "3 free-range egg yolks",
+            "handful medium semolina flour, for dusting"
         ],
         "For the sauce": [
             "1 tbsp olive oil",
@@ -48,6 +51,12 @@
             "2 sprigs fresh rosemary",
             "parmesan shavings, to serve"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the pasta, place the flour, salt, eggs and egg yolks into a food processor and pulse to form a loose ball of dough (you may need to pulse the mixture in batches unless you've got a big food processor).",
@@ -66,9 +75,9 @@
         "To cook the ravioli, bring a large pan of salted water to the boil, then carefully place the ravioli into the boiling water and cook for 3-4 minutes.",
         "To serve, place five ravioli onto each plate. Top with some of the sauce and sprinkle with parmesan shavings."
     ],
-    "howTos": [
-        "kneading",
-        "rolling_pasta_dough"
+    "tips": [
+        
     ],
+    "title": "Lamb and mint ravioli",
     "videos": "[]"
 }

@@ -1,26 +1,33 @@
 {
-    "title": "Pot-roasted chicken with vegetables and a cauliflower pur\u00e9e",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "In this dish the garlic subtly flavours the chicken thanks to being blanched before added to the pot. Serve alongside delicious vegetables and a cauliflower pur\u00e9e for an extra special Sunday roast.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "In this dish the garlic subtly flavours the chicken thanks to being blanched before added to the pot. Serve alongside delicious vegetables and a cauliflower pur\u00e9e for an extra special Sunday roast.",
+    "dishes": [
+        "bun",
+        "casserole",
+        "gravy",
+        "jam",
+        "oven-baked_dishes",
+        "roast_chicken",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "carving_poultry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cauliflower pur\u00e9e": [
+            "1 cauliflower, leaves removed and cut into florets",
+            "500ml/18fl oz milk"
+        ],
         "For the pot-roasted chicken with garlic": [
             "1 garlic bulb, cloves peeled",
             "2 tbsp olive oil",
@@ -32,16 +39,18 @@
             "1.25kg/2lb 12oz whole chicken",
             "500ml/18fl oz chicken stock"
         ],
-        "For the cauliflower pur\u00e9e": [
-            "1 cauliflower, leaves removed and cut into florets",
-            "500ml/18fl oz milk"
-        ],
         "For the vegetables": [
             "1 bunch baby beetroots",
             "1 bunch baby heritage carrots, trimmed",
             "50g/1\u00beoz unsalted butter",
             "1 head of kale"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 180C/Gas 4.",
@@ -54,8 +63,9 @@
         "Leave the chicken to rest covered in foil. Strain the liquid left in the casserole into a saucepan and reduce over a medium heat until you have the consistency of gravy.",
         "Carve the chicken and place on plates with the vegetables. Pour over the gravy and serve."
     ],
-    "howTos": [
-        "carving_poultry"
+    "tips": [
+        
     ],
+    "title": "Pot-roasted chicken with vegetables and a cauliflower pur\u00e9e",
     "videos": "[]"
 }

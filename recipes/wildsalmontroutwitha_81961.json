@@ -1,26 +1,31 @@
 {
-    "title": "Wild salmon trout with asparagus, peas and a citrus butter vinaigrette",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b0071y6r": "Great British Menu"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "skimming_stock",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the citrus butter vinaigrette": [
+            "2 tbsp finely chopped shallots",
+            "150ml/5\u00bdfl oz dry white wine",
+            "1 tsp grated lemon zest",
+            "150g/5\u00bdoz unsalted butter",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "1 large fillet of wild salmon trout, about 500g/1lb 2oz",
             "2 tbsp light olive oil",
@@ -30,14 +35,13 @@
             "1 leek, sliced into 1cm/\u00bdin slices",
             "handful pea shoots (optional)",
             "salt and freshly ground white pepper"
-        ],
-        "For the citrus butter vinaigrette": [
-            "2 tbsp finely chopped shallots",
-            "150ml/5\u00bdfl oz dry white wine",
-            "1 tsp grated lemon zest",
-            "150g/5\u00bdoz unsalted butter",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b0071y6r": "Great British Menu"
     },
     "steps": [
         "Check the fish for bones, removing any you find, and carefully scale the skin side with a blunt serrated knife. Rinse and pat dry. Cut into four portions and carefully make four or five shallow incisions in the skin of each portion using a very sharp knife. Brush liberally with light olive oil set aside.",
@@ -47,9 +51,9 @@
         "While the fish is cooking, cook the asparagus, peas and leeks in a pan of boiling salted water until just tender. Drain thoroughly.",
         "To serve, scatter the pea shoots (if using) in with the hot vegetables and spoon into the centre of each warmed plate. Spoon over the warm butter vinaigrette, and top with the fillets of fish."
     ],
-    "howTos": [
-        "skimming_stock",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Wild salmon trout with asparagus, peas and a citrus butter vinaigrette",
     "videos": "[]"
 }

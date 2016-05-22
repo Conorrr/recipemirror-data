@@ -1,36 +1,28 @@
 {
-    "title": "New season lamb with a herb and mustard crust and scallion crushed potatoes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b0071y6r": "Great British Menu"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "600g/1lb 5oz or 4 x 150g/5\u00bdoz boneless loin of lamb, trimmed of fat and silverskin",
-            "salt and freshly ground black pepper",
-            "4 tbsp light olive oil",
-            "6 tbsp fresh breadcrumbs",
-            "1 tsp roughly chopped thyme",
-            "1 tbsp chopped parsley",
-            "1 tbsp smooth strong Dijon mustard",
-            "1 tbsp wholegrain Dijon mustard"
-        ],
         "For the sauce": [
             "300ml/10fl oz good brown lamb stock, made from bones and trimmings",
             "pinch of thyme leaves",
@@ -49,7 +41,23 @@
             "seasonal vegetables, blanched, such as new carrots, lettuce, broad beans and girolle mushrooms",
             "salt and freshly ground black pepper",
             "fresh parsley sprigs"
+        ],
+        "default": [
+            "600g/1lb 5oz or 4 x 150g/5\u00bdoz boneless loin of lamb, trimmed of fat and silverskin",
+            "salt and freshly ground black pepper",
+            "4 tbsp light olive oil",
+            "6 tbsp fresh breadcrumbs",
+            "1 tsp roughly chopped thyme",
+            "1 tbsp chopped parsley",
+            "1 tbsp smooth strong Dijon mustard",
+            "1 tbsp wholegrain Dijon mustard"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b0071y6r": "Great British Menu"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -62,8 +70,9 @@
         "Heat a little oil in a pan and saut\u00e9 the blanched carrots, lettuce and broad beans with the girolles for a few minutes. Season to taste with salt and freshly ground black pepper.",
         "To serve, spoon the vegetable garnishes and some of the crushed potatoes onto the warmed plates. Slice the lamb, allowing three thick slices for each person, and place on the potatoes. Spoon over the sauce and garnish with fresh parsley."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "New season lamb with a herb and mustard crust and scallion crushed potatoes",
     "videos": "[]"
 }

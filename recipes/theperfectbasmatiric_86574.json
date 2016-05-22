@@ -1,24 +1,21 @@
 {
-    "title": "The perfect basmati rice",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "The basic rule is one part rice to one and a half parts water, but the longer you soak it the less time it needs.",
     "author": {
         "anjum_anand": "Anjum Anand"
     },
-    "show": {
-        "b007szxr": "Indian Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "The basic rule is one part rice to one and a half parts water, but the longer you soak it the less time it needs.",
+    "dishes": [
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "how_to_cook_perfect_rice"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -27,14 +24,21 @@
             "\u00bd tsp lemon juice (optional)"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b007szxr": "Indian Food Made Easy"
+    },
     "steps": [
         "Drain the rice and place it into a pot with the fresh water. Bring to the boil.",
         "Add the lemon juice to the water and stir thoroughly. Cover the pan with a lid before reducing the heat. Simmer gently for 7-8 minutes",
         "When the rice is cooked remove the lid and take the pan off the heat. Leave the rice to stand for five minutes to allow excess moisture to leave the pan.",
         "To serve, fluff the rice using a fork before placing a spoonful on each of four serving plates."
     ],
-    "howTos": [
-        "how_to_cook_perfect_rice"
+    "tips": [
+        
     ],
+    "title": "The perfect basmati rice",
     "videos": "[]"
 }

@@ -1,24 +1,23 @@
 {
-    "title": "Summer fruit smoothie",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2-3",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/summer_fruit_smoothie_22742_16x9.jpg"
-    ],
-    "description": "Smoothies are not as sweet as milkshakes and are a little healthier too. If you like yours sweeter, just add more icing sugar. To enjoy this smoothie all year round try it with frozen berries.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "p01s4q10": "Mary Berry Cooks"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Smoothies are not as sweet as milkshakes and are a little healthier too. If you like yours sweeter, just add more icing sugar. To enjoy this smoothie all year round try it with frozen berries.",
+    "dishes": [
+        "icing",
+        "milkshake",
+        "pie",
+        "smoothie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/summer_fruit_smoothie_22742_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -31,12 +30,19 @@
             "1 tbsp icing sugar, to taste"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2-3",
+    "show": {
+        "p01s4q10": "Mary Berry Cooks"
+    },
     "steps": [
         "Measure all the ingredients into a food processor and whiz until smooth. Alternatively use a hand-held blender.",
         "Pour into a tall cool glass and enjoy."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Summer fruit smoothie",
     "videos": "[]"
 }

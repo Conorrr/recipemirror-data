@@ -1,26 +1,31 @@
 {
-    "title": "Passion fruit and custard souffl\u00e9",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b00728v4": "Sweet Baby James"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "custard",
+        "jam",
+        "oven-baked_dishes",
+        "souffle"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the bananas (optional)": [
+            "25g/1oz butter",
+            "1 tbsp caster sugar",
+            "2 medium bananas, peeled and halved lengthways"
+        ],
         "For the souffl\u00e9": [
             "butter, for greasing",
             "2 tbsp caster sugar",
@@ -28,15 +33,16 @@
             "120ml/4fl oz fresh ready-made custard",
             "1 passion fruit, halved, seeds and pulp scraped out"
         ],
-        "For the bananas (optional)": [
-            "25g/1oz butter",
-            "1 tbsp caster sugar",
-            "2 medium bananas, peeled and halved lengthways"
-        ],
         "To serve": [
             "vanilla ice cream",
             "few sprigs fresh mint"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b00728v4": "Sweet Baby James"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease two ramekin dishes with butter and sprinkle with one tablespoon of the caster sugar.",
@@ -46,9 +52,9 @@
         "Meanwhile, for the bananas, heat the butter in a non-stick pan until it turns slightly brown. Add the sugar and the bananas and cook, stirring frequently, until the bananas are golden-brown all over.",
         "To serve, place the souffl\u00e9s onto serving plates in their ramekin dishes. Place the bananas alongside and serve with a scoop of vanilla ice cream. Garnish with fresh mint."
     ],
-    "howTos": [
-        "folding",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Passion fruit and custard souffl\u00e9",
     "videos": "[]"
 }

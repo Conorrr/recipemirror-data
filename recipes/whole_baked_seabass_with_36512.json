@@ -1,34 +1,26 @@
 {
-    "title": "Steamed sea bass with a rice noodle salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/whole_baked_seabass_with_36512_16x9.jpg"
-    ],
-    "description": "Delicious sea bass steamed with greens and a salad packed with oriental flavour.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "Delicious sea bass steamed with greens and a salad packed with oriental flavour.",
+    "dishes": [
+        "jam",
+        "pie",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/whole_baked_seabass_with_36512_16x9.jpg"
+    ],
     "ingredients": {
-        "For the sea bass": [
-            "4 bok choi, cut into halves",
-            "2 sea bass fillets, skin on",
-            "2cm/1in knob fresh root ginger, thinly sliced",
-            "2 sticks lemongrass, bruised and chopped in half",
-            "2 tbsp sesame oil",
-            "2 tbsp soy sauce"
-        ],
         "For the rice noodle salad": [
             "250g/9oz rice noodles",
             "4 spring onions, trimmed and thinly sliced",
@@ -41,7 +33,21 @@
             "2 tbsp rice wine vinegar",
             "2 tbsp lime juice",
             "1 tbsp vegetable oil"
+        ],
+        "For the sea bass": [
+            "4 bok choi, cut into halves",
+            "2 sea bass fillets, skin on",
+            "2cm/1in knob fresh root ginger, thinly sliced",
+            "2 sticks lemongrass, bruised and chopped in half",
+            "2 tbsp sesame oil",
+            "2 tbsp soy sauce"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the sea bass, heat a pan of water and place a steamer on top. Take a piece of foil. Scrunch up the edges to make a circle with a wall round the edge. Make it the right size to fit into the steamer.",
@@ -52,8 +58,9 @@
         "Just before serving dress the noodle salad and mix.",
         "To serve, place some of the noodles on each serving plate. Lift the fillets from the steamer and place them on top of the noodles. Pour the sauce from the foil into the pestle and mortar and mix it, then pour some over the fish."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steamed sea bass with a rice noodle salad",
     "videos": "[]"
 }

@@ -1,32 +1,27 @@
 {
-    "title": "Eccles cakes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/eccles_cakes_75687_16x9.jpg"
-    ],
-    "description": "This recipe takes the humble Eccles cake to another level with sherry-soaked currants, chopped peel and spices.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b03qgyqf": "The Great Sport Relief Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "This recipe takes the humble Eccles cake to another level with sherry-soaked currants, chopped peel and spices.",
+    "dishes": [
+        "cake",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/eccles_cakes_75687_16x9.jpg"
+    ],
     "ingredients": {
-        "For the rough puff pastry": [
-            "225g/8oz plain flour",
-            "\u00bd tsp salt",
-            "200g/7oz chilled butter, cubed",
-            "\u00bd lemon, juice only"
-        ],
         "For the filling": [
             "115g/4oz currants",
             "3 tbsp Pedro Xim\u00e9nez sherry",
@@ -39,10 +34,22 @@
             "1 lemon, zest only",
             "1 tsp lemon juice"
         ],
+        "For the rough puff pastry": [
+            "225g/8oz plain flour",
+            "\u00bd tsp salt",
+            "200g/7oz chilled butter, cubed",
+            "\u00bd lemon, juice only"
+        ],
         "To assemble": [
             "1 free-range egg white",
             "a little caster sugar"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        "b03qgyqf": "The Great Sport Relief Bake Off"
     },
     "steps": [
         "For the pastry, sift the flour and salt into a large bowl and add the butter. Mix the butter around with a large metal spoon to coat it in flour. Be careful to keep the butter in lumps.",
@@ -60,8 +67,9 @@
         "To assemble, in a bowl, beat the egg white lightly with a fork, until frothy. Brush the tops of the cakes with this and sprinkle with sugar. With a sharp knife, make three small parallel cuts on the top.",
         "Bake for 20 minutes, or until the pastry is lightly browned and puffed up."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Eccles cakes",
     "videos": "[]"
 }

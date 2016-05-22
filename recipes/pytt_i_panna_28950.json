@@ -1,26 +1,33 @@
 {
-    "title": "Pytt i panna",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This dish translates as 'small pieces in a pan' and that's exactly what it is, lots of leftovers or bits and pieces from the fridge fried up in a pan. Serve with lingonberry jam for a true taste of Sweden.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b069hr3q": "The Hairy Bikers' Northern Exposure"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Nordic",
+    "description": "This dish translates as 'small pieces in a pan' and that's exactly what it is, lots of leftovers or bits and pieces from the fridge fried up in a pan. Serve with lingonberry jam for a true taste of Sweden.",
+    "dishes": [
+        "jam",
+        "pickle",
+        "pie",
+        "sausage",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "6 free-range egg yolks",
+            "few tablespoons chopped marjarom or oregano",
+            "lingonberry jam",
+            "few slices of pickled beetroot"
+        ],
         "default": [
             "650g/1lb 7oz potatoes, cut into1cm/\u00bdin dice",
             "1 large carrot, cut into \u00bdcm/\u00bcin cubes",
@@ -33,13 +40,13 @@
             "large sprig of thyme, leaves only",
             "100g/3\u00bdoz smoked sausages, diced",
             "30g/1oz dried mushrooms, soaked in 150ml/5fl oz just boiled water"
-        ],
-        "To serve": [
-            "6 free-range egg yolks",
-            "few tablespoons chopped marjarom or oregano",
-            "lingonberry jam",
-            "few slices of pickled beetroot"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        "b069hr3q": "The Hairy Bikers' Northern Exposure"
     },
     "steps": [
         "Bring a large pot of salted water to the boil. Add the potatoes and carrots. Boil for 5 minutes, then drain.",
@@ -50,8 +57,9 @@
         "Season with salt and pepper and cook for a further 5 minutes, until an undercrust has developed, then stir again, scraping up any brown bits on the base of the pan. Repeat, until the carrots and potatoes are completely cooked through and everything is well browned.",
         "Divide the mixture between 6 plates and top each serving with an egg yolk. Serve with a sprinkling of marjoram, lingonberry jam and some pickled beetroot."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pytt i panna",
     "videos": "[p033hrxh:p033hrxx]"
 }

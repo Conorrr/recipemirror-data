@@ -1,39 +1,46 @@
 {
-    "title": "Chicken with tarragon cream sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "22",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 breast of chicken",
-            "1 tbsp runny honey",
-            "vegetable oil",
-            "salt and black pepper"
-        ],
         "For the sauce": [
             "75ml/2\u00bdfl oz medium dry white wine",
             "150ml/5fl oz chicken stock",
             "2 sprigs tarragon",
             "150ml/5fl oz double cream",
             "2 tbsp chopped tarragon"
+        ],
+        "default": [
+            "4 breast of chicken",
+            "1 tbsp runny honey",
+            "vegetable oil",
+            "salt and black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "22",
+    "serves": "Serves 4",
+    "show": {
+        "p0077hsg": "Housecall"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -44,8 +51,9 @@
         "Stir in the cream, bring to the boil and allow to reduce a little before removing the sprig of tarragon and adding the fresh chopped herb.",
         "Adjust the seasoning and serve spooned over the chicken."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken with tarragon cream sauce",
     "videos": "[]"
 }

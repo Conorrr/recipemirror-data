@@ -1,34 +1,22 @@
 {
-    "title": "John Dory with asaparagus, chilli and orange salad",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Celebrate the flavour of John Dory by simply grilling it. Serve with a flavourful salad for a fabulous fuss-free supper.",
     "author": {
         "nathan_outlaw": "Nathan Outlaw"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Celebrate the flavour of John Dory by simply grilling it. Serve with a flavourful salad for a fabulous fuss-free supper.",
+    "dishes": [
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "segmenting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 red onions, thinly sliced using a mandoline",
-            "16 asparagus spears, woody parts removed, thinly sliced using a mandoline",
-            "4 red chillies, halved, seeds removed, thinly sliced",
-            "1 orange",
-            "4 x John Dory, about 500g/1lb 2oz each, gutted, filleted and skinned",
-            "sea salt and freshly ground black pepper"
-        ],
         "For the dressing": [
             "4 tbsp verjuice (available online)",
             "4 tbsp olive oil",
@@ -36,7 +24,21 @@
             "1 tbsp honey",
             "2 tbsp chopped coriander leaves",
             "2 tbsp chopped mint leaves"
+        ],
+        "default": [
+            "2 red onions, thinly sliced using a mandoline",
+            "16 asparagus spears, woody parts removed, thinly sliced using a mandoline",
+            "4 red chillies, halved, seeds removed, thinly sliced",
+            "1 orange",
+            "4 x John Dory, about 500g/1lb 2oz each, gutted, filleted and skinned",
+            "sea salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the grill to high.",
@@ -45,8 +47,9 @@
         "Meanwhile, for the dressing, whisk the ingredients together in a bowl and season with salt and pepper. Just before serving add half of the dressing to the asparagus salad and toss lightly. Taste and add more seasoning if required.",
         "To serve, divide most of the salad between warmed plates. Place a grilled fish fillet on top, arrange the remaining salad on the fish and drizzle over the reserved dressing. Serve immediately."
     ],
-    "howTos": [
-        "segmenting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "John Dory with asaparagus, chilli and orange salad",
     "videos": "[]"
 }

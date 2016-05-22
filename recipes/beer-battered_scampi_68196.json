@@ -1,32 +1,27 @@
 {
-    "title": "Beer-battered scampi with tartare sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "11",
-    "images": [
-        
-    ],
-    "description": "Meaty langoustine tails covered in a super-light and crispy batter with homemade tartare sauce.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Meaty langoustine tails covered in a super-light and crispy batter with homemade tartare sauce.",
+    "dishes": [
+        "mayonnaise",
+        "pie",
+        "sauce",
+        "seafood",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "16-20 wild Scottish scampi tails, peeled and thawed (if frozen)",
-            "4 tbsp plain flour",
-            "\u00bd tsp fine sea salt",
-            "lemon wedges, to serve"
-        ],
         "For the batter": [
             "75g/3oz cornflour",
             "200g/7oz plain flour",
@@ -46,7 +41,19 @@
             "50g/2oz mini gherkins (cornichons), drained and thinly sliced",
             "2 tbsp chopped fresh parsley",
             "1 tbsp chopped fresh tarragon"
+        ],
+        "default": [
+            "16-20 wild Scottish scampi tails, peeled and thawed (if frozen)",
+            "4 tbsp plain flour",
+            "\u00bd tsp fine sea salt",
+            "lemon wedges, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 4",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "For the tartare sauce, whisk the egg yolks, vinegar, mustard, sugar and salt in a bowl with a large metal whisk until well combined. Gradually add the oil, a few drops at a time, whisking until the mayonnaise is smooth and very thick.",
@@ -58,8 +65,9 @@
         "Remove the scampi and drain on kitchen paper. Keep warm. Bring the oil back to temperature, and cook the remaining tails in 2-3 more batches.",
         "Spoon the sauce into four small dishes \u2013 ramekins are good \u2013 and put on four warmed plates. Divide the scampi amongst them, add lemon wedges for squeezing and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beer-battered scampi with tartare sauce",
     "videos": "[]"
 }

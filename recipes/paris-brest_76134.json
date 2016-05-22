@@ -1,24 +1,28 @@
 {
-    "title": "Paris-Brest",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 4 Paris-Brest pastries",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "These decadent pastries filled with praline and cream are like giant profiteroles, perfect for sharing. For this recipe you will need: a food processor, a piping bag, a star nozzle and a silicone mat.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b03qgyqf": "The Great Sport Relief Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "These decadent pastries filled with praline and cream are like giant profiteroles, perfect for sharing. For this recipe you will need: a food processor, a piping bag, a star nozzle and a silicone mat.",
+    "dishes": [
+        "caramel",
+        "choux_pastry",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "praline",
+        "profiteroles"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "making_choux_pastry",
+        "whipping_cream"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the choux": [
@@ -30,15 +34,21 @@
             "4 medium free-range eggs, 3 lightly beaten and 1 for egg wash",
             "handful flaked almonds"
         ],
-        "For the praline": [
-            "200g/7oz caster sugar",
-            "100g/3\u00bdoz blanched hazelnuts"
-        ],
         "For the filling": [
             "600ml/20fl oz double cream",
             "1 vanilla pod, sliced in half lengthways and seeds scraped out",
             "icing sugar, to dust"
+        ],
+        "For the praline": [
+            "200g/7oz caster sugar",
+            "100g/3\u00bdoz blanched hazelnuts"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 4 Paris-Brest pastries",
+    "show": {
+        "b03qgyqf": "The Great Sport Relief Bake Off"
     },
     "steps": [
         "Preheat the oven to 220C/200C Fan/Gas 7. Line a baking sheet with baking parchment and draw 4 circles, about 10cm/4in across.",
@@ -51,9 +61,9 @@
         "For the filling, pour the cream into a large mixing bowl. Add the vanilla seeds and whip until soft peaks form when the whisk is removed. Spoon into a piping bag fitted with a star nozzle.",
         "Sprinkle half the praline onto the bottom halves of the choux rings, then pipe a generous amount of cream over the praline. Sprinkle the remaining praline over the cream and place the pastry lids on top. Dust with icing sugar and serve."
     ],
-    "howTos": [
-        "making_choux_pastry",
-        "whipping_cream"
+    "tips": [
+        
     ],
+    "title": "Paris-Brest",
     "videos": "[]"
 }

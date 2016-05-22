@@ -1,26 +1,45 @@
 {
-    "title": "Coffee and chestnut meringue cake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 8-10",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Rich chocolate cake is layered with gooey coffee and chestnut mousse and coated with soft meringue. A gloriously decadent treat.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Rich chocolate cake is layered with gooey coffee and chestnut mousse and coated with soft meringue. A gloriously decadent treat.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "crumble",
+        "icing",
+        "jam",
+        "meringue",
+        "mousse",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_make_italian_meringue",
+        "testing_to_see_if_a_cake_is_cooked"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Italian meringue": [
+            "225g/8oz caster sugar",
+            "100ml/3\u00bdfl oz water",
+            "4 free-range eggs, whites only",
+            "holly, to garnish"
+        ],
+        "For the chestnut mousse": [
+            "250g/9oz mascarpone",
+            "225g/8oz sweetened chestnut pur\u00e9e",
+            "300ml/10fl oz double cream",
+            "6-8 tbsp brandy",
+            "4-6 large meringue nests, crumbled"
+        ],
         "For the chocolate cake": [
             "12 free-range eggs",
             "350g/12oz caster sugar",
@@ -33,20 +52,13 @@
             "5 tbsp cold strong coffee",
             "3 tbsp icing sugar, sieved",
             "250g/9oz mascarpone, softened"
-        ],
-        "For the chestnut mousse": [
-            "250g/9oz mascarpone",
-            "225g/8oz sweetened chestnut pur\u00e9e",
-            "300ml/10fl oz double cream",
-            "6-8 tbsp brandy",
-            "4-6 large meringue nests, crumbled"
-        ],
-        "For the Italian meringue": [
-            "225g/8oz caster sugar",
-            "100ml/3\u00bdfl oz water",
-            "4 free-range eggs, whites only",
-            "holly, to garnish"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "5",
+    "serves": "Serves 8-10",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the chocolate cake, preheat the oven to 180C/350F/Gas 4. Lightly grease and line the base of a 25cm/10in loose-bottomed cake tin.",
@@ -69,9 +81,9 @@
         "Spread the Italian meringue over the sides and top of the sponge stack, forking the meringue to make little peaks.",
         "Using a blow torch, glaze the meringue until just golden-brown and garnish with holly."
     ],
-    "howTos": [
-        "how_to_make_italian_meringue",
-        "testing_to_see_if_a_cake_is_cooked"
+    "tips": [
+        
     ],
+    "title": "Coffee and chestnut meringue cake",
     "videos": "[]"
 }

@@ -1,26 +1,41 @@
 {
-    "title": "Murg adraki",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "15",
-    "images": [
-        
-    ],
-    "description": "The warmth and fragrance of ginger (adraki) is at the heart of this classic north Indian dish. Atul Kochhar\u2019s sophisticated version makes a smart main course for a dinner party.",
     "author": {
         "atul_kochhar": "Atul Kochhar"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Indian",
+    "description": "The warmth and fragrance of ginger (adraki) is at the heart of this classic north Indian dish. Atul Kochhar\u2019s sophisticated version makes a smart main course for a dinner party.",
+    "dishes": [
+        "caramel",
+        "chicken_curry",
+        "chutney",
+        "curry",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chicken": [
+            "4 chicken breasts, skin on",
+            "300g/10\u00bdoz chicken breast, minced",
+            "1 spring onion, chopped",
+            "2 tbsp ginger, finely chopped",
+            "pinch garam masala",
+            "salt, to taste",
+            "1 litre/1\u00be pints chicken stock",
+            "vegetable oil, for frying"
+        ],
         "For the chutney": [
             "2\u00bd tbsp rapeseed oil",
             "1 tsp cumin seeds",
@@ -36,15 +51,10 @@
             "\u00bd tsp mustard seeds",
             "5-6 curry leaves"
         ],
-        "For the chicken": [
-            "4 chicken breasts, skin on",
-            "300g/10\u00bdoz chicken breast, minced",
-            "1 spring onion, chopped",
-            "2 tbsp ginger, finely chopped",
-            "pinch garam masala",
-            "salt, to taste",
-            "1 litre/1\u00be pints chicken stock",
-            "vegetable oil, for frying"
+        "For the garnish": [
+            "fresh ginger , julienned and crisp-fried",
+            "Celery cress",
+            "Red shisho cress"
         ],
         "For the sauce": [
             "2 tbsp rapeseed oil",
@@ -56,12 +66,13 @@
             "2 tsp ground coriander",
             "1 tsp ground turmeric",
             "2 medium tomatoes, chopped"
-        ],
-        "For the garnish": [
-            "fresh ginger , julienned and crisp-fried",
-            "Celery cress",
-            "Red shisho cress"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "15",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the chutney, heat two tablespoons of the oil in a frying pan, fry the cumin seeds for 1-2 minutes then add the sesame seeds, ginger and green chilli and season with a little salt.",
@@ -78,8 +89,9 @@
         "When the tomatoes have softened, place the mixture in a food processor and blend to a fine paste, moistened with a little stock if necessary. Set the sauce aside and keep warm.",
         "To serve, cut each chicken roulade into three equal pieces. Spoon the sauce and chutney on the plate and place three pieces of roulade on top of the sauce. Garnish with the fried ginger and cress leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Murg adraki",
     "videos": "[]"
 }

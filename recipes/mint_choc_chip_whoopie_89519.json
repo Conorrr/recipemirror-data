@@ -1,32 +1,28 @@
 {
-    "title": "Mint choc chip whoopie pies",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "overnight",
-    "serves": "Makes 18 whoopie pies",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mint_choc_chip_whoopie_89519_16x9.jpg"
-    ],
-    "description": "Fun chocolate biscuits sandwiched with homemade ice cream - a mint choc twist on the usual whoopie pie.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Fun chocolate biscuits sandwiched with homemade ice cream - a mint choc twist on the usual whoopie pie.",
+    "dishes": [
+        "biscuit",
+        "cookies",
+        "icing",
+        "oven-baked_dishes",
+        "pie",
+        "sandwich"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "melting_chocolate",
+        "whipping_cream"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mint_choc_chip_whoopie_89519_16x9.jpg"
+    ],
     "ingredients": {
-        "For the mint choc chip ice-cream": [
-            "200ml/7fl oz double cream",
-            "200g/7oz sweetened condensed milk",
-            "\u00bd tsp peppermint oil",
-            "50g/2oz dark chocolate"
-        ],
         "For the biscuits": [
             "125g/4\u00bdoz butter",
             "150g/5\u00bdoz chocolate, minimum 70% cocoa solids",
@@ -38,10 +34,22 @@
             "30g/1\u00bcoz cocoa powder",
             "\u00bd tsp baking powder"
         ],
+        "For the mint choc chip ice-cream": [
+            "200ml/7fl oz double cream",
+            "200g/7oz sweetened condensed milk",
+            "\u00bd tsp peppermint oil",
+            "50g/2oz dark chocolate"
+        ],
         "To serve": [
             "cocoa powder",
             "icing sugar"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "Makes 18 whoopie pies",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Line the cups of a muffin tin with cling film and place in the freezer.",
@@ -58,9 +66,9 @@
         "When ready to serve, use the clingfilm to turn out the ice cream from the muffin tin and sandwich a peice of ice cream between two whoopie biscuits.",
         "Dust with cocoa powder and icing sugar and serve immediately."
     ],
-    "howTos": [
-        "melting_chocolate",
-        "whipping_cream"
+    "tips": [
+        
     ],
+    "title": "Mint choc chip whoopie pies",
     "videos": "[]"
 }

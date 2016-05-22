@@ -1,24 +1,24 @@
 {
-    "title": "Penne with tomatoes, chorizo and cream",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "52",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pennewithtomatoesspi_73926_16x9.jpg"
-    ],
-    "description": "A simple but impressive pasta dish with the kick of chorizo and crushed chillies balanced by a creamy tomato sauce.",
     "author": {
         "darina_allen": "Darina Allen"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A simple but impressive pasta dish with the kick of chorizo and crushed chillies balanced by a creamy tomato sauce.",
+    "dishes": [
+        "pasta",
+        "pasta_sauce",
+        "sauce",
+        "sausage",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pennewithtomatoesspi_73926_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,6 +35,12 @@
             "4 tbsp freshly grated parmesan"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "52",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Melt the butter in a sauce pan, add chopped rosemary and diced tomatoes.",
         "Season with salt and pepper and sugar.",
@@ -44,8 +50,9 @@
         "Cook the pasta until it is 'al dente', drain and stir into the sauce with the grated parmesan.",
         "Sprinkle with remaining flatleaf parsley, and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Penne with tomatoes, chorizo and cream",
     "videos": "[]"
 }

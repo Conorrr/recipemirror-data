@@ -1,26 +1,31 @@
 {
-    "title": "Banana bread and butter pudding",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "brioche",
+        "caramel",
+        "custard",
+        "jam",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the hot caramel": [
+            "100g/3\u00bdoz caster sugar"
+        ],
         "default": [
             "150ml/5fl oz milk",
             "150ml/5fl oz double cream",
@@ -31,10 +36,13 @@
             "3 free-range eggs",
             "2 free-range egg yolks",
             "55g/2oz caster sugar"
-        ],
-        "For the hot caramel": [
-            "100g/3\u00bdoz caster sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Makes 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 150C/300F/Gas 2.",
@@ -45,8 +53,9 @@
         "Pour the custard mixture over the brioche and bananas and transfer to the oven to bake for 20-30 minutes, or until the custard is set and the brioche is golden-brown.",
         "For the caramel, place the caster sugar into a clean saucepan and heat without stirring until the sugar has melted. Continue to heat until the liquid becomes golden-brown, then pour over the bread and butter pudding and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Banana bread and butter pudding",
     "videos": "[]"
 }

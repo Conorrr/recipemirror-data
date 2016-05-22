@@ -1,36 +1,38 @@
 {
-    "title": "Poached pears in chocolate sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "miranda_richardson": "Miranda Richardson"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chocolate sauce": [
+            "150ml/5oz double cream",
+            "200g/7oz dark chocolate, roughly chopped"
+        ],
         "default": [
             "6 medium-sized pears, peeled but stalks left on",
             "2 tbsp lemon juice",
             "450ml/16fl oz water",
             "200g/7oz caster sugar"
-        ],
-        "For the chocolate sauce": [
-            "150ml/5oz double cream",
-            "200g/7oz dark chocolate, roughly chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b00701fw": "A Taste of My Life"
     },
     "steps": [
         "Brush the peeled pears with a little lemon juice.",
@@ -41,8 +43,9 @@
         "Take the pan off the heat and add the chopped chocolate, stirring to make a smooth sauce.",
         "To serve, pour the chocolate sauce over the pears."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Poached pears in chocolate sauce",
     "videos": "[]"
 }

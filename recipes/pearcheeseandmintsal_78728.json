@@ -1,24 +1,20 @@
 {
-    "title": "Pear, cheese and mint salad",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ross_burden": "Ross Burden"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "salad"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,11 +24,18 @@
             "140g/5oz brie, sliced"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Mix the ingredients in a bowl and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pear, cheese and mint salad",
     "videos": "[]"
 }

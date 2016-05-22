@@ -1,37 +1,26 @@
 {
-    "title": "Turkey meatballs",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "Try this healthier twist on a classic family recipe. Turkey is traditionally leaner than chicken and using mince made with thigh meat helps to keep these meatballs really moist.",
     "author": {
         "sophie_wright": "Sophie Wright"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Try this healthier twist on a classic family recipe. Turkey is traditionally leaner than chicken and using mince made with thigh meat helps to keep these meatballs really moist.",
+    "dishes": [
+        "bun",
+        "meatballs",
+        "oven-baked_dishes",
+        "salsa",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_make_meatballs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 tsp olive oil or sunflower oil",
-            "1 onion, finely chopped",
-            "sea salt and freshly ground black pepper",
-            "2 garlic cloves, finely chopped",
-            "1 tsp smoked paprika (sweet or hot variety, to taste)",
-            "2 tsp ground cumin",
-            "2 tsp ground coriander",
-            "400g/14oz turkey mince",
-            "\u00bd bunch fresh coriander, leaves only, finely chopped"
-        ],
         "For the salsa": [
             "2 ripe tomatoes, seeds removed, chopped",
             "2 spring onions, finely sliced diagonally",
@@ -44,7 +33,24 @@
         "To serve": [
             "lime wedges",
             "lettuce leaves"
+        ],
+        "default": [
+            "4 tsp olive oil or sunflower oil",
+            "1 onion, finely chopped",
+            "sea salt and freshly ground black pepper",
+            "2 garlic cloves, finely chopped",
+            "1 tsp smoked paprika (sweet or hot variety, to taste)",
+            "2 tsp ground cumin",
+            "2 tsp ground coriander",
+            "400g/14oz turkey mince",
+            "\u00bd bunch fresh coriander, leaves only, finely chopped"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "10",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Heat half the oil in a small frying pan over a medium heat. Add the onion and a pinch of salt and cook for five minutes, or until softened. Add the garlic and spices and cook for a further two minutes. Remove from the heat, tip into a bowl and leave to cool.",
@@ -54,8 +60,9 @@
         "Preheat the oven to 200C/400F/Gas 6. Heat the remaining oil in a large, non-stick frying pan and fry the meatballs for 2-3 minutes, turning occasionally, until golden-brown on all sides. You may need to do this in batches to avoid overcrowding the pan.",
         "Transfer the meatballs to a clean baking tray and cook in the oven for 10-12 minutes, or until cooked through. Leave to rest for a few minutes before serving with the salsa, lime wedges and lettuce leaves."
     ],
-    "howTos": [
-        "how_to_make_meatballs"
+    "tips": [
+        
     ],
+    "title": "Turkey meatballs",
     "videos": "[p018rpbd:p018rpbg]"
 }

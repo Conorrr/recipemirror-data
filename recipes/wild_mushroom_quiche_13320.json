@@ -1,23 +1,28 @@
 {
-    "title": "Wild mushroom quiche with smoked salmon salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6-8",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Wild mushrooms are full of flavour and make a wonderful filling for the rich buttery pastry in James Martin's quiche.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        "Replace the lard with solid vegetable fat to make a delicious vegetarian quiche."
+    "cookTime": "30 mins to 1 hour",
+    "description": "Wild mushrooms are full of flavour and make a wonderful filling for the rich buttery pastry in James Martin's quiche.",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "quiche",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "lining_tin_with_pastry",
+        "trimming_pastry_case",
+        "rolling_pastry",
+        "rubbing_in"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -26,6 +31,15 @@
             "\u00bd tsp salt",
             "100g/3\u00bdoz butter, cubed",
             "75g/2\u00bdoz lard, cubed"
+        ],
+        "For the smoked salmon salad": [
+            "8 spring onions, trimmed and cut into two",
+            "5 tbsp olive oil",
+            "2 fillets hot smoked salmon, skin removed and flesh flaked",
+            "2 handfuls fresh watercress",
+            "1 tsp Dijon mustard",
+            "3 tbsp olive oil",
+            "1 tbsp white wine vinegar"
         ],
         "For the wild mushroom quiche": [
             "1 tbsp olive oil",
@@ -36,16 +50,13 @@
             "salt and black pepper",
             "200g/7oz mature English cheddar, grated",
             "2 thyme sprigs, leaves picked"
-        ],
-        "For the smoked salmon salad": [
-            "8 spring onions, trimmed and cut into two",
-            "5 tbsp olive oil",
-            "2 fillets hot smoked salmon, skin removed and flesh flaked",
-            "2 handfuls fresh watercress",
-            "1 tsp Dijon mustard",
-            "3 tbsp olive oil",
-            "1 tbsp white wine vinegar"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "3",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the shortcrust pastry, put the flour and salt in a large bowl and add the cubes of butter and lard.",
@@ -64,11 +75,9 @@
         "In a small bowl, add the mustard, vinegar and the remaining three tablespoons of olive oil. Whisk until combined. Just before serving, pour the dressing over the salad and mix.",
         "Serve the quiche in slices with the smoked salmon salad."
     ],
-    "howTos": [
-        "lining_tin_with_pastry",
-        "trimming_pastry_case",
-        "rolling_pastry",
-        "rubbing_in"
+    "tips": [
+        "Replace the lard with solid vegetable fat to make a delicious vegetarian quiche."
     ],
+    "title": "Wild mushroom quiche with smoked salmon salad",
     "videos": "[]"
 }

@@ -1,24 +1,29 @@
 {
-    "title": "Baked Welsh cake cheesecake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "8",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/baked_welsh_cake_68115_16x9.jpg"
-    ],
-    "description": "A Welsh take on the classic cheesecake. The chunky Welsh cakes stirred into the mixture add an interesting texture.",
     "author": {
         "derith_rhisiart": "Derith Rhisiart"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        "Keep any leftover Welsh cakes for 1-2 days in the fridge. If making for a nut-free diet, please check the biscuit packaging to ensure they are suitable."
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "A Welsh take on the classic cheesecake. The chunky Welsh cakes stirred into the mixture add an interesting texture.",
+    "dishes": [
+        "biscuit",
+        "bread",
+        "cake",
+        "cheesecake",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "shortbread",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/baked_welsh_cake_68115_16x9.jpg"
     ],
     "ingredients": {
         "For the Welsh cakes": [
@@ -46,6 +51,12 @@
             "142g/5oz soured cream"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 8",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
+    },
     "steps": [
         "For the Welsh cakes, tip the flour into a large bowl and add the salt. Rub the lard and butter into the flour until the mixture resembles breadcrumbs. Stir in the caster sugar, then add the white chocolate and cranberries and mix until well combined. Add the eggs and mix with your hands until the mixture comes together in a smooth dough, adding milk if needed to loosen the dough. Roll the mixture out on a floured work surface to a thickness of 6mm/\u00bcin.",
         "Cut circles from the dough using a 5cm/2in pastry cutter \u2013 this mixture should make about 50.",
@@ -56,8 +67,9 @@
         "Cut up four or five of the Welsh cakes into chunky pieces and gently fold them into the mixture. Arrange some of the remaining Welsh cakes over the biscuit base until it is covered and then pour the cream cheese mixture on top. Bake for 35-40 minutes or until the cheesecake is slightly wobbly in the centre but able to hold its shape.",
         "Leave to cool in the tin and serve in slices, warm or cold."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        "Keep any leftover Welsh cakes for 1-2 days in the fridge. If making for a nut-free diet, please check the biscuit packaging to ensure they are suitable."
     ],
+    "title": "Baked Welsh cake cheesecake",
     "videos": "[]"
 }

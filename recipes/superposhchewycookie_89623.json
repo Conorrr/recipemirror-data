@@ -1,24 +1,22 @@
 {
-    "title": "Super-posh chewy cookies",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 6-12 cookies",
-    "recommendations": "12",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/superposhchewycookie_89623_16x9.jpg"
-    ],
-    "description": "Luxurious fruit, nuts and liqueur make these satisfyingly chewy cookies ideal for a special occasion.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00d6g4f": "The Hairy Bakers"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Luxurious fruit, nuts and liqueur make these satisfyingly chewy cookies ideal for a special occasion.",
+    "dishes": [
+        "cookies",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/superposhchewycookie_89623_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -39,6 +37,12 @@
             "100g/3\u00bdoz dark chocolate, broken into small pieces"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Makes 6-12 cookies",
+    "show": {
+        "b00d6g4f": "The Hairy Bakers"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "Place the butter and the caster sugar into a bowl and beat together until light and creamy.",
@@ -53,8 +57,9 @@
         "Place the cookies onto a greased baking tray (not too close together as they will spread). Place into the oven to bake for 15 minutes, or until golden-brown and cooked through.",
         "Remove from the oven and leave to cool on the trays for 8-10 minutes, then transfer to a wire cooling rack to cool completely."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Super-posh chewy cookies",
     "videos": "[]"
 }

@@ -1,24 +1,26 @@
 {
-    "title": "Quick chicken Madras",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "26",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/quickchickenmadras_67786_16x9.jpg"
-    ],
-    "description": "A great mid-week treat - this curry can be made as mild or spicy as you like. Serve with rice or naan breads. This meal provides 323 kcal, 38g protein, 6.5g carbohydrate (of which 5g sugars), 16g fat (of which 8g saturates), 3.5g fibre and 0.7g salt per portion.",
     "author": {
         "jo_pratt": "Jo' Pratt"
     },
-    "show": {
-        "p0077hx8": "The Nation's Favourite Food"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "A great mid-week treat - this curry can be made as mild or spicy as you like. Serve with rice or naan breads. This meal provides 323 kcal, 38g protein, 6.5g carbohydrate (of which 5g sugars), 16g fat (of which 8g saturates), 3.5g fibre and 0.7g salt per portion.",
+    "dishes": [
+        "bread",
+        "chicken_curry",
+        "curry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/quickchickenmadras_67786_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,12 +36,19 @@
             "small handful of fresh coriander, chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "26",
+    "serves": "Serves 4",
+    "show": {
+        "p0077hx8": "The Nation's Favourite Food"
+    },
     "steps": [
         "Cut the chicken into bite-size pieces and mix with the lemon juice, and garam masala and season with salt.",
         "Heat the oil or ghee in a deep frying pan or saucepan over a medium heat and cook the onion for 6-7 minutes until softened and becoming golden. Add the chicken and fry for 3-4 minutes until it has become opaque in colour. Stir in the Madras paste and cook for a couple of minutes before adding the chopped tomatoes and coconut. Cover with a lid and leave to simmer gently for about 20 minutes. Stir in the chopped coriander and serve straight away with naan bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Quick chicken Madras",
     "videos": "[]"
 }

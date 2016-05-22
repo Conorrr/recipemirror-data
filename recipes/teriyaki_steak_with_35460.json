@@ -1,35 +1,28 @@
 {
-    "title": "Teriyaki steak with Asian bean salad",
-    "cookTime": "less than 10 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Bring some Asian flavours to your steak supper with a teriyaki marinade and spicy bean salad.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Bring some Asian flavours to your steak supper with a teriyaki marinade and spicy bean salad.",
+    "dishes": [
+        "bun",
+        "jam",
+        "pie",
+        "salad",
+        "sauce",
+        "stir-fries",
+        "teriyaki"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the teriyaki steak": [
-            "125ml/4fl oz Shaoxing rice wine",
-            "125ml/4fl oz sake",
-            "125ml/4fl oz mirin",
-            "125ml/4fl oz soy sauce",
-            "3 tbsp caster sugar",
-            "4 x 150-200g/5\u00bd-7oz pieces of fillet steak",
-            "2 tbsp rapeseed oil"
-        ],
         "For the Asian bean salad": [
             "5cm/2in piece fresh root ginger, finely julienned",
             "2 garlic cloves, thinly sliced",
@@ -46,7 +39,22 @@
             "100g/3\u00bdoz fresh peas, podded",
             "1 red onion, thinly sliced",
             "\u00bd bunch fresh watercress"
+        ],
+        "For the teriyaki steak": [
+            "125ml/4fl oz Shaoxing rice wine",
+            "125ml/4fl oz sake",
+            "125ml/4fl oz mirin",
+            "125ml/4fl oz soy sauce",
+            "3 tbsp caster sugar",
+            "4 x 150-200g/5\u00bd-7oz pieces of fillet steak",
+            "2 tbsp rapeseed oil"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Heat a frying pan until hot, add the rice wine, sake, mirin, soy sauce and caster sugar and bring the mixture to a simmer. Simmer for 1-2 minutes, or until the mixture has just thickened. Remove from the heat and leave to cool to room temperature.",
@@ -56,8 +64,9 @@
         "Put the French beans, mangetout, edamame beans, peas, onion and watercress in a large bowl and mix to combine. Just before serving add the dressing and stir.",
         "Place the steak on serving plates with the salad alongside and serve with the remaining teriyaki sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Teriyaki steak with Asian bean salad",
     "videos": "[]"
 }

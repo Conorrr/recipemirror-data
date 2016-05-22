@@ -1,24 +1,22 @@
 {
-    "title": "Bread and spinach soup",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,13 +31,20 @@
             "1 tbsp Greek-style yoghurt, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil in a pan and fry the onion for 3-4 minutes, or until softened, then add the spinach, parsley and stock. Bring to the boil, then add the bread and lime juice and simmer for 3-4 minutes, or until the bread starts to break down.",
         "Season, to taste, with salt and freshly ground black pepper and then blend until smooth with a stick blender.",
         "Ladle the soup into a serving bowl and top with the yoghurt."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Bread and spinach soup",
     "videos": "[]"
 }

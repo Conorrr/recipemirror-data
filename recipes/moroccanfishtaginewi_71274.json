@@ -1,26 +1,33 @@
 {
-    "title": "Moroccan fish tagine with coriander couscous",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "mike_robinson": "Mike Robinson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "North_African",
+    "description": "",
+    "dishes": [
+        "stir-fries",
+        "stock",
+        "tagine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the home-made harrissa": [
+            "3 fresh red chillies, roughly chopped",
+            "3 garlic cloves, finely chopped",
+            "1-2 lemons, juice only",
+            "4 tbsp olive oil",
+            "salt",
+            "freshly ground black pepper"
+        ],
         "default": [
             "1 red onion, finely chopped",
             "2 garlic cloves, finely chopped",
@@ -38,15 +45,13 @@
             "200g/7oz mussels",
             "100g/3\u00bdoz cherry tomatoes",
             "couscous and coriander to serve"
-        ],
-        "For the home-made harrissa": [
-            "3 fresh red chillies, roughly chopped",
-            "3 garlic cloves, finely chopped",
-            "1-2 lemons, juice only",
-            "4 tbsp olive oil",
-            "salt",
-            "freshly ground black pepper"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Heat the ground nut oil in a tagine and gently cook the onion and garlic until soft.",
@@ -57,8 +62,9 @@
         "Add the fish and cook for a couple of minutes, then add the mussels and cherry tomatoes, season with salt and pepper and cover. Cook gently for 6-7 minutes.",
         "Serve on a bed of steamed couscous and sprinkle with freshly chopped coriander."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Moroccan fish tagine with coriander couscous",
     "videos": "[]"
 }

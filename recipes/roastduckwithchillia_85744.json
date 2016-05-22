@@ -1,28 +1,35 @@
 {
-    "title": "Roast duck with chilli and plum sauce and peanut crushed potatoes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
         "For the duck": [
             "1 duck breast, skin on"
+        ],
+        "For the potatoes": [
+            "150g/5\u00bdoz new potatoes, boiled until tender and drained",
+            "salt and freshly ground black pepper",
+            "2 tbsp olive oil",
+            "30g/1oz unsalted peanuts, crushed",
+            "1 tsp chopped fresh dill"
         ],
         "For the sauce": [
             "30g/1oz butter",
@@ -32,14 +39,13 @@
             "1 plum, stone removed and chopped",
             "1 tsp cornflour, mixed with 1 tsp water",
             "salt and freshly ground black pepper"
-        ],
-        "For the potatoes": [
-            "150g/5\u00bdoz new potatoes, boiled until tender and drained",
-            "salt and freshly ground black pepper",
-            "2 tbsp olive oil",
-            "30g/1oz unsalted peanuts, crushed",
-            "1 tsp chopped fresh dill"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -52,8 +58,9 @@
         "Add the peanuts and dill and stir well.",
         "To serve, place the duck onto a serving plate with the potatoes and drizzle over the plum sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roast duck with chilli and plum sauce and peanut crushed potatoes",
     "videos": "[]"
 }

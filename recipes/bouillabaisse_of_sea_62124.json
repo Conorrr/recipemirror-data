@@ -1,23 +1,26 @@
 {
-    "title": "Bouillabaisse with fresh shrimps and squid, chilli cro\u00fbtons and rouille",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "A luxurious fish stew that's a twist on the classic bouillabaisse recipe with crunchy cro\u00fbtons and a kick of chilli.",
     "author": {
         "ed_baines": "Ed Baines"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "A luxurious fish stew that's a twist on the classic bouillabaisse recipe with crunchy cro\u00fbtons and a kick of chilli.",
+    "dishes": [
+        "baguette",
+        "fish_soup",
+        "mayonnaise",
+        "slow-cooked_dishes",
+        "soup",
+        "stew",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -42,19 +45,25 @@
             "300g/10\u00bdoz fish fillets (sea bream, gurnard and hake), sliced",
             "100g/3\u00bdoz fresh squid, sliced"
         ],
+        "For the cro\u00fbtons": [
+            "2 tbsp olive oil",
+            "pinch chilli powder",
+            "pinch cayenne pepper",
+            "4 slices baguette, toasted"
+        ],
         "For the rouille": [
             "2 garlic cloves, crushed",
             "1 free-range egg yolk",
             "150ml/5fl oz chilli oil (reserved from the soup, add extra oil if needed to make it up to 150ml/5fl oz)",
             "pinch cayenne pepper",
             "sea salt"
-        ],
-        "For the cro\u00fbtons": [
-            "2 tbsp olive oil",
-            "pinch chilli powder",
-            "pinch cayenne pepper",
-            "4 slices baguette, toasted"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "For the bouillabaisse, heat the oil in a large pan, add the fennel, celery and carrot and fry for 6-8 minutes, or until softened but not coloured. Add the chilli and garlic and cook for two minutes until soft.",
@@ -65,8 +74,9 @@
         "For the cro\u00fbtons, preheat a grill to medium-high. Combine the oil, chilli powder and cayenne and brush generously over the baguette slices. Warm under the grill for two minutes, or until crisp.",
         "For the bouillabaisse, return the pan to the heat and bring to a simmer. Add the parsley, tarragon, prawns, fish and squid and cook gently for five minutes. Divide the cooked fish between four serving bowls and ladle the liquid over the top. Top each bowl with a chilli crouton and a spoonful of rouille."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Bouillabaisse with fresh shrimps and squid, chilli cro\u00fbtons and rouille",
     "videos": "[]"
 }

@@ -1,26 +1,31 @@
 {
-    "title": "Lincolnshire plum bread",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 loaf (6-8)",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "This fruit bread is perfect with a cup of tea. Serving with a slice of cheese sounds odd, but it's just how we do it.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "This fruit bread is perfect with a cup of tea. Serving with a slice of cheese sounds odd, but it's just how we do it.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "prepare-ahead_desserts",
+        "tea_bread"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading",
+        "knocking_back"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "butter",
+            "Lincolnshire cheese"
+        ],
         "default": [
             "225g/8oz prunes, pits removed, roughly chopped",
             "50g/2oz currants",
@@ -36,11 +41,13 @@
             "\u00bd tsp vanilla extract",
             "\u00bc tsp salt",
             "15g/\u00bdoz dried yeast"
-        ],
-        "To serve": [
-            "butter",
-            "Lincolnshire cheese"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Makes 1 loaf (6-8)",
+    "show": {
+        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
     },
     "steps": [
         "Place the dried fruits into a bowl and pour over the Earl Grey tea. Mix well and set aside to soak for 10 minutes.",
@@ -57,9 +64,9 @@
         "Allow to cool before slicing.",
         "To serve, cut the plum bread into slices and serve with butter and cheese."
     ],
-    "howTos": [
-        "kneading",
-        "knocking_back"
+    "tips": [
+        
     ],
+    "title": "Lincolnshire plum bread",
     "videos": "[]"
 }

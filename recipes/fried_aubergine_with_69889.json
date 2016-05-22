@@ -1,34 +1,28 @@
 {
-    "title": "Fried aubergine with fennel yoghurt",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fried_aubergine_with_69889_16x9.jpg"
-    ],
-    "description": "Crunchy and moreish, these aubergine cakes make a fine vegetarian starter. Or cut them into chip shapes for an informal snack.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Crunchy and moreish, these aubergine cakes make a fine vegetarian starter. Or cut them into chip shapes for an informal snack.",
+    "dishes": [
+        "bread",
+        "cake",
+        "canape",
+        "casserole",
+        "chips",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fried_aubergine_with_69889_16x9.jpg"
+    ],
     "ingredients": {
-        "For the fennel yoghurt": [
-            "2 heads fennel, quartered",
-            "1 tbsp olive oil, plus extra for blending",
-            "2 cloves garlic, peeled",
-            "1 lemon, juice only",
-            "1 tbsp fennel seeds, toasted",
-            "300g/10\u00bdoz thick Greek yoghurt"
-        ],
         "For the aubergines": [
             "250g/9oz breadcrumbs",
             "50g/2oz pecorino, grated",
@@ -39,7 +33,21 @@
             "100g/3\u00bdoz plain flour",
             "vegetable oil, for deep frying",
             "watercress, to serve"
+        ],
+        "For the fennel yoghurt": [
+            "2 heads fennel, quartered",
+            "1 tbsp olive oil, plus extra for blending",
+            "2 cloves garlic, peeled",
+            "1 lemon, juice only",
+            "1 tbsp fennel seeds, toasted",
+            "300g/10\u00bdoz thick Greek yoghurt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -55,8 +63,9 @@
         "Pass the pur\u00e9ed fennel through a sieve and stir into the Greek yoghurt.",
         "Serve the fennel yoghurt in a bowl and with the fried aubergine sticks and watercress on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fried aubergine with fennel yoghurt",
     "videos": "[]"
 }

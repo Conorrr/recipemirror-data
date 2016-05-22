@@ -1,42 +1,44 @@
 {
-    "title": "Pork chops with creamy bacon cabbage",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "38",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pork_chops_with_creamy_89768_16x9.jpg"
-    ],
-    "description": "Sweet pork chops marry beautifully with smoky paprika and comforting creamy cabbage. A perfect winter supper.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Sweet pork chops marry beautifully with smoky paprika and comforting creamy cabbage. A perfect winter supper.",
+    "dishes": [
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_cook_pork_chops"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pork_chops_with_creamy_89768_16x9.jpg"
+    ],
     "ingredients": {
-        "For the smoky potatoes": [
-            "2 baking potatoes, cut into 2.5cm/1in cubes",
-            "4 tbsp olive oil",
-            "100g/3\u00bdoz unsalted butter",
-            "1 tbsp smoked paprika"
+        "For the creamy bacon cabbage": [
+            "300g/10\u00bdoz smoked bacon lardons",
+            "1 head Savoy cabbage, shredded and blanched",
+            "125ml/4fl oz double cream"
         ],
         "For the pork chops": [
             "4 x 200g/7oz pork chops",
             "2 tbsp olive oil",
             "salt and freshly ground black pepper"
         ],
-        "For the creamy bacon cabbage": [
-            "300g/10\u00bdoz smoked bacon lardons",
-            "1 head Savoy cabbage, shredded and blanched",
-            "125ml/4fl oz double cream"
+        "For the smoky potatoes": [
+            "2 baking potatoes, cut into 2.5cm/1in cubes",
+            "4 tbsp olive oil",
+            "100g/3\u00bdoz unsalted butter",
+            "1 tbsp smoked paprika"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "38",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Bring a large saucepan of salted water to the boil and add the potatoes. Parboil for 4-5 minutes until just tender. Drain and set aside.",
@@ -46,8 +48,9 @@
         "For the smoky potatoes, heat the oil in a frying pan and fry the parboiled potatoes until crisp. Add the butter and paprika and season well with salt and freshly ground black pepper.",
         "To serve, spoon the creamy cabbage onto four serving plates, top with a pork chop and serve the smoky potatoes alongside."
     ],
-    "howTos": [
-        "how_to_cook_pork_chops"
+    "tips": [
+        
     ],
+    "title": "Pork chops with creamy bacon cabbage",
     "videos": "[]"
 }

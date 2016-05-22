@@ -1,26 +1,34 @@
 {
-    "title": "Chilled roast tomato soup with pesto",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Roasted tomatoes have superb sweetness, Hugh Fearnley-Whittingstall makes a superb cold soup topped with homemade pesto.",
     "author": {
         "hugh_fearnley-whittingstall": "Hugh Fearnley-Whittingstall"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Roasted tomatoes have superb sweetness, Hugh Fearnley-Whittingstall makes a superb cold soup topped with homemade pesto.",
+    "dishes": [
+        "chilled_soup",
+        "oven-baked_dishes",
+        "pesto",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Pesto": [
+            "a generous fist full of basil leaves",
+            "1 garlic clove",
+            "1 tbsp of pine nuts",
+            "2 tbsp of olive oil"
+        ],
         "default": [
             "1kg/2\u00bdlb ripe plum tomatoes or other well flavoured toms, washed and halved",
             "3 tbsp olive oil",
@@ -28,13 +36,13 @@
             "salt and freshly ground black pepper",
             "2 tsp light brown sugar",
             "150ml/5fl oz light chicken or vegetable stock, or water (optional)"
-        ],
-        "For the Pesto": [
-            "a generous fist full of basil leaves",
-            "1 garlic clove",
-            "1 tbsp of pine nuts",
-            "2 tbsp of olive oil"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Place the tomatoes cut side up in a baking tray, add the whole garlic cloves. Season well with salt and pepper, sprinkle with the sugar and drizzle over the olive oil. Roast in a moderate oven (180C/375F/Gas 4) for about 45 minutes, until the tomatoes are lightly browned and beginning to ooze juice. Remove the tray from the oven and leave to cool for a few moments.",
@@ -44,8 +52,9 @@
         "Pound together, or chop together with a large knife, the basil, garlic and pine nuts, until you have a fine grained pulp. Stir into the olive oil. This pesto is meant to be quite runny. Leaving to stand for an hour or two will mellow the harsh edge of the raw garlic.",
         "Serve the soup by ladling into chilled bowls and drizzling a generous tablespoon of the pesto over each bowl."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chilled roast tomato soup with pesto",
     "videos": "[]"
 }

@@ -1,24 +1,22 @@
 {
-    "title": "Tomato and red pepper soup",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,13 +30,20 @@
             "double cream (optional)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 2",
+    "show": {
+        "p0077hsg": "Housecall"
+    },
     "steps": [
         "Firstly, saut\u00e9 the onion and garlic and then add the tinned tomatoes and red peppers.",
         "Bring to a simmer and add the stock. Bring to the boil and then gently simmer for four to five minutes, before placing in the blender.",
         "Blend to a smooth soup. Season with salt and pepper. Return to the pan to warm through and serve immediately scattered with the parsley and a swirl of double cream, if using."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tomato and red pepper soup",
     "videos": "[]"
 }

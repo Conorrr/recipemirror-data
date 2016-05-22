@@ -1,36 +1,28 @@
 {
-    "title": "Pina colada trifle",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "cake",
+        "custard",
+        "icing",
+        "jam",
+        "muffins",
+        "pie",
+        "trifle"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "250g/10\u00bdoz ready-made white chocolate muffins (or Madeira cake or Swiss roll)",
-            "30ml/1fl oz dark rum",
-            "400g/14oz fresh pineapple, peeled, chopped",
-            "50g/2oz icing sugar",
-            "50ml/2fl oz coconut liqueur",
-            "2 kiwi fruit, peeled, sliced",
-            "150g/5oz apricot jam",
-            "2 tsp water"
-        ],
         "For the custard": [
             "6 free-range egg yolks",
             "125g/4oz sugar",
@@ -43,7 +35,23 @@
             "100ml/3\u00bdfl oz double cream, whipped until stiff peaks form when the whisk is removed",
             "100g/3\u00bdoz mascarpone cheese",
             "50g/2oz desiccated coconut, toasted"
+        ],
+        "default": [
+            "250g/10\u00bdoz ready-made white chocolate muffins (or Madeira cake or Swiss roll)",
+            "30ml/1fl oz dark rum",
+            "400g/14oz fresh pineapple, peeled, chopped",
+            "50g/2oz icing sugar",
+            "50ml/2fl oz coconut liqueur",
+            "2 kiwi fruit, peeled, sliced",
+            "150g/5oz apricot jam",
+            "2 tsp water"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Break up the muffins (or other cake) into chunks and place over the bottom of a large glass bowl, to cover.",
@@ -62,8 +70,9 @@
         "For the topping, place the cream and mascarpone into a clean bowl and mix well. Spread the cream and mascarpone mixture over the custard layer in the trifle bowl.",
         "Sprinkle the toasted desiccated coconut over the top and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pina colada trifle",
     "videos": "[]"
 }

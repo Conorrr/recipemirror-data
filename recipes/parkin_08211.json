@@ -1,24 +1,24 @@
 {
-    "title": "Parkin",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "This sticky cake is best eaten a couple of days after it's baked. Wrap it in cling film or foil and store in an airtight container.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b013y0nz": "Hairy Bikers' Meals on Wheels"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "This sticky cake is best eaten a couple of days after it's baked. Wrap it in cling film or foil and store in an airtight container.",
+    "dishes": [
+        "cake",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,6 +33,12 @@
             "200ml/7fl oz milk"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 8",
+    "show": {
+        "b013y0nz": "Hairy Bikers' Meals on Wheels"
+    },
     "steps": [
         "Preheat the oven to 150C/300F/Gas 2. Line a 20cm/8in cake tin.",
         "Sieve the flour into a large bowl and add the sugar, ginger, bicarbonate of soda and salt.",
@@ -41,8 +47,9 @@
         "Gradually pour the butter and syrup into the flour and stir, then add the egg and milk mixture and stir until smooth. Pour into the lined tin.",
         "Bake in the oven for one hour or until a skewer comes out clean when pieced in the centre of the parkin."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Parkin",
     "videos": "[]"
 }

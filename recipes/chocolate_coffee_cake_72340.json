@@ -1,26 +1,33 @@
 {
-    "title": "Chocolate coffee cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 cake",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This light chocolate coffee cake with rich icing couldn\u2019t be simpler.",
     "author": {
         "theo_randall": "Theo Randall"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This light chocolate coffee cake with rich icing couldn\u2019t be simpler.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "icing",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_line_a_round_cake_tin",
+        "melting_chocolate"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the butter icing": [
+            "100g/3\u00bdoz chocolate (at least 70% cocoa solids)",
+            "50g/2oz unsalted butter",
+            "6 tbsp double cream",
+            "50g/2oz icing sugar"
+        ],
         "For the cake": [
             "250g/9oz dark chocolate (at least 70% cocoa solids)",
             "250g/9oz unsalted butter",
@@ -33,13 +40,13 @@
             "2 tbsp sunflower oil",
             "125ml/4fl oz milk",
             "150g/5oz plain flour"
-        ],
-        "For the butter icing": [
-            "100g/3\u00bdoz chocolate (at least 70% cocoa solids)",
-            "50g/2oz unsalted butter",
-            "6 tbsp double cream",
-            "50g/2oz icing sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Makes 1 cake",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
     },
     "steps": [
         "Preheat the oven to 170C/340F/Gas 3\u00bd. Grease a 24cm/10in diameter cake tin and line it with baking paper.",
@@ -53,9 +60,9 @@
         "For the icing, place all ingredients in a pan. Heat gently and stir until smooth.",
         "Once cake and icing have cooled, spread the icing over the cake using a palette knife."
     ],
-    "howTos": [
-        "how_to_line_a_round_cake_tin",
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "Chocolate coffee cake",
     "videos": "[]"
 }

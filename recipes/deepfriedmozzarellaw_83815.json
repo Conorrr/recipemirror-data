@@ -1,26 +1,34 @@
 {
-    "title": "Deep-fried mozzarella with tomato and rocket sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "jam",
+        "sandwich",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the deep-fried mozzarella": [
+            "8 thin slices white bread",
+            "125ml/4\u00bdfl oz milk",
+            "200g/7oz buffalo mozzarella, cut into discs 1cm/\u00bdin thick",
+            "salt and freshly ground black pepper",
+            "6 tbsp plain flour",
+            "2 medium free-range eggs, beaten and seasoned with salt and freshly ground black pepper"
+        ],
         "For the sauce": [
             "3 tbsp extra virgin olive oil",
             "1 medium onion, finely chopped",
@@ -29,15 +37,13 @@
             "8 fresh basil leaves",
             "50g/2oz rocket leaves",
             "salt and freshly ground black pepper"
-        ],
-        "For the deep-fried mozzarella": [
-            "8 thin slices white bread",
-            "125ml/4\u00bdfl oz milk",
-            "200g/7oz buffalo mozzarella, cut into discs 1cm/\u00bdin thick",
-            "salt and freshly ground black pepper",
-            "6 tbsp plain flour",
-            "2 medium free-range eggs, beaten and seasoned with salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the sauce, heat the olive oil in a pan and, once hot, add the onion and garlic and fry for 4-5 minutes, until soft and golden.",
@@ -52,8 +58,9 @@
         "Carefully place the sandwich into the hot deep-fat-fryer and fry until golden and crisp on the outside. Carefully remove with a slotted spoon and drain on paper towels.",
         "To serve, pour the hot sauce onto a plate and place two of the mozzarella sandwiches into the middle."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Deep-fried mozzarella with tomato and rocket sauce",
     "videos": "[]"
 }

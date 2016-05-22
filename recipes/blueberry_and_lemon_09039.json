@@ -1,26 +1,34 @@
 {
-    "title": "Blueberry and lemon traybake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8-12",
-    "recommendations": "76",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/blueberry_and_lemon_09039_16x9.jpg"
-    ],
-    "description": "This fruity traybake is so good, you won't be able to stop at one piece!",
     "author": {
         "mari_williams": "Mari Williams"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "American",
+    "description": "This fruity traybake is so good, you won't be able to stop at one piece!",
+    "dishes": [
+        "cake",
+        "icing",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/blueberry_and_lemon_09039_16x9.jpg"
+    ],
     "ingredients": {
+        "For the cream cheese topping": [
+            "50g/2oz butter, softened",
+            "300g/10\u00bdoz icing sugar, sieved, plus extra for dusting",
+            "200g/7oz cream cheese",
+            "1-2 tbsp lemon juice",
+            "50g/2oz blueberries"
+        ],
         "default": [
             "125g/4\u00bdoz butter, softened",
             "225g/8oz caster sugar",
@@ -30,14 +38,13 @@
             "300g/10\u00bdoz self-raising flour",
             "\u00bd tsp baking powder",
             "150g/5\u00bdoz blueberries"
-        ],
-        "For the cream cheese topping": [
-            "50g/2oz butter, softened",
-            "300g/10\u00bdoz icing sugar, sieved, plus extra for dusting",
-            "200g/7oz cream cheese",
-            "1-2 tbsp lemon juice",
-            "50g/2oz blueberries"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "76",
+    "serves": "Serves 8-12",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease and line a rectangular baking tin (approximately 26cm x 20cm/10\u00bdin x 8in).",
@@ -45,8 +52,9 @@
         "Spoon the mixture into the cake tin and bake for 40-45 minutes, or until a skewer inserted into the cake comes out clean. Remove the cake from the oven, and set aside until completely cool.",
         "Meanwhile for the cream cheese topping, beat the butter and icing sugar together in a bowl until light and fluffy. Beat in the cream cheese and lemon juice, then spread over the top of the cake. Sprinkle over the blueberries and dust with icing sugar."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Blueberry and lemon traybake",
     "videos": "[]"
 }

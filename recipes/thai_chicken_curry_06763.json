@@ -1,24 +1,24 @@
 {
-    "title": "Thai chicken curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/thai_chicken_curry_06763_16x9.jpg"
-    ],
-    "description": "This is an easy, foolproof Thai chicken curry recipe. The water chestnuts add a lovely crunch, but should be added at the end so they stay crisp.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b06z8bw3": "Mary Berry's Foolproof Cooking"
-    },
-    "tips": [
-        "If covered and chilled in the fridge, you can make the curry up to a day ahead, adding the freshly cooked peas and water chestnuts just before serving."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "This is an easy, foolproof Thai chicken curry recipe. The water chestnuts add a lovely crunch, but should be added at the end so they stay crisp.",
+    "dishes": [
+        "curry",
+        "sauce",
+        "stir-fries",
+        "thai_chicken_curry"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/thai_chicken_curry_06763_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -39,6 +39,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 8",
+    "show": {
+        "b06z8bw3": "Mary Berry's Foolproof Cooking"
+    },
     "steps": [
         "Cut the chicken breasts in half and then into long thin slices. Tip into a bowl and add 1 tablespoon of the Thai curry paste, season with salt and freshly ground black pepper and mix.",
         "Heat 1 tablespoon of the sunflower oil in a deep frying pan, add the chicken slices and fry over a high heat for 5 minutes until just cooked through \u2013 you may need to do this in batches. Transfer the cooked chicken slices to a plate.",
@@ -47,8 +53,9 @@
         "Meanwhile, cook the sugar snap peas in boiling salted water for 2 minutes, drain and refresh in cold water.",
         "Remove the lemon grass and lime leaves from the curry and discard. Add the lime zest and juice, water chestnuts and sugar snap peas. Bring to the boil, then remove from the heat and serve with rice."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If covered and chilled in the fridge, you can make the curry up to a day ahead, adding the freshly cooked peas and water chestnuts just before serving."
     ],
+    "title": "Thai chicken curry",
     "videos": "[]"
 }

@@ -1,24 +1,22 @@
 {
-    "title": "Rich chocolate brownies",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 20 brownies",
-    "recommendations": "60",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/richchocolatebrownie_1933_16x9.jpg"
-    ],
-    "description": "Simple, yet truly delicious brownies. Perfect for any time of the day.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "Simple, yet truly delicious brownies. Perfect for any time of the day.",
+    "dishes": [
+        "chocolate_brownies",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/richchocolatebrownie_1933_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -30,6 +28,12 @@
             "55g/2oz cocoa powder"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "60",
+    "serves": "Makes 20 brownies",
+    "show": {
+        
+    },
     "steps": [
         "Heat the oven to 190C/375F/Gas 5. Line a 20x30cm/8x12in baking tin with baking parchment.",
         "Gently melt the butter and the sugar together in a large pan.",
@@ -37,8 +41,9 @@
         "Turn into the baking tin and bake for 30-40 minutes until the top of the brownie is firm but the inside still feels soft.",
         "Take out of the oven and cool in the tin. Cut into 5cm/2in squares when cool. Perfect with a cup of tea."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Rich chocolate brownies",
     "videos": "[]"
 }

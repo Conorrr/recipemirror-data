@@ -1,24 +1,21 @@
 {
-    "title": "Eve's pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 40",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Feed a crowd with this classic nursery pudding. Cook it in two large deep roasting tins if you don't have a big enough dish.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b013y0nz": "Hairy Bikers' Meals on Wheels"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Feed a crowd with this classic nursery pudding. Cook it in two large deep roasting tins if you don't have a big enough dish.",
+    "dishes": [
+        "custard",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,6 +29,12 @@
             "1kg/2lb 4oz self-raising flour"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "Serves 40",
+    "show": {
+        "b013y0nz": "Hairy Bikers' Meals on Wheels"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "Grease a very large ovenproof serving dish with 125g/4oz of the butter then scatter in the apple slices. Sprinkle over 150g/5\u00bdoz of the brown sugar, the golden syrup, cinnamon and finally the raisins.",
@@ -39,8 +42,9 @@
         "Spoon the batter over the apples and gently even out with the back of the spoon.",
         "Bake for 45-50 minutes, or until golden-brown and cooked through. Serve with custard."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Eve's pudding",
     "videos": "[]"
 }

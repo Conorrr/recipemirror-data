@@ -1,32 +1,33 @@
 {
-    "title": "Chocolate and hazelnut filo rolls",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 12",
-    "recommendations": "12",
-    "images": [
-        
-    ],
-    "description": "Pile these tasty chocolate logs on a platter, and serve plenty of creamy dip alongside for dunking.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b018nq5b": "The Hairy Bikers' Christmas Party"
-    },
-    "tips": [
-        "Once baked, the filled rolls can be stored in an airtight container lined with kitchen paper for up to two days."
+    "cookTime": "10 to 30 mins",
+    "description": "Pile these tasty chocolate logs on a platter, and serve plenty of creamy dip alongside for dunking.",
+    "dishes": [
+        "chocolate_dessert",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chocolate filling": [
+            "250g/9oz chocolate and hazelnut spread"
+        ],
         "For the pastry": [
             "25g/1oz butter",
             "3 x 32cm x 38cm/13in x 15in filo pastry sheets"
-        ],
-        "For the chocolate filling": [
-            "250g/9oz chocolate and hazelnut spread"
         ],
         "For the vanilla cream dip": [
             "100ml/3\u00bdfl oz double cream",
@@ -34,6 +35,12 @@
             "\u00bd tsp vanilla extract",
             "icing sugar, sifted for dusting"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Makes 12",
+    "show": {
+        "b018nq5b": "The Hairy Bikers' Christmas Party"
     },
     "steps": [
         "For the pastry, preheat the oven to 200C/400F/Gas 6 and line a large baking tray with greaseproof paper.",
@@ -46,8 +53,9 @@
         "For the vanilla cream dip, whip the cream very lightly with the sugar and vanilla extract. Spoon into a small serving bowl.",
         "To serve, dust the chocolate filo rolls with a little sifted icing sugar, and arrange them onto a serving plate with the vanilla cream dip placed alongside."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Once baked, the filled rolls can be stored in an airtight container lined with kitchen paper for up to two days."
     ],
+    "title": "Chocolate and hazelnut filo rolls",
     "videos": "[]"
 }

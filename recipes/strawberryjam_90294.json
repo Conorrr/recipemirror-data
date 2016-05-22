@@ -1,24 +1,25 @@
 {
-    "title": "Strawberry jam",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Makes 4-6 jars",
-    "recommendations": "26",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/strawberryjam_90294_16x9.jpg"
-    ],
-    "description": "Sophie Grigson shows you how to make strawberry jam in this step-by-step recipe. Perfect for slathering on a Victoria sponge.",
     "author": {
         "sophie_grigson": "Sophie Grigson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Sophie Grigson shows you how to make strawberry jam in this step-by-step recipe. Perfect for slathering on a Victoria sponge.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries",
+        "strawberry_jam",
+        "upside-down_cake"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "skimming_stock"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/strawberryjam_90294_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -27,6 +28,12 @@
             "\u00bd lemon, juice only",
             "small knob of butter"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "26",
+    "serves": "Makes 4-6 jars",
+    "show": {
+        
     },
     "steps": [
         "The day before you wish to make the jam, hull and halve the strawberries. Check for soft spots (which must be removed) and discard any berries with bruises or that are overripe.",
@@ -45,8 +52,9 @@
         "Cover the top surface of the jam in each jar with waxed paper discs that have been cut to size - they should cover the entire surface of the jam. Press the wax disc down to create a complete seal.",
         "Cover with a lid while still hot, label and store in a cool, dark cupboard for up to a year."
     ],
-    "howTos": [
-        "skimming_stock"
+    "tips": [
+        
     ],
+    "title": "Strawberry jam",
     "videos": "[]"
 }

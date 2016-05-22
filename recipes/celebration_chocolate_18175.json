@@ -1,26 +1,34 @@
 {
-    "title": "Celebration chocolate cake",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "64",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/celebration_chocolate_18175_16x9.jpg"
-    ],
-    "description": "A moist chocolate cake that really can\u2019t go wrong and keeps well for birthday parties. It has a wonderful white chocolate icing so the contrast looks stunning too.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b01qgf70": "The Mary Berry Story"
-    },
-    "tips": [
-        "This is a great recipe to make for and with children. Mary always places a large plate underneath the mixing bowl so that there\u2019s no worry that when the child cracks an egg on the side of the bowl most of it doesn\u2019t go on the table."
+    "cookTime": "10 to 30 mins",
+    "description": "A moist chocolate cake that really can\u2019t go wrong and keeps well for birthday parties. It has a wonderful white chocolate icing so the contrast looks stunning too.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "icing",
+        "oven-baked_dishes",
+        "sandwich",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "greasing_and_lining",
+        "icing_cake_ganache",
+        "testing_to_see_if_a_cake_is_cooked"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/celebration_chocolate_18175_16x9.jpg"
+    ],
     "ingredients": {
+        "For the icing": [
+            "200g/7oz white chocolate",
+            "150ml/\u00bc pint double cream",
+            "1 x 125g/4\u00bdoz tub full-fat cream cheese"
+        ],
         "default": [
             "190g/6\u00bdoz self-raising flour",
             "150g/5oz caster sugar",
@@ -31,12 +39,13 @@
             "2 free-range eggs",
             "150ml/\u00bc pint sunflower oil",
             "150ml\u00bc pint milk"
-        ],
-        "For the icing": [
-            "200g/7oz white chocolate",
-            "150ml/\u00bc pint double cream",
-            "1 x 125g/4\u00bdoz tub full-fat cream cheese"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "64",
+    "serves": "Serves 8",
+    "show": {
+        "b01qgf70": "The Mary Berry Story"
     },
     "steps": [
         "Heat the oven to 180C/350F/Gas 4 and grease and line with greased greaseproof paper the bases of two 20cm/8in straight-sided loose bottomed sandwich tins.",
@@ -46,10 +55,9 @@
         "Spoon the cream cheese into a bowl then gradually add the white chocolate mixture and stir until combined. Set aside to cool a little, until thick enough to ice.",
         "Spread half of the icing on one cake, sit the other cake on top and spread the remaining icing on top to give a pretty finish."
     ],
-    "howTos": [
-        "greasing_and_lining",
-        "icing_cake_ganache",
-        "testing_to_see_if_a_cake_is_cooked"
+    "tips": [
+        "This is a great recipe to make for and with children. Mary always places a large plate underneath the mixing bowl so that there\u2019s no worry that when the child cracks an egg on the side of the bowl most of it doesn\u2019t go on the table."
     ],
+    "title": "Celebration chocolate cake",
     "videos": "[]"
 }

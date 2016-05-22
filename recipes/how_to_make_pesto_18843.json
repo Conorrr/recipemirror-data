@@ -1,24 +1,25 @@
 {
-    "title": "How to make pesto",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "17",
-    "images": [
-        
-    ],
-    "description": "Pesto is very versatile. You can add it to freshly cooked pasta, spread onto white fish before baking, serve with grilled chicken or spread on bruschetta. This homemade version is also much lower in salt than typical shop-bought pesto.",
     "author": {
         "william_leigh": "William Leigh"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "For a change, try using pecorino cheese instead of parmesan, it has a lovely citrus flavour which works well in the pesto. Or reserve 25g/1oz of the toasted pine nuts and stir them through at the end to give the pesto more texture. There are various types of pesto, including walnut, rocket, spinach and many more."
+    "cookTime": "less than 10 mins",
+    "cusine": "Italian",
+    "description": "Pesto is very versatile. You can add it to freshly cooked pasta, spread onto white fish before baking, serve with grilled chicken or spread on bruschetta. This homemade version is also much lower in salt than typical shop-bought pesto.",
+    "dishes": [
+        "bruschetta",
+        "bun",
+        "pasta",
+        "pesto",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +32,12 @@
             "squeeze lemon juice"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "17",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Heat a dry frying pan over a medium heat. Add the pine nuts and toast them for a few minutes until browned and fragrant.",
         "Place the parmesan chunks in a food processor and add the basil leaves, garlic, toasted pine nuts and olive oil. Season to taste with salt and freshly ground black pepper.",
@@ -38,8 +45,9 @@
         "Taste the pesto for seasoning, and add a squeeze of lemon juice if you like.",
         "If not using straight away, you can store the pesto in a jar and will keep for a week in the fridge. Or you can put it into ice-cube trays and freeze."
     ],
-    "howTos": [
-        
+    "tips": [
+        "For a change, try using pecorino cheese instead of parmesan, it has a lovely citrus flavour which works well in the pesto. Or reserve 25g/1oz of the toasted pine nuts and stir them through at the end to give the pesto more texture. There are various types of pesto, including walnut, rocket, spinach and many more."
     ],
+    "title": "How to make pesto",
     "videos": "[p00yb453:p00yb455]"
 }

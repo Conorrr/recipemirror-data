@@ -1,32 +1,30 @@
 {
-    "title": "Rustic smoky bacon quiche",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "This take on the French quiche Lorraine uses Scottish cheddar and smoked bacon to ring the changes.",
     "author": {
         "theo_randall": "Theo Randall"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "This take on the French quiche Lorraine uses Scottish cheddar and smoked bacon to ring the changes.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "quiche"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "trimming_pastry_case",
+        "cartouche",
+        "rolling_pastry",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "150g/5oz unsalted butter (cut into cubes)",
-            "250g/9oz plain flour",
-            "1 free-range egg",
-            "pinch of salt"
-        ],
         "For the filling": [
             "80g/3oz smoked bacon, cut into matchsticks",
             "2 garlic cloves",
@@ -36,7 +34,19 @@
             "250ml/9fl oz single cream",
             "2 free-range eggs",
             "2 free-range egg yolks"
+        ],
+        "For the pastry": [
+            "150g/5oz unsalted butter (cut into cubes)",
+            "250g/9oz plain flour",
+            "1 free-range egg",
+            "pinch of salt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
     },
     "steps": [
         "For the pastry, preheat the oven to 180C/350F/Gas 4.",
@@ -48,11 +58,9 @@
         "Layer the cheese with the bacon and onion mixture in the cooked pastry case and pour over the egg mixture. Top with some more cheese and trim the crust if needed.",
         "Bake for 25-30 minutes or until the filling is just set in the middle. Serve in slices while still hot."
     ],
-    "howTos": [
-        "trimming_pastry_case",
-        "cartouche",
-        "rolling_pastry",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Rustic smoky bacon quiche",
     "videos": "[]"
 }

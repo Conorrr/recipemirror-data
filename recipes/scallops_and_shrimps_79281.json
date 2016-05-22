@@ -1,26 +1,36 @@
 {
-    "title": "Scallops and shrimps with beurre blanc, topped with puff pastry",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Scallops and shrimps served in a scallop shell topped with buttery pastry and a delicious butter sauce. You can make this easier by buying good-quality fish stock instead of making your own.",
     "author": {
         "john_burton_race": "John Burton Race"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Scallops and shrimps served in a scallop shell topped with buttery pastry and a delicious butter sauce. You can make this easier by buying good-quality fish stock instead of making your own.",
+    "dishes": [
+        "mousse",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "seafood",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the beurre blanc": [
+            "2 shallots, peeled and finely sliced",
+            "1 tbsp white wine vinegar",
+            "3 tbsp white wine",
+            "225g/8oz butter, diced",
+            "4 tbsp fresh tarragon, finely chopped"
+        ],
         "For the fish stock": [
             "1kg/2lb 4oz white fish bones, washed",
             "1 onion, roughly chopped",
@@ -30,6 +40,13 @@
             "1 bay leaf",
             "375ml/13fl oz dry white vermouth",
             "750ml/1\u00bc pints white wine"
+        ],
+        "For the mousse": [
+            "1 plaice, filleted and skin removed",
+            "2 scallops, shelled, coral removed and cleaned",
+            "250ml/9fl oz fish stock (from above)",
+            "250ml/9fl oz double cream",
+            "salt and pepper"
         ],
         "For the scallops": [
             "1 carrot, peeled, cut into thin strips",
@@ -42,21 +59,13 @@
             "4 sprigs fresh chervil",
             "250g/9oz all-butter puff pastry",
             "1 medium free-range egg, lightly beaten with 4 tsp full-fat milk for egg wash"
-        ],
-        "For the mousse": [
-            "1 plaice, filleted and skin removed",
-            "2 scallops, shelled, coral removed and cleaned",
-            "250ml/9fl oz fish stock (from above)",
-            "250ml/9fl oz double cream",
-            "salt and pepper"
-        ],
-        "For the beurre blanc": [
-            "2 shallots, peeled and finely sliced",
-            "1 tbsp white wine vinegar",
-            "3 tbsp white wine",
-            "225g/8oz butter, diced",
-            "4 tbsp fresh tarragon, finely chopped"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "To make the fish stock, place the bones, onion, fennel, parsley stalks, garlic and bay leaf into a large saucepan. Add the vermouth, white wine and enough water to cover the bones. Bring to the boil and simmer for 20 minutes, skim any scum that rises to the top while cooking. Do not cook for any longer as the stock will be cloudy. Strain and set aside.",
@@ -70,8 +79,9 @@
         "For the scallops, just before baking the shells in the oven brush with the top of the pastry with egg wash. Place in the oven and cook for 8-10 minutes, or until the pastry is golden-brown.",
         "Serve the scallops in their shells with the beurre blanc in a jug."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Scallops and shrimps with beurre blanc, topped with puff pastry",
     "videos": "[]"
 }

@@ -1,24 +1,26 @@
 {
-    "title": "Momma's meat jambalaya",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "4-6",
-    "recommendations": "45",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mommasmeatjambalaya_76386_16x9.jpg"
-    ],
-    "description": "The beauty of this dish is that you can substitute or add whatever you like. It's a great way to use up what's in your kitchen. A simple version of a well-loved dish.",
     "author": {
         "momma_cherri": "Momma Cherri"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "The beauty of this dish is that you can substitute or add whatever you like. It's a great way to use up what's in your kitchen. A simple version of a well-loved dish.",
+    "dishes": [
+        "jam",
+        "pie",
+        "sausage",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mommasmeatjambalaya_76386_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -39,6 +41,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "45",
+    "serves": "4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Heat the olive oil in a large pan and add the onion, mixed peppers, garlic, chorizo and chicken pieces. Cook for about ten minutes.",
         "Add the chilli peppers. These are very hot so be careful how many you add. When handling them, take care if you have any cuts as they will really hurt.",
@@ -49,8 +57,9 @@
         "Simmer for about 45 minutes to an hour. Taste for seasoning and add salt and freshly ground black pepper and more spices, depending on your personal taste.",
         "Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Momma's meat jambalaya",
     "videos": "[]"
 }

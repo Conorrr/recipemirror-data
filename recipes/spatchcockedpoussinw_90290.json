@@ -1,28 +1,36 @@
 {
-    "title": "How to make spatchcocked poussin with chilli jam",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 2",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spatchcockedpoussinw_90290_16x9.jpg"
-    ],
-    "description": "If you want to serve the chilli jam with the marinated poussin, it is best to make it the day before, as it takes an hour to cook. It will keep well, covered, in the fridge for several days.",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "If you want to serve the chilli jam with the marinated poussin, it is best to make it the day before, as it takes an hour to cook. It will keep well, covered, in the fridge for several days.",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "prepare-ahead_desserts",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "spatchcocking"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spatchcockedpoussinw_90290_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "1 x 450g/1lb oven-ready poussin, whole or ready-spatchcocked (available in some supermarkets, or your butcher can prepare for you)"
+        "For the chilli jam": [
+            "750g/1lb 10oz cherry tomatoes, cut in half",
+            "150ml/5fl oz white wine vinegar",
+            "150ml/5fl oz water",
+            "375g/13oz caster sugar",
+            "3 garlic cloves, chopped",
+            "1 tsp dried chilli flakes",
+            "1 tsp mustard seeds"
         ],
         "For the marinade": [
             "5-6 green cardamom pods",
@@ -34,19 +42,19 @@
             "4-5 tbsp olive oil, plus extra for drizzling on the griddle pan",
             "salt and freshly ground black pepper"
         ],
-        "For the chilli jam": [
-            "750g/1lb 10oz cherry tomatoes, cut in half",
-            "150ml/5fl oz white wine vinegar",
-            "150ml/5fl oz water",
-            "375g/13oz caster sugar",
-            "3 garlic cloves, chopped",
-            "1 tsp dried chilli flakes",
-            "1 tsp mustard seeds"
-        ],
         "To serve": [
             "naan bread",
             "limes, juice only"
+        ],
+        "default": [
+            "1 x 450g/1lb oven-ready poussin, whole or ready-spatchcocked (available in some supermarkets, or your butcher can prepare for you)"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "4",
+    "serves": "Serves 2",
+    "show": {
+        
     },
     "steps": [
         "If you're using a ready-spatchcocked poussin, skip to Step 7. If using a whole poussin, first remove any string that's holding the poussin into shape. Trim away the spare flap of skin at the neck.",
@@ -65,8 +73,9 @@
         "Peel the garlic cloves and finely chop; add to the pan. Add the chilli flakes and mustard seeds. Cook over a medium-high heat for about an hour, until the mixture has a thick, jam-like consistency. Be careful not to let it burn. You can make the chilli jam a couple of days ahead and keep it covered, in the fridge, until ready to use.",
         "To serve, squeeze some fresh lime juice over the poussin and place onto a serving plate. Serve with the chilli jam and some naan bread on the side, plus a green salad if you like."
     ],
-    "howTos": [
-        "spatchcocking"
+    "tips": [
+        
     ],
+    "title": "How to make spatchcocked poussin with chilli jam",
     "videos": "[]"
 }

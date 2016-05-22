@@ -1,26 +1,29 @@
 {
-    "title": "Beef stir-fry with cro\u00fbtons",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1-2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "ciabatta",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the croutons": [
+            "1 tbsp olive oil",
+            "1 slice ciabatta, roughly torn into bite-sized pieces"
+        ],
         "default": [
             "1 tbsp olive oil",
             "200g/7oz rump steak, cut into strips",
@@ -30,11 +33,13 @@
             "2 baby leeks, chopped",
             "1 garlic clove, finely chopped",
             "splash water"
-        ],
-        "For the croutons": [
-            "1 tbsp olive oil",
-            "1 slice ciabatta, roughly torn into bite-sized pieces"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1-2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat the olive oil in a wok or large frying pan. Season the steak with salt and freshly ground black pepper and stir fry over a high heat for 2-3 minutes. Remove the steak from the pan and set aside in a warm place.",
@@ -43,8 +48,9 @@
         "For the croutons, heat the oil in the wok and fry the bread pieces until golden-brown and crisp.",
         "To serve, sprinkle the croutons over the stir-fry."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef stir-fry with cro\u00fbtons",
     "videos": "[]"
 }

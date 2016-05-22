@@ -1,24 +1,26 @@
 {
-    "title": "Really good kedgeree",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "74",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/really_good_kedgeree_75198_16x9.jpg"
-    ],
-    "description": "Spicy and delicious, this kedgeree is dead easy to make and perfect for a big family brunch. Some people love peas in a kedgeree and some don\u2019t \u2013 it\u2019s up to you. It tastes great either way.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Spicy and delicious, this kedgeree is dead easy to make and perfect for a big family brunch. Some people love peas in a kedgeree and some don\u2019t \u2013 it\u2019s up to you. It tastes great either way.",
+    "dishes": [
+        "curry",
+        "kedgeree",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/really_good_kedgeree_75198_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -37,6 +39,12 @@
             "freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "74",
+    "serves": "Serves 6",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
+    },
     "steps": [
         "Place the haddock in a large frying pan, skin-side up. Pour over 500ml/17fl oz water, add the bay leaves and bring the water to a gentle simmer. Cook the fish for 8-10 minutes until it is just done and flakes easily. Drain in a colander set over a bowl, reserving the cooking liquor, and discard the bay leaves.",
         "Pour the cooking liquor into a medium saucepan and stir in the rice. Cover with a lid and bring to the boil. Reduce the heat and simmer the rice very gently for 10 minutes. Turn off the heat and leave the rice covered for 3-5 minutes more. By this time it should have absorbed all the fish liquor.",
@@ -45,8 +53,9 @@
         "Flake the fish into chunky pieces and add these to the pan. Gently stir the lemon juice and cook for 1-2 minutes. Cut the eggs into quarters and place them on the rice. Cover the pan with a lid and heat through for 2-3 minutes or until the eggs are warm, then serve.",
         "If not serving immediately, tip the kedgeree into a warm dish and dot with a few cubes of butter. Cover with foil and keep warm in a low oven for up to 20 minutes before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Really good kedgeree",
     "videos": "[]"
 }

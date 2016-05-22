@@ -1,26 +1,34 @@
 {
-    "title": "Smoked cheese and potato cakes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-5",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "cake",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pea pur\u00e9e": [
+            "4 shallots, chopped",
+            "1 tbsp olive oil",
+            "100ml/3\u00bdfl oz white wine",
+            "100ml/3\u00bdfl oz chicken stock (vegetarians can substitute vegetable stock)",
+            "500g/1lb 2oz frozen peas",
+            "2-3 tbsp chopped fresh mint",
+            "2 tbsp cr\u00e8me fra\u00eeche"
+        ],
         "default": [
             "vegetable oil, for deep frying",
             "6 large floury potatoes (such as Maris Piper), peeled, cooked and mashed",
@@ -32,16 +40,13 @@
             "150g/5oz plain flour",
             "2 large free-range eggs, beaten",
             "150g/5oz polenta, for rolling"
-        ],
-        "For the pea pur\u00e9e": [
-            "4 shallots, chopped",
-            "1 tbsp olive oil",
-            "100ml/3\u00bdfl oz white wine",
-            "100ml/3\u00bdfl oz chicken stock (vegetarians can substitute vegetable stock)",
-            "500g/1lb 2oz frozen peas",
-            "2-3 tbsp chopped fresh mint",
-            "2 tbsp cr\u00e8me fra\u00eeche"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4-5",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Heat the oil in a deep, heavy-bottomed pan until a breadcrumb sizzles and turns brown when dropped in it. (CAUTION: hot oil can be dangerous. Do not leave unattended.)",
@@ -56,8 +61,9 @@
         "Transfer the pea pur\u00e9e to a bowl, add the cr\u00e8me fra\u00eeche and stir to combine.",
         "To serve, place two potato cakes onto each plate and serve with a dollop of pea pur\u00e9e."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Smoked cheese and potato cakes",
     "videos": "[]"
 }

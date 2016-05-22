@@ -1,24 +1,24 @@
 {
-    "title": "Spicy Mexican eggs (huevos rancheros)",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "18",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/huevosrancherosranch_84543_16x9.jpg"
-    ],
-    "description": "Try a Mexican-inspired brunch with this healthy egg and spicy tomato dish. It's ready in a flash too.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Mexican",
+    "description": "Try a Mexican-inspired brunch with this healthy egg and spicy tomato dish. It's ready in a flash too.",
+    "dishes": [
+        "oven-baked_dishes",
+        "salsa",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/huevosrancherosranch_84543_16x9.jpg"
     ],
     "ingredients": {
         "For the salsa": [
@@ -41,14 +41,21 @@
             "hot chilli sauce"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "18",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "To make the salsa, put the kale, onion, peppers, chilli, courgette, garlic and passata into a bowl. Season with salt and pepper and mix well.",
         "Heat the oil in a medium lidded frying pan over a medium heat and add a quarter of the salsa. Stir to warm through, then make a hole in the middle of the salsa. Place the butter in the clear area in the middle of the pan, then break 2 eggs into this space.",
         "Put the lid on the pan and cook for 3-4 minutes. The dish is ready when the eggs are cooked into the salsa and the whites are firm. Slide the eggs and salsa onto a large plate and keep warm as you repeat this process three more times.",
         "To serve, sprinkle each dish with coriander leaves and serve the warm tortillas and chilli sauce alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spicy Mexican eggs (huevos rancheros)",
     "videos": "[]"
 }

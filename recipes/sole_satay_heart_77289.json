@@ -1,26 +1,38 @@
 {
-    "title": "Sole satay heart",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Fillets of sole cooked en papillote in a rich satay sauce and served with rice and a light salad. Quick, tasty and - if you have an accommodating fishmonger - very simple.",
     "author": {
         "henry_dimbleby": "Henry Dimbleby"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Fillets of sole cooked en papillote in a rich satay sauce and served with rice and a light salad. Quick, tasty and - if you have an accommodating fishmonger - very simple.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pasty",
+        "pie",
+        "salad",
+        "satay",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_cook_perfect_rice"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the green salad": [
+            "1 iceberg lettuce, core removed, shredded",
+            "1 tbsp white wine vinegar",
+            "3 tbsp olive oil",
+            "1 tsp Dijon mustard",
+            "1 lemon, juice only"
+        ],
+        "For the rice": [
+            "1 cup basmati rice"
+        ],
         "For the sole satay heart": [
             "1 shallot, roughly chopped",
             "2\u00bdcm/1in piece ginger, roughly chopped",
@@ -40,17 +52,13 @@
             "\u00bd red chilli, seeds removed and chopped",
             "handful fresh coriander, roughly chopped",
             "1 lime, juice only"
-        ],
-        "For the rice": [
-            "1 cup basmati rice"
-        ],
-        "For the green salad": [
-            "1 iceberg lettuce, core removed, shredded",
-            "1 tbsp white wine vinegar",
-            "3 tbsp olive oil",
-            "1 tsp Dijon mustard",
-            "1 lemon, juice only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 2",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the sole satay heart, preheat the oven to 180C/350F/Gas 4.",
@@ -63,8 +71,9 @@
         "For the green salad, place the lettuce in a large bowl. In a separate small bowl mix the remaining ingredients to make a dressing. Dress the lettuce just before serving.",
         "To serve, place the cooked rice on a large oval serving plate and bring the wrapped fish to the table. Pierce with a knife and place the fillets of fish on top of rice, spoon over any cooking juices and add a squeeze of lime juice. Top with the toasted cashews, garlic and chilli. Sprinkle over the chopped coriander and serve with the green salad."
     ],
-    "howTos": [
-        "how_to_cook_perfect_rice"
+    "tips": [
+        
     ],
+    "title": "Sole satay heart",
     "videos": "[]"
 }

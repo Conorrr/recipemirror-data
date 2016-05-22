@@ -1,26 +1,32 @@
 {
-    "title": "Smoked fish pie with hard-boiled eggs",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "Rachel Allen shows you how to make a smoky fish pie, rich with cheese and eggs. A real winter warmer.",
     "author": {
         "rachel_allen": "Rachel Allen"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Rachel Allen shows you how to make a smoky fish pie, rich with cheese and eggs. A real winter warmer.",
+    "dishes": [
+        "fish_pie",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_boil_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the white sauce": [
+            "25g/1oz butter",
+            "25g/1oz plain flour",
+            "salt and freshly ground black pepper",
+            "pinch freshly grated nutmeg"
+        ],
         "default": [
             "350g/12oz skinned fish, such as ling, hake, cod, haddock or salmon",
             "350g/12oz un-dyed smoked haddock, skin removed",
@@ -33,13 +39,13 @@
             "4 free-range eggs",
             "2 tbsp chopped fresh parsley",
             "50g/2oz gruy\u00e8re or cheddar, grated"
-        ],
-        "For the white sauce": [
-            "25g/1oz butter",
-            "25g/1oz plain flour",
-            "salt and freshly ground black pepper",
-            "pinch freshly grated nutmeg"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "10",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Place the pieces of fish in a wide pan, add the quartered onion and bay leaf and pour over 450ml/16floz of the milk.",
@@ -62,8 +68,9 @@
         "Arrange the mashed potato over the top of the sauce, score with a fork to make a pretty pattern and sprinkle with the grated cheese.",
         "Place in the oven and cook for about 30 minutes, until bubbling and golden-brown on top. Serve straightaway."
     ],
-    "howTos": [
-        "how_to_boil_eggs"
+    "tips": [
+        
     ],
+    "title": "Smoked fish pie with hard-boiled eggs",
     "videos": "[]"
 }

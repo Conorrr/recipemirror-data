@@ -1,24 +1,22 @@
 {
-    "title": "Potato gratin, fried egg and spinach",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/potato_gratin_fried_egg_32535_16x9.jpg"
-    ],
-    "description": "This 10-minutes-to-table brunch gives leftover potato gratin a tasty new lease of life. Use any type of gratin you have in the fridge.",
     "author": {
         "tim_maddams": "Tim Maddams"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "This 10-minutes-to-table brunch gives leftover potato gratin a tasty new lease of life. Use any type of gratin you have in the fridge.",
+    "dishes": [
+        "dauphinoise_potatoes",
+        "gratin",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/potato_gratin_fried_egg_32535_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,14 +30,21 @@
             "splash Worcestershire sauce"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        
+    },
     "steps": [
         "Season the flour with salt and pepper. Lightly dust the gratin in the seasoned flour.",
         "Melt half the butter in a frying pan over a medium heat. Add the gratin and cook for 3-4 minutes on each side, until golden brown and hot through, then transfer to a plate.",
         "Cook the spinach and garlic in the pan, stirring, for 30-60 seconds, until the spinach has wilted. Spoon on top of the gratin.",
         "Melt the remaining butter in the pan, then crack in the egg and fry until it has just set. Place the egg on top of the spinach, splash on the Worcestershire sauce and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Potato gratin, fried egg and spinach",
     "videos": "[]"
 }

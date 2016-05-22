@@ -1,31 +1,23 @@
 {
-    "title": "Duck with mango salsa",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "",
+    "dishes": [
+        "salsa"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 small Barbary duck breasts",
-            "salt, to taste",
-            "freshly ground green peppercorns"
-        ],
         "For the mango salsa": [
             "4 tbsp red onion, finely chopped",
             "2 ripe mangoes, peeled and cut into 1cm (\u00bdin) dice",
@@ -36,7 +28,18 @@
             "\u00bd tsp salt",
             "freshly ground green peppercorns",
             "flatleaf parsley, to garnish"
+        ],
+        "default": [
+            "4 small Barbary duck breasts",
+            "salt, to taste",
+            "freshly ground green peppercorns"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Season the duck breasts with salt and freshly ground green peppercorns, then place them, skin-side down, on a heated griddle pan.",
@@ -48,8 +51,9 @@
         "Taste the salsa, adding a little more lime, sugar or salt if desired.",
         "Garnish the duck breasts with parsley and serve with plenty of salsa on the side. Serve with Asian crispy noodles."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Duck with mango salsa",
     "videos": "[]"
 }

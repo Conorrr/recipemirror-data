@@ -1,34 +1,28 @@
 {
-    "title": "Apple tart with mulberry and blackberry ice cream",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4-6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "If you can\u2019t find any mulberries, just use blackberries - the ice cream will still be delicious. The recipe is also suitable for frozen berries. Equipment and preparation: for this recipe you will need an ice cream maker.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "If you can\u2019t find any mulberries, just use blackberries - the ice cream will still be delicious. The recipe is also suitable for frozen berries. Equipment and preparation: for this recipe you will need an ice cream maker.",
+    "dishes": [
+        "caramel",
+        "custard",
+        "fruit_tart",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "rolling_pastry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the mulberry and blackberry ice cream": [
-            "250g/9oz mixed mulberries and blackberries",
-            "95g/3oz sugar",
-            "150ml/5fl oz cream",
-            "150ml/5fl oz milk",
-            "\u00bd vanilla pod, cut in half lengthways and seeds scraped out",
-            "3 free-range egg yolks"
-        ],
         "For the apple tart": [
             "3 Bramley apples, peeled, cored and roughly chopped",
             "450g/1lb ready-made puff pastry",
@@ -36,7 +30,21 @@
             "2 Pink Lady apples, peeled, cored and thinly sliced",
             "75g/2\u00bdoz butter, melted",
             "4 tbsp caster sugar"
+        ],
+        "For the mulberry and blackberry ice cream": [
+            "250g/9oz mixed mulberries and blackberries",
+            "95g/3oz sugar",
+            "150ml/5fl oz cream",
+            "150ml/5fl oz milk",
+            "\u00bd vanilla pod, cut in half lengthways and seeds scraped out",
+            "3 free-range egg yolks"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "3",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the mulberry and blackberry ice cream, add the mulberries, blackberries, 15g/\u00bdoz of the sugar and a tablespoon of cold water to a pan and heat for five minutes, or until the berries have softened. Set aside to cool.",
@@ -54,8 +62,9 @@
         "Bake for 25-30 minutes, or until the pastry is golden-brown and the apples are caramelised.",
         "To serve, cut the tart into slices and place in the centre of serving plates with a ball of ice cream alongside."
     ],
-    "howTos": [
-        "rolling_pastry"
+    "tips": [
+        
     ],
+    "title": "Apple tart with mulberry and blackberry ice cream",
     "videos": "[]"
 }

@@ -1,26 +1,32 @@
 {
-    "title": "Chicken and pea risotto",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "50",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenbreastwithpea_87568_16x9.jpg"
-    ],
-    "description": "A light and summery risotto recipe that can be rustled up in no time.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b009f3wl": "Recipe for Success"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A light and summery risotto recipe that can be rustled up in no time.",
+    "dishes": [
+        "oven-baked_dishes",
+        "risotto",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenbreastwithpea_87568_16x9.jpg"
+    ],
     "ingredients": {
+        "For the chicken": [
+            "oil, for frying",
+            "salt and freshly ground black pepper",
+            "4 chicken breasts, skin on",
+            "chicken or vegetable stock, to cover",
+            "parmesan shavings, to serve"
+        ],
         "For the risotto": [
             "olive oil, for frying",
             "2 onions, sliced",
@@ -33,14 +39,13 @@
             "400g/14oz baby spinach",
             "1 tbsp chopped fresh basil",
             "75ml/2\u00bdfl oz double cream"
-        ],
-        "For the chicken": [
-            "oil, for frying",
-            "salt and freshly ground black pepper",
-            "4 chicken breasts, skin on",
-            "chicken or vegetable stock, to cover",
-            "parmesan shavings, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "50",
+    "serves": "Serves 4",
+    "show": {
+        "b009f3wl": "Recipe for Success"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -50,8 +55,9 @@
         "Place the chicken breasts in an ovenproof dish and pour in enough stock to come one third of the way up the sides of the chicken breasts. Place in the oven for 15 minutes, or until completely cooked through.",
         "To serve, place the risotto into serving bowls. Slice the chicken and place on top of the risotto, then sprinkle with parmesan shavings."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken and pea risotto",
     "videos": "[]"
 }

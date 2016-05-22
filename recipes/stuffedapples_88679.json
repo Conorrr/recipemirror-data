@@ -1,24 +1,22 @@
 {
-    "title": "Stuffed apples",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "richard_phillips": "Richard Phillips"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "caramelising_sugar"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,6 +30,12 @@
             "50ml/2fl oz double cream"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "Place the blueberries, almonds and bara brith into a bowl and mash slightly with a fork. Stuff the centre of the apples with this mixture.",
@@ -40,8 +44,9 @@
         "Sprinkle the remaining brown sugar over the top of the apples. Using a mini-blowtorch, caramelise the sugar.",
         "Transfer to serving plates and serve with the pan juices poured over the top."
     ],
-    "howTos": [
-        "caramelising_sugar"
+    "tips": [
+        
     ],
+    "title": "Stuffed apples",
     "videos": "[]"
 }

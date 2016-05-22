@@ -1,32 +1,27 @@
 {
-    "title": "Crab with wakame salad and wasabi mayonnaise",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Try this simple to prepare salad of white crabmeat served with cucumber, seaweed and spicy mayonnaise.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b0424667": "Spring Kitchen with Tom Kerridge"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Japanese",
+    "description": "Try this simple to prepare salad of white crabmeat served with cucumber, seaweed and spicy mayonnaise.",
+    "dishes": [
+        "mayonnaise",
+        "prepare-ahead_desserts",
+        "salad",
+        "sauce",
+        "seafood"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "40g/1\u00bdoz dried wakame seaweed",
-            "\u00bd cucumber, peeled",
-            "225g/8oz fresh white crabmeat",
-            "1 tbsp bonito flakes"
-        ],
         "For the wakame dressing": [
             "\u00bd tsp dashi granules",
             "40ml/1\u00bdfl oz warm water",
@@ -40,7 +35,19 @@
             "2 tsp wasabi powder",
             "300ml/10fl oz rapeseed oil",
             "\u00bd tsp salt"
+        ],
+        "default": [
+            "40g/1\u00bdoz dried wakame seaweed",
+            "\u00bd cucumber, peeled",
+            "225g/8oz fresh white crabmeat",
+            "1 tbsp bonito flakes"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b0424667": "Spring Kitchen with Tom Kerridge"
     },
     "steps": [
         "Refresh the wakame seaweed in a bowl of boiling water for five minutes, then drain well and slice if necessary.",
@@ -49,8 +56,9 @@
         "To make the mayonnaise, mix the egg yolks, white wine vinegar and wasabi powder together in a bowl. Using a wire whisk gradually beat in the oil a few drops at a time, until you have incorporated it all and have achieved a mayonnaise-like texture. Season to taste with salt.",
         "To serve, divide the crabmeat equally between four small ramekins and gently press down. (Or serve piled up.) Turn the crabmeat out onto four plates and spoon a tablespoon of the wasabi mayonnaise alongside. Take a large handful of the cucumber and wakame seaweed and place next to the crabmeat, sprinkle the bonito flakes on top of the seaweed, and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Crab with wakame salad and wasabi mayonnaise",
     "videos": "[]"
 }

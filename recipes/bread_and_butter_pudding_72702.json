@@ -1,24 +1,27 @@
 {
-    "title": "Bread and butter pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Turn this comfort food classic into a summery dish by replacing the custard with cherry jam and serving with vanilla-spiked double cream, cherries and strawberries.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Turn this comfort food classic into a summery dish by replacing the custard with cherry jam and serving with vanilla-spiked double cream, cherries and strawberries.",
+    "dishes": [
+        "bread",
+        "bread_and_butter_pudding",
+        "caramel",
+        "custard",
+        "jam",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,6 +35,12 @@
             "200ml/7fl oz double cream"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4-6",
+    "show": {
+        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "Melt the cherry jam and 340ml/12fl oz of water in a pan and stir well.",
@@ -43,8 +52,9 @@
         "Add the vanilla extract to the double cream in a large bowl and lightly whisk until soft peaks form when the whisk is removed from the bowl.",
         "When the bread is cooked and caramelised, slice into portions and serve with a helping of cream and a scattering of fruit."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Bread and butter pudding",
     "videos": "[]"
 }

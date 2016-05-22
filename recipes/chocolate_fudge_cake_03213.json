@@ -1,24 +1,27 @@
 {
-    "title": "Chocolate fudge cake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 12 slices",
-    "recommendations": "125",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_fudge_cake_03213_16x9.jpg"
-    ],
-    "description": "This fantastically fudgey chocolate cake is rich, moist and treacly with a glossy ganache finish.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "This fantastically fudgey chocolate cake is rich, moist and treacly with a glossy ganache finish.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "fudge",
+        "icing",
+        "oven-baked_dishes",
+        "sandwich",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "greasing_and_lining",
+        "melting_chocolate"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_fudge_cake_03213_16x9.jpg"
     ],
     "ingredients": {
         "For the cake": [
@@ -47,6 +50,12 @@
             "150g/5\u00bcoz plain chocolate, plus extra chocolate shavings, to decorate"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "125",
+    "serves": "Makes 12 slices",
+    "show": {
+        
+    },
     "steps": [
         "Preheat the oven to 170C/335F/Gas 3. Grease and line two 20cm/8in sandwich tins.",
         "Melt the chocolate, butter and water together in a saucepan over a low heat, stirring occasionally, until smooth. Set aside to cool slightly.",
@@ -61,9 +70,9 @@
         "Spread the chocolate buttercream over the top of one of the chocolate cakes, then carefully top with the other cake.",
         "Transfer the cake to a serving plate and spoon the chocolate ganache over the top of the cake, allowing it to drizzle over the edge. Garnish with chocolate shavings and serve in slices."
     ],
-    "howTos": [
-        "greasing_and_lining",
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "Chocolate fudge cake",
     "videos": "[]"
 }

@@ -1,24 +1,27 @@
 {
-    "title": "Chicken and leek pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "227",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_and_leek_pie_77394_16x9.jpg"
-    ],
-    "description": "A super simple pasty filled with chicken and bacon in a creamy mustard sauce.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b01nd35k": "Nigel Slater's Dish of the Day"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "A super simple pasty filled with chicken and bacon in a creamy mustard sauce.",
+    "dishes": [
+        "chicken_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pasty",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_and_leek_pie_77394_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -37,6 +40,12 @@
             "parmesan, grated, for topping"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "227",
+    "serves": "Serves 8",
+    "show": {
+        "b01nd35k": "Nigel Slater's Dish of the Day"
+    },
     "steps": [
         "Pre-heat the oven to 200C/400F/Gas 6.",
         "In a saucepan add the chicken, peppercorns, onion and bay leaf. Cover with milk. Bring to the boil and simmer for 25 minutes until the chicken is cooked.",
@@ -46,8 +55,9 @@
         "Roll out the sheets of puff pastry to a rectangular shape at a pound coin thickness. Lay the filling on one sheet and then cover with the second sheet and crimp the edges.",
         "Brush the pie with a beaten egg and sprinkle the grated Parmesan over the top. Bake in the oven for 35-45 minutes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken and leek pie",
     "videos": "[]"
 }

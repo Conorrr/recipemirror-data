@@ -1,24 +1,25 @@
 {
-    "title": "Chicken korma",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "228",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_korma_16352_16x9.jpg"
-    ],
-    "description": "Rich, creamy chicken korma is usually forbidden territory if you\u2019re watching your weight, but we\u2019d hate you to miss out so we\u2019ve come up with our healthy chicken curry recipe. Add extra chilli if you like. 294 calories per portion (without rice)",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "p00vq8c6": "Hairy Dieters: How to Love Food and Lose Weight"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "Rich, creamy chicken korma is usually forbidden territory if you\u2019re watching your weight, but we\u2019d hate you to miss out so we\u2019ve come up with our healthy chicken curry recipe. Add extra chilli if you like. 294 calories per portion (without rice)",
+    "dishes": [
+        "chicken_curry",
+        "curry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_korma_16352_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -44,6 +45,12 @@
             "fresh coriander, roughly torn, to garnish (optional)"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "228",
+    "serves": "Serves 4",
+    "show": {
+        "p00vq8c6": "Hairy Dieters: How to Love Food and Lose Weight"
+    },
     "steps": [
         "Cut each chicken breast into eight or nine bite-sized pieces, season with black pepper and put them in a non-metallic bowl. Stir in the yoghurt, cover with cling film and chill for a minimum of 30 minutes but ideally 2\u20136 hours.",
         "Heat the oil in a large, non-stick saucepan and add the onions, garlic and ginger. Cover and cook over a low heat for 15 minutes until very soft and lightly coloured. Stir the onions occasionally so they don\u2019t start to stick.",
@@ -57,8 +64,9 @@
         "Add the chicken pieces and cream and cook for about 10 minutes or until the chicken is tender and cooked through, stirring regularly. Exactly how long the chicken takes will depend on the size of your pieces, so check a piece after eight minutes \u2013 there should be no pink remaining.",
         "Adjust the seasoning to taste, spoon into a warmed serving dish and serve garnished with fresh coriander if you like."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken korma",
     "videos": "[]"
 }

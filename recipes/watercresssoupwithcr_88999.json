@@ -1,26 +1,35 @@
 {
-    "title": "Watercress soup with crushed Jersey Royal potatoes and chives",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "jam",
+        "soup",
+        "stock",
+        "vegetable_soup"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "whipping_cream"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Jersey Royals": [
+            "400g/14oz Jersey Royal potatoes, washed",
+            "75g/3oz butter",
+            "4 tbsp chives, finely chopped",
+            "110ml/4fl oz double cream",
+            "\u00bd lemon, juice only",
+            "salt and freshly ground black pepper",
+            "watercress, to garnish"
+        ],
         "For the soup": [
             "50g/2oz butter",
             "2 large banana shallots, roughly chopped",
@@ -30,16 +39,13 @@
             "150ml/5fl oz double cream",
             "salt and freshly ground black pepper",
             "pinch freshly grated nutmeg"
-        ],
-        "For the Jersey Royals": [
-            "400g/14oz Jersey Royal potatoes, washed",
-            "75g/3oz butter",
-            "4 tbsp chives, finely chopped",
-            "110ml/4fl oz double cream",
-            "\u00bd lemon, juice only",
-            "salt and freshly ground black pepper",
-            "watercress, to garnish"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the soup, heat a pan until hot, then add the butter and shallots and fry for 2-3 minutes over a low heat until softened, but not browned.",
@@ -52,8 +58,9 @@
         "Meanwhile, pour the cream into a bowl and add the lemon juice, salt and freshly ground black pepper. Whisk the cream until soft peaks form when the whisk is removed.",
         "To serve, place a large spoonful of the crushed potatoes into the centre of each of four shallow soup bowls. Ladle the soup around the crushed potatoes, leaving islands of potato visible. Top each pile of crushed potatoes with a spoonful of soured cream and a few sprigs of watercress."
     ],
-    "howTos": [
-        "whipping_cream"
+    "tips": [
+        
     ],
+    "title": "Watercress soup with crushed Jersey Royal potatoes and chives",
     "videos": "[]"
 }

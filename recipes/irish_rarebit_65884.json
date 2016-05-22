@@ -1,24 +1,24 @@
 {
-    "title": "Irish rarebit",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 3",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/irish_rarebit_65884_16x9.jpg"
-    ],
-    "description": "Take cheese on toast up a level with this stout and mustard rarebit mix. Keeps in the fridge for up to five days.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b01rhdgt": "Paul Hollywood's Bread"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Irish",
+    "description": "Take cheese on toast up a level with this stout and mustard rarebit mix. Keeps in the fridge for up to five days.",
+    "dishes": [
+        "bread",
+        "sauce",
+        "stir-fries",
+        "welsh_rarebit"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/irish_rarebit_65884_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -33,14 +33,21 @@
             "6 slices toasted soda bread"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 3",
+    "show": {
+        "b01rhdgt": "Paul Hollywood's Bread"
+    },
     "steps": [
         "Warm the milk in a saucepan and whisk in the flour. Keep stirring and bring to the boil. Reduce the heat to a simmer. The milk should thicken slightly.",
         "Add the cheese and stir over a low heat until it has melted. Add the breadcrumbs, mustard and stout. Continue stirring until the mixture comes together, it should leave the sides of the pan.",
         "Remove from the heat and tip into a bowl, leave to cool slightly. Once cooled add the egg yolks and beat vigorously with a wooden spoon until the egg is thoroughly mixed in. Add the chopped spring onions.",
         "Spread the rarebit on toasted soda bread and place under a hot grill until bubbling and golden-brown."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Irish rarebit",
     "videos": "[]"
 }

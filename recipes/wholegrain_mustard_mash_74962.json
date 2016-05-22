@@ -1,24 +1,21 @@
 {
-    "title": "Wholegrain mustard mash",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Mash is wonderful if made correctly. Use floury potatoes and do not under-cook them.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "p01s4q10": "Mary Berry Cooks"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Mash is wonderful if made correctly. Use floury potatoes and do not under-cook them.",
+    "dishes": [
+        "mashed_potato",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,13 +26,20 @@
             "2 tbsp wholegrain mustard"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4-6",
+    "show": {
+        "p01s4q10": "Mary Berry Cooks"
+    },
     "steps": [
         "Cut the potatoes into even-sized small cubes and put them into a pan of cold, salted water. Bring to the boil and cook until really tender (the length of cooking depends on the size you cut them up).",
         "Drain and return the potato cubes to the pan. Add the butter and milk. Mash using a potato masher, and season with salt and pepper. Stir in the wholegrain mustard.",
         "Serve hot."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Wholegrain mustard mash",
     "videos": "[]"
 }

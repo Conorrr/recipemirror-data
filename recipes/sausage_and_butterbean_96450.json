@@ -1,26 +1,36 @@
 {
-    "title": "Sausage and butterbean casserole",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "35",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sausage_and_butterbean_96450_16x9.jpg"
-    ],
-    "description": "Sausages, tinned beans and tomatoes are a classic combo for a cheap and flavoursome casserole. With its crunchy parsley topping, this version of sausage stew is super-irresistible. This is designed to be a low cost recipe. Try freezing in portion-sized containers - it will keep for up to 2 months.",
     "author": {
         "tom_kitchin": "Tom Kitchin"
     },
-    "show": {
-        "b036x3pv": "Great British Budget Menu"
-    },
-    "tips": [
-        "In May 2013 this recipe was costed at \u00a33.28 at Asda, \u00a33.70 at Tesco and \u00a33.50 Sainsbury\u2019s. This recipe is designed to be made in conjunction with a low-cost store-cupboard."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Sausages, tinned beans and tomatoes are a classic combo for a cheap and flavoursome casserole. With its crunchy parsley topping, this version of sausage stew is super-irresistible. This is designed to be a low cost recipe. Try freezing in portion-sized containers - it will keep for up to 2 months.",
+    "dishes": [
+        "bread",
+        "bun",
+        "casserole",
+        "oven-baked_dishes",
+        "sausage",
+        "sausage_casserole",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sausage_and_butterbean_96450_16x9.jpg"
+    ],
     "ingredients": {
+        "For the herby crumb topping": [
+            "100g/3\u00bdoz bread (ideally day old), crusts removed",
+            "\u00bd bunch parsley, finely chopped",
+            "1 tbsp olive oil"
+        ],
         "default": [
             "8 sausages",
             "1 onion, diced",
@@ -31,12 +41,13 @@
             "400g/14oz tin chopped tomatoes",
             "500ml/18fl oz chicken stock, made from stock cube",
             "salt and freshly ground black pepper"
-        ],
-        "For the herby crumb topping": [
-            "100g/3\u00bdoz bread (ideally day old), crusts removed",
-            "\u00bd bunch parsley, finely chopped",
-            "1 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "35",
+    "serves": "Serves 4",
+    "show": {
+        "b036x3pv": "Great British Budget Menu"
     },
     "steps": [
         "Preheat the oven to 200C/180C Fan/Gas 6.",
@@ -46,8 +57,9 @@
         "Add the butter beans, parsley, tomatoes and chicken stock to the pan. Stir to mix everything together and season well with salt and pepper. Transfer to a medium-sized ovenproof baking dish.",
         "Sprinkle the herby crumbs evenly over the surface of the stew, drizzle with olive oil, season with salt and pepper and bake for 25 minutes, or until the topping is crisp. Serve while hot."
     ],
-    "howTos": [
-        
+    "tips": [
+        "In May 2013 this recipe was costed at \u00a33.28 at Asda, \u00a33.70 at Tesco and \u00a33.50 Sainsbury\u2019s. This recipe is designed to be made in conjunction with a low-cost store-cupboard."
     ],
+    "title": "Sausage and butterbean casserole",
     "videos": "[]"
 }

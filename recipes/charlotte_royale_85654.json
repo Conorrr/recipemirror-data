@@ -1,36 +1,30 @@
 {
-    "title": "Charlotte royale",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 10-12",
-    "recommendations": "10",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/charlotte_royale_85654_16x9.jpg"
-    ],
-    "description": "This kitsch dessert is made up of jam-filled Swiss roll with a set egg custard flavoured with raspberries, strawberries and raspberry liqueur.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "Any leftover bavarois can be poured into a serving glass to be left to set in the fridge and served as a separate dessert."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "This kitsch dessert is made up of jam-filled Swiss roll with a set egg custard flavoured with raspberries, strawberries and raspberry liqueur.",
+    "dishes": [
+        "cake",
+        "charlotte",
+        "custard",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/charlotte_royale_85654_16x9.jpg"
+    ],
     "ingredients": {
-        "For the jam": [
-            "400g/14oz strawberries, hulled and roughly chopped",
-            "500g/1lb 2oz jam sugar",
-            "knob of butter"
-        ],
-        "For the sponge rolls": [
-            "6 large free-range eggs",
-            "150g/5\u00bdoz caster sugar, plus extra for sprinkling",
-            "150g/5\u00bdoz self-raising flour"
-        ],
         "For the bavarois": [
             "9 leaves gelatine",
             "550g/1lb 4oz raspberries",
@@ -41,6 +35,16 @@
             "450ml/16fl oz double cream",
             "100g/3\u00bdoz small strawberries"
         ],
+        "For the jam": [
+            "400g/14oz strawberries, hulled and roughly chopped",
+            "500g/1lb 2oz jam sugar",
+            "knob of butter"
+        ],
+        "For the sponge rolls": [
+            "6 large free-range eggs",
+            "150g/5\u00bdoz caster sugar, plus extra for sprinkling",
+            "150g/5\u00bdoz self-raising flour"
+        ],
         "To decorate": [
             "75g/2\u00bdoz caster sugar",
             "1 tbsp arrowroot",
@@ -48,6 +52,12 @@
             "25g/1oz icing sugar",
             "10 medium strawberries"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "10",
+    "serves": "Serves 10-12",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the jam, place the strawberries in a small pan with the sugar and cook over a low heat until the sugar has melted. Add the knob of butter. Bring to the boil and boil vigorously for four minutes, or until the temperature on a sugar thermometer reaches 104C/219F (setting point). Remove from the heat and stir in the knob of butter. Transfer to a large bowl and leave to set.",
@@ -65,8 +75,9 @@
         "Whip the cream and icing sugar in a bowl until soft peaks form when the whisk is removed from the bowl and spoon into a piping bag fitted with a medium star nozzle.",
         "Pipe a continual scallop design of cream around the base of the Charlotte royale and decorate with fanned and glazed strawberries."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Any leftover bavarois can be poured into a serving glass to be left to set in the fridge and served as a separate dessert."
     ],
+    "title": "Charlotte royale",
     "videos": "[]"
 }

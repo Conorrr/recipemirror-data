@@ -1,39 +1,24 @@
 {
-    "title": "Swahili chicken and papaya salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "mike_robinson": "Mike Robinson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "African",
+    "description": "",
+    "dishes": [
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 chicken breasts, each cut into three long strips"
-        ],
-        "For the dry rub": [
-            "1 tsp crushed black peppercorns",
-            "pinch of cayenne pepper",
-            "1 tsp ground cinnamon",
-            "1 tsp ground ginger",
-            "1 tsp chilli",
-            "1 tsp turmeric",
-            "1 tsp coriander seeds",
-            "1 tsp ground cumin"
-        ],
         "For the Swahili sauce": [
             "1 lime, juice only",
             "2 tbsp olive oil",
@@ -48,6 +33,16 @@
             "1 tin of chopped tomatoes",
             "1 tbsp of coriander leaves"
         ],
+        "For the dry rub": [
+            "1 tsp crushed black peppercorns",
+            "pinch of cayenne pepper",
+            "1 tsp ground cinnamon",
+            "1 tsp ground ginger",
+            "1 tsp chilli",
+            "1 tsp turmeric",
+            "1 tsp coriander seeds",
+            "1 tsp ground cumin"
+        ],
         "For the papaya and red onion salad": [
             "1 papaya, peeled and sliced lengthways",
             "1 red onion, peeled and sliced",
@@ -55,7 +50,16 @@
             "olive oil",
             "dash of sweet chilli sauce.",
             "rice to serve"
+        ],
+        "default": [
+            "4 chicken breasts, each cut into three long strips"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Cut the chicken breasts into long strips, squeeze on some lime juice and leave to marinate for a few minutes.",
@@ -65,8 +69,9 @@
         "Next toss together the raw papaya and red onion slices and whisk together the lime juice, olive oil and sweet chilli sauce to make a dressing.",
         "Serve the griddled chicken in a mound, with the Swahili sauce drizzled over the top, and your papaya and red onion salad on the side. Garnish with coriander leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Swahili chicken and papaya salad",
     "videos": "[]"
 }

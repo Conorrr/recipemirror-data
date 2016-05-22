@@ -1,30 +1,26 @@
 {
-    "title": "Oysters Kilpatrick",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "The Hairy Bikers reinvent the classic cooked oyster \u2013 a delicious canap\u00e9 for impressing friends.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "The Hairy Bikers reinvent the classic cooked oyster \u2013 a delicious canap\u00e9 for impressing friends.",
+    "dishes": [
+        "canape",
+        "ketchup",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "12 oysters",
-            "\u00bd lemon, cut into wedges"
-        ],
         "For the Kilpatrick sauce": [
             "1 tsp sunflower oil",
             "4 rashers thick cut rindless streaky bacon (or lardons)",
@@ -33,7 +29,17 @@
             "2 tbsp Worcestershire sauce",
             "1 tbsp tomato ketchup",
             "3-4 drops Tabasco sauce"
+        ],
+        "default": [
+            "12 oysters",
+            "\u00bd lemon, cut into wedges"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "Preheat the grill to high.",
@@ -42,8 +48,9 @@
         "Shuck the oysters and return, with any juices, to the deeper shell. Place into a small baking tray. Spoon over some of the sauce, break the bacon into small pieces and scatter on top.",
         "Grill the oysters for 1\u00bd-2 minutes, or until just cooked and the bacon sizzling. Serve with lemon wedges."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Oysters Kilpatrick",
     "videos": "[]"
 }

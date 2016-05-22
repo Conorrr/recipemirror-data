@@ -1,36 +1,29 @@
 {
-    "title": "Plum and almond pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 18",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "You could substitute the plums with other seasonal fruits in this winning pie. Raspberries or apricots would both work brilliantly.",
     "author": {
         "polly_whitehead": "Polly Whitehead"
     },
-    "show": {
-        "b013y0nz": "Hairy Bikers' Meals on Wheels"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "You could substitute the plums with other seasonal fruits in this winning pie. Raspberries or apricots would both work brilliantly.",
+    "dishes": [
+        "bread",
+        "jam",
+        "jelly",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stir-fries",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "lining_tin_with_pastry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "4 tbsp water",
-            "60g/2\u00bcoz caster sugar",
-            "450g/1lb plain flour",
-            "1 tsp baking powder",
-            "pinch salt",
-            "175g/6oz lard or vegetable shortening",
-            "55g/2oz butter",
-            "60g/2\u00bcoz caster sugar"
-        ],
         "For the filling": [
             "6 tbsp plum jam",
             "350g/12oz butter",
@@ -41,7 +34,23 @@
             "12-14 plums, washed, halved, stones removed",
             "flaked almonds, to garnish",
             "3 tbsp redcurrant jelly"
+        ],
+        "For the pastry": [
+            "4 tbsp water",
+            "60g/2\u00bcoz caster sugar",
+            "450g/1lb plain flour",
+            "1 tsp baking powder",
+            "pinch salt",
+            "175g/6oz lard or vegetable shortening",
+            "55g/2oz butter",
+            "60g/2\u00bcoz caster sugar"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "3",
+    "serves": "Serves 18",
+    "show": {
+        "b013y0nz": "Hairy Bikers' Meals on Wheels"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease and line three loose-bottomed 18cm/7in tart tins.",
@@ -53,8 +62,9 @@
         "Place the plums on top of the tarts cut side up, sprinkle with flaked almonds then bake in the oven for 40-45 minutes or until the filling is set.",
         "Melt the redcurrant jelly in a pan and brush it over the warm tarts."
     ],
-    "howTos": [
-        "lining_tin_with_pastry"
+    "tips": [
+        
     ],
+    "title": "Plum and almond pie",
     "videos": "[]"
 }

@@ -1,31 +1,24 @@
 {
-    "title": "Steak with B\u00e9arnaise sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "bearnaise_sauce",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 x 200g/7oz sirloin steaks",
-            "salt and freshly ground black pepper",
-            "1 tbsp olive oil"
-        ],
         "For the Bearnaise sauce": [
             "250g/8\u00beoz butter",
             "1 tbsp lemon juice",
@@ -34,7 +27,18 @@
             "splash of water",
             "1 tbsp fresh tarragon, roughly chopped",
             "1 tbsp fresh flatleaf parsley, finely chopped"
+        ],
+        "default": [
+            "2 x 200g/7oz sirloin steaks",
+            "salt and freshly ground black pepper",
+            "1 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Season the steaks with salt and black pepper.",
@@ -49,8 +53,9 @@
         "Continue to blend until sauce thickens.",
         "Add the tarragon and parsley and blend to combine."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steak with B\u00e9arnaise sauce",
     "videos": "[]"
 }

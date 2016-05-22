@@ -1,24 +1,24 @@
 {
-    "title": "Smoked salmon p\u00e2t\u00e9",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "45",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/smokedsalmonpate_66102_16x9.jpg"
-    ],
-    "description": "Serve a rougher blend of this smoked salmon p\u00e2t\u00e9 as a starter with salad and oatcakes or blend a bit longer for elegant canap\u00e9s.",
     "author": {
         "juliette_lawrence_wilson": "Juliette Lawrence Wilson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "British",
+    "description": "Serve a rougher blend of this smoked salmon p\u00e2t\u00e9 as a starter with salad and oatcakes or blend a bit longer for elegant canap\u00e9s.",
+    "dishes": [
+        "canape",
+        "oatcake",
+        "pate",
+        "salad"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/smokedsalmonpate_66102_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -31,11 +31,18 @@
             "salt and freshly ground pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "45",
+    "serves": "Serves 6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Pop all the ingredients into a blender and pulse until it has a consistency that you desire. Plenty of pepper is good but go easy on the salt, as the smoked salmon will be salty already. Occasionally I would substitute lime and coriander instead of lemon and chives."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Smoked salmon p\u00e2t\u00e9",
     "videos": "[]"
 }

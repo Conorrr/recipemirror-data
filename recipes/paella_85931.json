@@ -1,23 +1,22 @@
 {
-    "title": "Paella",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "paella",
+        "risotto",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -38,6 +37,12 @@
             "1 lemon, cut into wedges, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil in a large frying pan and gently fry the shallot, garlic, paprika and red pepper until softened.",
         "Add the rice and stir until coated in oil.",
@@ -47,8 +52,9 @@
         "Sprinkle over the parsley, season, to taste, with salt and freshly ground black pepper and stir well.",
         "To serve, place servings of the paella onto plates and garnish with lemon wedges."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Paella",
     "videos": "[]"
 }

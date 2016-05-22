@@ -1,24 +1,24 @@
 {
-    "title": "Dad\u2019s banana custard trifle",
-    "cookTime": "less than 10 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4-6",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/dads_banana_custard_00581_16x9.jpg"
-    ],
-    "description": "Nigel Slater shares an easy recipe with all the right ingredients: cream, booze and cherries on top.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b05y38pk": "Nigel Slater: Eating Together"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Nigel Slater shares an easy recipe with all the right ingredients: cream, booze and cherries on top.",
+    "dishes": [
+        "custard",
+        "jelly",
+        "pie",
+        "prepare-ahead_desserts",
+        "trifle"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/dads_banana_custard_00581_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,6 +34,12 @@
             "50g/2oz candied angelica"
         ]
     },
+    "prepTime": "1-2 hours",
+    "recommendations": "2",
+    "serves": "Serves 4-6",
+    "show": {
+        "b05y38pk": "Nigel Slater: Eating Together"
+    },
     "steps": [
         "Arrange the Swiss roll slices in the bottom of a large trifle dish. Generously soak the Swiss roll pieces with the sherry.",
         "Prepare the jelly according to the packet instructions, using water to dissolve it. Pour the dissolved jelly over the Swiss rolls, then set aside to cool. Chill in the fridge until the jelly has solidified.",
@@ -43,8 +49,9 @@
         "Toast the flaked almonds in a dry frying pan over a medium heat until just lightly coloured. Scatter them on top of the trifle.",
         "Decorate the top of the trifle with the sliced glac\u00e9 cherries and candied angelica just before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Dad\u2019s banana custard trifle",
     "videos": "[]"
 }

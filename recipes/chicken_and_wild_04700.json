@@ -1,26 +1,38 @@
 {
-    "title": "Chicken and wild mushroom pie with carrots and peas",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "Cheat the pastry with shop-bought shortcrust if you don\u2019t have time to make it yourself, while wild mushrooms up the ante in this chicken and mushroom pie.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Cheat the pastry with shop-bought shortcrust if you don\u2019t have time to make it yourself, while wild mushrooms up the ante in this chicken and mushroom pie.",
+    "dishes": [
+        "bread",
+        "bun",
+        "chicken_pie",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "lining_tin_with_pastry",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the carrots and peas": [
+            "75g/2\u00bdoz butter",
+            "1 tsp caster sugar",
+            "1 bunch baby carrots, washed and trimmed",
+            "200g/7oz frozen peas"
+        ],
         "For the pastry": [
             "175g/6oz plain flour",
             "\u00bd tsp salt",
@@ -40,13 +52,13 @@
             "150ml/5fl oz double cream",
             "4 sprigs fresh tarragon, leaves only",
             "1 free-range egg, lightly beaten"
-        ],
-        "For the carrots and peas": [
-            "75g/2\u00bdoz butter",
-            "1 tsp caster sugar",
-            "1 bunch baby carrots, washed and trimmed",
-            "200g/7oz frozen peas"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the shortcrust pastry, put the flour and salt in a large bowl and add the cubes of butter and lard.",
@@ -63,9 +75,9 @@
         "For the carrots and peas, heat a frying pan until hot. Add the butter, sugar and five tablespoons of water and cook until the volume of liquid has reduced slightly. Add the carrots and cook for a couple of minutes, then add the peas and continue to cook until they are tender and the liquid has reduced to a glaze.",
         "To serve, remove the pie from the oven and allow to cool slightly before serving with the carrots and peas."
     ],
-    "howTos": [
-        "lining_tin_with_pastry",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Chicken and wild mushroom pie with carrots and peas",
     "videos": "[]"
 }

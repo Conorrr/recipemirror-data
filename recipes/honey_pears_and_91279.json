@@ -1,26 +1,30 @@
 {
-    "title": "Honey, pears and madeleines",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 12 madeleines",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Wonderfully light madeleines with sweet poached pears make a sophisticated afternoon tea or dessert. Equipment: You will need a madeleine tray.",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b04gtx26": "A Taste of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Wonderfully light madeleines with sweet poached pears make a sophisticated afternoon tea or dessert. Equipment: You will need a madeleine tray.",
+    "dishes": [
+        "madeleines",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pears": [
+            "55g/2oz butter",
+            "2 pears, peeled and cut into small dice",
+            "2 tbsp honey",
+            "150ml/5fl oz sweet white wine"
+        ],
         "default": [
             "85g/3oz unsalted butter, plus 1 tbsp melted butter for brushing",
             "2 tbsp honey",
@@ -31,13 +35,13 @@
             "pinch salt",
             "85g/3oz plain white flour, plus extra for dusting",
             "\u00bd tsp baking powder"
-        ],
-        "For the pears": [
-            "55g/2oz butter",
-            "2 pears, peeled and cut into small dice",
-            "2 tbsp honey",
-            "150ml/5fl oz sweet white wine"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes 12 madeleines",
+    "show": {
+        "b04gtx26": "A Taste of Britain"
     },
     "steps": [
         "In a heavy-based saucepan, melt the 85g/3oz butter and 2 tablespoons honey together gently, then set aside.",
@@ -50,8 +54,9 @@
         "Meanwhile, for the pears, melt the butter in a saucepan, add the pears and then the honey and wine. Poach for 5-10 minutes, or until the pears are just cooked, then remove from the pan using a slotted spoon and put to one side.",
         "Increase the heat and reduce the cooking liquor down in volume until it becomes a syrup. Return the pears to the pan to coat them in the syrup. Serve the pears with the madeleines."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Honey, pears and madeleines",
     "videos": "[]"
 }

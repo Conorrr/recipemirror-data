@@ -1,26 +1,31 @@
 {
-    "title": "Wild mushroom and artichoke strudel",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "Delight your guests with this delicious, savoury vegetarian strudel recipe.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Delight your guests with this delicious, savoury vegetarian strudel recipe.",
+    "dishes": [
+        "chutney",
+        "oven-baked_dishes",
+        "pastry",
+        "pickle",
+        "strudel"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "mashed potato",
+            "chutney",
+            "pickles"
+        ],
         "default": [
             "2 tbsp vegetable oil",
             "1 onion, sliced",
@@ -32,12 +37,13 @@
             "1 tbsp pine nuts, toasted",
             "salt and freshly ground black pepper",
             "6 large sheets filo pastry"
-        ],
-        "To serve": [
-            "mashed potato",
-            "chutney",
-            "pickles"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Grease a baking tray with melted butter.",
@@ -50,8 +56,9 @@
         "Brush well with more melted butter and bake for 25 minutes, or until crisp and golden-brown.",
         "Serve with mash and chutney, or pickles."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Wild mushroom and artichoke strudel",
     "videos": "[]"
 }

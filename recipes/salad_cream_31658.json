@@ -1,24 +1,22 @@
 {
-    "title": "Salad cream",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "Home-made salad cream is a real treat - creamy, with a little sharpness, perfect with salads or sandwiches.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Home-made salad cream is a real treat - creamy, with a little sharpness, perfect with salads or sandwiches.",
+    "dishes": [
+        "jam",
+        "salad",
+        "sandwich"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,13 +30,20 @@
             "salt and ground white pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 8",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "Place all of the ingredients, apart from the oil and seasoning, into a food processor.",
         "Blend until the cream starts to thicken then gradually add the oil, until the salad cream is smooth and emulsified.",
         "Season, to taste, with salt and freshly ground white pepper."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salad cream",
     "videos": "[]"
 }

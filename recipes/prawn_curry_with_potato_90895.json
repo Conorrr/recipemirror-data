@@ -1,36 +1,33 @@
 {
-    "title": "Prawn curry with potato fritters",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/prawn_curry_with_potato_90895_16x9.jpg"
-    ],
-    "description": "This recipe for creamy prawn curry with homemade potato fritters is the perfect start to a curry feast.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "This recipe for creamy prawn curry with homemade potato fritters is the perfect start to a curry feast.",
+    "dishes": [
+        "bread",
+        "curry",
+        "pie",
+        "prawn_curry",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/prawn_curry_with_potato_90895_16x9.jpg"
+    ],
     "ingredients": {
-        "For the prawn curry": [
-            "2 tbsp vegetable oil",
-            "1 red onion, finely chopped",
-            "1 green bird\u2019s-eye chilli, finely chopped",
-            "2 garlic cloves, crushed",
-            "2.5cm/1in piece fresh root ginger, grated",
-            "1 tbsp medium curry paste",
-            "2 tbsp malt vinegar",
-            "450g/1 lb peeled prawns",
-            "75ml/3fl oz double cream"
+        "For the batter": [
+            "6 tbsp chickpea flour (gram flour)",
+            "3 tbsp rice flour",
+            "pinch cayenne pepper",
+            "salt and freshly ground black pepper",
+            "vegetable oil, for deep-frying"
         ],
         "For the fritters": [
             "2 tbsp vegetable oil",
@@ -42,13 +39,23 @@
             "1 tbsp chopped fresh coriander",
             "100g/4oz frozen peas"
         ],
-        "For the batter": [
-            "6 tbsp chickpea flour (gram flour)",
-            "3 tbsp rice flour",
-            "pinch cayenne pepper",
-            "salt and freshly ground black pepper",
-            "vegetable oil, for deep-frying"
+        "For the prawn curry": [
+            "2 tbsp vegetable oil",
+            "1 red onion, finely chopped",
+            "1 green bird\u2019s-eye chilli, finely chopped",
+            "2 garlic cloves, crushed",
+            "2.5cm/1in piece fresh root ginger, grated",
+            "1 tbsp medium curry paste",
+            "2 tbsp malt vinegar",
+            "450g/1 lb peeled prawns",
+            "75ml/3fl oz double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the prawn curry, heat the vegetable oil in a frying pan and gently fry the onion, chilli, garlic and ginger for five minutes, or until softened.",
@@ -61,8 +68,9 @@
         "Dip the fritters in the batter and deep-fry for 2-3 minutes, or until golden-brown. Remove from the pan with a slotted spoon and set aside to drain on kitchen paper.",
         "To serve, stir the cream into the prawn curry and warm through. Serve the curry alongside the fritters."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Prawn curry with potato fritters",
     "videos": "[]"
 }

@@ -1,32 +1,25 @@
 {
-    "title": "Herring in oats with potato salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This typically Scottish dish of oat-coated herrings with a wintry potato salad makes a delicious light lunch for two.",
     "author": {
         "allegra_mcevedy": "Allegra McEvedy"
     },
-    "show": {
-        "b016pbs9": "Great British Food Revival"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "This typically Scottish dish of oat-coated herrings with a wintry potato salad makes a delicious light lunch for two.",
+    "dishes": [
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the potato salad": [
-            "200g/7oz small new potatoes",
-            "50g/2oz kale, very coarsely chopped",
-            "\u00bc cucumber, cut in half lengthways, seeds scooped out with a spoon, thickly sliced",
-            "1-2 spring onions, trimmed and sliced"
-        ],
         "For the dressing": [
             "1 tbsp white balsamic vinegar",
             "2 tbsp cold-pressed rapeseed oil",
@@ -41,7 +34,19 @@
             "30g/1\u00bcoz butter",
             "splash rapeseed oil",
             "lemon wedges, to serve"
+        ],
+        "For the potato salad": [
+            "200g/7oz small new potatoes",
+            "50g/2oz kale, very coarsely chopped",
+            "\u00bc cucumber, cut in half lengthways, seeds scooped out with a spoon, thickly sliced",
+            "1-2 spring onions, trimmed and sliced"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b016pbs9": "Great British Food Revival"
     },
     "steps": [
         "For the potato salad, boil the new potatoes in a large saucepan of salted water until tender (about 12 minutes). Add the kale and cucumber to the pan three minutes before the potatoes are ready and boil until all of the ingredients are tender. Drain well and set aside.",
@@ -53,8 +58,9 @@
         "Place the boiled potatoes, kale and cucumber into a serving bowl, stir in the spring onions, and drizzle over the dressing. Mix well and season, to taste, with salt and freshly ground black pepper.",
         "To serve, divide the herring equally between two serving plates. Spoon the potato salad alongside and serve with a wedge of lemon."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Herring in oats with potato salad",
     "videos": "[]"
 }

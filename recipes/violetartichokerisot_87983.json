@@ -1,40 +1,28 @@
 {
-    "title": "Violet artichoke risotto with artichoke salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "stuart_gillies": "Stuart Gillies"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "bun",
+        "risotto",
+        "salad",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the stock": [
-            "2 tbsp olive oil",
-            "2 onions, roughly chopped",
-            "3 carrots, roughly chopped",
-            "\u00bd celery head, roughly chopped",
-            "\u00bd celeriac, roughly chopped",
-            "2 leeks, roughly chopped",
-            "\u00bd fennel, roughly chopped",
-            "1 head garlic, cut in half",
-            "4 white peppercorns",
-            "1 small bunch fresh thyme",
-            "1 small bunch fresh rosemary",
-            "1 small bunch fresh flatleaf parsley"
-        ],
         "For the risotto": [
             "2 tbsp olive oil",
             "75g/3oz butter",
@@ -57,7 +45,27 @@
             "3 tbsp extra virgin olive oil",
             "salt and freshly ground black pepper",
             "\u00bd head curly endive"
+        ],
+        "For the stock": [
+            "2 tbsp olive oil",
+            "2 onions, roughly chopped",
+            "3 carrots, roughly chopped",
+            "\u00bd celery head, roughly chopped",
+            "\u00bd celeriac, roughly chopped",
+            "2 leeks, roughly chopped",
+            "\u00bd fennel, roughly chopped",
+            "1 head garlic, cut in half",
+            "4 white peppercorns",
+            "1 small bunch fresh thyme",
+            "1 small bunch fresh rosemary",
+            "1 small bunch fresh flatleaf parsley"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the stock, heat a large pan until hot and then add the olive oil. Add the onions, carrots, celery, celeriac, leeks, fennel, garlic and peppercorns and cook for about five minutes until coloured, but not browned.",
@@ -76,8 +84,9 @@
         "Whisk the white wine vinegar, mustard and olive oil together to make a dressing. Season with salt and freshly ground black pepper. Drain the artichokes and place them in a salad bowl. Add the dressing and curly endive to the bowl and mix well.",
         "To serve, spoon some of the risotto onto each plate and top with the salad."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Violet artichoke risotto with artichoke salad",
     "videos": "[]"
 }

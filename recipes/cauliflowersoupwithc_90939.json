@@ -1,24 +1,24 @@
 {
-    "title": "Cauliflower soup",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "32",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cauliflowersoupwithc_90939_16x9.jpg"
-    ],
-    "description": "This rich and creamy cauliflower soup is just the ticket on a chilly day - and it's inexpensive too.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This rich and creamy cauliflower soup is just the ticket on a chilly day - and it's inexpensive too.",
+    "dishes": [
+        "bread",
+        "jam",
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cauliflowersoupwithc_90939_16x9.jpg"
     ],
     "ingredients": {
         "For the cauliflower soup": [
@@ -32,6 +32,12 @@
             "150ml/5fl oz double cream"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "32",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "For the cauliflower soup, heat the oil in a deep, heavy-based pan over a medium heat. Add the onion and garlic and fry for 2-3 minutes, or until just softened.",
         "Add the ground cumin and ground coriander and fry for a further 1-2 minutes, or until fragrant.",
@@ -39,8 +45,9 @@
         "Carefully pour the soup mixture into a food processor and blend to a pur\u00e9e (or alternatively, use a stick blender in the saucepan). Return the pur\u00e9ed soup mixture to the pan and add the cream. Season, to taste, with salt and freshly ground black pepper and warm through for 1-2 minutes.",
         "To serve, divide the cauliflower soup equally among four serving bowls. Serve with crusty bread and butter."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cauliflower soup",
     "videos": "[]"
 }

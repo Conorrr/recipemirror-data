@@ -1,34 +1,34 @@
 {
-    "title": "Chilli beef with egg-fried rice",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "Thin strips of beef fillet are dusted with a zesty pepper mix then deep-fried and coated in sticky chilli sauce.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Thin strips of beef fillet are dusted with a zesty pepper mix then deep-fried and coated in sticky chilli sauce.",
+    "dishes": [
+        "bread",
+        "jam",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "sunflower oil, for deep-frying",
-            "1 tbsp Sichuan peppercorns, crushed to a fine powder",
-            "2 limes, zest only",
-            "1 orange, zest only",
-            "3 heaped tbsp rice flour, potato flour or cornflour",
-            "400g/14oz beef fillet, cut into thin strips",
-            "2 tbsp vegetable oil"
+        "For the egg-fried rice": [
+            "2 large eggs, lightly beaten",
+            "2 tsp sesame oil",
+            "2 tbsp groundnut oil",
+            "200g/7oz basmati rice, freshly cooked according to packet instructions and cooled",
+            "4 spring onions, thinly sliced",
+            "4 tbsp soy sauce",
+            "3 tbsp finely chopped fresh coriander leaves"
         ],
         "For the sauce": [
             "150g/5\u00bdoz caster sugar",
@@ -40,15 +40,21 @@
             "2 lemongrass stems, outer leaves discarded, finely chopped",
             "4 lime leaves, crushed"
         ],
-        "For the egg-fried rice": [
-            "2 large eggs, lightly beaten",
-            "2 tsp sesame oil",
-            "2 tbsp groundnut oil",
-            "200g/7oz basmati rice, freshly cooked according to packet instructions and cooled",
-            "4 spring onions, thinly sliced",
-            "4 tbsp soy sauce",
-            "3 tbsp finely chopped fresh coriander leaves"
+        "default": [
+            "sunflower oil, for deep-frying",
+            "1 tbsp Sichuan peppercorns, crushed to a fine powder",
+            "2 limes, zest only",
+            "1 orange, zest only",
+            "3 heaped tbsp rice flour, potato flour or cornflour",
+            "400g/14oz beef fillet, cut into thin strips",
+            "2 tbsp vegetable oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Heat a deep-fat fryer to 190C or heat the sunflower oil for deep-frying in a deep, heavy-based frying pan until a breadcrumb sizzles and turns brown when dropped into it. (Caution: Hot oil can be dangerous. Do not leaves unattended.)",
@@ -60,8 +66,9 @@
         "For the egg-fried rice, mix the eggs and sesame oil together in a bowl using a fork. Heat the groundnut oil in a wok until hot, then add the rice and stir-fry for 2-3 minutes, or until hot through. Add the eggs and stir-fry for 2-3 minutes more, or until set and the mixture is dry.",
         "Season with salt and pepper and stir-fry for 2 minutes more, then stir in the spring onions, soy sauce and coriander. Serve the rice in bowls with strips of beef on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chilli beef with egg-fried rice",
     "videos": "[]"
 }

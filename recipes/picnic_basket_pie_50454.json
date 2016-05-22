@@ -1,26 +1,44 @@
 {
-    "title": "Picnic basket pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Impress with this vegetarian pie in the shape of a picnic hamper, stuffed with roasted vegetables, halloumi and couscous. Simplify the pastry case for a less-elaborate family meal or picnic treat. Equipment and preparation: you will need a 900g/2lb loaf tin (preferably with straight, rather than curved, sides) and a hand-held blender.",
     "author": {
         "ruby": "Ruby Tandoh"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Impress with this vegetarian pie in the shape of a picnic hamper, stuffed with roasted vegetables, halloumi and couscous. Simplify the pastry case for a less-elaborate family meal or picnic treat. Equipment and preparation: you will need a 900g/2lb loaf tin (preferably with straight, rather than curved, sides) and a hand-held blender.",
+    "dishes": [
+        "bread",
+        "bun",
+        "caramel",
+        "ham",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "prepare-ahead_desserts",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_make_caramel_and_praline",
+        "how_to_make_couscous",
+        "how_to_roast_vegetables",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the caramel": [
+            "100g/3\u00bdoz caster sugar"
+        ],
+        "For the filling": [
+            "100g/3\u00bdoz couscous",
+            "90g/3\u00bcoz sun-dried tomato paste",
+            "250g/9oz halloumi",
+            "100g/3\u00bdoz mozzarella, grated",
+            "small bunch fresh oregano",
+            "small bunch fresh basil"
+        ],
         "For the pastry": [
             "600g/1lb 5oz plain flour",
             "300g/10\u00bdoz unsalted butter, at room temperature but not soft",
@@ -37,18 +55,13 @@
             "1 large courgette, chopped",
             "1 aubergine, chopped into 1cm/\u00bdin cubes",
             "salt and freshly ground black pepper"
-        ],
-        "For the filling": [
-            "100g/3\u00bdoz couscous",
-            "90g/3\u00bcoz sun-dried tomato paste",
-            "250g/9oz halloumi",
-            "100g/3\u00bdoz mozzarella, grated",
-            "small bunch fresh oregano",
-            "small bunch fresh basil"
-        ],
-        "For the caramel": [
-            "100g/3\u00bdoz caster sugar"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "Serves 6",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -78,11 +91,9 @@
         "For the caramel, melt the sugar in a pan with a couple of tablespoons of water. Do not stir. Let it reach a light golden-brown colour.",
         "Dip the handle ends and buckles into the caramel and stick them to the pie (caution: melted sugar is very hot. Take care not to burn yourself). Hold in place while the caramel sets."
     ],
-    "howTos": [
-        "how_to_make_caramel_and_praline",
-        "how_to_make_couscous",
-        "how_to_roast_vegetables",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Picnic basket pie",
     "videos": "[]"
 }

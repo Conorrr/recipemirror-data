@@ -1,24 +1,22 @@
 {
-    "title": "Pretzels",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 30",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00pymg1": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "biscuit",
+        "oven-baked_dishes",
+        "pretzels"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,6 +28,12 @@
             "salt"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "Makes 30",
+    "show": {
+        "b00pymg1": "The Hairy Bikers: Mums Know Best"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "Whisk one of the eggs in a bowl. Beat in the flour, cheese, butter, one tablespoon of the caraway seeds and a pinch of salt until the mixture comes together as a dough. Set aside to rest for 30 minutes.",
@@ -37,8 +41,9 @@
         "Beat the remaining egg in a bowl and brush over pretzels. Sprinkle the remaining caraway seeds over the pretzels and the extra grated cheese.",
         "Bake in the oven for 10-15 minutes, or until golden-brown. Remove from the oven and set aside to cool on a wire rack."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pretzels",
     "videos": "[]"
 }

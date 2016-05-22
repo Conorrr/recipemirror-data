@@ -1,35 +1,25 @@
 {
-    "title": "Oven-fried chilli chicken",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 6",
-    "recommendations": "46",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/ovenfriedchillichick_86437_16x9.jpg"
-    ],
-    "description": "Lightly spiced, crisp chicken pieces baked in the oven, rather than fried, to reduce those pesky calories.",
     "author": {
         "anjum_anand": "Anjum Anand"
     },
-    "show": {
-        "b007szxr": "Indian Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "Lightly spiced, crisp chicken pieces baked in the oven, rather than fried, to reduce those pesky calories.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/ovenfriedchillichick_86437_16x9.jpg"
+    ],
     "ingredients": {
-        "For the marinade": [
-            "large knob fresh ginger, peeled and roughly chopped",
-            "2-3 garlic cloves, peeled and finely chopped",
-            "2-4 green chillies, cut in half with the stalk, seeds and membranes removed",
-            "1 tsp salt, or to taste",
-            "1 tsp garam masala",
-            "1 tbsp lemon juice",
-            "2 tbsp oil"
-        ],
         "For the chicken": [
             "800g/1lb 12oz chicken pieces, skinned and pricked all over with a fork",
             "3 tbsp vegetable oil",
@@ -39,7 +29,22 @@
             "4 slices white bread, processed to crumbs in a food processor",
             "1-2 large free-range eggs, beaten",
             "1 lemon, to serve"
+        ],
+        "For the marinade": [
+            "large knob fresh ginger, peeled and roughly chopped",
+            "2-3 garlic cloves, peeled and finely chopped",
+            "2-4 green chillies, cut in half with the stalk, seeds and membranes removed",
+            "1 tsp salt, or to taste",
+            "1 tsp garam masala",
+            "1 tbsp lemon juice",
+            "2 tbsp oil"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "46",
+    "serves": "Serves 6",
+    "show": {
+        "b007szxr": "Indian Food Made Easy"
     },
     "steps": [
         "For the marinade, combine all the marinade ingredients in a pestle and mortar and mix well to make a paste. Add the chicken and coat each piece well in the paste. Cover with cling film and leave for a couple of hours or overnight in the fridge. Bring back to room temperature before continuing.",
@@ -49,8 +54,9 @@
         "Dip the chicken pieces into the beaten egg and add a second coating of crumbs. Place them on the baking sheet and cook for 20 minutes. Then lower the oven to 200C/400F/Gas 6, turn the chicken and cook for another 15-25 minutes (depending on the size of the chicken pieces), or until cooked through.",
         "Place on a serving dish, cut the lemon into wedges and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Oven-fried chilli chicken",
     "videos": "[]"
 }

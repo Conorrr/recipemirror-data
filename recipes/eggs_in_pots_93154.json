@@ -1,37 +1,43 @@
 {
-    "title": "Eggs in pots (oeufs en cocotte)",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "43",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/eggs_in_pots_93154_16x9.jpg"
-    ],
-    "description": "Eggs and cr\u00e8me fra\u00eeche are all you need for this super-simple yet very tasty dish. You can also throw in almost anything savoury you find in your fridge. Try serving it with plenty of crusty bread.",
     "author": {
         "rachel_khoo": "Rachel Khoo"
     },
-    "show": {
-        "b01dy7yt": "The Little Paris Kitchen: Cooking with Rachel Khoo"
-    },
-    "tips": [
-        "The cr\u00e8me fra\u00eeche can be replaced with b\u00e9chamel or mornay sauce. If you like, you can add chopped mushrooms, ham, smoked salmon or cherry tomatoes after the cr\u00e8me fra\u00eeche, or a spoonful of pip\u00e9rade. Try swapping the dill for parsley, basil or coriander, or spice things up with a dash of Tabasco or chilli sauce."
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "Eggs and cr\u00e8me fra\u00eeche are all you need for this super-simple yet very tasty dish. You can also throw in almost anything savoury you find in your fridge. Try serving it with plenty of crusty bread.",
+    "dishes": [
+        "bread",
+        "ham",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/eggs_in_pots_93154_16x9.jpg"
+    ],
     "ingredients": {
+        "To garnish": [
+            "red lumpfish roe",
+            "small sprigs of dill"
+        ],
         "default": [
             "150g/5\u00bdoz cr\u00e8me fra\u00eeche",
             "salt and freshly ground black pepper",
             "pinch nutmeg",
             "handful of chopped dill",
             "4 free-range eggs"
-        ],
-        "To garnish": [
-            "red lumpfish roe",
-            "small sprigs of dill"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "43",
+    "serves": "Serves 4",
+    "show": {
+        "b01dy7yt": "The Little Paris Kitchen: Cooking with Rachel Khoo"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -42,8 +48,9 @@
         "Bake for 15 minutes or until the egg yolks are set to your liking.",
         "If you like, finish each serving with a teaspoon of red lumpfish roe and a sprig or two of dill."
     ],
-    "howTos": [
-        
+    "tips": [
+        "The cr\u00e8me fra\u00eeche can be replaced with b\u00e9chamel or mornay sauce. If you like, you can add chopped mushrooms, ham, smoked salmon or cherry tomatoes after the cr\u00e8me fra\u00eeche, or a spoonful of pip\u00e9rade. Try swapping the dill for parsley, basil or coriander, or spice things up with a dash of Tabasco or chilli sauce."
     ],
+    "title": "Eggs in pots (oeufs en cocotte)",
     "videos": "[]"
 }

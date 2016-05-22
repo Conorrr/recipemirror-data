@@ -1,26 +1,32 @@
 {
-    "title": "Chicken nuggets with easy BBQ sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 30",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_nuggets_with_61414_16x9.jpg"
-    ],
-    "description": "These gluten-free chicken nuggets have a crisp coating thanks to ground almonds. Try them with throw-together BBQ sauce. Each nugget with a little BBQ sauce provides 77 kcal, 6.7g protein, 0.8g carbohydrate (of which 0.7g sugars), 5g fat (of which 1g saturates), 0.1g fibre and 0.3g salt.",
     "author": {
         "jasmine_and_melissa_hemsley": "Hemsley + Hemsley"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "To make the BBQ sauce in large batches to store in the fridge swap the butter for olive oil."
+    "cookTime": "10 to 30 mins",
+    "description": "These gluten-free chicken nuggets have a crisp coating thanks to ground almonds. Try them with throw-together BBQ sauce. Each nugget with a little BBQ sauce provides 77 kcal, 6.7g protein, 0.8g carbohydrate (of which 0.7g sugars), 5g fat (of which 1g saturates), 0.1g fibre and 0.3g salt.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_nuggets_with_61414_16x9.jpg"
+    ],
     "ingredients": {
+        "For the BBQ sauce": [
+            "3 tbsp tomato pur\u00e9e",
+            "2 tbsp butter, melted",
+            "2 tbsp balsamic vinegar",
+            "\u00bd tsp smoked paprika, to taste",
+            "salt and freshly ground black pepper"
+        ],
         "For the chicken nuggets": [
             "180g/6\u00bcoz ground almonds",
             "2 free-range eggs",
@@ -32,14 +38,13 @@
         "For the seasoning (optional)": [
             "\u00be tsp onion powder",
             "\u00be tsp garlic powder"
-        ],
-        "For the BBQ sauce": [
-            "3 tbsp tomato pur\u00e9e",
-            "2 tbsp butter, melted",
-            "2 tbsp balsamic vinegar",
-            "\u00bd tsp smoked paprika, to taste",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 30",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 200C/180C Fan/Gas 6. Line a baking tray with baking parchment.",
@@ -49,8 +54,9 @@
         "Meanwhile, for the BBQ sauce, whisk together the tomato pur\u00e9e, melted butter and balsamic vinegar until well combined. Season with salt, pepper and smoked paprika.",
         "Transfer the BBQ sauce to a sterilised, airtight jar and chill in the fridge until needed. It will keep in a sealed jar for up to 1 week."
     ],
-    "howTos": [
-        
+    "tips": [
+        "To make the BBQ sauce in large batches to store in the fridge swap the butter for olive oil."
     ],
+    "title": "Chicken nuggets with easy BBQ sauce",
     "videos": "[]"
 }

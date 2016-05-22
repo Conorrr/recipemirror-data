@@ -1,26 +1,29 @@
 {
-    "title": "Honey-baked chicken with hoi sin plantain and wilted garlic stems",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "michael_moore": "Michael Moore"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "40g/1\u00bdoz hoi sin sauce from a jar",
+            "110g/4oz wild garlic stem or garlic chives, blanched for 15 seconds then refreshed",
+            "20g/\u00beoz honey"
+        ],
         "default": [
             "2 skinless, boneless chicken breasts",
             "salt and freshly ground black pepper",
@@ -28,12 +31,13 @@
             "2 tbsp butter",
             "1 plantain, peeled and sliced lengthways",
             "1 tbsp ground cinnamon"
-        ],
-        "To serve": [
-            "40g/1\u00bdoz hoi sin sauce from a jar",
-            "110g/4oz wild garlic stem or garlic chives, blanched for 15 seconds then refreshed",
-            "20g/\u00beoz honey"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -46,8 +50,9 @@
         "To serve, place the wilted garlic stem onto one side of the plate. Place the plantain in the centre of the plate. Drizzle with hoi sin sauce.",
         "Slice the chicken into three pieces on the diagonal and place it across the plantain. Finish by drizzling the honey over the chicken."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Honey-baked chicken with hoi sin plantain and wilted garlic stems",
     "videos": "[]"
 }

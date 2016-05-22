@@ -1,32 +1,29 @@
 {
-    "title": "Pumpkin gnocchi",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4-6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gennaro_contaldo": "Gennaro Contaldo"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "gnocchi",
+        "gratin",
+        "pie",
+        "sauce",
+        "sausage",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1.5kg/3lbs 5oz roasted pumpkin, cut into chunks",
-            "600ml/21\u00bcfl oz vegetable stock",
-            "plain flour, as required",
-            "rice flour"
-        ],
         "For the sauce": [
             "1 rosemary branch",
             "200g/7\u00bd oz raw pumpkin, cut into very small cubes",
@@ -35,7 +32,19 @@
             "3 tbsp olive oil",
             "4 tbsp freshly grated parmesan cheese, or vegetarian parmesan-style grating cheese",
             "extra virgin olive oil, for drizzling"
+        ],
+        "default": [
+            "1.5kg/3lbs 5oz roasted pumpkin, cut into chunks",
+            "600ml/21\u00bcfl oz vegetable stock",
+            "plain flour, as required",
+            "rice flour"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Place the roasted pumpkin in a moulis and whiz until you obtain a creamy consistency. Alternatively, mash with a fork or potato masher.",
@@ -52,8 +61,9 @@
         "To serve, place on individual plates and spoon some of the fried pumpkin and rosemary over each.",
         "Sprinkle with parmesan cheese and a drizzle of olive oil to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pumpkin gnocchi",
     "videos": "[]"
 }

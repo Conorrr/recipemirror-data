@@ -1,38 +1,26 @@
 {
-    "title": "Venison massaman curry",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "Massaman curries are a South-East Asian dish with all the fragrant spices you'd expect from the region, but richer and more hearty.",
     "author": {
         "lyndey_milan": "Lyndey Milan"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        "This recipe makes 125g/4\u00bdoz of curry paste. You will not need all the paste, but any excess can be stored in a clean, airtight jar in the refrigerator for up to a week."
+    "cookTime": "over 2 hours",
+    "description": "Massaman curries are a South-East Asian dish with all the fragrant spices you'd expect from the region, but richer and more hearty.",
+    "dishes": [
+        "casserole",
+        "curry",
+        "oven-baked_dishes",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the curry paste": [
-            "2 tsp ground coriander",
-            "\u00bc tsp ground cloves",
-            "1 tsp ground cinnamon",
-            "2 tsp ground cumin",
-            "1 tsp shrimp paste, roasted",
-            "3 garlic cloves, finely chopped",
-            "1 medium (about 150g/5\u00bdoz) brown onion, chopped",
-            "8 long red chillies, deseeded and roughly chopped",
-            "1 stem lemongrass, trimmed, white part chopped",
-            "3cm/1\u00bcin piece fresh galangal, peeled and chopped"
-        ],
         "For the curry": [
             "400ml tin coconut milk",
             "2 tbsp extra-virgin olive oil (optional)",
@@ -46,7 +34,25 @@
             "steamed rice, to serve",
             "80g/2\u00beoz unsalted roasted peanuts, chopped, to serve",
             "30g/1oz fresh coriander leaves, coarsely chopped, to serve"
+        ],
+        "For the curry paste": [
+            "2 tsp ground coriander",
+            "\u00bc tsp ground cloves",
+            "1 tsp ground cinnamon",
+            "2 tsp ground cumin",
+            "1 tsp shrimp paste, roasted",
+            "3 garlic cloves, finely chopped",
+            "1 medium (about 150g/5\u00bdoz) brown onion, chopped",
+            "8 long red chillies, deseeded and roughly chopped",
+            "1 stem lemongrass, trimmed, white part chopped",
+            "3cm/1\u00bcin piece fresh galangal, peeled and chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "To make the paste, place the coriander seeds, cloves, cinnamon and cumin seeds into a small frying pan and cook for 1-2 minutes or until the spices start to release their oils. In a spice grinder or pestle and mortar blend the toasted spices, shrimp paste and a tablespoon of cold water until smooth (you may need to add a little more water). Add the remaining ingredients, one at a time, blending well after each addition until the mixture forms a thick paste.",
@@ -56,8 +62,9 @@
         "Cook in the oven for an hour or until the venison is nearly tender. Add the sweet potato, cover and return to the oven for a further hour, or until the potato is tender.",
         "Serve the curry with steamed rice topped with the chopped roasted peanuts and the coriander."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This recipe makes 125g/4\u00bdoz of curry paste. You will not need all the paste, but any excess can be stored in a clean, airtight jar in the refrigerator for up to a week."
     ],
+    "title": "Venison massaman curry",
     "videos": "[]"
 }

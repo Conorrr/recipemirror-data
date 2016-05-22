@@ -1,26 +1,37 @@
 {
-    "title": "Cranberry and orange trifle",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "custard",
+        "icing",
+        "jam",
+        "sauce",
+        "stir-fries",
+        "trifle"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the base": [
+            "50g/1\u00bdoz ready-made sponge fingers",
+            "1 orange, juice only",
+            "icing sugar, to dust"
+        ],
+        "For the cranberries": [
+            "50g/1\u00beoz cranberries",
+            "1 tsp water",
+            "50g/1\u00beoz caster sugar"
+        ],
         "For the custard": [
             "100ml/3\u00bdfl oz double cream",
             "50ml/2fl oz milk",
@@ -32,17 +43,13 @@
             "50ml/2fl oz double cream, whipped",
             "50g/1\u00bdoz mascarpone",
             "2 tbsp runny honey"
-        ],
-        "For the cranberries": [
-            "50g/1\u00beoz cranberries",
-            "1 tsp water",
-            "50g/1\u00beoz caster sugar"
-        ],
-        "For the base": [
-            "50g/1\u00bdoz ready-made sponge fingers",
-            "1 orange, juice only",
-            "icing sugar, to dust"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the custard, place the cream, milk and vanilla pod and seeds into a small saucepan. Heat the mixture until it begins to simmer. Then remove the pan from the heat and set aside to infuse.",
@@ -54,8 +61,9 @@
         "For the cranberries, place the cranberries along with a tsp water into a small saucepan over a low heat and cook for 6-8 minutes, or until the cranberries have burst. Stir in the sugar, then remove the pan from the heat and leave to cool slightly.",
         "To serve, place the sponge fingers into a tall, clean dessert glass and pour the orange juice over the sponge fingers. Pour the cranberry mixture, followed by the custard over the sponge fingers. Spoon the cream mixture on top of the custard. Dust the cream with icing sugar."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cranberry and orange trifle",
     "videos": "[]"
 }

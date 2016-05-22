@@ -1,31 +1,24 @@
 {
-    "title": "Pork with creamed leeks",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pork": [
-            "1 tbsp olive oil",
-            "150g/5oz pork fillet",
-            "salt and freshly ground black pepper"
-        ],
         "For the leeks": [
             "1 tsp olive oil",
             "knob unsalted butter",
@@ -35,7 +28,18 @@
             "50ml/2fl oz milk",
             "150ml/5fl oz double cream",
             "1 tbsp fresh parsley, chopped"
+        ],
+        "For the pork": [
+            "1 tbsp olive oil",
+            "150g/5oz pork fillet",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
@@ -45,8 +49,9 @@
         "Remove the pork from the oven and allow to rest. Slice on the diagonal. Spoon the creamed leeks onto a serving plate and top with the sliced pork.",
         "Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pork with creamed leeks",
     "videos": "[]"
 }

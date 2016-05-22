@@ -1,26 +1,36 @@
 {
-    "title": "Grilled pear, watercress and walnut salad",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Warm up a wintry salad with grilled pears. A great one for Christmas when there's plenty of stilton about!",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "British",
+    "description": "Warm up a wintry salad with grilled pears. A great one for Christmas when there's plenty of stilton about!",
+    "dishes": [
+        "baguette",
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "1\u00bd tbsp walnut oil",
+            "1\u00bd tbsp olive oil",
+            "\u00bd tsp mustard",
+            "1 tbsp white wine vinegar",
+            "pinch of sugar",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "2 comice pears",
             "150g/5\u00bdoz watercress",
@@ -29,15 +39,13 @@
             "\u00bd baguette",
             "15g/\u00bdoz chopped parsley",
             "\u00bd lemon, juice only"
-        ],
-        "For the dressing": [
-            "1\u00bd tbsp walnut oil",
-            "1\u00bd tbsp olive oil",
-            "\u00bd tsp mustard",
-            "1 tbsp white wine vinegar",
-            "pinch of sugar",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "p0077hsg": "Housecall"
     },
     "steps": [
         "Preheat oven to 190C/375F/Gas 5.",
@@ -46,8 +54,9 @@
         "Place the watercress on the serving plate and dot the pears around. Break the cheese into pieces and place over the top. Sprinkle over the walnuts and parsley.",
         "Mix all the dressing together in a bowl and season. Add the strips of bread to the salad. Drizzle over the dressing and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Grilled pear, watercress and walnut salad",
     "videos": "[]"
 }

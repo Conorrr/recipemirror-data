@@ -1,24 +1,21 @@
 {
-    "title": "Salmon with green butter",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/salmonwithgreenbutte_90283_16x9.jpg"
-    ],
-    "description": "A simple way of serving salmon, topped with a slice of delicious herb butter. Serve with boiled new potatoes and a green salad.",
     "author": {
         "sophie_grigson": "Sophie Grigson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A simple way of serving salmon, topped with a slice of delicious herb butter. Serve with boiled new potatoes and a green salad.",
+    "dishes": [
+        "salad",
+        "sausage"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "making_herb_butter"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/salmonwithgreenbutte_90283_16x9.jpg"
     ],
     "ingredients": {
         "For the green butter": [
@@ -37,6 +34,12 @@
             "a few sprigs of parsley and lengths of chive"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "First make the herb butter. Place the butter in the bowl of a food processor.",
         "Chop the herbs roughly. You should aim for two tablespoon each of parsley and chives; there will be more of the sorrel. Place the herbs into the bowl with the butter. Process until the herbs are finely chopped, scraping down the bowl with a spatula once or twice if necessary. (If you don't have a processor, chop the herbs finely, then beat into the softened butter.)",
@@ -46,8 +49,9 @@
         "Season with salt and freshly ground black pepper, then turn the fish over and cook for a further 1-2 minutes or so, until the salmon is cooked but still has a line of translucent, darker pink flesh in its centre. This slight 'undercooking' keeps the salmon moist and tender.",
         "To serve, lay the salmon on warm serving plates and top with a slice or two of green butter. Tuck a lemon wedge in on the side and garnish with the parsley and chives, if you like."
     ],
-    "howTos": [
-        "making_herb_butter"
+    "tips": [
+        
     ],
+    "title": "Salmon with green butter",
     "videos": "[]"
 }

@@ -1,26 +1,26 @@
 {
-    "title": "Lemon chicken",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "17",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenallimone_73328_16x9.jpg"
-    ],
-    "description": "Whip up a lemon butter sauce in next to no time to make something special of simple fried chicken breasts.",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        "If you want to speed up the cooking time you can flatten the chicken breast with a meat mallet or rolling pin between two sheets of cling film."
+    "cookTime": "less than 10 mins",
+    "cusine": "Italian",
+    "description": "Whip up a lemon butter sauce in next to no time to make something special of simple fried chicken breasts.",
+    "dishes": [
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenallimone_73328_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "green beans"
+        ],
         "default": [
             "2 tbsp olive oil",
             "1 chicken breast",
@@ -29,10 +29,13 @@
             "knob of butter",
             "pinch of flour",
             "salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "green beans"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "17",
+    "serves": "Serves 1",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Heat a large frying pan and add the olive oil, fry the chicken for 5 minutes on each side, or until cooked through.",
@@ -40,8 +43,9 @@
         "Bring a pan of water to the boil and cook the green beans for 3-4 minutes, drain.",
         "Put the beans on a plate, top with the chicken, drizzle over the sauce and serve."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If you want to speed up the cooking time you can flatten the chicken breast with a meat mallet or rolling pin between two sheets of cling film."
     ],
+    "title": "Lemon chicken",
     "videos": "[]"
 }

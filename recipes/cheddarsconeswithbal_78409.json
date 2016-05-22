@@ -1,26 +1,32 @@
 {
-    "title": "Cheddar scones with balsamic onions",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 7",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "jam",
+        "oven-baked_dishes",
+        "sauce",
+        "scone"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the balsamic onions": [
+            "1 tbsp olive oil",
+            "1 red onion, thinly sliced",
+            "2 tbsp brown sugar",
+            "3 tbsp balsamic vinegar"
+        ],
         "For the scones": [
             "200g/7oz self-raising flour",
             "100g/3\u00bd butter",
@@ -28,13 +34,13 @@
             "milk to bind",
             "100g/3\u00bdoz cheddar, grated",
             "1 large handful fresh basil"
-        ],
-        "For the balsamic onions": [
-            "1 tbsp olive oil",
-            "1 red onion, thinly sliced",
-            "2 tbsp brown sugar",
-            "3 tbsp balsamic vinegar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 7",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -47,8 +53,9 @@
         "Add the balsamic vinegar and reduce till thick and syrupy.",
         "Serve the warm scones with balsamic onions."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cheddar scones with balsamic onions",
     "videos": "[]"
 }

@@ -1,26 +1,35 @@
 {
-    "title": "Red fruit tarts and Chocolate cherry tarts",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 24",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Two contrasting tarts to keep everybody happy. Adding citrus zest to pastry is an easy way to make it special.",
     "author": {
         "janet_basu": "Janet Basu"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Two contrasting tarts to keep everybody happy. Adding citrus zest to pastry is an easy way to make it special.",
+    "dishes": [
+        "bread",
+        "fruit_tart",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "stir-fries",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cherry and chocolate filling": [
+            "350g/12oz fresh cherries",
+            "3 tbsp sugar",
+            "1 tbsp kirsch",
+            "250g/9oz good quality dark chocolate",
+            "225g/8fl oz whipping cream"
+        ],
         "For the pastry": [
             "175g/6oz plain flour, sifted",
             "pinch salt",
@@ -38,14 +47,13 @@
             "175g/6oz fresh raspberries",
             "175g/6oz fresh redcurrants",
             "icing sugar, for dusting"
-        ],
-        "For the cherry and chocolate filling": [
-            "350g/12oz fresh cherries",
-            "3 tbsp sugar",
-            "1 tbsp kirsch",
-            "250g/9oz good quality dark chocolate",
-            "225g/8fl oz whipping cream"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes 24",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the pastry, place the flour and salt in a large mixing bowl and rub in the butter until the mixture resembles breadcrumbs. Stir in the sugar then make a well in the centre and add the egg yolks.",
@@ -57,8 +65,9 @@
         "To assemble the chocolate cherry tarts, place a spoon of the cooked cherries in the bottom of each of the plain pastry tart cases. Top with the chocolate ganache and garnish with the whole cherries dipped in chocolate.",
         "To assemble the red fruit tarts, pipe the mascarpone into the base of the orange pastry tart cases. Arrange the strawberries, raspberries and redcurrants on top and dust with icing sugar."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Red fruit tarts and Chocolate cherry tarts",
     "videos": "[]"
 }

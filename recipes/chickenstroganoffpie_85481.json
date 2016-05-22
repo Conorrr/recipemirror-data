@@ -1,26 +1,33 @@
 {
-    "title": "Chicken stroganoff pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "chicken_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pickle",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock",
+        "stroganoff"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "pickled red cabbage or pickled beetroot"
+        ],
         "default": [
             "300g/10oz chicken breast, cut into strips",
             "2 tbsp smoked paprika",
@@ -38,10 +45,13 @@
             "4 pieces ready-rolled puff pastry, cut about 1.5cm/\u00bd inch wider than the size of four individual ovenproof pie dishes",
             "1 free-range egg, beaten",
             "salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "pickled red cabbage or pickled beetroot"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -59,8 +69,9 @@
         "Transfer to the oven to cook for 10-15 minutes, or until the pie tops are crisp and golden.",
         "To serve, remove the pie dishes from the oven and allow to cool slightly before placing onto plates. Serve with bowls of pickled red cabbage or beetroot."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken stroganoff pie",
     "videos": "[]"
 }

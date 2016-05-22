@@ -1,26 +1,31 @@
 {
-    "title": "Plum pudding cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "48",
-    "images": [
-        
-    ],
-    "description": "This is a gorgeous sweet and spicy treat \u2013 great as a pudding or with afternoon tea. If you\u2019ve never tried making a cake, this would be a great place to start.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b01s72gt": "Nigel Slater's Simple Cooking"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This is a gorgeous sweet and spicy treat \u2013 great as a pudding or with afternoon tea. If you\u2019ve never tried making a cake, this would be a great place to start.",
+    "dishes": [
+        "cake",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the spicy plum jam topping": [
+            "5 plums",
+            "1tbsp light muscovado sugar",
+            "1tbsp butter",
+            "1tbsp syrup from a jar of stem ginger",
+            "double cream, to serve"
+        ],
         "default": [
             "250g/8oz plain flour",
             "1 lightly heaped tsp baking powder",
@@ -34,14 +39,13 @@
             "350g/12oz plums",
             "2 large eggs",
             "240ml/8fl oz milk"
-        ],
-        "For the spicy plum jam topping": [
-            "5 plums",
-            "1tbsp light muscovado sugar",
-            "1tbsp butter",
-            "1tbsp syrup from a jar of stem ginger",
-            "double cream, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "48",
+    "serves": "Serves 8",
+    "show": {
+        "b01s72gt": "Nigel Slater's Simple Cooking"
     },
     "steps": [
         "Set the oven to 180C/350F/Gas 4. Use baking parchment to line a 24cm/9\u00bdin square cake tin or baking dish.",
@@ -54,8 +58,9 @@
         "Now for the topping; halve and de-stone the plums and add to the same pan as you cooked the syrup and honey. Add the sugar, butter and the syrup from a jar of crystallised ginger. Cover and leave to cook down.",
         "Serve the cake with a generous topping of the spicy plums and a dollop of cream."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Plum pudding cake",
     "videos": "[p00l8rp7:p00l8rpc]"
 }

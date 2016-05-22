@@ -1,24 +1,21 @@
 {
-    "title": "Cherry cheesecake",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "cake",
+        "cheesecake"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,14 +28,21 @@
             "mint leaf, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place the cream, quark and caster sugar into a bowl and mix together well.",
         "Using a deep chefs' ring, cut out two rounds from the Madeira cake slices. Press one round of the Madeira cake into the base of the chefs' ring on a plate and drizzle with the white wine.",
         "Add half the cream and quark mixture into the chefs' ring, then add a layer of cherries. Then press the other Madeira round into the ring and top with another layer of the cream and quark mixture, finishing with the cherries on top.",
         "Carefully remove the chefs' ring and garnish with a mint leaf."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cherry cheesecake",
     "videos": "[]"
 }

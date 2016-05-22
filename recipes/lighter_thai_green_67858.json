@@ -1,24 +1,24 @@
 {
-    "title": "Lighter Thai green vegetable curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 3",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lighter_thai_green_67858_16x9.jpg"
-    ],
-    "description": "Packed with flavourful ingredients, lighter coconut milk makes this a healthier twist on a Thai favourite. Each serving provides 358 kcal, 14g protein, 47g carbohydrate (of which 6g sugars), 11.5g fat (of which 5g saturates), 6g fibre and 2.1g salt.",
     "author": {
         "becca_spry": "Becca Spry"
     },
-    "show": {
-        "b0725d98": "Food: Truth or Scare"
-    },
-    "tips": [
-        "To find out more about type 2 diabetes and get information on how to reduce your risk of this mostly preventable disease, read our iWonder guide."
+    "cookTime": "10 to 30 mins",
+    "description": "Packed with flavourful ingredients, lighter coconut milk makes this a healthier twist on a Thai favourite. Each serving provides 358 kcal, 14g protein, 47g carbohydrate (of which 6g sugars), 11.5g fat (of which 5g saturates), 6g fibre and 2.1g salt.",
+    "dishes": [
+        "curry",
+        "sauce",
+        "stir-fries",
+        "stock",
+        "vegetable_curry"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lighter_thai_green_67858_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -40,6 +40,12 @@
             "150g/5\u00bdoz basmati rice, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 3",
+    "show": {
+        "b0725d98": "Food: Truth or Scare"
+    },
     "steps": [
         "Fry the shallots in the oil over a medium heat for 2-3 minutes. Add the chilli and fry for 1 minute. Stir in the curry paste and fry for 1 minute.",
         "Pour in the hot stock, coconut milk and Thai fish sauce (if using) and bring to the boil. Reduce the heat and simmer for 5 minutes.",
@@ -48,8 +54,9 @@
         "Add the tofu and green pepper to the curry and cook with the lid off for 3 minutes. Add the mangetout and baby corn (if using) and squeeze in the lime juice. Cook for 3 minutes.",
         "Serve the curry with the rice, sprinkled with coriander and with a wedge of lime."
     ],
-    "howTos": [
-        
+    "tips": [
+        "To find out more about type 2 diabetes and get information on how to reduce your risk of this mostly preventable disease, read our iWonder guide."
     ],
+    "title": "Lighter Thai green vegetable curry",
     "videos": "[]"
 }

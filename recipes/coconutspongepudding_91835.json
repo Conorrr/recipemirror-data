@@ -1,26 +1,30 @@
 {
-    "title": "Coconut sponge pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "custard",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the custard": [
+            "6 free-range egg yolks",
+            "125g/4\u00bdoz caster sugar",
+            "40g/1\u00bdoz plain flour",
+            "400ml/13\u00bdfl oz canned coconut milk",
+            "1 vanilla pod, split, seeds scraped out"
+        ],
         "For the sponge": [
             "225g/8oz unsalted butter, at room temperature, plus extra for greasing",
             "225g/8oz golden caster sugar",
@@ -30,16 +34,15 @@
             "200g/7oz self-raising flour",
             "splash milk (optional)"
         ],
-        "For the custard": [
-            "6 free-range egg yolks",
-            "125g/4\u00bdoz caster sugar",
-            "40g/1\u00bdoz plain flour",
-            "400ml/13\u00bdfl oz canned coconut milk",
-            "1 vanilla pod, split, seeds scraped out"
-        ],
         "To serve": [
             "200ml/7fl oz double cream, whipped to soft peaks"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/355F/Gas 4. Grease and flour six dariole moulds.",
@@ -51,8 +54,9 @@
         "Pour the custard mixture back into a clean pan and cook over a medium heat, stirring frequently for 4-5 minutes, or until the custard thickens enough to coat the back of a wooden spoon.",
         "To serve, turn the sponge puddings out from their moulds and place onto shallow serving bowls. Spoon the custard over the sponge puddings and serve with dollops of whipped cream."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Coconut sponge pudding",
     "videos": "[]"
 }

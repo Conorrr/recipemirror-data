@@ -1,26 +1,36 @@
 {
-    "title": "American pancakes with flamb\u00e9ed cherries and warm chocolate sauce",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "American",
+    "description": "",
+    "dishes": [
+        "jam",
+        "pancake",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chocolate sauce": [
+            "55g/2oz dark chocolate, melted",
+            "100ml/3\u00bdfl oz double cream",
+            "\u00bd vanilla pod, seeds scraped out"
+        ],
+        "For the flamb\u00e9ed cherries": [
+            "150g/5\u00bdoz fresh cherries, stems and stones removed",
+            "1 orange, juice and zest only",
+            "2 tbsp Kirsch liqueur"
+        ],
         "For the pancakes": [
             "2 free-range eggs",
             "200g/7oz self-raising flour",
@@ -28,17 +38,13 @@
             "300ml/\u00bd pint whole milk",
             "pinch salt",
             "vegetable oil, for frying"
-        ],
-        "For the flamb\u00e9ed cherries": [
-            "150g/5\u00bdoz fresh cherries, stems and stones removed",
-            "1 orange, juice and zest only",
-            "2 tbsp Kirsch liqueur"
-        ],
-        "For the chocolate sauce": [
-            "55g/2oz dark chocolate, melted",
-            "100ml/3\u00bdfl oz double cream",
-            "\u00bd vanilla pod, seeds scraped out"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the pancakes, whisk the eggs with the flour and baking powder in a large bowl and then add enough milk to make a thick batter. Add a pinch of salt and leave to rest for five minutes.",
@@ -47,8 +53,9 @@
         "For the sauce, place the dark chocolate with the double cream and vanilla seeds into a mixing bowl set over a saucepan of just-simmering water (making sure the bottom of the bowl doesn't touch the surface of the water) and stir until melted and smooth.",
         "To serve, pile the pancakes onto a serving plate, top with the flamb\u00e9ed cherries and drizzle over the hot chocolate sauce."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "American pancakes with flamb\u00e9ed cherries and warm chocolate sauce",
     "videos": "[]"
 }

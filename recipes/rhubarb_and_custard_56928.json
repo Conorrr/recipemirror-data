@@ -1,39 +1,32 @@
 {
-    "title": "Rhubarb and custard",
-    "cookTime": "over 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/rhubarb_and_custard_56928_16x9.jpg"
-    ],
-    "description": "This dessert is a celebration of a quintessentially British fruit. What excites the tastebuds as much as different flavours is contrasting textures, so in this dessert we have tart rhubarb jelly studded with tender fruit; sweet, smooth, velvety custard; and a garnish of crisp dried rhubarb. Equipment and preparation: for this recipe you will need a sugar thermometer, a hand-held blender, 4 glass serving dishes and a silicone mat.",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b05n91p4": "Kew on a Plate"
-    },
-    "tips": [
-        "If you want a very simple dessert, omit the jelly and serve the rhubarb compote with whipped cream or cr\u00e8me Chantilly instead of the custard."
+    "cookTime": "over 2 hours",
+    "description": "This dessert is a celebration of a quintessentially British fruit. What excites the tastebuds as much as different flavours is contrasting textures, so in this dessert we have tart rhubarb jelly studded with tender fruit; sweet, smooth, velvety custard; and a garnish of crisp dried rhubarb. Equipment and preparation: for this recipe you will need a sugar thermometer, a hand-held blender, 4 glass serving dishes and a silicone mat.",
+    "dishes": [
+        "caramel",
+        "compote",
+        "custard",
+        "honeycomb",
+        "jelly",
+        "oven-baked_dishes",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries",
+        "trifle"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/rhubarb_and_custard_56928_16x9.jpg"
+    ],
     "ingredients": {
-        "For the dried rhubarb crisp": [
-            "1 rhubarb stick",
-            "20g/\u00beoz caster sugar",
-            "2 tsp grenadine syrup"
-        ],
-        "To macerate and cook the rhubarb": [
-            "450g/1lb rhubarb, cut into 1cm/\u00bdin pieces",
-            "45g/1\u00bdoz caster sugar"
-        ],
-        "For the jelly": [
-            "2 thin slices fresh root ginger",
-            "1\u00bd gelatine leaves, softened in cold water and drained"
-        ],
         "For the custard": [
             "150ml/5fl oz whipping cream",
             "150ml/5fl oz milk",
@@ -42,15 +35,34 @@
             "6 egg yolks",
             "1 gelatine leaf, softened in cold water and drained"
         ],
+        "For the dried rhubarb crisp": [
+            "1 rhubarb stick",
+            "20g/\u00beoz caster sugar",
+            "2 tsp grenadine syrup"
+        ],
         "For the honeycomb": [
             "35g/1\u00bcoz clear honey",
             "70g/2\u00bdoz liquid glucose",
             "200g/7oz caster sugar",
             "20g/\u00beoz bicarbonate of soda"
         ],
+        "For the jelly": [
+            "2 thin slices fresh root ginger",
+            "1\u00bd gelatine leaves, softened in cold water and drained"
+        ],
+        "To macerate and cook the rhubarb": [
+            "450g/1lb rhubarb, cut into 1cm/\u00bdin pieces",
+            "45g/1\u00bdoz caster sugar"
+        ],
         "To serve (optional)": [
             "young angelica shoots, thinly sliced"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b05n91p4": "Kew on a Plate"
     },
     "steps": [
         "Place 4 glasses or glass serving dishes in the fridge to chill well. Preheat the oven to 100C/80C Fan/Gas \u00bc.",
@@ -68,8 +80,9 @@
         "Take off the heat and stir in the bicarbonate of soda. (CAUTION: There will be a huge amount of frothing and bubbling and it will increase in volume by about 5 times. This is caused by the bicarbonate of soda reacting with the heat of the sugar, which produces the bubbles that will eventually create a crunchy honeycomb. Beware \u2013 it is a very pretty spectacle but children shouldn\u2019t be allowed close.) Once the frothing has stopped, stir well to ensure that the bicarbonate of soda is well mixed, then carefully pour it into the lined tray. Allow to cool before turning out and breaking into pieces. Store in an airtight container until needed.",
         "To serve, top each dessert with some broken honeycomb, small spoonfuls of the reserved jelly, one of the rhubarb crisps and the angelica, if using, which will add a little more magic to this dish."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If you want a very simple dessert, omit the jelly and serve the rhubarb compote with whipped cream or cr\u00e8me Chantilly instead of the custard."
     ],
+    "title": "Rhubarb and custard",
     "videos": "[]"
 }

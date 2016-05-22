@@ -1,32 +1,24 @@
 {
-    "title": "Seared tuna with mangetout salad and sauce",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 tuna steak",
-            "salt",
-            "freshly ground black pepper",
-            "squeeze of lemon juice"
-        ],
         "For the salad": [
             "\u00bd red chilli, de-seeded and sliced",
             "\u00bd tomato, diced",
@@ -40,7 +32,19 @@
             "\u00bd red chilli, de-seeded and sliced",
             "55g/2oz mangetout, sliced",
             "\u00bd tomato, diced"
+        ],
+        "default": [
+            "1 tuna steak",
+            "salt",
+            "freshly ground black pepper",
+            "squeeze of lemon juice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat a non-stick frying pan until hot.",
@@ -52,8 +56,9 @@
         "To serve, transfer the tuna steak to a serving plate and serve the salad alongside.",
         "Drizzle the sauce around the edge and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Seared tuna with mangetout salad and sauce",
     "videos": "[]"
 }

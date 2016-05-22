@@ -1,24 +1,24 @@
 {
-    "title": "Haggis bhajis",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "7",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/haggis_bhajis_41124_16x9.jpg"
-    ],
-    "description": "Haggis works particularly well in these crispy onion bhajis.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Haggis works particularly well in these crispy onion bhajis.",
+    "dishes": [
+        "bhaji",
+        "haggis",
+        "quenelle",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/haggis_bhajis_41124_16x9.jpg"
     ],
     "ingredients": {
         "For the bhajis": [
@@ -36,6 +36,12 @@
             "100ml/3\u00bdfl oz whisky"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Heat two tablespoons of the oil in a heavy-based saucepan and fry the onions for 5-10 minutes, or until golden-brown.",
         "Mix the onion, chili, garlic and haggis in a bowl until well combined. Place the flour into a separate bowl whisk in 125ml/4fl oz warm water until the consistency of double cream.",
@@ -44,8 +50,9 @@
         "Carefully place the bhajis in the hot oil and cook for 2-3 minutes or until just cooked through. Remove from the oil using a slotted spoon and drain on kitchen paper. (This may need to be done in batches.)",
         "For the dip, place all of the ingredients into a saucepan and boil until the ingredients until thickened slightly."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Haggis bhajis",
     "videos": "[]"
 }

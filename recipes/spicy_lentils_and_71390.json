@@ -1,24 +1,23 @@
 {
-    "title": "Spicy lentils and chickpeas",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "13",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spicy_lentils_and_71390_16x9.jpg"
-    ],
-    "description": "Pulses are very nutritious and perfect for cooking on a budget. This dish of chickpeas and red lentils is great for warming you up on a cold evening. With a GI of 28 this meal is high protein, low GI and provides 261 kcal per portion.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Pulses are very nutritious and perfect for cooking on a budget. This dish of chickpeas and red lentils is great for warming you up on a cold evening. With a GI of 28 this meal is high protein, low GI and provides 261 kcal per portion.",
+    "dishes": [
+        "dal",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "how_to_cook_perfect_rice"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spicy_lentils_and_71390_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -40,14 +39,21 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "13",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Place the rice in a lidded pan, cover with water, put the lid on and bring to the boil. Simmer for around 10 minutes, or until the rice is soft.",
         "Meanwhile, heat the oil in a heavy-based saucepan over a medium heat, add the onion, garlic, celery and green pepper and fry gently for 10-12 minutes or until softened and beginning to colour.",
         "Stir in the lentils and spices and cook for 2-3 minutes, stirring frequently. Add the tomato pur\u00e9e, stock and chickpeas and bring to the boil. Reduce the heat, cover and simmer gently for about 20 minutes, or until the lentils are cooked through. Season with salt and freshly ground black pepper to taste.",
         "Divide the rice and lentil mixture between fiur bowls. Garnish with coriander and serve."
     ],
-    "howTos": [
-        "how_to_cook_perfect_rice"
+    "tips": [
+        
     ],
+    "title": "Spicy lentils and chickpeas",
     "videos": "[]"
 }

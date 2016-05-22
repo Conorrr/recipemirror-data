@@ -1,24 +1,21 @@
 {
-    "title": "Fruit smoothie",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "phil_vickery": "Phil Vickery"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "biscuit",
+        "smoothie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,12 +26,19 @@
             "3 tbsp crushed digestive biscuits, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place the fruit, sugar, cream cheese and a splash of cold water into a blender and blend until smooth.",
         "To serve, pour the smoothie into a tall glass and top with the crushed biscuits."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fruit smoothie",
     "videos": "[]"
 }

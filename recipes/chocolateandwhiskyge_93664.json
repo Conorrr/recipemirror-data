@@ -1,26 +1,33 @@
 {
-    "title": "Chocolate and whisky G\u00e9noise sponge filled with marmalade cream",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Enhance a traditional G\u00e9noise sponge with the rich flavours of chocolate and whisky.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Enhance a traditional G\u00e9noise sponge with the rich flavours of chocolate and whisky.",
+    "dishes": [
+        "cake",
+        "icing",
+        "jam",
+        "marmalade",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "greasing_and_lining",
+        "whipping_cream"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the marmalade cream": [
+            "175g/6oz coarse cut Seville orange marmalade",
+            "300ml/10\u00bdfl oz double cream"
+        ],
         "For the sponge": [
             "5 free-range eggs",
             "150g/5oz caster sugar",
@@ -29,11 +36,13 @@
             "25g/1oz butter, melted, plus extra for greasing",
             "whisky, for drizzling",
             "icing sugar, for dusting"
-        ],
-        "For the marmalade cream": [
-            "175g/6oz coarse cut Seville orange marmalade",
-            "300ml/10\u00bdfl oz double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Lightly grease and line the base of two 20cm/8in cake tins.",
@@ -44,10 +53,9 @@
         "Whip the cream in a bowl until soft peaks form when the whisk is removed. Gently fold in the marmalade puree to create a marbling effect throughout the cream.",
         "To serve, place the sponge cakes on a tray and drizzle the whisky evenly between the 2 cakes. Place one sponge on a serving plate and spread over the marmalade cream. Top with the second sponge cake. Lightly dust with icing sugar, then cut into wedges to serve."
     ],
-    "howTos": [
-        "folding",
-        "greasing_and_lining",
-        "whipping_cream"
+    "tips": [
+        
     ],
+    "title": "Chocolate and whisky G\u00e9noise sponge filled with marmalade cream",
     "videos": "[]"
 }

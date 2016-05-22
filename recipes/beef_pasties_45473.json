@@ -1,32 +1,27 @@
 {
-    "title": "Beef pasties",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 40 pasties",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Traditional beef pasties for a lot of people. Make and bake them in batches if you don't have industrial cooking equipment.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b013y0nz": "Hairy Bikers' Meals on Wheels"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Traditional beef pasties for a lot of people. Make and bake them in batches if you don't have industrial cooking equipment.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "pasty",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "4.5kg/10lb plain flour, plus extra for dusting",
-            "3 tbsp salt",
-            "2.25kg/5lb lard",
-            "1.2 litres/2 pints cold water"
-        ],
         "For the filling": [
             "3kg/6lb 8oz beef skirt or braising steak, chopped into 2cm/1in cubes",
             "150g/5\u00bdoz plain flour",
@@ -35,7 +30,19 @@
             "1.5kg/3lb 5oz swede, peeled, roughly chopped",
             "1.5kg/3lb 5oz onion, peeled, finely chopped",
             "10 free-range eggs, beaten"
+        ],
+        "For the pastry": [
+            "4.5kg/10lb plain flour, plus extra for dusting",
+            "3 tbsp salt",
+            "2.25kg/5lb lard",
+            "1.2 litres/2 pints cold water"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Makes 40 pasties",
+    "show": {
+        "b013y0nz": "Hairy Bikers' Meals on Wheels"
     },
     "steps": [
         "For the pastry, combine the flour, salt and lard and rub together until the mixture resembles breadcrumbs - this can be done in an industrial food processor or in batches.",
@@ -53,8 +60,9 @@
         "Place the pasties onto a baking tray and transfer to the oven. Bake for 45-50 minutes, or until the pastry is crisp and golden-brown and the filling is cooked through and piping hot.",
         "When the pasties are cooked, remove them from the oven and set aside to rest for 5-10 minutes before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef pasties",
     "videos": "[]"
 }

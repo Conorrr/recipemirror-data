@@ -1,24 +1,28 @@
 {
-    "title": "Pollack, chorizo and chickpea stew",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "39",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pot_roast_chickpeas_with_72308_16x9.jpg"
-    ],
-    "description": "A one-pot dish that's easy to prepare and serve a crowd. Pollack is a cheaper variety of white fish and is perfect for poaching in the flavourful stew.",
     "author": {
         "tom_kerridge": "Tom Kerridge"
     },
-    "show": {
-        "b03bv3vm": "Tom Kerridge's Proper Pub Food"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A one-pot dish that's easy to prepare and serve a crowd. Pollack is a cheaper variety of white fish and is perfect for poaching in the flavourful stew.",
+    "dishes": [
+        "casserole",
+        "one-pot_dishes",
+        "oven-baked_dishes",
+        "pie",
+        "prepare-ahead_desserts",
+        "sausage",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pot_roast_chickpeas_with_72308_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -41,6 +45,12 @@
             "200g/7oz spinach leaves"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "39",
+    "serves": "Serves 4",
+    "show": {
+        "b03bv3vm": "Tom Kerridge's Proper Pub Food"
+    },
     "steps": [
         "Soak the dried chickpeas overnight in a bowl of water.",
         "Drain the chickpeas and place in a large pan, cover with water and bring to the boil. Lower the heat and cook for two hours, or until the chickpeas are cooked. Remove from the heat and set aside to cool in the water.",
@@ -53,8 +63,9 @@
         "Remove the casserole from the oven. Gently lift the fish from the pot and place on a large serving plate.",
         "Stir the spinach into the hot chickpeas until it is just wilted. Remove the bay leaves and cinnamon stick. Spoon the chickpea mixture over and around the fish and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pollack, chorizo and chickpea stew",
     "videos": "[]"
 }

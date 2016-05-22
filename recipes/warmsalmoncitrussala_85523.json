@@ -1,26 +1,29 @@
 {
-    "title": "Warm salmon citrus salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "pie",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the salad": [
+            "150g/ 5\u00bdoz spinach",
+            "2 tbsp olive oil",
+            "\u00bd lemon, juice only"
+        ],
         "For the salmon": [
             "25g/1oz butter",
             "150g/5\u00bdoz salmon fillet",
@@ -31,12 +34,13 @@
             "1 tsp brown sugar",
             "1 tsp balsamic vinegar",
             "salt and freshly ground black pepper"
-        ],
-        "For the salad": [
-            "150g/ 5\u00bdoz spinach",
-            "2 tbsp olive oil",
-            "\u00bd lemon, juice only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the salmon, melt the butter in a small frying pan, place the salmon into the pan along with all the other salmon ingredients and cook for 3-4 minutes on each side, or until completely cooked through. Remove the salmon from the pan and flake into pieces.",
@@ -44,8 +48,9 @@
         "For the salad, place the spinach, olive oil and lemon juice into a large bowl and mix well.",
         "To serve, place the salad onto a plate, top with the flaked salmon and pour over the sauce from the pan."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Warm salmon citrus salad",
     "videos": "[]"
 }

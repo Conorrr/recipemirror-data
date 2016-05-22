@@ -1,26 +1,28 @@
 {
-    "title": "Baby courgettes and chanterelle mushrooms with basil",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/babycourgettesandcha_91629_16x9.jpg"
-    ],
-    "description": "",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b00lpbxs": "What to Eat Now"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "quick_suppers",
+        "soup",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/babycourgettesandcha_91629_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "\u00bc lemon, juice only",
+            "small handful fresh basil leaves, torn"
+        ],
         "default": [
             "large handful fresh chanterelle mushrooms, washed and cleaned to remove any grit, stalks removed, roughly torn",
             "5 baby courgettes, trimmed, sliced lengthways into thin strips",
@@ -28,11 +30,13 @@
             "large pinch sea salt flakes",
             "1 garlic clove, peeled, finely chopped",
             "freshly ground black pepper"
-        ],
-        "To serve": [
-            "\u00bc lemon, juice only",
-            "small handful fresh basil leaves, torn"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 1",
+    "show": {
+        "b00lpbxs": "What to Eat Now"
     },
     "steps": [
         "In a bowl, mix together the chanterelle mushrooms and courgette strips until well combined. Drizzle over two tablespoons of the olive oil and season with salt, then stir until the vegetables are completely coated in the oil.",
@@ -40,8 +44,9 @@
         "When the courgettes and mushrooms are cooked, remove the pan from the heat and add the chopped garlic. Season, to taste, with freshly ground black pepper.",
         "To serve, transfer the pan contents to a soup bowl. Drizzle over the remaining olive oil and the lemon juice, then sprinkle over the basil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Baby courgettes and chanterelle mushrooms with basil",
     "videos": "[]"
 }

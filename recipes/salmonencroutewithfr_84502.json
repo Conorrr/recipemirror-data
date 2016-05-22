@@ -1,26 +1,32 @@
 {
-    "title": "Salmon en croute with fresh parsley sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the fresh parsley sauce": [
+            "15g/\u00bcoz butter",
+            "15g\u00bcoz flour",
+            "2 tbsp double cream",
+            "small handful fresh parsley, chopped"
+        ],
         "default": [
             "15g/\u00bcoz butter",
             "100g/3\u00bdoz spinach",
@@ -28,13 +34,13 @@
             "100g/3\u00bdoz salmon fillet",
             "salt and freshly ground black pepper",
             "1 free-range egg, lightly whisked"
-        ],
-        "For the fresh parsley sauce": [
-            "15g/\u00bcoz butter",
-            "15g\u00bcoz flour",
-            "2 tbsp double cream",
-            "small handful fresh parsley, chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat oven to 200C/400F/Gas 6.",
@@ -47,8 +53,9 @@
         "Add the fresh parsley and cook for another minute, until warmed through.",
         "To serve, slice the salmon parcel diagonally, place onto a plate and drizzle with fresh parsley sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salmon en croute with fresh parsley sauce",
     "videos": "[]"
 }

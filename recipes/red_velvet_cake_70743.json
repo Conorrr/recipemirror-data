@@ -1,24 +1,23 @@
 {
-    "title": "Red velvet cake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes a 3-layer cake",
-    "recommendations": "31",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/red_velvet_cake_70743_16x9.jpg"
-    ],
-    "description": "Try our recipe for a classic red velvet cake with cream cheese icing.",
     "author": {
         "mari_williams": "Mari Williams"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Try our recipe for a classic red velvet cake with cream cheese icing.",
+    "dishes": [
+        "cake",
+        "icing",
+        "oven-baked_dishes",
+        "sandwich"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/red_velvet_cake_70743_16x9.jpg"
     ],
     "ingredients": {
         "For the cake": [
@@ -39,6 +38,12 @@
             "1 tsp lemon juice"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "31",
+    "serves": "Makes a 3-layer cake",
+    "show": {
+        
+    },
     "steps": [
         "Pre heat the oven to 170C/325F/gas 3. Grease and line a deep, round 15cm/6in tin.",
         "Beat the butter, sugar and vanilla together in a bowl until pale and fluffy. Add the eggs one at a time, beating after each addition (if the mixture looks curdled add a spoonful of the flour.)",
@@ -48,8 +53,9 @@
         "For the icing, mix the butter and cream cheese together in a bowl. Then beat in the icing sugar a little at a time. Once all the icing sugar has been added, add the lemon juice and beat the icing for five minutes or until paler in colour.",
         "Slice the cake into three equal layers and sandwich them together with the icing. Finish with a layer of icing on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Red velvet cake",
     "videos": "[]"
 }

@@ -1,38 +1,35 @@
 {
-    "title": "Apple and toffee crumble pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 8",
-    "recommendations": "17",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/apple_and_toffee_crumble_76635_16x9.jpg"
-    ],
-    "description": "If you can\u2019t decide between apple crumble or apple pie this is the recipe for you. Tom\u2019s pie has a pastry bottom, crumble top and a fruit filling laced with homemade treacle toffee which melts as it cooks.",
     "author": {
         "tom_kerridge": "Tom Kerridge"
     },
-    "show": {
-        "b03bv3vm": "Tom Kerridge's Proper Pub Food"
-    },
-    "tips": [
-        "This recipe makes more toffee and crumble topping than you will need, but crumble toppings keep well in the fridge for up to a week and the toffee for up to two weeks \u2013 if you can make it last that long!"
+    "cookTime": "1 to 2 hours",
+    "description": "If you can\u2019t decide between apple crumble or apple pie this is the recipe for you. Tom\u2019s pie has a pastry bottom, crumble top and a fruit filling laced with homemade treacle toffee which melts as it cooks.",
+    "dishes": [
+        "apple_crumble",
+        "crumble",
+        "custard",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stir-fries",
+        "toffee"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/apple_and_toffee_crumble_76635_16x9.jpg"
+    ],
     "ingredients": {
-        "For the toffee": [
-            "oil, for greasing",
-            "450g/1lb soft dark brown sugar",
-            "5g/\u00bcoz cream of tartar",
-            "100g/3\u00bdoz golden syrup",
-            "130g/4\u00bdoz black treacle"
-        ],
-        "For the pastry": [
-            "225g/8oz butter",
-            "115g/4oz sugar",
-            "1 free-range egg yolk",
-            "400g/14oz flour, sifted"
+        "For the crumble topping": [
+            "200g/7oz plain flour",
+            "100g/3\u00bdoz caster sugar",
+            "35g/1\u00bcoz ground almonds",
+            "10g/\u00bcoz flaked almonds",
+            "80g/2\u00bdoz butter, softened"
         ],
         "For the filling": [
             "100g/3\u00bdoz butter",
@@ -42,16 +39,28 @@
             "1 cinnamon stick",
             "4 eating apples (such as Cox or Royal Gala), peeled and diced"
         ],
-        "For the crumble topping": [
-            "200g/7oz plain flour",
-            "100g/3\u00bdoz caster sugar",
-            "35g/1\u00bcoz ground almonds",
-            "10g/\u00bcoz flaked almonds",
-            "80g/2\u00bdoz butter, softened"
+        "For the pastry": [
+            "225g/8oz butter",
+            "115g/4oz sugar",
+            "1 free-range egg yolk",
+            "400g/14oz flour, sifted"
+        ],
+        "For the toffee": [
+            "oil, for greasing",
+            "450g/1lb soft dark brown sugar",
+            "5g/\u00bcoz cream of tartar",
+            "100g/3\u00bdoz golden syrup",
+            "130g/4\u00bdoz black treacle"
         ],
         "To serve": [
             "custard, cr\u00e8me fra\u00eeche, ice cream or clotted cream"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "17",
+    "serves": "Serves 8",
+    "show": {
+        "b03bv3vm": "Tom Kerridge's Proper Pub Food"
     },
     "steps": [
         "To make the toffee, line a tray with baking parchment and grease it with oil.",
@@ -71,8 +80,9 @@
         "Bake in the oven at 180C/350F/Gas 4 for 10-12 minutes, or until the filling is bubbling and the toffee has melted.",
         "Serve with custard, cr\u00e8me fra\u00eeche, ice cream or clotted cream\u2026.or all four!"
     ],
-    "howTos": [
-        
+    "tips": [
+        "This recipe makes more toffee and crumble topping than you will need, but crumble toppings keep well in the fridge for up to a week and the toffee for up to two weeks \u2013 if you can make it last that long!"
     ],
+    "title": "Apple and toffee crumble pie",
     "videos": "[]"
 }

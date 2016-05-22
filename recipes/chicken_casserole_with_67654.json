@@ -1,33 +1,32 @@
 {
-    "title": "Chicken casserole with potato cobbler",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "62",
-    "images": [
-        
-    ],
-    "description": "If you don\u2019t have time to make the potato cobbler to top this hearty chicken stew, you could just serve it with boiled buttery potatoes.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "If you don\u2019t have time to make the potato cobbler to top this hearty chicken stew, you could just serve it with boiled buttery potatoes.",
+    "dishes": [
+        "bread",
+        "casserole",
+        "cobbler",
+        "oven-baked_dishes",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "sausage",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "browning_meat"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the potato cobbler topping": [
-            "350g/12oz floury potatoes, such as King Edwards or Maris Piper",
-            "250g/9oz self-raising flour, plus extra for rolling",
-            "1 tsp fine sea salt",
-            "100g/3\u00bdoz cold butter, cut into cubes",
-            "125ml/4fl oz full-fat milk, plus extra for brushing"
-        ],
         "For the chicken casserole": [
             "8 skinless, boneless chicken thighs",
             "flaked sea salt and freshly ground black pepper",
@@ -46,7 +45,20 @@
             "2 tbsp cold water",
             "flaked sea salt",
             "freshly ground black pepper"
+        ],
+        "For the potato cobbler topping": [
+            "350g/12oz floury potatoes, such as King Edwards or Maris Piper",
+            "250g/9oz self-raising flour, plus extra for rolling",
+            "1 tsp fine sea salt",
+            "100g/3\u00bdoz cold butter, cut into cubes",
+            "125ml/4fl oz full-fat milk, plus extra for brushing"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "62",
+    "serves": "Serves 4",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "To prepare the mash for the cobbler topping, peel the potatoes and cut into 2cm/\u00bein chunks. Put in a medium saucepan and cover with cold water. Bring to the boil and simmer for 15 minutes, or until the potatoes are very tender.",
@@ -59,8 +71,9 @@
         "Take the chicken out of the oven and season to taste with salt and pepper. You won\u2019t be able to season it again once the topping has been added. Mix the cornflour and water and stir into the casserole. Add the leeks and stir well.",
         "Top the chicken mixture with the potato dumplings, overlapping them slightly, so they almost cover the filling. Brush with a little extra mix to glaze. Season with a little ground black pepper and some sea salt. Return to the oven without a lid for a further 30 minutes, or until the cobbler topping is well risen, fluffy and golden-brown."
     ],
-    "howTos": [
-        "browning_meat"
+    "tips": [
+        
     ],
+    "title": "Chicken casserole with potato cobbler",
     "videos": "[p0176q1t:p0176q1x]"
 }

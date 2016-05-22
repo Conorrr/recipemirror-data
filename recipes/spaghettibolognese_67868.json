@@ -1,24 +1,23 @@
 {
-    "title": "Spaghetti Bolognese",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "153",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spaghettibolognese_67868_16x9.jpg"
-    ],
-    "description": "Once you\u2019ve got this grown-up spag bol going the hob will do the rest. Any leftovers will taste even better the next day.",
     "author": {
         "jo_pratt": "Jo' Pratt"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "You can make a veggie version of this recipe by substituting soya mince or Quorn for the meat, adding it to the sauce halfway through cooking. Or simply add lots of diced vegetables to the onions, such as courgettes, carrots, peppers and aubergines."
+    "cookTime": "1 to 2 hours",
+    "description": "Once you\u2019ve got this grown-up spag bol going the hob will do the rest. Any leftovers will taste even better the next day.",
+    "dishes": [
+        "pie",
+        "sauce",
+        "spaghetti_bolognese",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "how_to_brown_mince"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spaghettibolognese_67868_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -41,13 +40,20 @@
             "Lots of freshly grated parmesan, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "153",
+    "serves": "Serves 6-8",
+    "show": {
+        
+    },
     "steps": [
         "Heat the oil in a large, heavy-based saucepan and fry the bacon until golden over a medium heat. Add the onions and garlic, frying until softened. Increase the heat and add the minced beef. Fry it until it has browned, breaking down any chunks of meat with a wooden spoon. Pour in the wine and boil until it has reduced in volume by about a third. Reduce the temperature and stir in the tomatoes, drained mushrooms, bay leaves, oregano, thyme and balsamic vinegar.",
         "Either blitz the sun-dried tomatoes in a small blender with a little of the oil to loosen, or just finely chop before adding to the pan. Season well with salt and pepper. Cover with a lid and simmer the Bolognese sauce over a gentle heat for 1-1\u00bd hours until it's rich and thickened, stirring occasionally. At the end of the cooking time, stir in the basil and add any extra seasoning if necessary.",
         "Remove from the heat to 'settle' while you cook the spaghetti in plenty of boiling salted water (for the time stated on the packet). Drain and divide between warmed plates. Scatter a little parmesan over the spaghetti before adding a good ladleful of the Bolognese sauce, finishing with a scattering of more cheese and a twist of black pepper."
     ],
-    "howTos": [
-        "how_to_brown_mince"
+    "tips": [
+        "You can make a veggie version of this recipe by substituting soya mince or Quorn for the meat, adding it to the sauce halfway through cooking. Or simply add lots of diced vegetables to the onions, such as courgettes, carrots, peppers and aubergines."
     ],
+    "title": "Spaghetti Bolognese",
     "videos": "[]"
 }

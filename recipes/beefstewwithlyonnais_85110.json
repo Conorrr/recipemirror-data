@@ -1,26 +1,35 @@
 {
-    "title": "Beef stew with Lyonnaise potatoes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "ketchup",
+        "pie",
+        "stew",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Lyonnaise potatoes": [
+            "50g/1\u00beoz unsalted butter",
+            "1 tbsp olive oil",
+            "100g/3\u00bdoz ratte potatoes (or other small, waxy potatoes), blanched and sliced",
+            "1 garlic clove, sliced",
+            "\u00bd onion, thinly sliced",
+            "salt and freshly ground black pepper",
+            "1 tbsp chopped fresh parsley, to serve"
+        ],
         "For the beef stew": [
             "25g/1oz unsalted butter",
             "1 tbsp olive oil",
@@ -34,16 +43,13 @@
             "1 carrot, peeled and chopped",
             "75g/2\u00beoz ratte potatoes (or other small, waxy potatoes), peeled and sliced",
             "1 tbsp fresh breadcrumbs, to serve"
-        ],
-        "For the Lyonnaise potatoes": [
-            "50g/1\u00beoz unsalted butter",
-            "1 tbsp olive oil",
-            "100g/3\u00bdoz ratte potatoes (or other small, waxy potatoes), blanched and sliced",
-            "1 garlic clove, sliced",
-            "\u00bd onion, thinly sliced",
-            "salt and freshly ground black pepper",
-            "1 tbsp chopped fresh parsley, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the beef stew, melt the butter with the oil in a frying pan over a low heat and fry the onion and garlic until soft.",
@@ -54,8 +60,9 @@
         "Add the garlic and onion, season with salt and freshly ground black pepper and cook gently until softened.",
         "To serve, place the stew into a bowl and sprinkle over the breadcrumbs. Place the potatoes alongside and sprinkle over the parsley."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef stew with Lyonnaise potatoes",
     "videos": "[]"
 }

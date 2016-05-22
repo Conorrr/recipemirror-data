@@ -1,26 +1,32 @@
 {
-    "title": "Mexican-style bean soup",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "10",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mexicanstylebeansoup_90224_16x9.jpg"
-    ],
-    "description": "Make a Mexican wave with this chilli-spiked soup, loaded with avocado, sour cream and spring onions.",
     "author": {
         "sophie_grigson": "Sophie Grigson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Mexican",
+    "description": "Make a Mexican wave with this chilli-spiked soup, loaded with avocado, sour cream and spring onions.",
+    "dishes": [
+        "bun",
+        "soup"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mexicanstylebeansoup_90224_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "150ml/5fl oz soured cream or cr\u00e8me fra\u00eeche",
+            "1 avocado, diced at the last minute",
+            "6 spring onions, thinly sliced",
+            "2 red chillies, seeds removed, very finely chopped",
+            "small bunch coriander, roughly chopped",
+            "1-2 limes, cut into wedges"
+        ],
         "default": [
             "500g/1lb 2oz pinto beans, or mixed dried beans",
             "2 onions",
@@ -36,15 +42,13 @@
             "salt and freshly ground black pepper",
             "60ml/2fl oz dry sherry",
             "1 lime"
-        ],
-        "To serve": [
-            "150ml/5fl oz soured cream or cr\u00e8me fra\u00eeche",
-            "1 avocado, diced at the last minute",
-            "6 spring onions, thinly sliced",
-            "2 red chillies, seeds removed, very finely chopped",
-            "small bunch coriander, roughly chopped",
-            "1-2 limes, cut into wedges"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "10",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Soak the beans for four hours (or overnight) in a bowl of cold water, then drain thoroughly in a colander.",
@@ -58,8 +62,9 @@
         "At the end of cooking, remove the bouquet garni. Add more salt and freshly ground black pepper to taste, remembering that starchy beans appreciate plenty of salt. (The soup can be prepared in advance up to this stage, then reheated on the same day.)",
         "To serve, put all the serving ingredients into small bowls and arrange them in the centre of the table. (Dice the avocado just before serving the soup.) Ladle the hot soup into bowls and pass around, encouraging people to help themselves from the selection of garnishes in the bowls."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mexican-style bean soup",
     "videos": "[]"
 }

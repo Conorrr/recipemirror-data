@@ -1,26 +1,32 @@
 {
-    "title": "Sponge pudding with custard and fruit syrup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "custard",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the custard": [
+            "100ml/3\u00bdfl oz double cream",
+            "50ml/2fl oz milk",
+            "1 vanilla pod, seeds scraped out",
+            "4 free-range egg yolks",
+            "50g/1\u00beoz caster sugar"
+        ],
         "For the sponge pudding": [
             "115g/4oz plain flour",
             "115g/4oz unsalted butter",
@@ -29,18 +35,17 @@
             "1 vanilla pod, seeds scraped out",
             "100g/3\u00bdoz frozen winter berries, defrosted in microwave, juice drained and kept separately for syrup"
         ],
-        "For the custard": [
-            "100ml/3\u00bdfl oz double cream",
-            "50ml/2fl oz milk",
-            "1 vanilla pod, seeds scraped out",
-            "4 free-range egg yolks",
-            "50g/1\u00beoz caster sugar"
-        ],
         "For the syrup": [
             "50ml/2fl oz winter berry juice",
             "25g/1oz caster sugar",
             "30m/1fl oz red wine"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "To make the sponge, mix together the flour, butter, sugar, eggs, vanilla seeds and defrosted berries in a food processor.",
@@ -52,8 +57,9 @@
         "To make the fruit syrup, place the berry juices, caster sugar and red wine into a small saucepan over a high heat. Bring the boil and reduce for two minutes, until thickened.",
         "To serve, turn the sponge onto a plate, drizzle with custard and spoon over some syrup."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sponge pudding with custard and fruit syrup",
     "videos": "[]"
 }

@@ -1,36 +1,29 @@
 {
-    "title": "Red vegetable curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "",
+    "dishes": [
+        "bun",
+        "curry",
+        "pie",
+        "stir-fries",
+        "stock",
+        "upside-down_cake",
+        "vegetable_curry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "400ml/14\u00bcfl oz tin coconut milk",
-            "100ml/3\u00bdfl oz stock",
-            "100g/3\u00bdoz cooked French beans",
-            "100g/3\u00bdoz marrow",
-            "100g/3\u00bdoz cooked sweet potatoes",
-            "100g/3\u00bdoz pumpkin",
-            "100g/3\u00bdoz courgettes",
-            "1 bunch of spring onions, finely chopped"
-        ],
         "For the curry paste": [
             "10 black peppercorns",
             "2 tsp cumin seeds",
@@ -55,7 +48,23 @@
             "small dome-shaped bowl",
             "lime wedges",
             "1 red chilli, finely sliced"
+        ],
+        "default": [
+            "400ml/14\u00bcfl oz tin coconut milk",
+            "100ml/3\u00bdfl oz stock",
+            "100g/3\u00bdoz cooked French beans",
+            "100g/3\u00bdoz marrow",
+            "100g/3\u00bdoz cooked sweet potatoes",
+            "100g/3\u00bdoz pumpkin",
+            "100g/3\u00bdoz courgettes",
+            "1 bunch of spring onions, finely chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "To make the curry paste, dry-fry the peppercorns, cumin and coriander seeds until fragrant, then grind them in a mortar and pestle.",
@@ -68,8 +77,9 @@
         "While the curry is simmering, drain the rice. Chop some coriander and stir through the rice, then pack into a small dome-shaped bowl. Turn the bowl upside down and remove to reveal a dome-shaped mound of rice. Garnish with finely sliced chilli and a sprig of coriander.",
         "Serve."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Red vegetable curry",
     "videos": "[]"
 }

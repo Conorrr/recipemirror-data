@@ -1,39 +1,26 @@
 {
-    "title": "Tortilla chips with spicy yoghurt dip and corn salsa",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "chips",
+        "salsa",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the tortilla chips": [
-            "300ml/\u00bd pint vegetable oil, for deep frying",
-            "4 flour tortillas, cut into triangles",
-            "sea salt, for sprinkling"
-        ],
-        "For the spicy yoghurt dip": [
-            "2 tsp chopped chipotle chillies",
-            "200ml/7fl oz Greek-style yoghurt",
-            "squeeze lime juice",
-            "\u00bc red pepper, finely chopped",
-            "pinch Cajun spice seasoning",
-            "salt and freshly ground black pepper"
-        ],
         "For the corn salsa": [
             "dash olive oil",
             "1 corn-on-the-cob, kernels only",
@@ -46,7 +33,26 @@
             "pinch Cajun spice seasoning",
             "salt and freshly ground black pepper",
             "2 tbsp chopped fresh coriander"
+        ],
+        "For the spicy yoghurt dip": [
+            "2 tsp chopped chipotle chillies",
+            "200ml/7fl oz Greek-style yoghurt",
+            "squeeze lime juice",
+            "\u00bc red pepper, finely chopped",
+            "pinch Cajun spice seasoning",
+            "salt and freshly ground black pepper"
+        ],
+        "For the tortilla chips": [
+            "300ml/\u00bd pint vegetable oil, for deep frying",
+            "4 flour tortillas, cut into triangles",
+            "sea salt, for sprinkling"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the tortilla chips, place the vegetable oil into a deep, heavy-based saucepan and heat until a small cube of bread sizzles and turns golden-brown when dropped into it. (CAUTION: hot oil can be dangerous. Do not leave unattended.)",
@@ -56,8 +62,9 @@
         "Add the finely chopped peppers and fry for two minutes. Add the chipotle chillies, Cajun spice, salt and freshly ground black pepper and stir well over a gentle heat for one minute. Stir in the chopped coriander.",
         "To serve, spoon the salsa onto a serving plate. Place the small bowl of yoghurt dip in the middle of the serving plate and then place the crisp tortillas around the edge. Serve while the tortillas are still warm."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Tortilla chips with spicy yoghurt dip and corn salsa",
     "videos": "[]"
 }

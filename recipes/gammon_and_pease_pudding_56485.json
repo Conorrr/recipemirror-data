@@ -1,37 +1,27 @@
 {
-    "title": "Gammon and pease pudding",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "26",
-    "images": [
-        
-    ],
-    "description": "Pease pudding complements the saltiness of gammon perfectly in this classic English dish.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Pease pudding complements the saltiness of gammon perfectly in this classic English dish.",
+    "dishes": [
+        "ham",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pease pudding": [
-            "300g/10oz dried yellow split peas",
-            "50g/2oz butter",
-            "1 onion, roughly chopped",
-            "\u00bd tsp dried thyme",
-            "1 bay leaf",
-            "1 tsp sea salt flakes",
-            "\u00bd tsp finely grated nutmeg",
-            "1 free-range egg, beaten",
-            "freshly ground black pepper"
-        ],
         "For the gammon": [
             "1kg/2\u00bclb smoked or unsmoked gammon joint, tied",
             "1 medium onion, peeled",
@@ -48,7 +38,24 @@
             "1 tsp English mustard",
             "1 tsp wholegrain mustard",
             "5 tbsp single cream"
+        ],
+        "For the pease pudding": [
+            "300g/10oz dried yellow split peas",
+            "50g/2oz butter",
+            "1 onion, roughly chopped",
+            "\u00bd tsp dried thyme",
+            "1 bay leaf",
+            "1 tsp sea salt flakes",
+            "\u00bd tsp finely grated nutmeg",
+            "1 free-range egg, beaten",
+            "freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "26",
+    "serves": "Serves 6",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "Rinse the peas in a sieve under cold running water and drain. Put the peas in a bowl and cover with hot water. Leave to stand for 20 minutes.",
@@ -62,8 +69,9 @@
         "For the mustard sauce, melt the butter in a heavy-based saucepan over a medium heat. Stir in the flour and cook for a few seconds before slowly adding the reserved stock, stirring well between each addition. Bring the sauce to a simmer, stir in the mustard and then the cream. Season, to taste, with salt and freshly ground black pepper.",
         "Carve the gammon into thick slices. Unwrap the pease pudding and transfer to a warmed serving bowl. Serve a spoonful of pease pudding with a slice of gammon and drizzle over the sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Gammon and pease pudding",
     "videos": "[]"
 }

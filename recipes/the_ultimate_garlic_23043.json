@@ -1,24 +1,26 @@
 {
-    "title": "The ultimate garlic bread",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Roasting the garlic takes away any harshness and produces a beautifully creamy garlic butter. Cheat by using softened shop-bought butter if you're short of time.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Roasting the garlic takes away any harshness and produces a beautifully creamy garlic butter. Cheat by using softened shop-bought butter if you're short of time.",
+    "dishes": [
+        "baguette",
+        "bread",
+        "garlic_bread",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,6 +32,12 @@
             "1 large baguette, cut lengthways into four pieces"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Preheat the oven to 170C/340F/Gas 3\u00bd",
         "Wrap the whole garlic bulb in aluminium foil and place on a tray in the oven. Roast for 40-45 minutes, or until soft.",
@@ -40,8 +48,9 @@
         "Heat a large griddle pan and brush the bread with oil. Place on the griddle pan and cook each side for 1-2 minutes.",
         "Spread the bread with the garlic butter and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "The ultimate garlic bread",
     "videos": "[]"
 }

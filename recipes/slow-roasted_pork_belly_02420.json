@@ -1,32 +1,26 @@
 {
-    "title": "Slow-roasted pork belly with cider and apple sauce and creamy mash",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "Pork and apple is a classic combination, James Martin shows you how to take it to the next level.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Pork and apple is a classic combination, James Martin shows you how to take it to the next level.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the slow-roasted pork belly": [
-            "1.8kg/3lb 15oz pork belly, skin scored with a sharp knife",
-            "12 sage leaves",
-            "1 lemon, zest only",
-            "salt flakes and freshly ground black pepper"
-        ],
         "For the cider and apple sauce": [
             "500g/1lb 2oz Bramley apples, peeled, cored, chopped",
             "30g/1oz butter",
@@ -39,7 +33,19 @@
             "50g/2oz butter",
             "110ml/4fl oz double cream",
             "salt and freshly ground black pepper"
+        ],
+        "For the slow-roasted pork belly": [
+            "1.8kg/3lb 15oz pork belly, skin scored with a sharp knife",
+            "12 sage leaves",
+            "1 lemon, zest only",
+            "salt flakes and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the slow-roasted pork belly, preheat the oven to 200C/400F/Gas 6.",
@@ -52,8 +58,9 @@
         "Season, to taste, with salt and freshly ground black pepper. Set aside and keep warm.",
         "Slice the pork and serve with the mash and apple sauce."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Slow-roasted pork belly with cider and apple sauce and creamy mash",
     "videos": "[]"
 }

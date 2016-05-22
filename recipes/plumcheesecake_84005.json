@@ -1,45 +1,50 @@
 {
-    "title": "Plum cheesecake",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "cheesecake",
+        "icing",
+        "jam"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "sprig fresh mint",
+            "drizzle honey"
+        ],
         "default": [
             "200g/7oz mascarpone cheese",
             "142ml/5fl oz double cream, whipped",
             "\u00bd vanilla pod, split, seeds scraped out",
             "2 tbsp icing sugar",
             "2 plums, halved, stones removed"
-        ],
-        "To serve": [
-            "sprig fresh mint",
-            "drizzle honey"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "In a bowl, mix together the mascarpone, cream, vanilla seeds and icing sugar.",
         "Place two chefs' rings onto two serving plates. Add the plums to the base of the rings and press down. Top up the rings with the mascarpone mixture and smooth down the top with a pallet knife.",
         "To serve, carefully remove the chefs' rings, garnish with mint and drizzle with honey."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Plum cheesecake",
     "videos": "[]"
 }

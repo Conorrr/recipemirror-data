@@ -1,26 +1,32 @@
 {
-    "title": "Chicken and butterbean pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This classic pie works equally well with rabbit, pheasant or other game. Cooling the filling down before topping with pastry is the best way to ensure a light, crisp lid.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "This classic pie works equally well with rabbit, pheasant or other game. Cooling the filling down before topping with pastry is the best way to ensure a light, crisp lid.",
+    "dishes": [
+        "chicken_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the crust": [
+            "200g/7oz ready-made shortcrust pastry",
+            "1 free-range egg, beaten, for glazing"
+        ],
         "For the pie filling": [
             "2 tbsp vegetable oil",
             "150g/5\u00bdoz smoked bacon lardons",
@@ -34,11 +40,13 @@
             "salt and freshly ground black pepper",
             "1 x 400g/14oz tin butter beans, rinsed and drained",
             "1 tbsp unsalted butter"
-        ],
-        "For the crust": [
-            "200g/7oz ready-made shortcrust pastry",
-            "1 free-range egg, beaten, for glazing"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Heat one tablespoon of oil in a frying pan over a medium heat. Fry the bacon lardons until crisp. Remove with a slotted spoon and set aside.",
@@ -52,8 +60,9 @@
         "For the crust, roll out the pastry large enough to cover the dish. Place on top and press around the dish. Trim the pastry and crimp the edges. Brush the top of the pie with the beaten egg. Cut a small hole in the top of the pie to allow steam to escape.",
         "Place in the preheated oven for about 20-25 minutes until crisp and golden-brown."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken and butterbean pie",
     "videos": "[]"
 }

@@ -1,26 +1,33 @@
 {
-    "title": "Easter simnel truffles",
-    "cookTime": "less than 10 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Makes approximately 30 truffles",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/easter_simnel_truffles_05358_16x9.jpg"
-    ],
-    "description": "Chocolate truffles are a decadent treat at any time but this Easter version is irresistible.",
     "author": {
         "paul_a_young": "Paul A Young"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Chocolate truffles are a decadent treat at any time but this Easter version is irresistible.",
+    "dishes": [
+        "confectionery",
+        "icing",
+        "marzipan",
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_temper_chocolate"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/easter_simnel_truffles_05358_16x9.jpg"
+    ],
     "ingredients": {
+        "For the coating": [
+            "100g/3\u00bdoz cocoa powder",
+            "100g/3\u00bdoz icing sugar",
+            "25g/1oz ground cinnamon",
+            "10g/\u00bcoz ground nutmeg",
+            "400g/14oz dark chocolate, melted and tempered"
+        ],
         "For the ganache": [
             "200ml/7fl oz full-fat milk or double cream",
             "1 cinnamon stick, crushed",
@@ -29,14 +36,13 @@
             "300g/10\u00bdoz dark chocolate (preferably with 62% or more cocoa solids), finely chopped",
             "5 tsp brandy",
             "100g/3\u00bdoz marzipan"
-        ],
-        "For the coating": [
-            "100g/3\u00bdoz cocoa powder",
-            "100g/3\u00bdoz icing sugar",
-            "25g/1oz ground cinnamon",
-            "10g/\u00bcoz ground nutmeg",
-            "400g/14oz dark chocolate, melted and tempered"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Makes approximately 30 truffles",
+    "show": {
+        
     },
     "steps": [
         "For the ganache, put the milk or cream, spices and sugar into a saucepan and bring to a simmer. Place the chopped chocolate in a heatproof bowl. Remove the spiced milk from the heat and strain through a fine sieve onto the chopped chocolate. Whisk until smooth, then add the brandy and whisk again. Pour into a plastic container and refrigerate for an hour, or until set.",
@@ -46,8 +52,9 @@
         "Using your fingers, dip each truffle in the melted, tempered chocolate and drop into the cocoa powder mixture, rolling until the truffle is completely coated. Set aside to cool on a plate.",
         "Eat the truffles at room temperature, so they are very soft inside."
     ],
-    "howTos": [
-        "how_to_temper_chocolate"
+    "tips": [
+        
     ],
+    "title": "Easter simnel truffles",
     "videos": "[]"
 }

@@ -1,24 +1,21 @@
 {
-    "title": "Elderflower cordial",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1.5litres/2\u00bepints",
-    "recommendations": "26",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/elderflowercordial_6465_16x9.jpg"
-    ],
-    "description": "Homemade elderflower cordial is so much better than anything you can buy. Serve with sparkling water for a refreshing drink or sparkling wine for a delicious cocktail.",
     "author": {
         "lotte_duncan": "Lotte Duncan"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Homemade elderflower cordial is so much better than anything you can buy. Serve with sparkling water for a refreshing drink or sparkling wine for a delicious cocktail.",
+    "dishes": [
+        "non-alcoholic_cocktail",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/elderflowercordial_6465_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -30,6 +27,12 @@
             "3 unwaxed lemons, sliced"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "26",
+    "serves": "Makes 1.5litres/2\u00bepints",
+    "show": {
+        
+    },
     "steps": [
         "Gently rinse over the elderflowers to remove any dirt or little creatures.",
         "Pour the boiling water over the sugar in a very large mixing bowl. Stir well and leave to cool.",
@@ -37,8 +40,9 @@
         "Leave in a cool place for 24 hours, stirring occasionally.",
         "Strain through some muslin and transfer to sterilised bottles."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Elderflower cordial",
     "videos": "[]"
 }

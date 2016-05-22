@@ -1,26 +1,27 @@
 {
-    "title": "Cheese and cherry tomato muffins",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 10",
-    "recommendations": "17",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cheeseandcherrytomat_84142_16x9.jpg"
-    ],
-    "description": "These cheesy muffins take no time to throw together and are delicious with eggs and bacon for breakfast or brunch.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "These cheesy muffins take no time to throw together and are delicious with eggs and bacon for breakfast or brunch.",
+    "dishes": [
+        "muffins",
+        "oven-baked_dishes"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cheeseandcherrytomat_84142_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "crisp grilled bacon",
+            "scrambled egg"
+        ],
         "default": [
             "225g/8oz self-raising flour",
             "100g/3\u00bdoz courgette, grated",
@@ -30,11 +31,13 @@
             "1 free-range egg",
             "55ml/2fl oz olive oil",
             "10 cherry tomatoes"
-        ],
-        "To serve": [
-            "crisp grilled bacon",
-            "scrambled egg"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "17",
+    "serves": "Makes 10",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -44,8 +47,9 @@
         "Prick each cherry tomato - this stops them popping when they cook - and press one tomato into the top of each spoonful of mix.",
         "Spoon the remaining mixture over each muffin to conceal the tomato. Cook for about 20 minutes until golden brown."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cheese and cherry tomato muffins",
     "videos": "[]"
 }

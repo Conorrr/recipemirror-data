@@ -1,35 +1,27 @@
 {
-    "title": "Slow roasted pork with fennel",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "The flavours in the herb pesto complement the meat very well, they add more herby flavour to the already cooked meat - and the addition of mint to the pesto adds some freshness to it rather than making it too overpowering.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "The flavours in the herb pesto complement the meat very well, they add more herby flavour to the already cooked meat - and the addition of mint to the pesto adds some freshness to it rather than making it too overpowering.",
+    "dishes": [
+        "crumble",
+        "jam",
+        "oven-baked_dishes",
+        "pesto",
+        "slow-cooked_dishes"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "de-glazing_pans"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "small, whole shoulder of pork (skin on)",
-            "\u00bd garlic clove, peeled",
-            "110g/4oz fennel seeds",
-            "sea salt and pepper",
-            "5-6 small dried red chillies, crumbled",
-            "5 lemons, juice only",
-            "3 tbsp olive oil"
-        ],
         "For the pesto": [
             "1 tsp basil",
             "1 tsp mint",
@@ -39,7 +31,22 @@
             "1 lemon, juice only",
             "olive oil, to mix",
             "seasoning"
+        ],
+        "default": [
+            "small, whole shoulder of pork (skin on)",
+            "\u00bd garlic clove, peeled",
+            "110g/4oz fennel seeds",
+            "sea salt and pepper",
+            "5-6 small dried red chillies, crumbled",
+            "5 lemons, juice only",
+            "3 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the pork, preheat the oven to 230C/450F/Gas 8. Using a small, sharp knife, score the whole skin of the shoulder with deep cuts about 5mm/\u00bcin wide.",
@@ -50,8 +57,9 @@
         "To make the pesto, mix all the ingredients in a blender and serve.",
         "Serve with batons of roasted carrots and parsnips which have been tossed in a little olive oil and honey and roasted for about 30 minutes at 200C/400F/Gas 6"
     ],
-    "howTos": [
-        "de-glazing_pans"
+    "tips": [
+        
     ],
+    "title": "Slow roasted pork with fennel",
     "videos": "[]"
 }

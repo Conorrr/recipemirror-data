@@ -1,26 +1,30 @@
 {
-    "title": "Lettuce risotto",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 5-6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hugh_fearnley-whittingstall": "Hugh Fearnley-Whittingstall"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "pie",
+        "risotto",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "chiffonade"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To finish": [
+            "knob of butter",
+            "piece of fresh parmesan"
+        ],
         "default": [
             "2-4 mixed lettuces, depending on size",
             "1L/1\u00bept vegetable or chicken stock",
@@ -31,11 +35,13 @@
             "salt and freshly ground black pepper",
             "100g/3oz fresh garden peas, shelled",
             "12 spring onions, cut diagonally into 1cm/\u00bdin pieces"
-        ],
-        "To finish": [
-            "knob of butter",
-            "piece of fresh parmesan"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 5-6",
+    "show": {
+        
     },
     "steps": [
         "Pick over, wash and roughly shred the lettuces.",
@@ -45,8 +51,9 @@
         "About 15 minutes into the cooking time, when the rice is almost done, but still just a little bit chalky in the middle, add the shredded lettuce, peas and sliced spring onions. Stir gently to mix the vegetables through the rice. At first it will seem like you have added far too much lettuce, but it will soon wilt and give up its juices to the rice.",
         "The risotto is ready when all the liquid has been absorbed, the peas are just tender and the rice is cooked (ideally about 3 minutes after you ve added the lettuce). It should be creamy, not dry. Stir in the knob of butter and serve immediately offering parmesan and a grater to your guests at the table."
     ],
-    "howTos": [
-        "chiffonade"
+    "tips": [
+        
     ],
+    "title": "Lettuce risotto",
     "videos": "[]"
 }

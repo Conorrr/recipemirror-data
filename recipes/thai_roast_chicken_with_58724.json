@@ -1,23 +1,26 @@
 {
-    "title": "Thai roast chicken with sesame noodles and pak choi",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "Try this Thai-style twist on a classic roast chicken. Any leftovers will make great sandwiches!",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "Try this Thai-style twist on a classic roast chicken. Any leftovers will make great sandwiches!",
+    "dishes": [
+        "caramel",
+        "jam",
+        "oven-baked_dishes",
+        "roast_chicken",
+        "sandwich",
+        "sauce",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "testing_cooked_poultry"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -28,12 +31,6 @@
             "handful fresh coriander",
             "1 x 1.5kg/3lbs 5oz whole chicken, preferably free-range"
         ],
-        "For the sesame noodles": [
-            "350g/12\u00bdoz fresh egg noodles",
-            "1 tbsp sesame seeds, toasted",
-            "1 tbsp sesame oil",
-            "2 spring onions, sliced"
-        ],
         "For the garlic pak choi": [
             "1 tbsp vegetable oil",
             "2 garlic cloves, crushed",
@@ -42,7 +39,19 @@
             "570ml/1 pint chicken stock",
             "2 tsp Thai fish sauce (nam pla)",
             "4 sprigs fresh coriander, to garnish"
+        ],
+        "For the sesame noodles": [
+            "350g/12\u00bdoz fresh egg noodles",
+            "1 tbsp sesame seeds, toasted",
+            "1 tbsp sesame oil",
+            "2 spring onions, sliced"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the Thai roast chicken, preheat the oven to 190C/350F/Gas 5.",
@@ -56,8 +65,9 @@
         "For the garlic pak choi, heat the oil in a frying pan over a medium heat. Fry the garlic and sugar for one minute, until the sugar has caramelised. Add the pak choi, cut-sides down, then pour in the chicken stock and fish sauce and bring the mixture to the boil. Reduce the heat until the mixture is simmering, then cover the pan with a circle of greaseproof paper (a cartouche) and simmer for 3-4 minutes, or until the pak choi is tender.",
         "To serve, carve the chicken. Place one pak choi half into each of four serving bowls. Twist portions of the noodles around a fork and place them in the middle of the serving bowls. Top with the some of the chicken and the remaining pak choi halves, then drizzle with any juices from the roasting tray. Garnish with the coriander sprigs."
     ],
-    "howTos": [
-        "testing_cooked_poultry"
+    "tips": [
+        
     ],
+    "title": "Thai roast chicken with sesame noodles and pak choi",
     "videos": "[]"
 }

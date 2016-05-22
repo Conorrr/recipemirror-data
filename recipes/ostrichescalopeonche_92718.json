@@ -1,26 +1,31 @@
 {
-    "title": "Ostrich 'escalope' with cheesy polenta and wilted spinach",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cheesy polenta": [
+            "250ml/9fl oz vegetable stock",
+            "150g/5\u00bdoz polenta",
+            "15g/\u00bdoz butter",
+            "55g/2oz Cambozola, chopped",
+            "freshly ground black pepper"
+        ],
         "For the ostrich escalope": [
             "100g/3\u00bd oz ostrich steak, battered until flat like an escalope",
             "2 tbsp plain flour",
@@ -29,19 +34,18 @@
             "1 tbsp olive oil",
             "15g/\u00bdoz butter"
         ],
-        "For the cheesy polenta": [
-            "250ml/9fl oz vegetable stock",
-            "150g/5\u00bdoz polenta",
-            "15g/\u00bdoz butter",
-            "55g/2oz Cambozola, chopped",
-            "freshly ground black pepper"
-        ],
         "For the spinach": [
             "15g/\u00bd oz butter",
             "1 tbsp olive oil",
             "2 handfuls baby spinach leaves, washed",
             "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the ostrich escalope, sprinkle the flour and the polenta onto separate plates. Beat the egg in a bowl. Dredge the ostrich steak first in the flour, then dip it in the beaten egg and finally roll it in the polenta. Shake off any excess polenta.",
@@ -51,8 +55,9 @@
         "For the spinach, heat the butter and oil in a frying pan over a medium heat, add the spinach and cook for 2-3 minutes, or until wilted.",
         "To serve, spoon the spinach onto the polenta and top with the ostrich escalope slices."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Ostrich 'escalope' with cheesy polenta and wilted spinach",
     "videos": "[]"
 }

@@ -1,24 +1,28 @@
 {
-    "title": "Apricot tarte tatin",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "17",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/apricot_tarte_tatin_49907_16x9.jpg"
-    ],
-    "description": "This is an upside-down fruit tart, first cooked by the Tatin sisters at their restaurant in central France. The story goes that it was created by accident but was such a success with the guests that it became a much-loved classic. The apple version is the best known, but apricots work really well too \u2013 sunshine on a plate.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b01dl8gl": "Hairy Bikers' Bakeation"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "This is an upside-down fruit tart, first cooked by the Tatin sisters at their restaurant in central France. The story goes that it was created by accident but was such a success with the guests that it became a much-loved classic. The apple version is the best known, but apricots work really well too \u2013 sunshine on a plate.",
+    "dishes": [
+        "cake",
+        "caramel",
+        "oven-baked_dishes",
+        "pastry",
+        "stir-fries",
+        "tarte_tatin",
+        "toffee",
+        "upside-down_cake"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/apricot_tarte_tatin_49907_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -28,6 +32,12 @@
             "375g/13oz sheet of ready-rolled puff pastry, plain flour for dusting",
             "cr\u00e8me fraiche or ice cream, for serving"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "17",
+    "serves": "Serves 6",
+    "show": {
+        "b01dl8gl": "Hairy Bikers' Bakeation"
     },
     "steps": [
         "For caramelising the apricots, you need a small ovenproof frying pan with a base that measures about 20cm/8in in diameter. Put the sugar in the pan and set it over a medium heat. Cook until the sugar first melts and then caramelises and turns golden brown. Don\u2019t stir the sugar but swirl it around the pan every now and then.",
@@ -40,8 +50,9 @@
         "Leave the tart to stand for a couple of minutes to allow it to settle, then loosen the edges and place a large serving plate or board on top of the frying pan. Very carefully, but quickly, turn it over, using a folded dry tea towel to help you hold it, and allow the tarte tatin to drop gently on to the serving plate.",
         "Serve warm with cr\u00e8me fraiche or ice cream."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Apricot tarte tatin",
     "videos": "[]"
 }

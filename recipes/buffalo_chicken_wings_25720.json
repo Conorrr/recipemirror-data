@@ -1,33 +1,27 @@
 {
-    "title": "Buffalo chicken wings with roast potato salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A plate of hot, spicy chicken wings is great for a party, served with roast potatoes in garlic dressing.",
     "author": {
         "donal_skehan": "Donal Skehan"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A plate of hot, spicy chicken wings is great for a party, served with roast potatoes in garlic dressing.",
+    "dishes": [
+        "bread",
+        "casserole",
+        "mayonnaise",
+        "oven-baked_dishes",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the potatoes": [
-            "500g/1lb 2oz waxy potatoes, washed and cut into chunks",
-            "1 tbsp olive oil",
-            "3 tbsp mayonnaise",
-            "1 garlic clove, crushed",
-            "\u00bd lemon, juice only"
-        ],
         "For the chicken wings": [
             "110g/4oz butter",
             "120ml/4fl oz hot chilli sauce",
@@ -40,18 +34,31 @@
             "100g/3\u00bdoz plain flour",
             "1.3kg/3lb chicken wings"
         ],
+        "For the dressing": [
+            "1 lemon, juice only",
+            "1 tsp Dijon mustard",
+            "3 tbsp olive oil"
+        ],
+        "For the potatoes": [
+            "500g/1lb 2oz waxy potatoes, washed and cut into chunks",
+            "1 tbsp olive oil",
+            "3 tbsp mayonnaise",
+            "1 garlic clove, crushed",
+            "\u00bd lemon, juice only"
+        ],
         "For the salad": [
             "2 Little Gem lettuce, leaves separated",
             "12 celery sticks, sliced",
             "1 tbsp chopped fresh mint",
             "1 tbsp chopped fresh coriander",
             "1 tbsp chopped fresh parsley"
-        ],
-        "For the dressing": [
-            "1 lemon, juice only",
-            "1 tsp Dijon mustard",
-            "3 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the potatoes, preheat the oven 200C/180C Fan/Gas 6.",
@@ -64,8 +71,9 @@
         "For the salad, mix the lettuce, celery and herbs in a large bowl. In a separate bowl whisk together all the dressing ingredients. Just before serving pour the dressing over the salad.",
         "To serve, place the chicken wings onto a serving plate and serve salad alongside, with the potatoes in a separate bowl."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Buffalo chicken wings with roast potato salad",
     "videos": "[]"
 }

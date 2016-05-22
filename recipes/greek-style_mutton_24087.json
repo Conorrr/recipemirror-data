@@ -1,31 +1,31 @@
 {
-    "title": "Greek-style mutton",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 6-8",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This meal requires overnight preparation, but the result is tender mutton, rich sauces and great flavours.",
     "author": {
         "sat_bains": "Sat Bains"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Greek",
+    "description": "This meal requires overnight preparation, but the result is tender mutton, rich sauces and great flavours.",
+    "dishes": [
+        "bun",
+        "caramel",
+        "casserole",
+        "oven-baked_dishes",
+        "pie",
+        "ragu",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the yoghurt": [
-            "500ml/18fl oz natural yoghurt",
-            "40g/1\u00bdoz caster sugar",
-            "1 lemon, sliced"
-        ],
         "For the braised mutton": [
             "200g/7oz salt",
             "1 tsp red chilli",
@@ -49,6 +49,11 @@
             "200g/7oz chopped fresh tomatoes",
             "100ml/3\u00bdfl oz brown chicken stock"
         ],
+        "For the yoghurt": [
+            "500ml/18fl oz natural yoghurt",
+            "40g/1\u00bdoz caster sugar",
+            "1 lemon, sliced"
+        ],
         "To serve": [
             "\u00bd large cucumber, peeled",
             "sea salt",
@@ -59,6 +64,12 @@
             "fresh mint, to taste",
             "honey, to taste"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "2",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the yoghurt, spoon the yoghurt into a cheesecloth or muslin cloth placed over a bowl and leave to hang overnight.",
@@ -76,8 +87,9 @@
         "In a bowl, mix the feta, mint and honey together.",
         "Place slices of mutton shoulder on serving plates and add a spoonful of rag\u00f9, the cucumber and charred lettuce. Dot the feta and strained yoghurt around the plates, and add the confit lemon slices and charred spring onions. Spoon over the sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Greek-style mutton",
     "videos": "[]"
 }

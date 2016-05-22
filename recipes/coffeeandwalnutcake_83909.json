@@ -1,26 +1,33 @@
 {
-    "title": "Coffee and walnut cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8-10",
-    "recommendations": "23",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/coffeeandwalnutcake_83909_16x9.jpg"
-    ],
-    "description": "A classic combination, given a twist by the addition of a coffee-flavoured cream filling. Sublime.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "A classic combination, given a twist by the addition of a coffee-flavoured cream filling. Sublime.",
+    "dishes": [
+        "cake",
+        "coffee_cake",
+        "oven-baked_dishes",
+        "pie",
+        "sandwich",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/coffeeandwalnutcake_83909_16x9.jpg"
+    ],
     "ingredients": {
+        "For the topping and filling": [
+            "600ml/1 pint double cream",
+            "1 tbsp instant coffee powder, dissolved in 2 tbsp boiling water"
+        ],
         "default": [
             "175g/6oz butter",
             "175g/6oz golden caster sugar",
@@ -29,11 +36,13 @@
             "1 tsp baking powder",
             "2 tsp instant coffee granules",
             "65g/2\u00beoz walnut pieces"
-        ],
-        "For the topping and filling": [
-            "600ml/1 pint double cream",
-            "1 tbsp instant coffee powder, dissolved in 2 tbsp boiling water"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "23",
+    "serves": "Serves 8-10",
+    "show": {
+        "b00701fw": "A Taste of My Life"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -48,8 +57,9 @@
         "For the topping and filling, whip the double cream and add the coffee mixture.",
         "Spread half the coffee cream over one of the cake halves and sandwich the cakes together. Smooth the remaining coffee cream over the top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Coffee and walnut cake",
     "videos": "[]"
 }

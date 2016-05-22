@@ -1,24 +1,22 @@
 {
-    "title": "Poached egg on soda farl with wilted spinach and hollandaise",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "mayonnaise",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the hollandaise": [
@@ -30,23 +28,29 @@
             "200g/7oz unsalted butter, melted",
             "salt and freshly ground black pepper to taste"
         ],
-        "For the wilted spinach": [
-            "100g/3\u00bdoz spinach",
-            "25g/1oz butter",
-            "salt and freshly ground black pepper to taste"
+        "For the poached egg": [
+            "1 tsp white wine vinegar",
+            "1 free-range egg"
         ],
         "For the toasted farl": [
             "1 tbsp olive oil",
             "1 soda farl"
         ],
-        "For the poached egg": [
-            "1 tsp white wine vinegar",
-            "1 free-range egg"
+        "For the wilted spinach": [
+            "100g/3\u00bdoz spinach",
+            "25g/1oz butter",
+            "salt and freshly ground black pepper to taste"
         ],
         "To serve": [
             "50g/2oz roasted artichoke hearts, from a jar",
             "50g/2oz roasted peppers, from a jar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "To make the hollandaise, place the white wine vinegar, bay leaf, peppercorns and water into a small frying pan. Place the pan over a high heat and bring to the boil and cook until the liquid volume has reduced by half. Pour the liquid through a fine sieve into a bowl.",
@@ -57,8 +61,9 @@
         "To poach the egg, add the white wine vinegar to pan of simmering water. Gently stir the water to create a whirlpool effect. Gently add the egg to the centre of the whirlpool and switch off the heat. Allow to cook for one minute, until the white is firm and the yolk soft (or leave to cook for longer according to your taste).",
         "To serve, place the farl in the centre of a dish and place the wilted spinach on top. Scatter the roasted artichoke hearts and peppers around the farl. Place the poached egg on top of the spinach and pour over some of the hollandaise. To finish make a small slit through the egg to allow the yolk to run out."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Poached egg on soda farl with wilted spinach and hollandaise",
     "videos": "[]"
 }

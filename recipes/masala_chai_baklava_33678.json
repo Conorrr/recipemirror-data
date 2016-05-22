@@ -1,24 +1,25 @@
 {
-    "title": "Masala chai baklava",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Tea-scented baklava topped with flaked almonds and cashew nuts. Fresh ginger adds a refreshing note and a spicy kick.",
     "author": {
         "chetna": "Chetna Makan"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Turkish_and_Middle_Eastern",
+    "description": "Tea-scented baklava topped with flaked almonds and cashew nuts. Fresh ginger adds a refreshing note and a spicy kick.",
+    "dishes": [
+        "confectionery",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "working_with_filo"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the filling": [
@@ -26,17 +27,23 @@
             "100g/3\u00bdoz cashew nuts",
             "\u00bd tsp cardamom seeds, ground"
         ],
+        "For the filo": [
+            "12 sheets ready-made filo pastry",
+            "75g/2\u00bdoz unsalted butter, melted"
+        ],
         "For the syrup": [
             "300g/10\u00bdoz granulated sugar",
             "100g/3\u00bdoz clear honey",
             "3 breakfast tea bags",
             "\u00bc tsp cardamom seeds",
             "2\u00bdcm/1in piece fresh root ginger, finely chopped"
-        ],
-        "For the filo": [
-            "12 sheets ready-made filo pastry",
-            "75g/2\u00bdoz unsalted butter, melted"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the filling, combine the almonds, cashews and cardamom in a blender and pulse until finely chopped. Set aside.",
@@ -48,8 +55,9 @@
         "Bake for 50 minutes, or until golden-brown.",
         "When cooked, spoon half the syrup all over the baklavas. Leave for five minutes and then spoon over the remaining syrup. Let the baklava cool a little, then serve."
     ],
-    "howTos": [
-        "working_with_filo"
+    "tips": [
+        
     ],
+    "title": "Masala chai baklava",
     "videos": "[]"
 }

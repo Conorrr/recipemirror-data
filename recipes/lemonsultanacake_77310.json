@@ -1,24 +1,23 @@
 {
-    "title": "Lemon sultana cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "6",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemonsultanacake_77310_16x9.jpg"
-    ],
-    "description": "Free from: wheat and nuts; can be dairy, egg and soya free; no added sugar",
     "author": {
         "michelle_berriedale-johnson": "Michelle Berriedale-Johnson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Free from: wheat and nuts; can be dairy, egg and soya free; no added sugar",
+    "dishes": [
+        "cake",
+        "lemon_cake",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemonsultanacake_77310_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -31,6 +30,12 @@
             "100g/3\u00bdoz sultanas"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "6",
+    "show": {
+        
+    },
     "steps": [
         "Heat the oven to 180C/350F/Gas 4 and line a 15cm/6in, loose-bottomed cake tin with greaseproof paper.",
         "Soften the coconut oil or margarine in a microwave and beat it with the mashed banana.",
@@ -41,8 +46,9 @@
         "Spoon the mixture into the cake tin and bake for 30-35 minutes.",
         "Test with a skewer to make sure it's cooked (the skewer will come out clean when inserted into the middle) then allow to cool in the tin before removing."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lemon sultana cake",
     "videos": "[]"
 }

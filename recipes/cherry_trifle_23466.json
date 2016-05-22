@@ -1,26 +1,31 @@
 {
-    "title": "Cherry trifle",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 12-14",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Trifle's not just for Christmas - James Martin's cherry-topped version is perfect for a summer gathering.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b03bhng2": "James Martin's Food Map of Britain"
-    },
-    "tips": [
-        "If you don't have a piping bag you can use a clean plastic food bag instead. Simply spoon the cream into a corner, twist the open end to seal and snip off the tip."
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Trifle's not just for Christmas - James Martin's cherry-topped version is perfect for a summer gathering.",
+    "dishes": [
+        "cake",
+        "caramel",
+        "custard",
+        "jam",
+        "trifle"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To decorate": [
+            "100g/3\u00bdoz caster sugar",
+            "12-20 cherries on stalks, to decorate"
+        ],
         "default": [
             "100g/3\u00bdoz caster sugar",
             "1.5kg/3lb 5oz cherries, stoned",
@@ -29,11 +34,13 @@
             "600ml/20fl oz fresh vanilla custard, cooled",
             "2 Madeira cakes, sliced",
             "50g/1\u00beoz white chocolate, grated"
-        ],
-        "To decorate": [
-            "100g/3\u00bdoz caster sugar",
-            "12-20 cherries on stalks, to decorate"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 12-14",
+    "show": {
+        "b03bhng2": "James Martin's Food Map of Britain"
     },
     "steps": [
         "Make a sugar syrup by heating the caster sugar with 100ml/3\u00bdfl oz water until the sugar has completely dissolved. Set aside to cool slightly.",
@@ -45,8 +52,9 @@
         "To decorate, melt the sugar into a non-stick pan set over a medium heat. Keep heating until a dark-brown caramel forms (CAUTION: Do not leave unattended), then immediately dunk the pan in cold water to prevent the caramel burning.",
         "Carefully dip the cherries into the caramel and place on a silicone mat or non-stick baking parchment to cool completely. When cool decorate the trifle with them."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If you don't have a piping bag you can use a clean plastic food bag instead. Simply spoon the cream into a corner, twist the open end to seal and snip off the tip."
     ],
+    "title": "Cherry trifle",
     "videos": "[p01gw98h:p01gw98p]"
 }

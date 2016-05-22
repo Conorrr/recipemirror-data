@@ -1,26 +1,41 @@
 {
-    "title": "Fish kebabs with cucumber raita",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "reza_mahammad": "Reza Mahammad"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "bun",
+        "curry",
+        "kebab",
+        "raita",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the raita": [
+            "1 cucumber, grated",
+            "450ml/16fl oz yoghurt",
+            "4 tbsp finely chopped dill",
+            "\u00bd tsp crushed garlic",
+            "1 tbsp vegetable oil",
+            "\u00bd tsp mustard seeds",
+            "\u00bd tsp cumin seeds",
+            "pinch of asafoetida",
+            "4-5 curry leaves"
+        ],
+        "To serve": [
+            "basmati rice, boiled, enough for 4"
+        ],
         "default": [
             "300g/10\u00bdoz cod fillet, skinned and diced",
             "300g/10\u00bdoz salmon fillet, skinned and finely chopped",
@@ -36,21 +51,13 @@
             "1 tbsp garlic paste",
             "1 tbsp ginger paste",
             "4 tsp crushed black pepper"
-        ],
-        "For the raita": [
-            "1 cucumber, grated",
-            "450ml/16fl oz yoghurt",
-            "4 tbsp finely chopped dill",
-            "\u00bd tsp crushed garlic",
-            "1 tbsp vegetable oil",
-            "\u00bd tsp mustard seeds",
-            "\u00bd tsp cumin seeds",
-            "pinch of asafoetida",
-            "4-5 curry leaves"
-        ],
-        "To serve": [
-            "basmati rice, boiled, enough for 4"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "In a food processor, blend the cod until finely minced.",
@@ -64,8 +71,9 @@
         "Either grill the kebabs on a barbecue until golden brown on both sides or heat one tablespoon of oil in a large frying pan and fry the kebabs until golden brown on both sides.",
         "Serve the freshly cooked kebabs with cucumber raita and basmati rice."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Fish kebabs with cucumber raita",
     "videos": "[]"
 }

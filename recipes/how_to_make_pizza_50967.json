@@ -1,23 +1,25 @@
 {
-    "title": "How to make pizza",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 2 pizzas",
-    "recommendations": "37",
-    "images": [
-        
-    ],
-    "description": "Making your own dough turns a pizza into a really special meal. The great thing about this dough is that it can be made in advance, and even frozen. If cooking on a budget try cheap toppings such as mushrooms, tinned sweetcorn, salami and here's a secret; cheaper mozzarella is actually the best for pizza.",
     "author": {
         "patrick_ryan": "Patrick Ryan"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "If you are making the pizza bases in advance, once the dough has been divided and rolled, cover and place into the fridge. Remove one hour before needed to allow the dough to come up to temperature. If you want to freeze the pizza bases roll them out before you put them in the freezer."
+    "cookTime": "1 to 2 hours",
+    "cusine": "Italian",
+    "description": "Making your own dough turns a pizza into a really special meal. The great thing about this dough is that it can be made in advance, and even frozen. If cooking on a budget try cheap toppings such as mushrooms, tinned sweetcorn, salami and here's a secret; cheaper mozzarella is actually the best for pizza.",
+    "dishes": [
+        "crumble",
+        "oven-baked_dishes",
+        "pie",
+        "pizza",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -34,6 +36,12 @@
             "pizza toppings of your choice"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "37",
+    "serves": "Makes 2 pizzas",
+    "show": {
+        
+    },
     "steps": [
         "In a large mixing bowl, stir together the flour, semolina and salt. Stir in the dried yeast (or crumble in the fresh yeast, whichever you are using). Make a well in the centre of the flour mixture. Pour most of the water into the well along with the olive oil and bring the dough together with your hands or a wooden spoon. As the flour is incorporated the dough will start to take shape. Add the remaining water if the dough feels tight or hard.",
         "Turn the dough out onto a clean surface and knead for 10 minutes or until the dough is smooth and elastic. Cut off a small piece of the dough and stretch part of it as thinly as you can. If you can see the shadow of your fingers through the dough - the light should shine through the dough like a window pane - without the dough tearing, it is ready to prove.",
@@ -45,8 +53,9 @@
         "Cover the surface with half of the tomato sauce and toppings of your choice.",
         "When ready to bake, slide the pizza directly onto the pizza stone and cook for 8-10 minutes, or until the base is golden-brown and the toppings are bubbling. Repeat with the remaining dough, tomato sauce and toppings."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If you are making the pizza bases in advance, once the dough has been divided and rolled, cover and place into the fridge. Remove one hour before needed to allow the dough to come up to temperature. If you want to freeze the pizza bases roll them out before you put them in the freezer."
     ],
+    "title": "How to make pizza",
     "videos": "[p00ynnpq:p00ynnpt]"
 }

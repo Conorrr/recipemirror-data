@@ -1,26 +1,31 @@
 {
-    "title": "Keralian hotpot",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This dish from Finland is similar to the beloved Lancashire hotpot, the perfect comfort food to warm you up on a cold night.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b069hr3q": "The Hairy Bikers' Northern Exposure"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Nordic",
+    "description": "This dish from Finland is similar to the beloved Lancashire hotpot, the perfect comfort food to warm you up on a cold night.",
+    "dishes": [
+        "casserole",
+        "hotpot",
+        "jam",
+        "oven-baked_dishes",
+        "stew"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "mashed potato",
+            "lingonberry jam"
+        ],
         "default": [
             "1 tbsp vegetable oil or lard",
             "300g/10\u00bdoz pork, preferably pork shoulder, diced",
@@ -32,11 +37,13 @@
             "1 tsp allspice berries (optional)",
             "3 bay leaves (optional)",
             "salt and freshly ground pepper"
-        ],
-        "To serve": [
-            "mashed potato",
-            "lingonberry jam"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 6-8",
+    "show": {
+        "b069hr3q": "The Hairy Bikers' Northern Exposure"
     },
     "steps": [
         "Preheat the oven to 150C/130C Fan/Gas 2.",
@@ -45,8 +52,9 @@
         "Add enough cold water to almost cover the top layer of ingredients. Bring to the boil and then put in the oven. Cook for at least 2 hours, preferably longer \u2013 this can easily cook for up to 6 hours. Check regularly to see whether the meat is tender.",
         "Serve with mashed potato and lingonberry jam."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Keralian hotpot",
     "videos": "[p032tt78:p032tt7z]"
 }

@@ -1,24 +1,23 @@
 {
-    "title": "Ginger sponge cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 12 slices",
-    "recommendations": "123",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/ginger_sponge_cake_51697_16x9.jpg"
-    ],
-    "description": "An easy to make tea-time treat, subtly spiced with the warming flavour of ginger. Perfect for the colder months.",
     "author": {
         "ruth_sutcliffe": "Ruth Sutcliffe"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "An easy to make tea-time treat, subtly spiced with the warming flavour of ginger. Perfect for the colder months.",
+    "dishes": [
+        "bread",
+        "cake",
+        "oven-baked_dishes",
+        "sponge_cake"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/ginger_sponge_cake_51697_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,13 +31,20 @@
             "240ml/9fl oz hot water"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "123",
+    "serves": "Makes 12 slices",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
+    },
     "steps": [
         "Preheat the oven to 180C/350FGas 4. Grease and line a 28cm x 18cm/11in x 7in baking tin with greaseproof paper.",
         "Mix the flour, sugar, ginger and bicarbonate of soda together in a bowl. Using your fingers, rub the margarine in until the mixture resembles breadcrumbs. Add the beaten egg, syrup and hot water and mix well with a wooden spoon until combined.",
         "Pour the mixture into the prepared tin and bake in the middle of the oven for 35\u201340 minutes, or until golden-brown and the top is springy to the touch. Leave to cool in the tin. Once cool, cut into squares."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Ginger sponge cake",
     "videos": "[]"
 }

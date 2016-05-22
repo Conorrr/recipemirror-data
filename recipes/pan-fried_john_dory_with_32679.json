@@ -1,44 +1,47 @@
 {
-    "title": "Pan-fried John Dory with pickled chestnut mushrooms, caramelised apple and parsnip pur\u00e9e",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Great British Menu chef Kenny Atkinson makes the most of Autumn\u2019s seasonal ingredients with his smart fish supper.",
     "author": {
         "kenny_atkinson": "Kenny Atkinson"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Great British Menu chef Kenny Atkinson makes the most of Autumn\u2019s seasonal ingredients with his smart fish supper.",
+    "dishes": [
+        "caramel",
+        "coleslaw",
+        "curry",
+        "mayonnaise",
+        "pickle",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the caramelised apple": [
+            "3 tbsp caster sugar",
+            "100g/3\u00bdoz butter",
+            "1 Braeburn apple, peeled, core removed, sliced"
+        ],
+        "For the pan-fried John Dory": [
+            "2 John Dory fillets, skin removed",
+            "2 tsp curry powder",
+            "20ml/\u00befl oz rapeseed oil",
+            "knob unsalted butter",
+            "\u00bd lemon"
+        ],
         "For the parsnip and mustard coleslaw": [
             "1 parsnip",
             "1 lemon, juice only",
             "pinch sea salt",
             "1 tbsp mayonnaise",
             "\u00bd tsp wholegrain mustard"
-        ],
-        "For the pickled chestnut mushrooms": [
-            "50g/2oz chestnut mushrooms, quartered",
-            "1 sprig fresh thyme",
-            "sea salt flakes and freshly ground black pepper",
-            "1 tbsp sherry vinegar",
-            "150ml/5fl oz rapeseed oil"
-        ],
-        "For the caramelised apple": [
-            "3 tbsp caster sugar",
-            "100g/3\u00bdoz butter",
-            "1 Braeburn apple, peeled, core removed, sliced"
         ],
         "For the parsnip pur\u00e9e": [
             "250g/9oz parsnips, diced",
@@ -49,17 +52,23 @@
             "100ml/3\u00bdfl oz double cream",
             "salt and ground white pepper"
         ],
-        "For the pan-fried John Dory": [
-            "2 John Dory fillets, skin removed",
-            "2 tsp curry powder",
-            "20ml/\u00befl oz rapeseed oil",
-            "knob unsalted butter",
-            "\u00bd lemon"
+        "For the pickled chestnut mushrooms": [
+            "50g/2oz chestnut mushrooms, quartered",
+            "1 sprig fresh thyme",
+            "sea salt flakes and freshly ground black pepper",
+            "1 tbsp sherry vinegar",
+            "150ml/5fl oz rapeseed oil"
         ],
         "To garnish": [
             "1 tbsp roasted cobnuts, sliced",
             "red shiso cress"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the parsnip and mustard coleslaw, peel and thinly slice the parsnip lengthways and then julienne into thin strips.",
@@ -74,8 +83,9 @@
         "Heat the rapeseed oil in a frying pan and fry the John Dory fillets, presentation-side down, for two minutes. Season the fillets with a little salt and then carefully turn them over. Add the butter and cook for a further minute, basting the fish with the butter. Squeeze over a little lemon juice.",
         "To serve, place two small spoonfuls of parsnip pur\u00e9e onto each serving plate, slide a spoon through it to create a cheffy smear. Place two small mounds of coleslaw on top of the pur\u00e9e and top with the John Dory fillet. Place the caramalised apple on one piece of fish and sprinkle some chestnut mushroom around the plate. Garnish with red shiso cress and sliced, roasted cobnuts."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pan-fried John Dory with pickled chestnut mushrooms, caramelised apple and parsnip pur\u00e9e",
     "videos": "[]"
 }

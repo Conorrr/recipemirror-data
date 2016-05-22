@@ -1,24 +1,22 @@
 {
-    "title": "Simple egg-fried rice",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1-2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Simple, straightforward egg-fried rice. A great accompaniment to your favourite Chinese dishes.",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Simple, straightforward egg-fried rice. A great accompaniment to your favourite Chinese dishes.",
+    "dishes": [
+        "fried_rice",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,13 +30,20 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1-2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the vegetable oil in a wok, add the onion and leek and fry gently until softened but not browned.",
         "Add the eggs and whisk until they are beginning to scramble and cook. Add the soy sauce and whisk.",
         "Add the cooked rice and stir well to coat in the eggs. Stir in the chopped chives, salt and freshly ground black pepper and spoon into a serving dish. Drizzle with soy sauce and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Simple egg-fried rice",
     "videos": "[]"
 }

@@ -1,31 +1,27 @@
 {
-    "title": "Sea bass in a coriander and chilli batter served with chips, balsamic samphire and sauce gribiche",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Traditional fish and chips done the gourmet way. Served with samphire and gribiche - a delicious alternative to tartar sauce.",
     "author": {
         "galton_blackiston": "Galton Blackiston"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Traditional fish and chips done the gourmet way. Served with samphire and gribiche - a delicious alternative to tartar sauce.",
+    "dishes": [
+        "chips",
+        "fish_and_chips",
+        "mayonnaise",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sea bass": [
-            "sunflower oil or beef dripping, for deep-fat frying (approximately 1.2 litres/2 pints)",
-            "1 sea bass (minimum 900g/2lbs), filleted, skin and pinbones removed, cut into four portions",
-            "50g/1\u00beoz rice flour"
-        ],
         "For the batter": [
             "200g/7oz self-raising flour",
             "50g/1\u00beoz cornflour",
@@ -35,15 +31,15 @@
             "50g/1\u00beoz fresh coriander, chopped",
             "pinch sea salt flakes"
         ],
+        "For the chips": [
+            "1kg/2lb 4oz large Maris Piper or King Edward potatoes, peeled"
+        ],
         "For the samphire": [
             "200g/7oz samphire, washed",
             "50g/1\u00beoz unsalted butter",
             "4 tbsp balsamic vinegar",
             "salt and black pepper",
             "pinch sugar"
-        ],
-        "For the chips": [
-            "1kg/2lb 4oz large Maris Piper or King Edward potatoes, peeled"
         ],
         "For the sauce gribiche": [
             "1 free-range egg",
@@ -60,7 +56,18 @@
             "1 tbsp chopped chives",
             "1 tbsp chopped parsley",
             "pinch sugar"
+        ],
+        "For the sea bass": [
+            "sunflower oil or beef dripping, for deep-fat frying (approximately 1.2 litres/2 pints)",
+            "1 sea bass (minimum 900g/2lbs), filleted, skin and pinbones removed, cut into four portions",
+            "50g/1\u00beoz rice flour"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat a deep-fat fryer to 160C/325F (CAUTION: Hot oil can be dangerous. Do not leave unattended.) Dust the sea bass portions with rice flour and set aside.",
@@ -74,8 +81,9 @@
         "Just before serving, fry the chips for a final time until crisp and a deep golden-brown.",
         "To serve, place the fried bass and chips on plates with the samphire and gribiche."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sea bass in a coriander and chilli batter served with chips, balsamic samphire and sauce gribiche",
     "videos": "[]"
 }

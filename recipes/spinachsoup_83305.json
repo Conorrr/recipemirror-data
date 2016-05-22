@@ -1,24 +1,22 @@
 {
-    "title": "Spinach soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +29,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the olive oil in a saucepan and cook the garlic and onion until soft.",
         "Add the spinach and cook for five minutes.",
@@ -38,8 +42,9 @@
         "Add the cream, season well with salt and freshly ground black pepper and blend with a hand blender until smooth.",
         "Serve in a warm bowl and garnish with a cream swirl."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spinach soup",
     "videos": "[]"
 }

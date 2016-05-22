@@ -1,24 +1,22 @@
 {
-    "title": "Flapjacks",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2-4",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "flapjacks",
+        "icing",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,6 +27,12 @@
             "icing sugar, to dust"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 2-4",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "Line a baking sheet with greasproof paper.",
@@ -38,8 +42,9 @@
         "Once the flapjacks are set, remove from the freezer and cut into chunks.",
         "To serve, place onto a serving plate and dust with icing sugar and drizzle over with honey."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Flapjacks",
     "videos": "[]"
 }

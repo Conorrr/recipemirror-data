@@ -1,38 +1,26 @@
 {
-    "title": "Suckling lamb with borlotti beans",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Succulent pieces of lamb served on borlotti beans flavoured with a rich ewe's milk cheese",
     "author": {
         "marcus_wareing": "Marcus Wareing"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Succulent pieces of lamb served on borlotti beans flavoured with a rich ewe's milk cheese",
+    "dishes": [
+        "bun",
+        "crumble",
+        "pie",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "searing_meat"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the lamb": [
-            "700g/1lb 9oz fine salt",
-            "11kg/24lb 12oz suckling lamb, cut into four legs, neck fillet and chops",
-            "400ml/14fl oz double cream",
-            "2 sprigs rosemary",
-            "1 sprig oregano",
-            "1 garlic clove, crushed",
-            "1 sprig thyme",
-            "3 tbsp olive oil",
-            "200ml/7fl oz lamb stock",
-            "50g/2oz butter"
-        ],
         "For the borlotti beans": [
             "500g/1lb2oz borlotti beans, soaked overnight in cold water",
             "3 litres/5\u00bc pints chicken stock",
@@ -58,7 +46,25 @@
             "1 tbsp mint leaves, finely shredded",
             "1 tbsp white wine vinegar",
             "2 tbsp extra virgin olive oil"
+        ],
+        "For the lamb": [
+            "700g/1lb 9oz fine salt",
+            "11kg/24lb 12oz suckling lamb, cut into four legs, neck fillet and chops",
+            "400ml/14fl oz double cream",
+            "2 sprigs rosemary",
+            "1 sprig oregano",
+            "1 garlic clove, crushed",
+            "1 sprig thyme",
+            "3 tbsp olive oil",
+            "200ml/7fl oz lamb stock",
+            "50g/2oz butter"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the lamb, place 10 litres/17\u00bd pints water and the salt into a large saucepan and bring to the boil. Heat until all the salt has dissolved. Remove from the heat and set aside to cool completely.",
@@ -72,8 +78,9 @@
         "Toss the Little Gem quarters with the last tablespoon of olive oil and season with salt and freshly ground black pepper. Heat a griddle pan until hot, add the Little Gem and char lightly on each side.",
         "To serve, spoon the bean mixture onto a large plate. Carve the lamb into thick slices and place a few of each on top of the beans. Place the griddled Little Gem quarters around the edge of the lamb. Scatter over the remaining diced cheese, olive slices, oregano, mint, white wine vinegar and extra virgin olive oil and serve immediately."
     ],
-    "howTos": [
-        "searing_meat"
+    "tips": [
+        
     ],
+    "title": "Suckling lamb with borlotti beans",
     "videos": "[]"
 }

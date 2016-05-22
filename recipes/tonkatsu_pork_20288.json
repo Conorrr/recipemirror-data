@@ -1,26 +1,35 @@
 {
-    "title": "Tonkatsu pork",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Breaded pork comes with a sauce made from tomato ketchup and the fire of ginger and mustard in this easy Japanese recipe.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b03vp3tt": "The Hairy Bikers' Asian Adventure"
-    },
-    "tips": [
-        "This recipe can be served with miso soup, rice and Japanese pickles."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Japanese",
+    "description": "Breaded pork comes with a sauce made from tomato ketchup and the fire of ginger and mustard in this easy Japanese recipe.",
+    "dishes": [
+        "bread",
+        "ketchup",
+        "pickle",
+        "sauce",
+        "soup"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pork": [
+            "4 tbsp plain flour",
+            "2 free-range eggs, beaten",
+            "75g/2\u00bdoz Japanese panko breadcrumbs",
+            "pinch of salt and pepper",
+            "4 thick pork loin steaks",
+            "vegetable or groundnut oil, for frying"
+        ],
         "For the tonkatsu sauce": [
             "125g/4\u00bdoz tomato ketchup (you can get Japanese ketchup, but any brand will do)",
             "75ml/2\u00bdfl oz sake",
@@ -32,18 +41,16 @@
             "2 tsp mirin (or more to taste)",
             "1 tbsp sugar"
         ],
-        "For the pork": [
-            "4 tbsp plain flour",
-            "2 free-range eggs, beaten",
-            "75g/2\u00bdoz Japanese panko breadcrumbs",
-            "pinch of salt and pepper",
-            "4 thick pork loin steaks",
-            "vegetable or groundnut oil, for frying"
-        ],
         "To serve": [
             "\u00bd Chinese cabbage, shredded",
             "spring onions, finely sliced"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b03vp3tt": "The Hairy Bikers' Asian Adventure"
     },
     "steps": [
         "For the sauce, mix all the ingredients together in a small saucepan. Bring to a gentle simmer and cook for five minutes, or until the garlic and ginger are soft. You want the sauce to reach a good pouring consistency.",
@@ -54,8 +61,9 @@
         "Shallow fry the cutlets on a medium heat until golden-brown on both sides and cooked all the way through - be careful when turning the cutlets to avoid splashing the hot fat.",
         "Serve the pork with the tonkatsu sauce and raw the finely shredded Chinese cabbage and sliced spring onions."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This recipe can be served with miso soup, rice and Japanese pickles."
     ],
+    "title": "Tonkatsu pork",
     "videos": "[p01t6nc9:p01t6ncc]"
 }

@@ -1,24 +1,24 @@
 {
-    "title": "Picnic pasta salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "9",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/picnic_pasta_salad_47257_16x9.jpg"
-    ],
-    "description": "Whether you take it on a picnic or in your lunchbox, this is a perfect quick pasta salad.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        "Use whatever pasta shapes you like such as penne or macaroni or add a handful of cooked chicken or ham. Pack the spinach separately if you\u2019re not eating this salad straight away and mix it in before serving."
+    "cookTime": "10 to 30 mins",
+    "description": "Whether you take it on a picnic or in your lunchbox, this is a perfect quick pasta salad.",
+    "dishes": [
+        "crumble",
+        "ham",
+        "pasta",
+        "pasta_salad",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/picnic_pasta_salad_47257_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -33,12 +33,19 @@
             "large handful torn basil"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Cook the pasta in a large pan of salted boiling water until al dente. Drain the pasta, rinse in cold water and tip into a large bowl.",
         "Add the halved tomatoes to the pasta and sprinkle with sea salt. Add the olives, feta and spinach and drizzle with the lemon olive oil. Add the pine nuts and basil and toss gently before serving."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Use whatever pasta shapes you like such as penne or macaroni or add a handful of cooked chicken or ham. Pack the spinach separately if you\u2019re not eating this salad straight away and mix it in before serving."
     ],
+    "title": "Picnic pasta salad",
     "videos": "[]"
 }

@@ -1,24 +1,23 @@
 {
-    "title": "Tomato and sweetcorn soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "soup",
+        "stock",
+        "tomato_soup"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,12 +33,19 @@
             "salt and black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 6",
+    "show": {
+        "p0077hsg": "Housecall"
+    },
     "steps": [
         "Sweat the garlic and onion in olive oil until soft and translucent. Add the cumin and cook for a minute or so before adding the tomatoes, sweetcorn, stock and tomato pur\u00e9e. Bring to the boil, then turn down the heat and allow to simmer for 15-20 minutes.",
         "The soup is good just as it is, rustic and chunky. If you prefer a smoother soup, just blend half of the mixture. Scatter with fresh herbs and serve with a drizzle of olive oil. Season well."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tomato and sweetcorn soup",
     "videos": "[]"
 }

@@ -1,24 +1,26 @@
 {
-    "title": "Raymond Blanc's basic chocolate mousse",
-    "cookTime": "less than 10 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "71",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/basicchocolatemousse_93648_16x9.jpg"
-    ],
-    "description": "Raymond Blanc shows you how to make a classic chocolate mousse with his easy recipe.",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "French",
+    "description": "Raymond Blanc shows you how to make a classic chocolate mousse with his easy recipe.",
+    "dishes": [
+        "chocolate_mousse",
+        "mousse",
+        "oven-baked_dishes",
+        "soup"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "how_to_fold_egg_whites_into_a_mixture",
+        "melting_chocolate",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/basicchocolatemousse_93648_16x9.jpg"
     ],
     "ingredients": {
         "For the chocolate mousse": [
@@ -27,6 +29,12 @@
             "\u00bc tsp lemon juice",
             "40g/1\u00bdoz caster sugar"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "71",
+    "serves": "Serves 4",
+    "show": {
+        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
     },
     "steps": [
         "Melt the chocolate in a heatproof bowl set over a pan of simmering water (do not allow the base of the bowl to touch the water).",
@@ -37,10 +45,9 @@
         "Spoon the mousse mixture into four Martini glasses. Chill in the fridge for 2-3 hours, or until set.",
         "Alternatively, use the mousse to make a hot chocolate soup. Preheat the oven to 180C/350F/Gas 4. Divide the mousse among four small ovenproof pudding bowls or ramekins. Place the pudding bowls into the oven and bake the chocolate mousses for 3-5 minutes, or until puffed slightly and warmed through."
     ],
-    "howTos": [
-        "how_to_fold_egg_whites_into_a_mixture",
-        "melting_chocolate",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Raymond Blanc's basic chocolate mousse",
     "videos": "[]"
 }

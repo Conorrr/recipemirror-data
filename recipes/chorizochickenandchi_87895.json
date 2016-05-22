@@ -1,24 +1,25 @@
 {
-    "title": "Chorizo, chicken and chickpea casserole",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "221",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chorizochickenandchi_87895_16x9.jpg"
-    ],
-    "description": "Simon Rimmer's Spanish style one-pot supper is full of flavour and quick to prepare.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Spanish",
+    "description": "Simon Rimmer's Spanish style one-pot supper is full of flavour and quick to prepare.",
+    "dishes": [
+        "bread",
+        "casserole",
+        "chicken_casserole",
+        "prepare-ahead_desserts",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chorizochickenandchi_87895_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -40,6 +41,12 @@
             "crusty bread, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "221",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Heat half of the vegetable oil in a large pan. Add the chicken thighs and fry, turning frequently, until lightly browned all over. Remove from the pan and keep warm.",
         "Add a little more oil to the pan, then add the onion, garlic, carrots, celery and chilli and cook for five minutes. Add a splash of red wine and simmer until reduced by half.",
@@ -48,8 +55,9 @@
         "Add the browned chicken, the chickpeas and crisp chorizo and simmer for 20-25 minutes, or until the chicken is completely cooked through. Season, to taste, with salt and freshly ground black pepper.",
         "Sprinkle with chopped parsley and serve with crusty bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chorizo, chicken and chickpea casserole",
     "videos": "[]"
 }

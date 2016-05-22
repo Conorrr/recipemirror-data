@@ -1,24 +1,23 @@
 {
-    "title": "Frittata",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This classic Italian dish is a great way to use leftover potatoes and vegetables. Try making it with the kids.",
     "author": {
         "kate_morris_and_sally_brown": "Kate Morris and Sally Brown"
     },
-    "show": {
-        "b00w1ddl": "I Can Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "This classic Italian dish is a great way to use leftover potatoes and vegetables. Try making it with the kids.",
+    "dishes": [
+        "frittata",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,6 +32,12 @@
             "pinch freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b00w1ddl": "I Can Cook"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Grease an ovenproof dish with a little sunflower oil.",
         "In a bowl, mix together the asparagus, spring onion and peas. Stir in the mint leaves and parmesan until well combined.",
@@ -40,8 +45,9 @@
         "Spoon the frittata mixture into the prepared ovenproof dish. Place the dish onto a baking tray, then transfer to the oven and bake for 15-20 minutes, or until the eggs have completely set and a skewer inserted into the centre of the frittata comes out clean.",
         "Serve with cherry tomatoes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Frittata",
     "videos": "[]"
 }

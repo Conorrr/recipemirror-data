@@ -1,32 +1,27 @@
 {
-    "title": "Cheese, apple and sage tarts",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "caramel",
+        "oven-baked_dishes",
+        "pastry",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "100g/3\u00bdoz self-raising flour, plus extra for dusting",
-            "100g/3\u00bdoz unsalted butter",
-            "1 free-range egg",
-            "2 tbsp water"
-        ],
         "For the filling": [
             "1 tbsp olive oil",
             "\u00bd onion, finely sliced",
@@ -34,7 +29,19 @@
             "50g/1\u00bdoz cheddar, grated",
             "1 apple, cored and sliced",
             "4 fresh sage leaves"
+        ],
+        "For the pastry": [
+            "100g/3\u00bdoz self-raising flour, plus extra for dusting",
+            "100g/3\u00bdoz unsalted butter",
+            "1 free-range egg",
+            "2 tbsp water"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -46,9 +53,9 @@
         "Place the tarts onto a baking sheet and bake in the oven for ten minutes, or until golden-brown.",
         "To serve, place the warm tarts onto plates."
     ],
-    "howTos": [
-        "kneading",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Cheese, apple and sage tarts",
     "videos": "[]"
 }

@@ -1,24 +1,25 @@
 {
-    "title": "Baked lemon and vanilla cheesecake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "11",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "mandy_dunn": "Mandy Dunn"
     },
-    "show": {
-        "b006t1k5": "MasterChef"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "biscuit",
+        "cake",
+        "cheesecake",
+        "icing",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -38,6 +39,12 @@
             "icing sugar"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "11",
+    "serves": "Serves 4",
+    "show": {
+        "b006t1k5": "MasterChef"
+    },
     "steps": [
         "Melt the butter in a saucepan.",
         "Meanwhile, crush the digestive and amaretti biscuits in a plastic bag, using a rolling pin.",
@@ -52,8 +59,9 @@
         "Allow the cheesecake to cool in the oven.",
         "Dredge with icing sugar to serve."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Baked lemon and vanilla cheesecake",
     "videos": "[]"
 }

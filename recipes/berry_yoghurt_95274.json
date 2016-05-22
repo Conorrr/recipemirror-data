@@ -1,24 +1,20 @@
 {
-    "title": "Berry yoghurt",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/berry_yoghurt_95274_16x9.jpg"
-    ],
-    "description": "A luscious, fruity yogurt that makes a satisfying breakfast. Using frozen berries saves money and they make a delicious juice as they thaw. As part of an Intermittent diet plan, 1 serving provides: Your daily piece of fruit 2 of your 3 daily low-fat dairy portions This meal provides 149 kcal per portion.",
     "author": {
         "justine_pattison": "Justine Pattison"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "You can toast the almonds in a dry frying pan or buy the ready toasted kind."
+    "cookTime": "no cooking required",
+    "description": "A luscious, fruity yogurt that makes a satisfying breakfast. Using frozen berries saves money and they make a delicious juice as they thaw. As part of an Intermittent diet plan, 1 serving provides: Your daily piece of fruit 2 of your 3 daily low-fat dairy portions This meal provides 149 kcal per portion.",
+    "dishes": [
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/berry_yoghurt_95274_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -27,12 +23,19 @@
             "10g/\u00bcoz flaked almonds, toasted"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 2",
+    "show": {
+        
+    },
     "steps": [
         "Spoon the yoghurt into two glasses, top with half the berries, and then repeat the layers.",
         "Sprinkle with the flaked almonds and serve."
     ],
-    "howTos": [
-        
+    "tips": [
+        "You can toast the almonds in a dry frying pan or buy the ready toasted kind."
     ],
+    "title": "Berry yoghurt",
     "videos": "[]"
 }

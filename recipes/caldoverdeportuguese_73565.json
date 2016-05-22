@@ -1,24 +1,26 @@
 {
-    "title": "Caldo verde (Portuguese cabbage soup)",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 large pot!",
-    "recommendations": "18",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/caldoverdeportuguese_73565_16x9.jpg"
-    ],
-    "description": "Cabbage soup doesn't need to be boring. Spice it up with smoky chorizo and comforting potatoes.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Portuguese",
+    "description": "Cabbage soup doesn't need to be boring. Spice it up with smoky chorizo and comforting potatoes.",
+    "dishes": [
+        "bread",
+        "broth",
+        "bun",
+        "sausage",
+        "soup",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/caldoverdeportuguese_73565_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,6 +36,12 @@
             "smoked paprika and olive oil, for dressing"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "18",
+    "serves": "Makes 1 large pot!",
+    "show": {
+        
+    },
     "steps": [
         "Gently fry the onions and garlic in the olive oil until softened and translucent.",
         "Chop the chorizo into small chunks and add to the pan with the onion.",
@@ -45,8 +53,9 @@
         "Simmer for a few minutes. The soup will go the colour of jade.",
         "Mix the smoked paprika with some olive oil to make a dressing, and swirl this red magic into the vibrant green soup. Serve with some rustic country bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Caldo verde (Portuguese cabbage soup)",
     "videos": "[]"
 }

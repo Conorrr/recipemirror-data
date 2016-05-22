@@ -1,26 +1,30 @@
 {
-    "title": "Chocolate and hazelnut meringues",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8-10",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "meringue",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the filling": [
+            "400ml/14fl oz double cream, whipped until soft peaks form when the whisk is removed",
+            "1 vanilla pod, split, seeds scraped out",
+            "1 tbsp sugar"
+        ],
         "For the meringues": [
             "6 free-range egg whites",
             "300g/10\u00bdoz caster sugar",
@@ -29,17 +33,18 @@
             "1 tsp sherry vinegar",
             "150g/5oz hazelnuts, shelled, toasted, roughly chopped"
         ],
-        "For the filling": [
-            "400ml/14fl oz double cream, whipped until soft peaks form when the whisk is removed",
-            "1 vanilla pod, split, seeds scraped out",
-            "1 tbsp sugar"
-        ],
         "For the sauce": [
             "200g/7oz ready-made chocolate hazelnut spread",
             "100g/3\u00bdoz unsalted butter",
             "200ml/7fl oz double cream",
             "2 tbsp hazelnut liqueur"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 8-10",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat oven to 180C/365F/Gas 4.",
@@ -52,9 +57,9 @@
         "For the sauce, place the chocolate hazelnut spread, butter, double cream and hazelnut liqueur into a pan over a low heat. Allow the ingredients to melt, stirring occasionally, until combined.",
         "To serve, place a dollop of filling mixture between two meringues. Place onto a plate and pour the sauce over the top. Repeat with the remaining meringues and serve."
     ],
-    "howTos": [
-        "folding",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Chocolate and hazelnut meringues",
     "videos": "[]"
 }

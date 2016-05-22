@@ -1,26 +1,29 @@
 {
-    "title": "Irish cream and chocolate cheesecake",
-    "cookTime": "less than 10 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 1",
-    "recommendations": "602",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/baileysandchocolatec_72293_16x9.jpg"
-    ],
-    "description": "The smooth, creamy liqueur gives this celebration cheesecake the wow factor. Top with grated chocolate and a dusting of cocoa.",
     "author": {
         "rob_burns": "Rob Burns"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "The smooth, creamy liqueur gives this celebration cheesecake the wow factor. Top with grated chocolate and a dusting of cocoa.",
+    "dishes": [
+        "biscuit",
+        "cheesecake",
+        "icing",
+        "prepare-ahead_desserts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/baileysandchocolatec_72293_16x9.jpg"
+    ],
     "ingredients": {
+        "To garnish": [
+            "200ml/7\u00bcoz double cream, whipped",
+            "cocoa powder, to dust"
+        ],
         "default": [
             "100g/3\u00bdoz butter",
             "250g/8\u00beoz digestive biscuits, crushed",
@@ -29,11 +32,13 @@
             "100ml/3\u00bdoz icing sugar",
             "300ml/10\u00bdoz double cream, whipped",
             "100g/3\u00bdoz grated chocolate"
-        ],
-        "To garnish": [
-            "200ml/7\u00bcoz double cream, whipped",
-            "cocoa powder, to dust"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "602",
+    "serves": "Makes 1",
+    "show": {
+        
     },
     "steps": [
         "Melt the butter in a pan and add the crushed digestive biscuits. Mix well until the biscuits have absorbed all the butter.",
@@ -41,8 +46,9 @@
         "Meanwhile, prepare the filling. Lightly whip the cream cheese then beat in the Irish cream and icing sugar. Fold in the whipped cream and grated chocolate. When smooth, spoon evenly onto the biscuits.",
         "Refrigerate and allow to set for a further two hours. Once set, remove and decorate with whipped cream and cocoa powder dusted over the top. Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Irish cream and chocolate cheesecake",
     "videos": "[]"
 }

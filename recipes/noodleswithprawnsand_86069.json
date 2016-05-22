@@ -1,26 +1,28 @@
 {
-    "title": "Noodles with prawns and pak choi",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "1 tbsp chopped fresh coriander",
+            "1 lime, quartered"
+        ],
         "default": [
             "1 tbsp olive oil",
             "1 garlic clove, chopped",
@@ -32,11 +34,13 @@
             "1 tsp soy sauce",
             "1 tbsp honey",
             "85g/3oz cooked udon noodles"
-        ],
-        "To serve": [
-            "1 tbsp chopped fresh coriander",
-            "1 lime, quartered"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat the oil in a wok or large frying pan and stir fry the garlic, chilli and ginger for one minute.",
@@ -44,8 +48,9 @@
         "Add the prawns, soy sauce, honey and noodles and cook for 2-3 minutes, or until the prawns have turned pink and are cooked through.",
         "To serve, place into a serving dish, sprinkle over the coriander and garnish with lime wedges."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Noodles with prawns and pak choi",
     "videos": "[]"
 }

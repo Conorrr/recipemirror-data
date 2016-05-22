@@ -1,42 +1,50 @@
 {
-    "title": "Open mincemeat tart with ice cream",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "phil_vickery": "Phil Vickery"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "caramel",
+        "icing",
+        "mincemeat",
+        "oven-baked_dishes",
+        "pastry",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the caramelised chestnuts": [
+            "100g/3\u00bdoz caster sugar",
+            "150g/5\u00bdoz roasted chestnuts",
+            "\u00bd lemon, juice only",
+            "vanilla ice cream, to serve"
+        ],
+        "For the filling": [
+            "150g/5\u00bdoz ready-made mincemeat"
+        ],
         "For the pastry": [
             "250g/9oz self-raising flour",
             "100g/3\u00bdoz unsalted butter, plus extra for greasing",
             "1 free-range egg",
             "50g/1\u00bdoz caster sugar",
             "1 tbsp water"
-        ],
-        "For the filling": [
-            "150g/5\u00bdoz ready-made mincemeat"
-        ],
-        "For the caramelised chestnuts": [
-            "100g/3\u00bdoz caster sugar",
-            "150g/5\u00bdoz roasted chestnuts",
-            "\u00bd lemon, juice only",
-            "vanilla ice cream, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat a baking sheet in the oven to 200C/400F/Gas 6.",
@@ -51,8 +59,9 @@
         "Once the mixture has cooled and set, break it into pieces.",
         "To serve, place the tart onto a clean plate and dust it with icing sugar. Place four scoops of vanilla ice cream on top of the tart and sprinkle the broken caramelised chestnuts on top of the ice cream."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Open mincemeat tart with ice cream",
     "videos": "[]"
 }

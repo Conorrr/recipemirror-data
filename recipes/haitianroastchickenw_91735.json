@@ -1,33 +1,30 @@
 {
-    "title": "Haitian roast chicken with two stuffings served with pumpkin rice",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "levi_roots": "Levi Roots"
     },
-    "show": {
-        "b00mh31r": "Caribbean Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Caribbean",
+    "description": "",
+    "dishes": [
+        "bread",
+        "gravy",
+        "oven-baked_dishes",
+        "roast_chicken",
+        "sauce",
+        "stir-fries",
+        "stock",
+        "stuffing"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the roast chicken and gravy": [
-            "1 x 1.6kg/3\u00bdlb whole chicken",
-            "15g/\u00bdoz butter",
-            "2 tsp cayenne pepper",
-            "350ml/12fl oz chicken stock",
-            "4 tbsp rum"
-        ],
         "For the bread stuffing": [
             "50g/1\u00beoz butter",
             "\u00bd onion, finely chopped",
@@ -40,12 +37,6 @@
             "2 tbsp rum",
             "2 tsp soft light brown or demerara sugar"
         ],
-        "For the tomato and plantain stuffing": [
-            "15g/\u00bdoz butter",
-            "2 very ripe plantains, peeled and sliced",
-            "2 ripe plum tomatoes, cut into quarters",
-            "salt and freshly ground black pepper"
-        ],
         "For the pumpkin rice": [
             "550ml/1 pint cold water",
             "400g/14oz pumpkin flesh, chopped",
@@ -53,7 +44,26 @@
             "1 tsp salt",
             "450g/1lb basmati rice, rinsed and drained twice to remove excess starch",
             "15g/\u00bdoz butter"
+        ],
+        "For the roast chicken and gravy": [
+            "1 x 1.6kg/3\u00bdlb whole chicken",
+            "15g/\u00bdoz butter",
+            "2 tsp cayenne pepper",
+            "350ml/12fl oz chicken stock",
+            "4 tbsp rum"
+        ],
+        "For the tomato and plantain stuffing": [
+            "15g/\u00bdoz butter",
+            "2 very ripe plantains, peeled and sliced",
+            "2 ripe plum tomatoes, cut into quarters",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "3",
+    "serves": "Serves 6",
+    "show": {
+        "b00mh31r": "Caribbean Food Made Easy"
     },
     "steps": [
         "Gently ease the skin around the neck and breast of the chicken away from the meat using your fingers, reaching as far down the legs as possible. Set aside.",
@@ -78,8 +88,9 @@
         "Heat the rum in a frying pan over a high heat, then remove from the heat and set alight using a match. Allow the flames to flare up, then die down. (NB: keep flammable objects away from the flame.) Pour the rum over the roast chicken.",
         "To serve, carve the roast chicken and divide it among six serving plates. Place a portion of the tomato and plantain stuffing on top of each serving. Spoon the pumpkin rice alongside. Drizzle over the gravy."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Haitian roast chicken with two stuffings served with pumpkin rice",
     "videos": "[]"
 }

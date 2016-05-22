@@ -1,26 +1,38 @@
 {
-    "title": "Charlotte royale",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4-6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This fancy and pleasingly retro dessert can be made ahead of time - it\u2019s great for a grown-up birthday party.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b06s5h9c": "Home Comforts at Christmas"
-    },
-    "tips": [
-        "This dessert can be made up to 5 days in advance and chilled in the fridge."
+    "cookTime": "10 to 30 mins",
+    "description": "This fancy and pleasingly retro dessert can be made ahead of time - it\u2019s great for a grown-up birthday party.",
+    "dishes": [
+        "charlotte",
+        "custard",
+        "icing",
+        "jam",
+        "jelly",
+        "oven-baked_dishes",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries",
+        "trifle"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_make_a_swiss_roll_cake"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Swiss roll": [
+            "8 free-range eggs",
+            "150g/5\u00bdoz caster sugar, plus extra for dusting",
+            "1\u00bd tsp vanilla bean paste",
+            "150g/5\u00bdoz plain flour",
+            "150g/5\u00bdoz raspberry jam"
+        ],
         "For the charlotte": [
             "1 pack raspberry jelly",
             "400g/14oz raspberries",
@@ -31,17 +43,16 @@
             "6 sheets leaf gelatine, soaked in cold water for 5 minutes, drained",
             "300ml/10\u00bdfl oz double cream"
         ],
-        "For the Swiss roll": [
-            "8 free-range eggs",
-            "150g/5\u00bdoz caster sugar, plus extra for dusting",
-            "1\u00bd tsp vanilla bean paste",
-            "150g/5\u00bdoz plain flour",
-            "150g/5\u00bdoz raspberry jam"
-        ],
         "To serve": [
             "4-5 ripe strawberries, halved",
             "2-3 fresh mint sprigs"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 4-6",
+    "show": {
+        "b06s5h9c": "Home Comforts at Christmas"
     },
     "steps": [
         "For the charlotte, prepare the raspberry jelly according to the packet instructions, and leave to set in a small round bowl in the fridge for 1 hour.",
@@ -61,8 +72,9 @@
         "Whisk the double cream until soft peaks form when the whisk is removed. Fold the cream into the chilled raspberry custard, then spoon the mixture on top of the jelly. Chill in the fridge for at least 4 hours.",
         "To serve, upturn the pudding bowl onto a serving platter. Remove the cling film and decorate with the strawberries and mint. Serve in slices."
     ],
-    "howTos": [
-        "how_to_make_a_swiss_roll_cake"
+    "tips": [
+        "This dessert can be made up to 5 days in advance and chilled in the fridge."
     ],
+    "title": "Charlotte royale",
     "videos": "[p03btxsc:p03btxsl]"
 }

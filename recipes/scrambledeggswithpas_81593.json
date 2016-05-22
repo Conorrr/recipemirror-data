@@ -1,24 +1,20 @@
 {
-    "title": "Scrambled eggs with pastrami",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/scrambledeggswithpas_81593_16x9.jpg"
-    ],
-    "description": "A little pastrami makes a meal of scrambled eggs on toast.",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A little pastrami makes a meal of scrambled eggs on toast.",
+    "dishes": [
+        "scrambled_eggs"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "how_to_cook_scrambled_eggs"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/scrambledeggswithpas_81593_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -31,13 +27,20 @@
             "1 fresh flatleaf parsley leaf, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Melt the butter with the oil in a frying pan over a medium heat. Add the pastrami and fry until cooked through.",
         "Add the milk and eggs and season well with salt and freshly ground black pepper. Gently cook the eggs, stirring constantly, until thickened and glossy.",
         "To serve, spoon the scrambled eggs onto a warm plate and garnish with the fresh parsley leaf."
     ],
-    "howTos": [
-        "how_to_cook_scrambled_eggs"
+    "tips": [
+        
     ],
+    "title": "Scrambled eggs with pastrami",
     "videos": "[]"
 }

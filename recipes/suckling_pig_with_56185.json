@@ -1,26 +1,32 @@
 {
-    "title": "Suckling pig with northern mead, vegetables and artichoke",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Crispy pork shoulder is teamed perfectly with artichoke pur\u00e9e and a rich pork sauce sweetened with mead (aka honey wine).",
     "author": {
         "simon_rogan": "Simon Rogan"
     },
-    "show": {
-        "b0071y6r": "Great British Menu"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Crispy pork shoulder is teamed perfectly with artichoke pur\u00e9e and a rich pork sauce sweetened with mead (aka honey wine).",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "roast_pork",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the artichoke pur\u00e9e": [
+            "olive oil, for frying",
+            "600g/1lb 5oz Jerusalem artichokes, peeled and sliced",
+            "salt",
+            "50g/1\u00beoz milk",
+            "90g/3\u00bcoz unsalted butter"
+        ],
         "For the mead pork sauce": [
             "1kg/2lb 4oz pork ribs",
             "1kg/2lb 4oz minced pork",
@@ -36,13 +42,6 @@
             "2 tsp fresh thyme leaves",
             "15g/\u00bdoz garlic, crushed and finely chopped",
             "1 shoulder suckling pig"
-        ],
-        "For the artichoke pur\u00e9e": [
-            "olive oil, for frying",
-            "600g/1lb 5oz Jerusalem artichokes, peeled and sliced",
-            "salt",
-            "50g/1\u00beoz milk",
-            "90g/3\u00bcoz unsalted butter"
         ],
         "For the vegetables": [
             "2 turnips, peeled and sliced into discs",
@@ -62,6 +61,12 @@
             "nasturtium leaves"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b0071y6r": "Great British Menu"
+    },
     "steps": [
         "For the mead pork sauce, preheat the oven to 190C/375F/Gas 5. Place the pork ribs and the minced pork into a roasting tray and cook in the oven for an hour. Place the carrots, onion and celery into the pan of a pressure cooker and fry gently until soft. Add the tomato paste, the roasted pork ribs and mince, then fry for two minutes before deglazing with the mead. Reduce the mead down by half and then add 1 litre/1\u00be pints water. Bring to the boil, put the lid of the pressure cooker on, pressurize and cook on a low heat for two hours. Remove the pressure cooker from the heat and leave to stand for 10-20 minutes until the pressure has naturally released. Remove the lid and transfer the pan to the fridge to chill for 12 hours.",
         "For the pork, mix together the sea salt, thyme and garlic, and rub the mix all over the pork shoulder. Set aside for 12 hours.",
@@ -72,8 +77,9 @@
         "For the wild mushrooms, heat a frying pan to a medium heat, add a little oil and fry the mushrooms for 1\u20132 minutes or until just tender. Season with salt and freshly ground black pepper and set aside.",
         "To serve, place a generous spoonful of artichoke pur\u00e9e on each plate with a piece of the suckling pig. Arrange the vegetables and mushrooms around the pork, spoon over some sauce and garnish with nasturtium leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Suckling pig with northern mead, vegetables and artichoke",
     "videos": "[]"
 }

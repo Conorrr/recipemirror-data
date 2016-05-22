@@ -1,31 +1,27 @@
 {
-    "title": "Kids\u2019 any-fruit cobbler",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "8",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/kids_any-fruit_cobbler_81271_16x9.jpg"
-    ],
-    "description": "This makes a great alternative to traditional crumbles and has the added benefit of being really fun for kids to make. Just choose your fruit and the kids can form the cobbler topping. You can use fresh, frozen or tinned fruit, or a mixture.",
     "author": {
         "jo_ingleby": "Jo Ingleby"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "This makes a great alternative to traditional crumbles and has the added benefit of being really fun for kids to make. Just choose your fruit and the kids can form the cobbler topping. You can use fresh, frozen or tinned fruit, or a mixture.",
+    "dishes": [
+        "cobbler",
+        "crumble",
+        "custard",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/kids_any-fruit_cobbler_81271_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "600g/1lb 5oz fresh, tinned (drained weight) or frozen fruit, such as apples, pears, ripe peaches or plums (peeled and cores removed) or berries such as blackberries, raspberries, cherries or blueberries, or a mixture",
-            "1 small orange, juice only",
-            "2 tbsp soft brown sugar"
-        ],
         "For the cobbler topping": [
             "175g/6oz self-raising flour (white or wholemeal)",
             "100g/3\u00bdoz unsalted butter, softened",
@@ -33,7 +29,18 @@
             "50g/1\u00beoz soft brown sugar",
             "\u00bd tsp ground cinnamon or mixed spice",
             "4 tbsp yoghurt (natural or flavoured)"
+        ],
+        "default": [
+            "600g/1lb 5oz fresh, tinned (drained weight) or frozen fruit, such as apples, pears, ripe peaches or plums (peeled and cores removed) or berries such as blackberries, raspberries, cherries or blueberries, or a mixture",
+            "1 small orange, juice only",
+            "2 tbsp soft brown sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Adults job: preheat the oven to 200C/400F/Gas 6.",
@@ -45,8 +52,9 @@
         "Kid\u2019s job: Form the cobbler mix into small balls, about the size of a ping pong ball and arrange them over the top of the fruit.",
         "Adult\u2019s job: Place in the oven for 30-40 minutes or until the cobbler is golden-brown on top with the fruit bubbling up around the edges. Leave to cool before serving as the fruit filling will be very hot. Serve warm with ice cream, yoghurt or custard."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Kids\u2019 any-fruit cobbler",
     "videos": "[]"
 }

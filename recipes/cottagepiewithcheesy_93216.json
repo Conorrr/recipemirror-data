@@ -1,26 +1,38 @@
 {
-    "title": "Cottage pie with cheesy mash",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "4",
-    "recommendations": "41",
-    "images": [
-        
-    ],
-    "description": "Warming cottage pie served alongside delicious creamy cheesy mash-comfort food at its best.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00pymg1": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Warming cottage pie served alongside delicious creamy cheesy mash-comfort food at its best.",
+    "dishes": [
+        "cottage_pie",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "chiffonade"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the topping": [
+            "800g/1lb 12oz floury potatoes, such as King Edward or Maris Piper, peeled and cut into even-sized pieces",
+            "40g/1\u00bdoz butter, cubed",
+            "3 tbsp milk",
+            "100g/3\u00bdoz mature cheddar, grated",
+            "salt and freshly ground black pepper"
+        ],
+        "To serve": [
+            "green beans or shredded Savoy cabbage, cooked"
+        ],
         "default": [
             "1 tbsp sunflower oil",
             "1 large onion, peeled, chopped",
@@ -37,17 +49,13 @@
             "1 dried bay leaf",
             "splash Worcestershire sauce",
             "salt and freshly ground black pepper"
-        ],
-        "For the topping": [
-            "800g/1lb 12oz floury potatoes, such as King Edward or Maris Piper, peeled and cut into even-sized pieces",
-            "40g/1\u00bdoz butter, cubed",
-            "3 tbsp milk",
-            "100g/3\u00bdoz mature cheddar, grated",
-            "salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "green beans or shredded Savoy cabbage, cooked"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "41",
+    "serves": "4",
+    "show": {
+        "b00pymg1": "The Hairy Bikers: Mums Know Best"
     },
     "steps": [
         "Heat the sunflower oil in a large deep lidded pan over a medium heat and gently fry the onion, celery and carrots for 7-8 minutes, or until the onions are softened and lightly coloured. Add the garlic and cook for 2-3 more minutes.",
@@ -60,8 +68,9 @@
         "Spoon the mash over the mince mixture in the ovenproof dish, working towards the middle from the outside. Smooth with a palette knife. When all the mince is covered with mash, create patterns on the surface using a fork.",
         "Place the dish on a baking tray and bake in the centre of the oven for around 25 minutes, or until the potatoes are golden-brown and the filling is bubbling up around the edges. Serve with freshly cooked green beans or shredded Savoy cabbage."
     ],
-    "howTos": [
-        "chiffonade"
+    "tips": [
+        
     ],
+    "title": "Cottage pie with cheesy mash",
     "videos": "[]"
 }

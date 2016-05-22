@@ -1,23 +1,22 @@
 {
-    "title": "Refried beans",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "A staple of the Tex-mex cooking, these easy beans can be used in quesadillas, tacos, salads or burritos.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Mexican",
+    "description": "A staple of the Tex-mex cooking, these easy beans can be used in quesadillas, tacos, salads or burritos.",
+    "dishes": [
+        "quesadilla",
+        "salad",
+        "taco"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -30,6 +29,12 @@
             "250g/9oz smoked streaky bacon, finely chopped"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Soak the beans overnight in plenty of water.",
         "Bring the beans to the boil in 1.2 litres/2 pints of water and boil until tender. Reserve the cooking water.",
@@ -38,8 +43,9 @@
         "Mash the beans as fine as you like, then mix them with the bacon and onion mixture.",
         "Add some of the reserved cooking water to the beans to give you the same consistency as double cream. Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Refried beans",
     "videos": "[]"
 }

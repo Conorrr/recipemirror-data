@@ -1,26 +1,33 @@
 {
-    "title": "Saut\u00e9ed chicken with char-grilled cauliflower",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "curry",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cauliflower": [
+            "100g/3\u00bdoz blanched cauliflower florets",
+            "2 tbsp olive oil",
+            "1 tbsp white wine vinegar",
+            "1 tsp curry powder",
+            "salt and freshly ground black pepper",
+            "1 tbsp chopped coriander"
+        ],
         "For the chicken": [
             "1 tbsp olive oil",
             "\u00bc leek, finely sliced",
@@ -30,15 +37,13 @@
             "50ml/2fl oz double cream",
             "50ml/2fl oz hot chicken stock",
             "1 tbsp chopped parsley"
-        ],
-        "For the cauliflower": [
-            "100g/3\u00bdoz blanched cauliflower florets",
-            "2 tbsp olive oil",
-            "1 tbsp white wine vinegar",
-            "1 tsp curry powder",
-            "salt and freshly ground black pepper",
-            "1 tbsp chopped coriander"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "To make the chicken, heat the olive oil in a medium frying pan.",
@@ -51,8 +56,9 @@
         "Place the florets back into the bowl and toss again, sprinkle over the coriander and season.",
         "To serve, pour the chicken and sauce onto a warm plate and serve the cauliflower aside in a bowl."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Saut\u00e9ed chicken with char-grilled cauliflower",
     "videos": "[]"
 }

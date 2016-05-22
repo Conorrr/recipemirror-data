@@ -1,24 +1,27 @@
 {
-    "title": "Lamb curry with basmati rice",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "120",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lambcurrywithbasmati_84339_16x9.jpg"
-    ],
-    "description": "James Martin's easy lamb curry is an aromatic mix of fresh ginger, spices and coconut milk",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Indian",
+    "description": "James Martin's easy lamb curry is an aromatic mix of fresh ginger, spices and coconut milk",
+    "dishes": [
+        "curry",
+        "jam",
+        "lamb_curry",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "de-glazing_pans",
+        "skimming_stock"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lambcurrywithbasmati_84339_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -43,6 +46,12 @@
             "steamed basmati rice, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "120",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Heat a large saucepan and add one tablespoon of the vegetable oil and then the lamb. Cook over a high heat for 3-4 minutes, or until the lamb is golden-brown all over, then remove and set aside.",
         "Reduce the heat and add the remaining tablespoon of vegetable oil. Add the onions, garlic, chillies and ginger and fry for 2-3 minutes, until golden and softened.",
@@ -55,9 +64,9 @@
         "Add the yoghurt, season, to taste, with salt and freshly ground black pepper and stir well.",
         "Serve onto warmed plates with steamed basmati rice alongside."
     ],
-    "howTos": [
-        "de-glazing_pans",
-        "skimming_stock"
+    "tips": [
+        
     ],
+    "title": "Lamb curry with basmati rice",
     "videos": "[]"
 }

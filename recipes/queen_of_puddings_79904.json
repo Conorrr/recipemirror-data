@@ -1,24 +1,27 @@
 {
-    "title": "Queen of puddings",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "20",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/queen_of_puddings_79904_16x9.jpg"
-    ],
-    "description": "Mary Berry's step-by-step recipe for this retro British pudding of custard, cake and jam topped with soft, chewy meringue. You will need a 1.4L/2\u00bdpt oval ovenproof dish that will fit inside a roasting tin.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Mary Berry's step-by-step recipe for this retro British pudding of custard, cake and jam topped with soft, chewy meringue. You will need a 1.4L/2\u00bdpt oval ovenproof dish that will fit inside a roasting tin.",
+    "dishes": [
+        "bread",
+        "cake",
+        "custard",
+        "jam",
+        "meringue",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/queen_of_puddings_79904_16x9.jpg"
     ],
     "ingredients": {
         "For the base": [
@@ -29,17 +32,23 @@
             "3 free-range eggs, yolks only",
             "75g/3oz fresh white breadcrumbs"
         ],
-        "For the meringue": [
-            "175g/6oz caster sugar",
-            "3 free-range eggs, whites only"
-        ],
         "For the fruit jam": [
             "200g/7oz fresh mixed summer fruits, or 500g/1lb 2oz frozen. (Alternatively you can use raspberry jam if you prefer.)",
             "200g/7oz caster sugar (or to taste)"
         ],
+        "For the meringue": [
+            "175g/6oz caster sugar",
+            "3 free-range eggs, whites only"
+        ],
         "To serve": [
             "pouring cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "20",
+    "serves": "Serves 6",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 170C/325F/Gas 3 and grease a 1.4 litre/2\u00bd pint shallow ovenproof dish (one that will fit into a roasting tin) with butter.",
@@ -53,8 +62,9 @@
         "Spread 4-5 tablespoons of the fruit jam over the set custard, then pipe the meringue on top.",
         "Lower the oven temperature to 150C/300F/Gas 2 and return the pudding to the oven (not in the roasting tin with water) for about 25-30 minutes until the meringue is pale golden all over and crisp. Serve at once with pouring cream."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Queen of puddings",
     "videos": "[]"
 }

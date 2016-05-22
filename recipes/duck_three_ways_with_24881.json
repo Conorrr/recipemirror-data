@@ -1,26 +1,41 @@
 {
-    "title": "Duck three ways with roasted pears, shallots, wilted chard and a red wine reduction",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Preparing confit duck takes time, but the result is meltingly tender duck. Served here with chard, sour sweet pear and shallots and a rich wine and beef sauce.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Preparing confit duck takes time, but the result is meltingly tender duck. Served here with chard, sour sweet pear and shallots and a rich wine and beef sauce.",
+    "dishes": [
+        "duck_confit",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "sausage",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the roasted pears and shallots": [
+            "100g/3\u00bdoz unsalted butter",
+            "1 tbsp olive oil",
+            "2 shallots, whole",
+            "1 pear, cut into wedges",
+            "1 head chard, sliced"
+        ],
+        "For the sauce": [
+            "110ml/3\u00bdfl oz red wine",
+            "250ml/9fl oz beef stock",
+            "50g/1\u00beoz butter"
+        ],
         "default": [
             "4 duck legs, separated into drumstick and thighs",
             "15g/\u00bdoz table salt per kilo of duck legs",
@@ -35,19 +50,13 @@
             "\u00bd tsp cumin seeds",
             "4 duck breasts, skin scored",
             "knob of butter, for frying"
-        ],
-        "For the sauce": [
-            "110ml/3\u00bdfl oz red wine",
-            "250ml/9fl oz beef stock",
-            "50g/1\u00beoz butter"
-        ],
-        "For the roasted pears and shallots": [
-            "100g/3\u00bdoz unsalted butter",
-            "1 tbsp olive oil",
-            "2 shallots, whole",
-            "1 pear, cut into wedges",
-            "1 head chard, sliced"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the duck, weigh the duck legs and thighs and place them on a sheet of clingfilm. Sprinkle them with 15g/\u00bdoz of salt per kilo and the thyme. Wrap in clingfilm and place in the fridge overnight.",
@@ -71,8 +80,9 @@
         "The other half of the butter add to a separate pan and add the chard add a little water and cook until wilted.",
         "To serve, place the wilted chard on the plates, carve the duck breast into slices on the diagonal and place on the chard. Place a roasted drumstick on the plate alongside along with the discs of duck. Pile the roasted pears and shallots next to the duck and drizzle with the red wine sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Duck three ways with roasted pears, shallots, wilted chard and a red wine reduction",
     "videos": "[]"
 }

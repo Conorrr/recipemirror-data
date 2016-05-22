@@ -1,26 +1,32 @@
 {
-    "title": "Banana cr\u00eapes",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "biscuit",
+        "crepe",
+        "jam",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the banana": [
+            "\u00bd banana, peeled, chopped",
+            "2 digestive biscuits, crushed",
+            "1 tbsp butter, melted",
+            "1 tbsp brown sugar"
+        ],
         "For the cr\u00eapes": [
             "100g/3\u00bdoz plain flour",
             "2 free-range eggs, beaten",
@@ -28,17 +34,17 @@
             "2 tbsp butter, melted",
             "1 tbsp vegetable oil"
         ],
-        "For the banana": [
-            "\u00bd banana, peeled, chopped",
-            "2 digestive biscuits, crushed",
-            "1 tbsp butter, melted",
-            "1 tbsp brown sugar"
-        ],
         "To serve": [
             "55g/2oz dark chocolate, chopped",
             "3 scoops vanilla ice cream",
             "1 handful raspberries"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the cr\u00eapes, mix the flour and eggs together in a bowl until well combined. Add the milk, whisking all the time, until the batter is smooth and the consistency of double cream, adding more milk as necessary. Stir in half of the melted butter.",
@@ -47,8 +53,9 @@
         "To serve, place half of the chocolate into a bowl set over a pan of simmering water. (Do not allow the base of the bowl to touch the water.) Stir until melted.",
         "Place the cr\u00eapes onto a serving plate, scatter over the banana pieces and spoon the ice cream on top. Scatter over the remaining chocolate and fold the cr\u00eape over twice to form a triangle. Drizzle the melted chocolate over the top and sprinkle over the raspberries."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Banana cr\u00eapes",
     "videos": "[]"
 }

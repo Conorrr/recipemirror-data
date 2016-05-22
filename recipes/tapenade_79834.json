@@ -1,24 +1,22 @@
 {
-    "title": "Tapenade",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ross_burden": "Ross Burden"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "bread",
+        "ciabatta",
+        "tapenade"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,12 +29,19 @@
             "toasted ciabatta, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place the ingredients into a food processor and blend together to form a coarse paste.",
         "Spread the tapenade onto toasted ciabatta bread and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tapenade",
     "videos": "[]"
 }

@@ -1,24 +1,22 @@
 {
-    "title": "Leek and potato soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "11",
-    "images": [
-        
-    ],
-    "description": "Frugal and filling, leek and potato soup is a classic winter warmer. This one can be made in less than 30 minutes.",
     "author": {
         "gregg_wallace": "Gregg Wallace"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Frugal and filling, leek and potato soup is a classic winter warmer. This one can be made in less than 30 minutes.",
+    "dishes": [
+        "soup",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -36,6 +34,12 @@
             "2 tbsp fresh chives, chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 4",
+    "show": {
+        "p0077hsg": "Housecall"
+    },
     "steps": [
         "Trim and slice the leeks in thin rounds. Rinse in a colander under cold water.",
         "Peel the potatoes and cut into chunks.",
@@ -47,8 +51,9 @@
         "Just before serving add the milk and cream and stir over a low heat, check the seasoning.",
         "Serve in bowls and sprinkle with the chives."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Leek and potato soup",
     "videos": "[]"
 }

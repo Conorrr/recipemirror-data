@@ -1,33 +1,25 @@
 {
-    "title": "Steak Maman Blanc with saut\u00e9ed potatoes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "10",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/steakmamanblancwiths_85136_16x9.jpg"
-    ],
-    "description": "Need a simple dish to impress a special someone? When it comes to cooking for romance, Raymond Blanc has it covered.",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "Need a simple dish to impress a special someone? When it comes to cooking for romance, Raymond Blanc has it covered.",
+    "dishes": [
+        "caramel",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/steakmamanblancwiths_85136_16x9.jpg"
+    ],
     "ingredients": {
-        "For the steak": [
-            "2 x 225g/8oz sirloin steaks (preferably organic), 2cm/\u00bein thick",
-            "salt and freshly ground black pepper",
-            "1 tsp olive oil",
-            "20g/\u00beoz unsalted butter",
-            "110ml/4fl oz water"
-        ],
         "For the potatoes": [
             "2 medium King Edward potatoes, cut into 2cm/\u00bein cubes",
             "1 tbsp olive oil",
@@ -35,7 +27,20 @@
             "10g/\u00bdoz unsalted butter",
             "1 handful fresh flatleaf parsley, roughly chopped",
             "\u00bd banana shallot, finely chopped"
+        ],
+        "For the steak": [
+            "2 x 225g/8oz sirloin steaks (preferably organic), 2cm/\u00bein thick",
+            "salt and freshly ground black pepper",
+            "1 tsp olive oil",
+            "20g/\u00beoz unsalted butter",
+            "110ml/4fl oz water"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 2",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the steak, season the steaks with the salt and pepper, pressing it firmly into the steaks on each side.",
@@ -46,8 +51,9 @@
         "Meanwhile, for the potatoes, the potatoes, heat a separate frying pan until hot, then add the olive oil and potatoes. Saut\u00e9 the potatoes over a medium heat for 4-5 minutes, or until golden-brown all over and tender. Season, to taste, with salt and freshly ground black pepper. Reduce the heat and add the butter, parsley and shallot and stir well. Allow the butter to melt and glaze the potatoes and the shallots to warm through.",
         "To serve, place the steaks onto plates and serve the potatoes alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steak Maman Blanc with saut\u00e9ed potatoes",
     "videos": "[]"
 }

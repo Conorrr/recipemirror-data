@@ -1,26 +1,44 @@
 {
-    "title": "Venison casserole with braised red cabbage and butternut squash",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "A rich, slow-cooked venison stew with a hint of spice and fruit that makes the perfect comfort food.",
     "author": {
         "jun_tanaka": "Jun Tanaka"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "A rich, slow-cooked venison stew with a hint of spice and fruit that makes the perfect comfort food.",
+    "dishes": [
+        "casserole",
+        "jelly",
+        "oven-baked_dishes",
+        "pie",
+        "slow-cooked_dishes",
+        "stew",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the braised red cabbage": [
+            "300ml/10fl oz cr\u00e8me de cassis",
+            "500ml/18fl oz red wine",
+            "1 strip orange zest",
+            "sprig thyme",
+            "olive oil, for frying",
+            "1 red cabbage, finely sliced",
+            "100ml/3\u00bdfl oz red wine vinegar",
+            "5 red onions, finely sliced"
+        ],
+        "For the butternut squash mash": [
+            "50g/1\u00beoz butter",
+            "1 butternut squash, peeled and roughly chopped",
+            "100ml/3\u00bdfl oz double cream",
+            "sea salt and black pepper"
+        ],
         "For the venison casserole": [
             "olive oil, for frying",
             "1kg/2lb 4oz venison shoulder and neck fillet, trimmed and cubed",
@@ -36,23 +54,13 @@
             "1 star anise",
             "1 cinnamon stick",
             "3 tbsp redcurrant jelly"
-        ],
-        "For the butternut squash mash": [
-            "50g/1\u00beoz butter",
-            "1 butternut squash, peeled and roughly chopped",
-            "100ml/3\u00bdfl oz double cream",
-            "sea salt and black pepper"
-        ],
-        "For the braised red cabbage": [
-            "300ml/10fl oz cr\u00e8me de cassis",
-            "500ml/18fl oz red wine",
-            "1 strip orange zest",
-            "sprig thyme",
-            "olive oil, for frying",
-            "1 red cabbage, finely sliced",
-            "100ml/3\u00bdfl oz red wine vinegar",
-            "5 red onions, finely sliced"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "Preheat the oven to 150C/300F/Gas 2.",
@@ -67,8 +75,9 @@
         "When the casserole is cooked, carefully remove all the venison pieces into a clean pan then use a sieve to strain the cooking liquid onto the meat. Place on over a high heat and bring to a rolling boil. Cook until the liquid has reduced in volume by half.",
         "Serve the casserole with the butternut squash mash and red cabbage alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Venison casserole with braised red cabbage and butternut squash",
     "videos": "[]"
 }

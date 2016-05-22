@@ -1,26 +1,40 @@
 {
-    "title": "Chicken with forty cloves of garlic",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "36",
-    "images": [
-        
-    ],
-    "description": "This dish isn\u2019t usually cooked with shallots but we\u2019ve added a few to make the sauce extra delicious. Leave them out if you prefer. To make a richer sauce from the cooking liquor, you can stir in freshly chopped tarragon and some double cream or cr\u00e8me fra\u00eeche. Not traditional, maybe, but very delicious.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        "Shredded cabbage leaves make a great alternative to the kale and adds lovely deep green streaks to the mash."
+    "cookTime": "1 to 2 hours",
+    "cusine": "French",
+    "description": "This dish isn\u2019t usually cooked with shallots but we\u2019ve added a few to make the sauce extra delicious. Leave them out if you prefer. To make a richer sauce from the cooking liquor, you can stir in freshly chopped tarragon and some double cream or cr\u00e8me fra\u00eeche. Not traditional, maybe, but very delicious.",
+    "dishes": [
+        "baguette",
+        "bread",
+        "casserole",
+        "oven-baked_dishes",
+        "pie",
+        "roast_chicken",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "testing_cooked_poultry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the colcannon": [
+            "1kg/2lb 4oz medium floury potatoes, preferably Maris Piper or King Edward",
+            "75g/2\u00bdoz butter",
+            "100g/3\u00bdoz rindless smoked streaky bacon rashers, cut into 2cm/\u00bein pieces",
+            "300g/10\u00bdoz fresh kale",
+            "6 spring onions, trimmed and finely sliced",
+            "200ml/7fl oz double cream",
+            "flaked sea salt and freshly ground black pepper"
+        ],
         "default": [
             "250g/9oz shallots (small ones not banana shallots)",
             "1.35kg/3lb oven-ready fresh chicken",
@@ -36,16 +50,13 @@
             "100ml/3\u00bdfl oz double cream or cr\u00e8me fra\u00eeche",
             "flaked sea salt and freshly ground black pepper",
             "1 baguette"
-        ],
-        "For the colcannon": [
-            "1kg/2lb 4oz medium floury potatoes, preferably Maris Piper or King Edward",
-            "75g/2\u00bdoz butter",
-            "100g/3\u00bdoz rindless smoked streaky bacon rashers, cut into 2cm/\u00bein pieces",
-            "300g/10\u00bdoz fresh kale",
-            "6 spring onions, trimmed and finely sliced",
-            "200ml/7fl oz double cream",
-            "flaked sea salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "36",
+    "serves": "Serves 4",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Place the shallots in a heat-proof bowl, cover with just-boiled water and leave to stand for five minutes. This will make the skins easier to remove.",
@@ -62,8 +73,9 @@
         "Tip the softened kale into the same pan and stir together until lightly combined. Transfer to a warmed dish.",
         "Carve the chicken into chunky pieces and serve with the sauce and colcannon. Squeeze the garlic out of its skin and spread on the bread just like butter."
     ],
-    "howTos": [
-        "testing_cooked_poultry"
+    "tips": [
+        "Shredded cabbage leaves make a great alternative to the kale and adds lovely deep green streaks to the mash."
     ],
+    "title": "Chicken with forty cloves of garlic",
     "videos": "[p017jn3d:p017jn3j]"
 }

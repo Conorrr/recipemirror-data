@@ -1,26 +1,37 @@
 {
-    "title": "Spiced fish tagine",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "A tagine is perfect for warming you up on a cold night. Making your own ras-el-hanout makes this dish extra special.",
     "author": {
         "tom_kime": "Tom Kime"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        "This recipe makes more ras-el-hanout than is necessary for this dish. The remaining ras-el-hanout will keep indefinitely in an airtight jar but loses its pungency the longer it is kept."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "North_African",
+    "description": "A tagine is perfect for warming you up on a cold night. Making your own ras-el-hanout makes this dish extra special.",
+    "dishes": [
+        "casserole",
+        "sauce",
+        "stir-fries",
+        "stock",
+        "tagine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the couscous": [
+            "200g/7oz couscous",
+            "1 tbsp olive oil",
+            "\u00bd lemon, juice only",
+            "250ml/9fl oz boiling water",
+            "50g/2oz pistachio nuts, roughly chopped",
+            "4 tbsp pomegranate seeds",
+            "2 tbsp chopped fresh coriander leaves",
+            "salt and freshly ground black pepper"
+        ],
         "For the ras-el-hanout": [
             "2 tsp ground cinnamon",
             "1 tsp ground turmeric",
@@ -42,20 +53,16 @@
             "110ml/4fl oz fish stock or water",
             "4-6 plaice fillets, skin removed"
         ],
-        "For the couscous": [
-            "200g/7oz couscous",
-            "1 tbsp olive oil",
-            "\u00bd lemon, juice only",
-            "250ml/9fl oz boiling water",
-            "50g/2oz pistachio nuts, roughly chopped",
-            "4 tbsp pomegranate seeds",
-            "2 tbsp chopped fresh coriander leaves",
-            "salt and freshly ground black pepper"
-        ],
         "To serve": [
             "1 lemon, juice only",
             "4 fresh coriander sprigs, leaves only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the ras-el-hanout, mix all of the ras-el-hanout ingredients together until well combined. Grind in a spice grinder or coffee grinder to a fine powder. Store in an airtight jar.",
@@ -71,8 +78,9 @@
         "Just before serving, squeeze the lemon juice over the plaice tagine, then sprinkle over the coriander leaves.",
         "To serve, divide the couscous equally among four to six serving plates. Place one plaice fillet on top of each serving, then spoon over the remaining tagine."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This recipe makes more ras-el-hanout than is necessary for this dish. The remaining ras-el-hanout will keep indefinitely in an airtight jar but loses its pungency the longer it is kept."
     ],
+    "title": "Spiced fish tagine",
     "videos": "[]"
 }

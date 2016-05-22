@@ -1,26 +1,32 @@
 {
-    "title": "Mussels with coconut crumb crust",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "brioche",
+        "salsa",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "segmenting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the salsa": [
+            "1 pink grapefruit, peeled, segmented",
+            "1 lime, juice only",
+            "1 red chilli, finely chopped",
+            "12 lychees from a can, drained, chopped",
+            "splash Tabasco sauce"
+        ],
         "default": [
             "150g/5oz brioche crumbs (you can make your own by blending a brioche in a food processor)",
             "100g/3\u00bdoz desiccated coconut, toasted in a dry frying pan",
@@ -30,14 +36,13 @@
             "1 clove garlic, crushed to a paste with a pinch of salt",
             "salt and freshly ground black pepper",
             "12 green lip mussels, ready-cooked, bottom half of the shell on"
-        ],
-        "For the salsa": [
-            "1 pink grapefruit, peeled, segmented",
-            "1 lime, juice only",
-            "1 red chilli, finely chopped",
-            "12 lychees from a can, drained, chopped",
-            "splash Tabasco sauce"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the grill to its highest setting.",
@@ -46,8 +51,9 @@
         "For the salsa, place the grapefruit segments, lime juice, chilli, chopped lychees and Tabasco into a bowl and mix well.",
         "To serve, place three mussels onto each plate and serve a dollop of salsa alongside."
     ],
-    "howTos": [
-        "segmenting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Mussels with coconut crumb crust",
     "videos": "[]"
 }

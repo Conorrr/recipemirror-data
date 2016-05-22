@@ -1,24 +1,25 @@
 {
-    "title": "Julie's bread and butter pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 36",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "If you have to feed a lot of people, this is a quick and simple pudding . Make it in several dishes if you don't have one big enough.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b013y0nz": "Hairy Bikers' Meals on Wheels"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "If you have to feed a lot of people, this is a quick and simple pudding . Make it in several dishes if you don't have one big enough.",
+    "dishes": [
+        "bread",
+        "bread_and_butter_pudding",
+        "custard",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +32,12 @@
             "3.4 litres/6 pints milk"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 36",
+    "show": {
+        "b013y0nz": "Hairy Bikers' Meals on Wheels"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease a 5 litre/9 pint ovenproof dish with butter.",
         "Thickly spread bread slices with butter and cut into triangles. Arrange half the bread, butter side up, in the bottom of the dish. Mix the fruit and sultanas together and sprinkle all the dried fruit and half the sugar over the layer of bread.",
@@ -39,8 +46,9 @@
         "Leave to stand for 15 minutes to allow the bread to absorb some of the liquid.",
         "Bake in the oven for 35 minutes, until the custard has set and the top is crisp and golden."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Julie's bread and butter pudding",
     "videos": "[]"
 }

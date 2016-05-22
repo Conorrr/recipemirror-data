@@ -1,24 +1,25 @@
 {
-    "title": "Green curry paste",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "34",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/greencurrypaste_67789_16x9.jpg"
-    ],
-    "description": "Homemade Thai curry paste has tonnes more flavour that shop-bought versions. Make double the recipe and freeze half for later.",
     "author": {
         "jo_pratt": "Jo' Pratt"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "When your curry is cooked, if you think it is too spicy, add some more sugar; if it isn't spicy enough, fry a little more curry paste in some oil for a minute or two and add to the sauce."
+    "cookTime": "no cooking required",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "Homemade Thai curry paste has tonnes more flavour that shop-bought versions. Make double the recipe and freeze half for later.",
+    "dishes": [
+        "bun",
+        "curry",
+        "curry_paste",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/greencurrypaste_67789_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -38,11 +39,18 @@
             "3 tbsp olive oil"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "34",
+    "serves": "Serves 8",
+    "show": {
+        
+    },
     "steps": [
         "Place all of the ingredients in a food processor and blitz to a paste. Use straight away or store in a jar in the fridge for up to 3 weeks. This quantity is enough for a curry for 8 people."
     ],
-    "howTos": [
-        
+    "tips": [
+        "When your curry is cooked, if you think it is too spicy, add some more sugar; if it isn't spicy enough, fry a little more curry paste in some oil for a minute or two and add to the sauce."
     ],
+    "title": "Green curry paste",
     "videos": "[]"
 }

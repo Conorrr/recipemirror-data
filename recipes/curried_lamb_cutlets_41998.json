@@ -1,23 +1,21 @@
 {
-    "title": "Curried lamb cutlets with tomatoes and green sauce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This tasty and simple recipe takes a little time but very little actual work. If you can't get hold of lamb cutlets, use regular chops instead.",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "This tasty and simple recipe takes a little time but very little actual work. If you can't get hold of lamb cutlets, use regular chops instead.",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce",
+        "slow-cooked_dishes"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -35,13 +33,6 @@
             "2 lemons, juice only",
             "8 lamb cutlets"
         ],
-        "For the slow-roasted tomatoes": [
-            "6 plum tomatoes",
-            "50g/1\u00beoz unsalted butter",
-            "\u00bd tsp salt",
-            "1 tbsp red wine vinegar",
-            "30g/1oz brown sugar"
-        ],
         "For the green sauce": [
             "2 tbsp chopped fresh tarragon",
             "2 tbsp chopped fresh coriander",
@@ -50,10 +41,23 @@
             "1 tsp red wine vinegar",
             "4-6 tbsp olive oil"
         ],
+        "For the slow-roasted tomatoes": [
+            "6 plum tomatoes",
+            "50g/1\u00beoz unsalted butter",
+            "\u00bd tsp salt",
+            "1 tbsp red wine vinegar",
+            "30g/1oz brown sugar"
+        ],
         "To serve": [
             "50g/1\u00beoz toasted slivered almonds",
             "1 lemon, cut in quarters"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the lamb cutlets, put all the ingredients except the lamb into a pestle and mortar. Grind to a paste. Rub the paste all over the lamb cutlets and place in the fridge to marinate for at least an hour.",
@@ -63,8 +67,9 @@
         "For the green sauce, mix all the ingredients together in a bowl.",
         "To serve, place the slow roasted tomatoes onto serving plates and top with the green sauce. Place the lamb next to the tomatoes and scatter with toasted almonds. Serve a wedge of lemon on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Curried lamb cutlets with tomatoes and green sauce",
     "videos": "[]"
 }

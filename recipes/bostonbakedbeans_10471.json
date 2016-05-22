@@ -1,24 +1,26 @@
 {
-    "title": "Boston baked beans",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4-6",
-    "recommendations": "10",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bostonbakedbeans_10471_16x9.jpg"
-    ],
-    "description": "These Boston baked beans from Hugh Fearnley-Whittingstall are great on toast.",
     "author": {
         "hugh_fearnley-whittingstall": "Hugh Fearnley-Whittingstall"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "To cook this recipe in a slow cooker, boil the soaked beans for 10 minutes, then add them to the slow cooker with the remaining ingredients and cook on high for 6-8 hours."
+    "cookTime": "over 2 hours",
+    "cusine": "American",
+    "description": "These Boston baked beans from Hugh Fearnley-Whittingstall are great on toast.",
+    "dishes": [
+        "bread",
+        "casserole",
+        "oven-baked_dishes",
+        "pie",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bostonbakedbeans_10471_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -33,6 +35,12 @@
             "salt"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "10",
+    "serves": "Serves 4-6",
+    "show": {
+        
+    },
     "steps": [
         "Soak the beans overnight in plenty of fresh cold water.",
         "Preheat the oven to 140C/275F/Gas 1.",
@@ -43,8 +51,9 @@
         "Serve on it's own, with crusty bread (or on toast), as a snack or light meal.",
         "The baked beans will keep in the fridge, in a sealed jar or tupperware container, for two weeks. You can also freeze any leftovers."
     ],
-    "howTos": [
-        
+    "tips": [
+        "To cook this recipe in a slow cooker, boil the soaked beans for 10 minutes, then add them to the slow cooker with the remaining ingredients and cook on high for 6-8 hours."
     ],
+    "title": "Boston baked beans",
     "videos": "[]"
 }

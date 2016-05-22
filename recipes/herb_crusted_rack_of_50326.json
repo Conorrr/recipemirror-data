@@ -1,23 +1,24 @@
 {
-    "title": "Herb crusted rack of lamb with dauphinoise potatoes and a spinach and basil timbale",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "This smart-looking roast is easier than it sounds and the herbs give a freshness to the rich lamb and creamy potatoes.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "This smart-looking roast is easier than it sounds and the herbs give a freshness to the rich lamb and creamy potatoes.",
+    "dishes": [
+        "bread",
+        "gravy",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "roast_lamb"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -29,6 +30,15 @@
             "300ml/10fl oz full-fat milk",
             "300ml/10fl oz double cream"
         ],
+        "For the herb crusted rack of lamb": [
+            "2 x 6-bone racks of lamb, French trimmed",
+            "2 tbsp olive oil",
+            "5 tbsp fresh breadcrumbs",
+            "1 tbsp chopped flatleaf parsley",
+            "1 tbsp chopped basil",
+            "1 tbsp chopped chives",
+            "1 tbsp English mustard"
+        ],
         "For the spinach and basil timbale": [
             "butter, for greasing",
             "10g/\u2153oz baby spinach leaves, wilted",
@@ -38,16 +48,13 @@
             "4 tbsp double cream",
             "1 tbsp parsley, chopped",
             "gravy, to serve"
-        ],
-        "For the herb crusted rack of lamb": [
-            "2 x 6-bone racks of lamb, French trimmed",
-            "2 tbsp olive oil",
-            "5 tbsp fresh breadcrumbs",
-            "1 tbsp chopped flatleaf parsley",
-            "1 tbsp chopped basil",
-            "1 tbsp chopped chives",
-            "1 tbsp English mustard"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 160C/325F/Gas 3.",
@@ -66,8 +73,9 @@
         "Place the lamb back in the oven for 12-14 minutes, or until cooked to your liking. Then remove and set aside to rest for at least five minutes before carving.",
         "To serve, carve the racks of lamb. Place a portion of potatoes and a timbale on each plate along with three pieces of the lamb. Serve with gravy."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Herb crusted rack of lamb with dauphinoise potatoes and a spinach and basil timbale",
     "videos": "[]"
 }

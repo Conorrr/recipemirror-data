@@ -1,24 +1,29 @@
 {
-    "title": "Mulligatawny soup",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-5",
-    "recommendations": "42",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mulligatawny_soup_68949_16x9.jpg"
-    ],
-    "description": "A richly flavoured soup, spiced with curry powder. Perfect for a cold day, serve with a dollop of tangy sour cream. This meal, if served as five portions, provides 245kcal, 5g protein, 36g carbohydrate (of which 12g sugars), 8g fat (of which 3.5g saturates), 5g fibre and 0.4g salt per portion.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        "If making for a gluten free diet, please check the stock packaging to ensure it\u2019s gluten free before using. If making for a vegetarian diet, use vegetable stock."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "A richly flavoured soup, spiced with curry powder. Perfect for a cold day, serve with a dollop of tangy sour cream. This meal, if served as five portions, provides 245kcal, 5g protein, 36g carbohydrate (of which 12g sugars), 8g fat (of which 3.5g saturates), 5g fibre and 0.4g salt per portion.",
+    "dishes": [
+        "chutney",
+        "crumble",
+        "curry",
+        "pie",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock",
+        "vegetable_soup"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mulligatawny_soup_68949_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -41,6 +46,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "42",
+    "serves": "Serves 4-5",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
+    },
     "steps": [
         "Melt the butter with the oil in a large saucepan and stir in the onion, garlic, carrots, celery and sweet potato. Cook over a medium heat for 10 minutes, stirring regularly until the vegetables are beginning to soften and brown lightly. Stir in the apple pieces and sprinkle over the curry powder. Cook for a further 2 minutes more, stirring as it cooks.",
         "Crumble the stock cube into a measuring jug, and pour over the boiling water. Mix to combine. Pour into the pan, and stir in the tomato pur\u00e9e and mango chutney. Bring to the boil, then reduce the heat slightly and leave to simmer for 30 minutes, stirring occasionally . Cook until the vegetables are tender.",
@@ -49,8 +60,9 @@
         "Add enough water to give a good consistency, (about 150-200ml/5\u00bd-7fl oz). Heat the soup for 3\u20134 minutes until piping hot and check the seasoning, add salt and freshly ground black pepper to taste.",
         "Ladle the soup into deep bowls and top each with a spoonful of natural yoghurt or soured cream. Garnish with sprigs of coriander or flat-leaf parsley if you like."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If making for a gluten free diet, please check the stock packaging to ensure it\u2019s gluten free before using. If making for a vegetarian diet, use vegetable stock."
     ],
+    "title": "Mulligatawny soup",
     "videos": "[]"
 }

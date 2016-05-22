@@ -1,24 +1,22 @@
 {
-    "title": "Potato salad with lovage",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Potatoes love lovage: this celery-like garden herb is a match made in heaven with new potatoes.",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Potatoes love lovage: this celery-like garden herb is a match made in heaven with new potatoes.",
+    "dishes": [
+        "mayonnaise",
+        "potato_salad",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -41,14 +39,21 @@
             "salt"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
+    },
     "steps": [
         "Put the egg yolks, mustard, lemon juice and white wine vinegar into a blender and blend to combine.",
         "Combine the oils in a jug and carefully add to the blender in a thin trickle, blending continuously until the mixture has emulsified into mayonnaise.",
         "Pour the mixture out into a bowl and add the chopped cornichons, black pepper, capers, garlic, anchovy fillets, dill, tarragon, lovage, onion and potatoes.",
         "Mix all together and add salt to taste."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Potato salad with lovage",
     "videos": "[]"
 }

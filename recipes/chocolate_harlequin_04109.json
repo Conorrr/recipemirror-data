@@ -1,41 +1,47 @@
 {
-    "title": "Chocolate harlequin biscuits",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_harlequin_04109_16x9.jpg"
-    ],
-    "description": "A great addition to the Christmas biscuit lexicon, these buttery biscuits are begging to be dipped in melted chocolate.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A great addition to the Christmas biscuit lexicon, these buttery biscuits are begging to be dipped in melted chocolate.",
+    "dishes": [
+        "biscuit",
+        "icing",
+        "oven-baked_dishes",
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_harlequin_04109_16x9.jpg"
+    ],
     "ingredients": {
+        "For the chocolate dough": [
+            "150g/5oz plain flour",
+            "25g/1oz cocoa powder",
+            "150g/5oz butter, cubed"
+        ],
         "For the vanilla dough": [
             "175g/6oz plain flour, sifted",
             "75g/3oz icing sugar",
             "150g/5oz butter, cubed",
             "dash vanilla extract"
         ],
-        "For the chocolate dough": [
-            "150g/5oz plain flour",
-            "25g/1oz cocoa powder",
-            "150g/5oz butter, cubed"
-        ],
         "To serve": [
             "milk chocolate, for dipping",
             "vanilla ice cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 170C/325F/Gas 3. Grease and line an 18cm/6in square tin with baking parchment.",
@@ -46,8 +52,9 @@
         "Meanwhile, melt the chocolate in a glass bowl set over a saucepan of simmering water.",
         "Serve with ice cream and the chocolate dip."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chocolate harlequin biscuits",
     "videos": "[]"
 }

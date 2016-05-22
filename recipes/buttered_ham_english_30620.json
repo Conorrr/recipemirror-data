@@ -1,26 +1,32 @@
 {
-    "title": "Buttered ham, English asparagus and parsley",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Here\u2019s a fabulous spring brunch dish for two. Simple and delicious.",
     "author": {
         "tom_kerridge": "Tom Kerridge"
     },
-    "show": {
-        "b0424667": "Spring Kitchen with Tom Kerridge"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "British",
+    "description": "Here\u2019s a fabulous spring brunch dish for two. Simple and delicious.",
+    "dishes": [
+        "bread",
+        "bun",
+        "chips",
+        "ham",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the potato fries": [
+            "3 small Maris Piper potatoes, cut into very thin strips",
+            "vegetable oil for deep fat frying"
+        ],
         "default": [
             "75g/2\u00bdoz unsalted butter",
             "2 x 150g/5\u00bdoz pieces of ham, cut into 2\u00bdcm/1in thick slices",
@@ -29,11 +35,13 @@
             "2 tbsp sunflower oil",
             "2 free-range eggs",
             "salt and pepper"
-        ],
-        "For the potato fries": [
-            "3 small Maris Piper potatoes, cut into very thin strips",
-            "vegetable oil for deep fat frying"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b0424667": "Spring Kitchen with Tom Kerridge"
     },
     "steps": [
         "Add 200-300ml/7-10fl oz water to a pan with the butter. Bring up to the boil, drop in the ham and warm through. Once the volume of liquid has reduced by half and has started to emulsify, add the asparagus and carefully remove the ham. Cook the asparagus for one minute in the emulsified liquor.",
@@ -43,8 +51,9 @@
         "Meanwhile, heat a small frying pan and add the oil. Once hot, add the eggs and fry to your liking.",
         "To serve, put the warm ham onto each of two serving plates, and pile the asparagus next the ham. Taste the ham cooking sauce and season with salt and pepper as necessary. Spoon the sauce over the ham and asparagus and top with a fried egg and a small pile of chips."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Buttered ham, English asparagus and parsley",
     "videos": "[]"
 }

@@ -1,26 +1,30 @@
 {
-    "title": "Bruno Loubet\u2019s bean and vegetable chilli",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "11",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bruno_loubets_bean_and_68770_16x9.jpg"
-    ],
-    "description": "The list of ingredients here may look long and daunting but I promise you, the recipe is very simple \u2013 a one-pot wonder. This recipe was kindly given to me by a great chef \u2013 Bruno Loubet \u2013 who worked with me for many years. Risking Bruno\u2019s wrath, I made a few changes to the recipe. I hope he will forgive my boldness and see the wisdom of an older man. This meal, when served as eight portions, provides 359kcal, 9g protein, 46g carbohydrate (of which 15g sugars), 13g fat (of which 2g saturates), 8g fibre and 1.8g salt per portion.",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b05n91p4": "Kew on a Plate"
-    },
-    "tips": [
-        "Brown basmati rice will have more fibre and flavour than white."
+    "cookTime": "30 mins to 1 hour",
+    "description": "The list of ingredients here may look long and daunting but I promise you, the recipe is very simple \u2013 a one-pot wonder. This recipe was kindly given to me by a great chef \u2013 Bruno Loubet \u2013 who worked with me for many years. Risking Bruno\u2019s wrath, I made a few changes to the recipe. I hope he will forgive my boldness and see the wisdom of an older man. This meal, when served as eight portions, provides 359kcal, 9g protein, 46g carbohydrate (of which 15g sugars), 13g fat (of which 2g saturates), 8g fibre and 1.8g salt per portion.",
+    "dishes": [
+        "sauce",
+        "soup",
+        "stir-fries",
+        "vegetable_soup"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bruno_loubets_bean_and_68770_16x9.jpg"
+    ],
     "ingredients": {
+        "For the rice": [
+            "100g/3\u00bdoz flageolet beans",
+            "260g/9\u00bdoz brown basmati rice",
+            "1 bay leaf"
+        ],
         "For the toasted spices": [
             "1\u00bd tsp ground coriander",
             "1\u00bd tsp ground cumin",
@@ -39,10 +43,10 @@
             "100ml/3\u00bdfl oz rapeseed oil",
             "large pinch sea salt"
         ],
-        "For the rice": [
-            "100g/3\u00bdoz flageolet beans",
-            "260g/9\u00bdoz brown basmati rice",
-            "1 bay leaf"
+        "To finish": [
+            "40g/1\u00bdoz chocolate (100 per cent cocoa solids), finely grated",
+            "10g coriander leaves, roughly chopped",
+            "salt and freshly ground black pepper"
         ],
         "To finish the chilli": [
             "100g/3\u00bdoz tomato pur\u00e9e",
@@ -51,12 +55,13 @@
             "1 x 240g tin red kidney beans (drained weight)",
             "100g/3\u00bdoz brown sauce",
             "2 tbsp Worcestershire sauce"
-        ],
-        "To finish": [
-            "40g/1\u00bdoz chocolate (100 per cent cocoa solids), finely grated",
-            "10g coriander leaves, roughly chopped",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 6-8",
+    "show": {
+        "b05n91p4": "Kew on a Plate"
     },
     "steps": [
         "For the toasted spices, in a dry frying pan over a low\u2013medium heat, cook the spices for a minute \u2013 taking care to ensure you don\u2019t burn them (you just want to extract the essential oils). Set aside.",
@@ -67,8 +72,9 @@
         "While the chilli is cooking, cook the brown rice in the flageolet bean cooking liquor with the bay leaf and simmer for 15\u201320 minutes, covered with a lid. Depending on the variety of rice, it may take a few more minutes. Once cooked, drain off any excess liquid and transfer to serving dishes.",
         "To finish, stir in the grated chocolate. Taste and season with salt and pepper as required. Serve the chilli with the chopped coriander and brown rice alongside."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Brown basmati rice will have more fibre and flavour than white."
     ],
+    "title": "Bruno Loubet\u2019s bean and vegetable chilli",
     "videos": "[]"
 }

@@ -1,34 +1,30 @@
 {
-    "title": "Beef and onion pie with cheese crust",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Beef and onion pie is good - with a cheddar cheese crust its fantastic. This recipe uses budget-friendly minced beef.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Beef and onion pie is good - with a cheddar cheese crust its fantastic. This recipe uses budget-friendly minced beef.",
+    "dishes": [
+        "bread",
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "225/8oz plain flour, plus extra for dusting",
-            "75g/2\u00beoz chilled butter, cut into cubes, plus extra for greasing",
-            "pinch salt",
-            "75g/2\u00beoz mature Lancashire cheese, or similar mature crumbly cheese, grated",
-            "4 tbsp water",
-            "1 free-range egg yolk"
-        ],
         "For the filling": [
             "1-2 tbsp vegetable oil",
             "250g/9oz beef mince",
@@ -40,10 +36,24 @@
             "splash bitter ale",
             "1 free-range egg, beaten"
         ],
+        "For the pastry": [
+            "225/8oz plain flour, plus extra for dusting",
+            "75g/2\u00beoz chilled butter, cut into cubes, plus extra for greasing",
+            "pinch salt",
+            "75g/2\u00beoz mature Lancashire cheese, or similar mature crumbly cheese, grated",
+            "4 tbsp water",
+            "1 free-range egg yolk"
+        ],
         "To serve": [
             "mashed potatoes",
             "brown sauce"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the pastry, blend the flour, butter cubes and salt in a food processor until the mixture resembles breadcrumbs.",
@@ -59,9 +69,9 @@
         "Brush the rim of the pie case with a little of the egg wash. Place the pastry disc on top of the pie and press the edges together. Brush the pie lid all over with the remaining beaten egg. Prick the pastry all over several times with a fork.",
         "Bake the pie in the oven for 35-40 minutes, or until the pastry is crisp and pale golden-brown. Serve with mashed potatoes and brown sauce."
     ],
-    "howTos": [
-        "kneading",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Beef and onion pie with cheese crust",
     "videos": "[]"
 }

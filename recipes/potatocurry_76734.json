@@ -1,26 +1,26 @@
 {
-    "title": "Potato curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "curry",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "Greek yoghurt"
+        ],
         "default": [
             "1 tbsp olive oil",
             "\u00bd onion, peeled and diced",
@@ -30,10 +30,13 @@
             "few cardamom pods, crushed",
             "1 tbsp sugar",
             "splash of red wine vinegar"
-        ],
-        "To serve": [
-            "Greek yoghurt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat the oil in a pan and saut\u00e9 the onion for 2-3 minutes, to soften. Add the potato and heat for a further few minutes.",
@@ -41,8 +44,9 @@
         "Pour in the vinegar and reduce the heat and simmer for 10-12 minutes, until the potato is tender.",
         "Spoon into a serving dish and serve with a dollop of yoghurt."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Potato curry",
     "videos": "[]"
 }

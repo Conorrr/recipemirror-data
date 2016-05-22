@@ -1,30 +1,34 @@
 {
-    "title": "Braised fillet of turbot",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b00qzgjt": "Series 1"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "julienne"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the vegetable garnish": [
-            "\u00bd cucumber (cut lengthways), peeled, seeds scooped out with a spoon, julienned using a mandoline",
-            "\u00bd tsp sea salt",
-            "20g/\u00beoz unsalted butter"
+        "For the sauce": [
+            "200ml/7fl oz strained cooking liquid (from the turbot)",
+            "40g/1\u00bdoz butter",
+            "80g/3oz girolle mushrooms, halved lengthways",
+            "100g/3\u00bdoz wakame seaweed (available at specialist Japanese supermarkets)",
+            "200g/7oz ripe tomatoes, cut into quarters, seeds removed, flesh finely diced",
+            "2 tbsp chopped fresh chervil, plus extra to serve",
+            "2 tbsp chopped fresh chives, plus extra to serve",
+            "2 tbsp chopped fresh micro herbs, plus extra to serve",
+            "\u00bc lemon, juice only",
+            "200g/7oz young spinach leaves, washed, to serve"
         ],
         "For the turbot": [
             "40g/1\u00bdoz unsalted butter",
@@ -38,18 +42,17 @@
             "120g/4\u00bcoz button mushrooms, washed, sliced",
             "120ml/4\u00bcfl oz dry aromatic white wine, such as Gew\u00fcrtztraminer"
         ],
-        "For the sauce": [
-            "200ml/7fl oz strained cooking liquid (from the turbot)",
-            "40g/1\u00bdoz butter",
-            "80g/3oz girolle mushrooms, halved lengthways",
-            "100g/3\u00bdoz wakame seaweed (available at specialist Japanese supermarkets)",
-            "200g/7oz ripe tomatoes, cut into quarters, seeds removed, flesh finely diced",
-            "2 tbsp chopped fresh chervil, plus extra to serve",
-            "2 tbsp chopped fresh chives, plus extra to serve",
-            "2 tbsp chopped fresh micro herbs, plus extra to serve",
-            "\u00bc lemon, juice only",
-            "200g/7oz young spinach leaves, washed, to serve"
+        "For the vegetable garnish": [
+            "\u00bd cucumber (cut lengthways), peeled, seeds scooped out with a spoon, julienned using a mandoline",
+            "\u00bd tsp sea salt",
+            "20g/\u00beoz unsalted butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b00qzgjt": "Series 1"
     },
     "steps": [
         "For the vegetable garnish, place the julienned cucumber into a large bowl. Sprinkle over the salt and mix together until the salt coats the cucumber evenly.",
@@ -67,8 +70,9 @@
         "Add the girolle mushrooms, wakame seaweed, wilted cucumber, tomatoes, chervil, chives and microleaves. Squeeze over the lemon juice. Mix well and heat through for 1-2 minutes.",
         "To serve, place a handful of spinach leaves into the centre of each of 4 serving plates. Place one steamed turbot fillet and two scallop halves on top of each portion of spinach. Spoon the wakame seaweed, wilted cucumber, tomatoes and girolle mushrooms over and around the fish. Drizzle over the sauce, then sprinkle over more of the herbs."
     ],
-    "howTos": [
-        "julienne"
+    "tips": [
+        
     ],
+    "title": "Braised fillet of turbot",
     "videos": "[]"
 }

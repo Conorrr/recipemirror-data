@@ -1,26 +1,30 @@
 {
-    "title": "Spinach soup with a soft poached egg",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the poached egg": [
+            "1 free-range egg",
+            "75ml/2\u00bdfl oz white wine vinegar",
+            "freshly ground black pepper, to serve"
+        ],
         "For the spinach soup": [
             "1 tbsp olive oil",
             "\u00bd onion, finely chopped",
@@ -28,20 +32,22 @@
             "150g/5\u00bdoz baby spinach",
             "300ml/10fl oz vegetable stock",
             "100ml/3\u00bdfl oz double cream"
-        ],
-        "For the poached egg": [
-            "1 free-range egg",
-            "75ml/2\u00bdfl oz white wine vinegar",
-            "freshly ground black pepper, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the soup, heat the oil in a pan and gently fry the onion and garlic for 2-3 minutes. Add half of the spinach and the vegetable stock and simmer for 4-5 minutes. Add the cream and heat through, then stir through the remaining spinach. Using a hand-held blender, blend the soup until smooth.",
         "For the poached egg, pour the white wine vinegar into a non-reactive pan with 150ml/5fl oz boiling water, bring to a gentle boil and stir to create a 'whirlpool'. Crack the egg into the middle of the 'whirlpool' and cook for 2-3 minutes, or until the white has just set. Remove with a slotted spoon and drain on kitchen paper.",
         "To serve, pour the soup into a warm serving bowl and place the poached egg into the centre. Season with freshly ground black pepper."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Spinach soup with a soft poached egg",
     "videos": "[]"
 }

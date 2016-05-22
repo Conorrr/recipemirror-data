@@ -1,31 +1,25 @@
 {
-    "title": "Steamed sole with garlic, spring onions and ginger",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ken_hom": "Ken Hom"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Chinese",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "chiffonade"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 fillets of sole (about 450g/16oz)",
-            "1 tsp coarse sea salt or plain salt",
-            "1\u00bd tbsp finely shredded fresh ginger"
-        ],
         "For the garnish": [
             "3 tbsp finely shredded spring onions",
             "1 tbsp light soy sauce",
@@ -50,7 +44,18 @@
             "2 tsp whole yellow bean sauce",
             "2 tbsp Shaoxing rice wine or dry sherry",
             "5 tbsp Chicken Stock or water"
+        ],
+        "default": [
+            "4 fillets of sole (about 450g/16oz)",
+            "1 tsp coarse sea salt or plain salt",
+            "1\u00bd tbsp finely shredded fresh ginger"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Pat the fish or fish fillets dry with kitchen paper.",
@@ -68,8 +73,9 @@
         "Add the rest of the ingredients and the drained noodles and stir fry for about three minutes until it is well mixed and heated through.",
         "Serve at once."
     ],
-    "howTos": [
-        "chiffonade"
+    "tips": [
+        
     ],
+    "title": "Steamed sole with garlic, spring onions and ginger",
     "videos": "[]"
 }

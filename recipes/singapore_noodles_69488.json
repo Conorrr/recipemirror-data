@@ -1,24 +1,25 @@
 {
-    "title": "Singapore noodles",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "62",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/singapore_noodles_69488_16x9.jpg"
-    ],
-    "description": "Here\u2019s our version of the classic dish, using marinated pork fillet and prawns.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "Here\u2019s our version of the classic dish, using marinated pork fillet and prawns.",
+    "dishes": [
+        "curry",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/singapore_noodles_69488_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -39,6 +40,12 @@
             "10 spring onions, trimmed and sliced diagonally"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "62",
+    "serves": "Serves 4",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
+    },
     "steps": [
         "Put the pork fillet in a bowl and pour over the soy sauce and sherry. Stir in the sugar and five spice powder and leave to stand for 30 minutes, turning in the marinade every ten minutes.",
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -47,8 +54,9 @@
         "Place a large heavy-based frying pan or wok over a medium heat. Add two tablespoons of the oil and stir-fry the onion, red pepper and mushrooms for 5-6 minutes or until beginning to soften and lightly colour. Add the garlic and ginger and stir-fry for one minute. Sprinkle the curry powder into the pan and cook for two further minutes.",
         "Cut the pork lengthways in half and then slice into thin pieces. Add the pork to the hot pan along with the prawns and spring onions. Stir-fry for one minute then add the drained noodles and reserved marinade. Mix together with chopsticks, or a couple of forks, for 2-3 minutes until piping hot. Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Singapore noodles",
     "videos": "[]"
 }

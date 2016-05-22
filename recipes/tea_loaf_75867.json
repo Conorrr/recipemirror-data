@@ -1,26 +1,31 @@
 {
-    "title": "Tea loaf",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 1 loaf",
-    "recommendations": "8",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/tea_loaf_75867_16x9.jpg"
-    ],
-    "description": "This fruit-enriched bread made with dried fruit, cinnamon and orange zest makes a wonderful afternoon tea loaf drizzled in icing sugar and slathered in butter.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "This fruit-enriched bread made with dried fruit, cinnamon and orange zest makes a wonderful afternoon tea loaf drizzled in icing sugar and slathered in butter.",
+    "dishes": [
+        "bread",
+        "icing",
+        "oven-baked_dishes",
+        "sausage",
+        "tea_bread"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/tea_loaf_75867_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "200g/7oz icing sugar",
+            "butter, to taste"
+        ],
         "default": [
             "400g/14oz strong bread flour, plus extra for dusting",
             "1\u00bd tsp salt",
@@ -32,11 +37,13 @@
             "60g/2\u00bcoz glac\u00e9 cherries",
             "1 tsp ground cinnamon",
             "3 oranges, zest only"
-        ],
-        "To serve": [
-            "200g/7oz icing sugar",
-            "butter, to taste"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "8",
+    "serves": "Makes 1 loaf",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Put the flour, salt, sugar, butter, yeast, milk and 120ml/4fl oz of water into a bowl and mix together with your hands.",
@@ -50,8 +57,9 @@
         "While the loaf is cooling, make the water icing. Tip the icing sugar into a bowl, add a little water and mix well to form a paste. Gradually add more water until the icing is just thick enough to coat the back of a spoon.",
         "Drizzle or spread the icing over the top of the tea loaf. Cut into slices and eat with lashings of butter."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tea loaf",
     "videos": "[]"
 }

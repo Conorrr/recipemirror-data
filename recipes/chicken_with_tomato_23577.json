@@ -1,24 +1,23 @@
 {
-    "title": "Chicken with tomato sauce",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_with_tomato_23577_16x9.jpg"
-    ],
-    "description": "This quick and easy one-pot dish - all cooked in the microwave - is perfect for a midweek meal and is delicious with a jacket potato, pasta or rice and a green salad.",
     "author": {
         "lets_get_cooking": "Let's Get Cooking"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "This quick and easy one-pot dish - all cooked in the microwave - is perfect for a midweek meal and is delicious with a jacket potato, pasta or rice and a green salad.",
+    "dishes": [
+        "pasta",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_with_tomato_23577_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,6 +35,12 @@
             "1 tsp vinegar (balsamic or red wine)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Arrange the chicken fillets in a large microwave-safe dish using a fork and grind over some black pepper, if using. Drizzle with the oil and tuck in the fresh herbs or sprinkle with the dried herbs. Wash your hands.",
         "Cover with a lid or cling film, leaving a small area open, and cook on full power for two minutes. Remove the dish, peel back the cling film and turn the chicken so that any cooked parts on the outside are in the centre. Re-cover and cook for another minute.",
@@ -49,8 +54,9 @@
         "Re-cover and cook on full power for another five minutes.",
         "Remove the dish and leave to stand for two minutes. Carefully peel back the cling film and check that all the chicken is thoroughly cooked (no pink in the middle). If not, re-cover and cook for another 1\u20132 minutes each time until cooked."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken with tomato sauce",
     "videos": "[]"
 }

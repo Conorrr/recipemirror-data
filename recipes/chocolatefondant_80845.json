@@ -1,26 +1,33 @@
 {
-    "title": "Chocolate fondant",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "jam",
+        "oven-baked_dishes",
+        "sandwich",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "55g/2oz sugar",
+            "100g/3\u00bdoz butter",
+            "100g/3\u00bdoz hazelnuts, chopped",
+            "55ml/2fl oz double cream"
+        ],
         "default": [
             "100g/3\u00bdoz butter, plus extra for greasing",
             "100g/3\u00bdoz sugar",
@@ -28,13 +35,13 @@
             "1 free-range egg yolk",
             "2 free-range eggs",
             "75g/2\u00beoz good quality chocolate, melted"
-        ],
-        "For the sauce": [
-            "55g/2oz sugar",
-            "100g/3\u00bdoz butter",
-            "100g/3\u00bdoz hazelnuts, chopped",
-            "55ml/2fl oz double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -45,8 +52,9 @@
         "For the sauce, place the sugar and butter into a small pan over a medium heat. Heat until golden and caramelised, then add the hazelnuts and stir well to coat. Add the cream and stir well.",
         "Allow the fondant to cool slightly, then carefully remove from the sandwich tin. Spoon over the sauce and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chocolate fondant",
     "videos": "[]"
 }

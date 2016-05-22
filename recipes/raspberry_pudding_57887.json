@@ -1,24 +1,23 @@
 {
-    "title": "Raspberry pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8-10",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "This simple and utterly delicious baked pudding works best with freshly picked raspberries.",
     "author": {
         "tamsin_borlase": "Tamsin Borlase"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This simple and utterly delicious baked pudding works best with freshly picked raspberries.",
+    "dishes": [
+        "crumble",
+        "icing",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,6 +29,12 @@
             "double cream, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 8-10",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6 and grease a 20cm/8in springform tin with butter.",
         "To make the base and topping of the pudding, use your fingers to rub the butter into the flour. Stir in the sugar.",
@@ -40,8 +45,9 @@
         "Remove from the oven and further compress the pudding by placing a plate or pan on top filled with weights. A couple of tins would do the trick. Set aside to cool.",
         "When cooled, remove the pudding from the tin and dust with icing sugar. Serve with fresh raspberries and double cream."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Raspberry pudding",
     "videos": "[]"
 }

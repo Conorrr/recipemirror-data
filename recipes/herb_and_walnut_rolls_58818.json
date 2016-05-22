@@ -1,26 +1,29 @@
 {
-    "title": "Herb and walnut rolls",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 8",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "These herby rolls are brilliant with cheese. You could add a little mustard powder to give them extra bite.",
     "author": {
         "mary_anne_boerman": "Mary-Anne Boermans"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "These herby rolls are brilliant with cheese. You could add a little mustard powder to give them extra bite.",
+    "dishes": [
+        "bread",
+        "bread_roll",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the glaze": [
+            "small handful chopped fresh herbs (such as flatleaf parsley, sage, rosemary, thyme)",
+            "1 free-range egg",
+            "1 tbsp water"
+        ],
         "default": [
             "300g/10\u00bdoz brown bread flour",
             "200g/7oz spelt flour",
@@ -36,12 +39,13 @@
             "2 tbsp sugar",
             "3 tbsp vegetable oil",
             "200g/7oz walnuts, roughly chopped"
-        ],
-        "For the glaze": [
-            "small handful chopped fresh herbs (such as flatleaf parsley, sage, rosemary, thyme)",
-            "1 free-range egg",
-            "1 tbsp water"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Makes 8",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Mix the flours with the salt in a large bowl then add the herbs and the yeast and make a well in the centre. Mix together the water, sugar and oil, pour into the flour then mix until ingredients come together to form a dough \u2013 you may need to add a little more water.",
@@ -49,8 +53,9 @@
         "Preheat the oven to 200C/400F/Gas 6. Knead the walnuts into the dough. Divide the dough onto eight portions, shape into rolls and place onto a greased baking sheet.",
         "For the glaze, blanch the herbs in boiling water for a few seconds then refresh in iced water. Mix together the egg and water. Brush the rolls with the egg mixture, arrange the herbs on top and brush with the glaze again. Bake in the oven for 12 \u2013 15 minutes or until the bottoms of the rolls sound hollow when tapped."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Herb and walnut rolls",
     "videos": "[]"
 }

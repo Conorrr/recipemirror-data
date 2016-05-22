@@ -1,24 +1,22 @@
 {
-    "title": "Blue cheese souffl\u00e9",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "crumble",
+        "oven-baked_dishes",
+        "souffle"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +29,12 @@
             "freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "Mix the egg yolks with the blue cheese in a bowl.",
@@ -38,8 +42,9 @@
         "Heat the butter and the oil in a 20cm/6in ovenproof frying pan, until the butter is foaming. Pour the cheese and egg mixture into the pan and transfer to the oven to bake for 8-10 minutes, or until puffed up and cooked through.",
         "Sprinkle with black pepper and serve immediately."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Blue cheese souffl\u00e9",
     "videos": "[]"
 }

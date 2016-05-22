@@ -1,35 +1,30 @@
 {
-    "title": "Chicken 'doner' kebab",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b007zn94": "Take on the Takeaway"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Turkish_and_Middle_Eastern",
+    "description": "",
+    "dishes": [
+        "flatbread",
+        "kebab",
+        "pie",
+        "salad",
+        "sauce",
+        "stir-fries",
+        "stock",
+        "wraps"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 chicken breasts, skin removed",
-            "salt and freshly ground black pepper",
-            "1 tsp olive oil",
-            "\u00bd chicken stock cube dissolved in 125ml/4\u00bdfl oz hot water, to make stock",
-            "30g/1oz butter",
-            "\u00bd lemon, juice only",
-            "2 large tortilla wraps or Turkish flatbreads"
-        ],
         "For the dressing": [
             "150ml/5\u00bdfl oz Greek-style yoghurt",
             "1 tbsp chopped fresh mint, plus extra to garnish"
@@ -39,7 +34,22 @@
             "1 large carrot, grated",
             "1 tomato, sliced",
             "chilli or tahini sauce, to taste"
+        ],
+        "default": [
+            "2 chicken breasts, skin removed",
+            "salt and freshly ground black pepper",
+            "1 tsp olive oil",
+            "\u00bd chicken stock cube dissolved in 125ml/4\u00bdfl oz hot water, to make stock",
+            "30g/1oz butter",
+            "\u00bd lemon, juice only",
+            "2 large tortilla wraps or Turkish flatbreads"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 2",
+    "show": {
+        "b007zn94": "Take on the Takeaway"
     },
     "steps": [
         "Slice each chicken breast into 5-6 long strips and season with salt and freshly ground black pepper.",
@@ -49,8 +59,9 @@
         "For the dressing, mix the yoghurt and chopped mint into a clean bowl and mix well.",
         "To serve, divide the chicken pieces between the flatbreads. Stuff with fresh grated carrot, mixed salad leaves, sliced tomato and any sauces. Dollop on the yoghurt dressing."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken 'doner' kebab",
     "videos": "[]"
 }

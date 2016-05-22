@@ -1,26 +1,30 @@
 {
-    "title": "Chicken stuffed with cheese, wrapped in Parma ham with sweet potato mash",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "ham",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the broccoli": [
+            "2 tbsp olive oil",
+            "\u00bd onion, sliced",
+            "150g/6oz broccoli, sliced",
+            "\u00bd tsp chilli flakes"
+        ],
         "For the stuffed chicken": [
             "1 chicken thigh, bone removed",
             "50g/2oz cambozola cheese",
@@ -33,13 +37,13 @@
             "50ml/2fl oz double cream",
             "Salt and freshly ground black pepper",
             "1 tbsp fresh chopped parsley"
-        ],
-        "For the broccoli": [
-            "2 tbsp olive oil",
-            "\u00bd onion, sliced",
-            "150g/6oz broccoli, sliced",
-            "\u00bd tsp chilli flakes"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/390F/Gas 6.",
@@ -50,8 +54,9 @@
         "Add the broccoli and chilli and cook for a further five minutes.",
         "To serve, place the mash on the middle of the plate and top with the chicken. Serve the broccoli on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken stuffed with cheese, wrapped in Parma ham with sweet potato mash",
     "videos": "[]"
 }

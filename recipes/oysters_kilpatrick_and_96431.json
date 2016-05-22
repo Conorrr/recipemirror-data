@@ -1,28 +1,31 @@
 {
-    "title": "Oysters Kilpatrick and Rockefeller",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "These cooked oyster dishes are a technical challenge for any keen cook, but are divine to eat.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "These cooked oyster dishes are a technical challenge for any keen cook, but are divine to eat.",
+    "dishes": [
+        "brioche",
+        "sauce",
+        "seafood",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "6 fresh oysters, shucked, shells and juices reserved"
+        "For the oysters Kilpatrick": [
+            "100g brioche crumbs",
+            "2 rashers streaky bacon, rind removed, finely chopped",
+            "\u00bd tsp Tabasco",
+            "1 tsp Worcestershire sauce",
+            "1 tbsp butter"
         ],
         "For the oysters Rockefeller": [
             "1 shallot, finely chopped",
@@ -33,13 +36,15 @@
             "1 tbsp chopped parsley",
             "1 free-range egg yolk"
         ],
-        "For the oysters Kilpatrick": [
-            "100g brioche crumbs",
-            "2 rashers streaky bacon, rind removed, finely chopped",
-            "\u00bd tsp Tabasco",
-            "1 tsp Worcestershire sauce",
-            "1 tbsp butter"
+        "default": [
+            "6 fresh oysters, shucked, shells and juices reserved"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 2",
+    "show": {
+        
     },
     "steps": [
         "Pour the oysters with their juices into a medium saucepan. Bring to a simmer, turning the oysters once or twice. As soon as the juices begin to simmer, remove from the heat.",
@@ -59,8 +64,9 @@
         "Place the baking tray with all six oysters under a hot grill for 1-2 minutes until golden brown and bubbling.",
         "Place the oysters on a serving dish that has been liberally sprinkled with salt and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Oysters Kilpatrick and Rockefeller",
     "videos": "[p00ynyn2:p00ynyn4]"
 }

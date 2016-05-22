@@ -1,31 +1,25 @@
 {
-    "title": "Apple Charlotte",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "charlotte",
+        "jam",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "\u00bd apple, diced",
-            "pinch ground cinnamon",
-            "30g/1oz unsalted butter"
-        ],
         "For the bread": [
             "4 slices of bread",
             "55g/2oz unsalted butter",
@@ -37,7 +31,18 @@
             "1 vanilla pod, split and seeds scraped out",
             "2 free-range egg yolks",
             "55g/2oz caster sugar"
+        ],
+        "default": [
+            "\u00bd apple, diced",
+            "pinch ground cinnamon",
+            "30g/1oz unsalted butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
@@ -48,8 +53,9 @@
         "Return the mixture to the pan and whisk until thick. The mixture should coat the back of a wooden spoon.",
         "To serve, remove the Apple Charlotte from the oven and place on a serving plate and pour the creme anglaise over the pudding."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Apple Charlotte",
     "videos": "[]"
 }

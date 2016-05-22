@@ -1,30 +1,35 @@
 {
-    "title": "Strawberry jam-roly poly with custard",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "4-6",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "custard",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "sponge_pudding"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the strawberry jam": [
-            "350g/12oz strawberries, quartered",
-            "150g/5oz caster sugar",
-            "\u00bd lemon, zest and juice only"
+        "For the custard": [
+            "4 free-range egg yolks",
+            "40g/1\u00bdoz caster sugar",
+            "150ml/5fl oz milk",
+            "150ml/5fl oz double cream",
+            "1 vanilla pod"
         ],
         "For the jam-roly poly": [
             "275/10oz self-raising flour",
@@ -33,13 +38,17 @@
             "1 lemon, zest only",
             "125-150ml/4\u00bd-5fl oz water"
         ],
-        "For the custard": [
-            "4 free-range egg yolks",
-            "40g/1\u00bdoz caster sugar",
-            "150ml/5fl oz milk",
-            "150ml/5fl oz double cream",
-            "1 vanilla pod"
+        "For the strawberry jam": [
+            "350g/12oz strawberries, quartered",
+            "150g/5oz caster sugar",
+            "\u00bd lemon, zest and juice only"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "5",
+    "serves": "4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the strawberry jam, heat a small frying pan until hot, then add the strawberries and cook for one minute. Add the sugar and lemon zest and juice and cook for 3-4 minutes until the sugar has dissolved and the mixture has thickened slightly.",
@@ -56,9 +65,9 @@
         "Pour the milk onto the egg mixture and whisk in. Return the mixture to the saucepan and heat slowly, until the custard has thickened enough to coat the back of the spoon. Remove and discard the vanilla pod.",
         "To serve, cut the roly-poly into thick slices and serve with the custard and any extra jam."
     ],
-    "howTos": [
-        "kneading",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Strawberry jam-roly poly with custard",
     "videos": "[]"
 }

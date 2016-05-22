@@ -1,26 +1,35 @@
 {
-    "title": "Yorkshire puddings with black pudding and beer and onion gravy",
-    "cookTime": "over 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
-    },
-    "tips": [
-        "This recipe makes 1.5 litres/2 pints 13fl oz pints of beef stock. Any left over from this recipe can be frozen and used in other recipes."
+    "cookTime": "over 2 hours",
+    "description": "",
+    "dishes": [
+        "gravy",
+        "jelly",
+        "oven-baked_dishes",
+        "sausage",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "de-glazing_pans",
+        "skimming_stock"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Yorkshire pudding": [
+            "4 heaped tbsp plain flour",
+            "\u00bd tsp salt",
+            "2 free-range eggs, beaten",
+            "275ml/10fl oz full-fat milk",
+            "2 tbsp vegetable oil or sunflower oil, plus extra for greasing"
+        ],
         "For the beef stock": [
             "1kg/2lb 3oz beef bones (such as rib, short rib, knuckle or thigh bones)",
             "1-2 tbsp sea salt flakes",
@@ -34,13 +43,6 @@
             "1 tsp tomato pur\u00e9e",
             "2 bay leaves",
             "1.5 litres/2 pints 12\u00befl oz water"
-        ],
-        "For the Yorkshire pudding": [
-            "4 heaped tbsp plain flour",
-            "\u00bd tsp salt",
-            "2 free-range eggs, beaten",
-            "275ml/10fl oz full-fat milk",
-            "2 tbsp vegetable oil or sunflower oil, plus extra for greasing"
         ],
         "For the gravy": [
             "50g/2oz beef fat, sliced into thin strips (ask your butcher for this)",
@@ -56,6 +58,12 @@
         "To serve": [
             "12 individual black pudding sausages (or 12 slices from a large black pudding), fried until crisp"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
     },
     "steps": [
         "For the beef stock, preheat the oven to 230C/450F/Gas 8.",
@@ -75,9 +83,9 @@
         "Add the redcurrant jelly and stir well until dissolved. Continue to simmer for a further 4-5 minutes. Season, to taste, with salt and freshly ground black pepper. (NB: The leftover beef stock can be set aside to cool, then frozen in ice cube trays and kept for up to six months.)",
         "To serve, place two Yorkshire puddings onto the centre of each of four serving plates. Arrange three of the black pudding sausages between the Yorkshire puddings. Drizzle over the gravy."
     ],
-    "howTos": [
-        "de-glazing_pans",
-        "skimming_stock"
+    "tips": [
+        "This recipe makes 1.5 litres/2 pints 13fl oz pints of beef stock. Any left over from this recipe can be frozen and used in other recipes."
     ],
+    "title": "Yorkshire puddings with black pudding and beer and onion gravy",
     "videos": "[]"
 }

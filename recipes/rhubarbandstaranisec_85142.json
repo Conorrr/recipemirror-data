@@ -1,34 +1,29 @@
 {
-    "title": "Rhubarb and star anise crumble",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "crumble",
+        "custard",
+        "oven-baked_dishes",
+        "pie",
+        "rhubarb_crumble",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "450g/1lb rhubarb",
-            "200ml/7fl oz orange juice (preferably freshly squeezed)",
-            "125g/4oz caster sugar",
-            "2 whole star anise",
-            "1 cinnamon stick, broken in half",
-            "1 vanilla pod, split"
-        ],
         "For the topping": [
             "75g/2\u00beoz plain flour",
             "50g/2oz demerara sugar",
@@ -38,7 +33,21 @@
         ],
         "To serve": [
             "hot custard"
+        ],
+        "default": [
+            "450g/1lb rhubarb",
+            "200ml/7fl oz orange juice (preferably freshly squeezed)",
+            "125g/4oz caster sugar",
+            "2 whole star anise",
+            "1 cinnamon stick, broken in half",
+            "1 vanilla pod, split"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/355F/Gas 4.",
@@ -48,8 +57,9 @@
         "Sprinkle the topping over the rhubarb and transfer to the oven to bake for 35-40 minutes, or until the topping is golden-brown.",
         "To serve, spoon out generous portions of the rhubarb crumble into bowls and serve with custard."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Rhubarb and star anise crumble",
     "videos": "[]"
 }

@@ -1,34 +1,28 @@
 {
-    "title": "Apple pie",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "4-6",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "Deep-filled apple pie, with rich buttery pastry, orange juice soaked raisins plus a few top tips to make your pie perfect.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00d6g4f": "The Hairy Bakers"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Deep-filled apple pie, with rich buttery pastry, orange juice soaked raisins plus a few top tips to make your pie perfect.",
+    "dishes": [
+        "apple_pie",
+        "bread",
+        "cake",
+        "oven-baked_dishes",
+        "pastry",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "making_pastry_lids",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "425g/15oz plain flour, plus extra for dusting",
-            "\u00bd tsp salt",
-            "100g/3\u00bdoz caster sugar",
-            "250g/9oz unsalted butter, plus extra for greasing",
-            "1 free-range egg, beaten",
-            "2 free-range egg yolks"
-        ],
         "For the filling": [
             "100g/3\u00bdoz sultanas",
             "\u00bd orange, juice only",
@@ -38,7 +32,21 @@
             "1 tbsp ground cinnamon",
             "1 free-range egg, beaten",
             "clotted cream, to serve"
+        ],
+        "For the pastry": [
+            "425g/15oz plain flour, plus extra for dusting",
+            "\u00bd tsp salt",
+            "100g/3\u00bdoz caster sugar",
+            "250g/9oz unsalted butter, plus extra for greasing",
+            "1 free-range egg, beaten",
+            "2 free-range egg yolks"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "7",
+    "serves": "4-6",
+    "show": {
+        "b00d6g4f": "The Hairy Bakers"
     },
     "steps": [
         "For the pastry, blend the flour, salt, sugar and butter in a food processor until the mixture resembles breadcrumbs. Gradually add the beaten egg and the egg yolks and blend until smooth and well combined. Bring the dough mixture together with your hands, wrap it in cling film and transfer to the fridge to chill for 30-45 minutes.",
@@ -51,9 +59,9 @@
         "With a knife, make two small holes in the centre of the pastry lid to allow steam to escape. Brush the pastry lid with the remaining beaten egg, then transfer to the oven and bake for 35-40 mins, or until golden-brown.",
         "To serve, place a slice of the apple pie onto a serving plate and spoon a portion of clotted cream alongside."
     ],
-    "howTos": [
-        "making_pastry_lids",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Apple pie",
     "videos": "[]"
 }

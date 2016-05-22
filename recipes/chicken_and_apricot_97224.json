@@ -1,26 +1,32 @@
 {
-    "title": "Easy chicken tagine",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "61",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_and_apricot_97224_16x9.jpg"
-    ],
-    "description": "Invite a crowd round for a memorable chicken tagine recipe that lights up the dinner table.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "North_African",
+    "description": "Invite a crowd round for a memorable chicken tagine recipe that lights up the dinner table.",
+    "dishes": [
+        "casserole",
+        "chicken_tagine",
+        "stir-fries",
+        "stock",
+        "tagine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_and_apricot_97224_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "couscous, cooked according to packet instructions",
+            "150g/5\u00bdoz Greek-style yoghurt",
+            "handful of flaked almonds"
+        ],
         "default": [
             "200g/7oz chicken breast, cut into large cubes",
             "600g/1lb 5\u00bdoz chicken thighs or wings",
@@ -40,12 +46,13 @@
             "salt and freshly ground black pepper",
             "2 tbsp freshly chopped mint",
             "2 tbsp freshly chopped parsley"
-        ],
-        "To serve": [
-            "couscous, cooked according to packet instructions",
-            "150g/5\u00bdoz Greek-style yoghurt",
-            "handful of flaked almonds"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "61",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Mix the chicken breast and thighs (or wings) with the harissa paste in a bowl until well combined. Cover with cling film and chill in the fridge for two hours.",
@@ -55,8 +62,9 @@
         "Stir in the mint and parsley at the end of cooking.",
         "Serve alongside couscous and Greek-style yoghurt, topped with the almonds."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Easy chicken tagine",
     "videos": "[]"
 }

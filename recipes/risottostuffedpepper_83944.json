@@ -1,24 +1,21 @@
 {
-    "title": "Stuffed pepper",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "stuffed_pepper"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,14 +30,21 @@
             "\u00bd tsp chopped fresh parsley"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        
+    },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
         "Place the pepper half onto a baking sheet and drizzle with olive oil. Place into the oven and roast for ten minutes. Season with sea salt and freshly ground black pepper.",
         "In a bowl mix together the remaining ingredients and use to stuff the pepper.",
         "Return the pepper to the oven and cook for a further ten minutes and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Stuffed pepper",
     "videos": "[]"
 }

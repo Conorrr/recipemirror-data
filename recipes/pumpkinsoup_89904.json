@@ -1,24 +1,24 @@
 {
-    "title": "Pumpkin soup",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 8-10",
-    "recommendations": "39",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pumpkinsoup_89904_16x9.jpg"
-    ],
-    "description": "This velvety pumpkin soup recipe is great for Bonfire Night - it\u2019s served with a splash of sherry in a hollowed-out pumpkin.",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b00lpbxs": "What to Eat Now"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "This velvety pumpkin soup recipe is great for Bonfire Night - it\u2019s served with a splash of sherry in a hollowed-out pumpkin.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pumpkinsoup_89904_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -31,6 +31,12 @@
             "1.7 litres/3 pints chicken stock (vegetarians may substitute vegetable stock)",
             "3 tablespoons sherry"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "39",
+    "serves": "Serves 8-10",
+    "show": {
+        "b00lpbxs": "What to Eat Now"
     },
     "steps": [
         "Cut the top off the pumpkin and set aside. Scoop out the seeds and fibres from the middle and discard.",
@@ -45,8 +51,9 @@
         "Place the reserved pumpkin 'lid' onto the pumpkin and place onto a large baking tray. Cook in the oven for about 45 minutes, to bring the soup up to temperature.",
         "To serve, carefully remove from the oven and serve the soup in the pumpkin at the table. Ladle into bowls and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pumpkin soup",
     "videos": "[]"
 }

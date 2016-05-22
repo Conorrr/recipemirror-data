@@ -1,26 +1,31 @@
 {
-    "title": "Stir fry chicken and vegetable noodles",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "pasta",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "rolling_pasta_dough"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the noodles": [
+            "150g/5\u00bcoz plain flour",
+            "2 free-range eggs",
+            "25ml/1 fl oz water"
+        ],
         "default": [
             "100g/3\u00bdoz chicken, sliced",
             "2 tbsp sesame oil",
@@ -28,12 +33,13 @@
             "3 tbsp coriander, chopped",
             "100ml/3\u00bdfl oz vegetable stock",
             "2 tbsp soy sauce"
-        ],
-        "For the noodles": [
-            "150g/5\u00bcoz plain flour",
-            "2 free-range eggs",
-            "25ml/1 fl oz water"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the chicken stir fry, place the chicken in a hot wok with the sesame oil. Fry for 3-4 minutes.",
@@ -43,8 +49,9 @@
         "Now place the noodles into the wok and continue to cook for five minutes.",
         "Serve in a large bowl."
     ],
-    "howTos": [
-        "rolling_pasta_dough"
+    "tips": [
+        
     ],
+    "title": "Stir fry chicken and vegetable noodles",
     "videos": "[]"
 }

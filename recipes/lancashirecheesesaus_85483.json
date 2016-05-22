@@ -1,26 +1,29 @@
 {
-    "title": "Lancashire cheese sausages",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "chutney",
+        "ketchup",
+        "sausage"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the potatoes": [
+            "400g/14oz Maris Piper (or similar) potatoes, peeled, cubed and boiled for ten minutes",
+            "200g/7oz butter"
+        ],
         "For the sausages": [
             "600g/1lb 5oz Lancashire cheese, grated",
             "200g/7oz fresh breadcrumbs",
@@ -33,13 +36,15 @@
             "2 garlic cloves, crushed",
             "salt and freshly ground black pepper"
         ],
-        "For the potatoes": [
-            "400g/14oz Maris Piper (or similar) potatoes, peeled, cubed and boiled for ten minutes",
-            "200g/7oz butter"
-        ],
         "To serve": [
             "tomato chutney or tomato ketchup"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the sausages, place the cheese, breadcrumbs, onions, thyme, parsley, eggs, egg yolks, milk and garlic into a large bowl. Season well with salt and freshly ground black pepper, then mix your hands to combine the ingredients well.",
@@ -49,8 +54,9 @@
         "For the potatoes, melt the butter in a separate frying pan. Add the potatoes and saut\u00e9 for 4-5 minutes, or until crisp and golden.",
         "To serve, place a few sausages onto each plate with a large spoonful of saut\u00e9ed potatoes alongside. Add a dollop of tomato chutney or ketchup."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lancashire cheese sausages",
     "videos": "[]"
 }

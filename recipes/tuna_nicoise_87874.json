@@ -1,37 +1,26 @@
 {
-    "title": "Tuna Ni\u00e7oise",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Paul Hollywood\u2019s version of the French salad Ni\u00e7oise comes with slices of fresh tuna steak and fougasse bread topped with homemade tapenade.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b01rhdgt": "Paul Hollywood's Bread"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Paul Hollywood\u2019s version of the French salad Ni\u00e7oise comes with slices of fresh tuna steak and fougasse bread topped with homemade tapenade.",
+    "dishes": [
+        "bread",
+        "jam",
+        "nicoise_salad",
+        "salad",
+        "tapenade"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the tapenade": [
-            "50g/1\u00beoz anchovies in oil",
-            "400g/14oz pitted black olives",
-            "75g/2\u00bdoz capers, drained and rinsed",
-            "2-3 garlic cloves",
-            "1 tsp Dijon mustard",
-            "2 tsp lemon juice",
-            "2 tbsp good-quality olive oil",
-            "handful fresh basil, chopped",
-            "fresh black pepper"
-        ],
         "For the dressing": [
             "2 tsp Dijon mustard",
             "1 tbsp white wine vinegar",
@@ -46,6 +35,17 @@
             "200g/7oz cooked new potatoes",
             "24 baby plum tomatoes, cut in half"
         ],
+        "For the tapenade": [
+            "50g/1\u00beoz anchovies in oil",
+            "400g/14oz pitted black olives",
+            "75g/2\u00bdoz capers, drained and rinsed",
+            "2-3 garlic cloves",
+            "1 tsp Dijon mustard",
+            "2 tsp lemon juice",
+            "2 tbsp good-quality olive oil",
+            "handful fresh basil, chopped",
+            "fresh black pepper"
+        ],
         "For the tuna": [
             "4 tuna steaks, approximately 175g/6oz each",
             "1 tbsp olive oil",
@@ -57,6 +57,12 @@
             "1 loaf olive sourdough fougasse"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b01rhdgt": "Paul Hollywood's Bread"
+    },
     "steps": [
         "To make the tapenade, combine everything except half of the basil and the black pepper in a food processor and blend until roughly chopped up, but not pur\u00e9ed. Pour into a dish and garnish with black pepper and the remaining basil leaves.",
         "To make the dressing, place all ingredients in a clean jam jar. Put the lid on and shake well until the dressing has emulsified.",
@@ -66,8 +72,9 @@
         "To serve, drizzle two tablespoons of dressing over the salad. Very gently, using your hands, mix the salad so that it\u2019s coated in the dressing. Arrange the salad on a large platter or board. Place the eggs around the salad.",
         "Slice the tuna on the diagonal and lay slices on top of the salad. Sprinkle over the chives. Pour any remaining dressing in a jug leave on the table next to the salad. Serve with the fougasse and tapenade."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tuna Ni\u00e7oise",
     "videos": "[]"
 }

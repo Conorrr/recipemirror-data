@@ -1,26 +1,37 @@
 {
-    "title": "Sea bream and calamari with a chickpea and radish salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This dish of griddled sea bass, fried squid and chickpea salad comes with a dollop of homemade aioli.",
     "author": {
         "richard_phillips": "Richard Phillips"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This dish of griddled sea bass, fried squid and chickpea salad comes with a dollop of homemade aioli.",
+    "dishes": [
+        "salad",
+        "sauce",
+        "seafood"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "cleaning_squid"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the aioli": [
+            "2 free-range egg yolks",
+            "\u00bd garlic clove",
+            "pinch saffron",
+            "150ml/5fl oz olive oil"
+        ],
+        "For the dressing": [
+            "100ml/3\u00bdfl oz olive oil",
+            "1 tsp Dijon mustard",
+            "1 tbsp chopped fresh parsley",
+            "pinch coriander seeds, crushed",
+            "squeeze lemon juice"
+        ],
         "For the fish": [
             "vegetable oil, for deep frying",
             "2 whole squid, cleaned and prepared",
@@ -37,20 +48,13 @@
             "\u00bd radish, sliced",
             "150g/5\u00bdoz tinned chickpeas, drained",
             "30g/1oz black olives sliced"
-        ],
-        "For the dressing": [
-            "100ml/3\u00bdfl oz olive oil",
-            "1 tsp Dijon mustard",
-            "1 tbsp chopped fresh parsley",
-            "pinch coriander seeds, crushed",
-            "squeeze lemon juice"
-        ],
-        "For the aioli": [
-            "2 free-range egg yolks",
-            "\u00bd garlic clove",
-            "pinch saffron",
-            "150ml/5fl oz olive oil"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "For the fish, in a deep pan, add enough vegetable oil to deep fry the squid (CAUTION: hot oil can be dangerous. Do not leave unattended.)",
@@ -66,8 +70,9 @@
         "Just before serving, toss the salad in the dressing.",
         "Serve the fish with the deep-fried squid, dressed salad and a dollop of aioli on the side."
     ],
-    "howTos": [
-        "cleaning_squid"
+    "tips": [
+        
     ],
+    "title": "Sea bream and calamari with a chickpea and radish salad",
     "videos": "[]"
 }

@@ -1,34 +1,29 @@
 {
-    "title": "Sweet potato pecan pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 pie",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "A super-sweet hybrid of the classic American recipes for pumpkin pie and pecan pie using sweet potatoes in the filling.",
     "author": {
         "james_morton": "James Morton"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "A super-sweet hybrid of the classic American recipes for pumpkin pie and pecan pie using sweet potatoes in the filling.",
+    "dishes": [
+        "bread",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sweet pastry": [
-            "300g/10\u00bdoz plain flour",
-            "150g/6oz salted butter",
-            "120g/4oz icing sugar",
-            "3 free-range egg yolks",
-            "1 tbsp whole milk",
-            "100g/3\u00bdoz pecans, finely chopped"
-        ],
         "For the filling": [
             "1kg/2lb 4oz peeled sweet potatoes, roughly chopped (about two large sweet potatoes)",
             "170g/6oz caster sugar",
@@ -39,7 +34,21 @@
             "\u00be tsp vanilla extract",
             "30g/1oz melted butter",
             "300g/10\u00bd oz pecans"
+        ],
+        "For the sweet pastry": [
+            "300g/10\u00bdoz plain flour",
+            "150g/6oz salted butter",
+            "120g/4oz icing sugar",
+            "3 free-range egg yolks",
+            "1 tbsp whole milk",
+            "100g/3\u00bdoz pecans, finely chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Makes 1 pie",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the pastry, lightly grease a 28cm/11in fluted loose-bottomed flan tin. Combine the flour, butter and icing sugar in a food processor and pulse until the mixture resembles fine breadcrumbs. Add the egg yolks and a splash of milk and pulse until the pastry just comes together. Bring the dough into a ball and wrap in cling film. Freeze for 10 minutes, then place in the fridge for a further 20 minutes.",
@@ -51,8 +60,9 @@
         "Pour the filling into the cooled case. Arrange the pecan halves on the top of the filling and sprinkle with ground cinnamon.",
         "Bake for 25 minutes, or until the filling is set. Leave to cool for 10 minutes, before removing the pie from the tin. Aloow the pie to reach room temperature before transferring to the fridge to chill."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sweet potato pecan pie",
     "videos": "[]"
 }

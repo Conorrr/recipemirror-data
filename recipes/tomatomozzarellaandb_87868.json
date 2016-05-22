@@ -1,24 +1,24 @@
 {
-    "title": "Tomato, mozzarella and basil pizza",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/tomatomozzarellaandb_87868_16x9.jpg"
-    ],
-    "description": "A beautiful cheese and tomato pizza for two that makes takeaway seem tawdry.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "A beautiful cheese and tomato pizza for two that makes takeaway seem tawdry.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pizza"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading",
+        "how_to_shape_pizza_dough",
+        "knocking_back"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/tomatomozzarellaandb_87868_16x9.jpg"
     ],
     "ingredients": {
         "For the base": [
@@ -36,6 +36,12 @@
             "extra virgin olive oil, for drizzling"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "For the base, sift the flour into a large bowl. In another bowl, mix the yeast with a little warm water until it begins to foam. Slowly add to the flour and mix to form a dough. If it's too sticky, add more flour. Cover the bowl with a clean cloth and leave to rest for five minutes.",
         "Add the salt to the dough, then turn out onto a lightly floured surface and knead for about ten minutes until smooth. Cover with a damp cloth and let it prove for 30 minutes.",
@@ -44,10 +50,9 @@
         "For the topping, season the tomatoes with salt and freshly ground black pepper and spread over each dough base (you probably won't need the whole tin). Sprinkle over the basil leaves, thyme leaves, if using, and mozzarella, season with salt and freshly ground black pepper and drizzle over some oil. Scatter over the olives, if using.",
         "Place the pizzas into the oven and bake for 8-10 minutes, or until the base is crisp and the cheese is bubbling."
     ],
-    "howTos": [
-        "kneading",
-        "how_to_shape_pizza_dough",
-        "knocking_back"
+    "tips": [
+        
     ],
+    "title": "Tomato, mozzarella and basil pizza",
     "videos": "[]"
 }

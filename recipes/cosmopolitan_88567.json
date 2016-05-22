@@ -1,24 +1,21 @@
 {
-    "title": "Cosmopolitan",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cosmopolitan_88567_16x9.jpg"
-    ],
-    "description": "Make like a Manhattan socialite with this classy cocktail. Chill the glasses in the freezer beforehand for an ice-cold tipple \u00e0 la Sex and the City.",
     "author": {
         "wayne_collins": "Wayne Collins"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Make like a Manhattan socialite with this classy cocktail. Chill the glasses in the freezer beforehand for an ice-cold tipple \u00e0 la Sex and the City.",
+    "dishes": [
+        "pie",
+        "vodka_cocktail"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cosmopolitan_88567_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -29,12 +26,19 @@
             "twist orange peel, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Place the vodka, orange liqueur, lime juice and cranberry juice into a cocktail shaker and fill with ice. Shake hard and then strain into a coupe glass or small Martini glass.",
         "Hold the piece of orange peel over the glass and carefully flame with a match. Garnish the cocktail with the flamed orange peel and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cosmopolitan",
     "videos": "[]"
 }

@@ -1,26 +1,27 @@
 {
-    "title": "Irene Cleaves' southern fried chicken",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "keith_floyd": "Keith Floyd"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "gravy",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the gravy": [
+            "flour",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "flour, for dusting",
             "salt and freshly ground black pepper",
@@ -28,11 +29,13 @@
             "milk",
             "1.4kg/3lb chicken, jointed",
             "oil, for frying"
-        ],
-        "For the gravy": [
-            "flour",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Season the flour with salt and freshly ground black pepper and combine the eggs with milk.",
@@ -42,8 +45,9 @@
         "Add cold water, stirring until the gravy is of a required thickness, plus salt and freshly ground black pepper.",
         "Simmer for a few minutes then pour over chicken."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Irene Cleaves' southern fried chicken",
     "videos": "[]"
 }

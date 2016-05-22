@@ -1,26 +1,30 @@
 {
-    "title": "Gnocchi with red chard sauce",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "bread",
+        "gnocchi",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the gnocchi": [
+            "150g/5\u00bdoz gnocchi, cooked according to packet instructions",
+            "1 tbsp olive oil",
+            "salt and freshly ground black pepper"
+        ],
         "For the red chard sauce": [
             "50ml/2fl oz olive oil",
             "1 garlic clove, chopped",
@@ -30,20 +34,22 @@
             "1 tbsp white wine vinegar",
             "\u00bd lemon, juice and zest only",
             "salt and freshly ground black pepper"
-        ],
-        "For the gnocchi": [
-            "150g/5\u00bdoz gnocchi, cooked according to packet instructions",
-            "1 tbsp olive oil",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the red chard sauce, place all of the sauce ingredients into a bowl and mix well.",
         "For the gnocchi, place the gnocchi into a serving bowl and drizzle with oil. Season, to taste, with salt and freshly ground black pepper and stir.",
         "To serve, pour the sauce over the gnocchi."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Gnocchi with red chard sauce",
     "videos": "[]"
 }

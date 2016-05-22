@@ -1,26 +1,33 @@
 {
-    "title": "Meze with pitta fingers",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "hummus",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the hummus": [
+            "400g/14oz can of chickpeas, rinsed and drained",
+            "2 garlic cloves",
+            "\u00bd tsp sesame oil",
+            "1 tbsp sesame seeds",
+            "\u00bd lemon, juice only",
+            "sea salt and freshly ground black pepper",
+            "olive oil, to taste"
+        ],
         "default": [
             "1 roasted red pepper from a jar, sliced",
             "1 clove garlic, sliced",
@@ -31,16 +38,13 @@
             "110g/4oz of Greek yoghurt",
             "\u00bc cucumber, grated",
             "2 pitta breads, toasted and cut into strips"
-        ],
-        "For the hummus": [
-            "400g/14oz can of chickpeas, rinsed and drained",
-            "2 garlic cloves",
-            "\u00bd tsp sesame oil",
-            "1 tbsp sesame seeds",
-            "\u00bd lemon, juice only",
-            "sea salt and freshly ground black pepper",
-            "olive oil, to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Place the pepper, garlic, oil and thyme into a saucepan and cook gently for ten minutes over a low heat.",
@@ -49,8 +53,9 @@
         "For the hummus, place all the ingredients except the oil into a food processor and blend to a paste. Add the oil with the blender running to create a paste to your desired consistency.",
         "Decorate a plate with the pitta fingers, add the roasted pepper, hummus and yoghurt dip and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Meze with pitta fingers",
     "videos": "[]"
 }

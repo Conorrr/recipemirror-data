@@ -1,24 +1,24 @@
 {
-    "title": "Halloumi and mushroom kebabs with salsa verde and couscous",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "Cook this quick and colourful vegetarian meal from The Hairy Bikers; it would taste great on the barbecue too.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00sy9ws": "The Hairy Bikers' Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Cook this quick and colourful vegetarian meal from The Hairy Bikers; it would taste great on the barbecue too.",
+    "dishes": [
+        "bun",
+        "kebab",
+        "salsa",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the couscous": [
@@ -30,13 +30,6 @@
             "50g/2oz toasted flaked almonds",
             "50g/2oz dried apricots, chopped"
         ],
-        "For the skewers": [
-            "200g/7oz halloumi cheese, cut into 2.5cm/1 inch cubes",
-            "8 cherry tomatoes",
-            "8 button mushrooms",
-            "3 tbsp olive oil",
-            "1 tsp dried oregano"
-        ],
         "For the salsa verde": [
             "bunch parsley, chopped leaves only",
             "bunch basil chopped, chopped leaves only",
@@ -46,7 +39,20 @@
             "\u00bd tsp Dijon mustard",
             "100ml/3\u00bdfl oz olive oil",
             "sea salt and freshly ground black pepper to season"
+        ],
+        "For the skewers": [
+            "200g/7oz halloumi cheese, cut into 2.5cm/1 inch cubes",
+            "8 cherry tomatoes",
+            "8 button mushrooms",
+            "3 tbsp olive oil",
+            "1 tsp dried oregano"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 2",
+    "show": {
+        "b00sy9ws": "The Hairy Bikers' Cook Off"
     },
     "steps": [
         "For the couscous, place the couscous into a bowl and cover with the hot stock. Cover the bowl with a plate or cling film and leave for four minutes.",
@@ -55,8 +61,9 @@
         "For the salsa verde, place all of the salsa verde ingredients, apart from the olive oil, into a food processor and blend, gradually adding the oil until you have a loose paste.",
         "To serve, spoon the couscous onto plates, top with the kebabs and drizzle with the salsa verde."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Halloumi and mushroom kebabs with salsa verde and couscous",
     "videos": "[p00c7m0d:p00c7m0g]"
 }

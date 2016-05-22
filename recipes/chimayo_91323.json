@@ -1,45 +1,49 @@
 {
-    "title": "Chimayo",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "wayne_collins": "Wayne Collins"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "stir-fries",
+        "tequila_cocktail"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "1 slice apple",
+            "1 sprig fresh mint"
+        ],
         "default": [
             "1 scoop ice",
             "\u00bc lime, juice only",
             "35ml/1\u00bcfloz tequila reposado",
             "15ml/\u00bdfl oz cr\u00e8me de cassis",
             "100ml/3\u00bdfl oz cider"
-        ],
-        "To serve": [
-            "1 slice apple",
-            "1 sprig fresh mint"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Place the ice into a sling glass and squeeze over the lime juice.",
         "Pour in the tequila, cr\u00e8me de cassis and cider. Stir once.",
         "To serve, hook the slice of apple over the side of the glass. Garnish with the mint sprig."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chimayo",
     "videos": "[]"
 }

@@ -1,24 +1,29 @@
 {
-    "title": "How to make brownies",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 16 - 20",
-    "recommendations": "45",
-    "images": [
-        
-    ],
-    "description": "Fudgey, gooey brownies with chocolate chunks - this is a delicious and easy recipe you'll make time and again.",
     "author": {
         "stacie_stewart": "Stacie Stewart"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Fudgey, gooey brownies with chocolate chunks - this is a delicious and easy recipe you'll make time and again.",
+    "dishes": [
+        "chocolate_brownies",
+        "fudge",
+        "icing",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stew",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "folding",
+        "how_to_line_a_rectangular_cake_tin",
+        "melting_chocolate"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,6 +38,12 @@
             "\u00bc tsp fine salt"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "45",
+    "serves": "Makes 16 - 20",
+    "show": {
+        
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "Place a medium saucepan containing an inch of boiling water from the kettle onto the hob and bring to a simmer.",
@@ -45,10 +56,9 @@
         "Gently pour the batter into the prepared tin, and scatter the remaining chunks of chocolate on top. Bake the brownies for 20-25 minutes. The brownies should still wobble slightly in the middle, as they will continue to cook for a little while when removed from the oven. An over-baked brownie is dry and crumbly, rather than moist and fudgy, so keep an eye on them.",
         "Let the brownies cool completely in their tin. Lift them out of the tin onto a board, using the baking paper to help, then cut into squares. Sift over a little icing sugar or cocoa powder. Store in an airtight tin."
     ],
-    "howTos": [
-        "folding",
-        "how_to_line_a_rectangular_cake_tin",
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "How to make brownies",
     "videos": "[p00y785l:p00y785p]"
 }

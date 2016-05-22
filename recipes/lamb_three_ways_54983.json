@@ -1,36 +1,42 @@
 {
-    "title": "Lamb three ways",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This feast of a recipe includes slow-cooked lamb shoulder, lamb \u2018bon bon\u2019 and lamb cutlets served with potato gratin, baby beets and a mint salsa verde, all serving 10! Equipment and Preparation: You will need a mandolin.",
     "author": {
         "stephanie_moon": "Stephanie Moon"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "This feast of a recipe includes slow-cooked lamb shoulder, lamb \u2018bon bon\u2019 and lamb cutlets served with potato gratin, baby beets and a mint salsa verde, all serving 10! Equipment and Preparation: You will need a mandolin.",
+    "dishes": [
+        "bread",
+        "bun",
+        "gratin",
+        "oven-baked_dishes",
+        "pie",
+        "prepare-ahead_desserts",
+        "roast_lamb",
+        "salsa",
+        "sauce",
+        "slow-cooked_dishes",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the slow-cooked lamb shoulder": [
-            "1 x 1.5kg/3lb 5oz lamb shoulder, boned and tied",
+        "For the beetroot and chard": [
+            "4 raw beetroot",
             "salt and freshly ground black pepper",
             "dash vegetable oil",
-            "1 onion, chopped",
-            "2 carrots, peeled and chopped",
-            "few sprigs thyme",
-            "4 garlic cloves",
-            "1 bottle red wine",
-            "500ml/18fl oz lamb stock"
+            "butter, for frying",
+            "handful of chard/beetroot leaves, blanched"
+        ],
+        "For the jus": [
+            "cooking liquid leftover from the shoulder of lamb and bon bons",
+            "1 tsp cornflour (if needed to thicken the jus)"
         ],
         "For the lamb bon bon": [
             "1 onion, finely chopped",
@@ -48,24 +54,6 @@
             "2 racks of lamb (5 bones in each rack), French-trimmed",
             "dash vegetable oil"
         ],
-        "For the beetroot and chard": [
-            "4 raw beetroot",
-            "salt and freshly ground black pepper",
-            "dash vegetable oil",
-            "butter, for frying",
-            "handful of chard/beetroot leaves, blanched"
-        ],
-        "For the potato gratin": [
-            "1.5kg/3lb 5 oz potatoes, peeled and sliced thinly on a mandoline",
-            "salt and freshly ground black pepper",
-            "2 tbsp thyme leaves",
-            "6 garlic cloves, crushed",
-            "1.8 litres/3 pints double cream"
-        ],
-        "For the jus": [
-            "cooking liquid leftover from the shoulder of lamb and bon bons",
-            "1 tsp cornflour (if needed to thicken the jus)"
-        ],
         "For the mint salsa": [
             "1 small onion or 2 shallots, roughly chopped",
             "small bunch fresh mint, chopped",
@@ -75,7 +63,31 @@
             "2 garlic cloves, chopped",
             "olive oil",
             "salt and freshly ground black pepper"
+        ],
+        "For the potato gratin": [
+            "1.5kg/3lb 5 oz potatoes, peeled and sliced thinly on a mandoline",
+            "salt and freshly ground black pepper",
+            "2 tbsp thyme leaves",
+            "6 garlic cloves, crushed",
+            "1.8 litres/3 pints double cream"
+        ],
+        "For the slow-cooked lamb shoulder": [
+            "1 x 1.5kg/3lb 5oz lamb shoulder, boned and tied",
+            "salt and freshly ground black pepper",
+            "dash vegetable oil",
+            "1 onion, chopped",
+            "2 carrots, peeled and chopped",
+            "few sprigs thyme",
+            "4 garlic cloves",
+            "1 bottle red wine",
+            "500ml/18fl oz lamb stock"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 10",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "For the slow-cooked lamb shoulder, preheat the oven to 160C/325F/Gas 3.",
@@ -102,8 +114,9 @@
         "Gradually add enough oil to make a smooth, dropping consistency. Season to taste.",
         "To serve, arrange the potato gratin on each of four serving dishes. Put the lamb shoulder pieces alongside. Spoon the beetroot quarters and wilted leaves next to the lamb shoulder and sit the lamb cutlet on top. Arrange the lamb bon bons alongside and spoon the mint salsa next to meat. Drizzle with the jus to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb three ways",
     "videos": "[]"
 }

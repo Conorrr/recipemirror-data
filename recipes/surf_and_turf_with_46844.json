@@ -1,35 +1,25 @@
 {
-    "title": "Surf and turf with wilted spinach, watercress and a mustard sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Enjoy a full house with surf and turf \u2013 a sure-fire recipe for a memorable meal.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Enjoy a full house with surf and turf \u2013 a sure-fire recipe for a memorable meal.",
+    "dishes": [
+        "jam",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "picking_lobster"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the surf and turf": [
-            "2 x 500g/1lbs 2oz cooked lobsters",
-            "4 x 175g/6oz fillet steaks",
-            "75g/3oz butter",
-            "2 tbsp olive oil",
-            "1 lemon, juice only",
-            "250g/9oz spinach",
-            "250g/9oz watercress, leaves picked"
-        ],
         "For the sauce": [
             "50g/2oz butter",
             "2 shallots, finely diced",
@@ -38,7 +28,22 @@
             "2 tbsp grain mustard",
             "2 tomatoes, skinned, deseeded, chopped",
             "2 tbsp chives, finely chopped"
+        ],
+        "For the surf and turf": [
+            "2 x 500g/1lbs 2oz cooked lobsters",
+            "4 x 175g/6oz fillet steaks",
+            "75g/3oz butter",
+            "2 tbsp olive oil",
+            "1 lemon, juice only",
+            "250g/9oz spinach",
+            "250g/9oz watercress, leaves picked"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Crack the lobster claws, extracting the meat in one whole piece if possible. Cut the tail in half lengthways, lift the meat out, and reserve both the meat and shell.",
@@ -50,8 +55,9 @@
         "Stir in the grain mustard, tomatoes and chives and warm through. Season to taste with salt and freshly ground black pepper.",
         "To serve, arrange the lobster shells on a plate and place the lobster meat inside the shells. Place the fillet steak alongside and the lobster claw on top. Finally, add some spinach and watercress and drizzle over the sauce."
     ],
-    "howTos": [
-        "picking_lobster"
+    "tips": [
+        
     ],
+    "title": "Surf and turf with wilted spinach, watercress and a mustard sauce",
     "videos": "[]"
 }

@@ -1,26 +1,34 @@
 {
-    "title": "Spatchcock chicken with celeriac remoulade",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spatchcock_chicken_with_08334_16x9.jpg"
-    ],
-    "description": "Spatchcocking (flattening) chicken is a handy way of cooking it much quicker than normal. Although you should give this marinade a night in the fridge to really penetrate the meat. Equipment and preparation: You will need a barbecue with a lid for this recipe.",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b036zkh2": "Raymond Blanc: How to Cook Well"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Spatchcocking (flattening) chicken is a handy way of cooking it much quicker than normal. Although you should give this marinade a night in the fridge to really penetrate the meat. Equipment and preparation: You will need a barbecue with a lid for this recipe.",
+    "dishes": [
+        "mayonnaise",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spatchcock_chicken_with_08334_16x9.jpg"
+    ],
     "ingredients": {
+        "For the celeriac remoulade": [
+            "2 free-range egg yolks (preferably organic)",
+            "2 tsp Dijon mustard",
+            "150ml/5fl oz rapeseed oil",
+            "1 tsp white wine vinegar",
+            "2 pinches sea salt",
+            "1 pinch pepper, cayenne",
+            "1 tsp lemon juice",
+            "200g/7oz celeriac, cut into matchsticks"
+        ],
         "For the chicken": [
             "200ml/7oz red wine",
             "100ml/3\u00bdfl oz port",
@@ -32,17 +40,13 @@
             "2 pinches freshly ground black pepper",
             "1.6kg/3lb 8oz free-range chicken, spatchcocked, legs and thighs scored to the bone",
             "sunflower oil, for oiling"
-        ],
-        "For the celeriac remoulade": [
-            "2 free-range egg yolks (preferably organic)",
-            "2 tsp Dijon mustard",
-            "150ml/5fl oz rapeseed oil",
-            "1 tsp white wine vinegar",
-            "2 pinches sea salt",
-            "1 pinch pepper, cayenne",
-            "1 tsp lemon juice",
-            "200g/7oz celeriac, cut into matchsticks"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b036zkh2": "Raymond Blanc: How to Cook Well"
     },
     "steps": [
         "For the chicken, in a large pan on a high heat cook the red wine and port until the volume of liquid has reduced by three-quarters. Remove from the heat and add the garlic, bay, thyme and lemon zest. Season to taste and set aside to cool.",
@@ -57,8 +61,9 @@
         "Remove from the barbecue to a carving board and allow to rest for 10 minutes. Joint the chicken and carve the breasts into long strips.",
         "Serve with the remoulade alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spatchcock chicken with celeriac remoulade",
     "videos": "[]"
 }

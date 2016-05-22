@@ -1,23 +1,28 @@
 {
-    "title": "Coq au vin with parsley mash",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "Parsley mash adds freshness to this classic French dish of chicken in a rich red-wine sauce. Equipment and preparation: for this recipe you will need a potato ricer, muslin cloths (for straining) and a cooking thermometer.",
     "author": {
         "adam_byatt": "Adam Byatt"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "French",
+    "description": "Parsley mash adds freshness to this classic French dish of chicken in a rich red-wine sauce. Equipment and preparation: for this recipe you will need a potato ricer, muslin cloths (for straining) and a cooking thermometer.",
+    "dishes": [
+        "bun",
+        "casserole",
+        "coq_au_vin",
+        "oven-baked_dishes",
+        "pie",
+        "quenelle",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "browning_meat"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -34,13 +39,6 @@
             "salt and freshly ground black pepper",
             "500ml/18fl oz brown chicken stock"
         ],
-        "For the parsley mash": [
-            "3 bunches curly parsley, leaves picked",
-            "200g/7oz ice cubes",
-            "3 potatoes, peeled and chopped into chunks",
-            "150g/5\u00bdoz butter",
-            "100ml/3\u00bdfl oz milk"
-        ],
         "For the garnish": [
             "1 tbsp olive oil",
             "100g/3\u00bdoz button onions (preferably red)",
@@ -49,7 +47,20 @@
             "150ml/5\u00bdfl oz chicken stock",
             "25g/1oz unsalted butter",
             "\u00bd bunch flat parsley, finely chopped"
+        ],
+        "For the parsley mash": [
+            "3 bunches curly parsley, leaves picked",
+            "200g/7oz ice cubes",
+            "3 potatoes, peeled and chopped into chunks",
+            "150g/5\u00bdoz butter",
+            "100ml/3\u00bdfl oz milk"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Place the chicken pieces, red wine, vegetables, bay leaf, thyme and peppercorns in a large glass bowl and marinade in the fridge for 12 hours.",
@@ -68,8 +79,9 @@
         "For the garnish, heat the olive oil in a small pan. Add the onions and fry until brown. Add the pancetta and fry until brown and crisp. Add the mushrooms, stock and butter. Cook until the stock has reduced to a thick sauce. Finish with the chopped parsley and set aside until ready to serve.",
         "To serve, place some mash in a heap or a large quenelle on each plate. Make a large well in the mash and fill with the sauce from the coq au vin. Add a few pieces of chicken and add the garnish."
     ],
-    "howTos": [
-        "browning_meat"
+    "tips": [
+        
     ],
+    "title": "Coq au vin with parsley mash",
     "videos": "[]"
 }

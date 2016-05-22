@@ -1,24 +1,23 @@
 {
-    "title": "Egg fried rice with tomatoes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "16",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/eggfriedrice_89260_16x9.jpg"
-    ],
-    "description": "This classic Chinese dish is fast, easy and vegetarian. It\u2019s also a tasty way to use up leftovers, especially cold rice.",
     "author": {
         "ching-he_huang": "Ching-He Huang"
     },
-    "show": {
-        "b00cjxzp": "Chinese Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Chinese",
+    "description": "This classic Chinese dish is fast, easy and vegetarian. It\u2019s also a tasty way to use up leftovers, especially cold rice.",
+    "dishes": [
+        "fried_rice",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/eggfriedrice_89260_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,14 +33,21 @@
             "1 large spring onion, finely sliced"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "16",
+    "serves": "Serves 4",
+    "show": {
+        "b00cjxzp": "Chinese Food Made Easy"
+    },
     "steps": [
         "Heat a wok until smoking and add half the groundnut oil, then add the eggs and scramble for 1-2 minutes. Transfer the scrambled eggs to a warm plate and set aside. Wipe away the excess oil from the wok.",
         "Reheat the wok and add the remaining groundnut oil. When the work is hot, add the broccoli florets and carrot and stir-fry for 3 minutes until tender, but still crunchy. Add the cooked rice and stir well to break up the grains, then add the tomatoes and stir fry for 1-2 minutes.",
         "Return the egg to the wok with the rice and vegetables and season, to taste, with the soy sauce, sesame oil and pepper. Stir in the sliced spring onion.",
         "Pile the rice onto a plate and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Egg fried rice with tomatoes",
     "videos": "[]"
 }

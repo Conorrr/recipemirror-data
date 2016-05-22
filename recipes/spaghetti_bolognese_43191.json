@@ -1,23 +1,25 @@
 {
-    "title": "Hairy Bikers' spaghetti bolognese",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 5-6",
-    "recommendations": "56",
-    "images": [
-        
-    ],
-    "description": "The Hairy Bikers give us their simple recipe for a classic spaghetti Bolognese, a firm family favourite for decades.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        "If serving at the table, it\u2019s a good idea to toss the spaghetti with a tiny amount of oil before transferring it to a serving dish as this will stop the pasta sticking together. Make sure you don\u2019t add too much though, or the sauce will slide off the spaghetti."
+    "cookTime": "1 to 2 hours",
+    "cusine": "Italian",
+    "description": "The Hairy Bikers give us their simple recipe for a classic spaghetti Bolognese, a firm family favourite for decades.",
+    "dishes": [
+        "crumble",
+        "pasta",
+        "sauce",
+        "spaghetti_bolognese",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "how_to_brown_mince"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -41,6 +43,12 @@
             "freshly grated parmesan cheese, for serving"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "56",
+    "serves": "Serves 5-6",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
+    },
     "steps": [
         "Place the mince in a large non-stick saucepan with the onion, celery, carrots and garlic.",
         "Dry-fry over a medium heat, stirring from time to time with a wooden spoon for 8\u201310 minutes, or until the beef is no longer pink and the vegetables are beginning to brown.",
@@ -55,8 +63,9 @@
         "Drain the spaghetti in a colander and divide between warmed bowls.",
         "Spoon the Bolognese sauce on top, sprinkle with freshly grated parmesan cheese and serve immediately."
     ],
-    "howTos": [
-        "how_to_brown_mince"
+    "tips": [
+        "If serving at the table, it\u2019s a good idea to toss the spaghetti with a tiny amount of oil before transferring it to a serving dish as this will stop the pasta sticking together. Make sure you don\u2019t add too much though, or the sauce will slide off the spaghetti."
     ],
+    "title": "Hairy Bikers' spaghetti bolognese",
     "videos": "[]"
 }

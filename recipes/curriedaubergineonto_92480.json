@@ -1,26 +1,30 @@
 {
-    "title": "Spiced aubergine on toast",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "curry",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "4 pieces crusty bread, toasted in a ridged griddle pan",
+            "1 tbsp Greek-style yoghurt",
+            "1-2 tbsp chopped fresh coriander leaves"
+        ],
         "default": [
             "4-5 tbsp vegetable oil",
             "1 onion, peeled, sliced",
@@ -32,12 +36,13 @@
             "pinch salt",
             "2 aubergines, trimmed, cut into 2cm/\u00bein cubes",
             "1 lime, juice only"
-        ],
-        "To serve": [
-            "4 pieces crusty bread, toasted in a ridged griddle pan",
-            "1 tbsp Greek-style yoghurt",
-            "1-2 tbsp chopped fresh coriander leaves"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Heat 1-2 tablespoons of the oil in a frying pan over a medium heat. Add the onion, garlic and chilli and fry for 6-8 minutes, or until softened and golden-brown. Remove from the pan and set aside.",
@@ -46,8 +51,9 @@
         "Return the onion mixture to the pan and stir well to combine. Squeeze over the lime juice.",
         "To serve, place one piece of griddled bread into the centre of each of four serving plates. Spoon over the spiced aubergine. Serve a dollop of the Greek-style yoghurt alongside. Sprinkle over the coriander leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spiced aubergine on toast",
     "videos": "[]"
 }

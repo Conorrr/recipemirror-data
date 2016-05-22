@@ -1,23 +1,20 @@
 {
-    "title": "Chicken satay",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "satay",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -32,13 +29,20 @@
             "drizzle of olive oil, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place the chilli, peanut butter, water, soy sauce, sesame oil and seeds into a food processor and blend until smooth.",
         "Thread the chicken chunks onto two wooden skewers and drizzle with the oil.",
         "To serve, place the satay sauce into a small bowl. Place the chicken skewers onto a plate with the sauce alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken satay",
     "videos": "[]"
 }

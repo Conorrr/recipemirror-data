@@ -1,35 +1,27 @@
 {
-    "title": "Chicken blanquette with roasted shallots and fresh garden peas",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Slow poached chicken and tarragon is a magical pairing but James Martin ups the ante by adding a creamy mushroom sauce.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Slow poached chicken and tarragon is a magical pairing but James Martin ups the ante by adding a creamy mushroom sauce.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the poached chicken": [
-            "1 kg/2lb 4oz chicken, cut into 8 pieces",
-            "1 carrot, halved",
-            "1 small onion, halved",
-            "1 leek, quartered",
-            "1 garlic clove, crushed",
-            "1 large sprig of thyme",
-            "1 bay leaf"
-        ],
         "For the blanquette sauce": [
             "25g/1oz butter, plus extra for frying",
             "25g/1oz plain flour",
@@ -40,6 +32,15 @@
             "110ml/4fl oz double cream",
             "3 tbsp tarragon leaves, picked"
         ],
+        "For the poached chicken": [
+            "1 kg/2lb 4oz chicken, cut into 8 pieces",
+            "1 carrot, halved",
+            "1 small onion, halved",
+            "1 leek, quartered",
+            "1 garlic clove, crushed",
+            "1 large sprig of thyme",
+            "1 bay leaf"
+        ],
         "For the roasted shallots and fresh garden peas": [
             "4 banana shallots, halved",
             "2 tbsp olive oil",
@@ -47,6 +48,12 @@
             "50g/1\u00beoz butter",
             "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "To poach the chicken, place the chicken pieces in a large saucepan and cover with 2 litres/3\u00bd pints of water.",
@@ -67,8 +74,9 @@
         "Heat a frying pan and add the butter and peas, season with salt and pepper and cook gently for a few minutes.",
         "To serve, place a couple of pieces of chicken on each plate and spoon over the sauce. Place the roasted shallots and peas next to the chicken."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken blanquette with roasted shallots and fresh garden peas",
     "videos": "[]"
 }

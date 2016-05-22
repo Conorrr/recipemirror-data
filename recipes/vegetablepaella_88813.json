@@ -1,24 +1,22 @@
 {
-    "title": "Vegetable 'paella'",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "paella",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -36,13 +34,20 @@
             "\u00bd lemon, juice only"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil in a pan and gently fry the onion and garlic for 3-4 minutes until soft. Add the aubergine, courgette and ground turmeric and continue to cook for a further 3-4 minutes, then stir in the rice to coat in the oil.",
         "Dissolve the stock cube in the hot water, then pour over the rice in the pan. Bring to a gentle simmer and cook, part covered, until the rice is tender, about ten minutes.",
         "To serve, stir in the chopped tomato, chopped parsley and lemon juice and pile onto a serving plate."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Vegetable 'paella'",
     "videos": "[]"
 }

@@ -1,31 +1,38 @@
 {
-    "title": "Salt marsh lamb cooked with wild sea herbs and quick homemade jus",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Try Tristan Welch\u2019s shoulder of lamb baked in a salt-dough crust and flavoured with wild herbs.",
     "author": {
         "tristan_welch": "Tristan Welch"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Try Tristan Welch\u2019s shoulder of lamb baked in a salt-dough crust and flavoured with wild herbs.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "roast_lamb",
+        "sausage",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the salt dough": [
-            "1kg/2lb 2oz strong white bread flour, plus extra for dusting",
-            "600g/1lb 6oz table salt",
-            "9 free-range egg whites",
-            "300ml/11fl oz water"
+        "For the jus": [
+            "knob of butter",
+            "trimmings from the lamb shoulder (see above)",
+            "2 shallots, roughly chopped",
+            "3 garlic cloves, roughly chopped",
+            "4 fresh thyme sprigs",
+            "1 fresh bay leaf",
+            "125ml/4\u00bdfl oz white wine",
+            "300ml/11fl oz chicken stock"
         ],
         "For the lamb": [
             "1 x 2.5-3kg/5\u00bd-6\u00bdlb shoulder salt marsh lamb, any fat trimmed and reserved for jus (see below)",
@@ -38,15 +45,11 @@
             "sea salt flakes",
             "8 medium-sized potatoes"
         ],
-        "For the jus": [
-            "knob of butter",
-            "trimmings from the lamb shoulder (see above)",
-            "2 shallots, roughly chopped",
-            "3 garlic cloves, roughly chopped",
-            "4 fresh thyme sprigs",
-            "1 fresh bay leaf",
-            "125ml/4\u00bdfl oz white wine",
-            "300ml/11fl oz chicken stock"
+        "For the salt dough": [
+            "1kg/2lb 2oz strong white bread flour, plus extra for dusting",
+            "600g/1lb 6oz table salt",
+            "9 free-range egg whites",
+            "300ml/11fl oz water"
         ],
         "To serve": [
             "knob of butter",
@@ -54,6 +57,12 @@
             "500g/1lb 2oz spinach",
             "50g/2oz wild sorrel"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the salt dough, place the flour and salt into a food processor. With the motor running, slowly add the egg whites, then the water, until the mixture comes together as a dough (you may not need all of the water). Tip the dough out onto a lightly floured work surface and knead for five minutes. Shape the dough into a sausage, cover with cling film and chill in the fridge for 30 minutes.",
@@ -76,8 +85,9 @@
         "Strain the jus through a sieve.",
         "Spoon the wilted sea beets and spinach onto serving plates and top with a couple of slices of the salt marsh lamb. Place the potatoes alongside. Drizzle over the jus and garnish with wild sorrel."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salt marsh lamb cooked with wild sea herbs and quick homemade jus",
     "videos": "[]"
 }

@@ -1,26 +1,30 @@
 {
-    "title": "Banana split",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "A cheeky childhood dessert of fruit and ice cream served with a dark chocolate and crunchy biscuit topping.",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "A cheeky childhood dessert of fruit and ice cream served with a dark chocolate and crunchy biscuit topping.",
+    "dishes": [
+        "biscuit",
+        "icing",
+        "jam",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "1 tbsp grated dark chocolate",
+            "icing sugar and cocoa, for dusting",
+            "1 sprig fresh mint"
+        ],
         "default": [
             "1 banana, peeled and cut in half lengthways",
             "2 scoops vanilla ice cream",
@@ -29,20 +33,22 @@
             "25g/1oz dark chocolate, melted",
             "2 tbsp milk",
             "1 digestive biscuit, crushed"
-        ],
-        "To serve": [
-            "1 tbsp grated dark chocolate",
-            "icing sugar and cocoa, for dusting",
-            "1 sprig fresh mint"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Place the banana into an oblong serving bowl and place the two scoops of ice cream on top. Scatter over the raspberries and strawberries.",
         "Mix the melted chocolate together with the milk until well combined, then stir in the crushed biscuit. Spoon the mixture over the banana.",
         "Decorate the banana split with the grated chocolate, dust with the icing sugar and cocoa powder and top with a sprig of mint."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Banana split",
     "videos": "[]"
 }

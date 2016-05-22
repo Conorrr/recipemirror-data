@@ -1,31 +1,28 @@
 {
-    "title": "Chicken with asparagus and new potato pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 8",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Celebrate the start of summer with this simple and seasonal asparagus and new potato chicken pie.",
     "author": {
         "sophie_grigson": "Sophie Grigson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Celebrate the start of summer with this simple and seasonal asparagus and new potato chicken pie.",
+    "dishes": [
+        "chicken_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "500g/1lb 2oz puff pastry",
-            "1 free-range egg, lightly beaten",
-            "plain flour"
-        ],
         "For the filling": [
             "1 onion, chopped",
             "2 cloves garlic, chopped",
@@ -39,7 +36,18 @@
             "700g/1lb 9oz boneless chicken, cut into 3-4cm/1\u00bdin chunks",
             "150ml/5fl oz double cream",
             "300g/10oz asparagus, trimmed and cut into 4cm/1\u00bdin lengths"
+        ],
+        "default": [
+            "500g/1lb 2oz puff pastry",
+            "1 free-range egg, lightly beaten",
+            "plain flour"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Serves 8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the filling, fry the onion and garlic gently in the butter until tender, without browning.",
@@ -69,8 +77,9 @@
         "After 10 - 15 minutes, when the pie is golden brown, reduce the heat to 190C/375F/Gas 5 and continue cooking for a further 20-25 minutes.",
         "Serve hot."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Chicken with asparagus and new potato pie",
     "videos": "[]"
 }

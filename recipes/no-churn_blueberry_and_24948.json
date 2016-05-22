@@ -1,24 +1,21 @@
 {
-    "title": "No-churn blueberry and lemon ice cream",
-    "cookTime": "no cooking required",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/no-churn_blueberry_and_24948_16x9.jpg"
-    ],
-    "description": "Homemade ice cream tastes great and is surprisingly easy. This version is lower in calories than most shop-bought ice cream. For this recipe you will need a food processor or blender. This meal provides 224 kcal, 14g protein, 42.1g carbohydrate (of which 42g sugars), 0.2g fat (of which 0g saturates), 5g fibre and 0.1g salt per portion.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        "This ice cream can be kept in the freezer for up to three days."
+    "cookTime": "no cooking required",
+    "description": "Homemade ice cream tastes great and is surprisingly easy. This version is lower in calories than most shop-bought ice cream. For this recipe you will need a food processor or blender. This meal provides 224 kcal, 14g protein, 42.1g carbohydrate (of which 42g sugars), 0.2g fat (of which 0g saturates), 5g fibre and 0.1g salt per portion.",
+    "dishes": [
+        "ice_cream",
+        "icing"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/no-churn_blueberry_and_24948_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -28,13 +25,20 @@
             "2 lemons, grated rind and 1 tbsp juice"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Place the blueberries in a food processor or blender with the yoghurt, icing sugar, lemon rind and juice and process until smooth.",
         "Spoon the mixture into a freezer-proof container and freeze.",
         "When the mixture is softly frozen and easily spoonable, serve with a few blueberries and a sprinkling of icing sugar."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This ice cream can be kept in the freezer for up to three days."
     ],
+    "title": "No-churn blueberry and lemon ice cream",
     "videos": "[]"
 }

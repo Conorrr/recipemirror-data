@@ -1,26 +1,41 @@
 {
-    "title": "Beer-marinated rack of pork with Swiss-chard gratin",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 6",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "This easy, lip-smacking dish needs to be prepared well ahead, but requires very little attention - just sit back and let the oven work it's magic.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b04xycrx": "James Martin: Home Comforts"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "American",
+    "description": "This easy, lip-smacking dish needs to be prepared well ahead, but requires very little attention - just sit back and let the oven work it's magic.",
+    "dishes": [
+        "brioche",
+        "gratin",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the gratin": [
+            "700g/1lb 9oz Swiss chard, trimmed, chopped into 2cm/\u00bein slices",
+            "2 large potatoes, peeled and cut into 1.5cm/\u00bdin pieces",
+            "1 onion, sliced",
+            "50g/1\u00beoz unsalted butter",
+            "50g/1\u00beoz plain flour",
+            "400ml/14fl oz full-fat milk",
+            "200ml/7fl oz chicken stock",
+            "100g/3\u00bdoz Gruy\u00e8re, grated",
+            "salt and freshly ground black pepper"
+        ],
         "For the pork": [
             "2 tbsp sea salt flakes",
             "2 tbsp dark brown sugar",
@@ -36,18 +51,13 @@
             "100g/3\u00bdoz brioche, roughly torn",
             "1 tsp English mustard powder",
             "1 tbsp brown mustard seeds, soaked in water overnight"
-        ],
-        "For the gratin": [
-            "700g/1lb 9oz Swiss chard, trimmed, chopped into 2cm/\u00bein slices",
-            "2 large potatoes, peeled and cut into 1.5cm/\u00bdin pieces",
-            "1 onion, sliced",
-            "50g/1\u00beoz unsalted butter",
-            "50g/1\u00beoz plain flour",
-            "400ml/14fl oz full-fat milk",
-            "200ml/7fl oz chicken stock",
-            "100g/3\u00bdoz Gruy\u00e8re, grated",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "7",
+    "serves": "Serves 6",
+    "show": {
+        "b04xycrx": "James Martin: Home Comforts"
     },
     "steps": [
         "For the pork, pour 100ml/3\u00bdfl oz cold water into a large saucepan. Add the sea salt flakes and sugar and heat over a low heat until dissolved, stirring well. Remove the pan from the heat and add 400ml/14fl oz cold water, the peppercorns, garlic, bay leaves, unsoaked yellow mustard seeds, thyme, parsley and beer.",
@@ -65,8 +75,9 @@
         "When the pork is cooked to your liking, set it aside to rest for 15 minutes (keep warm). Continue cooking the Swiss-chard gratin for a further 15 minutes, if necessary; otherwise, keep warm.",
         "To serve, carve the pork loin rack into six chops. Place one onto each serving plate and spoon the Swiss-chard gratin alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beer-marinated rack of pork with Swiss-chard gratin",
     "videos": "[p02gx5b6:p02gx5bf]"
 }

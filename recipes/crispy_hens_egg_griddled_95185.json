@@ -1,28 +1,30 @@
 {
-    "title": "Crispy hen\u2019s egg, griddled asparagus, asparagus pur\u00e9e, burnt onion",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This innovative recipe puts together onion powder with sweet asparagus, soft eggs and crisp potato.",
     "author": {
         "daniel_clifford": "Daniel Clifford"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This innovative recipe puts together onion powder with sweet asparagus, soft eggs and crisp potato.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_cook_asparagus"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the burnt onion powder": [
-            "750g/1lb 10oz onions, peeled"
+        "For the asparagus pur\u00e9e": [
+            "750g/1lb 10oz asparagus, chopped",
+            "150ml/5fl oz beurre noisette",
+            "125ml/4fl oz boiled double cream",
+            "115g/4oz washed baby spinach"
         ],
         "For the asparagus velout\u00e9": [
             "50g/2oz butter",
@@ -34,11 +36,8 @@
             "200ml/7fl oz boiled double cream",
             "150g/5\u00bdoz baby spinach, washed"
         ],
-        "For the asparagus pur\u00e9e": [
-            "750g/1lb 10oz asparagus, chopped",
-            "150ml/5fl oz beurre noisette",
-            "125ml/4fl oz boiled double cream",
-            "115g/4oz washed baby spinach"
+        "For the burnt onion powder": [
+            "750g/1lb 10oz onions, peeled"
         ],
         "For the crispy hen\u2019s eggs": [
             "2 tbsp white wine vinegar",
@@ -50,6 +49,12 @@
             "2 tbsp olive oil",
             "salt, to season"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the burnt onion powder, preheat the oven to 65C/150F/Gas: lowest possible setting.",
@@ -72,8 +77,9 @@
         "Heat a griddle pan until medium hot. Drizzle the asparagus with olive oil, sprinkle with salt and griddle them on a medium heat until charred on each side.",
         "To serve, sprinkle the onion powder onto the griddled asparagus. Spoon three stripes of asparagus pur\u00e9e across each serving plate, and place two griddled asparagus covered in the onion powder across the pur\u00e9e. Place the deep-fried egg on top of the asparagus. Pour the velout\u00e9 into small jugs and serve alongside."
     ],
-    "howTos": [
-        "how_to_cook_asparagus"
+    "tips": [
+        
     ],
+    "title": "Crispy hen\u2019s egg, griddled asparagus, asparagus pur\u00e9e, burnt onion",
     "videos": "[]"
 }

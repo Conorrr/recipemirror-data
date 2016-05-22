@@ -1,32 +1,25 @@
 {
-    "title": "Taleggio and rocket pesto tart",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "phil_vickery": "Phil Vickery"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "pesto",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the tart": [
-            "4 x 10cm/4in squares ready-made filo pastry",
-            "1 free-range egg, beaten",
-            "85g/3oz Taleggio cheese, sliced",
-            "1 tbsp chopped rocket"
-        ],
         "For the rocket pesto": [
             "2 tbsp olive oil",
             "3 tbsp pine nuts",
@@ -34,9 +27,21 @@
             "large handful rocket",
             "salt and freshly ground black pepper"
         ],
+        "For the tart": [
+            "4 x 10cm/4in squares ready-made filo pastry",
+            "1 free-range egg, beaten",
+            "85g/3oz Taleggio cheese, sliced",
+            "1 tbsp chopped rocket"
+        ],
         "To serve": [
             "1 free-range egg, poached"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -46,8 +51,9 @@
         "For the rocket pesto, place all the pesto ingredients into a small food processor and blend until smooth.",
         "To serve, place the tart onto a serving plate, drizzle with the rocket pesto and top with a poached egg."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Taleggio and rocket pesto tart",
     "videos": "[]"
 }

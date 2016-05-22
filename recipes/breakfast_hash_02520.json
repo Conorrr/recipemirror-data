@@ -1,23 +1,20 @@
 {
-    "title": "Breakfast hash",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "24",
-    "images": [
-        
-    ],
-    "description": "Sausage and onion hash with a couple of eggs cracked over is definitely worth getting out of bed for.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b01nd35k": "Nigel Slater's Dish of the Day"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "British",
+    "description": "Sausage and onion hash with a couple of eggs cracked over is definitely worth getting out of bed for.",
+    "dishes": [
+        "sausage"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -30,6 +27,12 @@
             "2 free-range eggs"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "24",
+    "serves": "Serves 2",
+    "show": {
+        "b01nd35k": "Nigel Slater's Dish of the Day"
+    },
     "steps": [
         "Heat the oil in a large pan. Add the butter and skinned sausages and cook for a few minutes, stirring to ensure all the meat browns.",
         "Add the onion to the pan.",
@@ -37,8 +40,9 @@
         "Add the potato to the pan.",
         "When the pan ingredients are cooked, crack the eggs into the pan. Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Breakfast hash",
     "videos": "[p01290zm:p01290zt]"
 }

@@ -1,26 +1,42 @@
 {
-    "title": "Chicken with rice, peas and dumplings",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "A classic dish from the Caribbean, full of big, spicy flavours for hearty appetites.",
     "author": {
         "lift_community_trust": "Lift Community Trust"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        "The seasonings used for the chicken can be bought from good spice shops but are easy to make up at home. Simply mix the ingredients well; they will keep for several weeks in airtight containers. For the hot and spicy seasoning: 6 tsp paprika, 4 tsp black pepper, 4 tsp dried thyme, 4 tsp dried oregano, 3 tsp English mustard powder, 3 tsp cayenne pepper, 2\u00bd tsp salt, 2 tsp onion powder and 2 tsp garlic powder For the all-purpose seasoning: 1 tsp dried basil, 1 tsp ground mace, 1 tsp dried marjoram, 1 tsp ground cloves, 1 tsp dried thyme, 1 tsp ground nutmeg, 1 tsp oregano, 1 tsp black pepper, 1 tsp dried parsley, \u00bd tsp cayenne pepper, 1 tsp summer savoury"
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Caribbean",
+    "description": "A classic dish from the Caribbean, full of big, spicy flavours for hearty appetites.",
+    "dishes": [
+        "bread",
+        "gravy",
+        "jerk_chicken",
+        "ketchup",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chicken": [
+            "175g/6oz plain flour",
+            "\u00bd tsp garlic powder",
+            "3 tbsp hot and spicy seasoning (see Tips)",
+            "1\u00bd tbsp all-purpose seasoning (see Tips)",
+            "6 boneless chicken breasts",
+            "sunflower oil, for deep-frying"
+        ],
+        "For the dumplings": [
+            "\u00bd tsp salt",
+            "250g/9oz self-raising flour",
+            "2\u20133 tbsp oil"
+        ],
         "For the rice and peas": [
             "400g/14oz can red kidney beans",
             "400ml/14fl oz can coconut milk",
@@ -40,20 +56,13 @@
             "1 tbsp gravy browning",
             "2 tbsp sugar",
             "1 tbsp cornflour"
-        ],
-        "For the dumplings": [
-            "\u00bd tsp salt",
-            "250g/9oz self-raising flour",
-            "2\u20133 tbsp oil"
-        ],
-        "For the chicken": [
-            "175g/6oz plain flour",
-            "\u00bd tsp garlic powder",
-            "3 tbsp hot and spicy seasoning (see Tips)",
-            "1\u00bd tbsp all-purpose seasoning (see Tips)",
-            "6 boneless chicken breasts",
-            "sunflower oil, for deep-frying"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 6",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
     },
     "steps": [
         "For the rice & peas, tip the beans into a pan, add 400ml/14floz water and boil for three minutes. Add the coconut milk, Scotch bonnet, spring onions and thyme, bring to the boil again and cook for five minutes.",
@@ -65,8 +74,9 @@
         "Heat the oil in a deep-fat fryer or deep pan to about 170C/325F. The oil is hot enough when a cube of bread floats to the surface and turns golden-brown. (CAUTION: hot oil can be dangerous. Never leave the pan unattended.)",
         "Fry the chicken, a few pieces at a time, until cooked through and golden- brown. Drain on kitchen paper then serve with the rice and peas, sauce and dumplings."
     ],
-    "howTos": [
-        
+    "tips": [
+        "The seasonings used for the chicken can be bought from good spice shops but are easy to make up at home. Simply mix the ingredients well; they will keep for several weeks in airtight containers. For the hot and spicy seasoning: 6 tsp paprika, 4 tsp black pepper, 4 tsp dried thyme, 4 tsp dried oregano, 3 tsp English mustard powder, 3 tsp cayenne pepper, 2\u00bd tsp salt, 2 tsp onion powder and 2 tsp garlic powder For the all-purpose seasoning: 1 tsp dried basil, 1 tsp ground mace, 1 tsp dried marjoram, 1 tsp ground cloves, 1 tsp dried thyme, 1 tsp ground nutmeg, 1 tsp oregano, 1 tsp black pepper, 1 tsp dried parsley, \u00bd tsp cayenne pepper, 1 tsp summer savoury"
     ],
+    "title": "Chicken with rice, peas and dumplings",
     "videos": "[]"
 }

@@ -1,26 +1,32 @@
 {
-    "title": "Chervil stuffed roast chicken salad with shaved turnips, lardons and cider vinaigrette",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "oliver_rowe": "Oliver Rowe"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "caramel",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "de-glazing_pans",
+        "making_herb_butter"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chicken": [
+            "1 medium chicken, cut in half down the middle",
+            "60ml/2\u00bcfl oz chicken stock"
+        ],
         "For the cider vinaigrette": [
             "2 tbsp sugar",
             "250ml/8\u00befl oz good-quality cider",
@@ -30,18 +36,14 @@
             "2 cloves garlic, crushed",
             "salt and freshly ground black pepper"
         ],
-        "For the lardons": [
-            "3 rashers bacon, sliced into lardons"
-        ],
         "For the herb butter": [
             "60g/2\u00bcoz butter",
             "small bunch fresh chervil, roughly chopped",
             "small bunch fresh chives, roughly chopped",
             "salt and freshly ground black pepper"
         ],
-        "For the chicken": [
-            "1 medium chicken, cut in half down the middle",
-            "60ml/2\u00bcfl oz chicken stock"
+        "For the lardons": [
+            "3 rashers bacon, sliced into lardons"
         ],
         "To serve": [
             "4 baby turnips, shaved into strips with a vegetable peeler",
@@ -49,6 +51,12 @@
             "handful fresh parsley leaves",
             "fresh chives and chervil, chopped, to serve"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the cider vinaigrette, place the sugar in a frying pan and cook over a medium heat until caramelised. Add the cider and cook until reduced and sticky. Remove from the heat.",
@@ -62,9 +70,9 @@
         "To serve, toss the shaved turnips, crisp leaves, parsley leaves and lardons with the cider vinaigrette.",
         "Cut the chicken into serving pieces and add to the salad. Arrange the salad on a plate, pour over the pan juices and sprinkle with some chopped chives and chervil. Serve."
     ],
-    "howTos": [
-        "de-glazing_pans",
-        "making_herb_butter"
+    "tips": [
+        
     ],
+    "title": "Chervil stuffed roast chicken salad with shaved turnips, lardons and cider vinaigrette",
     "videos": "[]"
 }

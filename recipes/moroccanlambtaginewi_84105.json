@@ -1,26 +1,40 @@
 {
-    "title": "Moroccan lamb tagine with pickled lemons and herbed couscous",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "crumble",
+        "jam",
+        "pickle",
+        "pie",
+        "stir-fries",
+        "stock",
+        "tagine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the couscous": [
+            "250g/9oz couscous, cooked according to packet instructions",
+            "2 lemons, juice only",
+            "small bunch fresh coriander, roughly chopped",
+            "small bunch fresh mint, roughly chopped"
+        ],
+        "For the lemons": [
+            "2 lemons, pricked all over with a fork",
+            "6 tbsp rock salt",
+            "250ml/10 fl oz water"
+        ],
         "For the tagine": [
             "3 tbsp olive oil",
             "\u00bd onion, finely chopped",
@@ -36,18 +50,13 @@
             "110g/4oz mixed beans from a can, drained and rinsed",
             "4 tbsp fresh coriander, roughly chopped",
             "salt and freshly ground black pepper"
-        ],
-        "For the couscous": [
-            "250g/9oz couscous, cooked according to packet instructions",
-            "2 lemons, juice only",
-            "small bunch fresh coriander, roughly chopped",
-            "small bunch fresh mint, roughly chopped"
-        ],
-        "For the lemons": [
-            "2 lemons, pricked all over with a fork",
-            "6 tbsp rock salt",
-            "250ml/10 fl oz water"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat the oil in a large deep pan over a medium heat. Add the lamb and fry for 2-3 minutes, or until browned on all sides.",
@@ -57,8 +66,9 @@
         "Meanwhile, for the couscous, place all of the ingredients into a bowl and mic well, seasoning, to taste, with sea salt and freshly ground black pepper.",
         "For the lemons, heat the water until boiling. Add the salt and the pricked lemons and simmer for 15 minutes, then drain and leave to cool before cutting each into quarters and serving with the tagine."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Moroccan lamb tagine with pickled lemons and herbed couscous",
     "videos": "[]"
 }

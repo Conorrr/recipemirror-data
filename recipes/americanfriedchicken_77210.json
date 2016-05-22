@@ -1,23 +1,21 @@
 {
-    "title": "American fried chicken with spicy chickpeas and honey glazed tomatoes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "phil_vickery": "Phil Vickery"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -28,16 +26,22 @@
             "1 free-range egg, beaten",
             "300ml/10\u00bdfl oz hot vegetable oil, to deep fry"
         ],
-        "For the tomatoes": [
-            "2 beef tomatoes, thinly sliced",
-            "2 tbsp honey"
-        ],
         "For the pur\u00e9e": [
             "1 tin chickpeas, rinsed and drained",
             "3 tbsp olive oil",
             "2 garlic cloves, crushed",
             "1 tbsp coriander, chopped"
+        ],
+        "For the tomatoes": [
+            "2 beef tomatoes, thinly sliced",
+            "2 tbsp honey"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -48,8 +52,9 @@
         "For the pur\u00e9e, blend together the ingredients using a food processor to form a smooth paste.",
         "To serve, lay some tomatoes on a plate, top with chickpea pur\u00e9e, add the remaining tomatoes and top with the fried chicken."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "American fried chicken with spicy chickpeas and honey glazed tomatoes",
     "videos": "[]"
 }

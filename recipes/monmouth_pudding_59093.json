@@ -1,24 +1,28 @@
 {
-    "title": "Monmouth pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This is a pretty rhubarb pudding, full of warming jam and topped with cloud-like meringue.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "This is a pretty rhubarb pudding, full of warming jam and topped with cloud-like meringue.",
+    "dishes": [
+        "bread",
+        "cake",
+        "jam",
+        "meringue",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -35,6 +39,12 @@
             "double cream, lightly whipped, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "6",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "Preheat the oven to 150C/300F/Gas 2. Grease a 20cm/8in baking dish with butter and dust the inside with a little caster sugar",
         "Heat a frying pan and toast the breadcrumbs until golden-brown. Remove the pan from the heat and the breadcrumbs to the brown sugar, mixing until well combined..",
@@ -46,8 +56,9 @@
         "Finally, whisk the egg whites in a bowl until soft peaks form when the whisk is removed. Slowly whisk in the three tablespoons of sugar until stiff peaks form when the whisk is removed. Spoon the mixture on top of the pudding and bake for a further 8-10 minutes, or until golden-brown.",
         "Serve with lightly-whipped cream."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Monmouth pudding",
     "videos": "[]"
 }

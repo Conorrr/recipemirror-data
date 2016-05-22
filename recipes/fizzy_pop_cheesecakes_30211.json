@@ -1,26 +1,41 @@
 {
-    "title": "Fizzy pop cheesecakes",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 3 tiers of decorated cheesecakes",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Three baked cheesecakes are flavoured with childhood favourite fizzy drinks and extravagantly decorated with Italian meringue. You will need 3 springform cake tins (1 x 20cm/8in, 1 x 18cm/7in tin and 1 x 15cm/6in), plus cake boards of the same same size and straws or cake dowels to support the tiers.",
     "author": {
         "nadiya": "Nadiya"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "American",
+    "description": "Three baked cheesecakes are flavoured with childhood favourite fizzy drinks and extravagantly decorated with Italian meringue. You will need 3 springform cake tins (1 x 20cm/8in, 1 x 18cm/7in tin and 1 x 15cm/6in), plus cake boards of the same same size and straws or cake dowels to support the tiers.",
+    "dishes": [
+        "bread",
+        "cake",
+        "cheesecake",
+        "icing",
+        "lemonade",
+        "meringue",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry",
+        "rubbing_in",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Italian meringue fizz": [
+            "2 medium egg whites",
+            "110g/4oz caster sugar",
+            "100g/3\u00bdoz good-quality white chocolate buttons",
+            "50g/1\u00beoz popping candy",
+            "3 cubes crystallised ginger, roughly chopped"
+        ],
         "For the cheesecake pastry base": [
             "750g/1lb 10oz plain flour",
             "375g/13oz unsalted butter, chilled and cubed",
@@ -38,6 +53,11 @@
             "1 large unwaxed lemon, zest only",
             "1 tsp vanilla bean paste"
         ],
+        "For the cream soda topping": [
+            "100ml/3\u00bdfl oz double cream",
+            "100g/3\u00bdoz white chocolate",
+            "2 tsp vanilla bean paste"
+        ],
         "For the ginger beer topping": [
             "100ml/3\u00bdfl oz double cream",
             "100g/3\u00bdoz dark chocolate buttons (minimum 70% cocoa solids)",
@@ -48,19 +68,13 @@
             "100g/3\u00bdoz good-quality white chocolate buttons",
             "2 tsp Sicillian lemon extract",
             "yellow gel food colouring"
-        ],
-        "For the cream soda topping": [
-            "100ml/3\u00bdfl oz double cream",
-            "100g/3\u00bdoz white chocolate",
-            "2 tsp vanilla bean paste"
-        ],
-        "For the Italian meringue fizz": [
-            "2 medium egg whites",
-            "110g/4oz caster sugar",
-            "100g/3\u00bdoz good-quality white chocolate buttons",
-            "50g/1\u00beoz popping candy",
-            "3 cubes crystallised ginger, roughly chopped"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Makes 3 tiers of decorated cheesecakes",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 180C/160C Fan/Gas 4.",
@@ -81,10 +95,9 @@
         "Starting with the largest cheesecake, insert 3 drinking straws in a triangle formation about 5cm/2in apart (these will support the weight of the next layer of cheesecake). Carefully trim the straws to the same height as the cheesecake. Repeat the process with the 18cm/7in cheesecake.",
         "Stack the cheesecakes from large to small and pipe the Italian meringue around the edge of each of the bottom 2 cheesecakes and over the top of the smallest one. Decorate the cheesecakes with white chocolate on the top layer, popping candy on the middle and crystallised ginger on the bottom."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry",
-        "rubbing_in",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Fizzy pop cheesecakes",
     "videos": "[]"
 }

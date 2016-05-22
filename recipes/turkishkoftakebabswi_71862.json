@@ -1,26 +1,39 @@
 {
-    "title": "Turkish kofta kebabs with minted yoghurt and kohlrabi and carrot salad",
-    "cookTime": "less than 10 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "21",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/turkishkoftakebabswi_71862_16x9.jpg"
-    ],
-    "description": "Delicious, healthy and quick to make - you really must have these easy posh kebabs at any barbecue!",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b006xkb4": "Rick Stein's Food Heroes"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Turkish_and_Middle_Eastern",
+    "description": "Delicious, healthy and quick to make - you really must have these easy posh kebabs at any barbecue!",
+    "dishes": [
+        "bun",
+        "coleslaw",
+        "kebab",
+        "lamb_kofta",
+        "salad",
+        "sausage"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/turkishkoftakebabswi_71862_16x9.jpg"
+    ],
     "ingredients": {
+        "For the carrot salad": [
+            "2 large carrots, peeled and halved",
+            "2 kohlrabi, peeled",
+            "2 tbsp sunflower oil",
+            "4 tsp cumin seeds",
+            "4 tsp lemon juice"
+        ],
+        "For the minted yoghurt": [
+            "200g/7oz Greek natural yoghurt",
+            "2 tbsp chopped mint"
+        ],
         "default": [
             "900g/2lb minced lamb",
             "2 onions, finely grated",
@@ -31,18 +44,13 @@
             "2 vine-ripened tomatoes, thinly sliced",
             "salt",
             "freshly ground black pepper"
-        ],
-        "For the minted yoghurt": [
-            "200g/7oz Greek natural yoghurt",
-            "2 tbsp chopped mint"
-        ],
-        "For the carrot salad": [
-            "2 large carrots, peeled and halved",
-            "2 kohlrabi, peeled",
-            "2 tbsp sunflower oil",
-            "4 tsp cumin seeds",
-            "4 tsp lemon juice"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "21",
+    "serves": "Serves 4",
+    "show": {
+        "b006xkb4": "Rick Stein's Food Heroes"
     },
     "steps": [
         "Preheat a charcoal barbecue 40 minutes ahead of cooking or a gas barbecue 10 minutes ahead of cooking. If using a cast-iron griddle pan, heat it over a high heat, then lower the heat slightly before cooking.",
@@ -56,8 +64,9 @@
         "Brush the kofta generously with oil and lightly oil the bars of the barbecue or griddle. Cook for five minutes, turning occasionally, until browned all over and cooked through.",
         "Spread the minted yoghurt over one large or four individual serving plates. Lay the kofta on top, garnsih with the sliced tomatoes and serve with the salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Turkish kofta kebabs with minted yoghurt and kohlrabi and carrot salad",
     "videos": "[]"
 }

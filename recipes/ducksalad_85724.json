@@ -1,23 +1,22 @@
 {
-    "title": "Duck salad",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "john_barrowman": "John Barrowman"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "bun",
+        "pie",
+        "salad",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -31,13 +30,20 @@
             "handful sesame seeds"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "",
+    "show": {
+        "b00701fw": "A Taste of My Life"
+    },
     "steps": [
         "Combine all the prepared vegetables in a salad bowl.",
         "In a separate bowl, toss the cooked duck pieces in the hoisin sauce.",
         "Place the hoisin duck on top of the salad and sprinkle with sesame seeds. Serve at once."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Duck salad",
     "videos": "[]"
 }

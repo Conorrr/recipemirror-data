@@ -1,23 +1,26 @@
 {
-    "title": "Chicken tikka and naan bread",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "An authentic chicken tikka is served with homemade naan breads. Use whatever boneless chicken you prefer for the tikka.",
     "author": {
         "cyrus_todiwala": "Cyrus Todiwala"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "An authentic chicken tikka is served with homemade naan breads. Use whatever boneless chicken you prefer for the tikka.",
+    "dishes": [
+        "bread",
+        "chicken_curry",
+        "curry",
+        "oven-baked_dishes",
+        "pie",
+        "prepare-ahead_desserts",
+        "salad"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -36,12 +39,6 @@
             "50ml/2fl oz mustard oil",
             "salt and white pepper, to taste"
         ],
-        "For the naan filling": [
-            "1 green chilli, deseeded and finely chopped",
-            "200g/7oz camembert",
-            "2 tbsp fresh coriander stalks, chopped",
-            "1 tsp ground coriander"
-        ],
         "For the naan bread": [
             "100g/3\u00bdoz plain Greek style or live yogurt, at room temperature",
             "160ml/5\u00bdfl oz milk, at room temperature",
@@ -54,11 +51,23 @@
             "nigella seeds and poppy seeds, to scatter (optional)",
             "2 tbsp fresh coriander, chopped"
         ],
+        "For the naan filling": [
+            "1 green chilli, deseeded and finely chopped",
+            "200g/7oz camembert",
+            "2 tbsp fresh coriander stalks, chopped",
+            "1 tsp ground coriander"
+        ],
         "For the salad": [
             "1 onion, finely sliced",
             "2 tbsp fresh coriander, chopped",
             "2 tbsp fresh mint leaves, chopped"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Cut the chicken into cubes large enough to be skewered (about 4cm/1\u00bdin cubes). Rub salt and pepper into the chicken and set aside.",
@@ -77,8 +86,9 @@
         "For the salad, combine all the ingredients in a bowl.",
         "To serve, scatter the naans with chopped coriander and serve with the chicken tikka and salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken tikka and naan bread",
     "videos": "[]"
 }

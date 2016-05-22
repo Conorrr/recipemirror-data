@@ -1,33 +1,24 @@
 {
-    "title": "Bean and rice burrito",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bean_and_rice_burrito_33565_16x9.jpg"
-    ],
-    "description": "This is a budget-friendly version of burrito uses tinned beans and frozen sweetcorn served with a tangy tomato relish. This is designed to be a low cost recipe. Each serving provides 733kcal, 24.5g protein, 128g carbohydrate (of which 11g sugars), 12g fat (of which 6g saturates), 13g fibre and 2.5g salt.",
     "author": {
         "rachel_allen": "Rachel Allen"
     },
-    "show": {
-        "b036x3pv": "Great British Budget Menu"
-    },
-    "tips": [
-        "In May 2013 this recipe was costed at \u00a33.09 at Asda, \u00a33.39 at Tesco and \u00a33.70 at Sainsbury\u2019s. This recipe is designed to be made in conjunction with a low-cost store-cupboard."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Mexican",
+    "description": "This is a budget-friendly version of burrito uses tinned beans and frozen sweetcorn served with a tangy tomato relish. This is designed to be a low cost recipe. Each serving provides 733kcal, 24.5g protein, 128g carbohydrate (of which 11g sugars), 12g fat (of which 6g saturates), 13g fibre and 2.5g salt.",
+    "dishes": [
+        "sauce",
+        "wraps"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bean_and_rice_burrito_33565_16x9.jpg"
+    ],
     "ingredients": {
-        "For the tomato relish": [
-            "\u00bd small onion, finely diced",
-            "200g/7oz tomatoes, diced",
-            "1 tbsp white wine vinegar",
-            "1 lime, zest only (juice used below)",
-            "salt and pepper"
-        ],
         "For the bean and rice burrito": [
             "1 x 400g/14oz tin Mexican-style bean mix or mixed beans in mild chilli sauce",
             "200g/7oz frozen sweetcorn, defrosted",
@@ -35,7 +26,20 @@
             "150g/5\u00bdoz long-grain rice, cooked according to the packet instructions",
             "1 lime, juice only (zest used above)",
             "about 200g/7oz plain yoghurt"
+        ],
+        "For the tomato relish": [
+            "\u00bd small onion, finely diced",
+            "200g/7oz tomatoes, diced",
+            "1 tbsp white wine vinegar",
+            "1 lime, zest only (juice used below)",
+            "salt and pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b036x3pv": "Great British Budget Menu"
     },
     "steps": [
         "For the tomato relish, mix together all the ingredients for the relish in a bowl and season with salt and pepper. Set aside.",
@@ -43,8 +47,9 @@
         "Warm the tortilla wraps for 10 seconds in a microwave or in a dry pan over a medium heat until warm and softened.",
         "To assemble, divide the cooked rice and beans between the eight tortilla wraps. Squeeze a little lime juice over each of them. Spoon over the tomato relish and the yoghurt and roll up to enclose each burrito. Serve warm."
     ],
-    "howTos": [
-        
+    "tips": [
+        "In May 2013 this recipe was costed at \u00a33.09 at Asda, \u00a33.39 at Tesco and \u00a33.70 at Sainsbury\u2019s. This recipe is designed to be made in conjunction with a low-cost store-cupboard."
     ],
+    "title": "Bean and rice burrito",
     "videos": "[]"
 }

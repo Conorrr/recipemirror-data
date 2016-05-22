@@ -1,24 +1,28 @@
 {
-    "title": "Plum tart with star anise caramel",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Deliciously tart plums match perfectly with rich marzipan and puff pastry - this is a dessert for showing off your skills.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Deliciously tart plums match perfectly with rich marzipan and puff pastry - this is a dessert for showing off your skills.",
+    "dishes": [
+        "caramel",
+        "fruit_tart",
+        "icing",
+        "jam",
+        "marzipan",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "rolling_pastry"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the rough puff pastry": [
@@ -26,6 +30,13 @@
             "250g/9oz very cold butter, cut into small cubes",
             "\u00bd tsp salt",
             "125ml/4\u00bdfl oz ice-cold water"
+        ],
+        "For the star anise caramel": [
+            "110g/4oz white caster sugar",
+            "2 star anise",
+            "110g/4oz butter",
+            "175ml/6fl oz double cream",
+            "vanilla ice cream, to serve"
         ],
         "For the tart filling": [
             "250g/9oz caster sugar",
@@ -36,14 +47,13 @@
             "8 plums, cut into fine slices",
             "1 egg, beaten",
             "500g/1lb 2oz vanilla ice cream"
-        ],
-        "For the star anise caramel": [
-            "110g/4oz white caster sugar",
-            "2 star anise",
-            "110g/4oz butter",
-            "175ml/6fl oz double cream",
-            "vanilla ice cream, to serve"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the rough puff pastry, place the flour in a mound on the work surface and make a well in the centre.",
@@ -70,8 +80,9 @@
         "Cook for 3-5 minutes until just thickened then pass through a fine sieve into a clean pan.",
         "To serve, place the tart in the centre of a small plate and spoon the sauce around the edge. Finish with a spoonful of ice cream in the centre of the tart."
     ],
-    "howTos": [
-        "rolling_pastry"
+    "tips": [
+        
     ],
+    "title": "Plum tart with star anise caramel",
     "videos": "[]"
 }

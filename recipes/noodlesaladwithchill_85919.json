@@ -1,26 +1,31 @@
 {
-    "title": "Noodle salad with chilli nuts",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/noodlesaladwithchill_85919_16x9.jpg"
-    ],
-    "description": "Salad is not just about lettuce, this zingy noodle salad is perfect for popping in your lunchbox.",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "You may not think of a honey as a store cupboard ingredient but it can be very useful for achieveing a sweet and sour balance in Asian cooking."
+    "cookTime": "less than 10 mins",
+    "description": "Salad is not just about lettuce, this zingy noodle salad is perfect for popping in your lunchbox.",
+    "dishes": [
+        "noodle_salad",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/noodlesaladwithchill_85919_16x9.jpg"
+    ],
     "ingredients": {
+        "For the chilli nuts": [
+            "1 tsp vegetable oil",
+            "50g/2oz peanuts",
+            "\u00bd tsp salt",
+            "\u00bd tsp chilli flakes"
+        ],
         "For the salad": [
             "1 tsp vegetable oil",
             "1 tsp soy sauce",
@@ -29,13 +34,13 @@
             "\u00bc red pepper, finely chopped",
             "100g/3\u00bdoz egg noodles, cooked according to packet instructions",
             "salt and freshly ground black pepper"
-        ],
-        "For the chilli nuts": [
-            "1 tsp vegetable oil",
-            "50g/2oz peanuts",
-            "\u00bd tsp salt",
-            "\u00bd tsp chilli flakes"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        
     },
     "steps": [
         "For the noodle salad, put the vegetable oil, soy sauce and honey in a large bowl and mix well.",
@@ -43,8 +48,9 @@
         "For the chilli nuts, heat the vegetable oil in a frying pan over a medium heat and fry the peanuts for 3-4 minutes. Drain off the oil and fry for a further 2-3 minutes, then add the salt and chilli and stir well to coat the nuts.",
         "Put the noodle salad in a bowl, sprinkle over the nuts and serve."
     ],
-    "howTos": [
-        
+    "tips": [
+        "You may not think of a honey as a store cupboard ingredient but it can be very useful for achieveing a sweet and sour balance in Asian cooking."
     ],
+    "title": "Noodle salad with chilli nuts",
     "videos": "[]"
 }

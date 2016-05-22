@@ -1,26 +1,35 @@
 {
-    "title": "Baked rice pudding with spiced apple comp\u00f4te",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "compote",
+        "oven-baked_dishes",
+        "rice_pudding",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the apple compote": [
+            "75g/2oz butter",
+            "100g/3oz demerara sugar",
+            "4 Bramley apples, peeled and diced",
+            "\u00bc tsp ground ginger",
+            "\u00bc tsp ground cinnamon",
+            "\u00bc tsp nutmeg"
+        ],
         "For the rice pudding": [
             "50g/2oz butter",
             "75g/3oz sugar",
@@ -29,15 +38,13 @@
             "seeds scraped out from 2 vanilla pods",
             "150ml/6fl oz double cream",
             "pinch salt"
-        ],
-        "For the apple compote": [
-            "75g/2oz butter",
-            "100g/3oz demerara sugar",
-            "4 Bramley apples, peeled and diced",
-            "\u00bc tsp ground ginger",
-            "\u00bc tsp ground cinnamon",
-            "\u00bc tsp nutmeg"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the rice pudding, preheat the oven to 140C/280F/Gas 1.",
@@ -52,8 +59,9 @@
         "Allow to cool.",
         "To serve, place a spoonful of rice pudding in a bowl and top with a dollop of apple compote."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Baked rice pudding with spiced apple comp\u00f4te",
     "videos": "[]"
 }

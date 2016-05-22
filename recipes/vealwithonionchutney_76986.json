@@ -1,39 +1,44 @@
 {
-    "title": "Veal escalopes with onion chutney",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "chutney",
+        "jam",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "100g/3\u00beoz veal escalope",
-            "75g/2\u00beoz breadcrumbs",
-            "1 tbsp olive oil",
-            "25g/1oz mozzarella, sliced"
-        ],
         "For the onion chutney": [
             "1 tbsp olive oil",
             "\u00bd onion, chopped",
             "1 clove garlic, chopped",
             "3 tbsp red wine vinegar",
             "4 tbsp brown sugar"
+        ],
+        "default": [
+            "100g/3\u00beoz veal escalope",
+            "75g/2\u00beoz breadcrumbs",
+            "1 tbsp olive oil",
+            "25g/1oz mozzarella, sliced"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the grill to high.",
@@ -43,8 +48,9 @@
         "Add the vinegar and brown sugar and simmer for 5-6 minutes.",
         "Serve the chutney on top of the veal."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Veal escalopes with onion chutney",
     "videos": "[]"
 }

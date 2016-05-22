@@ -1,24 +1,24 @@
 {
-    "title": "Vietnamese-style poached chicken salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "4",
-    "recommendations": "9",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/vietnamesestylechick_90311_16x9.jpg"
-    ],
-    "description": "Try this step-by-step recipe for a tasty and low fat chicken salad. Each serving provides 442kcal, 59g protein, 19g carbohydrate (of which 19g sugars), 13g fat (of which 3g saturates), 6g fibre and 4.8g salt.",
     "author": {
         "sophie_grigson": "Sophie Grigson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Try this step-by-step recipe for a tasty and low fat chicken salad. Each serving provides 442kcal, 59g protein, 19g carbohydrate (of which 19g sugars), 13g fat (of which 3g saturates), 6g fibre and 4.8g salt.",
+    "dishes": [
+        "chicken_salad",
+        "pie",
+        "salad",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/vietnamesestylechick_90311_16x9.jpg"
     ],
     "ingredients": {
         "For the chicken": [
@@ -26,6 +26,13 @@
             "1 onion, quartered",
             "2 kaffir lime leaves or bay leaves",
             "2 stalks lemongrass"
+        ],
+        "For the lime and chilli dressing": [
+            "1 garlic clove",
+            "1 small red chilli",
+            "3 tbsp caster sugar",
+            "2 limes",
+            "3 tbsp fish sauce"
         ],
         "For the salad": [
             "1 cucumber, peeled and seeded, then cut into long strips",
@@ -38,14 +45,13 @@
             "a large handful fresh whole mint leaves",
             "4-6 whole lettuce leaves, such as Little Gem, Cos or Webb's Wonder",
             "salt and freshly ground black pepper"
-        ],
-        "For the lime and chilli dressing": [
-            "1 garlic clove",
-            "1 small red chilli",
-            "3 tbsp caster sugar",
-            "2 limes",
-            "3 tbsp fish sauce"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "4",
+    "show": {
+        
     },
     "steps": [
         "Put the chicken into a large deep pan or stockpot with the onion and kaffir lime leaves or bay leaves.",
@@ -64,8 +70,9 @@
         "Toss the salad with enough of the dressing to give a lively flavour, starting with about two-thirds of the dressing and adding more if necessary. Add half the mint and coriander leaves and mix thoroughly.",
         "Line a serving plate with the lettuce leaves. Pile the salad onto the lettuce, then top with the remaining coriander and mint and reserved sesame seeds. Serve swiftly."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Vietnamese-style poached chicken salad",
     "videos": "[]"
 }

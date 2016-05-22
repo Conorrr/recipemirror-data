@@ -1,26 +1,30 @@
 {
-    "title": "Pancakes with maple syrup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "icing",
+        "oven-baked_dishes",
+        "pancake"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "segmenting_citrus_fruit",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "icing sugar, for dusting",
+            "\u00bd orange, peeled and segmented",
+            "3 tbsp maple syrup"
+        ],
         "default": [
             "2 free-range eggs",
             "\u00bd orange, zest only",
@@ -29,12 +33,13 @@
             "75ml/2\u00befl oz milk",
             "25g/1oz unsalted butter",
             "1 tbsp vegetable oil"
-        ],
-        "To serve": [
-            "icing sugar, for dusting",
-            "\u00bd orange, peeled and segmented",
-            "3 tbsp maple syrup"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -45,9 +50,9 @@
         "Once you have four pancakes placed on the baking sheet, place into the oven to bake for two minutes.",
         "To serve, stack the pancakes onto a warm plate and dust with icing sugar. Arrange the orange segments around the plate and drizzle the pancakes with maple syrup."
     ],
-    "howTos": [
-        "segmenting_citrus_fruit",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Pancakes with maple syrup",
     "videos": "[]"
 }

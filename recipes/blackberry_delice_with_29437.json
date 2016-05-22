@@ -1,37 +1,40 @@
 {
-    "title": "Blackcurrant delice with mini doughnuts, lemon posset and sugared almonds",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 10-12",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Three puddings come together to make one very fancy dessert that's sure to impress, though you will need a day to make it. Equipment and preparation: for this recipe you will need a sugar thermometer, a 25cm/10in flan ring (about 6cm/2\u00bdin deep) and a chef\u2019s blow torch.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Three puddings come together to make one very fancy dessert that's sure to impress, though you will need a day to make it. Equipment and preparation: for this recipe you will need a sugar thermometer, a 25cm/10in flan ring (about 6cm/2\u00bdin deep) and a chef\u2019s blow torch.",
+    "dishes": [
+        "bread",
+        "custard",
+        "doughnuts",
+        "jam",
+        "meringue",
+        "mousse",
+        "oven-baked_dishes",
+        "quenelle",
+        "sauce",
+        "sorbet",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sorbet syrup": [
-            "190g/6\u00beoz sugar",
-            "1 tbsp liquid glucose"
-        ],
-        "For the blackcurrant pur\u00e9e": [
-            "350g/12oz blackcurrants",
-            "50ml/2fl oz sorbet syrup (from above)"
-        ],
         "For the Italian meringue": [
             "60g/2\u00bcoz sugar",
             "1 free-range egg white"
+        ],
+        "For the base": [
+            "1 ready-made round sponge flan base, cut in half horizontally (you will only need one half)",
+            "50ml/2fl oz sorbet syrup (from above)",
+            "1 tbsp blackcurrant pur\u00e9e (from above)"
         ],
         "For the blackcurrant mousse": [
             "blackcurrant pur\u00e9e (from above)",
@@ -44,10 +47,9 @@
             "200ml/7fl oz cr\u00e8me de cassis",
             "400ml/14fl oz double cream, lightly whipped to the ribbon stage"
         ],
-        "For the base": [
-            "1 ready-made round sponge flan base, cut in half horizontally (you will only need one half)",
-            "50ml/2fl oz sorbet syrup (from above)",
-            "1 tbsp blackcurrant pur\u00e9e (from above)"
+        "For the blackcurrant pur\u00e9e": [
+            "350g/12oz blackcurrants",
+            "50ml/2fl oz sorbet syrup (from above)"
         ],
         "For the glaze": [
             "50ml/2fl oz sorbet syrup (from above)",
@@ -67,6 +69,10 @@
             "1 tsp fast-action yeast",
             "vegetable oil, for deep frying"
         ],
+        "For the sorbet syrup": [
+            "190g/6\u00beoz sugar",
+            "1 tbsp liquid glucose"
+        ],
         "For the sugared almonds": [
             "1 egg white",
             "550g/1lb 4oz blanched almonds",
@@ -76,6 +82,12 @@
         "To serve": [
             "mint sprigs"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 10-12",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the sorbet syrup, put the sugar, glucose and 165ml/5\u00bdfl oz water in a saucepan and bring to the boil, stirring occasionally with a wooden spoon. Boil for about 2-3 minutes. Pass the syrup through a fine sieve to remove any sugar crystals. (CAUTION: boiling sugar is extremely hot.) Set aside to cool completely.",
@@ -102,8 +114,9 @@
         "Bake for 1 hour, stirring occasionally, until golden-brown. Leave to cool.",
         "To serve, remove the delice from the mould using a chef\u2019s blow torch and place slices on serving plates. Garnish with the mini doughnuts and sugared almonds. Stir the posset and place a quenelle on each plate. Top with a sprig of mint."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Blackcurrant delice with mini doughnuts, lemon posset and sugared almonds",
     "videos": "[]"
 }

@@ -1,26 +1,33 @@
 {
-    "title": "Steamed chicken and shiitake dim sum buns",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 25-30 buns",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Chicken and mushrooms marinated in spring onion-flavoured oil makes for a delicious filling for these doughy steamed buns.",
     "author": {
         "bonnie_yeung": "Bonnie Yeung"
     },
-    "show": {
-        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
-    },
-    "tips": [
-        "To make the spring onion oil, fry three stems of spring onion in 300ml/\u00bd pint of vegetable oil until brown. Remove from the heat and cool. Discard the spring onion and you will have a fragrant oil that can be stored in an air-tight container for other uses."
+    "cookTime": "10 to 30 mins",
+    "description": "Chicken and mushrooms marinated in spring onion-flavoured oil makes for a delicious filling for these doughy steamed buns.",
+    "dishes": [
+        "bun",
+        "dim_sum",
+        "pie",
+        "prepare-ahead_desserts"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dough": [
+            "600g/1lb 5oz plain flour",
+            "7g instant yeast",
+            "\u00bd tbsp baking powder",
+            "115g/4oz sugar",
+            "100g/3\u00bdoz milk",
+            "2 free-range egg whites"
+        ],
         "For the filling": [
             "450g/1lb chicken breast or leg meat, diced",
             "115g/4oz winter bamboo shoots, diced",
@@ -32,15 +39,13 @@
             "pinch white pepper",
             "\u00bd tsp potato starch",
             "1 tbsp spring onion oil (see Tips)"
-        ],
-        "For the dough": [
-            "600g/1lb 5oz plain flour",
-            "7g instant yeast",
-            "\u00bd tbsp baking powder",
-            "115g/4oz sugar",
-            "100g/3\u00bdoz milk",
-            "2 free-range egg whites"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes 25-30 buns",
+    "show": {
+        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
     },
     "steps": [
         "For the filling, mix the filling ingredients together in a shallow dish and leave to marinade for half an hour.",
@@ -48,8 +53,9 @@
         "To cook the dim sum prepare a steamer. Take a plum-sized piece of dough and roll it out into a 5cm/2in diameter circle that is approximately 5mm/\u00bcin thick. Place some of the filling in the centre and fold around.",
         "Steam for 4-5 minutes until the chicken is cooked through and then serve."
     ],
-    "howTos": [
-        
+    "tips": [
+        "To make the spring onion oil, fry three stems of spring onion in 300ml/\u00bd pint of vegetable oil until brown. Remove from the heat and cool. Discard the spring onion and you will have a fragrant oil that can be stored in an air-tight container for other uses."
     ],
+    "title": "Steamed chicken and shiitake dim sum buns",
     "videos": "[]"
 }

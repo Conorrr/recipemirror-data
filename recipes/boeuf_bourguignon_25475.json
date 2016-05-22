@@ -1,23 +1,28 @@
 {
-    "title": "Boeuf bourguignon",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "21",
-    "images": [
-        
-    ],
-    "description": "It\u2019s worth getting good-quality, well-marbled meat from the butcher\u2019s shop for this dish. The supermarket meat is often too lean and will become dry rather than succulent during the long cooking. Serve with creamy mashed potatoes and some green vegetables, or even a crisp side salad with a mustardy dressing.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "French",
+    "description": "It\u2019s worth getting good-quality, well-marbled meat from the butcher\u2019s shop for this dish. The supermarket meat is often too lean and will become dry rather than succulent during the long cooking. Serve with creamy mashed potatoes and some green vegetables, or even a crisp side salad with a mustardy dressing.",
+    "dishes": [
+        "beef_bourguignon",
+        "casserole",
+        "crumble",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "browning_meat"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -41,6 +46,12 @@
             "freshly chopped parsley, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "21",
+    "serves": "Serves 6",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
+    },
     "steps": [
         "Cut the braising steak into chunky pieces, each around 4-5cm/1\u00bd-2in. Trim off any really hard fat or sinew. Season the beef really well with salt and pepper.",
         "Heat two tablespoons of the oil in a large frying pan. Fry the beef in three batches over a medium-high heat until nicely browned on all sides, turning every now and then and adding more oil if necessary. As soon as the beef is browned, transfer to a large flameproof casserole. Preheat the oven to 170C/150C (fan)/Gas 3.",
@@ -52,8 +63,9 @@
         "Remove the casserole from the oven and stir in the cornflour mixture, followed by the onions and mushrooms. Return to the oven and cook for 45 minutes more, or until the beef is meltingly tender and the sauce is thick. The sauce should coat the back of a spoon, if it remains fairly thin, simply add a little more cornflour, blended with a little cold water and simmer for a couple of minutes on the hob.",
         "To serve, remove the thyme stalks. Sprinkle the casserole with freshly chopped parsley and serve."
     ],
-    "howTos": [
-        "browning_meat"
+    "tips": [
+        
     ],
+    "title": "Boeuf bourguignon",
     "videos": "[p017jn7f:p017jn7h]"
 }

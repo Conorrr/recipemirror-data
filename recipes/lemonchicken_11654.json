@@ -1,24 +1,25 @@
 {
-    "title": "Lemon chicken",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "74",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemonchicken_11654_16x9.jpg"
-    ],
-    "description": "This homemade version of the Chinese takeaway classic is quick, easy and delicious.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Chinese",
+    "description": "This homemade version of the Chinese takeaway classic is quick, easy and delicious.",
+    "dishes": [
+        "bun",
+        "jam",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemonchicken_11654_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -40,14 +41,21 @@
             "seasoning"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "74",
+    "serves": "Serves 4",
+    "show": {
+        "p0077hsg": "Housecall"
+    },
     "steps": [
         "Combine the egg white, cornflour, salt, a little sesame oil and chicken in a bowl - stir to make sure the chicken is well coated. Leave for about 20 minutes.",
         "Heat a wok until very hot, add some groundnut oil and heat until smoking. Remove from the heat and add the chicken - stir quickly to stop it from sticking and cook until the chicken turns white. Drain the chicken over a heatproof bowl, set the chicken to one side, allow the oil to cool and discard.",
         "Wipe the wok clean and make the sauce. Add the stock, lemon juice and zest, sugar, soy and dry sherry together with the garlic and chilli. Bring to the boil and whisk in the cornflour or arrowroot mixture. Simmer gently for a few moments and then add the chicken. Stir fry to make sure the chicken is well coated and heated through properly.",
         "Add a little sesame oil as final seasoning and serve scattered with spring onions."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lemon chicken",
     "videos": "[]"
 }

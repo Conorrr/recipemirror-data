@@ -1,26 +1,29 @@
 {
-    "title": "Beans on toast",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Take beans on toast to the next level with this easy recipe, perfect for a tasty breakfast or simple supper. Each serving provides 427kcal, 21g protein, 68g carbohydrate (of which 18g sugars), 4g fat (of which 0.5g saturates), 16g fibre and 2.5g salt.",
     "author": {
         "donal_skehan": "Donal Skehan"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Take beans on toast to the next level with this easy recipe, perfect for a tasty breakfast or simple supper. Each serving provides 427kcal, 21g protein, 68g carbohydrate (of which 18g sugars), 4g fat (of which 0.5g saturates), 16g fibre and 2.5g salt.",
+    "dishes": [
+        "bread",
+        "ketchup",
+        "sauce",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "4 slices wholemeal bread"
+        ],
         "default": [
             "400g tin chopped tomatoes",
             "400g tin cannellini beans, drained",
@@ -28,17 +31,21 @@
             "1 tbsp brown sugar",
             "200ml/7fl oz veg stock (using a stock cube)",
             "salt and pepper"
-        ],
-        "To serve": [
-            "4 slices wholemeal bread"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        
     },
     "steps": [
         "For the beans, combine all of the ingredients in a saucepan and season with salt and pepper. Bring to the boil, reduce to a simmer and cook uncovered for about 15 minutes until it has reduced to a nice sauce consistency.",
         "Toast the bread, divide between serving plates and top with the beans."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beans on toast",
     "videos": "[p02vzfjr:p02vzfjv]"
 }

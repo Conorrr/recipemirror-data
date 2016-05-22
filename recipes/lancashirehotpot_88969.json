@@ -1,23 +1,23 @@
 {
-    "title": "Lancashire hotpot",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "4",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "jane_horrocks": "Jane Horrocks"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "casserole",
+        "hotpot",
+        "oven-baked_dishes",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -34,6 +34,12 @@
             "55g/2oz butter, melted"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "4",
+    "show": {
+        "b00701fw": "A Taste of My Life"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "Place the red onions, carrots and turnips into a heavy-based lidded casserole dish. Add the lamb and bay leaf and season with salt and freshly ground black pepper.",
@@ -42,8 +48,9 @@
         "Cover the casserole and place in the oven to cook for about two hours. After two hours remove the lid and cook for another 30-45 minutes, until the potatoes are crisp and golden-brown.",
         "Take the casserole dish to the table and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lancashire hotpot",
     "videos": "[]"
 }

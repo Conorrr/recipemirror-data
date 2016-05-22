@@ -1,24 +1,28 @@
 {
-    "title": "Poached pear brioche with vanilla cr\u00e8me anglaise",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Poached pear is perfect topped on brioche and drizzled with a silky vanilla cr\u00e8me anglaise.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Poached pear is perfect topped on brioche and drizzled with a silky vanilla cr\u00e8me anglaise.",
+    "dishes": [
+        "bread",
+        "brioche",
+        "caramel",
+        "custard",
+        "jam",
+        "marzipan",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the brioche": [
@@ -31,19 +35,25 @@
             "65g/2oz butter, softened",
             "75g/2\u00bdoz white marzipan"
         ],
-        "For the pear": [
-            "1 lemon",
-            "4 pears, peeled, stem retained",
-            "200g/7oz caster sugar",
-            "1 vanilla pod, split, seeds scraped"
-        ],
         "For the cr\u00e8me anglaise": [
             "150ml/5fl oz milk",
             "150ml/5fl oz double cream",
             "1 vanilla pod, split, seeds scraped",
             "4 free-range egg yolks",
             "40g/1\u00bdoz caster sugar"
+        ],
+        "For the pear": [
+            "1 lemon",
+            "4 pears, peeled, stem retained",
+            "200g/7oz caster sugar",
+            "1 vanilla pod, split, seeds scraped"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the brioche, place the flour, sugar, yeast, salt, milk and egg together in a bowl and beat for 3-4 minutes, or until well combined. Add the softened butter and beat until the mixture comes together to form a soft, smooth dough. Place the dough into a clean bowl and leave to rise in a warm, dry place for one hour.",
@@ -58,9 +68,9 @@
         "Place the egg yolks and caster sugar into a bowl and whisk until pale and creamy. Pour a dash of the hot milk into the egg mixture and whisk to combine, then slowly pour in the rest of the milk, whisking all the while. Pour the mixture back into the saucepan and bring to a gentle simmer. Stirring frequently, cook for 3-4 minutes, or until the mixture is just thickened (but not as thick as English custard).",
         "To serve, place one pear brioche onto each serving plate and spoon the cr\u00e8me anglaise alongside."
     ],
-    "howTos": [
-        "kneading",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Poached pear brioche with vanilla cr\u00e8me anglaise",
     "videos": "[]"
 }

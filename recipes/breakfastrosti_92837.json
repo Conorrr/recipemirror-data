@@ -1,26 +1,27 @@
 {
-    "title": "Breakfast rosti",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "cake",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "2 poached eggs",
+            "4 rashers bacon, fried until crisp"
+        ],
         "default": [
             "2 large baking potatoes",
             "salt and freshly ground black pepper",
@@ -28,11 +29,13 @@
             "1 tbsp vegetable oil",
             "40g/1\u00bd oz butter",
             "8 slices ready-made black pudding, fried until crisp"
-        ],
-        "To serve": [
-            "2 poached eggs",
-            "4 rashers bacon, fried until crisp"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Boil the potatoes, in their jackets, in a large pan of water for exactly seven minutes, then remove from the pan and set aside to cool slightly.",
@@ -42,8 +45,9 @@
         "Carefully turn the potato cake over and fry for a further 5-6 minutes, or until all of the grated potato is crisp, golden-brown and cooked through.",
         "Slice the potato r\u00f6sti in two and serve each portion with a poached egg and two rashers of bacon."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Breakfast rosti",
     "videos": "[]"
 }

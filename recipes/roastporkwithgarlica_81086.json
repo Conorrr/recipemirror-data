@@ -1,40 +1,25 @@
 {
-    "title": "Roast pork with garlic and thyme saut\u00e9ed potatoes and spiced apple sauce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4-6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p007b4jc": "Stately Suppers"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "scoring_skin"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1.5kg/3lb 5oz loin of pork, on the bone, chined (ask your butcher to chine the loin for you - this will make carving easier)",
-            "olive oil",
-            "salt and freshly ground black pepper",
-            "6 sage leaves",
-            "1 lemon, halved"
-        ],
-        "For the thyme and garlic saut\u00e9ed potatoes": [
-            "25g/1oz butter",
-            "1 kg/2\u00bclb potatoes, peeled and diced",
-            "1 tsp fresh thyme leaves",
-            "1-2 cloves garlic, finely chopped",
-            "salt and freshly ground black pepper"
-        ],
         "For the spiced apple sauce": [
             "500g/1lb 2oz cooking apples, peeled, cored and chopped",
             "30g/1oz butter",
@@ -44,7 +29,27 @@
             "\u00bc tsp ground cinnamon",
             "freshly ground black pepper",
             "30g/1oz soft dark brown sugar"
+        ],
+        "For the thyme and garlic saut\u00e9ed potatoes": [
+            "25g/1oz butter",
+            "1 kg/2\u00bclb potatoes, peeled and diced",
+            "1 tsp fresh thyme leaves",
+            "1-2 cloves garlic, finely chopped",
+            "salt and freshly ground black pepper"
+        ],
+        "default": [
+            "1.5kg/3lb 5oz loin of pork, on the bone, chined (ask your butcher to chine the loin for you - this will make carving easier)",
+            "olive oil",
+            "salt and freshly ground black pepper",
+            "6 sage leaves",
+            "1 lemon, halved"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4-6",
+    "show": {
+        "p007b4jc": "Stately Suppers"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Using a sharp knife, score the skin of the pork 12 to 15 times.",
@@ -55,8 +60,9 @@
         "For the sauce, put the apples in a pan with the butter, water, vinegar and spices. Cover and cook until softened but chunky. Add sugar to taste.",
         "Serve the pork cut into portions with the spiced apple sauce and the thyme and garlic saut\u00e9ed potatoes."
     ],
-    "howTos": [
-        "scoring_skin"
+    "tips": [
+        
     ],
+    "title": "Roast pork with garlic and thyme saut\u00e9ed potatoes and spiced apple sauce",
     "videos": "[]"
 }

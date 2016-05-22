@@ -1,28 +1,27 @@
 {
-    "title": "Sweet and spicy chicken wings",
-    "cookTime": "less than 10 mins",
-    "prepTime": "overnight",
-    "serves": "Serves 4-6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "p0077hxk": "Saturday Brunch"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1kg/2lb 3\u00bcoz chicken wings, cut in half through the joint and tips discarded"
+        "For the garnish": [
+            "1 tbsp finely grated orange zest",
+            "2 tbsp chopped parsley",
+            "2 tbsp snipped chives"
         ],
         "For the marinade": [
             "1 tbsp Sichuan pepper corns, toasted and ground",
@@ -38,11 +37,15 @@
             "salt",
             "freshly ground black pepper"
         ],
-        "For the garnish": [
-            "1 tbsp finely grated orange zest",
-            "2 tbsp chopped parsley",
-            "2 tbsp snipped chives"
+        "default": [
+            "1kg/2lb 3\u00bcoz chicken wings, cut in half through the joint and tips discarded"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "Serves 4-6",
+    "show": {
+        "p0077hxk": "Saturday Brunch"
     },
     "steps": [
         "In a pestle and mortar blend together the peppercorns, garlic, ginger, orange zest, spring onions and chilli until you have a paste.",
@@ -50,8 +53,9 @@
         "Cook the chicken wings in a hot griddle pan or on a hot barbecue for 7-8 minutes each side or until thoroughly cooked and golden brown.",
         "Garnish the chicken with a mixture of orange zest, chopped parsley and chives."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Sweet and spicy chicken wings",
     "videos": "[]"
 }

@@ -1,36 +1,38 @@
 {
-    "title": "Rose, lychee and raspberry tart",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Rose water flavoured pastry, filled with raspberry and lychee cr\u00e8me, caramelised almonds and fresh raspberries. Equipment and preparation: for this recipe you will need a piping bag, food processor and a flan tin.",
     "author": {
         "james_morton": "James Morton"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Rose water flavoured pastry, filled with raspberry and lychee cr\u00e8me, caramelised almonds and fresh raspberries. Equipment and preparation: for this recipe you will need a piping bag, food processor and a flan tin.",
+    "dishes": [
+        "caramel",
+        "icing",
+        "jam",
+        "macaroon",
+        "meringue",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "stir-fries",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the rose sweet pastry": [
-            "300g/10\u00bdoz plain flour",
-            "150g/5\u00bdoz salted butter",
-            "120g/4oz icing sugar",
-            "4 free-range eggs, 3 yolks only, 1 whole, beaten for egg wash",
-            "1 tsp rose water"
-        ],
         "For the caramelised almonds": [
             "150g/5\u00bdoz blanched whole almonds",
             "100g/3\u00bdoz caster sugar"
+        ],
+        "For the glaze": [
+            "2 x 200g punnet raspberries",
+            "200g/7oz caster sugar (exactly the same weight as the raspberries)"
         ],
         "For the lychee cr\u00e8me p\u00e2tissi\u00e8re": [
             "6 free-range eggs, yolks only",
@@ -56,10 +58,19 @@
             "\u00bd tsp agar-agar",
             "250g/9oz mascarpone"
         ],
-        "For the glaze": [
-            "2 x 200g punnet raspberries",
-            "200g/7oz caster sugar (exactly the same weight as the raspberries)"
+        "For the rose sweet pastry": [
+            "300g/10\u00bdoz plain flour",
+            "150g/5\u00bdoz salted butter",
+            "120g/4oz icing sugar",
+            "4 free-range eggs, 3 yolks only, 1 whole, beaten for egg wash",
+            "1 tsp rose water"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "2",
+    "serves": "Serves 6",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the pastry, preheat the oven to 200C/400F/Gas 6.",
@@ -84,8 +95,9 @@
         "Bake the rested macaroons in the preheated oven for 12 minutes. Remove from the oven and transfer to the fridge until ready to serve.",
         "To serve, remove the pastry base from the flan tin. Pipe the cooled lychee cr\u00e8me p\u00e2tissi\u00e8re onto the pastry base and smooth the top to make a flat layer. Place glazed raspberries on top in straight, parallel lines, leaving a raspberry\u2019s width between each one. Pipe small swirls of the cooled cr\u00e8me mascarpone in the spaces between the raspberries and place a mini macaroon on top of every third swirl and sprinkle caramelised almonds onto the others."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Rose, lychee and raspberry tart",
     "videos": "[]"
 }

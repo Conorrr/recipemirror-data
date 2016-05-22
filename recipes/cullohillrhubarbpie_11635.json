@@ -1,41 +1,47 @@
 {
-    "title": "Rhubarb pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 8-12",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cullohillrhubarbpie_11635_16x9.jpg"
-    ],
-    "description": "Swap the crumble for a pastry crust to enjoy wonderful zingy rhubarb!",
     "author": {
         "darina_allen": "Darina Allen"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Irish",
+    "description": "Swap the crumble for a pastry crust to enjoy wonderful zingy rhubarb!",
+    "dishes": [
+        "crumble",
+        "oven-baked_dishes",
+        "pastry",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "creaming"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cullohillrhubarbpie_11635_16x9.jpg"
+    ],
     "ingredients": {
+        "For the filling": [
+            "750g/1\u00bdlb red rhubarb, sliced about 1cm/\u00bdin thick",
+            "250g/9oz - 400g/14oz sugar"
+        ],
         "For the pastry": [
             "225g/8oz butter",
             "55g/2oz caster sugar",
             "2 eggs, preferably free range",
             "340g/12oz white flour, preferably unbleached"
         ],
-        "For the filling": [
-            "750g/1\u00bdlb red rhubarb, sliced about 1cm/\u00bdin thick",
-            "250g/9oz - 400g/14oz sugar"
-        ],
         "To serve": [
             "caster sugar for sprinkling",
             "softly whipped cream",
             "barbados sugar"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "5",
+    "serves": "Serves 8-12",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -47,8 +53,9 @@
         "Cover with a lid of pastry, seal edges, decorate with pastry leaves, brush with the egg wash and bake in the preheated oven until the rhubarb is tender, approximately 45 minutes to 1 hour (but do keep checking some ovens may vary cooking time).",
         "When cooked, cut into squares, sprinkle lightly with caster sugar and serve with softly whipped cream and Barbados sugar."
     ],
-    "howTos": [
-        "creaming"
+    "tips": [
+        
     ],
+    "title": "Rhubarb pie",
     "videos": "[]"
 }

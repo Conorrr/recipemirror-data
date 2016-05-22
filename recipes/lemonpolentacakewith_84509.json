@@ -1,26 +1,32 @@
 {
-    "title": "Lemon polenta cake with lemon icing",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "cake",
+        "icing",
+        "lemon_cake",
+        "pie",
+        "upside-down_cake"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the lemon icing": [
+            "100g/3\u00bdoz icing sugar",
+            "\u00bd lemon, juice only",
+            "1 tsp clear honey, to serve",
+            "sprig fresh mint, to garnish"
+        ],
         "default": [
             "110g/4oz butter, plus extra for greasing",
             "55g/2oz polenta",
@@ -28,13 +34,13 @@
             "110g/4oz caster sugar",
             "2 free-range eggs",
             "1 lemon, zest only"
-        ],
-        "For the lemon icing": [
-            "100g/3\u00bdoz icing sugar",
-            "\u00bd lemon, juice only",
-            "1 tsp clear honey, to serve",
-            "sprig fresh mint, to garnish"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Makes 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Grease a small microwave-safe bowl with butter.",
@@ -43,8 +49,9 @@
         "For the lemon icing, sift the icing sugar into a bowl, add the lemon juice and mix well.",
         "To serve, tip the pudding and bowl upside-down onto a plate and remove the bowl. Drizzle over the lemon icing and honey and garnish with fresh mint."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Lemon polenta cake with lemon icing",
     "videos": "[]"
 }

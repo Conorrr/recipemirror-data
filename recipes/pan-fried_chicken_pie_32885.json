@@ -1,24 +1,26 @@
 {
-    "title": "Pan-fried chicken pie",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pan-fried_chicken_pie_32885_16x9.jpg"
-    ],
-    "description": "Any time of day is a good time for a slice of Greek pie - often eaten on the move as a snack between meals or as a light lunch or evening meal with a salad. Chicken is a favourite filling for pie and it would normally be baked. This version is fried.",
     "author": {
         "loulla_astin": "Loulla Astin"
     },
-    "show": {
-        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Greek",
+    "description": "Any time of day is a good time for a slice of Greek pie - often eaten on the move as a snack between meals or as a light lunch or evening meal with a salad. Chicken is a favourite filling for pie and it would normally be baked. This version is fried.",
+    "dishes": [
+        "chicken_pie",
+        "crumble",
+        "pastry",
+        "pie",
+        "salad",
+        "upside-down_cake"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pan-fried_chicken_pie_32885_16x9.jpg"
     ],
     "ingredients": {
         "For the filling": [
@@ -40,6 +42,12 @@
             "200g/7oz filo pastry"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4-6",
+    "show": {
+        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
+    },
     "steps": [
         "For the filling, heat the olive oil and butter in a pan and fry the leeks, spring onions and mushrooms until softened.",
         "Place in a large bowl with the cooked chicken, feta cheese, herbs and enough cream to make the mixture moist.",
@@ -52,8 +60,9 @@
         "Remove from the heat, turn over like a Spanish tortilla by placing a plate over the frying pan and quickly turning the pie upside-down on to the plate. Quickly slide it back into the pan and cook the other side for 6-8 minutes, or until golden-brown.",
         "Place on a round wooden board and cut into large wedges. Serve hot or cold with a green salad or vegetables."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pan-fried chicken pie",
     "videos": "[]"
 }

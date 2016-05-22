@@ -1,23 +1,24 @@
 {
-    "title": "Zoe\u2019s jollof",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This filling, flavoursome chicken and rice dish is a West-African speciality. Fried plantains make an authentic garnish.",
     "author": {
         "zoe_adjonyah": "Zoe Adjonyah"
     },
-    "show": {
-        "b05y38pk": "Nigel Slater: Eating Together"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "African",
+    "description": "This filling, flavoursome chicken and rice dish is a West-African speciality. Fried plantains make an authentic garnish.",
+    "dishes": [
+        "broth",
+        "casserole",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -29,11 +30,6 @@
             "2 tbsp crayfish powder (available from online specialists)",
             "6 Guinea peppers (also known as grains of paradise), crushed"
         ],
-        "For the tomato sauce": [
-            "6 large tomatoes, roughly chopped",
-            "200g/7oz tomato pur\u00e9e",
-            "1 tsp salt"
-        ],
         "For the jollof sauce": [
             "4 tbsp peanut oil or sunflower oil",
             "1 large onion, finely chopped",
@@ -41,7 +37,18 @@
             "1 tsp ground hot chilli powder",
             "300g/10\u00bdoz long-grain white rice, washed and drained",
             "handful chopped fresh parsley and coriander, to garnish"
+        ],
+        "For the tomato sauce": [
+            "6 large tomatoes, roughly chopped",
+            "200g/7oz tomato pur\u00e9e",
+            "1 tsp salt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        "b05y38pk": "Nigel Slater: Eating Together"
     },
     "steps": [
         "Preheat the oven to 180C/160C fan/Gas 4.",
@@ -55,8 +62,9 @@
         "Halfway through cooking the jollof rice, finish the chicken. Remove the foil from the chicken and roast in the oven for 15 minutes, or until browned and sticky.",
         "Serve the jollof rice with the chicken, garnished with a sprinkling of chopped parsley and coriander."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Zoe\u2019s jollof",
     "videos": "[]"
 }

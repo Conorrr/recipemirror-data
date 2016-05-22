@@ -1,26 +1,34 @@
 {
-    "title": "Aubergine mozzarella fritters with aubergine 'caviar'",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "bun",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the aubergine 'caviar'": [
+            "2 aubergines",
+            "2 sprigs rosemary, cut into pieces",
+            "2 garlic cloves, thickly sliced",
+            "\u00bd lemon, juice only",
+            "salt and freshly ground black pepper"
+        ],
         "For the aubergine fritters": [
             "vegetable oil, for deep frying",
             "2 aubergines, thinly sliced",
@@ -33,13 +41,6 @@
             "300ml/11fl oz beer",
             "200g/7oz plain flour"
         ],
-        "For the aubergine 'caviar'": [
-            "2 aubergines",
-            "2 sprigs rosemary, cut into pieces",
-            "2 garlic cloves, thickly sliced",
-            "\u00bd lemon, juice only",
-            "salt and freshly ground black pepper"
-        ],
         "For the salad": [
             "1 small bag mixed salad leaves",
             "1 bunch dill, picked",
@@ -47,6 +48,12 @@
             "1 tbsp red wine vinegar",
             "3 tbsp olive oil"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the aubergine fritters, heat the oil in a deep fat fryer to 190C or half-fill a heavy-based pan with vegetable oil and heat until a breadcrumb sizzles and turns brown when dropped into it. (CAUTION: hot oil can be dangerous; do not leave unattended.)",
@@ -60,8 +67,9 @@
         "For the salad, place the salad leaves and dill into a bowl. Whisk the Dijon mustard, vinegar and olive oil together in a separate bowl. Add this dressing to the salad leaves and mix well.",
         "To serve, place a spoonful of aubergine 'caviar' onto each plate. Stack two aubergine fritters on top and pile the dressed salad alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Aubergine mozzarella fritters with aubergine 'caviar'",
     "videos": "[]"
 }

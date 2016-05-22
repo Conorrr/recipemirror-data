@@ -1,26 +1,30 @@
 {
-    "title": "Roasted maple oranges with French toast and cream",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "icing",
+        "jam",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "segmenting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "2 tbsp double cream",
+            "icing sugar",
+            "1 tsp chopped fresh mint"
+        ],
         "default": [
             "2 free-range eggs, beaten",
             "150ml/5fl oz whole milk",
@@ -29,12 +33,13 @@
             "25g/1oz butter",
             "2 tbsp maple syrup",
             "1 orange, segmented"
-        ],
-        "To serve": [
-            "2 tbsp double cream",
-            "icing sugar",
-            "1 tsp chopped fresh mint"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Beat together the eggs, milk and sugar in a bowl. Dip the slices of bread into the liquid, allowing it to soak in well.",
@@ -42,8 +47,9 @@
         "Heat the maple syrup in a small saucepan and add the orange segments. Warm through for 2-3 minutes.",
         "Serve the French toast on a serving plate with the oranges and maple syrup spooned over the top. Serve drizzled with cream, dusted with icing sugar and garnished with chopped mint."
     ],
-    "howTos": [
-        "segmenting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Roasted maple oranges with French toast and cream",
     "videos": "[]"
 }

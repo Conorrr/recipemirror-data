@@ -1,26 +1,35 @@
 {
-    "title": "Irish beef stew",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "125",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/irishbeefstew_73826_16x9.jpg"
-    ],
-    "description": "Hearty and wholesome, Rachel Allen's slow-cooked beef stew is the ultimate taste of Ireland.",
     "author": {
         "rachel_allen": "Rachel Allen"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Irish",
+    "description": "Hearty and wholesome, Rachel Allen's slow-cooked beef stew is the ultimate taste of Ireland.",
+    "dishes": [
+        "beef_stew",
+        "casserole",
+        "champ",
+        "roux",
+        "sauce",
+        "slow-cooked_dishes",
+        "stew",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/irishbeefstew_73826_16x9.jpg"
+    ],
     "ingredients": {
+        "For the roux": [
+            "50g/2oz butter",
+            "50g/1\u00beoz flour",
+            "champ, to serve"
+        ],
         "default": [
             "1\u00bdkg/3lb 5oz stewing beef, cut into cubes",
             "175g/6oz streaky bacon",
@@ -34,12 +43,13 @@
             "10 cloves of garlic, crushed and grated",
             "425ml/15fl oz red wine",
             "425ml/15fl oz chicken or beef stock"
-        ],
-        "For the roux": [
-            "50g/2oz butter",
-            "50g/1\u00beoz flour",
-            "champ, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "125",
+    "serves": "Serves 6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Brown the beef and bacon in the olive oil in a hot casserole or heavy saucepan.",
@@ -53,8 +63,9 @@
         "Replace the meat and vegetables, and taste for seasoning.",
         "Sprinkle with chopped parsley and serve with champ."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Irish beef stew",
     "videos": "[]"
 }

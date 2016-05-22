@@ -1,26 +1,33 @@
 {
-    "title": "Griddled steak burger with chilli relish",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "baguette",
+        "jam",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the relish": [
+            "1 tbsp olive oil",
+            "\u00bc Romero pepper, chopped",
+            "\u00bc red or green chilli, chopped",
+            "1 tbsp red wine vinegar",
+            "1 tsp caster sugar",
+            "1 tbsp honey",
+            "1 tsp lime juice"
+        ],
         "For the steak burger": [
             "150g/5\u00bdoz steak, trimmed of fat and roughly chopped",
             "\u00bc onion, chopped",
@@ -31,16 +38,13 @@
             "2 tbsp olive oil",
             "baguette, split open",
             "30g/1oz emmental cheese, grated, to serve"
-        ],
-        "For the relish": [
-            "1 tbsp olive oil",
-            "\u00bc Romero pepper, chopped",
-            "\u00bc red or green chilli, chopped",
-            "1 tbsp red wine vinegar",
-            "1 tsp caster sugar",
-            "1 tbsp honey",
-            "1 tsp lime juice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the burger, place the steak, onion, garlic and chilli in a food processor and pulse until minced. Season with salt and freshly ground black pepper and shape into a patty.",
@@ -50,8 +54,9 @@
         "Add the remaining ingredients and simmer for 4-5 minutes.",
         "To serve, place the burger inside the baguette, sprinkle with cheese and top with a dollop of relish."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Griddled steak burger with chilli relish",
     "videos": "[]"
 }

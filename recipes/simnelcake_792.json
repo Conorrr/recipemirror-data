@@ -1,24 +1,28 @@
 {
-    "title": "Simnel cake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10-12",
-    "recommendations": "21",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/simnelcake_792_16x9.jpg"
-    ],
-    "description": "Packed with fruit, spices and marzipan, try making your own version of this classic Easter recipe.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Packed with fruit, spices and marzipan, try making your own version of this classic Easter recipe.",
+    "dishes": [
+        "cake",
+        "jam",
+        "marzipan",
+        "oven-baked_dishes",
+        "simnel_cake",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "caramelising_sugar",
+        "greasing_and_lining",
+        "kneading",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/simnelcake_792_16x9.jpg"
     ],
     "ingredients": {
         "For the almond paste": [
@@ -41,6 +45,12 @@
             "1 free-range egg, beaten for glazing"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "21",
+    "serves": "Serves 10-12",
+    "show": {
+        
+    },
     "steps": [
         "For the almond paste, place the sugar and ground almonds in a bowl. Add enough beaten egg and mix to a fairly soft consistency.",
         "Add the almond essence and knead for one minute until the paste is smooth and pliable.",
@@ -52,11 +62,9 @@
         "Place the circle of paste on the jam glaze and set the balls round the edge. Brush the cake topping with a little beaten egg.",
         "Preheat the grill to high. Place the cake onto a baking tray and grill for 1-2 minutes, or until the top of the marzipan begins to brown. Alternatively, lightly heat the cake topping using a cook's blow torch, until the marzipan is golden-brown."
     ],
-    "howTos": [
-        "caramelising_sugar",
-        "greasing_and_lining",
-        "kneading",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Simnel cake",
     "videos": "[]"
 }

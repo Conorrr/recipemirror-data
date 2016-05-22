@@ -1,24 +1,21 @@
 {
-    "title": "Mexican soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "soup"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -36,14 +33,21 @@
             "\u00bd avocado, sliced"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "In a pestle and mortar, grind the spices.",
         "Heat the oil in a pan and cook out the spices for 1-2 minutes.",
         "Add the tomatoes, beans, chilli, sugar, lemon juice and a splash of water and simmer gently for 5-8 minutes.",
         "Pour into a bowl and top with yoghurt, coriander and avocado."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mexican soup",
     "videos": "[]"
 }

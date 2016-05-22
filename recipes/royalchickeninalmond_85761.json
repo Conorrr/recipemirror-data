@@ -1,31 +1,26 @@
 {
-    "title": "Royal chicken in almond sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "bread",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 tbsp olive oil",
-            "1.5kg/3lb 5oz chicken, jointed",
-            "500g/1lb 1\u00bdoz onions, thinly sliced"
-        ],
         "For the almond sauce": [
             "75g/3oz flaked almonds",
             "65g/2oz coriander seeds",
@@ -38,7 +33,18 @@
         "To serve": [
             "naan bread",
             "rice, cooked according to packet instructions"
+        ],
+        "default": [
+            "2 tbsp olive oil",
+            "1.5kg/3lb 5oz chicken, jointed",
+            "500g/1lb 1\u00bdoz onions, thinly sliced"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Heat the oil in a large pan with a lid and fry the chicken pieces in batches. Don't brown them. Remove from the pan and drain on kitchen paper.",
@@ -49,8 +55,9 @@
         "Cover with a lid and simmer for 45 minutes, then remove from the heat and allow the dish to rest for 30 minutes before serving.",
         "Serve with naan bread and rice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Royal chicken in almond sauce",
     "videos": "[]"
 }

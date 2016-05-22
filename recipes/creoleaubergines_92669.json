@@ -1,26 +1,28 @@
 {
-    "title": "Creole aubergines",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/creoleaubergines_92669_16x9.jpg"
-    ],
-    "description": "These flavoursome aubergines are the perfect accompaniment to sweet or fruity main courses.",
     "author": {
         "levi_roots": "Levi Roots"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Caribbean",
+    "description": "These flavoursome aubergines are the perfect accompaniment to sweet or fruity main courses.",
+    "dishes": [
+        "casserole",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/creoleaubergines_92669_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "2 tbsp chopped fresh parsley leaves",
+            "8 lime wedges"
+        ],
         "default": [
             "6 tbsp olive oil",
             "2 onions, peeled, finely chopped",
@@ -34,11 +36,13 @@
             "800g/1lb 12\u00bcoz canned cherry tomatoes",
             "\u00bd tsp soft light brown sugar",
             "salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "2 tbsp chopped fresh parsley leaves",
-            "8 lime wedges"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 8",
+    "show": {
+        
     },
     "steps": [
         "Heat two tablespoons of the oil in a frying pan over a medium heat. Add the chopped onions, garlic and peppers and fry in the oil, stirring well, until softened, about 3-4 minutes.",
@@ -47,8 +51,9 @@
         "Pour 350ml/12\u00bdfl oz water into the pan, stir well and bring to the boil, then reduce the heat until the mixture is simmering. Simmer for 15-20 minutes, or until the mixture has thickened and is cooked through.",
         "Serve the Creole aubergines sprinkled with chopped parsley and garnished with wedges of lime."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Creole aubergines",
     "videos": "[]"
 }

@@ -1,26 +1,36 @@
 {
-    "title": "Kedgeree",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "It's a classic brunch dish for special occasions, but this recipe would be wonderful at any time of the day. Serve with some fresh crusty bread or a green salad.",
     "author": {
         "lawrence_keogh": "Lawrence Keogh"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        "Any leftover paste will keep for up to one month in an airtight container in the fridge, covered with a film of sunflower oil to preserve from the air."
+    "cookTime": "1 to 2 hours",
+    "description": "It's a classic brunch dish for special occasions, but this recipe would be wonderful at any time of the day. Serve with some fresh crusty bread or a green salad.",
+    "dishes": [
+        "bread",
+        "curry",
+        "kedgeree",
+        "pie",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the haddock and rice": [
+            "500ml/18fl oz milk",
+            "1 onion, cut in half",
+            "2 cloves",
+            "2 bay leaves",
+            "500g/1lb 1oz smoked haddock fillet, pin boned",
+            "500g/1lb 1oz basmati rice",
+            "2 tsp turmeric"
+        ],
         "For the madras curry paste": [
             "1 tbsp coriander seeds",
             "\u00bd tsp brown mustard seeds",
@@ -31,15 +41,6 @@
             "1 tsp grated fresh ginger",
             "2 garlic cloves, crushed",
             "75ml/2\u00bdfl oz white vinegar"
-        ],
-        "For the haddock and rice": [
-            "500ml/18fl oz milk",
-            "1 onion, cut in half",
-            "2 cloves",
-            "2 bay leaves",
-            "500g/1lb 1oz smoked haddock fillet, pin boned",
-            "500g/1lb 1oz basmati rice",
-            "2 tsp turmeric"
         ],
         "For the sauce": [
             "1 onion, chopped",
@@ -61,6 +62,12 @@
             "1 punnet coriander cress, for garnish (optional)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "For the madras curry paste, toast the coriander seeds, mustard seeds, cumin seeds, chilli powder and turmeric in a dry frying pan over a medium heat. When they start to pop and crackle in the pan, add the peppercorns and toast for another minute. Remove from the heat and set aside.",
         "Add the ginger and garlic to the spice mix and place in a mini blender or pestle and mortar. Add the vinegar and blend or pound to a smooth paste.",
@@ -74,8 +81,9 @@
         "Meanwhile, fill a large pan with boiling water and the white wine vinegar, and poach the eggs to your liking.",
         "At the last minute, add the remaining haddock and chopped parsley and serve in warm bowls with a poached egg on top. Finish with a spoonful of melted butter, a sprinkle of coriander cress and a little salt and pepper."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Any leftover paste will keep for up to one month in an airtight container in the fridge, covered with a film of sunflower oil to preserve from the air."
     ],
+    "title": "Kedgeree",
     "videos": "[]"
 }

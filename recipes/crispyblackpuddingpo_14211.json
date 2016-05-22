@@ -1,26 +1,33 @@
 {
-    "title": "Crispy black pudding potato cake, poached egg with mustard dressing",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "rob_brown": "Rob Brown"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "cake",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the mustard dressing": [
+            "3 tsp grain mustard",
+            "\u00bd lemon, juice only",
+            "extra virgin olive oil"
+        ],
+        "For the poached egg": [
+            "4 eggs (preferably free-range)",
+            "1 tsp vinegar"
+        ],
         "For the potato cake": [
             "125g/4oz fresh breadcrumbs",
             "2 eggs, beaten",
@@ -30,18 +37,15 @@
             "25g/1oz chives, chopped",
             "pinch of salt and pepper"
         ],
-        "For the poached egg": [
-            "4 eggs (preferably free-range)",
-            "1 tsp vinegar"
-        ],
         "For the salad": [
             "baby salad leaves"
-        ],
-        "For the mustard dressing": [
-            "3 tsp grain mustard",
-            "\u00bd lemon, juice only",
-            "extra virgin olive oil"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Combine the mashed potato, black pudding and seasoning together.",
@@ -51,8 +55,9 @@
         "Dress the plate with some baby salad leaves.",
         "Place the crispy black pudding potato cake onto the leaves, top with the poached egg and dressing and serve immediately."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Crispy black pudding potato cake, poached egg with mustard dressing",
     "videos": "[]"
 }

@@ -1,26 +1,39 @@
 {
-    "title": "Venison with juniper berries, sour cherry sauce and pumpkin mash",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 4-6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "silvena_rowe": "Silvena Rowe"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "jelly",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the mash": [
+            "600g/1lb 5oz King Edward potatoes (or similar floury potatoes), peeled and chopped",
+            "600g/1lb 5oz butternut squash, peeled and chopped",
+            "5 tbsp extra virgin olive oil",
+            "salt and freshly ground black pepper"
+        ],
+        "For the sauce": [
+            "20g/\u00beoz butter",
+            "300g/10\u00bdoz fresh or frozen cherries, stones removed",
+            "2 tsp redcurrant jelly",
+            "\u00bd tsp chopped fresh thyme",
+            "110ml/4fl oz good chicken stock"
+        ],
         "For the venison": [
             "6 x 150g/5oz venison medallions, cut from the loin",
             "200ml/7fl oz red wine",
@@ -34,20 +47,13 @@
             "10 juniper berries, crushed",
             "2 tbsp grapeseed oil",
             "salt and freshly ground black pepper"
-        ],
-        "For the sauce": [
-            "20g/\u00beoz butter",
-            "300g/10\u00bdoz fresh or frozen cherries, stones removed",
-            "2 tsp redcurrant jelly",
-            "\u00bd tsp chopped fresh thyme",
-            "110ml/4fl oz good chicken stock"
-        ],
-        "For the mash": [
-            "600g/1lb 5oz King Edward potatoes (or similar floury potatoes), peeled and chopped",
-            "600g/1lb 5oz butternut squash, peeled and chopped",
-            "5 tbsp extra virgin olive oil",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "Serves 4-6",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the venison, place all of the venison ingredients, except the grapeseed oil and the salt and freshly ground black pepper, into a large bowl, mix well, and place into the fridge to marinate overnight.",
@@ -62,8 +68,9 @@
         "Add the olive oil and mash the potato and butternut squash until smooth. Season, to taste, with salt and freshly ground black pepper.",
         "To serve, place a spoonful of the mashed potato and butternut squash into the centre of each of six plates. Slice each venison medallion into three pieces and place three slices on top of each pile of mash, then spoon the sour cherry sauce over."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Venison with juniper berries, sour cherry sauce and pumpkin mash",
     "videos": "[]"
 }

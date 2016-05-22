@@ -1,24 +1,22 @@
 {
-    "title": "Cherry tomato, marinated feta and basil skewers",
-    "cookTime": "no cooking required",
-    "prepTime": "overnight",
-    "serves": "Makes 40",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cherrytomatomarinate_68101_16x9.jpg"
-    ],
-    "description": "A little tomato and feta skewer makes an easy vegetarian nibble that fits in at any buffet party.",
     "author": {
         "merrilees_parker": "Merrilees Parker"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "Greek",
+    "description": "A little tomato and feta skewer makes an easy vegetarian nibble that fits in at any buffet party.",
+    "dishes": [
+        "bun",
+        "prepare-ahead_desserts"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cherrytomatomarinate_68101_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,13 +30,20 @@
             "40 long skewers"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "3",
+    "serves": "Makes 40",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Cut the feta into 40 even squares and place in a bowl. Pour over the olive oil; add the lemon zest, oregano and cracked black pepper. Leave to marinate for at least 2 hours or preferably overnight.",
         "To assemble, take a skewer and place a cherry tomato first, follow with a cube of the feta. You could prepare the skewers to this stage in advance, just keep refrigerated.",
         "Finish each one with a basil leaf. Skewer one tip of the leaf then the other tip so it looks like a little sail. Repeat until you have forty skewers."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Cherry tomato, marinated feta and basil skewers",
     "videos": "[]"
 }

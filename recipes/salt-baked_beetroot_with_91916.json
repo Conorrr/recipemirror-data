@@ -1,26 +1,32 @@
 {
-    "title": "Salt-baked beetroot with blue cheese biegnets and a rainbow beetroot salad",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Warm blue cheese choux beignets take this salad of salt-baked beetroot to another level. This isn't just salad...",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Warm blue cheese choux beignets take this salad of salt-baked beetroot to another level. This isn't just salad...",
+    "dishes": [
+        "crumble",
+        "jam",
+        "oven-baked_dishes",
+        "quenelle",
+        "salad",
+        "sauce",
+        "warm_salad"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "making_choux_pastry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Stilton dressing": [
+            "150g/5\u00bdoz Stilton",
+            "100ml/3\u00bdfl oz double cream"
+        ],
         "default": [
             "110g/4oz free-range egg whites (about three medium egg whites)",
             "700g/1lb 9oz table salt",
@@ -35,11 +41,13 @@
             "\u00bd shallot, thinly sliced",
             "small handful lamb's lettuce",
             "\u00bd head fris\u00e9e lettuce"
-        ],
-        "For the Stilton dressing": [
-            "150g/5\u00bdoz Stilton",
-            "100ml/3\u00bdfl oz double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5.",
@@ -63,8 +71,9 @@
         "Place the quartered baby beetroots and shallots in a large bowl. Add the sliced and chopped salt-baked beetroot and almost all of the beignets along with the lettuce leaves and mix with the dressing.",
         "Serve the salad in a wide serving bowls and top with the remaining beignets. Top with a quenelle of Stilton dressing."
     ],
-    "howTos": [
-        "making_choux_pastry"
+    "tips": [
+        
     ],
+    "title": "Salt-baked beetroot with blue cheese biegnets and a rainbow beetroot salad",
     "videos": "[]"
 }

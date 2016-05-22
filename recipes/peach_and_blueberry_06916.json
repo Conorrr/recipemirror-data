@@ -1,33 +1,29 @@
 {
-    "title": "Peach and blueberry streusel cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 12",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "Bursting with peaches and blueberries, this summery tray bake would be a tasty addition to a picnic basket.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Bursting with peaches and blueberries, this summery tray bake would be a tasty addition to a picnic basket.",
+    "dishes": [
+        "bread",
+        "cake",
+        "crumble",
+        "jam",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "rubbing_in",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the crumble topping": [
-            "125g/4oz self-raising flour",
-            "75g/3oz unsalted butter",
-            "75g/3oz soft light brown sugar",
-            "\u00bd tsp ground cinnamon",
-            "1 tbsp demerara sugar"
-        ],
         "For the cake": [
             "250g/8oz butter, plus extra for greasing",
             "250g/8oz plain flour",
@@ -40,6 +36,13 @@
             "200g/7oz fresh blueberries",
             "1 x 400g/7oz tin peach slices in syrup, drained"
         ],
+        "For the crumble topping": [
+            "125g/4oz self-raising flour",
+            "75g/3oz unsalted butter",
+            "75g/3oz soft light brown sugar",
+            "\u00bd tsp ground cinnamon",
+            "1 tbsp demerara sugar"
+        ],
         "For the jam": [
             "200g/7oz blueberries",
             "1 x 400g/7oz tin peach slices in syrup, drained",
@@ -47,6 +50,12 @@
             "1\u00bd tbsp plain flour",
             "1\u00bd tsp lemon juice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 12",
+    "show": {
+        
     },
     "steps": [
         "For the crumble topping, place all of the crumble ingredients into a large bowl. Rub the butter into the flour until the mixture resembles breadcrumbs. Set aside.",
@@ -59,9 +68,9 @@
         "Spread the jam over the cake and sprinkle over the remaining crumble topping.",
         "Return the cake to the oven and bake for a further 8-10 minutes, or until the topping is crisp and golden-brown."
     ],
-    "howTos": [
-        "rubbing_in",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Peach and blueberry streusel cake",
     "videos": "[]"
 }

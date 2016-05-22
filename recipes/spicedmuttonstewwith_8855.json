@@ -1,26 +1,33 @@
 {
-    "title": "Spiced mutton stew with apricots",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "7",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spicedmuttonstewwith_8855_16x9.jpg"
-    ],
-    "description": "This cheaper cut of meat is slow cooked to perfection with Moroccan spices and apricots.",
     "author": {
         "hugh_fearnley-whittingstall": "Hugh Fearnley-Whittingstall"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "North_African",
+    "description": "This cheaper cut of meat is slow cooked to perfection with Moroccan spices and apricots.",
+    "dishes": [
+        "chutney",
+        "oven-baked_dishes",
+        "pie",
+        "slow-cooked_dishes",
+        "stew",
+        "stock",
+        "tagine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spicedmuttonstewwith_8855_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "boiled rice, cooked to packet instructions",
+            "5g/1 tsp whole cumin or caraway seeds"
+        ],
         "default": [
             "\u00bd a leg of mutton or a kilo of stewing lamb",
             "250g/9oz hunza apricots, or organic, unsulphured dried apricots",
@@ -38,11 +45,13 @@
             "1 glass white wine",
             "125g/4\u00bdoz good fruit chutney",
             "salt and freshly black pepper"
-        ],
-        "To serve": [
-            "boiled rice, cooked to packet instructions",
-            "5g/1 tsp whole cumin or caraway seeds"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Bone out the leg leaving the very tough meat at the end of the knuckle on the bone. As the meat is to be cut into pieces, no great subtlety is required in taking it off the bone just try and keep the pieces as large as possible to begin with. Trim any major fat and gristle off the meat and cut into large (5x5cm/2x2in) pieces. Most meat for stews is cut too small.",
@@ -52,8 +61,9 @@
         "Bring to the boil, then reduce immediately to a very slow simmer. Cook like this, uncovered (or in a low oven with a lid on if you prefer) for 1\u00bd hours. Add the apricots at this point (any earlier and they would get too mushy) and cook for a further \u00bd hour. By this time the meat should be extremely tender. Taste a bit and if in doubt cook for a little longer.",
         "Serve with boiled rice, into which you have stirred the whole cumin or caraway seeds."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spiced mutton stew with apricots",
     "videos": "[]"
 }

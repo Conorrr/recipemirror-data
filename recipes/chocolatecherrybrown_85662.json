@@ -1,26 +1,31 @@
 {
-    "title": "Chocolate cherry brownies with cherry chocolate sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "icing",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cherry chocolate sauce": [
+            "150ml/\u00bc pint double cream",
+            "1 tbsp caster sugar",
+            "50ml/2fl oz cherry juice (from can of cherries)",
+            "2 tbsp cocoa powder",
+            "icing sugar, to dust"
+        ],
         "For the chocolate cherry brownies": [
             "110g/4oz butter, softened, plus extra for greasing",
             "110g/4oz caster sugar",
@@ -29,14 +34,13 @@
             "45g/1\u00beoz cocoa powder",
             "1 tbsp milk",
             "100g/3\u00bdoz canned cherries, stones removed, drained"
-        ],
-        "For the cherry chocolate sauce": [
-            "150ml/\u00bc pint double cream",
-            "1 tbsp caster sugar",
-            "50ml/2fl oz cherry juice (from can of cherries)",
-            "2 tbsp cocoa powder",
-            "icing sugar, to dust"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -47,8 +51,9 @@
         "For the cherry chocolate sauce, place all of the sauce ingredients (except the icing sugar) into a small pan and heat gently, stirring frequently, until combined to make a smooth sauce.",
         "To serve, place the brownies onto a serving plate and pour over the chocolate sauce. Dust with icing sugar."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Chocolate cherry brownies with cherry chocolate sauce",
     "videos": "[]"
 }

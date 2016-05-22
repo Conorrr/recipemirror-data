@@ -1,26 +1,33 @@
 {
-    "title": "Lardy cake with black pepper strawberry jam",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "4-6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "James Martin bakes a traditional English tea bread enriched with lard, sugar, spices and dried fruit.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "James Martin bakes a traditional English tea bread enriched with lard, sugar, spices and dried fruit.",
+    "dishes": [
+        "bread",
+        "cake",
+        "jam",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "greasing_and_lining",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the black pepper strawberry jam": [
+            "600g/1lb 5oz jam sugar (not to be confused with preserving sugar)",
+            "1 lemon, zest and juice only",
+            "1kg/2lb 4oz strawberries, whole, hulled",
+            "1 tsp crushed black pepper"
+        ],
         "For the cake": [
             "225g/8oz sultanas",
             "90g/3\u00bdoz lard, plus 1 tbsp extra for greasing",
@@ -33,13 +40,13 @@
             "\u00bc tsp ground nutmeg",
             "1 tsp ground allspice",
             "4 free-range eggs, lightly beaten"
-        ],
-        "For the black pepper strawberry jam": [
-            "600g/1lb 5oz jam sugar (not to be confused with preserving sugar)",
-            "1 lemon, zest and juice only",
-            "1kg/2lb 4oz strawberries, whole, hulled",
-            "1 tsp crushed black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the cake, preheat the oven to 180C/350F/Gas 4.",
@@ -51,9 +58,9 @@
         "Turn off the heat and leave the jam to cool, before skimming off any froth. Spoon into sterilised jars (about 2-3 jars, depending on their size).",
         "To serve, slice the cake and spread generously with some of the jam."
     ],
-    "howTos": [
-        "greasing_and_lining",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Lardy cake with black pepper strawberry jam",
     "videos": "[]"
 }

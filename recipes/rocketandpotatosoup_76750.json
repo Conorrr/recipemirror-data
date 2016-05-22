@@ -1,26 +1,32 @@
 {
-    "title": "Rocket and potato soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "pesto",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pesto": [
+            "4 tbsp olive oil",
+            "1 garlic clove, peeled and chopped",
+            "salt and freshly ground black pepper",
+            "handful of rocket leaves"
+        ],
         "default": [
             "1 tbsp olive oil",
             "\u00bd onion, peeled and sliced",
@@ -31,13 +37,13 @@
             "few thyme leaves",
             "approx \u00bepint/428ml chicken stock (vegetarians can substitute vegetable stock)",
             "handful of rocket"
-        ],
-        "For the pesto": [
-            "4 tbsp olive oil",
-            "1 garlic clove, peeled and chopped",
-            "salt and freshly ground black pepper",
-            "handful of rocket leaves"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat the oil in a saucepan and saut\u00e9 the onion and potato for a few minutes, to soften.",
@@ -47,8 +53,9 @@
         "For the pesto, blend the olive oil, garlic, seasoning and rocket in a mini food processor until smooth.",
         "Ladle the soup into a bowl and drizzle the pesto over to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Rocket and potato soup",
     "videos": "[]"
 }

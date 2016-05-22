@@ -1,24 +1,26 @@
 {
-    "title": "Spring vegetable quiche",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "Peas, beans and asparagus star in this versatile quiche; other lightly cooked seasonal vegetables could be substituted with equal success.",
     "author": {
         "janet_basu": "Janet Basu"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Peas, beans and asparagus star in this versatile quiche; other lightly cooked seasonal vegetables could be substituted with equal success.",
+    "dishes": [
+        "bread",
+        "bun",
+        "oven-baked_dishes",
+        "pastry",
+        "quiche"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "lining_tin_with_pastry",
+        "rubbing_in"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -38,6 +40,12 @@
             "5 baby plum tomatoes, chopped"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "7",
+    "serves": "Serves 6",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
+    },
     "steps": [
         "Sift the flour into a large bowl and rub in the butter until the mixture resembles breadcrumbs.",
         "Mix in the cheese and just enough chilled water to bind the mixture together. Wrap the dough in cling film and place in the fridge for 15 minutes.",
@@ -49,9 +57,9 @@
         "Remove the tart tin from the oven, discard the aluminium foil and baking beans and reduce the oven to 180C/350F/Gas 4.",
         "Place the tart tin on a baking tray, arrange the blanched vegetables, watercress and tomatoes over the base of the pastry case and pour over the egg mixture. Bake for 30-40 minutes or until the filling is set, then remove the quiche from the oven and set aside to cool slightly before removing from the tin."
     ],
-    "howTos": [
-        "lining_tin_with_pastry",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Spring vegetable quiche",
     "videos": "[]"
 }

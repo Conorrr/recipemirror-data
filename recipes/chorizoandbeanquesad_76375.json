@@ -1,26 +1,29 @@
 {
-    "title": "Chorizo and bean quesadilla",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "quesadilla",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "2 tbsp olive oil",
+            "1 garlic clove, peeled and chopped",
+            "150g/5\u00bcoz tin tomatoes"
+        ],
         "default": [
             "85g/3oz cheddar cheese, grated",
             "55g/2oz chorizo, diced",
@@ -28,12 +31,13 @@
             "handful fresh coriander, chopped",
             "salt and freshly ground black pepper",
             "2 Mexican tortillas"
-        ],
-        "To serve": [
-            "2 tbsp olive oil",
-            "1 garlic clove, peeled and chopped",
-            "150g/5\u00bcoz tin tomatoes"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Mix the cheese, chorizo, beans, coriander and salt and freshly ground black pepper in a bowl.",
@@ -42,8 +46,9 @@
         "Meanwhile, heat the olive oil in a pan and saut\u00e9 the garlic for one minute. Stir in the tomato and heat for a few minutes. Blend until smooth.",
         "To serve, transfer the quesadilla to a plate and serve the tomato sauce alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chorizo and bean quesadilla",
     "videos": "[]"
 }

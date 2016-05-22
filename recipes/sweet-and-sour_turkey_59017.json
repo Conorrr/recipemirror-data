@@ -1,35 +1,35 @@
 {
-    "title": "Sweet-and-sour turkey with egg-fried rice",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This classic way with leftover Christmas turkey is a crunchy, tangy treat perfect for a Saturday night fakeaway.",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b04v6210": "Christmas Kitchen with James Martin"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Chinese",
+    "description": "This classic way with leftover Christmas turkey is a crunchy, tangy treat perfect for a Saturday night fakeaway.",
+    "dishes": [
+        "bread",
+        "jam",
+        "ketchup",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the turkey": [
-            "1 tbsp dry sherry",
-            "1 tbsp light soy sauce",
-            "1 tbsp sesame oil",
-            "pinch salt",
-            "450g/1lb cooked leftover turkey, cut into 2cm/\u00bein cubes",
-            "vegetable oil, for frying",
-            "1 free-range egg, beaten",
-            "2 tbsp cornflour, plus extra for dusting"
+        "For the egg-fried rice": [
+            "2 tbsp vegetable oil",
+            "300g/10\u00bdoz cooked basmati rice, cooled to room temperature",
+            "2 free-range eggs, beaten",
+            "4 spring onions, trimmed, chopped",
+            "4 tbsp soy sauce"
         ],
         "For the sweet-and-sour sauce": [
             "150ml/\u00bc pint chicken stock",
@@ -42,13 +42,22 @@
             "1 tbsp juice from a satsuma",
             "1 tbsp cornflour"
         ],
-        "For the egg-fried rice": [
-            "2 tbsp vegetable oil",
-            "300g/10\u00bdoz cooked basmati rice, cooled to room temperature",
-            "2 free-range eggs, beaten",
-            "4 spring onions, trimmed, chopped",
-            "4 tbsp soy sauce"
+        "For the turkey": [
+            "1 tbsp dry sherry",
+            "1 tbsp light soy sauce",
+            "1 tbsp sesame oil",
+            "pinch salt",
+            "450g/1lb cooked leftover turkey, cut into 2cm/\u00bein cubes",
+            "vegetable oil, for frying",
+            "1 free-range egg, beaten",
+            "2 tbsp cornflour, plus extra for dusting"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b04v6210": "Christmas Kitchen with James Martin"
     },
     "steps": [
         "For the turkey, in a bowl, mix together the sherry, soy sauce, sesame oil and salt until well combined. Add the cooked turkey to the marinade, stir well to coat, then cover the bowl and set aside to marinate for at least 20 minutes.",
@@ -62,8 +71,9 @@
         "Just before serving, stir the turkey into the sweet-and-sour sauce.",
         "To serve, spoon the egg-fried rice into serving bowls and top with the sweet-and-sour turkey."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sweet-and-sour turkey with egg-fried rice",
     "videos": "[]"
 }

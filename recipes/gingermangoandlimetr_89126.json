@@ -1,26 +1,32 @@
 {
-    "title": "Ginger, mango and lime trifle",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "levi_roots": "Levi Roots"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "cake",
+        "crumble",
+        "icing",
+        "jam",
+        "mousse",
+        "pie",
+        "trifle"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "2 lime slices",
+            "icing sugar, for dusting"
+        ],
         "default": [
             "\u00bd mango, skin and stone removed, flesh cut into chunks",
             "1 tbsp honey",
@@ -30,19 +36,22 @@
             "3 slices Jamaican ginger cake, crumbled",
             "\u00bd lime, zest only",
             "1 orange, peeled and segmented"
-        ],
-        "To serve": [
-            "2 lime slices",
-            "icing sugar, for dusting"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Place half of the chopped mango, the honey and two tablespoons of the rum into a food processor and blend to a smooth pur\u00e9e. Fold the mango mixture into the whipped cream, along with the maple syrup.",
         "Place half of the ginger cake into the bottom of two large glasses or serving dishes. Drizzle over the remaining rum, then layer half of the mango mousse on top, followed by the remaining ginger cake. Finish with the rest of the mango mousse, then top with the remaining chopped mango, lime zest and orange segments.",
         "To serve, garnish with the lime slice repeat the layers, finishing with the mousse. Top with the chopped mango pieces, lime zest and orange segments and garnish with the lime slices and dust with the icing sugar."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Ginger, mango and lime trifle",
     "videos": "[]"
 }

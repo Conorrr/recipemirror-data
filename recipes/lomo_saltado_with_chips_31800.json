@@ -1,35 +1,24 @@
 {
-    "title": "Lomo saltado with chips",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "13",
-    "images": [
-        
-    ],
-    "description": "A traditional Peruvian dish, flash-fried spicy steak is served with rice and chips. Bring on the pisco sours!",
     "author": {
         "martin_morales": "Martin Morales"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "South_American",
+    "description": "A traditional Peruvian dish, flash-fried spicy steak is served with rice and chips. Bring on the pisco sours!",
+    "dishes": [
+        "chips",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the marinade": [
-            "4 garlic cloves, chopped",
-            "150ml/5fl oz soy sauce",
-            "2 tbsp red wine vinegar",
-            "2 tsp worcestershire sauce",
-            "\u00bd tsp dried oregano",
-            "\u00bd tsp ground cumin",
-            "sea salt and freshly ground black pepper"
-        ],
         "For the lomo saltado and chips": [
             "600g/1lb 5oz fillet steak, cut into 3cm/1\u00bcin cubes",
             "vegetable oil, for frying",
@@ -41,7 +30,22 @@
             "10g/\u00bcoz fresh flat-leaf parsley, finely chopped",
             "600g/1lb 5oz chipping potatoes, peeled, cut into chips",
             "sunflower oil, for deep frying"
+        ],
+        "For the marinade": [
+            "4 garlic cloves, chopped",
+            "150ml/5fl oz soy sauce",
+            "2 tbsp red wine vinegar",
+            "2 tsp worcestershire sauce",
+            "\u00bd tsp dried oregano",
+            "\u00bd tsp ground cumin",
+            "sea salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "13",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the marinade, mix all the ingredients together in a bowl with two tablespoons of water until well combined.",
@@ -54,8 +58,9 @@
         "Pour over the reserved marinade and bring to a simmer. Turn off the heat and leave the meat to rest in the sauce for a couple of minutes.",
         "Place the steak on one side and the chips on another and garnish with chopped coriander and parsley."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lomo saltado with chips",
     "videos": "[]"
 }

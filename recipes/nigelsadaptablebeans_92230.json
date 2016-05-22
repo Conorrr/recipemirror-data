@@ -1,24 +1,23 @@
 {
-    "title": "Adaptable bean soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "39",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/nigelsadaptablebeans_92230_16x9.jpg"
-    ],
-    "description": "A budget-friendly soup that's healthy and filling. This soup is perfect for whipping up ahead of time and popping in the freezer. Just leave to cool and store in a freezer-proof container. It will keep in the freezer for up to 2 months. This meal provides 183 kcal, 6g protein, 18.5g carbohydrate (of which 10g sugars), 9.5g fat (of which 1.3g saturates), 6.5g fibre and 1.7g salt per portion.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b00vt10m": "Nigel Slater's Simple Suppers"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A budget-friendly soup that's healthy and filling. This soup is perfect for whipping up ahead of time and popping in the freezer. Just leave to cool and store in a freezer-proof container. It will keep in the freezer for up to 2 months. This meal provides 183 kcal, 6g protein, 18.5g carbohydrate (of which 10g sugars), 9.5g fat (of which 1.3g saturates), 6.5g fibre and 1.7g salt per portion.",
+    "dishes": [
+        "ciabatta",
+        "soup",
+        "stock",
+        "vegetable_soup"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/nigelsadaptablebeans_92230_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -37,12 +36,19 @@
             "French stick, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "39",
+    "serves": "Serves 4",
+    "show": {
+        "b00vt10m": "Nigel Slater's Simple Suppers"
+    },
     "steps": [
         "Roughly chop the onions and carrots. Warm a little olive oil in a large pan on a low heat and add the onions and carrots. Chop the tomatoes and add them to the pan with a bay leaf. Add the cannellini beans, followed by the vegetable stock - enough to cover. I like to add a couple of bits of orange peel at this stage, followed by the parmesan rind.",
         "Season generously with salt and freshly ground black pepper and let the soup bubble. Chop the chard stalks and add to the liquid. (You could use any other greens you like.) Add plenty of chopped parsley, then add the chard leaves. Serve with some toasted French stick or ciabatta and a drizzle of olive oil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Adaptable bean soup",
     "videos": "[]"
 }

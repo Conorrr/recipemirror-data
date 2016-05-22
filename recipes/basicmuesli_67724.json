@@ -1,24 +1,21 @@
 {
-    "title": "Basic muesli",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Make your muesli exactly the way you like it. Feel free to stick to the cereals, nuts and fruits that you like.",
     "author": {
         "jo_pratt": "Jo' Pratt"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Make your muesli exactly the way you like it. Feel free to stick to the cereals, nuts and fruits that you like.",
+    "dishes": [
+        "muesli",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,14 +29,21 @@
             "50g/2oz dried, ready-to-eat figs, roughly chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4-6",
+    "show": {
+        
+    },
     "steps": [
         "Preheat the oven to 160C/325F/Gas 3.",
         "Place the oats, flaked bran or wheat germ, barley or rye flakes, hazelnuts and almonds on a large baking tray and toast in the oven for 10 minutes, shaking and turning in the tray halfway through. Take the tray from the oven and leave to cool: this should take only about 10 minutes.",
         "Mix the toasted ingredients with the sultanas, apricots and figs. These fruits are only suggestions: you can use whatever you prefer, for example dried apple, mango, papaya, dates or cherries.",
         "You can eat this muesli straight away with milk or yoghurt, or you can store in an airtight container."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Basic muesli",
     "videos": "[]"
 }

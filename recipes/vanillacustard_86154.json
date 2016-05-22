@@ -1,24 +1,21 @@
 {
-    "title": "Vanilla custard",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "custard",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,13 +26,20 @@
             "2 free-range egg yolks"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place the milk, cream and the vanilla pod and seeds into a saucepan. Bring gently to the boil, then remove from the heat and remove the vanilla pod.",
         "Whisk the sugar and egg yolks together in a large bowl until pale and frothy. Pour the egg mixture over the milk and cream and whisk together. Pour the mixture into a clean saucepan and whisk over a low heat until a thick custard is formed.",
         "To serve, pour into a jug."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Vanilla custard",
     "videos": "[]"
 }

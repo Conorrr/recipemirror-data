@@ -1,26 +1,32 @@
 {
-    "title": "Deep fried calamari with garlic and lemon mayonnaise",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8 as a snack",
-    "recommendations": "13",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/deepfriedcalamariwit_68061_16x9.jpg"
-    ],
-    "description": "Homemade crispy calamari is quick, easy and definitely worth the effort. Dip into creamy garlicky mayonnaise.",
     "author": {
         "jo_pratt": "Jo' Pratt"
     },
-    "show": {
-        "p0077hx8": "The Nation's Favourite Food"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Italian",
+    "description": "Homemade crispy calamari is quick, easy and definitely worth the effort. Dip into creamy garlicky mayonnaise.",
+    "dishes": [
+        "bread",
+        "mayonnaise",
+        "sandwich",
+        "sauce",
+        "seafood"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/deepfriedcalamariwit_68061_16x9.jpg"
+    ],
     "ingredients": {
+        "For the mayonnaise": [
+            "200ml/7fl oz mayonnaise",
+            "1 garlic clove, crushed",
+            "\u00bd lemon, juice only"
+        ],
         "default": [
             "vegetable oil, for deep frying",
             "250g/9oz plain flour",
@@ -29,12 +35,13 @@
             "\u00bd tsp salt",
             "500g/1lb 2oz squid, cut into 5mm/\u00bcin rings",
             "2 eggs, beaten"
-        ],
-        "For the mayonnaise": [
-            "200ml/7fl oz mayonnaise",
-            "1 garlic clove, crushed",
-            "\u00bd lemon, juice only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "13",
+    "serves": "Serves 6-8 as a snack",
+    "show": {
+        "p0077hx8": "The Nation's Favourite Food"
     },
     "steps": [
         "For the mayonnaise, mix all the ingredients together and set aside.",
@@ -42,8 +49,9 @@
         "While the oil is heating, place the flour, cayenne, paprika and salt in a large sandwich bag. Drop in the squid and shake around to coat evenly. This may need to be done in two batches, depending on the size of the bag.",
         "Dip the floured squid into the beaten egg and then carefully drop into the hot oil. Fry for 2-3 minutes until golden. Remove from the oil and briefly drain on kitchen paper before serving with the garlic and lemon mayonnaise."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Deep fried calamari with garlic and lemon mayonnaise",
     "videos": "[]"
 }

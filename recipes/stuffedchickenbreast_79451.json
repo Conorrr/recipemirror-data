@@ -1,23 +1,22 @@
 {
-    "title": "Stuffed chicken breast with rosti and gravy",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ross_burden": "Ross Burden"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "gravy",
+        "oven-baked_dishes",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -28,12 +27,6 @@
             "1 tbsp fresh chives, chopped",
             "4 rashers streaky bacon"
         ],
-        "For the r\u00f6sti": [
-            "1 large potato, peeled and grated",
-            "1 tbsp cornflour",
-            "salt and freshly ground black pepper",
-            "25g/1oz unsalted butter"
-        ],
         "For the gravy": [
             "1 onion, sliced",
             "25g/1oz butter",
@@ -41,7 +34,19 @@
             "50ml/2fl oz red wine",
             "50ml/2fl oz chick stock",
             "salt and freshly ground black pepper"
+        ],
+        "For the r\u00f6sti": [
+            "1 large potato, peeled and grated",
+            "1 tbsp cornflour",
+            "salt and freshly ground black pepper",
+            "25g/1oz unsalted butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -59,8 +64,9 @@
         "Add the wine and stock and turn up the heat to high. Reduce the gravy by half.",
         "To serve, place the r\u00f6sti in the centre of a warmed plate, place the chicken on top and pour the gravy around."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Stuffed chicken breast with rosti and gravy",
     "videos": "[]"
 }

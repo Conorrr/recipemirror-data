@@ -1,24 +1,26 @@
 {
-    "title": "Five-spice braised beef",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/five-spice_braised_beef_86835_16x9.jpg"
-    ],
-    "description": "This slow-cooked Chinese-flavoured dish makes a lovely change from a stir-fry but is just as easy to prepare. Equipment and preparation: For this recipe, you will need an electric slow-cooker, at least 3.5 litres/6 pints in capacity.",
     "author": {
         "justine_pattison": "Justine Pattison"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "If you are using pre-cut beef, it will probably be in small chunks, so reduce the cooking time by about 1 hour. Also, If you are not using a slow cooker you may need to add extra beef stock."
+    "cookTime": "over 2 hours",
+    "cusine": "Chinese",
+    "description": "This slow-cooked Chinese-flavoured dish makes a lovely change from a stir-fry but is just as easy to prepare. Equipment and preparation: For this recipe, you will need an electric slow-cooker, at least 3.5 litres/6 pints in capacity.",
+    "dishes": [
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/five-spice_braised_beef_86835_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,6 +38,12 @@
             "freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Heat the oil in a large, heavy-based frying pan over a medium heat. Add the onions and fry for 8-10 minutes, stirring regularly, until softened and lightly browned. Add the ginger, garlic and chilli flakes, stir well and cook for 2-3 minutes, making sure the garlic doesn't burn.",
         "Season the beef all over with pepper, then sprinkle over the five-spice powder and mix to coat evenly. Add to the pan and fry for 3-4 minutes, turning the beef regularly until lightly browned all over.",
@@ -43,8 +51,9 @@
         "When the beef is cooked, whisk the cornflour with 1 tablespoon water to a smooth paste, stir in the honey. Add to the slow-cooker, cover and cook for 12-15 minutes, or until the sauce is glossy and has thickened slightly.",
         "Serve the beef with steamed rice or boiled noodles and stir-fried vegetables."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If you are using pre-cut beef, it will probably be in small chunks, so reduce the cooking time by about 1 hour. Also, If you are not using a slow cooker you may need to add extra beef stock."
     ],
+    "title": "Five-spice braised beef",
     "videos": "[]"
 }

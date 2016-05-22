@@ -1,33 +1,28 @@
 {
-    "title": "Pappardelle with slow-cooked beef and mushrooms",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "4",
-    "recommendations": "20",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pappardellewithslowc_92023_16x9.jpg"
-    ],
-    "description": "This rich meat pasta recipe is perfect for bringing a bit of luxury to your mid-week meals.",
     "author": {
         "allegra_mcevedy": "Allegra McEvedy"
     },
-    "show": {
-        "b00m1c34": "Economy Gastronomy"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This rich meat pasta recipe is perfect for bringing a bit of luxury to your mid-week meals.",
+    "dishes": [
+        "pappardelle",
+        "pasta",
+        "salsa",
+        "sauce",
+        "slow-cooked_dishes",
+        "stew",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pappardellewithslowc_92023_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "2 tbsp olive oil",
-            "400g/14oz stewing beef, cubed",
-            "700ml/1\u00bc pints hot water or beef stock",
-            "300g/10\u00bdoz mixed mushrooms (such as oyster, button or shiitake), washed thoroughly, roughly sliced",
-            "salt and freshly ground black pepper"
-        ],
         "For the tomato salsa": [
             "400g/14oz vine-ripened tomatoes, each cut into eight wedges",
             "handful chopped fresh basil leaves",
@@ -39,7 +34,20 @@
             "250g/9oz dried egg pappardelle, cooked according to packet instructions, drained, to serve",
             "1 heaped tbsp butter, softened",
             "40g/1\u00bdoz freshly grated parmesan"
+        ],
+        "default": [
+            "2 tbsp olive oil",
+            "400g/14oz stewing beef, cubed",
+            "700ml/1\u00bc pints hot water or beef stock",
+            "300g/10\u00bdoz mixed mushrooms (such as oyster, button or shiitake), washed thoroughly, roughly sliced",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "20",
+    "serves": "4",
+    "show": {
+        "b00m1c34": "Economy Gastronomy"
     },
     "steps": [
         "Heat the oil in a heavy-based pan. Add the beef and brown all over, stirring regularly.",
@@ -48,8 +56,9 @@
         "Add the cooked, drained pasta, softened butter and half of the grated parmesan to the slow-cooked beef and mushrooms, stirring well until the pasta is coated in the sauce and the butter has melted.",
         "Divide the pappardelle with slow-cooked beef and mushrooms equally among four serving bowls. Spoon over the tomato salsa and sprinkle over the remaining parmesan."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pappardelle with slow-cooked beef and mushrooms",
     "videos": "[]"
 }

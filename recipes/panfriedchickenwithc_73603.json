@@ -1,26 +1,31 @@
 {
-    "title": "Pan-fried chicken with chilli beans, fennel and pancetta",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "bread",
+        "crumble",
+        "jam",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "green leaf salad",
+            "crusty bread"
+        ],
         "default": [
             "2 tbsp. extra virgin olive oil, plus extra for drizzling",
             "4 skinless, boneless chicken breasts about 150g/5\u00bdoz each",
@@ -33,11 +38,13 @@
             "3 tbsp chopped mixed fresh herbs, e.g. parsley, mint or basil",
             "8 thin slices of pancetta",
             "sea salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "green leaf salad",
-            "crusty bread"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Heat a large heavy-based non-stick frying pan until you feel a good heat rising.",
@@ -53,8 +60,9 @@
         "Drizzle over any chicken pan juices with a little extra oil.",
         "Serve warm with the crusty bread and green leaf salad."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Pan-fried chicken with chilli beans, fennel and pancetta",
     "videos": "[]"
 }

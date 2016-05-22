@@ -1,39 +1,28 @@
 {
-    "title": "Baked Cuban chicken and rice",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "13",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/baked_cuban_chicken_and_30210_16x9.jpg"
-    ],
-    "description": "Spice up your rice with a sprinkle of paprika and a dash of rum.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Spice up your rice with a sprinkle of paprika and a dash of rum.",
+    "dishes": [
+        "casserole",
+        "mayonnaise",
+        "oven-baked_dishes",
+        "sauce",
+        "sausage",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/baked_cuban_chicken_and_30210_16x9.jpg"
+    ],
     "ingredients": {
-        "For the stock": [
-            "2 tsp dried oregano",
-            "2 tsp cumin",
-            "2 tsp paprika",
-            "2 tsp soft dark brown sugar",
-            "2 tsp garlic powder",
-            "2 tsp onion powder",
-            "pinch salt",
-            "pinch white pepper",
-            "30ml/1fl oz olive oil",
-            "1.5 litres/2 pints 13fl oz chicken stock",
-            "50ml/2fl oz Cuban rum"
-        ],
         "For the chicken": [
             "2 tbsp olive oil",
             "350g/12oz chicken breast, cut into chunks"
@@ -50,9 +39,28 @@
             "100g/3\u00bdoz unsalted butter",
             "salt and freshly ground black pepper"
         ],
+        "For the stock": [
+            "2 tsp dried oregano",
+            "2 tsp cumin",
+            "2 tsp paprika",
+            "2 tsp soft dark brown sugar",
+            "2 tsp garlic powder",
+            "2 tsp onion powder",
+            "pinch salt",
+            "pinch white pepper",
+            "30ml/1fl oz olive oil",
+            "1.5 litres/2 pints 13fl oz chicken stock",
+            "50ml/2fl oz Cuban rum"
+        ],
         "To serve": [
             "Chilli sauce or garlic mayonnaise"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "13",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4 and butter a casserole dish.",
@@ -65,8 +73,9 @@
         "Place in the oven for 45 minutes to 1 hour, until the rice is cooked.",
         "Serve with chilli sauce or garlic mayonnaise."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Baked Cuban chicken and rice",
     "videos": "[]"
 }

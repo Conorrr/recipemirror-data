@@ -1,24 +1,23 @@
 {
-    "title": "White chocolate brownies (blondies)",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "34",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/whitechocolatebrowni_91667_16x9.jpg"
-    ],
-    "description": "Who said a brownie had to be brown? These white chocolate blondies are a great change and so delicious!",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Who said a brownie had to be brown? These white chocolate blondies are a great change and so delicious!",
+    "dishes": [
+        "cake",
+        "chocolate_brownies",
+        "icing",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/whitechocolatebrowni_91667_16x9.jpg"
     ],
     "ingredients": {
         "For the brownies": [
@@ -37,6 +36,12 @@
             "50-75ml/2-4fl oz milk (optional)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "34",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease a 20cm/8in square cake tin with butter.",
         "For the brownies, in a bowl, beat together the sugar and eggs until pale and fluffy. Beat in the melted butter a little at a time, making sure each addition of butter is fully incorporated before adding the next.",
@@ -47,8 +52,9 @@
         "Add the peanut butter and whisk until the mixture is smooth and well combined. (Add a little milk, if using, to loosen the mixture, as necessary).",
         "Once the white chocolate brownies have cooled, spread over the peanut butter frosting in an even layer. Cut the brownies into squares, carefully remove them from the tin and serve on a large serving plate."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "White chocolate brownies (blondies)",
     "videos": "[]"
 }

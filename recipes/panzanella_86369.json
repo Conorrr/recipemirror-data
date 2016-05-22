@@ -1,24 +1,23 @@
 {
-    "title": "Panzanella",
-    "cookTime": "no cooking required",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "ciabatta",
+        "pie",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "de-skinning_tomatoes"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -36,6 +35,12 @@
             "handful fresh basil leaves, roughly chopped, to garnish"
         ]
     },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Skin the tomatoes by cutting a shallow cross into the bottom of each, then plunge them into boiling water for about 30 seconds.",
         "Carefully transfer the tomatoes into a bowl of iced water. The skins should then peel off easily.",
@@ -49,8 +54,9 @@
         "Add the tomato quarters and peppers mixture to the soaked ciabatta and garnish with the basil leaves.",
         "Serve in a large salad bowl at the table."
     ],
-    "howTos": [
-        "de-skinning_tomatoes"
+    "tips": [
+        
     ],
+    "title": "Panzanella",
     "videos": "[]"
 }

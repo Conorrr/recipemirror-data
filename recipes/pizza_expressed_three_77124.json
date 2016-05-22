@@ -1,41 +1,39 @@
 {
-    "title": "Pizza expressed three ways",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 3 thin pizzas",
-    "recommendations": "21",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pizza_expressed_three_77124_16x9.jpg"
-    ],
-    "description": "You can either make the dough from scratch for this pizza, which takes no time at all, or for an even speedier method, buy soft tortillas and use these as a base for the pizza instead of making your own.",
     "author": {
         "lorraine_pascale": "Lorraine Pascale"
     },
-    "show": {
-        "b01m28pp": "Lorraine's Fast, Fresh and Easy Food"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "You can either make the dough from scratch for this pizza, which takes no time at all, or for an even speedier method, buy soft tortillas and use these as a base for the pizza instead of making your own.",
+    "dishes": [
+        "bread",
+        "crumble",
+        "hummus",
+        "oven-baked_dishes",
+        "pie",
+        "pizza",
+        "prepare-ahead_desserts",
+        "sausage",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pizza_expressed_three_77124_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pizza dough": [
-            "300g/11oz strong bread flour, plus a little extra for dusting",
-            "1 x 7g sachet fast-action dried yeast",
-            "1\u00bd tsp salt",
-            "3 tbsp extra virgin olive oil"
-        ],
-        "For the harissa, chilli, sausage and rocket topping": [
-            "2 spring onions",
-            "1 red chilli (optional)",
-            "2 fat sausages",
-            "2 tsp fennel seed",
-            "2 tbsp harissa paste (found in most supermarkets)",
-            "a handful of wild rocket",
+        "For the feta, hummus and zucchini topping": [
+            "100g/3\u00bdoz hummus",
+            "100g/3\u00bdoz feta cheese",
+            "\u00bd small courgette",
+            "6 cherry tomatoes",
+            "salt and pepper",
+            "drizzle of balsamic glaze (available in the supermarket)",
             "extra virgin olive oil",
-            "salt and pepper"
+            "small handful of mint leaves"
         ],
         "For the goats\u2019 cheese, sweet pepper and chorizo topping": [
             "50ml/1\u00befl oz passata",
@@ -48,16 +46,28 @@
             "small handful of fresh basil leaves",
             "salt and pepper"
         ],
-        "For the feta, hummus and zucchini topping": [
-            "100g/3\u00bdoz hummus",
-            "100g/3\u00bdoz feta cheese",
-            "\u00bd small courgette",
-            "6 cherry tomatoes",
-            "salt and pepper",
-            "drizzle of balsamic glaze (available in the supermarket)",
+        "For the harissa, chilli, sausage and rocket topping": [
+            "2 spring onions",
+            "1 red chilli (optional)",
+            "2 fat sausages",
+            "2 tsp fennel seed",
+            "2 tbsp harissa paste (found in most supermarkets)",
+            "a handful of wild rocket",
             "extra virgin olive oil",
-            "small handful of mint leaves"
+            "salt and pepper"
+        ],
+        "For the pizza dough": [
+            "300g/11oz strong bread flour, plus a little extra for dusting",
+            "1 x 7g sachet fast-action dried yeast",
+            "1\u00bd tsp salt",
+            "3 tbsp extra virgin olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "21",
+    "serves": "Makes 3 thin pizzas",
+    "show": {
+        "b01m28pp": "Lorraine's Fast, Fresh and Easy Food"
     },
     "steps": [
         "Preheat the oven to 240C/475F/Gas 9.",
@@ -73,8 +83,9 @@
         "When you have topped the pizzas, bake each one in the oven for 8-10 minutes or until crispy and the sausage on the harissa, chilli and sausage pizza is cooked.",
         "Once cooked, scatter the rocket over the harissa, chilli and sausage pizza. Scatter the basil leaves over the cooked goats\u2019 cheese pizza and drizzle with a little oil. Drizzle the balsamic glaze over the feta pizza with a good drizzle of olive oil, then scatter over the mint leaves. Serve the pizzas immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pizza expressed three ways",
     "videos": "[]"
 }

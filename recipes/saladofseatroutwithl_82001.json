@@ -1,30 +1,25 @@
 {
-    "title": "Salad of sea trout with laverbread",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "angela_hartnett": "Angela Hartnett"
     },
-    "show": {
-        "b0071y6r": "Great British Menu"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "cake",
+        "prepare-ahead_desserts",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "scoring_skin"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sea trout": [
-            "2 whole sea trout, filleted",
-            "olive oil"
-        ],
         "For the artichokes": [
             "8-12 baby violet artichokes",
             "lemon juice",
@@ -46,7 +41,17 @@
             "salt and freshly ground black pepper",
             "knob of butter",
             "1 tbsp vegetable oil"
+        ],
+        "For the sea trout": [
+            "2 whole sea trout, filleted",
+            "olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b0071y6r": "Great British Menu"
     },
     "steps": [
         "Remove any pin bones from the trout fillets, then score the skin.",
@@ -58,8 +63,9 @@
         "For the sea trout, fry the trout fillets in hot olive oil, skin-side down first, for about two minutes on each side.",
         "To serve, place a laver bread cake in the centre of each plate and spoon the warm artichokes on top. Place the trout fillets on the vegetables and serve."
     ],
-    "howTos": [
-        "scoring_skin"
+    "tips": [
+        
     ],
+    "title": "Salad of sea trout with laverbread",
     "videos": "[]"
 }

@@ -1,31 +1,28 @@
 {
-    "title": "Chocolate and strawberry lime ice cream roll",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 1 large ice cream roll",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Coconut cream adds richness to the ice cream in this dairy-free dessert. Equipment and preparation: you will need an ice cream maker, piping bags fitted with a nozzle coupler and writing tip attached (ideally Wilton 2), a sugar thermometer and a hand-held blender for this recipe.",
     "author": {
         "nadiya": "Nadiya"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Coconut cream adds richness to the ice cream in this dairy-free dessert. Equipment and preparation: you will need an ice cream maker, piping bags fitted with a nozzle coupler and writing tip attached (ideally Wilton 2), a sugar thermometer and a hand-held blender for this recipe.",
+    "dishes": [
+        "ice_cream",
+        "jam",
+        "mousse",
+        "oven-baked_dishes",
+        "pie",
+        "sausage",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "melting_chocolate"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the strawberry and lime jam": [
-            "200g/7oz fresh strawberries",
-            "200g/7oz preserving jam sugar",
-            "1 lime, zest and 1 tbsp juice only"
-        ],
         "For the chocolate ice cream": [
             "400g/14oz full-fat coconut cream",
             "1\u00bd tbsp instant coffee granules",
@@ -34,6 +31,28 @@
             "\u00bc tsp table salt",
             "1 tsp agar-agar",
             "2 large free-range eggs"
+        ],
+        "For the decorative paste": [
+            "1 large free-range egg white",
+            "40g/1\u00bdoz plain flour",
+            "30g/1oz caster sugar",
+            "30g/1oz dairy-free butter (soy spread), plus extra for greasing",
+            "rose pink food colouring"
+        ],
+        "For the dipped strawberries": [
+            "200g/7oz fresh strawberries, hulled",
+            "100g/3\u00bdoz dairy-free dark chocolate",
+            "50g/1\u00beoz dairy-free white chocolate"
+        ],
+        "For the fatless sponge": [
+            "4 large free-range eggs",
+            "100g/3\u00bdoz caster sugar, extra for dusting",
+            "100g/3\u00bdoz self-raising flour"
+        ],
+        "For the strawberry and lime jam": [
+            "200g/7oz fresh strawberries",
+            "200g/7oz preserving jam sugar",
+            "1 lime, zest and 1 tbsp juice only"
         ],
         "For the strawberry and lime mousse ice cream": [
             "200g/7oz coconut cream",
@@ -44,26 +63,15 @@
             "1 tsp agar-agar",
             "1 lime, zest only"
         ],
-        "For the decorative paste": [
-            "1 large free-range egg white",
-            "40g/1\u00bdoz plain flour",
-            "30g/1oz caster sugar",
-            "30g/1oz dairy-free butter (soy spread), plus extra for greasing",
-            "rose pink food colouring"
-        ],
-        "For the fatless sponge": [
-            "4 large free-range eggs",
-            "100g/3\u00bdoz caster sugar, extra for dusting",
-            "100g/3\u00bdoz self-raising flour"
-        ],
-        "For the dipped strawberries": [
-            "200g/7oz fresh strawberries, hulled",
-            "100g/3\u00bdoz dairy-free dark chocolate",
-            "50g/1\u00beoz dairy-free white chocolate"
-        ],
         "To serve": [
             "dehydrated strawberries"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "2",
+    "serves": "Makes 1 large ice cream roll",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the jam, put the strawberries in a pan and use a potato masher to squash the strawberries. Add the sugar. Cook on a medium heat until the jam reaches 105C or test for wrinkles on a cold plate to check if the jam is ready. Add the lime zest and juice and leave to cool. Once cooled, blend using a hand-blender to get rid of any lumps. Set aside.",
@@ -80,8 +88,9 @@
         "Place the firm ice cream roll on top and roll together. Cut off any uneven ends, re-wrap in greaseproof paper and return to the freezer to freeze.",
         "Squeeze to make everything adhere. Unwrap and place on a serving platter. Arrange the dipped strawberries on top. Scatter over some dehydrated strawberries and serve."
     ],
-    "howTos": [
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "Chocolate and strawberry lime ice cream roll",
     "videos": "[]"
 }

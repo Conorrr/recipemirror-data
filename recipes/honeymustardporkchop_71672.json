@@ -1,26 +1,29 @@
 {
-    "title": "Honey mustard pork chops with peppercorn",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "mike_robinson": "Mike Robinson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_cook_pork_chops"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "3 finely chopped shallots",
+            "1 tbsp green peppercorns",
+            "small glass cider",
+            "100ml/3\u00bdfl oz double cream"
+        ],
         "default": [
             "1 tbsp wholegrain mustard",
             "1 tsp runny honey",
@@ -31,13 +34,13 @@
             "200g/7oz new potatoes, lightly cooked and halved",
             "1 tsp wholegrain mustard",
             "6 shredded fresh sage leaves"
-        ],
-        "For the sauce": [
-            "3 finely chopped shallots",
-            "1 tbsp green peppercorns",
-            "small glass cider",
-            "100ml/3\u00bdfl oz double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Mix the wholegrain mustard with the runny honey. Slice the back fat on the chops in three places to stop them curling, then slather liberally with the honey mustard.",
@@ -49,8 +52,9 @@
         "Add the double cream and cook until it thickens and colours. Season.",
         "To serve, place the chop on the plate, pile apple and potatoes around and spoon over the sauce."
     ],
-    "howTos": [
-        "how_to_cook_pork_chops"
+    "tips": [
+        
     ],
+    "title": "Honey mustard pork chops with peppercorn",
     "videos": "[]"
 }

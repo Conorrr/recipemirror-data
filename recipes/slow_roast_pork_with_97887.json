@@ -1,26 +1,44 @@
 {
-    "title": "Slow roast pork with mash, Vichy carrots and apple sauce",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6-8",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "This is the perfect weekend roast - five hours of slow roasting produces tender, succulent pork, served with apple sauce, carrots and creamy mash.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "This is the perfect weekend roast - five hours of slow roasting produces tender, succulent pork, served with apple sauce, carrots and creamy mash.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "roast_pork",
+        "sauce",
+        "slow-cooked_dishes"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Vichy carrots": [
+            "24 baby carrots, trimmed",
+            "50g/2oz butter",
+            "4 tbsp water",
+            "1 tbsp caster sugar"
+        ],
+        "For the apple sauce": [
+            "2 Bramley apples, peeled, cored and chopped",
+            "50g/2oz butter",
+            "50ml/2fl oz water",
+            "2-4 tbsp caster sugar, to taste"
+        ],
+        "For the mash": [
+            "600g/1lb 5oz King Edward potatoes, peeled and cut into chunks",
+            "50g/2oz butter",
+            "200ml/7floz double cream"
+        ],
         "For the pork": [
             "3.5kg/7lb 11 oz shoulder of pork",
             "dash olive oil",
@@ -29,24 +47,13 @@
             "1 carrot, roughly chopped",
             "1 leek, roughly chopped",
             "600ml/1 pint water"
-        ],
-        "For the apple sauce": [
-            "2 Bramley apples, peeled, cored and chopped",
-            "50g/2oz butter",
-            "50ml/2fl oz water",
-            "2-4 tbsp caster sugar, to taste"
-        ],
-        "For the Vichy carrots": [
-            "24 baby carrots, trimmed",
-            "50g/2oz butter",
-            "4 tbsp water",
-            "1 tbsp caster sugar"
-        ],
-        "For the mash": [
-            "600g/1lb 5oz King Edward potatoes, peeled and cut into chunks",
-            "50g/2oz butter",
-            "200ml/7floz double cream"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "6",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the pork, preheat the oven to 150C/300F/Gas 2.",
@@ -65,8 +72,9 @@
         "Mash well, add the butter and cream and beat to a smooth pur\u00e9e. Season with salt and black pepper.",
         "To serve, spoon the mash into the centre of each plate, remove the pork from its cooking juices, slice it and pile it alongside the mash with a piece of crisp crackling. Finish with a pile of carrots, a spoonful of apple sauce and drizzle of any remaining pan juices."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Slow roast pork with mash, Vichy carrots and apple sauce",
     "videos": "[]"
 }

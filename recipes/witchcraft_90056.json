@@ -1,26 +1,29 @@
 {
-    "title": "Witchcraft",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A suitably spooky cocktail perfect for a Halloween celebration. Black vodka and blackberries combine in this gothic punch.",
     "author": {
         "wayne_collins": "Wayne Collins"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "A suitably spooky cocktail perfect for a Halloween celebration. Black vodka and blackberries combine in this gothic punch.",
+    "dishes": [
+        "jam",
+        "punch",
+        "vodka_cocktail"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To garnish": [
+            "1 lychee, peeled",
+            "\u00bd tsp strawberry jam",
+            "1 blueberry"
+        ],
         "default": [
             "25ml/1fl oz black vodka",
             "1 tbsp lemon juice",
@@ -28,19 +31,21 @@
             "25ml/1fl oz blackberry liqueur",
             "25ml/1fl oz fresh apple juice",
             ""
-        ],
-        "To garnish": [
-            "1 lychee, peeled",
-            "\u00bd tsp strawberry jam",
-            "1 blueberry"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        
     },
     "steps": [
         "Place the vodka, lemon juice, vanilla syrup, blackberry liqueur and apple juice into a cocktail shaker filled with ice and shake well. Pour into a cocktail glass.",
         "To garnish, cut a small hole into the lychee. Fill with strawberry jam, then stick the blueberry into the jam to create an 'eyeball'. Float the 'eyeball' in the cocktail and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Witchcraft",
     "videos": "[]"
 }

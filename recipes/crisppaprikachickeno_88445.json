@@ -1,24 +1,25 @@
 {
-    "title": "Crisp paprika chicken on chorizo rice",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/crisppaprikachickeno_88445_16x9.jpg"
-    ],
-    "description": "Chicken and chorizo is a great combination, add some paprika to the mix and you're on to a winner.",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Chicken and chorizo is a great combination, add some paprika to the mix and you're on to a winner.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "sausage",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/crisppaprikachickeno_88445_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,6 +37,12 @@
             "fresh basil, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "In a large pan, simmer the rice in the chicken stock until just cooked. Drain of any excess liquid.",
@@ -45,8 +52,9 @@
         "Remove from the oven, set the chicken aside and place the pan back on the heat. Add the orange juice and zest and the chopped fresh thyme and simmer for 3-4 minutes, or until sticky. Return the cooked chicken to the pan to coat in the sauce. Slice into three or four pieces diagonally.",
         "To serve, pile the rice in the centre of a serving plate and arrange the chicken on top. Garnish with fresh basil."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Crisp paprika chicken on chorizo rice",
     "videos": "[]"
 }

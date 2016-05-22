@@ -1,31 +1,26 @@
 {
-    "title": "Eggy bread with caramelised apples and sultanas",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "brioche",
+        "caramel",
+        "custard",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the eggy bread": [
-            "150ml/5fl oz tinned custard",
-            "2 thick slices ready-made brioche",
-            "25g/1oz unsalted butter"
-        ],
         "For the caramelised apple and sultanas": [
             "50g/1\u00beoz unsalted butter",
             "50g/1\u00beoz caster sugar",
@@ -33,7 +28,18 @@
             "\u00bd cooking apple, cored and cut into 5 wedges",
             "\u00bd lemon, juice only",
             "\u00bd rum miniature"
+        ],
+        "For the eggy bread": [
+            "150ml/5fl oz tinned custard",
+            "2 thick slices ready-made brioche",
+            "25g/1oz unsalted butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "To make the eggy bread, pour the custard into a large bowl.",
@@ -44,8 +50,9 @@
         "Add the lemon juice and the rum. Warm through and carefully set light to the rum to flamb\u00e9 for a few seconds.",
         "To serve, place the eggy bread on a warm plate and garnish with the caramelised apples and sultanas."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Eggy bread with caramelised apples and sultanas",
     "videos": "[]"
 }

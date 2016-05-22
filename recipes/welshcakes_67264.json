@@ -1,24 +1,27 @@
 {
-    "title": "Welsh cakes",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes approx. 4-6 cakes",
-    "recommendations": "61",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/welshcakes_67264_16x9.jpg"
-    ],
-    "description": "Four easy steps to making the perfect treat for teatime. Add a pinch of mixed spice for extra authenticity.",
     "author": {
         "liz_scourfield": "Liz Scourfield"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "British",
+    "description": "Four easy steps to making the perfect treat for teatime. Add a pinch of mixed spice for extra authenticity.",
+    "dishes": [
+        "bread",
+        "cake",
+        "caramel",
+        "jam",
+        "pastry",
+        "sandwich",
+        "welsh_cakes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/welshcakes_67264_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -31,14 +34,21 @@
             "extra butter, for greasing"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "61",
+    "serves": "Makes approx. 4-6 cakes",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Rub the fat into the sieved flour to make breadcrumbs. Add the sugar, dried fruit and then the egg. Mix to combine, then form a ball of dough, using a splash of milk if needed.",
         "Roll out the pastry until it is a 5mm/\u00bcin thick and cut into rounds with a 7.5-10cm/3-4in fluted cutter.",
         "You now need a bakestone or a heavy iron griddle. Rub it with butter and wipe the excess away. Put it on to a direct heat and wait until it heats up, place the Welsh cakes on the griddle, turning once. They need about 2-3 minutes each side. Each side needs to be caramel brown before turning although some people I know like them almost burnt.",
         "Remove from the pan and dust with caster sugar while still warm. Some people leave out the dried fruit, and split them when cool and sandwich them together with jam."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Welsh cakes",
     "videos": "[]"
 }

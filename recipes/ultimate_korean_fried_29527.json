@@ -1,40 +1,26 @@
 {
-    "title": "Ultimate Korean fried chicken with pickled radish",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Judy Joo combines the wonderful flavours of Korea to bring you her ultimate fried chicken recipe. Serve with pickled radish and a duo of sauces for a mouthwatering meal.",
     "author": {
         "judy_joo": "Judy Joo"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        "It is important to suspend the chicken in the oil for a couple of seconds for it to set before letting it slip completely into the oil. Otherwise the chicken will fall and stick to the bottom of the pot."
+    "cookTime": "30 mins to 1 hour",
+    "description": "Judy Joo combines the wonderful flavours of Korea to bring you her ultimate fried chicken recipe. Serve with pickled radish and a duo of sauces for a mouthwatering meal.",
+    "dishes": [
+        "bun",
+        "casserole",
+        "pickle",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pickled radish": [
-            "110ml/3\u00befl oz rice vinegar",
-            "110g/4oz superfine sugar or caster sugar",
-            "1 tsp kosher salt or sea salt",
-            "500g/1lb 2oz radish, preferably Daikon, cut into 10mm/\u00bdin cubes"
-        ],
-        "For the coating": [
-            "35g/1\u00bcoz cornflour",
-            "2\u00bd tsp kosher salt or sea salt",
-            "\u00bd tsp baking powder",
-            "freshly ground black pepper",
-            "2 chicken drumsticks, thighs and wings (with tips), bone in, skin on",
-            "vegetable oil, for deep-frying"
-        ],
         "For the batter": [
             "70g/ 2\u00bdoz cornflour",
             "35g/1\u00bcoz fine matzo meal",
@@ -58,6 +44,20 @@
             "1 tsp sesame oil",
             "1\u00bd tbsp cornflour"
         ],
+        "For the coating": [
+            "35g/1\u00bcoz cornflour",
+            "2\u00bd tsp kosher salt or sea salt",
+            "\u00bd tsp baking powder",
+            "freshly ground black pepper",
+            "2 chicken drumsticks, thighs and wings (with tips), bone in, skin on",
+            "vegetable oil, for deep-frying"
+        ],
+        "For the pickled radish": [
+            "110ml/3\u00befl oz rice vinegar",
+            "110g/4oz superfine sugar or caster sugar",
+            "1 tsp kosher salt or sea salt",
+            "500g/1lb 2oz radish, preferably Daikon, cut into 10mm/\u00bdin cubes"
+        ],
         "For the red chilli sauce": [
             "70g/2\u00bdoz chilli paste, preferably Korean chilli paste (gochujang)",
             "4 tsp soy sauce",
@@ -73,6 +73,12 @@
             "2 tsp black sesame seeds"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "For the pickled radish, put the rice vinegar, sugar, salt and 110ml/3\u00befl oz water in a bowl. Whisk until the sugar and salt have dissolved. Add the radish and toss to coat. Cover and leave at room temperature for 24 hours, then place in the fridge.",
         "For the coating, put the cornflour, salt, baking powder and pepper in a large mixing bowl and whisk together. Add the chicken and toss well until evenly coated. Transfer the chicken to a rack, shaking well to get rid of any excess coating. Leave to rest for 1 hour in the fridge.",
@@ -84,8 +90,9 @@
         "For the red chilli sauce, put all of the ingredients in a small saucepan and simmer over medium heat for 2 to 3 minutes, whisking well to make sure ingredients are dissolved and incorporated. .",
         "Place the chicken and pickled radishes on a serving plate with the sauces. Garnish with fresh chives and sesame seeds."
     ],
-    "howTos": [
-        
+    "tips": [
+        "It is important to suspend the chicken in the oil for a couple of seconds for it to set before letting it slip completely into the oil. Otherwise the chicken will fall and stick to the bottom of the pot."
     ],
+    "title": "Ultimate Korean fried chicken with pickled radish",
     "videos": "[]"
 }

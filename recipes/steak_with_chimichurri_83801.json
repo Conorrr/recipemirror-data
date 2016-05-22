@@ -1,23 +1,21 @@
 {
-    "title": "Steak with chimichurri salsa and onion rings",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Try The Hairy Bikers' easy recipe for rib-eye steaks with a quick and colourful salsa and moreish onion rings.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00sy9ws": "The Hairy Bikers' Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Try The Hairy Bikers' easy recipe for rib-eye steaks with a quick and colourful salsa and moreish onion rings.",
+    "dishes": [
+        "bread",
+        "salad",
+        "salsa"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "searing_meat"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -40,15 +38,21 @@
             "pinch paprika",
             "vegetable oil, for shallow frying"
         ],
-        "For the steak": [
-            "2 rib-eye steaks (about 225g/8oz each)",
-            "1 tbsp olive oil"
-        ],
         "For the salad": [
             "mixed salad leaves",
             "1-2 tsp olive oil",
             "\u00bd lime, juice only"
+        ],
+        "For the steak": [
+            "2 rib-eye steaks (about 225g/8oz each)",
+            "1 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 2",
+    "show": {
+        "b00sy9ws": "The Hairy Bikers' Cook Off"
     },
     "steps": [
         "For the chimichurri salsa, mix all of the salsa ingredients together in a bowl. Season, to taste, with sea salt and freshly ground black pepper and set aside.",
@@ -59,8 +63,9 @@
         "For the salad, toss the leaves in a little olive oil and lime juice. Season with sea salt and freshly ground black pepper.",
         "To serve, place the steaks onto serving plates with the onion rings alongside. Spoon over the chimichurri salsa and serve the salad on the side."
     ],
-    "howTos": [
-        "searing_meat"
+    "tips": [
+        
     ],
+    "title": "Steak with chimichurri salsa and onion rings",
     "videos": "[p00c3kf4:p00c3kf6]"
 }

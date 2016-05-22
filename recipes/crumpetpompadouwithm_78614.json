@@ -1,26 +1,30 @@
 {
-    "title": "Crumpets with mandarin sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ross_burden": "Ross Burden"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "\u00bd tin mandarins, drained, syrup reserved",
+            "1 tbsp white wine vinegar",
+            "\u00bd tbsp caster sugar",
+            "55ml/2fl oz double cream",
+            "zest of 1 orange",
+            "fresh mint leaves, to garnish"
+        ],
         "default": [
             "2 free-range eggs",
             "55ml/2fl oz double cream",
@@ -29,15 +33,13 @@
             "\u00bd tsp mixed spice",
             "4 ready-made crumpets",
             "15g/\u00bdoz butter"
-        ],
-        "For the sauce": [
-            "\u00bd tin mandarins, drained, syrup reserved",
-            "1 tbsp white wine vinegar",
-            "\u00bd tbsp caster sugar",
-            "55ml/2fl oz double cream",
-            "zest of 1 orange",
-            "fresh mint leaves, to garnish"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 4",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Whisk together the eggs, cream, sugar, cinnamon and mixed spice. Dip the crumpets into the mixture to coat.",
@@ -46,8 +48,9 @@
         "Whip the cream and fold through the orange zest.",
         "To serve, place two crumpets on each of two plates, top with a dollop of the orange cream and drizzle over the syrup to finish."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Crumpets with mandarin sauce",
     "videos": "[]"
 }

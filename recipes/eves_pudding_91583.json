@@ -1,24 +1,24 @@
 {
-    "title": "Eve's pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This traditional baked pudding dates back to the early nineteenth century. Serve it with cream or custard.",
     "author": {
         "michelle_wardingley": "Michelle Wardingley"
     },
-    "show": {
-        "b013y0nz": "Hairy Bikers' Meals on Wheels"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "This traditional baked pudding dates back to the early nineteenth century. Serve it with cream or custard.",
+    "dishes": [
+        "custard",
+        "oven-baked_dishes",
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the filling": [
@@ -37,6 +37,12 @@
             "1 tbsp milk"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b013y0nz": "Hairy Bikers' Meals on Wheels"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "For the filling, place the apples, butter, sugar and lemon juice and zest in a saucepan with a little water and cook gently until the apples have softened.",
@@ -44,8 +50,9 @@
         "For the topping, sieve the flour together with a pinch of salt and the baking powder. In a separate bowl, cream together the butter and sugar, beat in the egg and then lightly fold in the flour. Add a little milk if the mixture is too stiff.",
         "Pour the mixture on top of the apples and bake in the oven for 45-55 minutes or until the top is golden-brown and cooked through."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Eve's pudding",
     "videos": "[]"
 }

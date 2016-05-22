@@ -1,33 +1,28 @@
 {
-    "title": "A return to the Black Forest",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 10-12",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "This Black Forest roulade is a variation on the retro classic. Equipment and preparation: You will also need a Swiss roll tin 32x23x1cm/13x9x\u00bdin, lined with silicone paper (baking parchment), cut and folded to give a depth of at least 4cm/1\u00bdin.",
     "author": {
         "delia_smith": "Delia Smith"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This Black Forest roulade is a variation on the retro classic. Equipment and preparation: You will also need a Swiss roll tin 32x23x1cm/13x9x\u00bdin, lined with silicone paper (baking parchment), cut and folded to give a depth of at least 4cm/1\u00bdin.",
+    "dishes": [
+        "black_forest_gateau",
+        "cake",
+        "gateau",
+        "jam",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "melting_chocolate"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "225g/8oz dark chocolate (75 per cent cocoa solids)",
-            "2 large eggs, separated",
-            "1 jar pitted morello cherries",
-            "2 tbsp cherry brandy",
-            "225ml/8fl oz double cream"
-        ],
         "For the base": [
             "6 large eggs, separated",
             "150g/5oz caster sugar",
@@ -37,7 +32,20 @@
             "100g/3\u00bdoz dark chocolate (75 % cocoa solids)",
             "1 level tbsp morello cherry jam",
             "a little cocoa powder"
+        ],
+        "default": [
+            "225g/8oz dark chocolate (75 per cent cocoa solids)",
+            "2 large eggs, separated",
+            "1 jar pitted morello cherries",
+            "2 tbsp cherry brandy",
+            "225ml/8fl oz double cream"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "7",
+    "serves": "Serves 10-12",
+    "show": {
+        
     },
     "steps": [
         "Pre-heat the oven to 180C/350F/Gas 4.",
@@ -53,9 +61,9 @@
         "To make the curls use a cheese slicer, or a very sharp knife. Start at one end and just pull the slicer or knife along the surface of the chocolate towards you until curls form. Place them in a plastic container. Put the container in the fridge.",
         "Now you can decorate the cake: spoon the jam into a small saucepan, add the reserved liqueur, warm gently and then brush over the surface. Place the chocolate curls all over. Finally dust the surface lightly with cocoa powder."
     ],
-    "howTos": [
-        "folding",
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "A return to the Black Forest",
     "videos": "[]"
 }

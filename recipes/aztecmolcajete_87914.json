@@ -1,36 +1,27 @@
 {
-    "title": "Aztec molcajete",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "fernando_stovell": "Fernando Stovell"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Mexican",
+    "description": "",
+    "dishes": [
+        "bun",
+        "salsa",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the salsa": [
-            "2 large garlic cloves",
-            "1 chipotle chilli (available from some supermarkets or specialist food markets)",
-            "\u00bd Spanish onion, roughly chopped",
-            "1 bunch coriander",
-            "1 tomato, peeled, quartered and seeds removed",
-            "50ml/2fl oz Mexican beer",
-            "300g/11oz canned peeled tomatoes, chopped",
-            "salt and freshly ground black pepper"
-        ],
         "For the molcajete base": [
             "1 free-range organic chicken breast, sliced into strips",
             "1 tbsp olive oil",
@@ -46,12 +37,28 @@
             "75ml/3fl oz chicken stock",
             "salt and freshly ground black pepper"
         ],
+        "For the salsa": [
+            "2 large garlic cloves",
+            "1 chipotle chilli (available from some supermarkets or specialist food markets)",
+            "\u00bd Spanish onion, roughly chopped",
+            "1 bunch coriander",
+            "1 tomato, peeled, quartered and seeds removed",
+            "50ml/2fl oz Mexican beer",
+            "300g/11oz canned peeled tomatoes, chopped",
+            "salt and freshly ground black pepper"
+        ],
         "To serve": [
             "8 flour or corn tortillas",
             "\u00bd bunch coriander, roughly chopped",
             "1 large avocado, peeled and sliced lengthways",
             "1 lime"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the salsa, place the garlic, chilli, onion and coriander into a large pestle and mortar and crush to a paste.",
@@ -71,8 +78,9 @@
         "The salsa should either be served hot in the lava stone pestle, or, if using a saucepan, pour into a normal kitchen pestle and mortar and serve from there.",
         "Slice the steak and place into the salsa in the pestle, along with the chorizo and chicken. Garnish the top with the grilled spring onions, avocado and chopped coriander. Serve the refried beans and toasted tortillas alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Aztec molcajete",
     "videos": "[]"
 }

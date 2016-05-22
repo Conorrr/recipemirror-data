@@ -1,26 +1,38 @@
 {
-    "title": "Rack of lamb with bean gratin",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bread",
+        "gratin",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the bean gratin": [
+            "1 tbsp olive oil",
+            "1 shallot, finely chopped",
+            "2 celery sticks, chopped",
+            "2 garlic cloves, crushed",
+            "1 carrot, finely chopped",
+            "2 x 400g/14oz cans flageolet beans, rinsed and drained",
+            "125g/4oz cr\u00e8me fra\u00eeche",
+            "50g/2oz fresh breadcrumbs",
+            "100g/3\u00bdoz parmesan, grated",
+            "30g/2oz butter, melted",
+            "salt and freshly ground black pepper"
+        ],
         "For the herb crust": [
             "25g/1oz fresh parsley, chopped",
             "25g/1oz fresh tarragon, chopped",
@@ -35,20 +47,13 @@
             "2 x seven-rib racks of lamb, preferably cut French-style by the butcher",
             "salt and freshly ground black pepper",
             "30g/2oz Dijon mustard"
-        ],
-        "For the bean gratin": [
-            "1 tbsp olive oil",
-            "1 shallot, finely chopped",
-            "2 celery sticks, chopped",
-            "2 garlic cloves, crushed",
-            "1 carrot, finely chopped",
-            "2 x 400g/14oz cans flageolet beans, rinsed and drained",
-            "125g/4oz cr\u00e8me fra\u00eeche",
-            "50g/2oz fresh breadcrumbs",
-            "100g/3\u00bdoz parmesan, grated",
-            "30g/2oz butter, melted",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
@@ -68,8 +73,9 @@
         "Place the bean gratin into the oven to bake for 20 minutes, or until golden and crisp on top.",
         "To serve, carve the lamb and place onto plates with a spoonful of bean gratin alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Rack of lamb with bean gratin",
     "videos": "[]"
 }

@@ -1,26 +1,31 @@
 {
-    "title": "Chocolate and caramel puddings",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the caramel sauce": [
+            "200g/7oz sugar",
+            "100g/3\u00bdoz butter",
+            "100ml/3\u00bdfl oz double cream",
+            "whipped or clotted cream, to serve"
+        ],
         "default": [
             "120g/4oz unsalted butter, plus extra for greasing",
             "120g/4oz dark chocolate (minimum 70 per cent cocoa solids)",
@@ -29,13 +34,13 @@
             "75g/2\u00bdoz plain flour",
             "\u00bd tsp baking powder",
             "50g/2oz cocoa powder"
-        ],
-        "For the caramel sauce": [
-            "200g/7oz sugar",
-            "100g/3\u00bdoz butter",
-            "100ml/3\u00bdfl oz double cream",
-            "whipped or clotted cream, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/360F/Gas 4.",
@@ -50,8 +55,9 @@
         "Add the butter and whisk well until combined, then remove from the heat and whisk in the cream.",
         "To serve, place the puddings in their cups onto small serving plates. Pour over the caramel sauce and finish with a dollop of whipped or clotted cream."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chocolate and caramel puddings",
     "videos": "[]"
 }

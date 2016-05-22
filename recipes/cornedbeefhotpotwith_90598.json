@@ -1,26 +1,35 @@
 {
-    "title": "Corned beef hotpot with runner beans",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "",
+    "dishes": [
+        "charlotte",
+        "hotpot",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "slow-cooked_dishes",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the beans": [
+            "300g/11oz runner beans, trimmed and cut into 6cm/2.5in diagonal pieces",
+            "50g/2oz butter",
+            "2 shallots, finely sliced",
+            "salt and freshly ground black pepper",
+            "5 tbsp chopped fresh flatleaf parsley"
+        ],
         "For the hotpot": [
             "50g/2oz butter",
             "1.5kg/3lb 3oz corned beef, thickly sliced",
@@ -29,14 +38,13 @@
             "8 sprigs fresh thyme, leaves picked",
             "1kg/2lb 2oz waxy potatoes, such as Cara and Charlotte, peeled and thinly sliced",
             "175ml/6fl oz chicken stock"
-        ],
-        "For the beans": [
-            "300g/11oz runner beans, trimmed and cut into 6cm/2.5in diagonal pieces",
-            "50g/2oz butter",
-            "2 shallots, finely sliced",
-            "salt and freshly ground black pepper",
-            "5 tbsp chopped fresh flatleaf parsley"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 200C/390F/Gas 6.",
@@ -46,8 +54,9 @@
         "Melt the butter in a frying pan, then add the shallots and fry for 1-2 minutes, or until softened. Add the cooked beans and fry for a further minute, then season with salt and freshly ground black pepper. Add the parsley and toss well to coat.",
         "To serve, spoon the corned beef hotpot onto a serving plate and arrange the beans alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Corned beef hotpot with runner beans",
     "videos": "[]"
 }

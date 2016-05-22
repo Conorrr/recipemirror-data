@@ -1,23 +1,25 @@
 {
-    "title": "Maryland chicken with banana fritters and cornbread",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "",
+    "dishes": [
+        "bread",
+        "cornbread",
+        "icing",
+        "oven-baked_dishes",
+        "pie",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -30,6 +32,13 @@
             "oil, for frying",
             "30g/1oz butter"
         ],
+        "For the banana fritters": [
+            "vegetable oil, for deep frying",
+            "175g/6oz plain flour",
+            "1 tbsp sugar",
+            "about 100ml/3\u00bdfl oz ice-cold water (enough to make a batter)",
+            "3 bananas, cut into thick chunks"
+        ],
         "For the cornbread": [
             "300g/10\u00bdoz plain flour",
             "300g/10\u00bdoz polenta",
@@ -38,14 +47,13 @@
             "1 free-range egg, beaten",
             "250ml/9fl oz milk",
             "200g/7oz butter, melted"
-        ],
-        "For the banana fritters": [
-            "vegetable oil, for deep frying",
-            "175g/6oz plain flour",
-            "1 tbsp sugar",
-            "about 100ml/3\u00bdfl oz ice-cold water (enough to make a batter)",
-            "3 bananas, cut into thick chunks"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -61,8 +69,9 @@
         "Carefully place the bananas into the hot oil and deep fry for 4-5 minutes, or until crisp and golden-brown.",
         "To serve, place the Maryland chicken, cornbread and banana fritters onto a large platter."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Maryland chicken with banana fritters and cornbread",
     "videos": "[]"
 }

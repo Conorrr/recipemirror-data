@@ -1,24 +1,24 @@
 {
-    "title": "Paul\u2019s chocolate \u00e9clairs",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 12",
-    "recommendations": "30",
-    "images": [
-        
-    ],
-    "description": "Take on the \u00e9clair as your next Bake Off challenge. Paul Hollywood\u2019s easy recipe ensures crisp, light choux pastry every time.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b01q9tbm": "The Great Comic Relief Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "Take on the \u00e9clair as your next Bake Off challenge. Paul Hollywood\u2019s easy recipe ensures crisp, light choux pastry every time.",
+    "dishes": [
+        "icing",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "making_choux_pastry",
+        "melting_chocolate"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the choux pastry": [
@@ -36,6 +36,12 @@
             "100g/3\u00bdoz milk chocolate, chopped"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "30",
+    "serves": "Makes 12",
+    "show": {
+        "b01q9tbm": "The Great Comic Relief Bake Off"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Generously grease a baking tray with butter.",
         "Sift the flour onto a sheet of greaseproof paper.",
@@ -49,9 +55,9 @@
         "Once the \u00e9clairs have cooled, cut down the length of one side of each \u00e9clair and pipe in the whipped cream.",
         "Melt the chocolate over a double boiler or a bowl suspended over a pan of simmering water (do not allow the bottom of the bowl to touch the water) and allow it to cool slightly. Dip the tops of the \u00e9clairs in the chocolate and let the chocolate set before serving."
     ],
-    "howTos": [
-        "making_choux_pastry",
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "Paul\u2019s chocolate \u00e9clairs",
     "videos": "[]"
 }

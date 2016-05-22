@@ -1,24 +1,23 @@
 {
-    "title": "Roasted vegetable lasagne",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "47",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/roastedvegetablelasa_77405_16x9.jpg"
-    ],
-    "description": "Vegetarians and meat-eaters alike will love this hearty, vegetable lasagne. Serve with a green salad and crusty bread.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Vegetarians and meat-eaters alike will love this hearty, vegetable lasagne. Serve with a green salad and crusty bread.",
+    "dishes": [
+        "bread",
+        "lasagne",
+        "oven-baked_dishes",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/roastedvegetablelasa_77405_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,6 +34,12 @@
             "100g/3\u00bd oz freshly grated parmesan, or similar vegetarian hard cheese"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "47",
+    "serves": "Serves 4-6",
+    "show": {
+        
+    },
     "steps": [
         "Slice the courgettes and aubergine into diagonal slices. Heat a ridged grill pan, brush the slices with olive oil and grill for several minutes each side until chargrilled, then remove. You'll have to do this in batches.",
         "Preheat the oven to 190C/375F/Gas 5. Brush the inside of a large baking dish with a little oil. Place a layer of sliced tomatoes (about one third of the total) on the bottom, slightly overlapping.",
@@ -44,8 +49,9 @@
         "Continue layering with the rest of the ingredients, ending with a layer of tomatoes on top. Sprinkle over the parmesan.",
         "Cover with foil and bake for 35-40 minutes. Remove the foil and bake another five minutes until the parmesan's golden on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roasted vegetable lasagne",
     "videos": "[]"
 }

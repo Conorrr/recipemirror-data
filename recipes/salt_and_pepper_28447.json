@@ -1,23 +1,22 @@
 {
-    "title": "Deep-fried squid with yuzu mayonnaise",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "A James Martin favourite, crisp fried squid with a tangy yuzu mayo for dipping. Yuzu is now available in some supermarkets.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A James Martin favourite, crisp fried squid with a tangy yuzu mayo for dipping. Yuzu is now available in some supermarkets.",
+    "dishes": [
+        "bread",
+        "jam",
+        "mayonnaise",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -27,14 +26,6 @@
             "75g/2\u00beoz caster sugar",
             "5 tbsp rice wine vinegar"
         ],
-        "For the yuzu mayonnaise": [
-            "2 medium free-range egg yolks",
-            "\u00bd tsp sea salt",
-            "2 tsp rice wine vinegar",
-            "4 tsp chilli-garlic sauce",
-            "2 tsp yuzu juice",
-            "200ml/7fl oz vegetable oil"
-        ],
         "For the deep-fried squid": [
             "vegetable oil, for deep frying",
             "75g/2\u00beoz plain flour",
@@ -43,6 +34,14 @@
             "75g/2\u00beoz Japanese panko breadcrumbs",
             "salt and freshly ground black pepper"
         ],
+        "For the yuzu mayonnaise": [
+            "2 medium free-range egg yolks",
+            "\u00bd tsp sea salt",
+            "2 tsp rice wine vinegar",
+            "4 tsp chilli-garlic sauce",
+            "2 tsp yuzu juice",
+            "200ml/7fl oz vegetable oil"
+        ],
         "To serve": [
             "4 spring onions, thinly sliced",
             "1 tbsp finely chopped fresh mint",
@@ -50,6 +49,12 @@
             "1 long red chilli, finely chopped",
             "1 lime, cut into wedges"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the chilli-garlic sauce, put all the ingredients in a small saucepan with two tablespoons water. Bring to the boil, then reduce the heat and simmer for a few minutes until the sugar is dissolved. Set aside to cool.",
@@ -61,8 +66,9 @@
         "Carefully lower the coated squid rings, in batches, into the hot oil. Fry for 2-3 minutes, or until crisp and golden-brown. Remove from the oil using a slotted spoon and set aside to drain on kitchen paper. Keep warm. Repeat the process with the remaining coated squid rings. Season with salt.",
         "Place the squid onto a serving plate. Drizzle over the yuzu mayonnaise. Garnish with the spring onions, mint, coriander and fresh chilli and serve immediately. Place the lime wedges on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Deep-fried squid with yuzu mayonnaise",
     "videos": "[]"
 }

@@ -1,26 +1,33 @@
 {
-    "title": "Guava kulfi with tropical fruit salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "overnight",
-    "serves": "Serves 4-6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "sejal_sukhadwala": "Sejal Sukhadwala"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "fruit_salad",
+        "jelly",
+        "prepare-ahead_desserts",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the fruit salad": [
+            "500g/1lb 4oz prepared fresh fruit - a combination of Alphonso mango, pineapple, lychee, watermelon, persimmon and starfruit works especially well",
+            "2 passion fruit, pulp and seeds scraped out",
+            "1 lime, juice and zest only",
+            "caster sugar, to taste"
+        ],
         "For the kulfi": [
             "350ml/12fl oz whole milk",
             "150ml/5fl oz double cream",
@@ -30,13 +37,13 @@
             "\u00bd tsp freshly grated nutmeg",
             "800g/2lb ripe yellow-skinned guavas, trimmed and halved",
             "100ml/3fl oz water"
-        ],
-        "For the fruit salad": [
-            "500g/1lb 4oz prepared fresh fruit - a combination of Alphonso mango, pineapple, lychee, watermelon, persimmon and starfruit works especially well",
-            "2 passion fruit, pulp and seeds scraped out",
-            "1 lime, juice and zest only",
-            "caster sugar, to taste"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "2",
+    "serves": "Serves 4-6",
+    "show": {
+        
     },
     "steps": [
         "For the kulfi, place the milk, cream, condensed milk, powdered milk, sugar and nutmeg into a non-stick pan and rapidly bring to the boil. Lower the heat and simmer gently for 15 minutes. Remove from the heat and allow to cool.",
@@ -46,8 +53,9 @@
         "Just before serving the kulfi, prepare the fruit salad. Place the prepared fruit into a bowl with the passion fruit pulp and seeds, lime juice and zest and sugar and stir to coat the fruit.",
         "To serve, turn the kulfi out of their moulds onto serving plates and serve with the fruit salad."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Guava kulfi with tropical fruit salad",
     "videos": "[]"
 }

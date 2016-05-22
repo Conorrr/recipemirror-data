@@ -1,26 +1,31 @@
 {
-    "title": "Chocolate dipped chocolate shortbread",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 18 biscuits",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "Bake a batch of melt-in-your mouth chocolate shortbread for your Red Nose Day bake sale and watch the money roll in.",
     "author": {
         "martha_kearney": "Martha Kearney"
     },
-    "show": {
-        "b01q9tbm": "The Great Comic Relief Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Bake a batch of melt-in-your mouth chocolate shortbread for your Red Nose Day bake sale and watch the money roll in.",
+    "dishes": [
+        "biscuit",
+        "chocolate_biscuit",
+        "oven-baked_dishes",
+        "shortbread",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For coating": [
+            "200g/7oz dark chocolate (at least 70% cocoa solids), finely chopped",
+            "200g/7oz milk chocolate, finely chopped",
+            "200g/7oz white chocolate, finely chopped"
+        ],
         "default": [
             "225g/8oz butter",
             "140g/5oz caster sugar",
@@ -30,12 +35,13 @@
             "25g/1oz cocoa powder",
             "pinch salt",
             "100g/3\u00bdoz dark chocolate, finely chopped"
-        ],
-        "For coating": [
-            "200g/7oz dark chocolate (at least 70% cocoa solids), finely chopped",
-            "200g/7oz milk chocolate, finely chopped",
-            "200g/7oz white chocolate, finely chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Makes 18 biscuits",
+    "show": {
+        "b01q9tbm": "The Great Comic Relief Bake Off"
     },
     "steps": [
         "Preheat oven to 190C/375F/Gas 5. Line a baking tray with baking parchment.",
@@ -46,8 +52,9 @@
         "Meanwhile, melt the three types of chocolate separately in a microwave (at least a minute). Alternatively, melt the chopped chocolate in a bowl suspended over a pan of simmering water (do not allow the bottom of the bowl to touch the water).",
         "Dip the cooled biscuits halfway into one type of chocolate, then allow the excess to run off before placing on a sheet of baking parchment to set."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chocolate dipped chocolate shortbread",
     "videos": "[]"
 }

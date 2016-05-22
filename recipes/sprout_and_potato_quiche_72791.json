@@ -1,26 +1,36 @@
 {
-    "title": "Sprout and potato quiche",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sprout_and_potato_quiche_72791_16x9.jpg"
-    ],
-    "description": "Make the most of Christmas leftovers with this delicious potato and sprouts quiche.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Make the most of Christmas leftovers with this delicious potato and sprouts quiche.",
+    "dishes": [
+        "coleslaw",
+        "mayonnaise",
+        "oven-baked_dishes",
+        "pastry",
+        "quiche"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "lining_tin_with_pastry",
+        "cartouche"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sprout_and_potato_quiche_72791_16x9.jpg"
+    ],
     "ingredients": {
+        "For the chestnut coleslaw": [
+            "1 cabbage, finely sliced",
+            "1 red onion, sliced",
+            "3 carrots, grated",
+            "100g/3\u00bdoz cooked chestnuts, chopped",
+            "125g/4oz mayonnaise",
+            "1 lemon, juice only",
+            "salt and freshly ground black pepper"
+        ],
         "For the pastry": [
             "200g/7oz shortcrust pastry",
             "1 free-range egg, beaten for egg wash"
@@ -36,16 +46,13 @@
             "1 tbsp chopped fresh tarragon",
             "1 lemon, juice and zest",
             "salt and freshly ground black pepper"
-        ],
-        "For the chestnut coleslaw": [
-            "1 cabbage, finely sliced",
-            "1 red onion, sliced",
-            "3 carrots, grated",
-            "100g/3\u00bdoz cooked chestnuts, chopped",
-            "125g/4oz mayonnaise",
-            "1 lemon, juice only",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4",
@@ -55,9 +62,9 @@
         "For the filling beat together the eggs, cream and nutmeg. Combine with the remaining ingredients and season, to taste, with salt and freshly ground black pepper. Spoon the mixture into the pastry case and bake for 25 minutes, or until set.",
         "For the chestnut coleslaw, mix all ingredients in a bowl until well combined. Serve with the quiche."
     ],
-    "howTos": [
-        "lining_tin_with_pastry",
-        "cartouche"
+    "tips": [
+        
     ],
+    "title": "Sprout and potato quiche",
     "videos": "[]"
 }

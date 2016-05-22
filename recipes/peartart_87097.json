@@ -1,37 +1,35 @@
 {
-    "title": "Pear tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 8",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bread",
+        "caramel",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "rubbing_in",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pears": [
-            "50g/2oz butter",
-            "50g/2oz caster sugar",
-            "4 pears, peeled and halved"
-        ],
-        "For the pastry": [
-            "225g/8oz plain flour",
-            "100g/3\u00bdoz unsalted butter",
-            "25g/1oz caster sugar",
-            "1 free-range egg",
-            "1 tbsp milk, to bind, if required"
+        "For the chocolate sauce": [
+            "100g/3\u00bdoz butter",
+            "100g/3\u00bdoz caster sugar",
+            "100g/3\u00bdoz dark chocolate",
+            "1 tbsp cocoa powder",
+            "\u00bd tsp vanilla extract",
+            "125ml/4fl oz water"
         ],
         "For the filling": [
             "225g/8oz unsalted butter",
@@ -41,17 +39,27 @@
             "50g/2oz plain flour",
             "175g/6\u00bcoz ground almonds"
         ],
-        "For the chocolate sauce": [
-            "100g/3\u00bdoz butter",
-            "100g/3\u00bdoz caster sugar",
-            "100g/3\u00bdoz dark chocolate",
-            "1 tbsp cocoa powder",
-            "\u00bd tsp vanilla extract",
-            "125ml/4fl oz water"
+        "For the pastry": [
+            "225g/8oz plain flour",
+            "100g/3\u00bdoz unsalted butter",
+            "25g/1oz caster sugar",
+            "1 free-range egg",
+            "1 tbsp milk, to bind, if required"
+        ],
+        "For the pears": [
+            "50g/2oz butter",
+            "50g/2oz caster sugar",
+            "4 pears, peeled and halved"
         ],
         "To serve": [
             "double cream"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "3",
+    "serves": "Serves 8",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Melt the butter with the sugar in a large frying pan and cook until the sugar has dissolved and the mixture has become a golden-brown caramel.",
@@ -69,9 +77,9 @@
         "For the chocolate sauce, place the butter, sugar, chocolate, cocoa powder, vanilla extract and water into a clean pan over a medium heat. Bring to the boil and simmer for 15 minutes, stirring regularly, until the sauce is thick and glossy.",
         "To serve, cut a piece of tart and place on a serving plate, top with the chocolate sauce and drizzle over the double cream."
     ],
-    "howTos": [
-        "rubbing_in",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Pear tart",
     "videos": "[]"
 }

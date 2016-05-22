@@ -1,24 +1,25 @@
 {
-    "title": "Slow cooker chicken and butternut squash stew",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "158",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/slow_cooker_chicken_and_36746_16x9.jpg"
-    ],
-    "description": "This creamy chicken stew is cheap, filling and healthy too. Serve with couscous or mash. Each serving provides 316kcal, 21g protein, 20g carbohydrate (of which 4.5g sugars), 14g fat (of which 4g saturates), 2.5g fibre and 0.6g salt.",
     "author": {
         "rachel_manley": "Rachel Manley"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "The stew can be cooked on the hob on low for 45 minutes to one hour, or until the chicken and butternut squash are tender. Stir in the cr\u00e8me fra\u00eeche and simmer for a further 10 minutes."
+    "cookTime": "over 2 hours",
+    "description": "This creamy chicken stew is cheap, filling and healthy too. Serve with couscous or mash. Each serving provides 316kcal, 21g protein, 20g carbohydrate (of which 4.5g sugars), 14g fat (of which 4g saturates), 2.5g fibre and 0.6g salt.",
+    "dishes": [
+        "chicken_stew",
+        "pie",
+        "slow-cooked_dishes",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/slow_cooker_chicken_and_36746_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -38,6 +39,12 @@
             "small handful chopped fresh parsley"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "158",
+    "serves": "Serves 4-6",
+    "show": {
+        
+    },
     "steps": [
         "Sprinkle the flour onto a plate.",
         "Heat half of the oil in a frying pan, dredge the chicken pieces in the flour and fry for 4-5 minutes, or until browned all over. (You may need to brown the chicken in batches.) Tip the browned chicken into the slow cooker.",
@@ -46,8 +53,9 @@
         "Add the butternut squash, chicken stock, thyme and bay leaves to the slow cooker. Stir everything together, pressing down so that everything is covered in liquid. Cook for 8-10 hours on low.",
         "About 30 minutes before serving, stir in the cr\u00e8me fra\u00eeche and season to taste with salt and freshly ground black pepper. Cook for a further 30 minutes, then stir in the parsley."
     ],
-    "howTos": [
-        
+    "tips": [
+        "The stew can be cooked on the hob on low for 45 minutes to one hour, or until the chicken and butternut squash are tender. Stir in the cr\u00e8me fra\u00eeche and simmer for a further 10 minutes."
     ],
+    "title": "Slow cooker chicken and butternut squash stew",
     "videos": "[]"
 }

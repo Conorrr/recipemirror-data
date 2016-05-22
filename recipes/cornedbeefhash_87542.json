@@ -1,26 +1,29 @@
 {
-    "title": "Corned beef hash",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "16",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "ketchup",
+        "pickle",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "4 poached eggs",
+            "brown sauce and tomato ketchup"
+        ],
         "default": [
             "275g/10oz potatoes, cut into cubes but not peeled",
             "3 tbsp oil",
@@ -32,11 +35,13 @@
             "1 tsp wholegrain mustard",
             "salt and freshly ground black pepper",
             "50g/2oz butter"
-        ],
-        "To serve": [
-            "4 poached eggs",
-            "brown sauce and tomato ketchup"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "16",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Boil the potatoes in a pan of salted water for five minutes, then drain.",
@@ -48,8 +53,9 @@
         "Spoon the potatoes on top of the meat mixture in the dish, then place under the grill for 4-6 minutes, or until crisp and golden-brown.",
         "To serve, divide the corned beef hash among four serving plates. Top each portion with a poached egg and serve with brown sauce and tomato ketchup."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Corned beef hash",
     "videos": "[]"
 }

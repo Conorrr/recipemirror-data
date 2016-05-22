@@ -1,34 +1,28 @@
 {
-    "title": "Apple and lemon kites",
-    "cookTime": "less than 10 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 6 pastries",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A pastry for those who like it a bit on the tart side, the intense lemon flavour will definitely perk you up!",
     "author": {
         "nancy": "Nancy Birtwhistle"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "This recipe uses a microwave to speed-up the process of proving dough. For this to work you need a microwave which can operate on a very low power. To test yours, heat a large knob of chilled butter on the lowest setting for two minutes. If the butter is softened, your microwave can be used for proving, but if the butter is completely melted it's too powerful to use in this way."
+    "cookTime": "less than 10 mins",
+    "cusine": "French",
+    "description": "A pastry for those who like it a bit on the tart side, the intense lemon flavour will definitely perk you up!",
+    "dishes": [
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "patisserie",
+        "pie",
+        "prepare-ahead_desserts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_shape_danish_pastries"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the dough": [
-            "160g/5\u00beoz unsalted butter, 120g/4\u00bcoz chilled and 40g/1\u00bdoz at room temperature",
-            "250g/9oz strong white flour",
-            "10g/\u2153oz powdered milk",
-            "30g/1oz caster sugar",
-            "7g salt",
-            "8.5g fast-action dried yeast"
-        ],
         "For the apple and lemon filling": [
             "30g/1oz caster sugar",
             "30g/1oz icing sugar",
@@ -39,12 +33,26 @@
             "1 dessert apple (ideally Pink Lady or braeburn)",
             "1 tbsp lemon juice"
         ],
+        "For the dough": [
+            "160g/5\u00beoz unsalted butter, 120g/4\u00bcoz chilled and 40g/1\u00bdoz at room temperature",
+            "250g/9oz strong white flour",
+            "10g/\u2153oz powdered milk",
+            "30g/1oz caster sugar",
+            "7g salt",
+            "8.5g fast-action dried yeast"
+        ],
         "For the lemon glaze and icing": [
             "50ml/1\u00befl oz lemon juice",
             "50g/1\u00beoz caster sugar",
             "3 tbsp icing sugar",
             "1 large free-range egg, beaten"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Makes 6 pastries",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Prepare the chilled butter by placing it between two sheets of greaseproof paper and banging with a rolling pin until you have a 8x15cm/3\u00bcx6in rectangle about 1cm/\u00bdin thick. Put this back into the fridge.",
@@ -65,8 +73,9 @@
         "To make the lemon icing, mix the icing sugar with a teaspoon of lemon juice to form a thick icing. Place in a food bag with a small corner cut off .",
         "Once the kites are completely cool, drizzle with the lemon icing and serve."
     ],
-    "howTos": [
-        "how_to_shape_danish_pastries"
+    "tips": [
+        "This recipe uses a microwave to speed-up the process of proving dough. For this to work you need a microwave which can operate on a very low power. To test yours, heat a large knob of chilled butter on the lowest setting for two minutes. If the butter is softened, your microwave can be used for proving, but if the butter is completely melted it's too powerful to use in this way."
     ],
+    "title": "Apple and lemon kites",
     "videos": "[]"
 }

@@ -1,26 +1,27 @@
 {
-    "title": "Blackberry pudding",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2-4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "55g/2oz blackberries",
+            "30g/1oz caster sugar",
+            "splash of red wine"
+        ],
         "default": [
             "110g/4oz butter",
             "110g/4oz caster sugar",
@@ -28,12 +29,13 @@
             "2 eggs",
             "splash of milk",
             "55g/2oz blackberries"
-        ],
-        "For the sauce": [
-            "55g/2oz blackberries",
-            "30g/1oz caster sugar",
-            "splash of red wine"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2-4",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Blend the butter and caster sugar together in a food processor. Add the flour, eggs and milk and blend lightly to combine.",
@@ -42,8 +44,9 @@
         "To make the sauce, heat the blackberries, sugar and wine in a small pan for 3-4 minutes.",
         "Turn the pudding out onto a serving plate and spoon the sauce over to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Blackberry pudding",
     "videos": "[]"
 }

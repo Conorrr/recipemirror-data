@@ -1,26 +1,35 @@
 {
-    "title": "Apple charlotte with caramel sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "caramel",
+        "charlotte",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "100g/3\u00bdoz butter",
+            "100g/3\u00bdoz soft dark brown sugar",
+            "100ml/3\u00bdfl oz double cream"
+        ],
+        "To serve": [
+            "clotted cream"
+        ],
         "default": [
             "30g/1oz butter",
             "225g/8oz Bramley apples (or similar cooking apples), peeled, sliced",
@@ -30,15 +39,13 @@
             "1 free-range egg yolk",
             "75g/2\u00be oz melted butter for the bread",
             "8 slices white bread, crusts removed"
-        ],
-        "For the sauce": [
-            "100g/3\u00bdoz butter",
-            "100g/3\u00bdoz soft dark brown sugar",
-            "100ml/3\u00bdfl oz double cream"
-        ],
-        "To serve": [
-            "clotted cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -52,8 +59,9 @@
         "For the sauce, place the butter, sugar and cream into a separate pan over a medium heat. Bring to the boil and cook for 5-6 minutes, until combined as a smooth sauce.",
         "To serve, cut out a wedge of apple Charlotte and place onto each plate. Add a generous spoonful of the sauce and a spoonful of clotted cream alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Apple charlotte with caramel sauce",
     "videos": "[]"
 }

@@ -1,26 +1,33 @@
 {
-    "title": "Pork chops with potato and leek al forno",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "Theo Randall's Italian twist on meat and two veg is full of flavour and super simple to make.",
     "author": {
         "theo_randall": "Theo Randall"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "Theo Randall's Italian twist on meat and two veg is full of flavour and super simple to make.",
+    "dishes": [
+        "bread",
+        "charlotte",
+        "oven-baked_dishes",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pork chops": [
+            "2 tbsp chopped rosemary",
+            "1 lemon, juice only",
+            "2 tbsp extra virgin olive oil, plus extra for serving",
+            "4 pork chops, about 2cm/\u00bein thick, excess fat trimmed"
+        ],
         "For the potato and leek al forno": [
             "1kg/2lb 4oz waxy potatoes, such as Roseval or Charlotte, cut into 2cm/\u00bein pieces",
             "250g/9oz leeks, cut into 2cm/\u00bein pieces",
@@ -30,13 +37,13 @@
             "400ml/14fl oz double cream",
             "40g/1\u00bdoz dried breadcrumbs",
             "sea salt and freshly ground black pepper"
-        ],
-        "For the pork chops": [
-            "2 tbsp chopped rosemary",
-            "1 lemon, juice only",
-            "2 tbsp extra virgin olive oil, plus extra for serving",
-            "4 pork chops, about 2cm/\u00bein thick, excess fat trimmed"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 180C/160C Fan/Gas 4.",
@@ -48,8 +55,9 @@
         "Grill the chops for 3 minutes on each side. Remove from the heat and leave to rest for 1 minute, then sprinkle with the rest of the lemon juice and a dash of olive oil.",
         "Serve the chops immediately, with the potato and leek al forno alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pork chops with potato and leek al forno",
     "videos": "[]"
 }

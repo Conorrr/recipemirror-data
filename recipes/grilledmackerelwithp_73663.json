@@ -1,31 +1,25 @@
 {
-    "title": "Grilled mackerel with potato and onion mustard",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "mike_robinson": "Mike Robinson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bun",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "chopping_vegetables",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 fresh mackerel",
-            "1 lemon, zest and juice only",
-            "olive oil"
-        ],
         "For the potato salad": [
             "600g/1lb 5oz new potatoes",
             "1 tsp wholegrain mustard",
@@ -34,7 +28,18 @@
             "1 red onion, finely sliced",
             "small bunch of flatleaf parsley, roughly chopped",
             "salt and freshly ground black pepper"
+        ],
+        "default": [
+            "2 fresh mackerel",
+            "1 lemon, zest and juice only",
+            "olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat a grill to a medium-high heat.",
@@ -45,9 +50,9 @@
         "Mix together well, then add the finely sliced onion and fennel. Add a good amount of the parsley and season well.",
         "Divide the salad between four serving plates to form a mound. Lay the mackerel fillets on top, and pour over the juices from the fish and the bottom of the salad bowl."
     ],
-    "howTos": [
-        "chopping_vegetables",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Grilled mackerel with potato and onion mustard",
     "videos": "[]"
 }

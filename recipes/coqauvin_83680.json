@@ -1,26 +1,33 @@
 {
-    "title": "Coq au vin",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "mike_robinson": "Mike Robinson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "bread",
+        "casserole",
+        "coq_au_vin",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "fresh crusty bread",
+            "new potatoes, boiled and buttered"
+        ],
         "default": [
             "50g/2oz flour, seasoned with salt and freshly ground black pepper",
             "1 whole chicken, cut into 12 pieces (or use a selection of chicken thighs and drumsticks)",
@@ -33,11 +40,13 @@
             "1 - 2 bottles Pinot Noir wine",
             "3 fresh thyme sprigs",
             "salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "fresh crusty bread",
-            "new potatoes, boiled and buttered"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 160C/325F/Gas 3.",
@@ -55,8 +64,9 @@
         "Season, to taste, with salt and freshly ground black pepper, then add the sauce to the bowl of chicken, making sure you include all the bits of shallot, bacon and garlic.",
         "Serve at the table in the bowl with fresh crusty bread and boiled, buttered new potatoes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Coq au vin",
     "videos": "[]"
 }

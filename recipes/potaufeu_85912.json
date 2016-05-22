@@ -1,26 +1,30 @@
 {
-    "title": "Pot au feu",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lenny_henry": "Lenny Henry"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "broth",
+        "pasta",
+        "pie",
+        "sausage"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "mustard",
+            "gherkins"
+        ],
         "default": [
             "1 x 2kg/5lb piece beef brisket",
             "30g/1ox tongue",
@@ -31,11 +35,13 @@
             "1 small boiling chicken",
             "3 tomatoes",
             "2 handfuls spaghetti, broken into pieces"
-        ],
-        "To serve": [
-            "mustard",
-            "gherkins"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b00701fw": "A Taste of My Life"
     },
     "steps": [
         "Put the beef and the tongue in a very large pan and cover with cold water. Bring slowly to the boil, removing the scum that will form on the surface of the water, using a slotted spoon.",
@@ -45,8 +51,9 @@
         "Put the pan back on the heat, and, when simmering, add the spaghetti. Cook for a further 7-10 minutes until the pasta is cooked through.",
         "Serve the broth first and then the warmed meat on the side, along with some mustard and gherkins."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pot au feu",
     "videos": "[]"
 }

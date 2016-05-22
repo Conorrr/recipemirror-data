@@ -1,23 +1,23 @@
 {
-    "title": "Beef and honey stew",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "16",
-    "images": [
-        
-    ],
-    "description": "Honey gives a comforting sweetness to this slow-cooked stew.",
     "author": {
         "polly_findlay": "Polly Findlay"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Honey gives a comforting sweetness to this slow-cooked stew.",
+    "dishes": [
+        "beef_stew",
+        "slow-cooked_dishes",
+        "stew",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -35,6 +35,12 @@
             "sea salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "16",
+    "serves": "Serves 4",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
+    },
     "steps": [
         "Place the flour in a freezer bag then add the cubes of meat and shake well to coat.",
         "Heat the oil in a large pan and brown the meat on all sides. (Do this in batches as adding too much meat at once makes the meat steam rather than brown.)",
@@ -42,8 +48,9 @@
         "Cover the pan with a lid and simmer the stew over a very low heat for at least two hours \u2013 the longer it cooks, the better it will be.",
         "About 20 minutes before serving, add the potato to the stew (adding them at this point means they keep their shape). Season, to taste, with sea salt and freshly ground black pepper before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef and honey stew",
     "videos": "[]"
 }

@@ -1,26 +1,38 @@
 {
-    "title": "Hand-raised Boxing Day pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8-10",
-    "recommendations": "20",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/hand-raised_boxing_day_84945_16x9.jpg"
-    ],
-    "description": "Make the most of Christmas dinner leftovers with a turkey, stuffing and cranberry pie made with hot water crust pastry.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Make the most of Christmas dinner leftovers with a turkey, stuffing and cranberry pie made with hot water crust pastry.",
+    "dishes": [
+        "bread",
+        "cake",
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stuffing"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/hand-raised_boxing_day_84945_16x9.jpg"
+    ],
     "ingredients": {
+        "For the filling": [
+            "400g/14oz leftover stuffing (sage and onion or flavour of your own preference)",
+            "500g/1lb 2oz cooked turkey, both white and brown meat, roughly chopped",
+            "salt and freshly ground black pepper",
+            "200g/7oz cranberries (fresh, or frozen and defrosted)",
+            "150g/5\u00bdoz cranberry sauce"
+        ],
         "For the hot water crust pastry": [
             "450g/1lb plain flour, sifted, plus extra for dusting",
             "100g/3\u00bdoz strong white flour, sifted",
@@ -28,14 +40,13 @@
             "75g/2\u00bdoz chilled butter, cut into cubes",
             "150g/5\u00bdoz lard, cut into cubes, plus extra for greasing",
             "1 free-range egg, beaten, to glaze"
-        ],
-        "For the filling": [
-            "400g/14oz leftover stuffing (sage and onion or flavour of your own preference)",
-            "500g/1lb 2oz cooked turkey, both white and brown meat, roughly chopped",
-            "salt and freshly ground black pepper",
-            "200g/7oz cranberries (fresh, or frozen and defrosted)",
-            "150g/5\u00bdoz cranberry sauce"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "20",
+    "serves": "Serves 8-10",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Sift the plain and strong flour and salt into a mixing bowl. Using your fingertips, rub the butter into the flour until the mixture resembles breadcrumbs. Make a well in the centre of the mixture.",
@@ -48,8 +59,9 @@
         "Place the chilled pie in a roasting tin (to catch any juices that may leak from the pie tin) and cook for 45 minutes. Remove from the oven and brush with beaten egg to glaze. Return to the oven for 15 minutes.",
         "When the pie is cooked, remove from the oven and leave to cool on a wire rack for 10 minutes. Leave to cool for a further 30 minutes before removing from the springform tin or pie mould."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Hand-raised Boxing Day pie",
     "videos": "[]"
 }

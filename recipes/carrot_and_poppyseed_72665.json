@@ -1,24 +1,20 @@
 {
-    "title": "Carrot and poppyseed salad",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/carrot_and_poppyseed_72665_16x9.jpg"
-    ],
-    "description": "Carrot is wonderfully paired with poppyseed in this simple salad. It will keep in the fridge for 2-3 days so is great for having on hand to add to your lunchbox.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b05vr6dl": "Mary Berry's Absolute Favourites"
-    },
-    "tips": [
-        "If time is limited, use a food processor to grate the carrots."
+    "cookTime": "no cooking required",
+    "description": "Carrot is wonderfully paired with poppyseed in this simple salad. It will keep in the fridge for 2-3 days so is great for having on hand to add to your lunchbox.",
+    "dishes": [
+        "salad"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/carrot_and_poppyseed_72665_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -29,11 +25,18 @@
             "1 tsp poppy seeds"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        "b05vr6dl": "Mary Berry's Absolute Favourites"
+    },
     "steps": [
         "Put all of the ingredients in a bowl, season with salt and pepper and mix well."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If time is limited, use a food processor to grate the carrots."
     ],
+    "title": "Carrot and poppyseed salad",
     "videos": "[]"
 }

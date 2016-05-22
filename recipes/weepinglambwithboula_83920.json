@@ -1,26 +1,29 @@
 {
-    "title": "Weeping lamb with boulangere potatoes",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "11",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "salad",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "300g/11oz mixed salad leaves",
+            "1 lemon, juiced"
+        ],
         "default": [
             "2.7kg/6lb leg of lamb",
             "50g/2oz butter, softened",
@@ -31,11 +34,13 @@
             "4 onions, sliced thinly",
             "salt and black pepper",
             "450ml/16fl oz chicken or lamb stock"
-        ],
-        "To serve": [
-            "300g/11oz mixed salad leaves",
-            "1 lemon, juiced"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 4-6",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat oven to 230C/450F/Gas 8.",
@@ -50,8 +55,9 @@
         "Dress the salad leaves with the lemon and remaining olive oil, then season with salt and pepper.",
         "Carve the lamb and serve with the potatoes and salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Weeping lamb with boulangere potatoes",
     "videos": "[]"
 }

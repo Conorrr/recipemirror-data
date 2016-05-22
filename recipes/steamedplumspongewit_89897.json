@@ -1,26 +1,33 @@
 {
-    "title": "Steamed plum sponge with cinnamon custard",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "",
+    "dishes": [
+        "custard",
+        "jam",
+        "sauce",
+        "steamed_pudding",
+        "upside-down_cake"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the custard": [
+            "4 free-range egg yolks",
+            "40g/1\u00bdoz caster sugar",
+            "150ml/5fl oz milk",
+            "150ml/5fl oz double cream",
+            "2 cinnamon sticks"
+        ],
         "For the plums": [
             "1kg/2lb 4oz mixed plums (Victoria plums, yellow plums and greengages), quartered, stones removed",
             "60g/2\u00bdoz caster sugar"
@@ -31,14 +38,13 @@
             "3 free-range eggs",
             "175g/6oz self-raising flour",
             "40ml/1\u00bdfl oz plum liqueur"
-        ],
-        "For the custard": [
-            "4 free-range egg yolks",
-            "40g/1\u00bdoz caster sugar",
-            "150ml/5fl oz milk",
-            "150ml/5fl oz double cream",
-            "2 cinnamon sticks"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the plums, place the plums and sugar into a pan over a medium heat. Cook for 3-4 minutes, until the plums have softened.",
@@ -58,8 +64,9 @@
         "To serve, reheat the reserved plums in their pan until hot.",
         "Remove the foil and baking parchment from the pudding. Place a large plate over the top of the pudding basin and turn over, tipping the pudding onto the plate. Cut out slices of the pudding and place on each plate. Spoon the hot plums alongside and pour the custard over the pudding."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Steamed plum sponge with cinnamon custard",
     "videos": "[]"
 }

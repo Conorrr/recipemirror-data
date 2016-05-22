@@ -1,26 +1,36 @@
 {
-    "title": "Roast pork loin with roasted spiced apples",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Mulled spices go into the apple sauce for this wintry pork recipe \u2013 ideal to be served over the Christmas period with a glass of mulled cider.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Mulled spices go into the apple sauce for this wintry pork recipe \u2013 ideal to be served over the Christmas period with a glass of mulled cider.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "roast_pork",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the greens": [
+            "50g/2oz butter",
+            "250g/9oz spring greens, thickly sliced",
+            "2 pinches freshly ground nutmeg"
+        ],
+        "For the mash": [
+            "1kg/2lb 2oz floury potatoes (such as King Edwards or Desiree), peeled, cut into chunks",
+            "110g/4oz butter",
+            "110ml/4fl oz full-fat milk"
+        ],
         "For the pork": [
             "1.5kg/3lb 5oz pork loin, skin and fat scored diagonally several times using a very sharp knife (ask your butcher to do this for you)",
             "3 tbsp olive oil",
@@ -36,17 +46,13 @@
             "\u00bd tsp ground ginger",
             "50g/2oz butter",
             "2-3 tbsp caster sugar, to taste"
-        ],
-        "For the mash": [
-            "1kg/2lb 2oz floury potatoes (such as King Edwards or Desiree), peeled, cut into chunks",
-            "110g/4oz butter",
-            "110ml/4fl oz full-fat milk"
-        ],
-        "For the greens": [
-            "50g/2oz butter",
-            "250g/9oz spring greens, thickly sliced",
-            "2 pinches freshly ground nutmeg"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the pork, preheat the oven to 230C/475F/Gas 8.",
@@ -66,8 +72,9 @@
         "Remove the pork from the oven, place the meat onto a plate and set aside to rest for 15 minutes. Bring the juices in the roasting tin to a simmer over a medium heat.",
         "To serve, carve the pork into slices and serve with some mash, the spring greens and a dollop of roasted apple. Finish with a drizzle of pan juices."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roast pork loin with roasted spiced apples",
     "videos": "[]"
 }

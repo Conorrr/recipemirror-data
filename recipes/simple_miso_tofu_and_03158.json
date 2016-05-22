@@ -1,24 +1,27 @@
 {
-    "title": "Simple miso, tofu and mushroom ramen",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/simple_miso_tofu_and_03158_16x9.jpg"
-    ],
-    "description": "Serve the family something different for dinner: a rich miso and mushroom broth with golden tofu and soft-boiled eggs. This meal provides 550 kcal, 33g protein, 45g carbohydrate (of which 4.5g sugars), 27g fat (of which 5.7g saturates), 6g fibre and 4g salt per portion.",
     "author": {
         "justine_pattison": "Justine Pattison"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "Tip 1: Frying the tofu gives it a firmer texture and added flavour, but you can gently warm the tofu in the simmering stock if you prefer. This recipe also works well with marinated tofu. Tip 2: If any of your dried mushrooms are on the large side, finely slice them after soaking."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Japanese",
+    "description": "Serve the family something different for dinner: a rich miso and mushroom broth with golden tofu and soft-boiled eggs. This meal provides 550 kcal, 33g protein, 45g carbohydrate (of which 4.5g sugars), 27g fat (of which 5.7g saturates), 6g fibre and 4g salt per portion.",
+    "dishes": [
+        "broth",
+        "noodle_soup",
+        "pie",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "how_to_boil_eggs"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/simple_miso_tofu_and_03158_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -39,6 +42,12 @@
             "dried flaked chillies, to serve (optional)"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Put the dried mushrooms in a large, heavy-based saucepan and cover with the water. Add the soy sauce, stock cube and miso paste and stir until the stock cube has dissolved. Set aside for 30 minutes to rehydrate and infuse.",
         "Meanwhile, half-fill a saucepan with water and bring to the boil. Add the noodles and cook for 3-4 minutes, or until just tender, stirring occasionally to break up the strands. Drain well, then rinse under running water until cold.",
@@ -48,8 +57,9 @@
         "Drain the eggs then rinse under cold water. Crack and peel off the shells, cut in half.",
         "Divide the broth, noodles and vegetables between 4 serving bowls. Top with the tofu and eggs. Sprinkle over the cashew nuts and chilli flakes. Season with extra soy sauce."
     ],
-    "howTos": [
-        "how_to_boil_eggs"
+    "tips": [
+        "Tip 1: Frying the tofu gives it a firmer texture and added flavour, but you can gently warm the tofu in the simmering stock if you prefer. This recipe also works well with marinated tofu. Tip 2: If any of your dried mushrooms are on the large side, finely slice them after soaking."
     ],
+    "title": "Simple miso, tofu and mushroom ramen",
     "videos": "[]"
 }

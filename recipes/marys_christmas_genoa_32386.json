@@ -1,26 +1,34 @@
 {
-    "title": "Christmas Genoa cake",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 x 23cm/9in cake",
-    "recommendations": "24",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/marys_christmas_genoa_32386_16x9.jpg"
-    ],
-    "description": "Make this delectably moist and fruity cake as an alternative to traditional Christmas cake. It serves 12.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Italian",
+    "description": "Make this delectably moist and fruity cake as an alternative to traditional Christmas cake. It serves 12.",
+    "dishes": [
+        "cake",
+        "christmas_cake",
+        "jam",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/marys_christmas_genoa_32386_16x9.jpg"
+    ],
     "ingredients": {
+        "For the topping": [
+            "small handful blanched whole almonds",
+            "small handful walnut halves",
+            "small handful red or natural (uncoloured) glac\u00e9 cherries, halved",
+            "50g/1\u00beoz whole orange peel (available from health-food shops), cut into pieces",
+            "100g/3\u00bdoz apricot jam"
+        ],
         "default": [
             "350g/12oz red or natural (uncoloured) glac\u00e9 cherries, rinsed, dried and cut into quarters",
             "225g/8oz tinned pineapple in pineapple juice, drained, dried and roughly chopped",
@@ -33,14 +41,13 @@
             "5 large free-range eggs, lightly beaten",
             "250g/9oz self-raising flour",
             "75g/2\u00bdoz ground almonds"
-        ],
-        "For the topping": [
-            "small handful blanched whole almonds",
-            "small handful walnut halves",
-            "small handful red or natural (uncoloured) glac\u00e9 cherries, halved",
-            "50g/1\u00beoz whole orange peel (available from health-food shops), cut into pieces",
-            "100g/3\u00bdoz apricot jam"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "24",
+    "serves": "Makes 1 x 23cm/9in cake",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 160C/320F/Gas 3. Grease a deep, 23cm/9in round cake tin with butter, then line the base and sides with a double layer of baking parchment.",
@@ -53,8 +60,9 @@
         "Set the cake aside in its tin to cool for 30 minutes, then remove from the tin, peel the baking parchment away from the sides and place onto a wire rack to cool completely.",
         "Meanwhile, heat the apricot jam in a small pan over a low heat, then strain through a fine sieve to remove any pieces of fruit. When the cake has cooled, brush the top all over with the warm apricot jam. Wrap a ribbon around the cake and tie with a bow, if desired, then serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Christmas Genoa cake",
     "videos": "[]"
 }

@@ -1,33 +1,27 @@
 {
-    "title": "Strawberry shortcake stack with strawberry coulis and cream hearts",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "biscuit",
+        "champ",
+        "icing",
+        "sandwich",
+        "sauce",
+        "shortbread"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 ready-made shortbread biscuits",
-            "6 tbsp double cream, whipped until stiff peaks form when the whisk is removed, plus 1 tsp extra",
-            "3 strawberries (similar sizes), hulled and sliced in half",
-            "1 tbsp icing sugar, plus extra for dusting",
-            "\u00bd vanilla pod, seeds scraped out"
-        ],
         "For the coulis": [
             "55g/2oz strawberries, hulled",
             "1 tbsp pink champagne"
@@ -35,7 +29,20 @@
         "For the orange cream": [
             "1 tbsp double cream",
             "1 tsp orange juice"
+        ],
+        "default": [
+            "4 ready-made shortbread biscuits",
+            "6 tbsp double cream, whipped until stiff peaks form when the whisk is removed, plus 1 tsp extra",
+            "3 strawberries (similar sizes), hulled and sliced in half",
+            "1 tbsp icing sugar, plus extra for dusting",
+            "\u00bd vanilla pod, seeds scraped out"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Place two shortbread biscuits onto a serving plate (secure them to the plate with half a teaspoon of cream underneath).",
@@ -48,8 +55,9 @@
         "To serve, pour the coulis onto the plate around the strawberry shortbread stacks. Place small drops of the orange cream into the coulis around the strawberry shortbread stacks. Drag a toothpick or handle of a teaspoon through each drop of orange cream to create a decorative heart shape.",
         "Dust the strawberry shortbread stacks with icing sugar to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Strawberry shortcake stack with strawberry coulis and cream hearts",
     "videos": "[]"
 }

@@ -1,24 +1,22 @@
 {
-    "title": "French toast with bananas and maple syrup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "An irresistible all-time favourite weekend breakfast with no health benefits whatsoever. Gorgeous.",
     "author": {
         "allegra_mcevedy": "Allegra McEvedy"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "An irresistible all-time favourite weekend breakfast with no health benefits whatsoever. Gorgeous.",
+    "dishes": [
+        "brioche",
+        "caramel"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,6 +30,12 @@
             "maple syrup, to taste"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 2",
+    "show": {
+        
+    },
     "steps": [
         "Whisk together the milk and eggs in a wide shallow bowl.",
         "Dip the brioche slices into the egg and milk mixture for one minute, making sure the liquid soaks into the brioche on both sides.",
@@ -40,8 +44,9 @@
         "Add another knob of butter to the pan over a high heat. Once melted, add the sliced banana to the pan, toss in the melted butter and fry for two minutes, or until caramelised lightly on the outside.",
         "Serve the French toast with the caramelised banana, a sprinkle of the cinnamon sugar (any extra can be stored and used again) and a drizzle of maple syrup."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "French toast with bananas and maple syrup",
     "videos": "[p018dypx:p018dyq0]"
 }

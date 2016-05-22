@@ -1,40 +1,31 @@
 {
-    "title": "Roast chicken with bread sauce, game chips and stuffing",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Try James Martin\u2019s delicious recipe for chicken roasted with cream cheese \u2013 it makes it deliciously moist.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Try James Martin\u2019s delicious recipe for chicken roasted with cream cheese \u2013 it makes it deliciously moist.",
+    "dishes": [
+        "bread",
+        "chips",
+        "gravy",
+        "jam",
+        "oven-baked_dishes",
+        "roast_chicken",
+        "sauce",
+        "stir-fries",
+        "stock",
+        "stuffing"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "carving_poultry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the chicken": [
-            "110g/4oz cream cheese",
-            "75g/3oz fresh basil leaves, roughly chopped",
-            "salt and freshly ground black pepper",
-            "1 large chicken, preferably organic",
-            "40g/1\u00bdoz butter, softened",
-            "2 tbsp extra virgin olive oil",
-            "150ml/5fl oz white wine",
-            "300ml/10fl oz chicken stock"
-        ],
-        "For the stuffing": [
-            "115g/4oz sage and onion stuffing mixture",
-            "50g/2oz butter"
-        ],
         "For the bread sauce": [
             "1 large onion, peeled",
             "6 cloves",
@@ -45,16 +36,36 @@
             "40g/1\u00bdoz butter",
             "salt and freshly ground black pepper"
         ],
-        "For the spring greens": [
-            "6 slices streaky bacon, roughly chopped",
-            "50g/2oz butter",
-            "300g/11oz spring greens, thinly sliced"
+        "For the chicken": [
+            "110g/4oz cream cheese",
+            "75g/3oz fresh basil leaves, roughly chopped",
+            "salt and freshly ground black pepper",
+            "1 large chicken, preferably organic",
+            "40g/1\u00bdoz butter, softened",
+            "2 tbsp extra virgin olive oil",
+            "150ml/5fl oz white wine",
+            "300ml/10fl oz chicken stock"
         ],
         "For the game chips": [
             "vegetable oil, for deep-frying",
             "1 large baking potato, sliced very thinly on a mandoline",
             "salt and freshly ground black pepper"
+        ],
+        "For the spring greens": [
+            "6 slices streaky bacon, roughly chopped",
+            "50g/2oz butter",
+            "300g/11oz spring greens, thinly sliced"
+        ],
+        "For the stuffing": [
+            "115g/4oz sage and onion stuffing mixture",
+            "50g/2oz butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the chicken, preheat the oven to 200C/400F/Gas 6.",
@@ -70,8 +81,9 @@
         "Deep-fry the potato slices for 1-2 minutes, or until golden-brown. Remove the game chips from the oil with a slotted spoon, set aside to drain on kitchen paper and season with salt and freshly ground black pepper.",
         "To serve, carve the chicken into slices, and place onto serving plates along with the bread sauce, spring greens, game chips, stuffing and gravy."
     ],
-    "howTos": [
-        "carving_poultry"
+    "tips": [
+        
     ],
+    "title": "Roast chicken with bread sauce, game chips and stuffing",
     "videos": "[]"
 }

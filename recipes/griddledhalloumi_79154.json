@@ -1,24 +1,22 @@
 {
-    "title": "Griddled halloumi",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/griddledhalloumi_79154_16x9.jpg"
-    ],
-    "description": "Grilled halloumi and marinated courgette ribbons make an easy open sandwich for parties or supper for one.",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Grilled halloumi and marinated courgette ribbons make an easy open sandwich for parties or supper for one.",
+    "dishes": [
+        "bruschetta",
+        "ciabatta",
+        "sandwich"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/griddledhalloumi_79154_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -30,14 +28,21 @@
             "2 slices ciabatta, toasted"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Mix the courgette, thyme leaves, olive oil and seasoning in a bowl.",
         "Heat a griddle pan until hot. Place the courgette mixture onto the griddle pan and cook for 1-2 minutes.",
         "Add the halloumi slices and continue to griddle for 3-4 minutes, or until golden brown stripes appear on the cheese surface.",
         "Arrange the toasted ciabatta on a plate and place the griddled halloumi and courgette on top to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Griddled halloumi",
     "videos": "[]"
 }

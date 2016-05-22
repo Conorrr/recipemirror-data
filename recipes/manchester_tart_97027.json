@@ -1,24 +1,27 @@
 {
-    "title": "Manchester tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 48",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "You could bake the pastry cases and make the custard filling in advance then assemble the tarts just before serving.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b013y0nz": "Hairy Bikers' Meals on Wheels"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "You could bake the pastry cases and make the custard filling in advance then assemble the tarts just before serving.",
+    "dishes": [
+        "custard",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "stir-fries",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -37,6 +40,12 @@
             "1.2 litres/2 pints double cream"
         ]
     },
+    "prepTime": "1-2 hours",
+    "recommendations": "3",
+    "serves": "Serves 48",
+    "show": {
+        "b013y0nz": "Hairy Bikers' Meals on Wheels"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Grease three 25cm/10in tart tins with butter.",
         "Heat a medium frying pan and add half the desiccated coconut and toast in a dry pan until golden-brown.",
@@ -53,8 +62,9 @@
         "Spoon the custard and cream mixture into the pastry case in an even layer. Sprinkle over the remaining fresh raspberries.",
         "Sprinkle with the toasted desiccated coconut and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Manchester tart",
     "videos": "[]"
 }

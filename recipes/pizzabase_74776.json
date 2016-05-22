@@ -1,24 +1,23 @@
 {
-    "title": "Pizza base",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 4 pizzas",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "There'll be no stopping you once you've made your first gluten-free pizza dough. Pizza is universally appealing, a quick and easy lunch or supper dish, for which you can endlessly vary the toppings.",
     "author": {
         "darina_allen_and_rosemary_kearney": "Darina Allen and Rosemary Kearney"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "There'll be no stopping you once you've made your first gluten-free pizza dough. Pizza is universally appealing, a quick and easy lunch or supper dish, for which you can endlessly vary the toppings.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "pizza",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -36,6 +35,12 @@
             "1 egg, preferably free-range"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "Makes 4 pizzas",
+    "show": {
+        
+    },
     "steps": [
         "Dissolve the sugar in 150ml/\u00bc pint of the lukewarm water in a small bowl and stir in the dried yeast. Sit the bowl for a few minutes in a warm place to allow the yeast to start to work. After about 4-5 minutes it will have a creamy, slightly frothy appearance.",
         "Place the rice flour, potato flour, tapioca flour, dried milk, gluten-free baking powder, xanthan gum and salt into the bowl of a food mixer. Using the paddle attachment, thoroughly mix the dry ingredients together. In a small bowl, whisk together the sunflower oil and egg and stir into the dry ingredients on a low speed.",
@@ -46,8 +51,9 @@
         "Transfer the baking sheets to the oven and bake for 8-10 minutes before removing and adding the toppings of your choice. Return the pizzas, with the toppings to the oven and bake for a further 10-15 minutes until the bases are crisp and the toppings are bubbly and golden.",
         "Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pizza base",
     "videos": "[]"
 }

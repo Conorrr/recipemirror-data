@@ -1,24 +1,21 @@
 {
-    "title": "Fresh fruit flapjacks",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "These easy-peasy flapjacks have a secret fruity centre that your kids will love. They're ready in less than one hour.",
     "author": {
         "kate_morris_and_sally_brown": "Kate Morris and Sally Brown"
     },
-    "show": {
-        "b00w1ddl": "I Can Cook"
-    },
-    "tips": [
-        "This dish can be frozen for up to one month."
+    "cookTime": "10 to 30 mins",
+    "description": "These easy-peasy flapjacks have a secret fruity centre that your kids will love. They're ready in less than one hour.",
+    "dishes": [
+        "flapjacks",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,6 +26,12 @@
             "80g/3\u00bcoz blueberries or other berries or soft fruit, mashed"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 4",
+    "show": {
+        "b00w1ddl": "I Can Cook"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease a loaf tin with a little butter.",
         "In a bowl, rub together the oats, flour, sugar and butter using your fingertips, until the mixture is crumbly.",
@@ -36,8 +39,9 @@
         "Spoon the remaining crumbly mixture on top of the blueberries, then press down firmly to flatten into an even layer.",
         "Transfer the flapjack to the oven and bake for 18-20 minutes, or until golden-brown. Set aside to cool completely, then cut into slices and remove from the tin."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This dish can be frozen for up to one month."
     ],
+    "title": "Fresh fruit flapjacks",
     "videos": "[]"
 }

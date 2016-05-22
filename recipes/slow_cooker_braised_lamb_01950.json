@@ -1,24 +1,21 @@
 {
-    "title": "Slow cooker braised lamb shanks",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "56",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/slow_cooker_braised_lamb_01950_16x9.jpg"
-    ],
-    "description": "The meat on these lamb shanks is so tender that it falls off the bone. Serve with mounds of mash for the ultimate comfort food supper. If you are cooking this recipe for two, the cooked lamb shanks will keep in the freezer for up to 4 weeks. Equipment: You need a slow cooker to make this recipe.",
     "author": {
         "rachel_manley": "Rachel Manley"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "You\u2019ll need a large slow cooker to fit all of the lamb shanks in."
+    "cookTime": "over 2 hours",
+    "description": "The meat on these lamb shanks is so tender that it falls off the bone. Serve with mounds of mash for the ultimate comfort food supper. If you are cooking this recipe for two, the cooked lamb shanks will keep in the freezer for up to 4 weeks. Equipment: You need a slow cooker to make this recipe.",
+    "dishes": [
+        "slow-cooked_dishes",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "de-glazing_pans"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/slow_cooker_braised_lamb_01950_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -33,6 +30,12 @@
             "mashed potatoes, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "56",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Heat the oil in a large frying pan.",
         "Dredge the lamb shanks in the seasoned flour and fry in the frying pan for 4-5 minutes, turning regularly, or until browned all over. Place the lamb shanks in the slow cooker.",
@@ -40,8 +43,9 @@
         "Add the onion, rosemary, bay leaves and stock to the slow cooker. The liquid should cover the meat - add more stock or boiling water if needed.",
         "Cook on high for eight hours. Serve with mash."
     ],
-    "howTos": [
-        "de-glazing_pans"
+    "tips": [
+        "You\u2019ll need a large slow cooker to fit all of the lamb shanks in."
     ],
+    "title": "Slow cooker braised lamb shanks",
     "videos": "[]"
 }

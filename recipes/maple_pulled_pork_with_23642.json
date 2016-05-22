@@ -1,26 +1,71 @@
 {
-    "title": "Maple pulled pork with BBQ-style beans, chilli cornbread and an apple and pecan slaw",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4-6",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Try this all-American dish of slow-cooked pork with three-bean baked beans, chilli cornbread and fancy coleslaw.",
     "author": {
         "allegra_mcevedy": "Allegra McEvedy"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "American",
+    "description": "Try this all-American dish of slow-cooked pork with three-bean baked beans, chilli cornbread and fancy coleslaw.",
+    "dishes": [
+        "bun",
+        "cake",
+        "coleslaw",
+        "cornbread",
+        "ketchup",
+        "oven-baked_dishes",
+        "pie",
+        "pulled_pork",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the apple and pecan slaw": [
+            "4 Granny Smith apples, cored and thinly sliced",
+            "4 white chicory, leaves separated",
+            "120g/4\u00bcoz pecan nuts",
+            "200ml/7fl oz cr\u00e8me fra\u00eeche",
+            "1 lemon, juice only",
+            "50ml/2fl oz olive oil",
+            "4 sprigs fresh coriander"
+        ],
+        "For the beans": [
+            "1 tbsp vegetable oil",
+            "1 onion, finely chopped",
+            "1 garlic clove, finely chopped",
+            "1 red chilli, finely chopped",
+            "400g/14oz tinned chopped tomatoes",
+            "2 tbsp tomato ketchup",
+            "2 tbsp barbecue sauce",
+            "1 tsp English mustard powder",
+            "300g/10\u00bdoz tinned kidney beans, drained",
+            "300g/10\u00bdoz tinned black beans, drained",
+            "300g/10\u00bdoz tinned haricot beans, drained"
+        ],
+        "For the chilli cornbread": [
+            "4 tbsp butter",
+            "200g/7oz cornmeal",
+            "65g/2\u00bcoz plain flour",
+            "1\u00bd tsp baking powder",
+            "1 tsp salt",
+            "35g/1oz caster sugar",
+            "1 red chilli, finely chopped",
+            "1 bunch spring onions, finely chopped",
+            "3 medium free-range eggs, beaten",
+            "160g/5\u00bdoz whole milk"
+        ],
+        "For the sweet potatoes": [
+            "450g/1lb sweet potatoes, skin on, cut into 2cm/\u00bein slices",
+            "2 tbsp olive oil"
+        ],
         "default": [
             "1 tbsp olive oil",
             "1 onion, finely chopped",
@@ -37,45 +82,13 @@
             "1kg/2lb 4oz belly pork",
             "1 tbsp salt",
             "1 tbsp freshly ground black pepper"
-        ],
-        "For the chilli cornbread": [
-            "4 tbsp butter",
-            "200g/7oz cornmeal",
-            "65g/2\u00bcoz plain flour",
-            "1\u00bd tsp baking powder",
-            "1 tsp salt",
-            "35g/1oz caster sugar",
-            "1 red chilli, finely chopped",
-            "1 bunch spring onions, finely chopped",
-            "3 medium free-range eggs, beaten",
-            "160g/5\u00bdoz whole milk"
-        ],
-        "For the beans": [
-            "1 tbsp vegetable oil",
-            "1 onion, finely chopped",
-            "1 garlic clove, finely chopped",
-            "1 red chilli, finely chopped",
-            "400g/14oz tinned chopped tomatoes",
-            "2 tbsp tomato ketchup",
-            "2 tbsp barbecue sauce",
-            "1 tsp English mustard powder",
-            "300g/10\u00bdoz tinned kidney beans, drained",
-            "300g/10\u00bdoz tinned black beans, drained",
-            "300g/10\u00bdoz tinned haricot beans, drained"
-        ],
-        "For the sweet potatoes": [
-            "450g/1lb sweet potatoes, skin on, cut into 2cm/\u00bein slices",
-            "2 tbsp olive oil"
-        ],
-        "For the apple and pecan slaw": [
-            "4 Granny Smith apples, cored and thinly sliced",
-            "4 white chicory, leaves separated",
-            "120g/4\u00bcoz pecan nuts",
-            "200ml/7fl oz cr\u00e8me fra\u00eeche",
-            "1 lemon, juice only",
-            "50ml/2fl oz olive oil",
-            "4 sprigs fresh coriander"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "5",
+    "serves": "Serves 4-6",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
@@ -99,8 +112,9 @@
         "Remove all the fat from the pork and pull it into pieces.",
         "Just before serving, add the dressing to the apple and pecan slaw and mix well. Serve the pork with the cornbread, beans, slaw and sauce. Top each serving of pork with a sprig of coriander."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Maple pulled pork with BBQ-style beans, chilli cornbread and an apple and pecan slaw",
     "videos": "[]"
 }

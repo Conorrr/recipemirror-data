@@ -1,33 +1,29 @@
 {
-    "title": "Chocolate fondant tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6-8",
-    "recommendations": "38",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/warm_chocolate_fondant_20828_16x9.jpg"
-    ],
-    "description": "This tart looks like something you might have bought from a French patisserie, but it is so easy to make. Serve it gently warmed with a dusting of icing sugar, or top it with chocolate curls, drizzle with melted chocolate or top it with a little whipped cream and fresh summer berries. Or all three. Equipment and preparation: you will need a 23cm/9in fluted flan tin, 3cm/1\u00bcin deep and baking beans.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "p01s4q10": "Mary Berry Cooks"
-    },
-    "tips": [
-        "This tart can be made 1-2 days in advance. Bring it to room temperature and warm it slightly in a low oven (120C/250F/Gas 1) for 10 minutes. You can also make and bake the pastry case blind, then add the filling and bake half an hour before serving. The tart can be baked and frozen for up to one month. Defrost, then warm in a low oven. If you don\u2019t have time to rest the pastry in the fridge for 30 minutes you can roll it out, line the tin and freeze it for 10 minutes before baking blind. You can also make this as 18 individual tartlets baked in bun tins: cook for about 4 minutes, making sure the mixture still has a wobble in the centre."
+    "cookTime": "30 mins to 1 hour",
+    "description": "This tart looks like something you might have bought from a French patisserie, but it is so easy to make. Serve it gently warmed with a dusting of icing sugar, or top it with chocolate curls, drizzle with melted chocolate or top it with a little whipped cream and fresh summer berries. Or all three. Equipment and preparation: you will need a 23cm/9in fluted flan tin, 3cm/1\u00bcin deep and baking beans.",
+    "dishes": [
+        "bread",
+        "bun",
+        "chocolate_tart",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "patisserie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/warm_chocolate_fondant_20828_16x9.jpg"
+    ],
     "ingredients": {
-        "For the rich shortcrust pastry": [
-            "100g/3\u00bdoz plain flour",
-            "50g/1\u00beoz icing sugar",
-            "50g/1\u00beoz diced butter, chilled",
-            "1 large free-range egg yolk",
-            "about 1 tbsp cold water"
-        ],
         "For the filling": [
             "100g/3\u00bdoz butter",
             "150g/5\u00bdoz plain chocolate, finely chopped, preferably with a high percentage of cocoa solids",
@@ -35,11 +31,24 @@
             "75g/3oz plain flour",
             "6 medium free-range eggs"
         ],
+        "For the rich shortcrust pastry": [
+            "100g/3\u00bdoz plain flour",
+            "50g/1\u00beoz icing sugar",
+            "50g/1\u00beoz diced butter, chilled",
+            "1 large free-range egg yolk",
+            "about 1 tbsp cold water"
+        ],
         "To serve": [
             "icing sugar",
             "a few small strawberries, to decorate (optional)",
             "pouring cream (optional)"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "38",
+    "serves": "Serves 6-8",
+    "show": {
+        "p01s4q10": "Mary Berry Cooks"
     },
     "steps": [
         "For the pastry, put flour and icing sugar in a large bowl and rub in the butter with your fingertips until the mixture resembles fine breadcrumbs.",
@@ -50,8 +59,9 @@
         "Place the pastry case on a baking tray. Pour the mixture into the pastry case, filling it right to the top and place in the oven. Bake for 10-12 minutes, or until just set around the edges - but it should still be slightly wobbly in the centre.",
         "Remove from the oven and allow to cool. Dust with icing sugar - if liked, you can cut a heart shape out of baking parchment and place on top of the tart before dusting with icing sugar, then remove the paper to make a stenciled effect. Or serve warm with strawberries, a dusting of icing sugar and cream."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry"
+    "tips": [
+        "This tart can be made 1-2 days in advance. Bring it to room temperature and warm it slightly in a low oven (120C/250F/Gas 1) for 10 minutes. You can also make and bake the pastry case blind, then add the filling and bake half an hour before serving. The tart can be baked and frozen for up to one month. Defrost, then warm in a low oven. If you don\u2019t have time to rest the pastry in the fridge for 30 minutes you can roll it out, line the tin and freeze it for 10 minutes before baking blind. You can also make this as 18 individual tartlets baked in bun tins: cook for about 4 minutes, making sure the mixture still has a wobble in the centre."
     ],
+    "title": "Chocolate fondant tart",
     "videos": "[]"
 }

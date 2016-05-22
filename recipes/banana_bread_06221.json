@@ -1,24 +1,24 @@
 {
-    "title": "Banana cake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 2 loaves",
-    "recommendations": "55",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/banana_bread_06221_16x9.jpg"
-    ],
-    "description": "Batch-bake this moist, spiced, nutty bread, then eat what you can for breakfast, brunch or tea and freeze the rest.",
     "author": {
         "jaye_jacobs": "Jaye Jacobs"
     },
-    "show": {
-        "b00sy9ws": "The Hairy Bikers' Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Batch-bake this moist, spiced, nutty bread, then eat what you can for breakfast, brunch or tea and freeze the rest.",
+    "dishes": [
+        "banana_bread",
+        "bread",
+        "cake",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/banana_bread_06221_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,6 +36,12 @@
             "225g/8oz pecans"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "55",
+    "serves": "Makes 2 loaves",
+    "show": {
+        "b00sy9ws": "The Hairy Bikers' Cook Off"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Grease and line two medium (or three small) loaf tins.",
         "Mash the bananas and vegetable oil together in a bowl and set aside.",
@@ -44,8 +50,9 @@
         "Spoon the cake mixture into the loaf tins and bake in the oven for 1\u00bd hours, or until risen and golden-brown. Check after one hour and reduce the oven temperature slightly if the loaves are browning too quickly on the top, or cover the loaves loosely with aluminium foil.",
         "Leave the banana bread to cool in the tins, then turn out and serve in thick slices."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Banana cake",
     "videos": "[]"
 }

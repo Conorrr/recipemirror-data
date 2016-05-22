@@ -1,24 +1,21 @@
 {
-    "title": "Mince pie ice cream",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Mix leftover mince pies with vanilla ice cream for a delightfully simple dessert.",
     "author": {
         "gregg_wallace": "Gregg Wallace"
     },
-    "show": {
-        "b0520lz9": "Eat Well for Less?"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Mix leftover mince pies with vanilla ice cream for a delightfully simple dessert.",
+    "dishes": [
+        "ice_cream",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -26,12 +23,19 @@
             "vanilla ice cream"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "",
+    "show": {
+        "b0520lz9": "Eat Well for Less?"
+    },
     "steps": [
         "Remove the ice cream from the freezer and leave to soften.",
         "Break the mince pies up into small pieces and mix into the ice cream. Return the ice cream to the freezer."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mince pie ice cream",
     "videos": "[]"
 }

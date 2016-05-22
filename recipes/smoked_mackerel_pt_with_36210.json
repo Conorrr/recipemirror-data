@@ -1,26 +1,28 @@
 {
-    "title": "Smoked mackerel p\u00e2t\u00e9",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "11",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/smoked_mackerel_pt_with_36210_16x9.jpg"
-    ],
-    "description": "A jar of this fresh-tasting fish p\u00e2t\u00e9 is great to serve as a starter or to pack for a picnic.",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "British",
+    "description": "A jar of this fresh-tasting fish p\u00e2t\u00e9 is great to serve as a starter or to pack for a picnic.",
+    "dishes": [
+        "bread",
+        "pate"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/smoked_mackerel_pt_with_36210_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "spring onions, chopped",
+            "sourdough bread, cut into slices"
+        ],
         "default": [
             "2 kippers or whole smoked mackerel",
             "1 tsp freshly grated horseradish",
@@ -29,11 +31,13 @@
             "2 tbsp cr\u00e8me fra\u00eeche",
             "\u00bd lemon, juice only",
             "100g/2\u00bdoz unsalted butter, chopped"
-        ],
-        "To serve": [
-            "spring onions, chopped",
-            "sourdough bread, cut into slices"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 2",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
     },
     "steps": [
         "Remove the skin from the fish - the odd bone is fine as the mixture will be blended. Add the fish to the blender.",
@@ -41,8 +45,9 @@
         "Add the butter and blend until smooth. Season to taste with salt.",
         "Serve with spring onions or sourdough bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Smoked mackerel p\u00e2t\u00e9",
     "videos": "[]"
 }

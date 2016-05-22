@@ -1,38 +1,27 @@
 {
-    "title": "Spicy lemongrass chicken larb",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Larb is a spicy Thai salad using fried chicken. Quick and easy to make, it's a great supper dish or lunchtime treat.",
     "author": {
         "ching-he_huang": "Ching-He Huang"
     },
-    "show": {
-        "b0424667": "Spring Kitchen with Tom Kerridge"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "Larb is a spicy Thai salad using fried chicken. Quick and easy to make, it's a great supper dish or lunchtime treat.",
+    "dishes": [
+        "bun",
+        "chicken_salad",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the spicy lemongrass chicken larb": [
-            "2 tbsp vegetable oil",
-            "1 stalk lemongrass, finely chopped",
-            "1 tbsp crushed roasted chillies",
-            "4 chicken thighs, deboned, skin removed and reserved, meat cut into thin strips",
-            "1 tsp caster sugar",
-            "1 tbsp rice wine or sake",
-            "1 tbsp fish sauce",
-            "1 lime, juice only",
-            "1 small bunch Thai basil, chopped",
-            "1 small bunch coriander, stem and leaves, chopped"
-        ],
         "For the chicken skin skewers": [
             "50g/1\u00beoz roasted ground glutinous rice",
             "1 tbsp roasted red chillies, crushed",
@@ -46,7 +35,25 @@
             "\u00bd cucumber, sliced on an angle into oval slices",
             "few sprigs Thai basil, leaves picked",
             "few sprigs coriander, leaves picked"
+        ],
+        "For the spicy lemongrass chicken larb": [
+            "2 tbsp vegetable oil",
+            "1 stalk lemongrass, finely chopped",
+            "1 tbsp crushed roasted chillies",
+            "4 chicken thighs, deboned, skin removed and reserved, meat cut into thin strips",
+            "1 tsp caster sugar",
+            "1 tbsp rice wine or sake",
+            "1 tbsp fish sauce",
+            "1 lime, juice only",
+            "1 small bunch Thai basil, chopped",
+            "1 small bunch coriander, stem and leaves, chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b0424667": "Spring Kitchen with Tom Kerridge"
     },
     "steps": [
         "In a hot wok heat the oil. Add the lemongrass and roasted chillies and cook until just fragrant. Add the chicken meat.",
@@ -59,8 +66,9 @@
         "Thread the chicken skins onto the skewers. Season with the sea salt and white pepper.",
         "Serve the chicken skin skewers with the lemongrass and chicken in a dish garnished with the sliced vegetables, Thai basil and coriander."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spicy lemongrass chicken larb",
     "videos": "[]"
 }

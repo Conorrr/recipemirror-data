@@ -1,34 +1,33 @@
 {
-    "title": "Game pie",
-    "cookTime": "over 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "This pie can be made with any game, a perfect hearty meal that would make a great alternative to a Sunday roast.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00pymg1": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "This pie can be made with any game, a perfect hearty meal that would make a great alternative to a Sunday roast.",
+    "dishes": [
+        "bread",
+        "jelly",
+        "oven-baked_dishes",
+        "pastry",
+        "pickle",
+        "pie",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "making_pastry_lids",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the shortcrust pastry base": [
-            "450g/16oz plain flour",
-            "2 tsp baking powder",
-            "60g/2\u00bdoz unsalted butter, plus extra for greasing the pie tin",
-            "60g/2\u00bdoz lard",
-            "1 free-range egg yolk",
-            "\u00bd tsp salt",
-            "120ml/4\u00bdfl oz water"
+        "For the pastry lid": [
+            "1 packet ready-rolled puff pastry",
+            "1 free-range egg, beaten"
         ],
         "For the pie filling": [
             "4 tbsp vegetable oil",
@@ -46,10 +45,21 @@
             "2 tsp chopped fresh thyme",
             "sea salt flakes and freshly ground black pepper"
         ],
-        "For the pastry lid": [
-            "1 packet ready-rolled puff pastry",
-            "1 free-range egg, beaten"
+        "For the shortcrust pastry base": [
+            "450g/16oz plain flour",
+            "2 tsp baking powder",
+            "60g/2\u00bdoz unsalted butter, plus extra for greasing the pie tin",
+            "60g/2\u00bdoz lard",
+            "1 free-range egg yolk",
+            "\u00bd tsp salt",
+            "120ml/4\u00bdfl oz water"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "7",
+    "serves": "Serves 6",
+    "show": {
+        "b00pymg1": "The Hairy Bikers: Mums Know Best"
     },
     "steps": [
         "For the shortcrust pastry base, mix the flour, baking powder and salt together in a food processor. Add the butter and the egg yolk and pulse until the mixture resembles breadcrumbs. Gradually, with the motor running, add the water until the mixture comes together to form a dough (you may not need all of the water).",
@@ -67,9 +77,9 @@
         "Brush the pastry lid all over with the remaining beaten egg, then bake the pie in the oven for 30 minutes, or until the pastry is golden-brown and risen.",
         "Set aside the pie to cool completely, then serve in thick slices, preferably with pickles."
     ],
-    "howTos": [
-        "making_pastry_lids",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Game pie",
     "videos": "[]"
 }

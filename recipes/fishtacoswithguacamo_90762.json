@@ -1,35 +1,29 @@
 {
-    "title": "Fish tacos with guacamole from Baja California",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "Mexican",
+    "description": "",
+    "dishes": [
+        "bread",
+        "guacamole",
+        "oven-baked_dishes",
+        "salsa",
+        "stock",
+        "taco",
+        "wraps"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the salsa": [
-            "1 red onion, finely chopped",
-            "5 tomatoes, skins and seeds removed, finely chopped",
-            "3-4 chillies, seeds removed and finely chopped",
-            "1 tsp sugar",
-            "1 lime, juice only",
-            "4 tbsp chopped fresh coriander",
-            "pinch salt"
-        ],
         "For the guacamole": [
             "1 large avocado, peeled, halved, stone removed",
             "1 green chilli, seeds removed",
@@ -38,6 +32,15 @@
             "1 tbsp chopped fresh coriander",
             "3 tbsp vegetable oil",
             "\u00bd tsp salt"
+        ],
+        "For the salsa": [
+            "1 red onion, finely chopped",
+            "5 tomatoes, skins and seeds removed, finely chopped",
+            "3-4 chillies, seeds removed and finely chopped",
+            "1 tsp sugar",
+            "1 lime, juice only",
+            "4 tbsp chopped fresh coriander",
+            "pinch salt"
         ],
         "For the taco filling": [
             "2 x 325g/12oz sea bass, filleted",
@@ -53,6 +56,12 @@
             "300ml/10 oz soured cream"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "For the salsa, place all of the salsa ingredients together into a bowl and mix well to combine. Set aside.",
         "For the guacamole, place all of the guacamole ingredients together into a food processor and blend until smooth.",
@@ -62,8 +71,9 @@
         "Dip the strips of fish into the batter, then fry in batches in the oil for 3-4 minutes, or until golden-brown and crisp. Remove with a slotted spoon and drain on kitchen paper.",
         "To serve, lay the tortilla wraps down flat on a plate or flat surface and place some lettuce leaves down the centre of each wrap. Arrange the fried fish over the lettuce, then spoon over some salsa and soured cream. Fold in the sides, roll up as tightly as you can and serve each taco with a dollop of guacamole."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fish tacos with guacamole from Baja California",
     "videos": "[]"
 }

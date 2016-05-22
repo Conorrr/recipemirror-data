@@ -1,26 +1,37 @@
 {
-    "title": "Vegetarian Puy lentil lasagne",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "34",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/puy_lentil_lasagne_23244_16x9.jpg"
-    ],
-    "description": "Try this hearty vegetarian version of a classic lasagne with a rich cheese sauce and earthy braised lentil filling.",
     "author": {
         "cheryl_ferguson": "Cheryl Ferguson"
     },
-    "show": {
-        "b00sy9ws": "The Hairy Bikers' Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Try this hearty vegetarian version of a classic lasagne with a rich cheese sauce and earthy braised lentil filling.",
+    "dishes": [
+        "crumble",
+        "lasagne",
+        "oven-baked_dishes",
+        "ragu",
+        "salad",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/puy_lentil_lasagne_23244_16x9.jpg"
+    ],
     "ingredients": {
+        "For the cheese sauce": [
+            "110g/4oz butter",
+            "85g/3\u00bd oz plain flour",
+            "850ml/1\u00bd pints milk",
+            "6 tbsp double cream",
+            "110g/4oz grated cheddar",
+            "sea salt and freshly ground black pepper"
+        ],
         "For the lentil rag\u00f9": [
             "knob of butter, for greasing and frying",
             "200g/7oz Puy lentils",
@@ -35,15 +46,13 @@
             "6-9 sheets lasagne",
             "handful grated Parmesan (or vegetarian alternative)",
             "green salad, to serve"
-        ],
-        "For the cheese sauce": [
-            "110g/4oz butter",
-            "85g/3\u00bd oz plain flour",
-            "850ml/1\u00bd pints milk",
-            "6 tbsp double cream",
-            "110g/4oz grated cheddar",
-            "sea salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "34",
+    "serves": "Serves 4",
+    "show": {
+        "b00sy9ws": "The Hairy Bikers' Cook Off"
     },
     "steps": [
         "Preheat the oven to 180C/350F/gas 4. Generously grease a baking dish with butter.",
@@ -55,8 +64,9 @@
         "To assemble the lasagne, spread a quarter of the lentil rag\u00f9 over the base of the greased baking dish, cover this with a quarter of the cheese sauce, then arrange a third of the lasagne sheets over the top. Repeat, finishing with a layer of cheese sauce. Sprinkle over the parmesan cheese and bake in the oven for 30-40 minutes, or until bubbling and golden-brown.",
         "Serve with a green salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Vegetarian Puy lentil lasagne",
     "videos": "[]"
 }

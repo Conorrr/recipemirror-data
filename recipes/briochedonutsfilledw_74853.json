@@ -1,26 +1,35 @@
 {
-    "title": "Brioche donuts filled with apple comp\u00f4te",
-    "cookTime": "less than 10 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 8-10",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "richard_corrigan": "Richard Corrigan"
     },
-    "show": {
-        "p0077hpp": "Full on Food"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "brioche",
+        "compote",
+        "pie",
+        "prepare-ahead_desserts",
+        "stew"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the apple compote": [
+            "10g/\u00bdoz butter",
+            "6 Bramley apples, peeled and chopped",
+            "150g/5\u00bcoz caster sugar",
+            "1 cinnamon stick",
+            "1 lemon, zest only"
+        ],
         "For the brioche donuts": [
             "30g/1\u00bcoz fresh yeast",
             "25ml/1fl oz water",
@@ -33,14 +42,13 @@
             "6 tsp caster sugar",
             "1 tsp cinnamon",
             "groundnut oil, for deepfrying"
-        ],
-        "For the apple compote": [
-            "10g/\u00bdoz butter",
-            "6 Bramley apples, peeled and chopped",
-            "150g/5\u00bcoz caster sugar",
-            "1 cinnamon stick",
-            "1 lemon, zest only"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 8-10",
+    "show": {
+        "p0077hpp": "Full on Food"
     },
     "steps": [
         "Prepare the dough by adding a few drops of the water to the yeast and leave at room temperature to become frothy and creamy.",
@@ -54,9 +62,9 @@
         "Combine the caster sugar with the cinnamon.",
         "When the donuts are cool enough to handle, roll them in the cinnamon sugar, then take the bottle of apple compote and push gently into each donut, squeezing to release a dollop of compote."
     ],
-    "howTos": [
-        "kneading",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Brioche donuts filled with apple comp\u00f4te",
     "videos": "[]"
 }

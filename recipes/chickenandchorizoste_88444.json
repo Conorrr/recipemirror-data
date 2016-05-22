@@ -1,24 +1,22 @@
 {
-    "title": "Chicken and chorizo with paprika and red wine",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "10",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenandchorizoste_88444_16x9.jpg"
-    ],
-    "description": "Looking for a tasty meal for one? This simple dish combines the wonderful flavours of chorizo and paprika and is topped with some fresh herbs to make it extra special.",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Looking for a tasty meal for one? This simple dish combines the wonderful flavours of chorizo and paprika and is topped with some fresh herbs to make it extra special.",
+    "dishes": [
+        "oven-baked_dishes",
+        "sausage",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenandchorizoste_88444_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,6 +34,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 1",
+    "show": {
+        
+    },
     "steps": [
         "Preheat the oven to 180C/160C Fan/Gas 4.",
         "In a bowl, combine the smoked paprika, chilli powder, salt and pepper. Open out the chicken thigh so that it's flat and roll in the spice mixture to coat. Heat 1 tablespoon of the olive oil in an ovenproof frying pan and fry the chicken until golden-brown on all sides. Transfer to the oven and roast for 10-12 minutes, or until cooked through.",
@@ -43,8 +47,9 @@
         "Remove the chicken from the oven and cut into strips. Add the chicken and chives to the pan and stir to combine.",
         "Put the chicken mixture in a shallow dish, garnish with fresh parsley and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken and chorizo with paprika and red wine",
     "videos": "[]"
 }

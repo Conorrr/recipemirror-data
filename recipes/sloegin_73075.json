@@ -1,24 +1,21 @@
 {
-    "title": "Sloe gin",
-    "cookTime": "no cooking required",
-    "prepTime": "overnight",
-    "serves": "",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "Gather sloes from blackthorn hedgerows after the first November frosts. There's only one place for them: the gin bottle.",
     "author": {
         "gerard_baker": "Gerard Baker"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Gather sloes from blackthorn hedgerows after the first November frosts. There's only one place for them: the gin bottle.",
+    "dishes": [
+        "sloe_gin",
+        "stew"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -27,6 +24,12 @@
             "Gin"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "8",
+    "serves": "",
+    "show": {
+        
+    },
     "steps": [
         "Wash the sloes and prick them all over with a pin. Alternatively pop them in a freezer overnight to split the skins.",
         "Put all the sloes into a large jar that you will be able to seal tightly - an old sweet jar or large Kilner jar is best.",
@@ -34,8 +37,9 @@
         "Seal your jar and leave for two to three months, shaking the jar gently every few days to help dissolve the sugar.",
         "When you are ready to drink it, strain the sloes from the gin and pour into clean bottles, popping a few sloes into each for effect. The leftover sloes are a welcome addition to game stews."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sloe gin",
     "videos": "[]"
 }

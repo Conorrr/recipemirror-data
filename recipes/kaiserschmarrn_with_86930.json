@@ -1,33 +1,26 @@
 {
-    "title": "Kaiserschmarrn with strawberry sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "Kaiserschmarrn is an extremely delicious Austrian pudding, like a thick, light, buttery pancake, served with fruit.",
     "author": {
         "wolfgang_puck": "Wolfgang Puck"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Kaiserschmarrn is an extremely delicious Austrian pudding, like a thick, light, buttery pancake, served with fruit.",
+    "dishes": [
+        "icing",
+        "oven-baked_dishes",
+        "pancake",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the strawberry sauce": [
-            "950g/2lb 2oz strawberries, hulled and quartered",
-            "175g/6oz caster sugar",
-            "175ml/6fl oz orange juice",
-            "1 star anise, lightly toasted",
-            "1 tbsp Grand Marnier or other orange liqueur"
-        ],
         "For the kaiserschmarrn": [
             "50g/2oz butter, softened to butter the pans",
             "175g/6oz caster sugar, plus 40g/1\u00bdoz for dusting the pans",
@@ -40,7 +33,20 @@
             "8 free-range eggs, whites only",
             "\u00bd tsp cream of tartar",
             "60g/2\u00bcoz icing sugar, for dusting"
+        ],
+        "For the strawberry sauce": [
+            "950g/2lb 2oz strawberries, hulled and quartered",
+            "175g/6oz caster sugar",
+            "175ml/6fl oz orange juice",
+            "1 star anise, lightly toasted",
+            "1 tbsp Grand Marnier or other orange liqueur"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "9",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For strawberry sauce, set aside 350g/12oz of the strawberries and 60g/2\u00bcoz of the sugar.",
@@ -63,8 +69,9 @@
         "Add the reserved 350g/12oz cut strawberries, and stir through the sauce to coat. To serve, divide the strawberry sauce among four serving plates.",
         "Using a serving spoon divide each one into two portions and spoon on top of the strawberry sauce. Dust with icing sugar and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Kaiserschmarrn with strawberry sauce",
     "videos": "[]"
 }

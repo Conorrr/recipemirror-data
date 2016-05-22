@@ -1,26 +1,34 @@
 {
-    "title": "Pork sausages with pineapple salsa and rocket salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "9",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pork_sausages_with_43956_16x9.jpg"
-    ],
-    "description": "It sounds a little out there - but it's not much different to gammon and pineapple. Add chilli sauce to spice things up!",
     "author": {
         "michel_roux": "Michel Roux"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "It sounds a little out there - but it's not much different to gammon and pineapple. Add chilli sauce to spice things up!",
+    "dishes": [
+        "bun",
+        "caramel",
+        "oven-baked_dishes",
+        "roux",
+        "salad",
+        "salsa",
+        "sauce",
+        "sausage"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pork_sausages_with_43956_16x9.jpg"
+    ],
     "ingredients": {
+        "For the rocket salad with lemon vinaigrette": [
+            "1 lemon, juice only",
+            "4 tbsp olive oil",
+            "2 bunches rocket"
+        ],
         "For the sausages and salsa": [
             "8 pork sausages",
             "1 tbsp soft brown sugar",
@@ -30,12 +38,13 @@
             "1 lime, juice only",
             "2 tbsp finely chopped fresh coriander",
             "salt, to taste"
-        ],
-        "For the rocket salad with lemon vinaigrette": [
-            "1 lemon, juice only",
-            "4 tbsp olive oil",
-            "2 bunches rocket"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the sausages and salsa, preheat the oven to 180C/375F/Gas 5.",
@@ -45,8 +54,9 @@
         "Tip the pineapple into a medium bowl and add the chilli, sambal oelek, lime juice and coriander. Mix together and add salt, to taste.",
         "To serve, whisk together the lemon and olive oil in a small bowl and tip the rocket into a salad bowl. Dress the salad with the lemon and olive oil and serve it with the sausages and the salsa."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pork sausages with pineapple salsa and rocket salad",
     "videos": "[]"
 }

@@ -1,26 +1,36 @@
 {
-    "title": "Chicken koftas with yoghurt dressing",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Greek",
+    "description": "",
+    "dishes": [
+        "flatbread",
+        "lamb_kofta"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the yoghurt dressing": [
+            "200g/7fl oz Greek-style yoghurt",
+            "2 tbsp chopped fresh mint",
+            "\u00bd cucumber, seeds removed, grated",
+            "\u00bd lime, juice only"
+        ],
+        "To serve": [
+            "flatbread",
+            "rice, cooked according to packet instructions",
+            "1 tbsp chopped fresh parsley",
+            "lemon wedges"
+        ],
         "default": [
             "1 tbsp olive oil",
             "1 onion, finely chopped",
@@ -35,19 +45,13 @@
             "salt and freshly ground black pepper",
             "butter, melted, to baste",
             "lemon juice, to baste"
-        ],
-        "For the yoghurt dressing": [
-            "200g/7fl oz Greek-style yoghurt",
-            "2 tbsp chopped fresh mint",
-            "\u00bd cucumber, seeds removed, grated",
-            "\u00bd lime, juice only"
-        ],
-        "To serve": [
-            "flatbread",
-            "rice, cooked according to packet instructions",
-            "1 tbsp chopped fresh parsley",
-            "lemon wedges"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the grill to its highest setting.",
@@ -62,8 +66,9 @@
         "To serve, place a flatbread onto each plate. Add a couple of spoonfuls of cooked rice to each flatbread, then top with a kofta.",
         "Drizzle with the yoghurt dressing, sprinkle with chopped parsley and garnish with lemon wedges."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken koftas with yoghurt dressing",
     "videos": "[]"
 }

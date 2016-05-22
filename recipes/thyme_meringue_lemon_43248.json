@@ -1,34 +1,45 @@
 {
-    "title": "Thyme meringue, lemon curd, celery sorbet and celeriac",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Try something new at home by pulling out one or two of the easier elements of this tricky recipe. Equipment and preparation: for this recipe you will need an ice cream maker, a blender and a dehydrator.",
     "author": {
         "lisa_allen": "Lisa Allen"
     },
-    "show": {
-        "b0424667": "Spring Kitchen with Tom Kerridge"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Try something new at home by pulling out one or two of the easier elements of this tricky recipe. Equipment and preparation: for this recipe you will need an ice cream maker, a blender and a dehydrator.",
+    "dishes": [
+        "meringue",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "sorbet"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
         "For the celeriac crisps": [
             "\u00bd celeriac, peeled, thinly sliced on a mandoline"
+        ],
+        "For the celery and apple juice": [
+            "250ml/9fl oz apple juice",
+            "50ml/2fl oz elderflower cordial",
+            "3 sticks celery, peeled and chopped"
         ],
         "For the lemon and celery sorbet": [
             "250g/9oz lemon juice",
             "50g/1\u00beoz glucose",
             "113g/4oz celery, chopped",
             "250g/9oz sugar"
+        ],
+        "For the lemon curd": [
+            "125g/4\u00bdoz lemon juice",
+            "125g/4\u00bdoz sugar",
+            "125g/4\u00bdoz free-range eggs (about two large eggs)",
+            "iced water"
         ],
         "For the salt baked celeriac": [
             "300g/10\u00bdoz fine sea salt",
@@ -37,11 +48,6 @@
             "150g/5\u00bdoz glucose",
             "100ml/3\u00bdfl oz elderflower cordial"
         ],
-        "For the celery and apple juice": [
-            "250ml/9fl oz apple juice",
-            "50ml/2fl oz elderflower cordial",
-            "3 sticks celery, peeled and chopped"
-        ],
         "For the thyme meringue": [
             "60g/2\u00bcoz egg whites",
             "120g/4\u00bdoz caster sugar",
@@ -49,16 +55,16 @@
             "\u00bd tsp white wine vinegar",
             "\u00bd tsp fresh thyme, finely chopped"
         ],
-        "For the lemon curd": [
-            "125g/4\u00bdoz lemon juice",
-            "125g/4\u00bdoz sugar",
-            "125g/4\u00bdoz free-range eggs (about two large eggs)",
-            "iced water"
-        ],
         "To serve": [
             "cream, semi-whipped",
             "1 tbsp chopped thyme"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b0424667": "Spring Kitchen with Tom Kerridge"
     },
     "steps": [
         "For the celeriac crisps, preheat a deep-fat fryer to 150C/300F (CAUTION: hot oil can be dangerous. Do not leave unattended.)",
@@ -83,8 +89,9 @@
         "Cut the meringues in half horizontally and place the bottom halves in the centre of the bowls. Pipe the cream on top of the meringue. Spike pieces of the leftover meringue into the cream randomly. Sprinkle with thyme.",
         "Place the celeriac crisps on top, randomly scatter the diced celeriac and finish with the cold celery and a spoonful of sorbet."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Thyme meringue, lemon curd, celery sorbet and celeriac",
     "videos": "[]"
 }

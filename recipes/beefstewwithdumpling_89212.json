@@ -1,35 +1,28 @@
 {
-    "title": "Beef stew with dumplings",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "12",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "john_hurt": "John Hurt"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "beef_stew",
+        "pie",
+        "sauce",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the dumplings": [
-            "55g/2oz fresh suet, finely chopped, or 85g/3oz shredded suet",
-            "175g/6oz plain flour, plus extra for dusting",
-            "1 tsp salt",
-            "\u00bd tsp baking powder",
-            "1 tsp horseradish sauce (optional)",
-            "1 handful fresh parsley, chopped (optional)",
-            "dash milk or water"
-        ],
         "For the beef stew": [
             "2kg/4\u00bdlb beef brisket",
             "3 onions, thickly sliced",
@@ -39,7 +32,22 @@
             "1 bay leaf",
             "6 sprigs fresh parsley",
             "water or beef stock, to cover the meat"
+        ],
+        "For the dumplings": [
+            "55g/2oz fresh suet, finely chopped, or 85g/3oz shredded suet",
+            "175g/6oz plain flour, plus extra for dusting",
+            "1 tsp salt",
+            "\u00bd tsp baking powder",
+            "1 tsp horseradish sauce (optional)",
+            "1 handful fresh parsley, chopped (optional)",
+            "dash milk or water"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Serves 4",
+    "show": {
+        "b00701fw": "A Taste of My Life"
     },
     "steps": [
         "For the dumplings, mix the suet, flour, salt and baking powder together in a bowl and stir in the horseradish and parsley, if using. Gradually add milk or water to the mixture, mixing well to form a soft dough. With floured hands, roll small pieces of the dough into dumpling-sized balls. Set aside.",
@@ -47,8 +55,9 @@
         "Cover with a lid, reduce the heat to its lowest and simmer for at least 1-2 hours, or until the meat is tender. Add the dumplings to the stew 20 minutes before the stew is finished cooking. Cover with a lid and do not lift again until the end of the cooking time, or until the dumplings are cooked through.",
         "To serve, spoon the stew and dumplings into bowls."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef stew with dumplings",
     "videos": "[]"
 }

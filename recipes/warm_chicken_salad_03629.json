@@ -1,24 +1,22 @@
 {
-    "title": "Warm chicken salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/warm_chicken_salad_03629_16x9.jpg"
-    ],
-    "description": "A gorgeous chicken salad that can be served warm or cold, perfect for a quick healthy supper. As part of an Intermittent diet plan, 1 serving provides 2 of your 6 daily vegetable portions. This meal provides 205 kcal per portion.",
     "author": {
         "justine_pattison": "Justine Pattison"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "If you want to serve your salad cold, let the chicken and peppers cool completely before adding to the salad. Cover and chill. Dress with the balsamic vinegar and lemon juice just before serving."
+    "cookTime": "10 to 30 mins",
+    "description": "A gorgeous chicken salad that can be served warm or cold, perfect for a quick healthy supper. As part of an Intermittent diet plan, 1 serving provides 2 of your 6 daily vegetable portions. This meal provides 205 kcal per portion.",
+    "dishes": [
+        "chicken_salad",
+        "pie",
+        "salad"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/warm_chicken_salad_03629_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,14 +32,21 @@
             "sea salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 2",
+    "show": {
+        
+    },
     "steps": [
         "Season the chicken pieces on both sides with salt and pepper. Spray a large non-stick frying pan with oil and place over a high heat. Cook the chicken pieces for three minutes on each side or until lightly browned and cooked through. Transfer to a plate.",
         "Spray the pan with a little more oil and cook the pepper for three minutes on each side or until lightly charred and beginning to soften.",
         "Arrange the lettuce leaves, watercress, tomatoes, cucumber and pepper on two plates.",
         "Slice the chicken breasts and scatter on top of salad. Drizzle with the balsamic vinegar and squeeze the lemon juice over. Season with black pepper and serve."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If you want to serve your salad cold, let the chicken and peppers cool completely before adding to the salad. Cover and chill. Dress with the balsamic vinegar and lemon juice just before serving."
     ],
+    "title": "Warm chicken salad",
     "videos": "[]"
 }

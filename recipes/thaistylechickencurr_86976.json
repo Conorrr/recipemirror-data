@@ -1,31 +1,27 @@
 {
-    "title": "Thai-style chicken curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "24",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "jean-christophe_novelli": "Jean-Christophe Novelli"
     },
-    "show": {
-        "b007zn94": "Take on the Takeaway"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "",
+    "dishes": [
+        "bun",
+        "curry",
+        "pie",
+        "sauce",
+        "thai_chicken_curry"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the rice": [
-            "100g/3\u00bdoz Thai jasmine rice",
-            "1 lime, cut in half",
-            "250ml/8\u00befl oz boiling water"
-        ],
         "For the chicken": [
             "4 boneless, skinless chicken thighs or 2 skinless chicken breasts, cut into bite-sized pieces",
             "1 lime, juice only",
@@ -38,6 +34,11 @@
             "2.5cm/1in piece fresh lemongrass",
             "small bunch coriander, leaves only, chopped"
         ],
+        "For the rice": [
+            "100g/3\u00bdoz Thai jasmine rice",
+            "1 lime, cut in half",
+            "250ml/8\u00befl oz boiling water"
+        ],
         "For the sauce": [
             "2 tbsp finely chopped fresh ginger",
             "1 onion, peeled and chopped",
@@ -48,6 +49,12 @@
             "1 tsp sugar",
             "1 x 400ml/14fl oz can reduced-fat coconut milk, contents stirred"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "24",
+    "serves": "Serves 2",
+    "show": {
+        "b007zn94": "Take on the Takeaway"
     },
     "steps": [
         "For the rice, place the rice and the lime halves into a large saucepan and pour in the boiling water. Leave to soak for 4-5 minutes to allow the rice to soften.",
@@ -63,8 +70,9 @@
         "If you want a smooth sauce, strain the sauce through a sieve into a clean bowl and discard the solid ingredients. Otherwise, you can leave the unstrained sauce as it is.",
         "To serve, divide the rice between two plates and place half of the chicken alongside. Spoon some of the sauce over each pile of rice, spoon extra sauce over the chicken and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Thai-style chicken curry",
     "videos": "[]"
 }

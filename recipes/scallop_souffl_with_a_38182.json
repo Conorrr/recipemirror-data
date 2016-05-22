@@ -1,26 +1,33 @@
 {
-    "title": "Scallop souffl\u00e9 with a shellfish sauce, lobster, langoustine, clams and mussels.",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "A seafood extravaganza. If you don't want to cook the whole shebang, just try the individual souffl\u00e9s with scallops.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b04v6210": "Christmas Kitchen with James Martin"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A seafood extravaganza. If you don't want to cook the whole shebang, just try the individual souffl\u00e9s with scallops.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "sauce",
+        "seafood",
+        "souffle",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "preparing_ramekins",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the clams and mussels": [
+            "400g/14oz clams, or cockles, cleaned (discard any that remain open after rinsing)",
+            "400g/14oz mussels, cleaned, beards removed (discard any that remain open after rinsing)",
+            "100ml/3\u00bdfl oz white wine"
+        ],
         "For the scallop souffl\u00e9s": [
             "40g/1\u00bdoz butter, plus extra for greasing",
             "40g/1\u00bdoz plain flour, plus extra for dusting",
@@ -45,11 +52,6 @@
             "75ml/2\u00bdfl oz double cream",
             "salt and freshly ground black pepper"
         ],
-        "For the clams and mussels": [
-            "400g/14oz clams, or cockles, cleaned (discard any that remain open after rinsing)",
-            "400g/14oz mussels, cleaned, beards removed (discard any that remain open after rinsing)",
-            "100ml/3\u00bdfl oz white wine"
-        ],
         "For the vegetables": [
             "8 baby turnips, trimmed, halved top to bottom",
             "12 baby carrots, trimmed",
@@ -57,6 +59,12 @@
             "15g/\u00bdoz butter",
             "3 tbsp fresh chervil, to garnish"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b04v6210": "Christmas Kitchen with James Martin"
     },
     "steps": [
         "For the souffl\u00e9s, preheat the oven to 180C/160C Fan/Gas 4.",
@@ -77,9 +85,9 @@
         "Heat another frying pan, add 15g/\u00bdoz of butter and fry the lobster meat and langoustine meat for about 1-2 minutes on each side.",
         "To serve, place a souffl\u00e9 on each serving plate. Garnish with the cooked shellfish, baby vegetables, sauce and chervil."
     ],
-    "howTos": [
-        "preparing_ramekins",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Scallop souffl\u00e9 with a shellfish sauce, lobster, langoustine, clams and mussels.",
     "videos": "[]"
 }

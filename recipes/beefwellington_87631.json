@@ -1,23 +1,24 @@
 {
-    "title": "Beef Wellington",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4-6",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "beef_wellington",
+        "oven-baked_dishes",
+        "pastry",
+        "pate",
+        "pie"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -33,6 +34,12 @@
             "2 tbsp butter"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "9",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Season the beef with the salt and freshly ground black pepper and sprinkle with the thyme.",
         "Heat a large frying pan until very hot, then drizzle with the oil. Add the beef and cook briefly, turning occasionally, until golden-brown on all sides.",
@@ -46,8 +53,9 @@
         "Transfer to the oven to bake for 30 minutes, until the pastry is golden-brown and the beef is cooked to your liking. (A meat thermometer is a good guide in this case.)",
         "Remove from the oven and allow to rest for five minutes, then serve in slices with your chosen vegetables."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef Wellington",
     "videos": "[]"
 }

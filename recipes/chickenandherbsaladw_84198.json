@@ -1,26 +1,31 @@
 {
-    "title": "Chicken and herb salad with onion mayonnaise",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "mayonnaise",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the onion mayonnaise": [
+            "3 free-range egg yolks",
+            "2 tbsp caramelised onions from a jar",
+            "\u00bd tsp white wine vinegar",
+            "salt and freshly ground black pepper",
+            "150ml/5fl oz olive oil"
+        ],
         "For the salad": [
             "1 ready-cooked chicken breast, roughly chopped",
             "handful fresh sage",
@@ -29,22 +34,22 @@
             "handful fresh mint",
             "handful fresh dill",
             "handful fresh basil"
-        ],
-        "For the onion mayonnaise": [
-            "3 free-range egg yolks",
-            "2 tbsp caramelised onions from a jar",
-            "\u00bd tsp white wine vinegar",
-            "salt and freshly ground black pepper",
-            "150ml/5fl oz olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the salad, mix together the chicken and herbs in a clean bowl, and set aside.",
         "For the onion mayonnaise, place the egg yolks, onion and white wine vinegar into a food processor and blend until smooth. Season, to taste, with salt and freshly ground black pepper. Once it looks slightly thickened begin to gradually add in the olive oil, blending constantly.",
         "To serve, mix the onion mayonnaise into the salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken and herb salad with onion mayonnaise",
     "videos": "[]"
 }

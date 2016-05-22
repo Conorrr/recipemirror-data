@@ -1,24 +1,21 @@
 {
-    "title": "Irish coffee",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Don't stir the cream into the coffee, but drink it through the cream and for a change, you can use your favourite liquer instead of whiskey.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "Irish",
+    "description": "Don't stir the cream into the coffee, but drink it through the cream and for a change, you can use your favourite liquer instead of whiskey.",
+    "dishes": [
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,14 +25,21 @@
             "hot strong coffee to fill the glass"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        
+    },
     "steps": [
         "Use warmed coffee glasses and add the whiskey.",
         "Add the sugar and dissolve in the whiskey.",
         "Add the coffee and stir well.",
         "Float the whipped cream on top and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Irish coffee",
     "videos": "[]"
 }

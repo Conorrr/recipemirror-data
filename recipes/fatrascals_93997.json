@@ -1,26 +1,35 @@
 {
-    "title": "Fat rascals",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "10",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fatrascals_93997_16x9.jpg"
-    ],
-    "description": "Baking a batch of fruity little scones for tea is really easy... though maybe less so if you rope in the little ones!",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Baking a batch of fruity little scones for tea is really easy... though maybe less so if you rope in the little ones!",
+    "dishes": [
+        "bread",
+        "cake",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "rock_cake",
+        "scone",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "rubbing_in",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fatrascals_93997_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "100g/3\u00bdoz clotted cream",
+            "70g/2\u00bdoz strawberry jam",
+            "50g/1\u00beoz unsalted butter"
+        ],
         "default": [
             "150g/5\u00bcoz plain flour",
             "150g/5\u00bcoz self-raising flour",
@@ -39,12 +48,13 @@
             "2 free-range eggs, beaten",
             "50g/1\u00beoz glac\u00e9 cherries",
             "50g/1\u00beoz blanched almonds"
-        ],
-        "To serve": [
-            "100g/3\u00bdoz clotted cream",
-            "70g/2\u00bdoz strawberry jam",
-            "50g/1\u00beoz unsalted butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 6",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Line a baking tray with greaseproof paper.",
@@ -56,9 +66,9 @@
         "Bake in the oven for 15-20 minutes, or until golden-brown. Remove from the oven and set aside to cool slightly.",
         "Serve warm with the clotted cream, jam and butter."
     ],
-    "howTos": [
-        "rubbing_in",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Fat rascals",
     "videos": "[]"
 }

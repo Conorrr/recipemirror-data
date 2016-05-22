@@ -1,24 +1,23 @@
 {
-    "title": "Sweet potato cake",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "phil_vickery": "Phil Vickery"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "cake",
+        "crumble",
+        "gratin",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "chiffonade"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,6 +29,12 @@
             "55g/2oz Wensleydale, crumbled"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "In an oiled gratin dish, line the base with a quarter of the potato slices.",
@@ -38,8 +43,9 @@
         "Place into the oven for ten minutes, or until cooked through.",
         "To serve, turn out the gratin onto a plate and top with crumbled Wensleydale."
     ],
-    "howTos": [
-        "chiffonade"
+    "tips": [
+        
     ],
+    "title": "Sweet potato cake",
     "videos": "[]"
 }

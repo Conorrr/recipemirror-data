@@ -1,36 +1,39 @@
 {
-    "title": "Haggis two ways",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 2-4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Whip up a delicious spiced haggis soup served with a haggis and potato cake - all topped with a fried egg and spiced ketchup.",
     "author": {
         "cyrus_todiwala": "Cyrus Todiwala"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        "For the crushed potatoes, to get the best result soak the uncooked potatoes for 1-2 hours in cold water. This reduces the starch and makes smoother mash."
+    "cookTime": "1 to 2 hours",
+    "description": "Whip up a delicious spiced haggis soup served with a haggis and potato cake - all topped with a fried egg and spiced ketchup.",
+    "dishes": [
+        "bread",
+        "cake",
+        "casserole",
+        "haggis",
+        "ketchup",
+        "mayonnaise",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the soup": [
-            "1 tbsp unsalted butter, softened",
-            "\u00bd tsp cumin seeds",
-            "5cm/2in piece fresh root ginger, peeled and finely chopped",
-            "1 small onion, finely chopped",
-            "250-300g/9-10\u00bdoz haggis containing grouse, pheasant and duck (such as Macsween 3-bird haggis), skin removed, contents crushed",
-            "500ml/18fl oz stock or water",
-            "100ml/3\u00bdfl oz single cream",
-            "\u00bd tbsp freshly chopped coriander (both leaves and stalks)",
-            "salt and pepper"
+        "For the crushed potatoes": [
+            "400-500g/14oz-1lb 2oz floury potatoes, peeled and cut into thick slices",
+            "\u00bd tsp cumin seeds, finely crushed",
+            "1 fresh green chilli, finely chopped",
+            "pinch dried mango powder (optional)"
         ],
         "For the haggis and potato cakes": [
             "1 tbsp oil or butter, for frying",
@@ -46,23 +49,34 @@
             "200-250g/7-9oz dried white breadcrumbs (or semolina)",
             "100g/3\u00bdoz plain flour"
         ],
+        "For the soup": [
+            "1 tbsp unsalted butter, softened",
+            "\u00bd tsp cumin seeds",
+            "5cm/2in piece fresh root ginger, peeled and finely chopped",
+            "1 small onion, finely chopped",
+            "250-300g/9-10\u00bdoz haggis containing grouse, pheasant and duck (such as Macsween 3-bird haggis), skin removed, contents crushed",
+            "500ml/18fl oz stock or water",
+            "100ml/3\u00bdfl oz single cream",
+            "\u00bd tbsp freshly chopped coriander (both leaves and stalks)",
+            "salt and pepper"
+        ],
         "For the spiced tomato ketchup": [
             "5-6 tbsp tomato ketchup",
             "1-2 green chillies, chopped",
             "few shakes Tabasco, to taste",
             "1 tsp English mustard"
         ],
-        "For the crushed potatoes": [
-            "400-500g/14oz-1lb 2oz floury potatoes, peeled and cut into thick slices",
-            "\u00bd tsp cumin seeds, finely crushed",
-            "1 fresh green chilli, finely chopped",
-            "pinch dried mango powder (optional)"
-        ],
         "To serve": [
             "2-4 whole free-range eggs (1 per person)",
             "crusty rolls or toast",
             "salad leaves"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 2-4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the soup, melt the butter in a saucepan. When foaming, add the cumin seeds and after 30-40 seconds add the ginger and the onion. Gently fry for 1-2 minutes, or until the onion is soft and translucent. Add the haggis and fry for 3-4 minutes. Pour in the stock, bring to the boil and simmer for 5-6 minutes. Then remove from the heat.",
@@ -80,8 +94,9 @@
         "Fry the eggs in the same pan (you may need to remove some of the oil). Let the white crisp-up a bit, but ensure the yolk remains soft.",
         "To serve, reheat the soup, add the chopped coriander and put into bowls. Put a dollop of spiced ketchup on each potato cake. Top with a fried egg and serve with a hot crusty roll or toast, some salad leaves and the soup."
     ],
-    "howTos": [
-        
+    "tips": [
+        "For the crushed potatoes, to get the best result soak the uncooked potatoes for 1-2 hours in cold water. This reduces the starch and makes smoother mash."
     ],
+    "title": "Haggis two ways",
     "videos": "[]"
 }

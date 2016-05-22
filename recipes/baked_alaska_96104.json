@@ -1,26 +1,32 @@
 {
-    "title": "Baked Alaska",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "Try Mary Berry\u2019s take on this retro classic. For special occasions sprinkle the sponge with a cherry or orange liqueur before spreading with the jam.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b016pbs9": "Great British Food Revival"
-    },
-    "tips": [
-        "It is essential to assemble the baked Alaska quickly once you have made the meringue. The ice cream scoops can be laid out on greaseproof paper on a tray in the freezer ready to assemble on the sponge."
+    "cookTime": "over 2 hours",
+    "description": "Try Mary Berry\u2019s take on this retro classic. For special occasions sprinkle the sponge with a cherry or orange liqueur before spreading with the jam.",
+    "dishes": [
+        "baked_alaska",
+        "cake",
+        "custard",
+        "jam",
+        "meringue",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the meringue": [
+            "3 free-range egg whites",
+            "175g/6oz caster sugar"
+        ],
         "For the vanilla ice cream": [
             "300ml/\u00bd pint double cream",
             "300ml/\u00bd pint milk",
@@ -28,14 +34,16 @@
             "3 free-range egg yolks",
             "100g/3\u00bdoz caster sugar"
         ],
-        "For the meringue": [
-            "3 free-range egg whites",
-            "175g/6oz caster sugar"
-        ],
         "To assemble": [
             "2-3 tbsp cherry jam",
             "20cm/8in circle ready-made sponge cake about 2.5cm/1in thick"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 8",
+    "show": {
+        "b016pbs9": "Great British Food Revival"
     },
     "steps": [
         "For the vanilla ice cream, pour the cream and milk into a heavy-based saucepan. Split the vanilla pod lengthways and scrape out the seeds; then add the seeds and pod to the pan. Heat the mixture until just below boiling point.",
@@ -48,8 +56,9 @@
         "The baked Alaska can now be frozen until needed.",
         "To cook the baked Alaska, preheat the oven to 200C/400F/Gas 6 and bake for 8-10 minutes, or until golden-brown all over."
     ],
-    "howTos": [
-        "whisking_egg_whites"
+    "tips": [
+        "It is essential to assemble the baked Alaska quickly once you have made the meringue. The ice cream scoops can be laid out on greaseproof paper on a tray in the freezer ready to assemble on the sponge."
     ],
+    "title": "Baked Alaska",
     "videos": "[p00zwdf7:p00zwdfd]"
 }

@@ -1,26 +1,32 @@
 {
-    "title": "Roasted pumpkin soup",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Tom Kitchin uses every part of the pumpkin in this delicious, full-of-flavour soup that's served in an acorn squash.",
     "author": {
         "tom_kitchin": "Tom Kitchin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Tom Kitchin uses every part of the pumpkin in this delicious, full-of-flavour soup that's served in an acorn squash.",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock",
+        "vegetable_soup"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pumpkin seeds": [
+            "1 tbsp olive oil",
+            "seeds from the pumpkin (see above), cleaned",
+            "pinch ground cinnamon"
+        ],
         "For the pumpkin stock": [
             "trimmings and skin from the pumpkin (see below)",
             "700ml/1\u00bc pints chicken stock or vegetable stock",
@@ -45,16 +51,17 @@
             "2 tbsp clear honey",
             "4 tbsp double cream"
         ],
-        "For the pumpkin seeds": [
-            "1 tbsp olive oil",
-            "seeds from the pumpkin (see above), cleaned",
-            "pinch ground cinnamon"
-        ],
         "To serve": [
             "3 rashers pancetta, fried until crisp (optional)",
             "50ml/2fl oz cr\u00e8me fra\u00eeche",
             "2 tbsp chopped fresh chives"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the pumpkin stock, add all of the stock ingredients to a saucepan and bring to the boil. Reduce the heat and simmer for one hour. Remove the pan from the heat, set aside to rest for 20 minutes, then strain the stock through a sieve.",
@@ -72,8 +79,9 @@
         "Meanwhile, for the pumpkin seeds, heat the oil in a frying pan over a medium heat and add the cleaned pumpkin seeds and cinnamon. Fry the seeds for 1-2 minutes, or until just toasted.",
         "To serve, place one cooked acorn squash onto each of four serving plates. Ladle in the pumpkin soup, then top with a slice of crispy pancetta (if using), a dollop of cr\u00e8me fra\u00eeche, the toasted pumpkin seeds and a sprinkling of chives. Cover the squash with the lid and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roasted pumpkin soup",
     "videos": "[]"
 }

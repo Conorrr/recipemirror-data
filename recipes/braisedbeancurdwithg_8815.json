@@ -1,34 +1,26 @@
 {
-    "title": "Braised bean curd with garlic and pepper",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A great vegetarian dish as part of a Chinese banquet or just a nice midweek supper on its own with steamed rice.",
     "author": {
         "the_vegetarian_society": "The Vegetarian Society"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Chinese",
+    "description": "A great vegetarian dish as part of a Chinese banquet or just a nice midweek supper on its own with steamed rice.",
+    "dishes": [
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the marinade": [
-            "3 cloves garlic, crushed",
-            "2 tsp coriander root, chopped",
-            "2 tsp light soy sauce",
-            "1 tsp sugar",
-            "4 tbsp groundnut oil",
-            "1 tsp sesame oil"
-        ],
         "For the bean curd": [
             "1 packet firm tofu (bean curd), cut in half horizontally, then each piece cut into 8 triangles (16 triangles in total)",
             "6 tbsp groundnut oil",
@@ -42,7 +34,21 @@
             "For garnish:",
             "\u00bd cucumber, halved and sliced thinly",
             "4 spring onions, shredded"
+        ],
+        "For the marinade": [
+            "3 cloves garlic, crushed",
+            "2 tsp coriander root, chopped",
+            "2 tsp light soy sauce",
+            "1 tsp sugar",
+            "4 tbsp groundnut oil",
+            "1 tsp sesame oil"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "To make the marinade, grind all the ingredients together in a pestle and mortar to form a paste.",
@@ -52,8 +58,9 @@
         "Remove the pan from the heat and stir in the black pepper and sesame oil.",
         "Tranfer to a serving dish and garnish with cucumber and spring onions."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Braised bean curd with garlic and pepper",
     "videos": "[]"
 }

@@ -1,24 +1,22 @@
 {
-    "title": "Greek salad",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "23",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/greeksalad_13055_16x9.jpg"
-    ],
-    "description": "Transport yourself to Greece with a classic salad of fresh, crisp summer vegetables and tangy feta.",
     "author": {
         "david_laris": "David Laris"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "Greek",
+    "description": "Transport yourself to Greece with a classic salad of fresh, crisp summer vegetables and tangy feta.",
+    "dishes": [
+        "greek_salad",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/greeksalad_13055_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,11 +32,18 @@
             "50ml/3 tbsp red wine vinegar"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "23",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Mix all the ingredients in a bowl."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Greek salad",
     "videos": "[]"
 }

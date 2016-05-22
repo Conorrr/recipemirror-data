@@ -1,26 +1,31 @@
 {
-    "title": "Mexican bean stew",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "13",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mexican_bean_stew_75910_16x9.jpg"
-    ],
-    "description": "A simple, vegetarian, spiced bean stew makes a quick and filling midweek dinner. With a GI of 52 this meal is high protein, low GI and provides 492 kcal per portion.",
     "author": {
         "justine_pattison": "Justine Pattison"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A simple, vegetarian, spiced bean stew makes a quick and filling midweek dinner. With a GI of 52 this meal is high protein, low GI and provides 492 kcal per portion.",
+    "dishes": [
+        "salsa",
+        "sauce",
+        "stew",
+        "stir-fries",
+        "veggie_stew"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mexican_bean_stew_75910_16x9.jpg"
+    ],
     "ingredients": {
+        "For the salsa": [
+            "1 tomato, roughly chopped",
+            "4 tbsp roughly chopped freshly coriander",
+            "2 spring onions, thinly sliced"
+        ],
         "default": [
             "low-calorie cooking spray",
             "1 onion, thinly sliced",
@@ -36,12 +41,13 @@
             "100g/3\u00bdoz fat-free Greek yoghurt, to serve",
             "1 lime, cut into wedges, to serve",
             "salt and freshly ground black pepper"
-        ],
-        "For the salsa": [
-            "1 tomato, roughly chopped",
-            "4 tbsp roughly chopped freshly coriander",
-            "2 spring onions, thinly sliced"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "13",
+    "serves": "Serves 2",
+    "show": {
+        
     },
     "steps": [
         "Spray a large frying pan with oil and place over a medium heat. Add the onion and garlic and cook gently for three minutes, stirring regularly. Add the pepper and cook for two minutes.",
@@ -50,8 +56,9 @@
         "To make the salsa, mix the tomato, coriander and spring onions together in a bowl.",
         "Drain the rice and divide between two plates. Spoon the beans over and scatter with the salsa. Serve with the yoghurt and lime wedges."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mexican bean stew",
     "videos": "[]"
 }

@@ -1,24 +1,22 @@
 {
-    "title": "Quick-fix omelette",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "When you need a good meal in a hurry, nothing beats a veggie omelette. Serve with salad.",
     "author": {
         "charlotte_stirling-ree": "Charlotte Stirling-Reed"
     },
-    "show": {
-        "b0725d98": "Food: Truth or Scare"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "When you need a good meal in a hurry, nothing beats a veggie omelette. Serve with salad.",
+    "dishes": [
+        "charlotte",
+        "omelette",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,14 +29,21 @@
             "side salad of your choice, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b0725d98": "Food: Truth or Scare"
+    },
     "steps": [
         "Boil the potatoes for about 10 minutes, or until slightly soft",
         "Heat the oil in a frying pan. Once hot, add the cooked potatoes, mushrooms and peppers (or other vegetables of your choice). Once the vegetables are soft and slightly browned, transfer to a bowl.",
         "Add the beaten eggs to the pan. When the eggs have set slightly, return the vegetable mixture to the pan. Sprinkle some cheese on top",
         "Flip the omelette to cook the other side, or fold the omelette in half. Serve with salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Quick-fix omelette",
     "videos": "[]"
 }

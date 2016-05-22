@@ -1,31 +1,31 @@
 {
-    "title": "Veal fillet on pea mayonnaise with tomato and green pepper vinaigrette",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A tasty combination of pea-flavoured mayonnaise and a rich vinaigrette to accompany veal steak with asparagus.",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b04gtx26": "A Taste of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A tasty combination of pea-flavoured mayonnaise and a rich vinaigrette to accompany veal steak with asparagus.",
+    "dishes": [
+        "mayonnaise",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 tbsp oil",
-            "85g/3oz butter",
-            "4 veal fillet steaks",
-            "12 stems asparagus"
+        "For the pea mayonnaise": [
+            "2 egg yolks",
+            "1 tsp Dijon mustard",
+            "\u00bd lemon, juice only",
+            "140ml/\u00bc pint rapeseed oil",
+            "140ml/\u00bc pint groundnut oil",
+            "55g/2oz pur\u00e9e of cooked peas",
+            "sea salt and freshly ground black pepper"
         ],
         "For the vinaigrette": [
             "3 tbsp chicken stock",
@@ -36,15 +36,18 @@
             "4 tbsp groundnut oil",
             "1 tbsp white wine vinegar"
         ],
-        "For the pea mayonnaise": [
-            "2 egg yolks",
-            "1 tsp Dijon mustard",
-            "\u00bd lemon, juice only",
-            "140ml/\u00bc pint rapeseed oil",
-            "140ml/\u00bc pint groundnut oil",
-            "55g/2oz pur\u00e9e of cooked peas",
-            "sea salt and freshly ground black pepper"
+        "default": [
+            "1 tbsp oil",
+            "85g/3oz butter",
+            "4 veal fillet steaks",
+            "12 stems asparagus"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b04gtx26": "A Taste of Britain"
     },
     "steps": [
         "Heat the oil and 55g/2oz butter in a large frying pan. Cook the veal to your liking, then remove from the pan and keep warm.",
@@ -55,8 +58,9 @@
         "Melt the remaining butter in a frying pan. Add the tips and chopped stalks and cook for three minutes.",
         "To serve, put the mayonnaise in the middle of the plate and sprinkle over the chopped asparagus stalks. Place the veal on top and dribble the vinaigrette around the outside of the plate. Finish with asparagus tips."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Veal fillet on pea mayonnaise with tomato and green pepper vinaigrette",
     "videos": "[]"
 }

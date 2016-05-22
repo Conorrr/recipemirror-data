@@ -1,23 +1,20 @@
 {
-    "title": "Eggy bread",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "brioche"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -30,14 +27,21 @@
             "drizzle of extra virgin olive oil"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Dip the brioche slice in the beaten eggs.",
         "Gently melt the butter in a non-stick frying pan and fry the brioche slice for 2-3 minutes on each side, until golden.",
         "Transfer to a serving plate and arrange the smoked salmon on top.",
         "Sprinkle with freshly ground black pepper and drizzle with oil to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Eggy bread",
     "videos": "[]"
 }

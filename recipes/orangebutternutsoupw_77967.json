@@ -1,26 +1,37 @@
 {
-    "title": "Orange and butternut soup with Stilton cro\u00fbtons and chutney",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "chutney",
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chutney": [
+            "1 red pepper, sliced",
+            "3tbsp brown sugar",
+            "1 banana shallot, chopped",
+            "4tbsp red wine vinegar",
+            "2tbsp mint, chopped"
+        ],
+        "For the croutons": [
+            "3 slices of toast",
+            "1tbsp olive oil",
+            "40g/1\u00bdoz apricot Stilton"
+        ],
         "For the soup": [
             "25g/1oz unsalted butter",
             "400ml/14fl oz hot vegetable stock",
@@ -31,19 +42,13 @@
         ],
         "To serve": [
             "single cream"
-        ],
-        "For the croutons": [
-            "3 slices of toast",
-            "1tbsp olive oil",
-            "40g/1\u00bdoz apricot Stilton"
-        ],
-        "For the chutney": [
-            "1 red pepper, sliced",
-            "3tbsp brown sugar",
-            "1 banana shallot, chopped",
-            "4tbsp red wine vinegar",
-            "2tbsp mint, chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "In a medium saucepan bring the vegetable stock to a simmer.",
@@ -55,8 +60,9 @@
         "Add the red pepper, shallot, sugar, vinegar and mint. Cook for three to four minutes until thick and serve in a bowl.",
         "To serve, pour the soup in a bowl and drizzle with cream. Spoon some of the chutney over the cheesy croutons and place a few of the croutons onto the soup."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Orange and butternut soup with Stilton cro\u00fbtons and chutney",
     "videos": "[]"
 }

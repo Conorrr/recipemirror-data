@@ -1,37 +1,28 @@
 {
-    "title": "Sea bass in salt crust with tomato and anchovy sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "john_burton_race": "John Burton Race"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bun",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "chopping_vegetables",
+        "trimming_pastry_case"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 x 600g/1lb5oz sea bass"
-        ],
-        "For the salt crust": [
-            "500g/1lb2oz plain flour",
-            "300g/10\u00bdoz table salt",
-            "150ml/5fl oz egg white",
-            "100ml/3\u00bdfl oz water",
-            "10g/\u00bdoz dried fennel seed",
-            "1 egg, to glaze the pastry"
-        ],
         "For the butter sauce": [
             "2 shallots",
             "60g/2oz butter",
@@ -51,12 +42,29 @@
             "salt and pepper",
             "4g/1 tsp chopped parsley"
         ],
+        "For the salt crust": [
+            "500g/1lb2oz plain flour",
+            "300g/10\u00bdoz table salt",
+            "150ml/5fl oz egg white",
+            "100ml/3\u00bdfl oz water",
+            "10g/\u00bdoz dried fennel seed",
+            "1 egg, to glaze the pastry"
+        ],
         "To serve with the sea bass": [
             "baby leeks",
             "potatoes",
             "lemon wedges to garnish",
             "watercress to garnish"
+        ],
+        "default": [
+            "2 x 600g/1lb5oz sea bass"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "To make the salt crust, Sieve the flour into a food processor mixing bowl and add the salt and fennel.",
@@ -90,9 +98,9 @@
         "Add the tomato and parsley garnish to the warm butter sauce.",
         "Pour the finished sauce into a sauceboat and serve immediately."
     ],
-    "howTos": [
-        "chopping_vegetables",
-        "trimming_pastry_case"
+    "tips": [
+        
     ],
+    "title": "Sea bass in salt crust with tomato and anchovy sauce",
     "videos": "[]"
 }

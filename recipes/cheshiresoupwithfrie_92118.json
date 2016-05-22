@@ -1,24 +1,27 @@
 {
-    "title": "Cheshire soup with fried cheese sarnies",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "bun",
+        "sandwich",
+        "soup",
+        "stir-fries",
+        "stock",
+        "vegetable_soup"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the Cheshire soup": [
@@ -38,6 +41,12 @@
             "1 small bunch watercress, leaves only, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 6-8",
+    "show": {
+        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
+    },
     "steps": [
         "For the Cheshire soup, bring the stock to the boil. Add the potatoes and simmer for 4-5 minutes, then add the carrots, leeks and oats and continue to boil for a further 4-5 minutes, or until the vegetables are tender.",
         "Using a potato masher, carefully crush the vegetables in the pan until broken down.",
@@ -46,8 +55,9 @@
         "Heat the remaining butter and all of the olive oil in a frying pan over a medium heat. When the butter is foaming, add one of the cheese sandwiches and fry for 2-3 minutes on both sides, or until the bread is toasted and golden-brown on both sides and the cheese is starting to melt. Remove from the pan and keep warm until ready to serve. Repeat the process with the remaining cheese sandwiches.",
         "To serve, ladle the Cheshire soup into six to eight serving bowls. Sprinkle over the sliced leeks and watercress. Cut the fried cheese sarnies into squares and serve alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cheshire soup with fried cheese sarnies",
     "videos": "[]"
 }

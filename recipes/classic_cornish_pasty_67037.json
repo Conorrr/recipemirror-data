@@ -1,34 +1,28 @@
 {
-    "title": "Classic Cornish pasty",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 4 large pasties",
-    "recommendations": "65",
-    "images": [
-        
-    ],
-    "description": "An all-in-one meal that\u2019s portable, filling and delicious.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "Download the Get Baking booklet for easy-to-follow recipes, tips and advice."
+    "cookTime": "30 mins to 1 hour",
+    "description": "An all-in-one meal that\u2019s portable, filling and delicious.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "pasty",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "crimping_pasty",
+        "kneading",
+        "rolling_pastry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "500g/1lb 1oz strong bread flour",
-            "120g/4oz vegetable shortening or suet",
-            "1 tsp salt",
-            "25g/1oz margarine or butter",
-            "175ml/6fl oz cold water",
-            "1 free-range egg, beaten with a little salt (for glazing)"
-        ],
         "For the filling": [
             "350g/12oz good-quality beef skirt, rump steak or braising steak",
             "350g/12oz waxy potatoes",
@@ -36,7 +30,21 @@
             "175g/6oz onions",
             "salt and freshly ground black pepper",
             "knob of butter or margarine"
+        ],
+        "For the pastry": [
+            "500g/1lb 1oz strong bread flour",
+            "120g/4oz vegetable shortening or suet",
+            "1 tsp salt",
+            "25g/1oz margarine or butter",
+            "175ml/6fl oz cold water",
+            "1 free-range egg, beaten with a little salt (for glazing)"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "65",
+    "serves": "Makes 4 large pasties",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Tip the flour into the bowl and add the shortening, a pinch of salt, the margarine or butter and all of the water.",
@@ -52,10 +60,9 @@
         "Carefully fold the pastry over, join the edges and push with your fingers to seal. Crimp the edge to make sure the filling is held inside \u2013 either by using a fork, or by making small twists along the sealed edge. Traditionally Cornish pasties have around 20 crimps. When you\u2019ve crimped along the edge, fold the end corners underneath.",
         "Put the pasties onto the baking tray and brush the top of each pasty with the egg and salt mixture. Bake on the middle shelf of the oven for about 45 minutes or until the pasties are golden-brown. If your pasties aren't browning, increase the oven temperature by 10C/25F for the last 10 minutes of cooking time."
     ],
-    "howTos": [
-        "crimping_pasty",
-        "kneading",
-        "rolling_pastry"
+    "tips": [
+        "Download the Get Baking booklet for easy-to-follow recipes, tips and advice."
     ],
+    "title": "Classic Cornish pasty",
     "videos": "[p00b1l9g:p00b1l9k]"
 }

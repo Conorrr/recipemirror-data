@@ -1,24 +1,23 @@
 {
-    "title": "Coq au vin",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "80",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/coq_au_vin_87115_16x9.jpg"
-    ],
-    "description": "Impress your mates at a dinner party \u2013 or just show off at home \u2013 with this easy eight-stage coq au vin recipe made with white wine and served with creamy mash.",
     "author": {
         "bill_granger": "Bill Granger"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        "For special occasions Bill likes to blend the potatoes until smooth in a food mixer with a paddle attachment rather than mashing them."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Impress your mates at a dinner party \u2013 or just show off at home \u2013 with this easy eight-stage coq au vin recipe made with white wine and served with creamy mash.",
+    "dishes": [
+        "coq_au_vin",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/coq_au_vin_87115_16x9.jpg"
     ],
     "ingredients": {
         "For the coq au vin": [
@@ -43,6 +42,12 @@
             "sea salt, to taste"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "80",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "For the coq au vin, preheat the oven to 220C/430F/Gas 7. Arrange the chicken pieces in a large roasting tin and scatter with the bacon, shallots, thyme, rosemary and chilli flakes. Season, to taste, with sea salt and freshly ground black pepper.",
         "Drizzle the contents of the roasting tray with two tablespoons of the olive oil and roast in the oven for 20 minutes.",
@@ -53,8 +58,9 @@
         "Heat the milk and butter in a small pan over a medium heat, until the butter has melted (do not allow the mixture to boil). Beat the hot butter and milk into the potatoes, then fold in the cr\u00e8me fra\u00eeche or cream. Season, to taste, with sea salt.",
         "To serve, pile some of the cr\u00e8me fra\u00eeche mash onto each of four serving plates and spoon the coq au vin on top."
     ],
-    "howTos": [
-        
+    "tips": [
+        "For special occasions Bill likes to blend the potatoes until smooth in a food mixer with a paddle attachment rather than mashing them."
     ],
+    "title": "Coq au vin",
     "videos": "[]"
 }

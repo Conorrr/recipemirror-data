@@ -1,26 +1,41 @@
 {
-    "title": "Maldivian prawn curry with flatbreads",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "It may not feel like the Maldives outside, but you can bring the tropical Maldivian flavours to your kitchen with this tasty prawn curry.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "It may not feel like the Maldives outside, but you can bring the tropical Maldivian flavours to your kitchen with this tasty prawn curry.",
+    "dishes": [
+        "bread",
+        "curry",
+        "flatbread",
+        "jam",
+        "pie",
+        "prawn_curry",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the flatbread": [
+            "200g/7oz plain flour",
+            "\u00bd tsp salt",
+            "2 tbsp melted ghee"
+        ],
+        "For the prawn curry": [
+            "3 dates, chopped",
+            "200ml/7fl oz coconut milk",
+            "75g/2\u00beoz unsalted butter",
+            "600g/1lb 5oz tiger prawns, heads and shell removed, tails on and cleaned"
+        ],
         "For the spice paste": [
             "3 small onions, finely chopped",
             "20g/\u00beoz grated fresh root ginger",
@@ -37,21 +52,16 @@
             "1 tbsp chilli powder",
             "1 tbsp curry powder"
         ],
-        "For the prawn curry": [
-            "3 dates, chopped",
-            "200ml/7fl oz coconut milk",
-            "75g/2\u00beoz unsalted butter",
-            "600g/1lb 5oz tiger prawns, heads and shell removed, tails on and cleaned"
-        ],
-        "For the flatbread": [
-            "200g/7oz plain flour",
-            "\u00bd tsp salt",
-            "2 tbsp melted ghee"
-        ],
         "To serve": [
             "2 tbsp red amaranth cress (available online), optional",
             "2 tbsp coriander cress"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "First make the spice paste. Put the ingredients and a little water in a blender. Blend, adding more water if needed, until a smooth paste is formed.",
@@ -62,8 +72,9 @@
         "Roll out each piece into a circle and place on a hot griddle pan one at a time. Turn the bread over once charred marks have appeared and brush with the melted ghee.",
         "Place the curry in a shallow serving bowl and garnish with the red amaranth and coriander cress. Place the bread in a separate bowl and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Maldivian prawn curry with flatbreads",
     "videos": "[]"
 }

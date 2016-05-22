@@ -1,24 +1,22 @@
 {
-    "title": "Easy jam ice cream",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 tub",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "p0077hxk": "Saturday Brunch"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "ice_cream",
+        "jam",
+        "preserves"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,12 +26,19 @@
             "cones, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Makes 1 tub",
+    "show": {
+        "p0077hxk": "Saturday Brunch"
+    },
     "steps": [
         "Mix all the above ingredients together and transfer to a freeze-safe container.",
         "Freeze for about four hours or overnight. Remove from freezer one hour before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Easy jam ice cream",
     "videos": "[]"
 }

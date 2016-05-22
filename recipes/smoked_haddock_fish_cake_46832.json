@@ -1,26 +1,39 @@
 {
-    "title": "Smoked haddock fish cake with curry mayonnaise and watercress",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "These chunky fish cakes have a delightfully crisp crumb and surprise in the middle.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "These chunky fish cakes have a delightfully crisp crumb and surprise in the middle.",
+    "dishes": [
+        "bread",
+        "bun",
+        "cake",
+        "curry",
+        "fish_cakes",
+        "jam",
+        "mayonnaise",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the curry mayonnaise": [
+            "3 medium free-range egg yolks",
+            "1 tsp white wine vinegar",
+            "1 tsp Dijon mustard",
+            "300ml/10fl oz vegetable oil",
+            "1 tsp curry powder",
+            "\u00bd tsp turmeric",
+            "1 lemon, juice only"
+        ],
         "For the fish cakes": [
             "225g/8oz floury potatoes, peeled and cut into chunks",
             "1 tbsp chopped flatleaf parsley",
@@ -34,21 +47,18 @@
             "110g/3\u00beoz Japanese panko breadcrumbs",
             "salt and freshly ground black pepper"
         ],
-        "For the curry mayonnaise": [
-            "3 medium free-range egg yolks",
-            "1 tsp white wine vinegar",
-            "1 tsp Dijon mustard",
-            "300ml/10fl oz vegetable oil",
-            "1 tsp curry powder",
-            "\u00bd tsp turmeric",
-            "1 lemon, juice only"
-        ],
         "For the garnish": [
             "1 bunch fresh watercress",
             "1 tbsp red wine vinegar",
             "1 tsp Dijon mustard",
             "3 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Cook the potatoes in a pan of boiling water for 15 minutes, or until tender. Drain, then return the potatoes to the pan and heat for one minute to drive off any excess moisture. Mash the potatoes, or pass through a potato ricer into a bowl. Set aside to cool slightly.",
@@ -60,8 +70,9 @@
         "For the garnish, place the watercress in a large bowl. Place the vinegar, mustard and oil in a small bowl and whisk to combine. Just before serving add the dressing and mix.",
         "Place the mayonnaise in the centre of each plate and top with the fish cakes and garnish with dressed watercress."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Smoked haddock fish cake with curry mayonnaise and watercress",
     "videos": "[]"
 }

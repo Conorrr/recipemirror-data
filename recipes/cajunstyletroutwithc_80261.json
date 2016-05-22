@@ -1,36 +1,24 @@
 {
-    "title": "Cajun-style trout with courgette salad and tomato sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "phil_vickery": "Phil Vickery"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the trout": [
-            "\u00bd tsp cumin seeds",
-            "\u00bd tsp coriander seeds",
-            "\u00bd tsp paprika",
-            "\u00bd tsp ground cinnamon",
-            "\u00bd tsp cayenne pepper",
-            "150g/5\u00bdoz trout fillet, skin on",
-            "1 tbsp olive oil",
-            "\u00bd lemon, juice only"
-        ],
         "For the courgette salad": [
             "2 tbsp olive oil",
             "\u00bd lemon juice only",
@@ -42,7 +30,23 @@
             "4 tbsp olive oil",
             "2 tbsp chopped fresh basil",
             "salt and freshly ground black pepper"
+        ],
+        "For the trout": [
+            "\u00bd tsp cumin seeds",
+            "\u00bd tsp coriander seeds",
+            "\u00bd tsp paprika",
+            "\u00bd tsp ground cinnamon",
+            "\u00bd tsp cayenne pepper",
+            "150g/5\u00bdoz trout fillet, skin on",
+            "1 tbsp olive oil",
+            "\u00bd lemon, juice only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -56,8 +60,9 @@
         "Pour the tomato mixture into a small saucepan over a medium heat. Bring to the boil, then reduce the heat to simmer for three minutes and season, to taste, with salt and freshly ground black pepper.",
         "To serve, place the courgette salad in the centre of a plate, place the trout on top and spoon over some of the sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cajun-style trout with courgette salad and tomato sauce",
     "videos": "[]"
 }

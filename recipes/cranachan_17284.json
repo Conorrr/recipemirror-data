@@ -1,24 +1,22 @@
 {
-    "title": "Cranachan",
-    "cookTime": "less than 10 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 40",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This classic Scottish recipe works just as well with raspberries. You'll need a very large bowl to whip the cream, or do it in batches.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b013y0nz": "Hairy Bikers' Meals on Wheels"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "British",
+    "description": "This classic Scottish recipe works just as well with raspberries. You'll need a very large bowl to whip the cream, or do it in batches.",
+    "dishes": [
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,14 +27,21 @@
             "1.8kg/4lb fresh strawberries, hulled, chopped"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 40",
+    "show": {
+        "b013y0nz": "Hairy Bikers' Meals on Wheels"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas mark 6.",
         "Place the oats on two large baking trays, sprinkle the sugar over them and mix together. Bake in the oven for 7-8 minutes, or until lightly toasted.",
         "Whisk the double cream until it reaches soft peaks. Stir in the yoghurt and almost all of the fresh fruit then fold in the toasted oats.",
         "Place in serving dishes, top with the remaining fruit and chill until ready to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cranachan",
     "videos": "[]"
 }

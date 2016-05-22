@@ -1,26 +1,36 @@
 {
-    "title": "Beef Wellington",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8-10",
-    "recommendations": "8",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beefwellington_2063_16x9.jpg"
-    ],
-    "description": "Nothing says 'special occasion' quite like a traditional beef Wellington. It's pure pleasure on a plate.",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Nothing says 'special occasion' quite like a traditional beef Wellington. It's pure pleasure on a plate.",
+    "dishes": [
+        "beef_wellington",
+        "oven-baked_dishes",
+        "pancake",
+        "pastry",
+        "pate",
+        "pie",
+        "stuffing"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beefwellington_2063_16x9.jpg"
+    ],
     "ingredients": {
+        "For the mushroom stuffing (duxelles)": [
+            "55g/2oz unsalted butter",
+            "150g/5oz shallots, peeled and finely diced",
+            "250g/9oz flat black mushrooms, chopped",
+            "3 tbsp double cream",
+            "salt and pepper",
+            "1 packet shop bought, ready rolled (all butter)puff pastry"
+        ],
         "default": [
             "1 piece of beef fillet - approx 1.35kg/ 3lb",
             "a little olive oil",
@@ -29,15 +39,13 @@
             "175g/6oz chicken liver pate",
             "4 shop bought pancakes",
             "1 small free-range egg, beaten"
-        ],
-        "For the mushroom stuffing (duxelles)": [
-            "55g/2oz unsalted butter",
-            "150g/5oz shallots, peeled and finely diced",
-            "250g/9oz flat black mushrooms, chopped",
-            "3 tbsp double cream",
-            "salt and pepper",
-            "1 packet shop bought, ready rolled (all butter)puff pastry"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 8-10",
+    "show": {
+        
     },
     "steps": [
         "Heat the oil and butter in a non-stick frying pan, when hot add the seasoned beef and seal on sides. Remove from the pan and allow to cool completely.",
@@ -51,8 +59,9 @@
         "Place it in the oven for 10 minutes, then reduce the heat to 190C/375F/Gas 5 and continue to cook for another 20 minutes, until the pastry is golden.",
         "Remove from the oven to a carving board and allow to rest for 5 minutes before carving into thick slices."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef Wellington",
     "videos": "[]"
 }

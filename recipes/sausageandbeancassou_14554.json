@@ -1,26 +1,34 @@
 {
-    "title": "Sausage and bean cassoulet with potato cakes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 3",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "cake",
+        "cassoulet",
+        "jam",
+        "oven-baked_dishes",
+        "sausage",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the potato cakes": [
+            "225g/8oz ready-made mash potato",
+            "1 eating apple, peeled and grated",
+            "knob of butter and oil, for frying"
+        ],
         "default": [
             "1 tbsp olive oil",
             "2 cloves garlic, chopped",
@@ -35,12 +43,13 @@
             "55g/2oz breadcrumbs",
             "2 tbsp chopped fresh parsley",
             "salt and freshly ground black pepper"
-        ],
-        "For the potato cakes": [
-            "225g/8oz ready-made mash potato",
-            "1 eating apple, peeled and grated",
-            "knob of butter and oil, for frying"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 3",
+    "show": {
+        "p0077hsg": "Housecall"
     },
     "steps": [
         "Preheat oven to 190C/375F/Gas 5.",
@@ -51,8 +60,9 @@
         "Mix the apple with the potato and season, shape into a cake.",
         "Heat the butter and oil in a frying pan and add the potato cakes. Cook for 2-3 minutes on each side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sausage and bean cassoulet with potato cakes",
     "videos": "[]"
 }

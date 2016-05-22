@@ -1,32 +1,28 @@
 {
-    "title": "Individual beef Wellington",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "ham",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "200g/7oz plain flour, plus extra for dusting",
-            "100g/3\u00bdoz butter",
-            "1 free-range egg, beaten",
-            "1-2 tbsp cold water, to bind"
-        ],
         "For the filling": [
             "3 tbsp olive oil",
             "150g/5\u00bdoz fillet steak",
@@ -36,6 +32,12 @@
             "1 slice Parma ham",
             "1 free-range egg, beaten"
         ],
+        "For the pastry": [
+            "200g/7oz plain flour, plus extra for dusting",
+            "100g/3\u00bdoz butter",
+            "1 free-range egg, beaten",
+            "1-2 tbsp cold water, to bind"
+        ],
         "For the red wine sauce": [
             "25g/1oz butter",
             "1 banana shallot, finely chopped",
@@ -43,6 +45,12 @@
             "1 tbsp fresh thyme, chopped",
             "175ml/6fl oz red wine"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -58,9 +66,9 @@
         "For the red wine sauce, heat the butter in a small pan and add the shallot, garlic and thyme. Fry for 3-4 minutes, then add the red wine and bring to the boil. Cook for 4-5 minutes to reduce the liquid.",
         "To serve, place the beef Wellington onto a plate and cut open to show the filling. Spoon the red wine sauce around and serve."
     ],
-    "howTos": [
-        "kneading",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Individual beef Wellington",
     "videos": "[]"
 }

@@ -1,26 +1,31 @@
 {
-    "title": "Bombay potato and spinach pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "12",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bombay_potato_and_62186_16x9.jpg"
-    ],
-    "description": "Take the curry-house classic to the next level and bake it all in a crisp, filo pie. Serve with a salad.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Take the curry-house classic to the next level and bake it all in a crisp, filo pie. Serve with a salad.",
+    "dishes": [
+        "curry",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bombay_potato_and_62186_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "Greek-style yoghurt",
+            "sesame seeds"
+        ],
         "default": [
             "200ml/7fl oz vegetable oil",
             "2 onions, sliced",
@@ -37,11 +42,13 @@
             "270g/9\u00bdoz pack filo pastry, cut in 15-20 sheets",
             "50g/2oz butter, melted",
             "1 tbsp honey"
-        ],
-        "To serve": [
-            "Greek-style yoghurt",
-            "sesame seeds"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Serves 8",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -56,8 +63,9 @@
         "Using a sharp knife, cut a criss-cross pattern into the top layer of pastry. Place in the oven for 30-40 minutes, or until the pastry layers are crisp and pale golden-brown.",
         "To serve, spoon a portion of the pie onto each plate. sppon the yoghurt alongside and sprinkle with sesame seeds."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Bombay potato and spinach pie",
     "videos": "[]"
 }

@@ -1,26 +1,36 @@
 {
-    "title": "Salmon, scallop and mackerel pie with green salad and honey dressing",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A luxury fish pie made from mackerel stuffed with salmon mousse, layered with scallops and baked in puff pastry.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A luxury fish pie made from mackerel stuffed with salmon mousse, layered with scallops and baked in puff pastry.",
+    "dishes": [
+        "fish_pie",
+        "jam",
+        "mousse",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the green salad and honey dressing": [
+            "50g/1\u00beoz honey",
+            "50ml/2fl oz red vinegar",
+            "4 baby gem lettuce heads, washed and leaves separated",
+            "100g/3\u00bdoz French green beans, blanched",
+            "4 heritage tomatoes, cut into quarters"
+        ],
         "For the puff pastry": [
             "250g/9oz plain flour, plus extra for dusting",
             "250g/9oz unsalted very cold butter, cut into small cubes",
@@ -37,14 +47,13 @@
             "4 scallops, cleaned and sliced",
             "1 tbsp chopped fresh tarragon, leaves only",
             "1 tbsp chopped fresh dill, leaves only"
-        ],
-        "For the green salad and honey dressing": [
-            "50g/1\u00beoz honey",
-            "50ml/2fl oz red vinegar",
-            "4 baby gem lettuce heads, washed and leaves separated",
-            "100g/3\u00bdoz French green beans, blanched",
-            "4 heritage tomatoes, cut into quarters"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the puff pastry, place the flour in a mound on a clean work surface and make a well in the centre.",
@@ -65,8 +74,9 @@
         "Place the lettuce, beans and tomatoes in a large glass bowl, pour over the honey dressing and mix.",
         "To serve, cut the mackerel parcels in half and stand the tail halves on end. Serve the dressed salad alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salmon, scallop and mackerel pie with green salad and honey dressing",
     "videos": "[]"
 }

@@ -1,26 +1,26 @@
 {
-    "title": "Spinach and lentil cakes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "cake",
+        "curry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "Greek-style yoghurt"
+        ],
         "default": [
             "150g/5\u00bcoz spinach, chopped",
             "85g/3oz Puy lentils, cooked",
@@ -29,18 +29,22 @@
             "2 tbsp plain flour",
             "pinch chilli flakes",
             "1 tbsp oil"
-        ],
-        "To serve": [
-            "Greek-style yoghurt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Mix the spinach, lentils, curry powder, egg, flour and chilli flakes together in a bowl. Form the mixture into two patties",
         "Heat the oil in a frying pan and fry the patties for 2-3 minutes on each side until crisp and golden.",
         "Serve with Greek-style yoghurt."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spinach and lentil cakes",
     "videos": "[]"
 }

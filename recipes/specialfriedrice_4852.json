@@ -1,24 +1,24 @@
 {
-    "title": "Special fried rice",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "25",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/specialfriedrice_4852_16x9.jpg"
-    ],
-    "description": "James Martin\u2019s version of this takeaway favourite is fast, easy, uses up your leftovers and goes easy on the washing up.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        "This recipe is great for using up leftover ingredients and can eb adapted to suit what you have, you could swap the cooked chicken or ham for cooked prawns or pork."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Chinese",
+    "description": "James Martin\u2019s version of this takeaway favourite is fast, easy, uses up your leftovers and goes easy on the washing up.",
+    "dishes": [
+        "fried_rice",
+        "ham",
+        "jam",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/specialfriedrice_4852_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,6 +35,12 @@
             "salt and pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "25",
+    "serves": "Serves 1",
+    "show": {
+        "p0077hsg": "Housecall"
+    },
     "steps": [
         "Heat the vegetable and sesame oil in a wok or large frying pan until it very hot. Add the garlic and ginger and cook briefly, stirring all the time.",
         "Add the chilled rice. Season with salt and pepper and stir fry for about 5 minutes on a high heat.",
@@ -42,8 +48,9 @@
         "Add the peas, ham and chicken to the wok and warm through.",
         "Put the fried rice in a bowl and serve."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This recipe is great for using up leftover ingredients and can eb adapted to suit what you have, you could swap the cooked chicken or ham for cooked prawns or pork."
     ],
+    "title": "Special fried rice",
     "videos": "[]"
 }

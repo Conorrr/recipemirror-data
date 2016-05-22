@@ -1,26 +1,32 @@
 {
-    "title": "Plum and marzipan tart with orange mascarpone",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Make life easy with this quick baked pudding from The Hairy Bikers. A simple assembly job with impressive results.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00sy9ws": "The Hairy Bikers' Cook Off"
-    },
-    "tips": [
-        "Try using apricots, nectarines, peaches or figs instead of plums when they're in season. A good quality vanilla ice cream can be served with it instead of the orange mascarpone to save time."
+    "cookTime": "10 to 30 mins",
+    "description": "Make life easy with this quick baked pudding from The Hairy Bikers. A simple assembly job with impressive results.",
+    "dishes": [
+        "fruit_tart",
+        "icing",
+        "marzipan",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the orange mascarpone": [
+            "250g/9oz mascarpone",
+            "1 small orange, grated zest and juice only",
+            "1 tbsp orange flower water",
+            "25g/1oz icing sugar"
+        ],
         "For the tart": [
             "flour, for dusting",
             "about 275g/10oz readymade all-butter puff pastry",
@@ -28,13 +34,13 @@
             "500g/1lb 2oz plums, cut in half, stones removed, then each half cut in half again",
             "light muscovado sugar, to taste",
             "1 free-range egg, lightly beaten"
-        ],
-        "For the orange mascarpone": [
-            "250g/9oz mascarpone",
-            "1 small orange, grated zest and juice only",
-            "1 tbsp orange flower water",
-            "25g/1oz icing sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4-6",
+    "show": {
+        "b00sy9ws": "The Hairy Bikers' Cook Off"
     },
     "steps": [
         "For the tart, preheat the oven to 200C/ 400F/gas 6. Line a square or rectangular baking tray with parchment paper.",
@@ -45,8 +51,9 @@
         "Meanwhile, for the orange mascarpone, beat all the orange mascarpone ingredients together.",
         "Serve slices of the hot tart with the cold mascarpone cream."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Try using apricots, nectarines, peaches or figs instead of plums when they're in season. A good quality vanilla ice cream can be served with it instead of the orange mascarpone to save time."
     ],
+    "title": "Plum and marzipan tart with orange mascarpone",
     "videos": "[]"
 }

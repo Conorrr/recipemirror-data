@@ -1,24 +1,23 @@
 {
-    "title": "Classic mushroom risotto",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "Make this full-flavoured Italian classic using robust mushrooms such as Portobello, chestnut or wild mushrooms.",
     "author": {
         "angela_griffin": "Angela Griffin"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "Make this full-flavoured Italian classic using robust mushrooms such as Portobello, chestnut or wild mushrooms.",
+    "dishes": [
+        "risotto",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,6 +32,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b00701fw": "A Taste of My Life"
+    },
     "steps": [
         "Melt the butter in a pan over a medium heat. Add the shallots and garlic and fry until softened but not coloured.",
         "Add the rice, stir well and cook for 1-2 minutes, or until the rice is slightly translucent.",
@@ -42,8 +47,9 @@
         "Once the rice is cooked, but slightly al dente, add an extra knob of butter and the parmesan and stir well.",
         "Season, to taste, with salt and freshly ground black pepper, then spoon into warmed dishes and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Classic mushroom risotto",
     "videos": "[]"
 }

@@ -1,26 +1,31 @@
 {
-    "title": "Stollen",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 10-12",
-    "recommendations": "18",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/stollen_27553_16x9.jpg"
-    ],
-    "description": "A delicious yeasted cake filled with dried fruit and a swirl of marzipan. It takes time to make but is well worth the effort. Equipment and preparation: for this recipe you will need a large baking tray.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "If you have a smaller oven you may want to make two smaller loaves rather than one large one."
+    "cookTime": "1 to 2 hours",
+    "description": "A delicious yeasted cake filled with dried fruit and a swirl of marzipan. It takes time to make but is well worth the effort. Equipment and preparation: for this recipe you will need a large baking tray.",
+    "dishes": [
+        "cake",
+        "christmas_cake",
+        "icing",
+        "marzipan",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/stollen_27553_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "25g/1oz butter, melted",
+            "2 tbsp icing sugar"
+        ],
         "default": [
             "500g/1lb 2oz strong white flour, plus extra for flouring",
             "100g/3\u00bdoz caster sugar",
@@ -38,11 +43,13 @@
             "125g/4oz mixed peel",
             "25g/1oz butter, melted",
             "225g/8oz marzipan"
-        ],
-        "To serve": [
-            "25g/1oz butter, melted",
-            "2 tbsp icing sugar"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "18",
+    "serves": "Serves 10-12",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Put the flour and sugar in a large bowl. Add the yeast on one side of the bowl and the salt on the other. Add the softened butter and 200ml/7fl oz of the milk and stir together.",
@@ -53,8 +60,9 @@
         "Preheat the oven to 190C/375F/Gas 5 (fan 170C).",
         "When the dough is risen, bake for an hour. Remove from the oven, brush with melted butter, and dust with icing sugar. Serve cold."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If you have a smaller oven you may want to make two smaller loaves rather than one large one."
     ],
+    "title": "Stollen",
     "videos": "[]"
 }

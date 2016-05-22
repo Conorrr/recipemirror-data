@@ -1,37 +1,41 @@
 {
-    "title": "Cheesy chips",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1-2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "chips",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "large potato, cut into chunky chips and parboiled",
-            "sea salt and freshly ground black pepper",
-            "5 tbsp olive oil"
-        ],
         "For the cheesey sauce": [
             "100ml/3\u00bdfl oz white wine",
             "sprig fresh thyme",
             "142ml/5fl oz double cream",
             "55g/2oz cheddar cheese, grated"
+        ],
+        "default": [
+            "large potato, cut into chunky chips and parboiled",
+            "sea salt and freshly ground black pepper",
+            "5 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1-2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
@@ -40,8 +44,9 @@
         "For the sauce, pour the wine into a saucepan on a high heat and boil to reduce by half. Add the thyme, cream and cheese and simmer, stirring continously, until the cheese has melted.",
         "To serve, place the chips into a serving bowl and pour over the cheese sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cheesy chips",
     "videos": "[]"
 }

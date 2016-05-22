@@ -1,32 +1,26 @@
 {
-    "title": "Christmas pavlova",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 12-15",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Mary's pavlova is topped with pretty berries, but most fruits work well so feel free to use what's in season. It's a great dessert for Christmas because it can be made well ahead.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "The pavlova can be made up to 1 month ahead and stored: wrap it in cling film and then foil and store in a cool place."
+    "cookTime": "1 to 2 hours",
+    "description": "Mary's pavlova is topped with pretty berries, but most fruits work well so feel free to use what's in season. It's a great dessert for Christmas because it can be made well ahead.",
+    "dishes": [
+        "icing",
+        "meringue",
+        "oven-baked_dishes",
+        "pavlova",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pavlova": [
-            "6 large free-range egg whites",
-            "350g/12oz caster sugar",
-            "1 tsp white wine vinegar",
-            "1 tsp cornflour"
-        ],
         "For the filling": [
             "600ml/20fl oz double cream",
             "1 tsp vanilla bean paste",
@@ -37,7 +31,19 @@
             "50g/1\u00beoz pomegranate seeds",
             "a few mint leaves, to decorate (optional)",
             "icing sugar, for dusting"
+        ],
+        "For the pavlova": [
+            "6 large free-range egg whites",
+            "350g/12oz caster sugar",
+            "1 tsp white wine vinegar",
+            "1 tsp cornflour"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 12-15",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 160C/140C Fan/Gas 3. Line a large baking tray with baking parchment and draw a 30cm/12in circle in the middle of the paper. Draw a 15cm/6in circle in the centre of the larger circle to make a ring.",
@@ -46,8 +52,9 @@
         "Transfer to the oven and immediately reduce the temperature to 140C/120C Fan/Gas 1. Bake for 1 hour-1 hour 15 minutes, until the outside is hard but still white. Turn the oven off and leave the pavlova inside for an hour or overnight to cool and dry.",
         "To assemble, whip the cream, vanilla paste and icing sugar until stiff peaks form when the whisk is removed. Spoon the cream into the trench in the meringue. Arrange the strawberries, raspberries, blueberries and pomegranate on top and decorate with a few mint leaves, if using. To serve, dust with icing sugar and cut into wedges."
     ],
-    "howTos": [
-        "whisking_egg_whites"
+    "tips": [
+        "The pavlova can be made up to 1 month ahead and stored: wrap it in cling film and then foil and store in a cool place."
     ],
+    "title": "Christmas pavlova",
     "videos": "[]"
 }

@@ -1,26 +1,31 @@
 {
-    "title": "Orange and walnut galette with candied orange",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "greasing_and_lining",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the candied fruit": [
+            "200g/7oz sugar",
+            "1 orange, thinly sliced",
+            "2 tbsp yoghurt, to serve"
+        ],
         "For the galette": [
             "150g/5\u00bdoz butter",
             "150g/5\u00bdoz caster sugar",
@@ -28,12 +33,13 @@
             "150g/5\u00bdoz plain flour",
             "10 walnuts, chopped",
             "1 orange, zest only"
-        ],
-        "For the candied fruit": [
-            "200g/7oz sugar",
-            "1 orange, thinly sliced",
-            "2 tbsp yoghurt, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease and line a small 20cm x 10cm/8in x4in baking tray.",
@@ -42,9 +48,9 @@
         "For the candied fruit, place the sugar into a small non-reactive pan and heat until the sugar has melted. Add the slices of orange to the pan and cook for ten minutes, or until the sugar is caramelised.",
         "To serve, place two galettes on two serving plates and lay the candied orange on top. Spoon over a bit of the cooking syrup and finish with a spoonful of yoghurt."
     ],
-    "howTos": [
-        "greasing_and_lining",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Orange and walnut galette with candied orange",
     "videos": "[]"
 }

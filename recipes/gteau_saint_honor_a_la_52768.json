@@ -1,32 +1,36 @@
 {
-    "title": "G\u00e2teau Saint Honor\u00e9 \u00e0 la passion",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 10-12",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A passionfruit, chocolate and strawberry Saint Honor\u00e9. Named after the French patron saint of bakers and pastry chefs, this delicious cake is a real test of skill. Equipment and preparation: for this recipe you will need a large star nozzle, a large circular nozzle, piping bag, 30cm/12in flan ring and a food processor.",
     "author": {
         "john_whaite": "John Whaite"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "French",
+    "description": "A passionfruit, chocolate and strawberry Saint Honor\u00e9. Named after the French patron saint of bakers and pastry chefs, this delicious cake is a real test of skill. Equipment and preparation: for this recipe you will need a large star nozzle, a large circular nozzle, piping bag, 30cm/12in flan ring and a food processor.",
+    "dishes": [
+        "bread",
+        "bun",
+        "cake",
+        "caramel",
+        "choux_pastry",
+        "gateau",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the rough puff pastry": [
-            "300g/10\u00bdoz plain flour, plus extra for dusting",
-            "200g/7oz salted butter, diced",
-            "150ml/5fl oz ice cold water",
-            "squeeze lemon juice",
-            "1 free-range egg, white only, lightly beaten"
+        "For the caramel": [
+            "200g/7oz caster sugar"
         ],
         "For the choux pastry": [
             "110g/4oz butter, chopped",
@@ -34,6 +38,11 @@
             "4 large free-range eggs",
             "1 tbsp flavourless oil, for greasing",
             "2 tsp sugar"
+        ],
+        "For the cr\u00e8me Chantilly": [
+            "500ml/17fl oz double cream",
+            "1 vanilla pod, seeds only",
+            "6 tbsp icing sugar"
         ],
         "For the cr\u00e8me p\u00e2tissi\u00e8re": [
             "4 large free-range eggs, yolks only",
@@ -43,6 +52,10 @@
             "500ml/17fl oz whole milk",
             "25g/1oz unsalted butter"
         ],
+        "For the milk chocolate ganache": [
+            "100g/3\u00bdoz milk chocolate",
+            "50g/1\u00beoz double cream"
+        ],
         "For the passionfruit curd": [
             "12 passionfruit, pulp scraped out",
             "150g/5\u00bcoz golden caster sugar",
@@ -50,23 +63,24 @@
             "2 large free-range egg yolks",
             "100g/3\u00bdoz unsalted butter, chopped"
         ],
-        "For the cr\u00e8me Chantilly": [
-            "500ml/17fl oz double cream",
-            "1 vanilla pod, seeds only",
-            "6 tbsp icing sugar"
-        ],
-        "For the caramel": [
-            "200g/7oz caster sugar"
-        ],
-        "For the milk chocolate ganache": [
-            "100g/3\u00bdoz milk chocolate",
-            "50g/1\u00beoz double cream"
+        "For the rough puff pastry": [
+            "300g/10\u00bdoz plain flour, plus extra for dusting",
+            "200g/7oz salted butter, diced",
+            "150ml/5fl oz ice cold water",
+            "squeeze lemon juice",
+            "1 free-range egg, white only, lightly beaten"
         ],
         "To decorate": [
             "400g/14oz strawberries, hulled and halved",
             "150g/5\u00bdoz caster sugar",
             "2 sheets of gold leaf"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 10-12",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "To make the rough puff pastry, sift the flour into a large bowl and add the butter. Mix the butter around to coat it in flour (stop before it starts to look like breadcrumbs as you want squashed pieces of butter showing in the mixture). Mix the water and lemon juice together in a jug and pour it into the flour and butter mixture.",
@@ -86,8 +100,9 @@
         "To make the spun sugar decorations, in a pan set over a medium heat melt the sugar with two tablespoons of water until a caramel forms (it will be a deep amber colour). Remove from the heat and allow the caramel to cool a little. Line a tray with parchment paper. Using a spoon, carefully drizzle the caramel into shapes on the parchment paper. Take care not to burn yourself as sugar gets very hot. Set aside to cool and harden.",
         "Spike the sugar shapes into the cream in between the choux buns and decorate with a sprinkling of the gold leaf."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "G\u00e2teau Saint Honor\u00e9 \u00e0 la passion",
     "videos": "[]"
 }

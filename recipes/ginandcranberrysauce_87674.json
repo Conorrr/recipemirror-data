@@ -1,24 +1,23 @@
 {
-    "title": "Gin and cranberry sauce",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "wayne_collins": "Wayne Collins"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "champ",
+        "gin_cocktail",
+        "jelly",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,6 +28,12 @@
             "sprig redcurrants, dipped in sugar syrup (sold as 'gomme' syrup), then dipped in sugar"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Squeeze the juice of the clementine quarter into a cocktail shaker, then add the quarter.",
         "Add the cranberry jelly and the sloe gin, top up with ice cubes and shake well.",
@@ -36,8 +41,9 @@
         "Strain the clementine, cranberry and sloe gin mixture into the flute glass.",
         "Garnish with the sprig of sugared redcurrants."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Gin and cranberry sauce",
     "videos": "[]"
 }

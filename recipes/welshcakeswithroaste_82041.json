@@ -1,23 +1,25 @@
 {
-    "title": "Welsh cakes with roasted apricots and Welsh cake ice cream",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "angela_hartnett": "Angela Hartnett"
     },
-    "show": {
-        "b0071y6r": "Great British Menu"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "cake",
+        "crumble",
+        "custard",
+        "sauce",
+        "stir-fries",
+        "welsh_cakes"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -33,6 +35,11 @@
             "milk if needed",
             "lard, for greasing"
         ],
+        "For the apricots": [
+            "12 apricots, halved and stoned",
+            "1 tbsp caster sugar",
+            "knob of unsalted butter"
+        ],
         "For the ice cream": [
             "175g/6oz free-range egg yolks",
             "90g/3\u00bdoz caster sugar",
@@ -41,12 +48,13 @@
             "1 vanilla pod, split lengthways and seeds scraped out",
             "ground cinnamon",
             "freshly grated nutmeg"
-        ],
-        "For the apricots": [
-            "12 apricots, halved and stoned",
-            "1 tbsp caster sugar",
-            "knob of unsalted butter"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b0071y6r": "Great British Menu"
     },
     "steps": [
         "First make the Welsh cakes. Sift the flour, mixed spice and salt into a bowl and stir in the sugar and lemon zest. Rub in the butter until the mixture has a crumb-like texture. Add the sultanas and mix together, then mix in the beaten egg using a fork. Gather into a dough. If too dry add a dash of milk.",
@@ -58,8 +66,9 @@
         "For the apricots, cook the apricots with the sugar and butter until soft.",
         "To serve, spoon the warm apricots on top of the large Welsh cakes. Add a scoop of ice cream to each plate and garnish each with a small Welsh cake."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Welsh cakes with roasted apricots and Welsh cake ice cream",
     "videos": "[]"
 }

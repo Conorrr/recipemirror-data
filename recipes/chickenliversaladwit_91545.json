@@ -1,26 +1,33 @@
 {
-    "title": "Chicken liver salad with bacon",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "1 tbsp Dijon mustard",
+            "100ml/3\u00bdfl oz raspberry vinegar",
+            "300ml/10\u00bdfl oz extra virgin olive oil",
+            "salt and freshly ground black pepper",
+            "1 tbsp chopped fresh tarragon"
+        ],
         "For the salad": [
             "250g/9oz streaky bacon rashers",
             "250g/9oz crusty bread, cut into 1cm/\u00bdin cubes",
@@ -31,14 +38,13 @@
             "1 head fris\u00e9e lettuce",
             "1 red onion, sliced",
             "fresh raspberries, to garnish"
-        ],
-        "For the dressing": [
-            "1 tbsp Dijon mustard",
-            "100ml/3\u00bdfl oz raspberry vinegar",
-            "300ml/10\u00bdfl oz extra virgin olive oil",
-            "salt and freshly ground black pepper",
-            "1 tbsp chopped fresh tarragon"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the grill to high.",
@@ -49,8 +55,9 @@
         "For the dressing, whisk the mustard and raspberry vinegar together in a bowl until well combined, then gradually add the olive oil, whisking continuously. Season with salt and freshly ground black pepper and stir in the chopped tarragon.",
         "To serve, place the fris\u00e9e lettuce, red onion, chicken livers and bacon into a large bowl and gently mix together. Drizzle with the dressing, then spoon onto serving plates. Garnish each salad with a few fresh raspberries."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken liver salad with bacon",
     "videos": "[]"
 }

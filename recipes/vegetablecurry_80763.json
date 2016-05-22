@@ -1,24 +1,22 @@
 {
-    "title": "Vegetable curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "curry",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,14 +30,21 @@
             "\u00bd tsp chilli flakes"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil in a deep pan and saut\u00e9 the onion over a medium heat for 3 minutes.",
         "Add the potato, garlic and curry powder and stir for 1 minute.",
         "Pour in the chicken stock and simmer for 5 minutes.",
         "Add the cauliflower and cook for a further 3 minutes, then stir through the chilli flakes before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Vegetable curry",
     "videos": "[]"
 }

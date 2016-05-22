@@ -1,36 +1,39 @@
 {
-    "title": "Strawberry fool",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "icing",
+        "jam"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the strawberry coulis": [
-            "50g/1\u00beoz strawberries",
-            "2 tbsp icing sugar"
-        ],
         "For the fool": [
             "2 free-range egg whites",
             "100ml/3\u00bdfl oz double cream, whipped",
             "\u00bd brandy miniature",
             "50g/1\u00beoz chocolate, melted"
+        ],
+        "For the strawberry coulis": [
+            "50g/1\u00beoz strawberries",
+            "2 tbsp icing sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the strawberry coulis, place the strawberries into a mini-food processor with the icing sugar and blend until smooth. Press the mixture through a sieve into a bowl to remove the pips.",
@@ -38,8 +41,9 @@
         "Add the cream, brandy and half of the coulis to the egg whites and gently fold in.",
         "To serve, pour the fool into a dessert glass and drizzle over the remaining coulis and the melted chocolate."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Strawberry fool",
     "videos": "[]"
 }

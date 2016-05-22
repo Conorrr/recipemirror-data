@@ -1,26 +1,39 @@
 {
-    "title": "Wild boar rag\u00f9 with fresh pasta",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "19",
-    "images": [
-        
-    ],
-    "description": "Meltingly tender wild boar, stewed in rich tomato and red wine sauce. Served with fresh, homemade tagliatelle. Equipment and preparation: For this recipe you will need an oven-proof, heavy-based pan with a lid and a pasta machine.",
     "author": {
         "michel_roux_jr": "Michel Roux Jr."
     },
-    "show": {
-        "b03mzc66": "Food & Drink"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Italian",
+    "description": "Meltingly tender wild boar, stewed in rich tomato and red wine sauce. Served with fresh, homemade tagliatelle. Equipment and preparation: For this recipe you will need an oven-proof, heavy-based pan with a lid and a pasta machine.",
+    "dishes": [
+        "casserole",
+        "oven-baked_dishes",
+        "pasta",
+        "pie",
+        "ragu",
+        "roux",
+        "sauce",
+        "stew",
+        "stir-fries",
+        "tagliatelle"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "making_pasta_dough",
+        "rolling_pasta_dough"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pasta": [
+            "300g/10oz tipo 00 flour",
+            "\u00bd tsp salt",
+            "3 free-range eggs",
+            "semolina, for dusting"
+        ],
         "For the rag\u00fa": [
             "olive oil, for frying",
             "1 onion, peeled and finely chopped",
@@ -37,17 +50,17 @@
             "2 tbsp tomato pur\u00e9e",
             "4 sprigs oregano, leaves picked and roughly chopped"
         ],
-        "For the pasta": [
-            "300g/10oz tipo 00 flour",
-            "\u00bd tsp salt",
-            "3 free-range eggs",
-            "semolina, for dusting"
-        ],
         "To serve": [
             "250g/9oz fresh porcini mushrooms, halved lengthways",
             "olive oil, for frying",
             "fresh parmesan, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "19",
+    "serves": "Serves 4",
+    "show": {
+        "b03mzc66": "Food & Drink"
     },
     "steps": [
         "Preheat the oven to 150C/300F/Gas 2.",
@@ -67,9 +80,9 @@
         "Before serving, add a little olive oil to a pan over a medium-high heat. Once smoking, add the halved mushrooms and saut\u00e9 for 2-3 minutes.",
         "To serve, tip the pasta into the finished rag\u00f9 and serve in portions topped with freshly grated parmesan and fried mushrooms."
     ],
-    "howTos": [
-        "making_pasta_dough",
-        "rolling_pasta_dough"
+    "tips": [
+        
     ],
+    "title": "Wild boar rag\u00f9 with fresh pasta",
     "videos": "[p015vp40:p015vp46]"
 }

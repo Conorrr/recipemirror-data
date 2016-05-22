@@ -1,26 +1,27 @@
 {
-    "title": "Grilled mussels with chorizo",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "moules_mariniere",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "baby watercress"
+        ],
         "default": [
             "1 tbsp olive oil",
             "2 shallots, finely chopped",
@@ -34,10 +35,13 @@
             "1 tbsp butter",
             "20g/1oz breadcrumbs",
             "20g/1oz grated parmesan"
-        ],
-        "To serve": [
-            "baby watercress"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the grill to its highest setting.",
@@ -49,8 +53,9 @@
         "In a bowl combine the butter, breadcrumbs and cheese and add spoonfuls of this to the mussels and sauce.",
         "Place the mussels under the grill until golden-brown and serve on watercress."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Grilled mussels with chorizo",
     "videos": "[]"
 }

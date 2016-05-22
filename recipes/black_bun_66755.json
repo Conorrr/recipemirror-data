@@ -1,34 +1,27 @@
 {
-    "title": "Black bun",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10-12",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/black_bun_66755_16x9.jpg"
-    ],
-    "description": "This moist, fruity cake covered with rich pastry is traditionally eaten at Hogmanay. Make it in advance so the flavours have time to mature. Equipment and preparation: you will need a 900g/2lb loaf tin.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "This moist, fruity cake covered with rich pastry is traditionally eaten at Hogmanay. Make it in advance so the flavours have time to mature. Equipment and preparation: you will need a 900g/2lb loaf tin.",
+    "dishes": [
+        "bread",
+        "bun",
+        "cake",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/black_bun_66755_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pastry": [
-            "300g/10\u00bdoz plain flour",
-            "75g/3oz lard, cubed",
-            "75g/3oz butter, cubed",
-            "pinch of salt",
-            "\u00bd tsp baking powder",
-            "1 free-range egg, beaten, for glazing"
-        ],
         "For the filling": [
             "200g/7oz plain flour",
             "300g/10\u00bdoz raisins",
@@ -44,7 +37,21 @@
             "2 tbsp whisky",
             "1 free-range egg",
             "3 tbsp buttermilk"
+        ],
+        "For the pastry": [
+            "300g/10\u00bdoz plain flour",
+            "75g/3oz lard, cubed",
+            "75g/3oz butter, cubed",
+            "pinch of salt",
+            "\u00bd tsp baking powder",
+            "1 free-range egg, beaten, for glazing"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 10-12",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the pastry, sift the flour into a bowl and rub in the lard and butter until the mixture resembles breadcrumbs. Add the salt, baking powder and four tablespoons of cold water and mix to a soft dough. Turn out and knead into a ball. Wrap in cling film and leave to chill in the fridge while you make the filling.",
@@ -54,8 +61,9 @@
         "Roll out three quarters of the remaining pastry to a rectangle large enough to cover the tin. Dampen the edges of the pastry with water and press the pastry lid on top to seal. Trim the edges and crimp using the tines of a fork. Roll out the remaining pastry, along with any trimmings, and use to make a bow to decorate the top, then attach with a little water.",
         "Glaze with beaten egg and bake for two hours. Remove from the oven and leave to cool in the tin before turning out."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Black bun",
     "videos": "[]"
 }

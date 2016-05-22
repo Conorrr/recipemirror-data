@@ -1,26 +1,32 @@
 {
-    "title": "Spinach and emmental cheese double baked souffl\u00e9",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "sauce",
+        "souffle",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "400ml/14oz double cream",
+            "4 tbsp Kirsch",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "40g/1\u00bdoz butter, plus extra for ramekins",
             "40g/1\u00bdoz plain flour, plus extra for ramekins",
@@ -30,12 +36,13 @@
             "3 tbsp lemon juice",
             "2 tbsp butter",
             "400g/14lb\u00bcoz spinach"
-        ],
-        "For the sauce": [
-            "400ml/14oz double cream",
-            "4 tbsp Kirsch",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat oven to 180C/350F/Gas 4.",
@@ -56,8 +63,9 @@
         "Top with the remaining grated emmental cheese.",
         "Place under the grill for 4-5 minutes until bubbling. Serve."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Spinach and emmental cheese double baked souffl\u00e9",
     "videos": "[]"
 }

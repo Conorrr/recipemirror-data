@@ -1,26 +1,30 @@
 {
-    "title": "Pork parcels on apple comp\u00f4te",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "phil_vickery": "Phil Vickery"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "compote",
+        "oven-baked_dishes",
+        "pastry",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the compote": [
+            "1 apple, sliced",
+            "1 tbsp brown sugar",
+            "1 tsp honey"
+        ],
         "default": [
             "6 sheets ready-made filo pastry, cut into 7cm/3in squares",
             "2 free-range eggs, beaten",
@@ -32,12 +36,13 @@
             "2 tsp sesame seeds",
             "fresh chives, to garnish",
             "\u00bd tsp sesame oil, to serve"
-        ],
-        "For the compote": [
-            "1 apple, sliced",
-            "1 tbsp brown sugar",
-            "1 tsp honey"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 225C/450F/Gas 7.",
@@ -50,8 +55,9 @@
         "For the compote, place the apple and sugar in a pan with a splash of water. Heat to a simmer and gently cook for seven minutes, or until soft. Remove from the heat and mash with a potato masher. Return to a gentle heat and drizzle with honey.",
         "To serve, place the compote into a warm dish and top with the pork parcels, garnished with chives and a drizzle of sesame oil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pork parcels on apple comp\u00f4te",
     "videos": "[]"
 }

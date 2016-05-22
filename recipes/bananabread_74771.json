@@ -1,24 +1,24 @@
 {
-    "title": "Gluten-free banana bread",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 x 900g/2lb loaf",
-    "recommendations": "14",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bananabread_74771_16x9.jpg"
-    ],
-    "description": "Soft, speckled bananas are best for this recipe. The mixture also makes adorable little mini muffins if you cook them in individual cases - great for children's packed lunches. Big kids like them too!",
     "author": {
         "darina_allen_and_rosemary_kearney": "Darina Allen and Rosemary Kearney"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Soft, speckled bananas are best for this recipe. The mixture also makes adorable little mini muffins if you cook them in individual cases - great for children's packed lunches. Big kids like them too!",
+    "dishes": [
+        "banana_bread",
+        "bread",
+        "muffins",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "creaming"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bananabread_74771_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,6 +35,12 @@
             "1kg/2lb loaf tin, lined with parchment paper, or 24 small paper muffin cases"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "14",
+    "serves": "Makes 1 x 900g/2lb loaf",
+    "show": {
+        
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "Wash and dry the cherries. Cut into quarters and mix with the sultanas. Set aside.",
@@ -43,8 +49,9 @@
         "Pour the mixture into the loaf tin or into 24 small muffin cases and bake in the oven for about 1\u00bc - 1\u00bd hours for the loaf, 25 minutes for the mini muffins, until golden on top and a skewer inserted into the centre comes out clean.",
         "Remove the loaf from the tin and cool on a wire rack; cool mini muffins on a rack in their paper cases. Slice the loaf into eight slices to serve."
     ],
-    "howTos": [
-        "creaming"
+    "tips": [
+        
     ],
+    "title": "Gluten-free banana bread",
     "videos": "[]"
 }

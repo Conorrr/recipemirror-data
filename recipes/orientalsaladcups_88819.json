@@ -1,26 +1,29 @@
 {
-    "title": "Oriental salad cups",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "4 whole iceberg lettuce leaves",
+            "1 orange, cut into wedges",
+            "1 tbsp chopped fresh parsley leaves"
+        ],
         "default": [
             "3 tbsp tinned chickpeas, rinsed and drained",
             "100g/3\u00bdoz flaked cooked salmon",
@@ -33,19 +36,21 @@
             "1 tsp honey",
             "1 tbsp sesame seeds",
             "1 tbsp sesame oil"
-        ],
-        "To serve": [
-            "4 whole iceberg lettuce leaves",
-            "1 orange, cut into wedges",
-            "1 tbsp chopped fresh parsley leaves"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Mix all the ingredients together in a bowl and stir until well combined.",
         "Divide the mixture evenly and spoon into four lettuce cups placed on a serving plate. Garnish with the orange wedges and sprinkle over the parsley."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Oriental salad cups",
     "videos": "[]"
 }

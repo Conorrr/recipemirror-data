@@ -1,26 +1,33 @@
 {
-    "title": "Garlicky Georgian poussins with plum chutney",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Combine garlic and fresh herbs to make this wonderfully flavourful poussin. Serve with plum chutney for a real taste of Eastern Europe.",
     "author": {
         "olia_hercules": "Olia Hercules"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "East_European",
+    "description": "Combine garlic and fresh herbs to make this wonderfully flavourful poussin. Serve with plum chutney for a real taste of Eastern Europe.",
+    "dishes": [
+        "bread",
+        "chutney",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Georgian plum chutney": [
+            "350g/12oz plums or greengages, stoned and roughly chopped",
+            "1 garlic clove, grated or crushed",
+            "\u00bd tsp smoked paprika",
+            "\u00bd tbsp black treacle",
+            "2 sprigs dill, chopped",
+            "sea salt flakes"
+        ],
         "For the Georgian poussins": [
             "2 poussins",
             "4 garlic cloves, finely grated",
@@ -33,17 +40,15 @@
             "\u00bd tbsp chopped dill",
             "sea salt flakes"
         ],
-        "For the Georgian plum chutney": [
-            "350g/12oz plums or greengages, stoned and roughly chopped",
-            "1 garlic clove, grated or crushed",
-            "\u00bd tsp smoked paprika",
-            "\u00bd tbsp black treacle",
-            "2 sprigs dill, chopped",
-            "sea salt flakes"
-        ],
         "To serve": [
             "sourdough bread"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Start by spatchcocking the poussins. Cut them along the backbone with a knife or scissors. Flatten them with the palm of your hand, then rub with the grated garlic and season generously all over with the cayenne pepper and sea salt flakes.",
@@ -55,8 +60,9 @@
         "When the poussins are done, leave them to rest on a chopping board for 5 minutes. Add the herbs to the buttery juices in the pan and cook for a further minute or two.",
         "Serve the Georgian poussins drizzled with the herby juices with the plum chutney on the side and some sourdough bread to mop it all up."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Garlicky Georgian poussins with plum chutney",
     "videos": "[]"
 }

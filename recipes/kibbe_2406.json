@@ -1,24 +1,21 @@
 {
-    "title": "Vegan kibbe",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A traditional Middle Eastern dish popular in Lebanon, Syria and Egypt, Kibbe is a grain mixture bsed on bulgar wheat. This vegetarian version is simply baked in the oven, but is often made into patties and filled with meat or vegetables.",
     "author": {
         "vegan_society": "Vegan Society"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "A traditional Middle Eastern dish popular in Lebanon, Syria and Egypt, Kibbe is a grain mixture bsed on bulgar wheat. This vegetarian version is simply baked in the oven, but is often made into patties and filled with meat or vegetables.",
+    "dishes": [
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -37,6 +34,12 @@
             "2 tbsp chopped fresh parsley"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "4",
+    "show": {
+        
+    },
     "steps": [
         "Bring 150ml/5fl oz water to the boil, add the salt and stir. Then add the oats and reduce the heat.",
         "Cover and simmer for 15-20 minutes, then remove from the heat and put into a bowl. Preheat the oven to 180C/350F/Gas 4.",
@@ -44,8 +47,9 @@
         "Heat the olive oil in a frying pay, and saute the garlic, add the onions and pimentos and cook until soft.",
         "Put into a bowl along with the remaining ingredients. Season to taste, mix well and put in a greased baking dish. Bake 1 hour."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Vegan kibbe",
     "videos": "[]"
 }

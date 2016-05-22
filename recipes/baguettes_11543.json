@@ -1,24 +1,24 @@
 {
-    "title": "Baguettes",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 2 small baguettes",
-    "recommendations": "29",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/baguettes_11543_16x9.jpg"
-    ],
-    "description": "Serve these mini-baguettes with really ripe brie, camembert or vacherin cheese for a simple yet decadent lunch.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b01rhdgt": "Paul Hollywood's Bread"
-    },
-    "tips": [
-        "Try these baguettes with flavoured butters: either slice and spread the bread with the flavoured butter, wrap in foil and bake for 20 minutes at 180C/350F/Gas 4 or slice the bread, melt the flavoured butter in a frying pan with a splash of olive oil and fry the bread until crisp. Try watercress and horseradish butter (125g/4\u00bdoz softened butter, 1 heaped tsp fresh grated horseradish, 1 tbsp finely chopped watercress leaves and pinch salt mixed together) or lime, chilli and coriander butter (125g/4\u00bdoz softened butter, 1 tsp dried crushed chillies, zest of 1 large lime and1 tbsp finely chopped coriander leaves mixed together)."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Serve these mini-baguettes with really ripe brie, camembert or vacherin cheese for a simple yet decadent lunch.",
+    "dishes": [
+        "baguette",
+        "bread",
+        "oven-baked_dishes",
+        "slow-cooked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "knocking_back"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/baguettes_11543_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -28,6 +28,12 @@
             "30ml/1fl oz olive oil, plus extra for oiling",
             "180ml/6fl oz water"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "29",
+    "serves": "Makes 2 small baguettes",
+    "show": {
+        "b01rhdgt": "Paul Hollywood's Bread"
     },
     "steps": [
         "Place the flour, salt, yeast, olive oil and most of the water in a food mixer with a dough hook attached, taking care not to let the yeast touch the salt until you begin mixing.",
@@ -40,8 +46,9 @@
         "Just before baking, slash the top of each baguette three times.",
         "Bake the baguettes for 30 minutes. Then drop the temperature to 200C/400G/Gas 6 and cook for 10 minutes. The baked baguettes should be golden-brown and have a slight sheen to them."
     ],
-    "howTos": [
-        "knocking_back"
+    "tips": [
+        "Try these baguettes with flavoured butters: either slice and spread the bread with the flavoured butter, wrap in foil and bake for 20 minutes at 180C/350F/Gas 4 or slice the bread, melt the flavoured butter in a frying pan with a splash of olive oil and fry the bread until crisp. Try watercress and horseradish butter (125g/4\u00bdoz softened butter, 1 heaped tsp fresh grated horseradish, 1 tbsp finely chopped watercress leaves and pinch salt mixed together) or lime, chilli and coriander butter (125g/4\u00bdoz softened butter, 1 tsp dried crushed chillies, zest of 1 large lime and1 tbsp finely chopped coriander leaves mixed together)."
     ],
+    "title": "Baguettes",
     "videos": "[]"
 }

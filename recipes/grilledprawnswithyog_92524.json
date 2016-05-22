@@ -1,26 +1,28 @@
 {
-    "title": "Grilled prawns with yoghurt and mint",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2-3",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b00vt10m": "Nigel Slater's Simple Suppers"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "handful each of fresh mint and coriander, roughly chopped (reserve a few extra mint leaves for garnish)",
+            "1 lime, zest only",
+            "good dollop or two plain yoghurt"
+        ],
         "For the spice paste and prawns": [
             "2 red chillies, deseeded if you want less heat, roughly chopped",
             "2-3 large, juicy garlic cloves, roughly chopped",
@@ -32,12 +34,13 @@
             "handful fresh mint",
             "sachet of creamed coconut, or half a block of creamed coconut, grated",
             "couple of handfuls of raw peeled tiger prawns"
-        ],
-        "For the dressing": [
-            "handful each of fresh mint and coriander, roughly chopped (reserve a few extra mint leaves for garnish)",
-            "1 lime, zest only",
-            "good dollop or two plain yoghurt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 2-3",
+    "show": {
+        "b00vt10m": "Nigel Slater's Simple Suppers"
     },
     "steps": [
         "To make the spice paste, place the chillies, garlic, ginger, peppercorns, cumin and coriander seeds and turmeric into a food processor and blend until roughly chopped. Add the fresh coriander and mint along with the creamed coconut and blend again to form a smooth paste that still has a little texture.",
@@ -46,8 +49,9 @@
         "Place the prawns onto the hot griddle pan and cook for 2-3 minutes on each side, until opaque and pink in colour.",
         "Serve these immediately with the dressing and the reserved mint leaves. This spice paste is very versatile and can be used with chicken or fish."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Grilled prawns with yoghurt and mint",
     "videos": "[]"
 }

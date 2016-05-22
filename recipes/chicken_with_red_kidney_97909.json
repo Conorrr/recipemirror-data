@@ -1,26 +1,26 @@
 {
-    "title": "Chicken with red kidney beans",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_with_red_kidney_97909_16x9.jpg"
-    ],
-    "description": "This dish is low in fat but high in flavour. A perfect one-pan wonder for a weekday supper. (Try adding steamed wholegrain rice if you want a more filling meal.) This meal is low calorie and provides 386 kcal, 23.3g protein, 59.1g carbohydrate (of which 8.7g sugars), 5.2g fat (of which 1.1g saturates), 7.8g fibre and 1.2g salt per portion.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This dish is low in fat but high in flavour. A perfect one-pan wonder for a weekday supper. (Try adding steamed wholegrain rice if you want a more filling meal.) This meal is low calorie and provides 386 kcal, 23.3g protein, 59.1g carbohydrate (of which 8.7g sugars), 5.2g fat (of which 1.1g saturates), 7.8g fibre and 1.2g salt per portion.",
+    "dishes": [
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_with_red_kidney_97909_16x9.jpg"
+    ],
     "ingredients": {
+        "To garnish": [
+            "fresh coriander leaves, roughly chopped",
+            "lime wedges"
+        ],
         "default": [
             "low-calorie cooking spray",
             "1 onion, roughly chopped",
@@ -33,11 +33,13 @@
             "400g can cherry tomatoes, in natural juice",
             "200ml/7fl oz chicken stock",
             "salt and freshly ground black pepper"
-        ],
-        "To garnish": [
-            "fresh coriander leaves, roughly chopped",
-            "lime wedges"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Heat a large frying pan with a flameproof handle over a medium heat and lightly spray with oil. Add the onion, red pepper, garlic and chicken. Cook for 3 minutes, stirring continuously.",
@@ -46,8 +48,9 @@
         "Place the pan under the grill and cook until golden.",
         "Divide between four plates, garnish with coriander and serve with lime wedges."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken with red kidney beans",
     "videos": "[]"
 }

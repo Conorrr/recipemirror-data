@@ -1,24 +1,20 @@
 {
-    "title": "Simple tomato sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "You can make this tomato sauce recipe with either fresh or canned tomatoes . If using fresh, make sure they have a good deep colour and are juicy with lots of flavour.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b012m947": "Rick Stein's Spain"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "You can make this tomato sauce recipe with either fresh or canned tomatoes . If using fresh, make sure they have a good deep colour and are juicy with lots of flavour.",
+    "dishes": [
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,13 +28,20 @@
             "\u00be tsp sugar"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "",
+    "show": {
+        "b012m947": "Rick Stein's Spain"
+    },
     "steps": [
         "Heat the olive oil in a wide shallow pan over a medium heat. Add the onions and garlic and saut\u00e9 for 15 minutes, stirring every now and then, until soft and sweet and very lightly golden-brown.",
         "Add the tomatoes, water, bay leaves, salt and sugar, bring to the boil, lower the heat and leave to simmer very gently, uncovered, stirring now and then, for 45 minutes to one hour until it has almost reduced to a pur\u00e9e. Leave to cool slightly then remove the bay leaves, tip into a food processor and blend until smooth.",
         "Leave to cool, cover and refrigerate or freeze until needed."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Simple tomato sauce",
     "videos": "[]"
 }

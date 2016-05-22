@@ -1,31 +1,28 @@
 {
-    "title": "Banoffee pie",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6-8",
-    "recommendations": "46",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/banoffeepiewithpecan_86926_16x9.jpg"
-    ],
-    "description": "Full of all things naughty, banoffee pie is irresistible. To save time, use bought dulce de leche instead of making your own caramel.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Full of all things naughty, banoffee pie is irresistible. To save time, use bought dulce de leche instead of making your own caramel.",
+    "dishes": [
+        "banoffee_pie",
+        "biscuit",
+        "cake",
+        "caramel",
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/banoffeepiewithpecan_86926_16x9.jpg"
+    ],
     "ingredients": {
-        "For the caramel": [
-            "100g/3\u00bdoz unsalted butter",
-            "100g/3\u00bdoz caster sugar",
-            "400g/14fl oz can condensed milk"
-        ],
         "For the banoffee pie": [
             "150g/5 oz digestive biscuits, crushed",
             "230g/8oz pecans, halved",
@@ -34,11 +31,22 @@
             "250ml/10\u00bdoz double cream, whipped until soft peaks form when the whisk is removed",
             "cocoa powder, for dusting"
         ],
+        "For the caramel": [
+            "100g/3\u00bdoz unsalted butter",
+            "100g/3\u00bdoz caster sugar",
+            "400g/14fl oz can condensed milk"
+        ],
         "For the caramel sauce": [
             "125g/4oz unsalted butter",
             "125g/4oz soft light brown sugar",
             "125ml/4fl oz coconut milk"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "46",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the caramel, place the butter and sugar into a non-stick pan over a low heat, stirring until the butter melts and the sugar dissolves.",
@@ -52,8 +60,9 @@
         "For the caramel sauce, place the butter, sugar and coconut milk into a heavy-based pan over a medium heat. Bring to the boil and cook for 3-4 minutes, until it forms a thick, light golden-brown sauce.",
         "To serve, cut out slices of the banoffee pie, place onto plates and pour over the caramel sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Banoffee pie",
     "videos": "[]"
 }

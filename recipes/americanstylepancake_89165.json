@@ -1,24 +1,22 @@
 {
-    "title": "American-style pancakes with blueberries",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-5",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "denis_lawson": "Denis Lawson"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "American",
+    "description": "",
+    "dishes": [
+        "pancake"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "how_to_fold_egg_whites_into_a_mixture",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +29,12 @@
             "vegetable oil, for brushing"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 4-5",
+    "show": {
+        "b00701fw": "A Taste of My Life"
+    },
     "steps": [
         "Sieve the flour and baking powder into a bowl and make a well in the middle.",
         "Place the yolks and the milk into the well in the flour mixture, and whisk to create a smooth batter. The batter should be the consistency of double cream. Add a little extra milk if necessary, although you may not need it all.",
@@ -40,9 +44,9 @@
         "Pour two tablespoons of the batter into the pan, smoothing it out into a circle. Cook for one minute, or until bubbles start to form on the surface, then add a handful of blueberries, and cook for another minute. Turn the pancake and cook the other side for one minute, or until golden-brown. Remove from the pan and reserve in a warm place.",
         "Repeat with the remaining batter and berries and serve immediately."
     ],
-    "howTos": [
-        "how_to_fold_egg_whites_into_a_mixture",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "American-style pancakes with blueberries",
     "videos": "[]"
 }

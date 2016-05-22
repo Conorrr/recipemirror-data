@@ -1,26 +1,49 @@
 {
-    "title": "Nectar cake with hidden beehive",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A hidden design cake made with delicious honey-flavoured sponge decorated with a cream cheese frosting and a fondant flower and bee. Equipment and preparation: you will need three 18cm/7in cake tins",
     "author": {
         "danny_bryden": "Danny Bryden"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "A hidden design cake made with delicious honey-flavoured sponge decorated with a cream cheese frosting and a fondant flower and bee. Equipment and preparation: you will need three 18cm/7in cake tins",
+    "dishes": [
+        "cake",
+        "caramel",
+        "icing",
+        "marzipan",
+        "oven-baked_dishes",
+        "pie",
+        "sandwich",
+        "sauce",
+        "upside-down_cake"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cake syrup": [
+            "65g/21/3oz caster sugar",
+            "90ml/6tbsp Poire William liqueur"
+        ],
+        "For the caramelised pears": [
+            "4 tinned pear halves, drained",
+            "1 tbsp ginger syrup",
+            "1 tbsp caramel sauce"
+        ],
+        "For the decorations": [
+            "2 tsp undyed marzipan",
+            "30g/1oz plain chocolate",
+            "30g/1oz white chocolate",
+            "2 almond flakes (for the wings of the bee)",
+            "50g/1\u00beoz pink sugarpaste",
+            "cornflour, for rolling",
+            "edible food glue (optional)",
+            "pearlescent lustre in pink (for petal edges)"
+        ],
         "For the g\u00e9noise": [
             "butter, for greasing",
             "caster sugar, for lining cake tin",
@@ -31,10 +54,11 @@
             "55g/2oz butter, melted",
             "125g/4\u00bdoz plain flour"
         ],
-        "For the caramelised pears": [
-            "4 tinned pear halves, drained",
-            "1 tbsp ginger syrup",
-            "1 tbsp caramel sauce"
+        "For the honey frosting": [
+            "500g/1lb 2oz icing sugar",
+            "100g/3\u00bdoz unsalted butter, softened",
+            "250g/9oz full fat cream cheese",
+            "50g/1\u00beoz runny honey"
         ],
         "For the nectar cake": [
             "280g/10oz unsalted butter, diced",
@@ -51,27 +75,13 @@
             "200g/7oz icing sugar, sifted",
             "3 tsp runny honey",
             "gel food colour in dark brown, black and yellow"
-        ],
-        "For the honey frosting": [
-            "500g/1lb 2oz icing sugar",
-            "100g/3\u00bdoz unsalted butter, softened",
-            "250g/9oz full fat cream cheese",
-            "50g/1\u00beoz runny honey"
-        ],
-        "For the cake syrup": [
-            "65g/21/3oz caster sugar",
-            "90ml/6tbsp Poire William liqueur"
-        ],
-        "For the decorations": [
-            "2 tsp undyed marzipan",
-            "30g/1oz plain chocolate",
-            "30g/1oz white chocolate",
-            "2 almond flakes (for the wings of the bee)",
-            "50g/1\u00beoz pink sugarpaste",
-            "cornflour, for rolling",
-            "edible food glue (optional)",
-            "pearlescent lustre in pink (for petal edges)"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes 1",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the g\u00e9noise, heat the oven to 190C/375F/Gas 5 and bring a pan of water to the boil. Grease a 18cm/7in cake tin, line the base with parchment paper and sprinkle caster sugar over the sides. Tip out any excess sugar.",
@@ -92,8 +102,9 @@
         "For the external frosting, give the cake a light base coat of frosting on the top and sides. Chill again until a crust forms before adding the final layer of frosting.",
         "To decorate, place the sugarpaste rose on top of the cake and stick the bee to the edge of the cake."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Nectar cake with hidden beehive",
     "videos": "[]"
 }

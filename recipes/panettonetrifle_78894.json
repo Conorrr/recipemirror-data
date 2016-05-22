@@ -1,24 +1,23 @@
 {
-    "title": "Panettone trifle",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "icing",
+        "jam",
+        "panettone",
+        "trifle"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +30,12 @@
             "1 clementine, peeled and segmented"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place half of the panettone cubes into a tall glass and drizzle over half of the brandy.",
         "Whisk the cream with the vanilla seeds and sugar in a bowl until it holds its shape when the whisk is removed.",
@@ -39,8 +44,9 @@
         "Repeat the layering process to fill the glass.",
         "Finish with two Clementine segments and a drizzle of melted chocolate to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Panettone trifle",
     "videos": "[]"
 }

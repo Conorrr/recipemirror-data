@@ -1,35 +1,25 @@
 {
-    "title": "Hand-made skinless sausages with pepper sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "11",
-    "images": [
-        
-    ],
-    "description": "Try Antonio Carluccio's homemade sausages for a rustic Italian supper.",
     "author": {
         "antonio_carluccio": "Antonio Carluccio"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "Try Antonio Carluccio's homemade sausages for a rustic Italian supper.",
+    "dishes": [
+        "pie",
+        "sauce",
+        "sausage"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "de-skinning_peppers"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sausages": [
-            "1kg/2lb 2oz minced pork",
-            "1 tsp chopped red chilli",
-            "1 garlic clove, finely chopped",
-            "1 tsp fennel seeds",
-            "110ml/4fl oz red wine",
-            "4 tbsp olive oil",
-            "salt and freshly ground black pepper"
-        ],
         "For the sauce": [
             "2 large red peppers",
             "2 large yellow peppers",
@@ -38,7 +28,22 @@
             "\u00bd red chilli, finely chopped",
             "5 anchovies",
             "olive oil"
+        ],
+        "For the sausages": [
+            "1kg/2lb 2oz minced pork",
+            "1 tsp chopped red chilli",
+            "1 garlic clove, finely chopped",
+            "1 tsp fennel seeds",
+            "110ml/4fl oz red wine",
+            "4 tbsp olive oil",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 6",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Mix the pork, chilli, garlic, fennel seeds, red wine, salt and freshly ground black pepper together in a bowl until well combined.",
@@ -49,8 +54,9 @@
         "Heat one tablespoons of oil in a large non-stick pan, gently place the sausages into the pan and fry over a medium heat for 10 minutes, turning frequently, until golden-brown on all sides",
         "Serve the sausages alongside the sauce."
     ],
-    "howTos": [
-        "de-skinning_peppers"
+    "tips": [
+        
     ],
+    "title": "Hand-made skinless sausages with pepper sauce",
     "videos": "[]"
 }

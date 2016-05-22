@@ -1,24 +1,25 @@
 {
-    "title": "Swedish Lucia rolls",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 12 rolls",
-    "recommendations": "10",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/swedishluciarollsors_73214_16x9.jpg"
-    ],
-    "description": "These rich saffron buns are a traditional Swedish Christmas treat. They're delicious with a cup of coffee.",
     "author": {
         "sue_lawrence": "Sue Lawrence"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Nordic",
+    "description": "These rich saffron buns are a traditional Swedish Christmas treat. They're delicious with a cup of coffee.",
+    "dishes": [
+        "bread",
+        "bun",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/swedishluciarollsors_73214_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,6 +35,12 @@
             "handful of raisins"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "10",
+    "serves": "Makes 12 rolls",
+    "show": {
+        
+    },
     "steps": [
         "Grease a baking tray. Soak the saffron in the milk for 5-10 minutes.",
         "Combine the flour, yeast, salt and sugar in a mixing bowl and make a well in the centre. Stir the melted butter into the milk and saffron mixture and pour into the well. Add the Quark cheese.",
@@ -43,8 +50,9 @@
         "Brush the rolls with the egg yolk, then place one raisin in the centre of each circle (two raisins per roll).",
         "Bake the rolls for 15 minutes, then remove from the oven and set aside to cool on a wire rack."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Swedish Lucia rolls",
     "videos": "[]"
 }

@@ -1,24 +1,24 @@
 {
-    "title": "Spicy sweet and sour soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "pie",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -40,14 +40,21 @@
             "55g/2oz unsalted cashew nuts"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil in a pan and gently fry the onion and garlic for 3-4 minutes.",
         "Add the ginger, chilli and Romero pepper and fry for a further 2-3 minutes.",
         "Add the spices and stir well, then add the pak choi, stock, vinegar, honey and soy sauce. Simmer for 5-7 minutes, until the liquid is slightly reduced and the pak choi is tender.",
         "Stir in the cashew nuts, then spoon into a serving bowl and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spicy sweet and sour soup",
     "videos": "[]"
 }

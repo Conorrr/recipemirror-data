@@ -1,31 +1,27 @@
 {
-    "title": "Apple crumble with walnuts and sunflower seeds",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "8",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/apple_crumble_with_81274_16x9.jpg"
-    ],
-    "description": "The apples and the nutty topping are cooked separately in Mary Berry\u2019s unusual crumble, producing an exceptional crunch.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "p01s4q10": "Mary Berry Cooks"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "The apples and the nutty topping are cooked separately in Mary Berry\u2019s unusual crumble, producing an exceptional crunch.",
+    "dishes": [
+        "apple_crumble",
+        "casserole",
+        "crumble",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/apple_crumble_with_81274_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "1.5kg/3lb 5oz cooking apples",
-            "\u00bd lemon, juice only",
-            "100g/3\u00bdoz light muscovado sugar"
-        ],
         "For the topping": [
             "50g/1\u00beoz plain flour",
             "50g/1\u00beoz porridge oats",
@@ -33,7 +29,18 @@
             "150g/5\u00bdoz walnuts, roughly chopped",
             "50g/1\u00beoz sunflower seeds",
             "100g/3\u00bdoz softened butter"
+        ],
+        "default": [
+            "1.5kg/3lb 5oz cooking apples",
+            "\u00bd lemon, juice only",
+            "100g/3\u00bdoz light muscovado sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 6",
+    "show": {
+        "p01s4q10": "Mary Berry Cooks"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4 (160C fan).",
@@ -41,8 +48,9 @@
         "Put the dry topping ingredients in a mixing bowl and rub in the butter until it is evenly distributed and the mixture has formed small clumps. Spread the mixture evenly over a baking tray and bake for about 20 minutes, or until golden-brown and crisp.",
         "Stir to break up the crumble and sprinkle over the hot apple."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Apple crumble with walnuts and sunflower seeds",
     "videos": "[]"
 }

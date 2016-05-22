@@ -1,32 +1,23 @@
 {
-    "title": "Stewed gooseberries with custard",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "custard",
+        "stew"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the stewed gooseberries": [
-            "2 tbsp butter",
-            "1 lemon, zest and juice only",
-            "75g/2\u00beoz caster sugar",
-            "275g/9\u00beoz gooseberries"
-        ],
         "For the custard": [
             "600ml/1 pint double cream",
             "50 ml/1\u00befl oz milk",
@@ -34,7 +25,19 @@
             "1 tbsp caster sugar",
             "3 free-range egg yolks",
             "1 free-range egg"
+        ],
+        "For the stewed gooseberries": [
+            "2 tbsp butter",
+            "1 lemon, zest and juice only",
+            "75g/2\u00beoz caster sugar",
+            "275g/9\u00beoz gooseberries"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the stewed gooseberries, in a pan melt the butter then add the lemon zest and juice, sugar and gooseberries. Leave to simmer for 3-4 minutes.",
@@ -42,8 +45,9 @@
         "In a bowl, beat the eggs and extra yolk with the caster sugar. Pour the hot cream into the eggs, stirring well.",
         "Return this to the pan and heat gently, stirring, until the custard coats the back of the spoon."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Stewed gooseberries with custard",
     "videos": "[]"
 }

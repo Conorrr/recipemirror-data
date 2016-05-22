@@ -1,26 +1,30 @@
 {
-    "title": "Orange savarin with cinnamon cream",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 1 large cake",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A savarin is a ring-shaped yeasted cake that's drizzled with syrup. It's reminiscent of a drizzle cake, but richer and beautifully moist.",
     "author": {
         "chetna": "Chetna Makan"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "East_European",
+    "description": "A savarin is a ring-shaped yeasted cake that's drizzled with syrup. It's reminiscent of a drizzle cake, but richer and beautifully moist.",
+    "dishes": [
+        "cake",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the decoration": [
+            "2 large oranges (optional)",
+            "25g/1oz unsalted shelled pistachios, chopped"
+        ],
         "For the dough": [
             "350g/12oz plain flour, plus extra for dusting",
             "1 x 7g sachet fast-action yeast",
@@ -33,20 +37,22 @@
             "150g/5\u00bdoz unsalted butter, melted, plus extra for greasing",
             "vegetable oil, for greasing"
         ],
-        "For the syrup": [
-            "6 tbsp freshly squeezed orange juice",
-            "4 tbsp of orange liqueur, such as Grand Marnier",
-            "150g/5\u00bdoz caster sugar"
-        ],
         "For the filling": [
             "300ml/10\u00bdfl oz double cream",
             "\u00bd tsp ground cinnamon",
             "50g/1\u00beoz caster sugar"
         ],
-        "For the decoration": [
-            "2 large oranges (optional)",
-            "25g/1oz unsalted shelled pistachios, chopped"
+        "For the syrup": [
+            "6 tbsp freshly squeezed orange juice",
+            "4 tbsp of orange liqueur, such as Grand Marnier",
+            "150g/5\u00bdoz caster sugar"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Makes 1 large cake",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Grease a 25cm/10in savarin tin with butter and dust with flour.",
@@ -59,8 +65,9 @@
         "For the filling, whip the cream with sugar and cinnamon until peaks form when the whisk is removed. Transfer to a piping bag with a star nozzle attached and pipe the cream in the middle of the savarin until it reaches the top of the cake.",
         "To decorate, slice the oranges very thinly and place them on the top of the cake (if using). Sprinkle the pistachios over and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Orange savarin with cinnamon cream",
     "videos": "[]"
 }

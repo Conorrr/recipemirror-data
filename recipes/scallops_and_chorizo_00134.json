@@ -1,24 +1,22 @@
 {
-    "title": "Scallops and chorizo",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "25",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/scallops_and_chorizo_00134_16x9.jpg"
-    ],
-    "description": "The combination of spicy chorizo and chilli with creamy scallops and a touch of honey gives this easy starter a sensational flavour.",
     "author": {
         "ian_taylor": "Ian Taylor"
     },
-    "show": {
-        "b01s72gt": "Nigel Slater's Simple Cooking"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Spanish",
+    "description": "The combination of spicy chorizo and chilli with creamy scallops and a touch of honey gives this easy starter a sensational flavour.",
+    "dishes": [
+        "sausage",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/scallops_and_chorizo_00134_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -29,12 +27,19 @@
             "2 tbsp runny honey"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "25",
+    "serves": "Serves 6",
+    "show": {
+        "b01s72gt": "Nigel Slater's Simple Cooking"
+    },
     "steps": [
         "Heat a heavy griddle pan over a high heat. Fry the chorizo until it is browned and some of the juices are running in the pan. Add the spring onion and chilli and fry for 2-3 minutes.",
         "Add the scallops and fry for 2-3 minutes on either side or until cooked through. Drizzle over the runny honey and stir to coat. Divide the scallops and chorizo among the six scallop shells and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Scallops and chorizo",
     "videos": "[]"
 }

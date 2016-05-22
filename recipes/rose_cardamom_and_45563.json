@@ -1,37 +1,30 @@
 {
-    "title": "Baklava with rose, cardamom and pistachio or orange, cinnamon, walnut and almond",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Two flavours and shapes of baklava for your delectation. Make one for an after dinner treat or both for a feast.",
     "author": {
         "richard": "Richard Burr"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "Baklava is best made the day before you want to eat them."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Turkish_and_Middle_Eastern",
+    "description": "Two flavours and shapes of baklava for your delectation. Make one for an after dinner treat or both for a feast.",
+    "dishes": [
+        "confectionery",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "sausage",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "working_with_filo"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the rose, cardamom and pistachio baklava": [
-            "225g/8oz granulated sugar",
-            "2 tbsp clear honey",
-            "1 tsp lemon juice",
-            "1 tbsp rose essence (or 2 tbsp rosewater)",
-            "200g/7oz shelled pistachios",
-            "75g/2\u00bdoz icing sugar",
-            "\u00bd tbsp ground cardamom",
-            "6 sheets ready-made filo pastry",
-            "75g/2\u00bdoz butter, melted, plus extra for greasing"
-        ],
         "For the orange and cinnamon baklava rolls": [
             "225g8oz caster sugar",
             "2 tbsp clear honey",
@@ -45,7 +38,24 @@
             "3 tbsp crystallised ginger, finely chopped",
             "6 sheets ready-made filo pastry",
             "75g/2\u00bdoz butter, melted"
+        ],
+        "For the rose, cardamom and pistachio baklava": [
+            "225g/8oz granulated sugar",
+            "2 tbsp clear honey",
+            "1 tsp lemon juice",
+            "1 tbsp rose essence (or 2 tbsp rosewater)",
+            "200g/7oz shelled pistachios",
+            "75g/2\u00bdoz icing sugar",
+            "\u00bd tbsp ground cardamom",
+            "6 sheets ready-made filo pastry",
+            "75g/2\u00bdoz butter, melted, plus extra for greasing"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 10",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 160C/325F/Gas 3 and grease two large baking trays.",
@@ -65,8 +75,9 @@
         "Brush with a little melted butter and bake at 160C/325F/Gas 3 for 25-30 minutes, or until golden-brown and crisp.",
         "When cooked, drizzle the syrup over the hot baklava rolls. Set aside to cool completely, or overnight if possible."
     ],
-    "howTos": [
-        "working_with_filo"
+    "tips": [
+        "Baklava is best made the day before you want to eat them."
     ],
+    "title": "Baklava with rose, cardamom and pistachio or orange, cinnamon, walnut and almond",
     "videos": "[]"
 }

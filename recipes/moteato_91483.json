@@ -1,24 +1,21 @@
 {
-    "title": "Mo-tea-to",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "andy_pearson": "Andy Pearson"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "gin_cocktail",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,6 +27,12 @@
             "75ml/2\u00befl oz chilled strong green tea"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Place the sugar and lime juice into a highball glass and stir until dissolved.",
         "Wipe the mint leaves around the rim of the glass, then tear them in two and drop them into the glass.",
@@ -38,8 +41,9 @@
         "Add the gin and chilled green tea and stir well.",
         "To serve, garnish the glass with a sprig of mint."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mo-tea-to",
     "videos": "[]"
 }

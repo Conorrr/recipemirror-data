@@ -1,24 +1,23 @@
 {
-    "title": "Hot spiced cider",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "stefan_gates": "Stefan Gates"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "hot_drinks_hot_toddies",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,12 +30,19 @@
             "generous splash of Somerset Cider Brandy"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Put all ingredients into a saucepan, heat gently and stir occasionally for around 15 minutes (do not boil).",
         "When hot, strain into heatproof cups (leaving the flavourings in if you want) and enjoy."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Hot spiced cider",
     "videos": "[]"
 }

@@ -1,26 +1,30 @@
 {
-    "title": "Lavender, garlic and honey roast loin of lamb with mint sauce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "",
+    "dishes": [
+        "bun",
+        "jam",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Lavender Honey glaze": [
+            "50ml/2fl oz/3\u00bdtbsp lavender honey (or other runny honey if unavailable)",
+            "50ml/2fl oz/3\u00bdtbsp olive oil"
+        ],
         "For the lamb": [
             "2 lamb boneless loin fillets",
             "2 cloves garlic",
@@ -29,9 +33,11 @@
             "salt and freshly ground black pepper",
             "2 tsp lavender honey (or other runny honey if unavailable)"
         ],
-        "For the Lavender Honey glaze": [
-            "50ml/2fl oz/3\u00bdtbsp lavender honey (or other runny honey if unavailable)",
-            "50ml/2fl oz/3\u00bdtbsp olive oil"
+        "For the mint sauce": [
+            "10 tbsp fresh mint, finely chopped",
+            "pinch salt",
+            "pinch sugar",
+            "90ml/3\u00bcfl oz malt vinegar"
         ],
         "For the roasted vegetables": [
             "450g/1lb new potatoes, washed, skins left on, cut into chunky slices",
@@ -43,13 +49,13 @@
             "2 sprigs rosemary",
             "3 tbsp olive oil",
             "75ml/3fl oz clear honey"
-        ],
-        "For the mint sauce": [
-            "10 tbsp fresh mint, finely chopped",
-            "pinch salt",
-            "pinch sugar",
-            "90ml/3\u00bcfl oz malt vinegar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 5.",
@@ -62,8 +68,9 @@
         "For the mint sauce, mix all the ingredients together.",
         "To serve, slice the lamb on the diagonal and serve on warm plates with a spoonful of roasted vegetables, a drizzle of honey glaze and a spoon of mint sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lavender, garlic and honey roast loin of lamb with mint sauce",
     "videos": "[]"
 }

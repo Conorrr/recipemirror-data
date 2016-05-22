@@ -1,43 +1,28 @@
 {
-    "title": "Oriental vegetable kebabs with peanut dressing",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/orientalvegetablekeb_6552_16x9.jpg"
-    ],
-    "description": "Cook these veggie kebabs on the barbecue or under the grill. If you're short on time use teriyaki sauce instead of the marinade and ready-made satay sauce in place of the dressing.",
     "author": {
         "the_vegetarian_society": "The Vegetarian Society"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "Cook these veggie kebabs on the barbecue or under the grill. If you're short on time use teriyaki sauce instead of the marinade and ready-made satay sauce in place of the dressing.",
+    "dishes": [
+        "kebab",
+        "salad",
+        "satay",
+        "sauce",
+        "stir-fries",
+        "teriyaki"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/orientalvegetablekeb_6552_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "1 red pepper, de-seeded and cubed",
-            "1 yellow pepper, de-seeded and cubed",
-            "12 cherry tomatoes",
-            "4 salad onions topped, tailed and cut into 5cm/2in lengths",
-            "2 baby courgettes, cut into chunks",
-            "groundnut oil or sunflower oil, for grilling",
-            "4 kebab skewers",
-            "basmati rice, to serve"
-        ],
-        "For the marinade": [
-            "2-3 tbsp soy sauce",
-            "1 garlic clove, crushed",
-            "1 tsp sugar",
-            "pinch of ground ginger",
-            "salt and freshly ground black pepper to taste"
-        ],
         "For the dressing": [
             "1 tbsp groundnut or sunflower oil",
             "1 shallot, finely chopped",
@@ -47,7 +32,30 @@
             "110g/4oz unsalted roasted peanuts, ground",
             "150ml/5fl oz coconut milk",
             "\u00bd lemon, juice only"
+        ],
+        "For the marinade": [
+            "2-3 tbsp soy sauce",
+            "1 garlic clove, crushed",
+            "1 tsp sugar",
+            "pinch of ground ginger",
+            "salt and freshly ground black pepper to taste"
+        ],
+        "default": [
+            "1 red pepper, de-seeded and cubed",
+            "1 yellow pepper, de-seeded and cubed",
+            "12 cherry tomatoes",
+            "4 salad onions topped, tailed and cut into 5cm/2in lengths",
+            "2 baby courgettes, cut into chunks",
+            "groundnut oil or sunflower oil, for grilling",
+            "4 kebab skewers",
+            "basmati rice, to serve"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Mix all the vegetables together in a bowl. Combine the marinade ingredients in a separate bowl and pour over the vegetables, making sure the vegetables are evenly coated.",
@@ -59,8 +67,9 @@
         "Gently re-heat the peanut dressing.",
         "Serve the kebabs on a bed of rice, drizzled with peanut dressing."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Oriental vegetable kebabs with peanut dressing",
     "videos": "[]"
 }

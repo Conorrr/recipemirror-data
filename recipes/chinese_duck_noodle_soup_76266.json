@@ -1,26 +1,50 @@
 {
-    "title": "Chinese duck noodle soup and wontons",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "You will need to joint two whole ducks for this recipe, but will have some leftover meat. Perfect for making a stir fry or salad on another day.",
     "author": {
         "john_torode": "John Torode"
     },
-    "show": {
-        "b007mtf0": "Celebrity MasterChef"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Chinese",
+    "description": "You will need to joint two whole ducks for this recipe, but will have some leftover meat. Perfect for making a stir fry or salad on another day.",
+    "dishes": [
+        "casserole",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For finishing the stock": [
+            "1 piece root ginger, unpeeled, sliced",
+            "2 red chillies",
+            "6 coriander roots",
+            "4 whole spring onions",
+            "3 tbsp fish sauce",
+            "4 star anise"
+        ],
+        "For the dumplings": [
+            "2 duck legs, bones removed",
+            "4 spring onions, white parts chopped, green parts reserved for garnish",
+            "2 tsp dark soy sauce",
+            "2 tsp sesame oil",
+            "20 round dim sum (gyoza) wrappers"
+        ],
+        "To serve": [
+            "300g/10oz fresh egg noodles",
+            "small handful coriander leaves",
+            "2 red chillis, seeds removed, sliced"
+        ],
         "default": [
             "500g/1lb 2oz duck bones and trimmings, chopped",
             "1 carrot, chopped",
@@ -32,27 +56,13 @@
             "600ml/21fl oz chicken stock",
             "2 x duck crowns (or 4 duck breasts)",
             "2 tsp Chinese five-spice"
-        ],
-        "For the dumplings": [
-            "2 duck legs, bones removed",
-            "4 spring onions, white parts chopped, green parts reserved for garnish",
-            "2 tsp dark soy sauce",
-            "2 tsp sesame oil",
-            "20 round dim sum (gyoza) wrappers"
-        ],
-        "For finishing the stock": [
-            "1 piece root ginger, unpeeled, sliced",
-            "2 red chillies",
-            "6 coriander roots",
-            "4 whole spring onions",
-            "3 tbsp fish sauce",
-            "4 star anise"
-        ],
-        "To serve": [
-            "300g/10oz fresh egg noodles",
-            "small handful coriander leaves",
-            "2 red chillis, seeds removed, sliced"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b007mtf0": "Celebrity MasterChef"
     },
     "steps": [
         "To make a duck stock, heat a large casserole or heavy-based saucepan and add the duck bones and any duck trimmings. Brown them and render out any fat and juices.",
@@ -65,8 +75,9 @@
         "Cook the egg noodles according to packet instructions.",
         "To serve, arrange some egg noodles in each serving bowl along with five dumplings and a sliced duck breast. Pour over about a quarter of the stock, garnish with the greens from the spring onions, coriander leaves and sliced chilli."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chinese duck noodle soup and wontons",
     "videos": "[]"
 }

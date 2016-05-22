@@ -1,24 +1,22 @@
 {
-    "title": "Shiitake broth",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "broth",
+        "sauce",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,13 +29,20 @@
             "handful fresh coriander, chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Bring the chicken or vegetable stock to the boil and turn down to a gentle simmer.",
         "Add the chilli, lemongrass, shiitake mushrooms, soy sauce and sesame oil. Simmer for five minutes, or until the mushrooms are tender.",
         "Serve in a bowl topped with the coriander."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Shiitake broth",
     "videos": "[]"
 }

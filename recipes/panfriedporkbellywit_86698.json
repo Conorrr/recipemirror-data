@@ -1,26 +1,41 @@
 {
-    "title": "Pan-fried pork belly with scallop and squid, caramelised onions and a balsamic sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tom_aikens": "Tom Aikens"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bun",
+        "caramel",
+        "pie",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the balsamic sauce": [
+            "4 banana shallots, finely chopped",
+            "200ml/7fl oz balsamic vinegar",
+            "250ml/9fl oz fresh chicken stock",
+            "salt and freshly ground black pepper"
+        ],
+        "For the caramelised onions": [
+            "40g/1\u00bdoz butter",
+            "2 onions, finely sliced",
+            "2 tsp caster sugar",
+            "2 sprigs thyme",
+            "5 tbsp balsamic vinegar",
+            "salt and freshly ground black pepper"
+        ],
         "For the pork belly": [
             "450g/1lb pork belly",
             "2 carrots, roughly chopped",
@@ -33,26 +48,18 @@
             "1 tbsp vegetable oil",
             "salt and freshly ground black pepper"
         ],
-        "For the caramelised onions": [
-            "40g/1\u00bdoz butter",
-            "2 onions, finely sliced",
-            "2 tsp caster sugar",
-            "2 sprigs thyme",
-            "5 tbsp balsamic vinegar",
-            "salt and freshly ground black pepper"
-        ],
-        "For the balsamic sauce": [
-            "4 banana shallots, finely chopped",
-            "200ml/7fl oz balsamic vinegar",
-            "250ml/9fl oz fresh chicken stock",
-            "salt and freshly ground black pepper"
-        ],
         "For the scallops and squid": [
             "8 scallops, sliced in half horizontally to form two discs",
             "4 baby squid tubes, finely sliced into rings",
             "1 tbsp vegetable oil",
             "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For pork belly, place the pork belly into a large pan over a medium heat and cover with water. Bring to the boil, then drain off the water and return the pork belly to the pan.",
@@ -70,8 +77,9 @@
         "Heat a frying pan and add the vegetable oil, scallops and squid. Fry the scallops and squid for 2-3 minutes, or until completely cooked through, turning the scallops over halfway through.",
         "To serve, place a few slices of pork belly in the centre of each plate and top with a spoonful of caramelised onions. Place three scallop pieces on top of each, then top with the squid. Spoon the shallot sauce around the plate and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pan-fried pork belly with scallop and squid, caramelised onions and a balsamic sauce",
     "videos": "[]"
 }

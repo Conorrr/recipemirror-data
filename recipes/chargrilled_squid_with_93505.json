@@ -1,32 +1,24 @@
 {
-    "title": "Chargrilled squid with creamy ponzu dressing",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Delicious, sustainable squid, cooked in seconds, served with a tangy ponzu dressing.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Delicious, sustainable squid, cooked in seconds, served with a tangy ponzu dressing.",
+    "dishes": [
+        "jam",
+        "mayonnaise",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the squid": [
-            "4 x squid (about 250g/9oz each), cleaned and cut into triangles",
-            "salt and freshly ground black pepper",
-            "extra virgin olive oil",
-            "1 lime, juice only"
-        ],
         "For the creamy ponzu dressing": [
             "2 free-range eggs, yolks only",
             "\u00bd tsp sea salt",
@@ -36,12 +28,24 @@
             "2 tsp yuzu juice",
             "200ml/7floz vegetable oil"
         ],
+        "For the squid": [
+            "4 x squid (about 250g/9oz each), cleaned and cut into triangles",
+            "salt and freshly ground black pepper",
+            "extra virgin olive oil",
+            "1 lime, juice only"
+        ],
         "To serve": [
             "3 tbsp coriander cress",
             "2 tbsp celery cress",
             "2 tbsp mint leaves, picked",
             "1 handful watercress, leaves picked"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the squid, heat a griddle pan until searing hot.",
@@ -53,8 +57,9 @@
         "Check the seasoning and add more yuzu juice if desired.",
         "To serve, scatter the cress and leaves over each plate, then place a squid on top and drizzle with the creamy ponzu dressing."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chargrilled squid with creamy ponzu dressing",
     "videos": "[]"
 }

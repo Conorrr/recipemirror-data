@@ -1,33 +1,28 @@
 {
-    "title": "Beetroot pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beetroot_pie_89195_16x9.jpg"
-    ],
-    "description": "This recipe is based on the sweet, spicy American pumpkin pie but uses very British beetroot, which gives it an amazing, deep colour and flavour. Serve with cr\u00e8me fra\u00eeche. Equipment and preparation: for this recipe you will need a 23cm/9in loose-based tart tin, 3cm/1\u00bcin deep.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b03hcv64": "Paul Hollywood's Pies & Puds"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This recipe is based on the sweet, spicy American pumpkin pie but uses very British beetroot, which gives it an amazing, deep colour and flavour. Serve with cr\u00e8me fra\u00eeche. Equipment and preparation: for this recipe you will need a 23cm/9in loose-based tart tin, 3cm/1\u00bcin deep.",
+    "dishes": [
+        "bread",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "pickle",
+        "pie",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beetroot_pie_89195_16x9.jpg"
+    ],
     "ingredients": {
-        "For the sweet shortcrust pastry": [
-            "200g/7oz plain flour",
-            "2 tbsp icing sugar",
-            "100g/3\u00bdoz unsalted butter, chilled, cut into roughly 1cm/\u00bdin cubes",
-            "1 free-range egg, lightly beaten",
-            "1 tsp lemon juice"
-        ],
         "For the filling": [
             "350g/12oz cooked and peeled beetroot (vacuum-packed is fine, but not pickled beetroot)",
             "125ml/4fl oz double cream",
@@ -36,7 +31,20 @@
             "1 tsp ground cinnamon",
             "\u00bd tsp ground ginger",
             "1 lemon, finely grated zest only"
+        ],
+        "For the sweet shortcrust pastry": [
+            "200g/7oz plain flour",
+            "2 tbsp icing sugar",
+            "100g/3\u00bdoz unsalted butter, chilled, cut into roughly 1cm/\u00bdin cubes",
+            "1 free-range egg, lightly beaten",
+            "1 tsp lemon juice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 6-8",
+    "show": {
+        "b03hcv64": "Paul Hollywood's Pies & Puds"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -49,8 +57,9 @@
         "In a bowl, whisk the eggs and sugar together thoroughly. Add the beetroot pur\u00e9e, spices and lemon zest and mix well.",
         "Pour the mixture into the pastry case and bake for 30\u201340 minutes, or until the filling is set with a slight wobble in the middle. Leave to cool completely."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry"
+    "tips": [
+        
     ],
+    "title": "Beetroot pie",
     "videos": "[]"
 }

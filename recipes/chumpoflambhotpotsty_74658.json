@@ -1,26 +1,32 @@
 {
-    "title": "Chump of lamb hotpot-style with pickled red cabbage",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "",
+    "dishes": [
+        "casserole",
+        "hotpot",
+        "oven-baked_dishes",
+        "pickle",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pickled red cabbage": [
+            "1 large red cabbage, very finely sliced",
+            "100ml/3\u00bdfl oz malt vinegar",
+            "150g/6oz brown sugar"
+        ],
         "default": [
             "4 x 280g/10oz lamb chump chops",
             "2 tbsp olive oil",
@@ -32,12 +38,13 @@
             "1 litre/1 pint 15fl oz clarified butter or vegetable oil, for blanching",
             "50g/1\u00beoz butter",
             ""
-        ],
-        "For the pickled red cabbage": [
-            "1 large red cabbage, very finely sliced",
-            "100ml/3\u00bdfl oz malt vinegar",
-            "150g/6oz brown sugar"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 160C/320F/Gas 2.",
@@ -57,8 +64,9 @@
         "Toss to coat and place in the fridge for 24 hours, stirring every couple of hours.",
         "Serve with the lamb."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chump of lamb hotpot-style with pickled red cabbage",
     "videos": "[]"
 }

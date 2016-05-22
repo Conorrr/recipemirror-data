@@ -1,26 +1,33 @@
 {
-    "title": "Stuffed poached pear tart",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ross_burden": "Ross Burden"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "salad",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the filling": [
+            "150g/5\u00bdoz goats' cheese",
+            "1 tsp finely chopped chives",
+            "1 salad onion, finely chopped",
+            "salt and freshly ground black pepper",
+            "basil leaf, to garnish"
+        ],
         "For the pastry": [
             "170g/6oz plain flour",
             "100g/3\u00bdoz unsalted butter",
@@ -33,14 +40,13 @@
             "50g/2oz caster sugar",
             "1 bay leaf",
             "1 pear, peeled, cored and halved"
-        ],
-        "For the filling": [
-            "150g/5\u00bdoz goats' cheese",
-            "1 tsp finely chopped chives",
-            "1 salad onion, finely chopped",
-            "salt and freshly ground black pepper",
-            "basil leaf, to garnish"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -52,8 +58,9 @@
         "Stuff this mixture into the cored poached pear halves and place the pears on the pastry. Bake in the oven for 10 minutes.",
         "Serve on a large warm plate and garnish with the basil leaf."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Stuffed poached pear tart",
     "videos": "[]"
 }

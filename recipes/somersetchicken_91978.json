@@ -1,23 +1,24 @@
 {
-    "title": "Somerset chicken",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "19",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -40,6 +41,12 @@
             "butter, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "19",
+    "serves": "Serves 6",
+    "show": {
+        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "Season the chicken breasts with salt and freshly ground black pepper.",
@@ -52,8 +59,9 @@
         "Sprinkle the cheddar cheese over the chicken and place under the grill for 4-5 minutes, or until the cheese is melted, golden-brown and bubbling.",
         "To serve, place a baked potato topped with a knob of butter on each serving plate. Spoon the chicken alongside and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Somerset chicken",
     "videos": "[]"
 }

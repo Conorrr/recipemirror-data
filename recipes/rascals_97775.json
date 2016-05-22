@@ -1,24 +1,27 @@
 {
-    "title": "Rascals",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "A generously proportioned Yorkshire biscuit which is a cross between a fruit scone and a rock cake. Great for baking with children.",
     "author": {
         "aldo_zilli": "Aldo Zilli"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "A generously proportioned Yorkshire biscuit which is a cross between a fruit scone and a rock cake. Great for baking with children.",
+    "dishes": [
+        "biscuit",
+        "cake",
+        "oven-baked_dishes",
+        "pastry",
+        "rock_cake",
+        "scone",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -39,6 +42,12 @@
             "butter or clotted cream, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Makes 6",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "In a bowl, mix the flours and the baking powder together. Rub in the butter. Stir in the lemon zest, dried fruit and spice.",
@@ -47,8 +56,9 @@
         "Glaze with the egg wash (egg beaten with milk) and decorate with the cherries and almonds. Make faces using the cherries as eyes and almonds as teeth.",
         "Bake for 15-20 minutes, or until golden-brown and cooked through. Serve warm with butter or clotted cream."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Rascals",
     "videos": "[]"
 }

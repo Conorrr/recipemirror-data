@@ -1,24 +1,23 @@
 {
-    "title": "Summer pudding",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "overnight",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Save room for a seasonal finale, try Valentine Warner's summer pudding recipe.",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b00lpbxs": "What to Eat Now"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Save room for a seasonal finale, try Valentine Warner's summer pudding recipe.",
+    "dishes": [
+        "bread",
+        "stir-fries",
+        "summer_pudding"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,6 +31,12 @@
             "12 slices thick-cut white bread, crusts removed",
             "fresh Jersey double cream, to serve (optional)"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b00lpbxs": "What to Eat Now"
     },
     "steps": [
         "Bring half of the fruit and all of the sugar, lemon juice, wine and water to a simmer in a pan. Continue to simmer for 4-5 minutes, stirring regularly, until the berries have softened and the sugar has dissolved.",
@@ -50,8 +55,9 @@
         "Chill the summer pudding in the fridge overnight.",
         "To serve, unwrap the clingfilm from the base of the summer pudding. Invert the summer pudding onto a serving plate and remove the remaining cling film. Cut the summer pudding into wedges and serve with cream (if using) and any remaining fruit syrup."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Summer pudding",
     "videos": "[]"
 }

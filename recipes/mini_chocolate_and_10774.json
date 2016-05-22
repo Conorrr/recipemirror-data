@@ -1,23 +1,24 @@
 {
-    "title": "Mini chocolate and cherry cakes",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 12 mini cakes",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "If the day had gone to plan this is what Claire would have baked: delicious mini cakes with an injection of cherry brandy syrup. If the decoration is too much work, just make the cake and syrup and serve it with whipped cream and chocolate sauce. Equipment and preparation: you will need a 12-hole muffin tin (as straight sided as possible), a piping bag and food syringe.",
     "author": {
         "claire": "Claire Goodwin"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "If the day had gone to plan this is what Claire would have baked: delicious mini cakes with an injection of cherry brandy syrup. If the decoration is too much work, just make the cake and syrup and serve it with whipped cream and chocolate sauce. Equipment and preparation: you will need a 12-hole muffin tin (as straight sided as possible), a piping bag and food syringe.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -33,10 +34,13 @@
             "18 amarena cherries in syrup (approximately 1 jar), quartered, 5 tbsp syrup reserved",
             "110ml/3\u00befl oz buttermilk"
         ],
-        "For the syrup": [
-            "50ml/1\u00befl oz amarena cherry syrup (from the cherries)",
-            "40g/1\u00bdoz caster sugar",
-            "135ml/4\u00bdfl oz cherry brandy"
+        "For the decoration": [
+            "120g/4\u00bcoz nonpareils sprinkles (optional)",
+            "250g/9oz yellow fondant sugar paste",
+            "10g/\u00bcoz gold lustre edible dust",
+            "250g/9oz fuchsia fondant sugar paste",
+            "tylose (optional)",
+            "food grade alcohol spirit (optional)"
         ],
         "For the filling": [
             "150g/5\u00bdfl oz double cream, whipped"
@@ -45,14 +49,17 @@
             "100g/3\u00bdoz double cream",
             "200g/7oz dark chocolate"
         ],
-        "For the decoration": [
-            "120g/4\u00bcoz nonpareils sprinkles (optional)",
-            "250g/9oz yellow fondant sugar paste",
-            "10g/\u00bcoz gold lustre edible dust",
-            "250g/9oz fuchsia fondant sugar paste",
-            "tylose (optional)",
-            "food grade alcohol spirit (optional)"
+        "For the syrup": [
+            "50ml/1\u00befl oz amarena cherry syrup (from the cherries)",
+            "40g/1\u00bdoz caster sugar",
+            "135ml/4\u00bdfl oz cherry brandy"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Makes 12 mini cakes",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the cake, preheat the oven to 180C/350F/Gas 4. Grease the muffin tins with melted butter and line the bases with baking parchment.",
@@ -73,8 +80,9 @@
         "When the ganache is firm, wrap a strip of fondant around the base of each cake, using a little water or food grade alcohol spirit to help the ends stick.",
         "Top each cake with a gold heart, securing it in place with a little leftover ganache, if required."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mini chocolate and cherry cakes",
     "videos": "[]"
 }

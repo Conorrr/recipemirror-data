@@ -1,26 +1,33 @@
 {
-    "title": "Hoki with patatas bravas",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Spanish",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the hoki": [
+            "10 x 150g/5oz hoki steaks",
+            "1 lemon, juice only",
+            "400g/13oz mature cheddar or Manchego cheese, grated",
+            "25g/1oz Dijon mustard",
+            "2 free-range eggs, beaten",
+            "salt and freshly ground pepper"
+        ],
         "default": [
             "olive oil, for roasting",
             "6-8 large baking potatoes, peeled, cut into 2.5cm/1in cubes",
@@ -30,15 +37,13 @@
             "2 small red chillies, seeds removed, chopped",
             "1 tsp paprika",
             "1 tbsp chopped fresh parsley"
-        ],
-        "For the hoki": [
-            "10 x 150g/5oz hoki steaks",
-            "1 lemon, juice only",
-            "400g/13oz mature cheddar or Manchego cheese, grated",
-            "25g/1oz Dijon mustard",
-            "2 free-range eggs, beaten",
-            "salt and freshly ground pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 10",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -52,8 +57,9 @@
         "Transfer the fish to the oven and roast for 10-15 minutes, or until the cheese browns and the fish is completely cooked through.",
         "To serve, press a spoonful of patatas bravas onto a plate, then place a hoki steak on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Hoki with patatas bravas",
     "videos": "[]"
 }

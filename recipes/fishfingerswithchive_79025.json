@@ -1,26 +1,30 @@
 {
-    "title": "Fish fingers with chive yoghurt dip",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dip": [
+            "110g/4oz Greek yoghurt",
+            "2 tbsp fresh chives, chopped",
+            "squeeze of lime juice",
+            "\u00bd lime, cut into wedges"
+        ],
         "default": [
             "vegetable oil, for deep-frying",
             "1 lemon sole fillet, cut into strips",
@@ -28,13 +32,13 @@
             "1 free-range egg",
             "salt and freshly ground black pepper",
             "splash of carbonated water"
-        ],
-        "For the dip": [
-            "110g/4oz Greek yoghurt",
-            "2 tbsp fresh chives, chopped",
-            "squeeze of lime juice",
-            "\u00bd lime, cut into wedges"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat a heavy bottomed saucepan, a third full of vegetable oil, until a breadcrumb sizzles in it. (CAUTION: hot oil can be dangerous! Do not leave unattended.)",
@@ -45,8 +49,9 @@
         "To make the dip, mix the yoghurt with the chives and lime juice. Transfer to a serving bowl.",
         "Serve the fish fingers on a plate with the dip and lime wedges alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fish fingers with chive yoghurt dip",
     "videos": "[]"
 }

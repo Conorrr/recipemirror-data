@@ -1,26 +1,34 @@
 {
-    "title": "Mary Berry\u2019s lasagne al forno",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6-8",
-    "recommendations": "73",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mary_berrys_lasagne_al_16923_16x9.jpg"
-    ],
-    "description": "This is a classic lasagne recipe which has been perfected over the years. For the best results leave the lasagne to stand for six hours before cooking.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b01qgf70": "The Mary Berry Story"
-    },
-    "tips": [
-        "When Mary Berry first cooked this recipe on television in the 1970s, she used dripping to fry the meat and vegetables. Seek this out for a really meaty flavour, but olive oil is generally preferable now."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "This is a classic lasagne recipe which has been perfected over the years. For the best results leave the lasagne to stand for six hours before cooking.",
+    "dishes": [
+        "jelly",
+        "lasagne",
+        "oven-baked_dishes",
+        "pasta",
+        "ragu",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_brown_mince"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mary_berrys_lasagne_al_16923_16x9.jpg"
+    ],
     "ingredients": {
+        "For the lasagne": [
+            "10-12 sheets lasagne",
+            "75g/3oz mature cheddar cheese, grated"
+        ],
         "For the ragu": [
             "2 tbsp olive oil",
             "900g/2lb minced beef",
@@ -41,11 +49,13 @@
             "2 tsp Dijon mustard",
             "50g/2oz parmesan cheese, grated",
             "salt and pepper"
-        ],
-        "For the lasagne": [
-            "10-12 sheets lasagne",
-            "75g/3oz mature cheddar cheese, grated"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "73",
+    "serves": "Serves 6-8",
+    "show": {
+        "b01qgf70": "The Mary Berry Story"
     },
     "steps": [
         "Preheat the oven to160C/325F/Gas 3.",
@@ -57,8 +67,9 @@
         "Preheat the oven temperature to 200C/400F/Gas 6.",
         "Cook in the middle of the oven for about 45 minutes- or until golden brown on top, bubbling around the edges and the pasta is soft."
     ],
-    "howTos": [
-        "how_to_brown_mince"
+    "tips": [
+        "When Mary Berry first cooked this recipe on television in the 1970s, she used dripping to fry the meat and vegetables. Seek this out for a really meaty flavour, but olive oil is generally preferable now."
     ],
+    "title": "Mary Berry\u2019s lasagne al forno",
     "videos": "[]"
 }

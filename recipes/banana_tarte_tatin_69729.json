@@ -1,39 +1,47 @@
 {
-    "title": "Banana tarte tatin",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 8",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "Caramelised bananas work wonderfully well with homemade all-butter puff-pastry - an easy twist on classic apple.",
     "author": {
         "sarah_jane_willis": "Sarah Jane Willis"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Caramelised bananas work wonderfully well with homemade all-butter puff-pastry - an easy twist on classic apple.",
+    "dishes": [
+        "caramel",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stir-fries",
+        "tarte_tatin"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the caramel": [
+            "100g/3\u00bdoz granulated white sugar",
+            "60g/2\u00bcoz salted butter"
+        ],
         "For the rough puff pastry": [
             "225g/8oz plain flour, plus extra for dusting",
             "pinch sea salt",
             "190g/6\u00beoz unsalted butter, cold, cut into 2cm/\u00bein cubes",
             "\u00bd tbsp lemon juice"
         ],
-        "For the caramel": [
-            "100g/3\u00bdoz granulated white sugar",
-            "60g/2\u00bcoz salted butter"
-        ],
         "For the topping": [
             "3 firm bananas"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "7",
+    "serves": "Serves 8",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the rough puff pastry, sift the flour and salt into a large bowl and add the butter. Move the butter around until coated in the flour.",
@@ -44,8 +52,9 @@
         "Slice the bananas into rounds and arrange in a pattern on the caramel.",
         "Roll out the pastry and cut out a circle slightly bigger than your pan. Place the pastry on top of the bananas and tuck it in around the edges. Pierce the top of the pastry with a fork and place in the pre heated oven for 40-45 minutes, or until the pastry is golden and puffed up. Immediately turn the tart out onto a plate (take care as the caramel will still be very hot and may splash) and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Banana tarte tatin",
     "videos": "[]"
 }

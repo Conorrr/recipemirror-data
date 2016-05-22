@@ -1,26 +1,28 @@
 {
-    "title": "Sticky jerk wings with sugared oranges",
-    "cookTime": "over 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/stickyjerkwingswiths_91690_16x9.jpg"
-    ],
-    "description": "Sweetness counteracts the hot kick of jerk spices in these sticky fruity chicken wings - brilliant finger food!",
     "author": {
         "levi_roots": "Levi Roots"
     },
-    "show": {
-        "b00mh31r": "Caribbean Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Caribbean",
+    "description": "Sweetness counteracts the hot kick of jerk spices in these sticky fruity chicken wings - brilliant finger food!",
+    "dishes": [
+        "jerk_chicken",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/stickyjerkwingswiths_91690_16x9.jpg"
+    ],
     "ingredients": {
+        "For the chicken wings": [
+            "12 chicken wings",
+            "4 long, mild red chillies, left whole"
+        ],
         "For the jerk marinade": [
             "4 spring onions, green part only, chopped",
             "1 Scotch bonnet chilli, chopped",
@@ -33,14 +35,16 @@
             "2 tbsp olive oil",
             "salt and freshly ground black pepper"
         ],
-        "For the chicken wings": [
-            "12 chicken wings",
-            "4 long, mild red chillies, left whole"
-        ],
         "For the sugared oranges": [
             "2 tbsp soft light brown sugar",
             "2 seedless oranges, cut into quarters"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b00mh31r": "Caribbean Food Made Easy"
     },
     "steps": [
         "For the jerk marinade, blend all of the jerk marinade ingredients in a food processor until they form a smooth paste.",
@@ -50,8 +54,9 @@
         "Meanwhile, for the sugared oranges, sprinkle the sugar onto a plate. Dredge the cut sides of each orange quarter in the sugar, then place the orange quarters, cut-sides down, onto the grill. Grill for 3-4 minutes, or until the sugar melts and turns golden-brown.",
         "To serve, place three jerk chicken wings onto each of four serving plates. Place two sugared orange quarters and one grilled chilli alongside each serving of chicken wings."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sticky jerk wings with sugared oranges",
     "videos": "[]"
 }

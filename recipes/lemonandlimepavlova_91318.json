@@ -1,31 +1,26 @@
 {
-    "title": "Lemon and lime pavlova",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "16",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemonandlimepavlova_91318_16x9.jpg"
-    ],
-    "description": "End your meal on a high note with this citrus centrepiece topped with tangy passion fruit.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        "Choose wrinkled passion fruit as the ones that appear dried-out are often the ripest."
+    "cookTime": "30 mins to 1 hour",
+    "description": "End your meal on a high note with this citrus centrepiece topped with tangy passion fruit.",
+    "dishes": [
+        "meringue",
+        "oven-baked_dishes",
+        "pavlova",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemonandlimepavlova_91318_16x9.jpg"
+    ],
     "ingredients": {
-        "For the meringue": [
-            "150g/5\u00bdoz caster sugar",
-            "3 free-range egg whites, whisked in a clean bowl until stiff peaks form when the whisk is removed",
-            "\u00bd tsp sherry vinegar"
-        ],
         "For the filling": [
             "2 lemons, juice and zest",
             "3 limes, juice and zest",
@@ -34,7 +29,18 @@
             "150g/5oz butter, softened",
             "200g/7oz double cream, whipped until soft peaks form when the whisk is removed",
             "12 passion fruit, pulp only, to serve"
+        ],
+        "For the meringue": [
+            "150g/5\u00bdoz caster sugar",
+            "3 free-range egg whites, whisked in a clean bowl until stiff peaks form when the whisk is removed",
+            "\u00bd tsp sherry vinegar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "16",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Line a baking tray with greaseproof paper.",
@@ -47,9 +53,9 @@
         "Remove the mixture from the heat and whisk a little, then set aside until completely cool.",
         "To serve, place the meringue into the centre of a serving platter. Spoon the lemon and lime filling mixture into the centre, then top with the whipped cream and passion fruit pulp."
     ],
-    "howTos": [
-        "folding",
-        "zesting_citrus_fruit"
+    "tips": [
+        "Choose wrinkled passion fruit as the ones that appear dried-out are often the ripest."
     ],
+    "title": "Lemon and lime pavlova",
     "videos": "[]"
 }

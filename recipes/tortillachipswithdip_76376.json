@@ -1,30 +1,24 @@
 {
-    "title": "Tortilla chips with dips",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "chips",
+        "dips",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the tortilla chips": [
-            "vegetable oil, for deep-frying",
-            "2 flour tortillas, cut into triangles"
-        ],
         "For the bean dip": [
             "55g/2oz mixed beans from tin",
             "2 garlic cloves, peeled and roughly chopped",
@@ -36,10 +30,20 @@
             "2 tbsp tomato sauce",
             "pinch chilli powder"
         ],
+        "For the tortilla chips": [
+            "vegetable oil, for deep-frying",
+            "2 flour tortillas, cut into triangles"
+        ],
         "To serve": [
             "Greek-style yoghurt",
             "Handful fresh coriander, chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat a pan one third filled with vegetable oil for deep-frying, until a crumb will sizzle gently in it. (CAUTION: Hot oil can be very dangerous. Do not leave unattended.)",
@@ -48,8 +52,9 @@
         "For the tomato dip, blend the tinned tomato, tomato sauce and chilli powder in a food processor until smooth. Transfer to a dish.",
         "Serve the tortilla chips alongside the dips and serve each with the yoghurt sprinkled with fresh coriander."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tortilla chips with dips",
     "videos": "[]"
 }

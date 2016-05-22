@@ -1,26 +1,31 @@
 {
-    "title": "Fruity Swedish tea ring",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 1 large loaf",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This pretty ring of sweet bread is slashed at the sides to expose the delicious fruit and nut filling. For this recipe you will need a freestanding mixer with a dough hook attachment, a proving bag and a large baking tray.",
     "author": {
         "richard": "Richard Burr"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Nordic",
+    "description": "This pretty ring of sweet bread is slashed at the sides to expose the delicious fruit and nut filling. For this recipe you will need a freestanding mixer with a dough hook attachment, a proving bag and a large baking tray.",
+    "dishes": [
+        "bread",
+        "icing",
+        "jam",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the decoration": [
+            "2 tbsp apricot jam",
+            "1 lemon, juice only",
+            "100g/3\u00bdoz icing sugar"
+        ],
         "For the dough": [
             "420g/15oz strong white flour, plus extra for dusting",
             "7g salt (approximately a teaspoon)",
@@ -38,12 +43,13 @@
             "100g/3\u00bdoz pecans, chopped",
             "60g/2\u00bcoz caster sugar",
             "3 tsp ground cinnamon"
-        ],
-        "For the decoration": [
-            "2 tbsp apricot jam",
-            "1 lemon, juice only",
-            "100g/3\u00bdoz icing sugar"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Makes 1 large loaf",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Put the flour, salt, yeast, butter, sugar, eggs, milk and 50ml/1\u00befl oz water in a bowl. Mix with a spoon until combined.",
@@ -61,8 +67,9 @@
         "Once baked, remove the tea ring from the oven and brush it with the apricot glaze. Set aside to cool completely on a wire rack.",
         "Make an icing by combining the lemon juice and the icing sugar until smooth. When fully cooled, drizzle the lemon icing over the loaf and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fruity Swedish tea ring",
     "videos": "[]"
 }

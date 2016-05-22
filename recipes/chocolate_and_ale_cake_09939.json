@@ -1,24 +1,25 @@
 {
-    "title": "Chocolate and stout cake",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 8-10",
-    "recommendations": "25",
-    "images": [
-        
-    ],
-    "description": "The generous dash of stout in this delicious chocolate cake makes for a treat that's perfect for adults.",
     "author": {
         "angela_hartnett": "Angela Hartnett"
     },
-    "show": {
-        "b016pbs9": "Great British Food Revival"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "The generous dash of stout in this delicious chocolate cake makes for a treat that's perfect for adults.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "icing",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "melting_chocolate"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the cake": [
@@ -37,6 +38,12 @@
             "50g/2oz chopped roasted hazelnuts, to decorate"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "25",
+    "serves": "Serves 8-10",
+    "show": {
+        "b016pbs9": "Great British Food Revival"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease a 20cm/8in cake tin with butter.",
         "For the cake, bring a little water to the boil in a pan. Reduce the heat until the water is simmering, then suspend a heatproof bowl over the water, making sure that the bottom of the bowl does not touch the water.",
@@ -51,8 +58,9 @@
         "When the melted chocolate mixture has cooled, transfer it to a food processor, add the icing sugar and pulse until smooth and well combined. (Alternatively, whisk in the icing sugar using a hand-held electric mixer.)",
         "When the cake has completely cooled, spread the icing evenly over the top and sides, then sprinkle over the chopped hazelnuts. When the icing has dried, serve."
     ],
-    "howTos": [
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "Chocolate and stout cake",
     "videos": "[p010jdk0:p010jdk2]"
 }

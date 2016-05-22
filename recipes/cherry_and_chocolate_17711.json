@@ -1,38 +1,42 @@
 {
-    "title": "Cherry and chocolate gateau",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6-8",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Layers of chocolate sponge sandwiched with cherry jam and kirsch cream, topped with rich chocolate meringue frosting. Equipment: You will need a sugar thermometer for this recipe.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Layers of chocolate sponge sandwiched with cherry jam and kirsch cream, topped with rich chocolate meringue frosting. Equipment: You will need a sugar thermometer for this recipe.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "gateau",
+        "icing",
+        "jam",
+        "meringue",
+        "oven-baked_dishes",
+        "pie",
+        "sandwich"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the filling": [
+            "400ml/14fl oz double cream",
+            "3 tbsp kirsch",
+            "2 tbsp icing sugar",
+            "200g/7oz cherry jam"
+        ],
         "For the sponge": [
             "5 free-range eggs",
             "150g/5\u00bdoz caster sugar",
             "25g/1oz butter, melted, plus extra for greasing the tins",
             "115g/4oz plain flour",
             "40g/1\u00bdoz cocoa powder, sifted"
-        ],
-        "For the filling": [
-            "400ml/14fl oz double cream",
-            "3 tbsp kirsch",
-            "2 tbsp icing sugar",
-            "200g/7oz cherry jam"
         ],
         "For the topping": [
             "250g/9oz caster sugar",
@@ -43,6 +47,12 @@
             "8 fresh cherries, stalks on",
             "4 tbsp chocolate sprinkles"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "3",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -64,8 +74,9 @@
         "Spread the chocolate topping over the gateau to cover completely.",
         "Decorate with the fresh cherries and chocolate sprinkles."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cherry and chocolate gateau",
     "videos": "[]"
 }

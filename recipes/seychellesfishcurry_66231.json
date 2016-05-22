@@ -1,36 +1,26 @@
 {
-    "title": "Seychelles fish curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "11",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/seychellesfishcurry_66231_16x9.jpg"
-    ],
-    "description": "The special blend of spices need a little preparation, but once done this fragrant fish curry is quick to make.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "The special blend of spices need a little preparation, but once done this fragrant fish curry is quick to make.",
+    "dishes": [
+        "curry",
+        "fish_curry",
+        "pie",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/seychellesfishcurry_66231_16x9.jpg"
+    ],
     "ingredients": {
-        "For the massal\u00e9": [
-            "2 tbsp coriander seeds",
-            "2 tsp cumin seeds",
-            "2 tsp black peppercorns",
-            "1 tsp cardamom pods",
-            "1 tsp cloves",
-            "small piece of cinnamon",
-            "1 tsp ground chilli",
-            "1 tsp grated nutmeg"
-        ],
         "For the curry": [
             "900g/2lb red snapper or monkfish",
             "salt and freshly ground black pepper",
@@ -44,7 +34,23 @@
             "leaves from 2 sprigs thyme",
             "\u00bd tsp anise",
             "450ml/\u00be pint fish stock or water"
+        ],
+        "For the massal\u00e9": [
+            "2 tbsp coriander seeds",
+            "2 tsp cumin seeds",
+            "2 tsp black peppercorns",
+            "1 tsp cardamom pods",
+            "1 tsp cloves",
+            "small piece of cinnamon",
+            "1 tsp ground chilli",
+            "1 tsp grated nutmeg"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Dry roast the whole spices until lightly coloured and set aside to cool. Grind finely and stir in the chilli and nutmeg. It can be stored for up to 2-3 months in an airtight jar.",
@@ -52,8 +58,9 @@
         "Heat the oil in a heavy pan and fry the onion until golden. Stir in the massal\u00e9 and turmeric and lightly fry. Add the pieces of fish, and all the other ingredients. Bring to a simmer and cook for about 10 minutes until the fish is ready.",
         "Serve with rice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Seychelles fish curry",
     "videos": "[]"
 }

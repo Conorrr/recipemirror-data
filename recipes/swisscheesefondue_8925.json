@@ -1,24 +1,25 @@
 {
-    "title": "Swiss cheese fondue",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "12",
-    "images": [
-        
-    ],
-    "description": "A classic Swiss recipe. Use flavoured breads like focaccia, olive breads or breadsticks and, for a different flavoured fondue, use other cheeses or a mix of mozzarella, dolcelatte and parmesan.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A classic Swiss recipe. Use flavoured breads like focaccia, olive breads or breadsticks and, for a different flavoured fondue, use other cheeses or a mix of mozzarella, dolcelatte and parmesan.",
+    "dishes": [
+        "bread",
+        "breadsticks",
+        "focaccia",
+        "fondue",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,14 +33,21 @@
             "cubed bread pieces, for dipping"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Rub the inside of the fondue pot with the halves of garlic.",
         "Add the wine and lemon juice to the pot and heat until boiling. Lower the heat and gradually stir in the cheeses until melted, stirring all the time.",
         "If using kirsch, blend with the cornflour, otherwise use water. Add to the cheese mixture and cook gently until the mixture is smooth - don't let it boil or it will burn.",
         "Using the fondue prongs, dip the bread cubes into the cheese and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Swiss cheese fondue",
     "videos": "[]"
 }

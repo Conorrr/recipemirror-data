@@ -1,34 +1,29 @@
 {
-    "title": "Chicken and tarragon pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "11",
-    "images": [
-        
-    ],
-    "description": "Serve with creamy mashed potato for comfort food perfection.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        "Substitute the chicken breasts for leftover roast chicken."
+    "cookTime": "30 mins to 1 hour",
+    "description": "Serve with creamy mashed potato for comfort food perfection.",
+    "dishes": [
+        "bread",
+        "chicken_pie",
+        "ham",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the shortcrust pastry": [
-            "500g/1lb plain flour",
-            "125g/4oz unsalted butter",
-            "125g/4oz lard",
-            "pinch salt",
-            "1 tsp white wine vinegar",
-            "1 egg, beaten"
-        ],
         "For the filling": [
             "75g/3oz unsalted butter",
             "50g/2oz plain flour",
@@ -38,7 +33,21 @@
             "125g/4oz good-quality ham, cut into strips",
             "2 large leeks",
             "5 tbsp chopped fresh tarragon"
+        ],
+        "For the shortcrust pastry": [
+            "500g/1lb plain flour",
+            "125g/4oz unsalted butter",
+            "125g/4oz lard",
+            "pinch salt",
+            "1 tsp white wine vinegar",
+            "1 egg, beaten"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Sift the flour and salt into a large bowl and rub the butter and lard into the flour until it resembles breadcrumbs.",
@@ -52,8 +61,9 @@
         "Roll the second piece of pastry out thinly and cover the pie. Seal and crimp the edges. Cut a hole in the top of the pie and brush the top with the beaten egg.",
         "Bake in the oven for 35-40 minutes."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Substitute the chicken breasts for leftover roast chicken."
     ],
+    "title": "Chicken and tarragon pie",
     "videos": "[]"
 }

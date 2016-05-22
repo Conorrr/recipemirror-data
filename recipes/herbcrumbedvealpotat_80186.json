@@ -1,26 +1,34 @@
 {
-    "title": "Herb-crumbed veal, potato rosti, chargrilled leeks, cabbage 'confit' and poached egg",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "poaching_eggs",
+        "chiffonade"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cabbage 'confit'": [
+            "1 tbsp olive oil",
+            "\u00bd red cabbage, shredded",
+            "50ml/2fl oz red wine",
+            "100g/3\u00bdoz caster sugar",
+            "100ml/3\u00bdfl oz hot chicken stock"
+        ],
         "For the herb-crumbed veal": [
             "100g/3\u00bdoz breadcrumbs",
             "1 tbsp finely chopped fresh parsley",
@@ -30,23 +38,22 @@
             "100g/3\u00bdoz flour, seasoned with salt and freshly ground black pepper",
             "1 tbsp olive oil"
         ],
-        "For the r\u00f6sti": [
-            "50g/1\u00beoz butter",
-            "100g/3\u00bdoz new potatoes, grated"
-        ],
-        "For the cabbage 'confit'": [
-            "1 tbsp olive oil",
-            "\u00bd red cabbage, shredded",
-            "50ml/2fl oz red wine",
-            "100g/3\u00bdoz caster sugar",
-            "100ml/3\u00bdfl oz hot chicken stock"
-        ],
         "For the poached eggs": [
             "1 free-range egg",
             "200ml/10fl oz boiling water",
             "25ml/1fl oz white wine vinegar",
             "salt and freshly ground black pepper"
+        ],
+        "For the r\u00f6sti": [
+            "50g/1\u00beoz butter",
+            "100g/3\u00bdoz new potatoes, grated"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -63,9 +70,9 @@
         "To make the poached egg, place the water and vinegar in a saucepan and heat to maintain a gentle simmer. Swirl the water with a spoon to create a whirlpool effect. Gently add the egg and poach for three minutes, or until cooked to your liking. Remove with a slotted spoon and rinse with hot water.",
         "To serve, place the r\u00f6sti in the centre of a warm plate, place the breadcrumbed veal on top. Serve some of the cabbage alongside and top with the poached egg."
     ],
-    "howTos": [
-        "poaching_eggs",
-        "chiffonade"
+    "tips": [
+        
     ],
+    "title": "Herb-crumbed veal, potato rosti, chargrilled leeks, cabbage 'confit' and poached egg",
     "videos": "[]"
 }

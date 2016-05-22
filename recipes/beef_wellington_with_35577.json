@@ -1,33 +1,35 @@
 {
-    "title": "Beef Wellington with tarragon sauce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beef_wellington_with_35577_16x9.jpg"
-    ],
-    "description": "Beef Wellington traditionally has p\u00e2t\u00e9 spread over the top of the fillet, which makes it very rich. This recipe is lighter, but with a lovely taste from the tarragon.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b06z8bw3": "Mary Berry's Foolproof Cooking"
-    },
-    "tips": [
-        "Always buy the French tarragon as Russian tarragon grows well, but has no flavour."
+    "cookTime": "1 to 2 hours",
+    "description": "Beef Wellington traditionally has p\u00e2t\u00e9 spread over the top of the fillet, which makes it very rich. This recipe is lighter, but with a lovely taste from the tarragon.",
+    "dishes": [
+        "beef_wellington",
+        "oven-baked_dishes",
+        "pastry",
+        "pate",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beef_wellington_with_35577_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "1.3kg/2lb 14oz middle-cut fillet of beef",
-            "1 tbsp oil",
-            "1\u00bd x 375g packets all-butter puff pastry",
-            "plain flour, for dusting",
-            "1 egg, beaten with a dash of milk",
-            "salt and freshly ground black pepper"
+        "For the tarragon sauce": [
+            "small knob of butter",
+            "100g/3\u00bdoz button mushrooms, finely sliced",
+            "1 tbsp plain flour",
+            "400ml/14fl oz full-fat cr\u00e8me fra\u00eeche",
+            "1 tbsp Dijon mustard",
+            "1 tbsp freshly chopped tarragon",
+            "a pinch sugar"
         ],
         "For the topping": [
             "large knob of butter",
@@ -37,15 +39,20 @@
             "2 tsp Dijon mustard",
             "1 egg yolk"
         ],
-        "For the tarragon sauce": [
-            "small knob of butter",
-            "100g/3\u00bdoz button mushrooms, finely sliced",
-            "1 tbsp plain flour",
-            "400ml/14fl oz full-fat cr\u00e8me fra\u00eeche",
-            "1 tbsp Dijon mustard",
-            "1 tbsp freshly chopped tarragon",
-            "a pinch sugar"
+        "default": [
+            "1.3kg/2lb 14oz middle-cut fillet of beef",
+            "1 tbsp oil",
+            "1\u00bd x 375g packets all-butter puff pastry",
+            "plain flour, for dusting",
+            "1 egg, beaten with a dash of milk",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b06z8bw3": "Mary Berry's Foolproof Cooking"
     },
     "steps": [
         "Preheat the oven to 220C/200C Fan/Gas 7.",
@@ -56,8 +63,9 @@
         "Meanwhile, make the tarragon sauce. Melt the butter in the same frying pan and fry the mushrooms over a high heat for 5\u201310 minutes or until the juices evaporate. Sprinkle in the flour and add the cr\u00e8me fra\u00eeche with the reserved mushroom juices (from the topping), the mustard and tarragon. Season with salt, pepper and sugar and bring to the boil, stirring. Simmer for 3 minutes until reduced slightly and add any beef juices from the original baking tray. Keep hot.",
         "Allow the beef Wellington to rest, covered with foil, for 15 minutes before carving. Slice into thick slices and serve with the hot tarragon sauce."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Always buy the French tarragon as Russian tarragon grows well, but has no flavour."
     ],
+    "title": "Beef Wellington with tarragon sauce",
     "videos": "[]"
 }

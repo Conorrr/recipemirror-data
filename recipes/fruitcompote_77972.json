@@ -1,24 +1,22 @@
 {
-    "title": "Fruit comp\u00f4te",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "compote",
+        "jam",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,13 +26,20 @@
             "50ml/2fl oz double cream"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place a small saucepan over a medium heat.",
         "Add the frozen winter fruit, the stem ginger, and the mixed spice. Bring to the simmer and cook for five minutes.",
         "To serve, pour into a bowl and drizzle with double cream."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fruit comp\u00f4te",
     "videos": "[]"
 }

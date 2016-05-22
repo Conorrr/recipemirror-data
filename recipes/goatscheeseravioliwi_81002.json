@@ -1,38 +1,42 @@
 {
-    "title": "Goats' cheese ravioli with sage and tomato sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p007b4jc": "Stately Suppers"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "crumble",
+        "jam",
+        "pasta",
+        "pastry",
+        "prepare-ahead_desserts",
+        "ravioli",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "making_pasta_dough",
+        "rolling_pasta_dough"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the filling": [
+            "200g/7oz baby spinach, wilted in a pan and chopped",
+            "150g/5\u00bdoz soft goats' cheese, crumbled",
+            "salt and freshly ground black pepper",
+            "1 free-range egg, beaten"
+        ],
         "For the pasta dough": [
             "225g/8oz plain or '00' flour, plus extra for dusting",
             "2 free-range eggs",
             "2 free-range egg yolks",
             "1 tbsp olive oil",
             "2 pinches salt"
-        ],
-        "For the filling": [
-            "200g/7oz baby spinach, wilted in a pan and chopped",
-            "150g/5\u00bdoz soft goats' cheese, crumbled",
-            "salt and freshly ground black pepper",
-            "1 free-range egg, beaten"
         ],
         "For the sauce": [
             "100g/3\u00bdoz unsalted butter",
@@ -43,6 +47,12 @@
             "4 tomatoes, skinned, deseeded and finely chopped"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "p007b4jc": "Stately Suppers"
+    },
     "steps": [
         "To prepare the pasta dough, place the flour, whole eggs, yolks, oil and salt in a large bowl and, using your hands, knead until you have a firm dough. Cover with clingfilm and place in the fridge for at least 5 hours.",
         "Meanwhile, make the filling. Mix the chopped spinach with the goats' cheese, then season with salt and freshly ground black pepper and leave to one side.",
@@ -51,9 +61,9 @@
         "To cook, simply place the ravioli in boiling salted water for 2 minutes. Remove with a slotted spoon and keep warm.",
         "For the sauce, heat the butter in a frying pan, and when it starts to froth and turn golden brown, add the shallot, sage, garlic, parsley and tomatoes. Cook for a minute or two and serve at once with the cooked ravioli."
     ],
-    "howTos": [
-        "making_pasta_dough",
-        "rolling_pasta_dough"
+    "tips": [
+        
     ],
+    "title": "Goats' cheese ravioli with sage and tomato sauce",
     "videos": "[]"
 }

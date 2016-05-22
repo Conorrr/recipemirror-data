@@ -1,30 +1,24 @@
 {
-    "title": "Gooseberry fool",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "9",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/gooseberryfool_6466_16x9.jpg"
-    ],
-    "description": "Our gooseberry fool recipe uses fragrant elderflower cordial and homemade custard in this simple traditional English dessert.",
     "author": {
         "lotte_duncan": "Lotte Duncan"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Our gooseberry fool recipe uses fragrant elderflower cordial and homemade custard in this simple traditional English dessert.",
+    "dishes": [
+        "custard",
+        "fruit_fool",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/gooseberryfool_6466_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "450g/1lb gooseberries",
-            "150ml/5fl oz elderflower cordial"
-        ],
         "For the custard": [
             "2 egg yolks",
             "1 tsp arrowroot",
@@ -32,7 +26,17 @@
             "30g/1oz sugar",
             "150ml/5fl oz double cream",
             "Fresh elderflowers, to decorate"
+        ],
+        "default": [
+            "450g/1lb gooseberries",
+            "150ml/5fl oz elderflower cordial"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 4-6",
+    "show": {
+        
     },
     "steps": [
         "Top and tail the gooseberries. Put them into a pan with the elderflower cordial. Bring up to the boil and then simmer gently until soft and pulpy. Leave to go cold, and then place in a serving dish.",
@@ -40,8 +44,9 @@
         "Whip the cream to the same consistency of the gooseberries.",
         "Gently stir the cream into the gooseberries and then fold in the custard. Try to give it a marbled effect in the serving bowl. Place a few elderflowers on top to decorate."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Gooseberry fool",
     "videos": "[]"
 }

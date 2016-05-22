@@ -1,23 +1,21 @@
 {
-    "title": "Peppered pork on potato rosti with braised red cabbage",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "carving_pork"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -25,6 +23,12 @@
             "1 tbsp olive oil",
             "225g/8oz pork tenderloin, fat and membrane trimmed",
             "salt and freshly ground black pepper"
+        ],
+        "For the potato rosti": [
+            "1 large potato",
+            "salt and freshly ground black pepper",
+            "1 tbsp olive oil",
+            "knob of butter"
         ],
         "For the red cabbage": [
             "1 tbsp olive oil",
@@ -36,13 +40,13 @@
             "pinch ground mixed spice",
             "salt and freshly ground black pepper",
             "1 small red cabbage, finely shredded"
-        ],
-        "For the potato rosti": [
-            "1 large potato",
-            "salt and freshly ground black pepper",
-            "1 tbsp olive oil",
-            "knob of butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
@@ -53,8 +57,9 @@
         "Add the olive oil and the butter to the pan, then add the potato rostis and fry for five minutes on each side, until crisp and golden brown.",
         "To serve, carve the pork into thick slices. Place the potato rostis on the plates and top with the slices of pork. Serve the red cabbage on the side."
     ],
-    "howTos": [
-        "carving_pork"
+    "tips": [
+        
     ],
+    "title": "Peppered pork on potato rosti with braised red cabbage",
     "videos": "[]"
 }

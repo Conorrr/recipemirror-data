@@ -1,23 +1,23 @@
 {
-    "title": "Mussels marini\u00e8re",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "11",
-    "images": [
-        
-    ],
-    "description": "The simplest way to cook a feast of seasonal mussels is with a little wine, cream and herbs as in this classic French recipe.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "The simplest way to cook a feast of seasonal mussels is with a little wine, cream and herbs as in this classic French recipe.",
+    "dishes": [
+        "bread",
+        "bun",
+        "jam",
+        "moules_mariniere"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "cleaning_mussels"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -33,6 +33,12 @@
             "crusty bread, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "Clean the mussels by thoroughly scrubbing them under plenty of running water, pulling away and discarding the 'beards', the seaweed-like stringy threads. Discard any broken mussels, and any mussels that don't close tightly when you tap them.",
         "Heat the olive oil in a heavy pan with a tight-fitting lid. Add the shallot and garlic and cook over a medium heat until softened, but not coloured.",
@@ -41,8 +47,9 @@
         "Add the double cream and cook for a further minute.",
         "Scatter with the chopped parsley and serve in deep bowls."
     ],
-    "howTos": [
-        "cleaning_mussels"
+    "tips": [
+        
     ],
+    "title": "Mussels marini\u00e8re",
     "videos": "[]"
 }

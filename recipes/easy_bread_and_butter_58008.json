@@ -1,24 +1,27 @@
 {
-    "title": "Easy bread and butter pudding",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "There is no better recipe for using up leftover or stale bits of bread than this. It's also great for using up hot cross buns, croissants, pain au chocolat, fruit bread or tea loaf.",
     "author": {
         "jb_gill": "JB Gill"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "For a healthier pudding you can replace the white bread with brown. You can flavour the pudding with lots of other ingredients. Try spreading the layers of bread with marmalade or jam, or adding spices such as nutmeg to the milk mixture."
+    "cookTime": "no cooking required",
+    "cusine": "British",
+    "description": "There is no better recipe for using up leftover or stale bits of bread than this. It's also great for using up hot cross buns, croissants, pain au chocolat, fruit bread or tea loaf.",
+    "dishes": [
+        "bread",
+        "bread_and_butter_pudding",
+        "bun",
+        "croissant",
+        "jam",
+        "marmalade",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +34,12 @@
             "25g/1oz caster sugar"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Preheat the oven to 170C/150C Fan/Gas 3\u00bd.",
         "Remove any hard crusts from the bread, then butter each slice on one side. Cut the slices into triangles.",
@@ -40,8 +49,9 @@
         "Beat together the milk, eggs and sugar in a jug until combined. Pour the mixture over the bread, pushing down the top layer of bread so it is submerged for the beginning of the soaking period. Leave to stand for at least 15 minutes and up to 1 hour.",
         "Bake in the oven for 35-45 minutes, or until set with a golden top. Serve warm."
     ],
-    "howTos": [
-        
+    "tips": [
+        "For a healthier pudding you can replace the white bread with brown. You can flavour the pudding with lots of other ingredients. Try spreading the layers of bread with marmalade or jam, or adding spices such as nutmeg to the milk mixture."
     ],
+    "title": "Easy bread and butter pudding",
     "videos": "[]"
 }

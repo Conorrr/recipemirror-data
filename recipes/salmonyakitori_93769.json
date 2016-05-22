@@ -1,24 +1,23 @@
 {
-    "title": "Salmon yakitori",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/salmonyakitori_93769_16x9.jpg"
-    ],
-    "description": "Salmon kebabs in a sticky soy glaze are great for barbecues and make a welcome change from the usual bangers and burgers.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Japanese",
+    "description": "Salmon kebabs in a sticky soy glaze are great for barbecues and make a welcome change from the usual bangers and burgers.",
+    "dishes": [
+        "kebab",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/salmonyakitori_93769_16x9.jpg"
     ],
     "ingredients": {
         "For the glaze": [
@@ -33,6 +32,12 @@
             "handful flaked almonds, toasted"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Heat the soy sauce, sugar, mirin, sake, spring onions and ginger in a saucepan until the mixture is boiling. Reduce the heat and simmer for 15 minutes.",
         "Meanwhile, preheat the grill to high.",
@@ -41,8 +46,9 @@
         "Brush the glaze onto the salmon and grill for 3-4 minutes, or until the salmon is cooked through. Baste regularly with any remaining glaze mixture.",
         "Serve the salmon yakitori with rice and sprinkle over the flaked almonds."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salmon yakitori",
     "videos": "[]"
 }

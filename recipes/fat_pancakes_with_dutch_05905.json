@@ -1,39 +1,43 @@
 {
-    "title": "Fat pancakes with Dutch fried apples",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes about 15 pancakes",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "Pancakes are always a favourite breakfast, but the sweet apple topping puts these beauties in a different league.",
     "author": {
         "steven_lowe": "Steven Lowe"
     },
-    "show": {
-        "b01s72gt": "Nigel Slater's Simple Cooking"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Pancakes are always a favourite breakfast, but the sweet apple topping puts these beauties in a different league.",
+    "dishes": [
+        "icing",
+        "pancake",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Dutch fried apples": [
+            "50g/2oz butter",
+            "icing sugar, to taste",
+            "3 peeled apples, chopped",
+            "1 gill advocaat, or to taste"
+        ],
         "default": [
             "3 large eggs",
             "300g/10oz self-raising flour",
             "150g/5oz granulated sugar (caster is fine but slightly changes consistency of sponge)",
             "100ml/3fl oz milk",
             "1tbsp sunflower oil"
-        ],
-        "For the Dutch fried apples": [
-            "50g/2oz butter",
-            "icing sugar, to taste",
-            "3 peeled apples, chopped",
-            "1 gill advocaat, or to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Makes about 15 pancakes",
+    "show": {
+        "b01s72gt": "Nigel Slater's Simple Cooking"
     },
     "steps": [
         "Whisk the eggs in a large mixing bowl, then add the flour, sugar and milk and beat until smooth. The batter should be thick enough to slowly drop off the spoon.",
@@ -43,8 +47,9 @@
         "Add the chopped apple and cook, stirring occasionally, until tender and golden brown. Pour in half the advocaat and let it bubble down and reduce to a scant coating.",
         "Serve the pancakes topped with the apples and a drizzle of the remaining liqueur."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fat pancakes with Dutch fried apples",
     "videos": "[]"
 }

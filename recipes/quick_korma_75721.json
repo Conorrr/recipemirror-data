@@ -1,24 +1,25 @@
 {
-    "title": "Quick korma",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "44",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/quick_korma_75721_16x9.jpg"
-    ],
-    "description": "Nigel Slater\u2019s aromatic, creamy korma makes a welcome meal to come home to on a cold night.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b00vt10m": "Nigel Slater's Simple Suppers"
-    },
-    "tips": [
-        "If you toast the hazelnuts briefly in a non-stick pan until golden you will get a more nutty flavour."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "Nigel Slater\u2019s aromatic, creamy korma makes a welcome meal to come home to on a cold night.",
+    "dishes": [
+        "bread",
+        "curry",
+        "pie",
+        "stir-fries",
+        "vegetable_curry"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/quick_korma_75721_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -42,6 +43,12 @@
             "rice or bread, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "44",
+    "serves": "Serves 4",
+    "show": {
+        "b00vt10m": "Nigel Slater's Simple Suppers"
+    },
     "steps": [
         "Peel and slice the onions and garlic. Melt most of the thick slice of butter in a deep-sided pan, reserving a little. Peel and grate the ginger and add to the pan with the onions and garlic.",
         "Break open the cardamom pods, discard the green shells and lightly crush the black seeds within. A pestle and mortar is good for this but any heavy weight will do. Add the crushed seeds to the pan with the cumin, turmeric, ground cinnamon, cinnamon stick, chilli and the bay leaves.",
@@ -50,8 +57,9 @@
         "Meanwhile, wash the spinach carefully. Cook briefly in a separate pan until the leaves have wilted but are still bright, about a minute or two. Remove the spinach and cool under running water to keep the colour bright then squeeze dry and add to the pan with the mushrooms.",
         "Stir in the skinned hazelnuts and the raisins or sultanas. Gently stir in the yoghurt and cr\u00e8me fra\u00eeche. Warm through gently and serve, with rice or bread if you wish."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If you toast the hazelnuts briefly in a non-stick pan until golden you will get a more nutty flavour."
     ],
+    "title": "Quick korma",
     "videos": "[]"
 }

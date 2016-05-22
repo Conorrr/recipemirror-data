@@ -1,30 +1,26 @@
 {
-    "title": "Chicken with satay sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2-4",
-    "recommendations": "23",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenwithsataysauc_70986_16x9.jpg"
-    ],
-    "description": "Chicken satay is a party favourite, thread the chicken pieces onto soaked bamboo skewers to cook on the barbecue.",
     "author": {
         "ken_hom": "Ken Hom"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        "If barbecuing the chicken, cook the sauce separately and serve on the side as a dip."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "Chicken satay is a party favourite, thread the chicken pieces onto soaked bamboo skewers to cook on the barbecue.",
+    "dishes": [
+        "pie",
+        "satay",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenwithsataysauc_70986_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "450g/1lb boneless, skinless chicken breasts, cut into 2.5cm/1in cubes",
-            "1\u00bd tbsp groundnut (peanut) oil"
-        ],
         "For the marinade": [
             "3 tbsp light soy sauce",
             "1 tbsp Shaoxing rice wine or dry sherry",
@@ -47,7 +43,17 @@
         "To serve": [
             "50g/2oz thinly sliced onions",
             "100g/4oz thinly sliced cucumbers"
+        ],
+        "default": [
+            "450g/1lb boneless, skinless chicken breasts, cut into 2.5cm/1in cubes",
+            "1\u00bd tbsp groundnut (peanut) oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "23",
+    "serves": "Serves 2-4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "In a medium-sized bowl, combine the marinade ingredients, stirring to combine. Add the chicken, mix well and leave to marinate, covered, for at least 20 minutes at room temperature. Drain, discarding the marinade.",
@@ -56,8 +62,9 @@
         "Turn the heat down to low, add the sauce and continue to stir-fry for another five minutes.",
         "Turn onto a warm platter, garnish with the onion and cucumber and serve at once."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If barbecuing the chicken, cook the sauce separately and serve on the side as a dip."
     ],
+    "title": "Chicken with satay sauce",
     "videos": "[]"
 }

@@ -1,26 +1,38 @@
 {
-    "title": "Elizabethan pot-roast chicken with spiced plums and creamy leeks",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p007b4jc": "Stately Suppers"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the creamy leeks": [
+            "chicken juices from the pan",
+            "25g/1oz butter",
+            "1 onion, finely chopped",
+            "1 leek, chopped",
+            "sprig thyme",
+            "55ml/2fl oz single cream",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "2kg/4\u00bdlb chicken, preferably free-range",
             "25g/1oz butter",
@@ -37,16 +49,13 @@
             "300ml/11fl oz red wine",
             "few sprigs fresh rosemary",
             "salt and freshly ground black pepper"
-        ],
-        "For the creamy leeks": [
-            "chicken juices from the pan",
-            "25g/1oz butter",
-            "1 onion, finely chopped",
-            "1 leek, chopped",
-            "sprig thyme",
-            "55ml/2fl oz single cream",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4-6",
+    "show": {
+        "p007b4jc": "Stately Suppers"
     },
     "steps": [
         "Brown the chicken all over in a non-stick frying pan. Set aside, but reserve the juices in the pan.",
@@ -56,8 +65,9 @@
         "Add the chicken to the pan, place in the preheated oven and cook for about 1\u00bd hours, basting several times. The plums will stew down and create a sauce to go with the chicken. The chicken will be cooked when the juices from the thigh run clear when pierced with a skewer.",
         "Meanwhile, for the creamy leek dish, heat the reserved juices in the chicken pan and add the butter. Fry the onion and chopped leek, then add the thyme. Pour the single cream over the leeks and season well with salt and freshly ground black pepper. Heat through for a couple of minutes. Serve with the spicy plum chicken."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Elizabethan pot-roast chicken with spiced plums and creamy leeks",
     "videos": "[]"
 }

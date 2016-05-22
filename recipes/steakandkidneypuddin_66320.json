@@ -1,32 +1,28 @@
 {
-    "title": "Steak and kidney pudding with steak and kidney gravy",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Equipment and preparation: You will need a well-buttered, 1.5 litre/2\u00bd pint capacity pudding basin and a steamer.",
     "author": {
         "delia_smith": "Delia Smith"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Equipment and preparation: You will need a well-buttered, 1.5 litre/2\u00bd pint capacity pudding basin and a steamer.",
+    "dishes": [
+        "gravy",
+        "pastry",
+        "sauce",
+        "steak_and_kidney_pudding",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "making_pastry_lids"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the suet crust pastry": [
-            "350g/12oz self-raising flour",
-            "salt and freshly milled black pepper",
-            "175g/6oz shredded beef suet",
-            "cold water, to mix"
-        ],
         "For the filling": [
             "560g/1\u00bclb chuck steak",
             "225g/8oz ox kidney after trimming (so buy 275g/10oz)",
@@ -44,7 +40,19 @@
             "2 tbsp flour",
             "few drops Worcestershire sauce",
             "salt and freshly ground black pepper"
+        ],
+        "For the suet crust pastry": [
+            "350g/12oz self-raising flour",
+            "salt and freshly milled black pepper",
+            "175g/6oz shredded beef suet",
+            "cold water, to mix"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "5",
+    "serves": "Serves 6",
+    "show": {
+        
     },
     "steps": [
         "For the pastry, first sift the flour and the salt into a large mixing bowl. Add some freshly ground black pepper, then add the suet and mix it into the flour using the blade of a knife. When it's evenly blended, add a few drops of cold water and start to mix with the knife, using curving movements and turning the mixture around. The aim is to bring it together as a dough, so keep adding drops of water until it begins to get really claggy and sticky. Now abandon the knife, go in with your hands and bring it all together until you have a nice smooth elastic dough, which leaves the bowl clean. It's worth noting that suet pastry always needs more water than other types, so if it is still a bit dry just go on adding a few drops at a time.",
@@ -53,8 +61,9 @@
         "For the gravy, simply place the meat trimmings in a saucepan with the half onion, cover with one pint of water, add some seasoning and simmer for approximately one hour. Then strain the stock, and in the same pan, fry the remaining onion, chopped small, in the beef dripping until soft and blackened at the edges. Then stir in the flour, gradually add the stock little by little to make a smooth gravy, adding a spot of gravy browning if it's needed. Taste to check the seasoning and add a few drops of Worcestershire sauce.",
         "To serve, either serve the pudding by spooning portions straight out of the bowl, or slide a palette knife round the edge and turn the whole thing out on to a serving plate (which is more fun!)."
     ],
-    "howTos": [
-        "making_pastry_lids"
+    "tips": [
+        
     ],
+    "title": "Steak and kidney pudding with steak and kidney gravy",
     "videos": "[]"
 }

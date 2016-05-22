@@ -1,30 +1,29 @@
 {
-    "title": "Avocado and bacon salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "7",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/caesarsaladwithavoca_84116_16x9.jpg"
-    ],
-    "description": "Try James Martin's super easy salad - avocado will help you on your way to 5-a-day and make you feel fuller for longer.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Try James Martin's super easy salad - avocado will help you on your way to 5-a-day and make you feel fuller for longer.",
+    "dishes": [
+        "bread",
+        "jam",
+        "pie",
+        "salad",
+        "warm_salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/caesarsaladwithavoca_84116_16x9.jpg"
+    ],
     "ingredients": {
-        "For the salad": [
-            "2 back bacon slices, fat trimmed",
-            "1 Little Gem lettuce, leaves separated, chopped",
-            "1 avocado, peeled, stone removed, chopped"
+        "For the croutons": [
+            "2 thick slices bread, cut into chunks",
+            "1 tbsp oil"
         ],
         "For the dressing": [
             "squeeze of lemon juice",
@@ -32,10 +31,17 @@
             "\u00bc garlic clove, crushed",
             "\u00bc tsp Dijon mustard"
         ],
-        "For the croutons": [
-            "2 thick slices bread, cut into chunks",
-            "1 tbsp oil"
+        "For the salad": [
+            "2 back bacon slices, fat trimmed",
+            "1 Little Gem lettuce, leaves separated, chopped",
+            "1 avocado, peeled, stone removed, chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 1",
+    "show": {
+        
     },
     "steps": [
         "Heat a large frying pan and fry the bacon until it is crisp and browned on both sides. When the bacon is cool enough to handle slice into thin pieces, trimming any visible fat off.",
@@ -44,8 +50,9 @@
         "For the croutons, heat the oil in a frying pan and, when hot, add the bread cubes. Cook 2-3 minutes, or until golden.",
         "Add the croutons to the salad bowl and drizzle over the salad dressing."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Avocado and bacon salad",
     "videos": "[]"
 }

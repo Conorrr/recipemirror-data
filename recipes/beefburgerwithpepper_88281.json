@@ -1,40 +1,44 @@
 {
-    "title": "Beef burger with thyme potato wedges",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "7",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beefburgerwithpepper_88281_16x9.jpg"
-    ],
-    "description": "Cooking for one? This simple beef burger with tasty thyme wedges will definitely not disappoint!",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Cooking for one? This simple beef burger with tasty thyme wedges will definitely not disappoint!",
+    "dishes": [
+        "beef_burger",
+        "ciabatta",
+        "oven-baked_dishes"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beefburgerwithpepper_88281_16x9.jpg"
+    ],
     "ingredients": {
-        "For the thyme potato wedges": [
-            "1 large potato, cut into wedges",
-            "2 garlic cloves, unpeeled",
-            "2 tbsp olive oil",
-            "1 sprig fresh thyme, leaves only",
-            "salt and freshly ground black pepper"
-        ],
         "For the beef burger": [
             "\u00bc onion, finely chopped",
             "150g/5\u00bdoz minced beef",
             "pinch dried chilli flakes",
             "dash olive oil",
             "2 slices ciabatta or 1 ciabatta roll, halved"
+        ],
+        "For the thyme potato wedges": [
+            "1 large potato, cut into wedges",
+            "2 garlic cloves, unpeeled",
+            "2 tbsp olive oil",
+            "1 sprig fresh thyme, leaves only",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 1",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 220C/200C Fan/Gas 7.",
@@ -43,8 +47,9 @@
         "For the burger, mix the onion, beef, chilli flakes, salt and pepper together in a bowl. Using your hands, shape the mixture into a patty and rub with olive oil. Heat a frying pan until smoking hot and fry the burger for 4-5 minutes on each side, or until cooked through.",
         "Meanwhile, preheat the grill to high and grill the ciabatta until crisp. Put the burger on the toasted ciabatta and top with any desired toppings. Serve the burger with the potato wedges alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef burger with thyme potato wedges",
     "videos": "[]"
 }

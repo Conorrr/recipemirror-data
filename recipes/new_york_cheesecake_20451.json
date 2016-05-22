@@ -1,24 +1,26 @@
 {
-    "title": "New York cheesecake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 12",
-    "recommendations": "63",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/new_york_cheesecake_20451_16x9.jpg"
-    ],
-    "description": "This is the classic New York baked cheesecake with a rich and creamy vanilla topping and a simple biscuit base.",
     "author": {
         "jayne_cross": "Jayne Cross"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "This is the classic New York baked cheesecake with a rich and creamy vanilla topping and a simple biscuit base.",
+    "dishes": [
+        "biscuit",
+        "cake",
+        "cheesecake",
+        "oven-baked_dishes",
+        "prepare-ahead_desserts",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/new_york_cheesecake_20451_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,6 +34,12 @@
             "2 tsp vanilla extract"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "63",
+    "serves": "Serves 12",
+    "show": {
+        
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease and line the base of a 23cm/9in spring form cake tin.",
         "Place the biscuits in a plastic bag and crush with a rolling pin to fine crumbs.",
@@ -43,8 +51,9 @@
         "Once the cheesecake is cooked, turn off the oven and prop open the door so that it is slightly ajar and leave the cheesecake to cool in the oven \u2013 this prevents the top from cracking.",
         "Once the oven is cool you can remove the cheesecake to cool completely before removing from the tin."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "New York cheesecake",
     "videos": "[]"
 }

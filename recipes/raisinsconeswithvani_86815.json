@@ -1,26 +1,31 @@
 {
-    "title": "Raisin scones with vanilla cream",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "scone",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cream": [
+            "150ml/5fl oz double cream, lightly whipped",
+            "1 vanilla pod, split and seeds scraped out"
+        ],
         "For the scones": [
             "55g/2oz butter",
             "125g/4\u00bcoz self-raising flour, plus extra for dusting",
@@ -30,11 +35,13 @@
             "1 free-range egg",
             "2-4 tbsp milk",
             "85g/3oz raisins"
-        ],
-        "For the cream": [
-            "150ml/5fl oz double cream, lightly whipped",
-            "1 vanilla pod, split and seeds scraped out"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Makes 6",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -44,9 +51,9 @@
         "Place the scones on a lightly floured baking tray and bake for 12 minutes or until cooked through. Cool slightly on a wire rack.",
         "Stir the vanilla seeds through the whipped cream and chill until required. Serve with the raisin scones."
     ],
-    "howTos": [
-        "kneading",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Raisin scones with vanilla cream",
     "videos": "[]"
 }

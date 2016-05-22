@@ -1,34 +1,27 @@
 {
-    "title": "Spicy beef with harvest vegetable salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10-12",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "This large platter of spiced beef and roasted vegetables is ideal for sharing at parties or as part of a buffet.",
     "author": {
         "annabel_langbein": "Annabel Langbein"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        "The mayonnaise or garlic dressing will keep for up to two weeks in a jar in the fridge. If you prefer a thicker mayonnaise, add four tablespoons more vegetable oil. For a thinner consistency add a little hot water."
+    "cookTime": "30 mins to 1 hour",
+    "description": "This large platter of spiced beef and roasted vegetables is ideal for sharing at parties or as part of a buffet.",
+    "dishes": [
+        "bread",
+        "mayonnaise",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the speedy mayonnaise": [
-            "2 eggs",
-            "3 tbsp lemon juice",
-            "1 tsp Dijon mustard",
-            "\u00bd tsp salt",
-            "a good pinch of white pepper",
-            "275ml/9\u00bdfl oz vegetable oil"
-        ],
         "For the garlic dressing": [
             "175g/6oz speedy mayonnaise",
             "175g/6oz Greek yoghurt",
@@ -36,6 +29,23 @@
             "2 tbsp lemon juice",
             "\u00bd tsp salt",
             "ground black pepper to taste"
+        ],
+        "For the sesame prawn toast": [
+            "250g/9oz raw prawn meat, finely chopped",
+            "60g/2\u00bcoz speedy mayonnaise (from above)",
+            "1 tsp sesame oil",
+            "salt and ground black pepper",
+            "6 slices white bread, crusts removed, quartered",
+            "1 tbsp sesame seeds",
+            "1 tbsp roughly chopped chives"
+        ],
+        "For the speedy mayonnaise": [
+            "2 eggs",
+            "3 tbsp lemon juice",
+            "1 tsp Dijon mustard",
+            "\u00bd tsp salt",
+            "a good pinch of white pepper",
+            "275ml/9\u00bdfl oz vegetable oil"
         ],
         "For the spicy beef with harvest vegetables": [
             "1.2kg/2lb 12oz beef sirloin, cut in two pieces lengthwise",
@@ -51,16 +61,13 @@
             "2 tsp ground cumin",
             "8 handfuls watercress or rocket leaves",
             "\u00bc cup dukkah spice mix (available online and from delis)"
-        ],
-        "For the sesame prawn toast": [
-            "250g/9oz raw prawn meat, finely chopped",
-            "60g/2\u00bcoz speedy mayonnaise (from above)",
-            "1 tsp sesame oil",
-            "salt and ground black pepper",
-            "6 slices white bread, crusts removed, quartered",
-            "1 tbsp sesame seeds",
-            "1 tbsp roughly chopped chives"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 10-12",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the speedy mayonnaise, place all the ingredients in a narrow bowl or jug and mix on a high speed with a stick blender (this is key \u2013 it won\u2019t work in a food processor because it needs the speed of the blender to make it emulsify). It will thicken at once to create a creamy mayonnaise.",
@@ -79,8 +86,9 @@
         "Sprinkle with chives and place on a large sharing platter.",
         "To serve, arrange watercress or rocket on a large platter and top with the roasted vegetables and beef. Drizzle with garlic dressing and sprinkle with dukkah. Serve alongside the hot sesame prawn toasts."
     ],
-    "howTos": [
-        
+    "tips": [
+        "The mayonnaise or garlic dressing will keep for up to two weeks in a jar in the fridge. If you prefer a thicker mayonnaise, add four tablespoons more vegetable oil. For a thinner consistency add a little hot water."
     ],
+    "title": "Spicy beef with harvest vegetable salad",
     "videos": "[]"
 }

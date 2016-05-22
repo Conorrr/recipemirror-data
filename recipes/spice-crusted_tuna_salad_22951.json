@@ -1,26 +1,35 @@
 {
-    "title": "Spice-crusted tuna salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Salads do not have to boring! This gutsy dish is jam-packed with zingy flavours. Try it as a weekend lunch with friends.",
     "author": {
         "tom_kerridge": "Tom Kerridge"
     },
-    "show": {
-        "b03mzc66": "Food & Drink"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Salads do not have to boring! This gutsy dish is jam-packed with zingy flavours. Try it as a weekend lunch with friends.",
+    "dishes": [
+        "bread",
+        "bun",
+        "jam",
+        "salad",
+        "sauce",
+        "stir-fries",
+        "warm_salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the battered anchovies": [
+            "25g/1oz cornflour",
+            "40g/1\u00bdoz self-raising flour, plus extra for dusting",
+            "50-100ml/2-3\u00bdfl oz ice-cold sparkling water",
+            "vegetable oil, for deep-frying",
+            "12-15 tinned anchovies in oil, drained"
+        ],
         "For the glazed chicory": [
             "1 orange, juice and zest only",
             "4 tbsp raspberry vinegar",
@@ -28,12 +37,12 @@
             "200ml/7fl oz rapeseed oil",
             "salt and freshly ground black pepper"
         ],
-        "For the battered anchovies": [
-            "25g/1oz cornflour",
-            "40g/1\u00bdoz self-raising flour, plus extra for dusting",
-            "50-100ml/2-3\u00bdfl oz ice-cold sparkling water",
-            "vegetable oil, for deep-frying",
-            "12-15 tinned anchovies in oil, drained"
+        "For the salad": [
+            "2 Little Gem lettuces, cut into quarters lenghtways",
+            "50ml/2fl oz olive oil",
+            "1 head white chicory, leaves separated",
+            "\u00bd bunch fresh flatleaf parsley, leaves only",
+            "100g/3\u00bdoz feta, cut into cubes"
         ],
         "For the spiced tuna": [
             "2 tsp cumin seeds",
@@ -48,14 +57,13 @@
             "vegetable oil, for frying",
             "knob unsalted butter",
             "\u00bd lemon, juice only"
-        ],
-        "For the salad": [
-            "2 Little Gem lettuces, cut into quarters lenghtways",
-            "50ml/2fl oz olive oil",
-            "1 head white chicory, leaves separated",
-            "\u00bd bunch fresh flatleaf parsley, leaves only",
-            "100g/3\u00bdoz feta, cut into cubes"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b03mzc66": "Food & Drink"
     },
     "steps": [
         "For the glazed chicory, heat the orange juice and zest in a saucepan over a medium heat until the volume of liquid has reduced to a sticky glaze. Add the raspberry vinegar and bring the mixture to the boil.",
@@ -71,8 +79,9 @@
         "Add the butter and lemon juice to the pan, turn the tuna steaks over and baste the other side with the pan juices. Continue to fry for 1-2 minutes, or until the tuna is cooked to your liking.",
         "Serve the spiced tuna steaks with the salad alongside. Garnish with the battered anchovies."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spice-crusted tuna salad",
     "videos": "[]"
 }

@@ -1,41 +1,56 @@
 {
-    "title": "Mini fruit tarts",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 12 small tartlets",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Mary's easy recipe for oh-so-pretty fruit tarts uses a regular bun tin to make things just that little bit easier.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b052sjd8": "Series 2"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Mary's easy recipe for oh-so-pretty fruit tarts uses a regular bun tin to make things just that little bit easier.",
+    "dishes": [
+        "bread",
+        "bun",
+        "fruit_tart",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pate",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry",
+        "rolling_pastry",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the filling": [
+            "400ml/14fl oz double cream",
+            "1 tsp vanilla bean paste",
+            "1 tbsp icing sugar, sifted"
+        ],
         "For the p\u00e2te sucr\u00e9e": [
             "100g/3\u00bdoz plain flour",
             "75g/2\u00bdoz softened butter, cubed",
             "75g/2\u00bdoz caster sugar",
             "3 medium egg yolks"
         ],
-        "For the filling": [
-            "400ml/14fl oz double cream",
-            "1 tsp vanilla bean paste",
-            "1 tbsp icing sugar, sifted"
-        ],
         "To finish": [
             "3 tbsp apricot jam",
             "3 punnets raspberries"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes 12 small tartlets",
+    "show": {
+        "b052sjd8": "Series 2"
     },
     "steps": [
         "To make the p\u00e2te sucr\u00e9e, measure the flour into a bowl. Rub in the butter with your fingertips until the mixture resembles fine breadcrumbs. Stir in the sugar, then add the egg yolks and mix until the ingredients come together to form a dough. Knead the mixture gently until smooth.",
@@ -48,10 +63,9 @@
         "To make the filling, whip the cream, sugar and vanilla until it forms soft peaks when the whisk is removed.",
         "To serve, spoon a little filling into each tartlet case. Arrange the raspberries on top and brush the jam liberally over the fruits to glaze."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry",
-        "rolling_pastry",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Mini fruit tarts",
     "videos": "[]"
 }

@@ -1,34 +1,26 @@
 {
-    "title": "Spring pea soup served with crab",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Spring peas make a wonderfully fresh warm or chilled soup. Served with dressed crab and a spoonful of cream.",
     "author": {
         "tom_kitchin": "Tom Kitchin"
     },
-    "show": {
-        "b0424667": "Spring Kitchen with Tom Kerridge"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Spring peas make a wonderfully fresh warm or chilled soup. Served with dressed crab and a spoonful of cream.",
+    "dishes": [
+        "chilled_soup",
+        "quenelle",
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the spring pea soup": [
-            "30g/1oz butter",
-            "2 tbsp olive oil",
-            "1 onion, chopped",
-            "400g/14oz fresh peas",
-            "1 litre/1\u00be pints chicken stock",
-            "ice cubes"
-        ],
         "For the garnish": [
             "20g/\u2154oz black olives, diced",
             "1 Little Gem lettuce, leaves shredded",
@@ -40,7 +32,21 @@
             "salt and pepper",
             "olive oil, to taste",
             "100ml/3\u00bdfl oz double cream, whipped"
+        ],
+        "For the spring pea soup": [
+            "30g/1oz butter",
+            "2 tbsp olive oil",
+            "1 onion, chopped",
+            "400g/14oz fresh peas",
+            "1 litre/1\u00be pints chicken stock",
+            "ice cubes"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b0424667": "Spring Kitchen with Tom Kerridge"
     },
     "steps": [
         "For the spring pea soup, heat the butter and oil in a large saucepan, when hot fry the onions until soft. Add the peas and cook for a further 3-4 minutes.",
@@ -50,8 +56,9 @@
         "For the garnish, mix the olives, Little Gem lettuce, basil, chives, lemon zest, lime juice and zest with the crab meat, then season with salt and pepper. Add a little olive oil, to taste. Set aside.",
         "To serve, place the dressed crab in rings in the centre of shallow bowls. Pour the pea soup around and add a quenelle of double cream on top. Drizzle over a little extra olive oil and season the cream with a little black pepper."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spring pea soup served with crab",
     "videos": "[]"
 }

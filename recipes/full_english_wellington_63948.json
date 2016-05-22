@@ -1,32 +1,30 @@
 {
-    "title": "Full English Wellington",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "A feast of a pie combining the classic Wellington with a full English breakfast filling.",
     "author": {
         "cathryn_dresser": "Cathryn Dresser"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "A feast of a pie combining the classic Wellington with a full English breakfast filling.",
+    "dishes": [
+        "beef_wellington",
+        "bread",
+        "crumble",
+        "ham",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sausage",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the flaky pastry": [
-            "350g/12oz plain flour",
-            "pinch salt",
-            "225g/8oz unsalted butter, chilled",
-            "1 free-range egg, beaten, to glaze"
-        ],
         "For the filling": [
             "10 quail's eggs",
             "200g/7oz chestnut mushrooms, chopped",
@@ -36,7 +34,19 @@
             "200g/7oz black pudding",
             "200g/7oz Parma ham",
             "oil spray to grease the baking tray"
+        ],
+        "For the flaky pastry": [
+            "350g/12oz plain flour",
+            "pinch salt",
+            "225g/8oz unsalted butter, chilled",
+            "1 free-range egg, beaten, to glaze"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4-6",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -65,8 +75,9 @@
         "Cut thin strips from the pastry trimmings and make a lattice pattern over the Wellington. Brush the decoration with the beaten egg and bake for 45 minutes. Check the Wellington after 30 minutes and cover with foil if it is browning too much.",
         "Allow to rest for 10 minutes before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Full English Wellington",
     "videos": "[]"
 }

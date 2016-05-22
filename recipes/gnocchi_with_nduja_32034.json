@@ -1,34 +1,29 @@
 {
-    "title": "Gnocchi with 'nduja, garlic and courgette",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "'Nduja is a soft, spicy pork sausage from Italy. It\u2019s delicious in this simple classic dish.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Italian",
+    "description": "'Nduja is a soft, spicy pork sausage from Italy. It\u2019s delicious in this simple classic dish.",
+    "dishes": [
+        "gnocchi",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "sausage",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "300g/10\u00bdoz King Edward potatoes",
-            "60g/2\u00bcoz plain flour",
-            "40g/1\u00bdoz Parmesan, finely grated",
-            "1 tbsp olive oil",
-            "75g/2\u00bdoz unsalted butter",
-            "salt and freshly ground black pepper"
-        ],
         "For the sauce": [
             "1 tbsp olive oil",
             "2 garlic cloves, thinly sliced",
@@ -40,7 +35,21 @@
         "To serve": [
             "2 tbsp fresh basil",
             "4 tbsp Parmesan, finely grated"
+        ],
+        "default": [
+            "300g/10\u00bdoz King Edward potatoes",
+            "60g/2\u00bcoz plain flour",
+            "40g/1\u00bdoz Parmesan, finely grated",
+            "1 tbsp olive oil",
+            "75g/2\u00bdoz unsalted butter",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 200C/180C Fan/Gas 6.",
@@ -51,8 +60,9 @@
         "For the sauce, heat the oil in a frying pan until hot. Add the garlic and cook for 1 minute. Add the shallot and cook for a further minute. Add the nduja and courgettes, stir and cook for 4-5 minutes, or until done.",
         "To serve, add the fried gnocchi to the sauce and cook until hot through. Serve scattered with the Parmesan and basil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Gnocchi with 'nduja, garlic and courgette",
     "videos": "[]"
 }

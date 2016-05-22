@@ -1,26 +1,37 @@
 {
-    "title": "Pork meatballs with curry sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "16",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "bill_granger": "Bill Granger"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bread",
+        "curry",
+        "meatballs",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the curry sauce": [
+            "3 tbsp ready-made massaman curry paste (available in Thai markets and in some supermarkets)",
+            "2 tsp grated fresh ginger",
+            "4 tomatoes, chopped",
+            "200ml/7fl oz coconut milk",
+            "200ml/7fl oz chicken stock",
+            "1 tbsp lemon juice",
+            "2 tsp brown sugar"
+        ],
         "For the meatballs": [
             "600g/1lb 5oz minced pork",
             "1 medium onion, grated",
@@ -34,20 +45,17 @@
             "freshly ground black pepper",
             "1 tbsp grapeseed oil"
         ],
-        "For the curry sauce": [
-            "3 tbsp ready-made massaman curry paste (available in Thai markets and in some supermarkets)",
-            "2 tsp grated fresh ginger",
-            "4 tomatoes, chopped",
-            "200ml/7fl oz coconut milk",
-            "200ml/7fl oz chicken stock",
-            "1 tbsp lemon juice",
-            "2 tsp brown sugar"
-        ],
         "To serve": [
             "3-4 tbsp cashew nuts, lightly toasted and finely chopped",
             "2 tbsp chopped fresh coriander",
             "steamed basmati rice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "16",
+    "serves": "Serves 4-6",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
@@ -61,8 +69,9 @@
         "Gently stir in the lemon juice and brown sugar.",
         "Serve the meatballs in curry sauce over steamed rice, garnished with the cashew nuts and coriander."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pork meatballs with curry sauce",
     "videos": "[]"
 }

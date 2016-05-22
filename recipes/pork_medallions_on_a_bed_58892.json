@@ -1,31 +1,30 @@
 {
-    "title": "Pork medallions on a bed of chard with bacon and cider sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "The rich cider sauce and earthy chard are great with pork, all topped with apple and bacon scraps.",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b04gtx26": "A Taste of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "The rich cider sauce and earthy chard are great with pork, all topped with apple and bacon scraps.",
+    "dishes": [
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "8 x 85g/3oz pork medallions",
-            "1 tbsp vegetable oil",
+        "For the chard": [
             "25g/1oz butter",
-            "salt and freshly ground black pepper"
+            "2 shallots, finely chopped",
+            "500g/1lb 2oz rainbow chard",
+            "pinch freshly grated nutmeg"
         ],
         "For the sauce": [
             "1 dessert apple, peeled and cut into batons",
@@ -36,12 +35,18 @@
             "100ml/3\u00bdfl oz chicken stock",
             "25g/1oz butter"
         ],
-        "For the chard": [
+        "default": [
+            "8 x 85g/3oz pork medallions",
+            "1 tbsp vegetable oil",
             "25g/1oz butter",
-            "2 shallots, finely chopped",
-            "500g/1lb 2oz rainbow chard",
-            "pinch freshly grated nutmeg"
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b04gtx26": "A Taste of Britain"
     },
     "steps": [
         "Put the pork between two sheets of greaseproof paper and bash them with a rolling pin until 2cm/\u00bein thick.",
@@ -54,8 +59,9 @@
         "To serve, reboil the sauce. Taste and season with salt and pepper, if necessary. Pass it through a sieve then add the fried apple.",
         "To serve, divide the chard between four plates and lay two pieces of pork on top. Pour the sauce over the meat, sprinkle with the cooked bacon and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pork medallions on a bed of chard with bacon and cider sauce",
     "videos": "[]"
 }

@@ -1,26 +1,30 @@
 {
-    "title": "French chicken with new potatoes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the new potatoes": [
+            "150g/5\u00bcoz cooked new potatoes",
+            "3 tbsp butter, melted",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "\u00bd poussin",
             "4 tbsp butter",
@@ -29,12 +33,13 @@
             "1 tbsp fresh rosemary leaves, chopped",
             "5 tbsp white wine",
             "70ml/2\u00bdfl oz double cream"
-        ],
-        "For the new potatoes": [
-            "150g/5\u00bcoz cooked new potatoes",
-            "3 tbsp butter, melted",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/390F/Gas 6.",
@@ -44,8 +49,9 @@
         "For the new potatoes, mix the new potatoes with the melted butter and season.",
         "To serve, place the poussin on a serving plate and pour over the sauce. Serve with the new potatoes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "French chicken with new potatoes",
     "videos": "[]"
 }

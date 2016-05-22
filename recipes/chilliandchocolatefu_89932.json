@@ -1,38 +1,25 @@
 {
-    "title": "Chilli and chocolate fudge pudding",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 12",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "",
+    "dishes": [
+        "fudge",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "melting_chocolate"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "450g/1lb dark chocolate, minimum 70 per cent cocoa solids",
-            "200g/7oz unsalted butter, plus extra for greasing",
-            "10 free-range eggs",
-            "3 tbsp soured cream",
-            "300g/10\u00bdoz caster sugar",
-            "1 vanilla pod, split, seeds scraped out",
-            "200g/7oz plain flour",
-            "1 tsp ground cinnamon",
-            "\u00bd tsp baking powder",
-            "2 red chillies, seeds removed, finely chopped"
-        ],
         "For the sauce": [
             "250ml/9fl oz whipping cream",
             "60g/2oz unsalted butter",
@@ -44,7 +31,25 @@
         "To serve": [
             "100g/3\u00bdoz strawberries",
             "whipped cream"
+        ],
+        "default": [
+            "450g/1lb dark chocolate, minimum 70 per cent cocoa solids",
+            "200g/7oz unsalted butter, plus extra for greasing",
+            "10 free-range eggs",
+            "3 tbsp soured cream",
+            "300g/10\u00bdoz caster sugar",
+            "1 vanilla pod, split, seeds scraped out",
+            "200g/7oz plain flour",
+            "1 tsp ground cinnamon",
+            "\u00bd tsp baking powder",
+            "2 red chillies, seeds removed, finely chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 12",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 160C/320F/Gas 3.",
@@ -58,8 +63,9 @@
         "For the sauce, place the cream, butter, cocoa powder, caster sugar, brown sugar and cinnamon into a pan over a low heat and stir for 4-5 minutes, until the ingredients are melted and combined as thick sauce.",
         "To serve, cut out slices of the fudge pudding and place onto plates. Drizzle with the sauce and serve with strawberries and whipped cream."
     ],
-    "howTos": [
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "Chilli and chocolate fudge pudding",
     "videos": "[]"
 }

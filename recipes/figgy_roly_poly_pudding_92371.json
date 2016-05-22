@@ -1,23 +1,24 @@
 {
-    "title": "Fig roly poly pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Bring us some figgy pudding like no other. Thyme honey-infused figs make a delicious addition to a baked roly-poly pudding, serve with a walnut and honey ice cream.",
     "author": {
         "frances": "Frances Quinn"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Bring us some figgy pudding like no other. Thyme honey-infused figs make a delicious addition to a baked roly-poly pudding, serve with a walnut and honey ice cream.",
+    "dishes": [
+        "caramel",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "how_to_make_caramel_and_praline"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -28,6 +29,13 @@
             "50g/1\u00beoz thyme honey",
             "50g/1\u00beoz soft mild goats\u2019 cheese (without rind)",
             "600ml/20fl oz double cream"
+        ],
+        "For the decoration": [
+            "about 2 tbsp thyme honey, to taste",
+            "3 fresh figs (optional)",
+            "1 lemon wedge (optional)",
+            "fresh lemon thyme (optional)",
+            "vanilla pods, scrapped (optional)"
         ],
         "For the fig filling": [
             "1 x 250g/9oz pack semi-dried figs, tops trimmed",
@@ -46,14 +54,13 @@
             "50g/1\u00beoz thyme honey",
             "1 tsp vanilla extract",
             "vanilla-infused sugar for sprinkling, to taste"
-        ],
-        "For the decoration": [
-            "about 2 tbsp thyme honey, to taste",
-            "3 fresh figs (optional)",
-            "1 lemon wedge (optional)",
-            "fresh lemon thyme (optional)",
-            "vanilla pods, scrapped (optional)"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the caramelised walnut and honey ice cream, start with the caramelised walnuts. Place the caster sugar in a small heavy-based saucepan and heat over a medium heat until all the granules have melted and a caramel forms. Lay the walnuts on a sheet of foil and pour the caramel over the walnuts. Leave to set and cool.",
@@ -67,8 +74,9 @@
         "Remove from the oven and leave to cool slightly. Drizzle over the thyme honey to taste and place the remaining caramelised walnuts over the top of the roll. Serve with the ice cream.",
         "You could also decorate with fresh figs (one cut in half, the other two with a cross on the top and the flesh opened slightly), plus a lemon wedge, fresh thyme and scraped vanilla pods around the pudding to reference the ingredients inside."
     ],
-    "howTos": [
-        "how_to_make_caramel_and_praline"
+    "tips": [
+        
     ],
+    "title": "Fig roly poly pudding",
     "videos": "[]"
 }

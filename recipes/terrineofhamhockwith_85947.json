@@ -1,26 +1,51 @@
 {
-    "title": "Terrine of ham hock with piccalilli and toasted spelt bread with English mustard butter",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 10",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "galton_blackiston": "Galton Blackiston"
     },
-    "show": {
-        "b0071y6r": "Great British Menu"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "ham",
+        "jam",
+        "oven-baked_dishes",
+        "piccalilli",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock",
+        "terrine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading",
+        "using_fresh_yeast"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the English mustard butter": [
+            "50g/2oz very soft unsalted butter",
+            "1 heaped tsp English mustard powder",
+            "salt and freshly ground black pepper"
+        ],
+        "For the Norfolk spelt bread": [
+            "350g/12oz Letheringsett Mill spelt flour (or similar spelt flour), sifted",
+            "1 tsp salt",
+            "1 tsp English mustard powder",
+            "40g/1\u00beoz soft salted butter",
+            "50g/2oz chopped walnuts",
+            "25g/1oz sultanas (optional)",
+            "10g/\u00bdoz fresh yeast (available from bakers and from some supermarkets)",
+            "1 tsp caster sugar",
+            "4-5 tbsp lukewarm milk",
+            "4-5 tbsp lukewarm water",
+            "1 free-range egg, beaten"
+        ],
         "For the piccalilli": [
             "600ml/1 pint white wine vinegar",
             "250g/9oz caster sugar",
@@ -53,25 +78,13 @@
             "50g/2oz gherkins, rinsed and chopped",
             "generous handful of parsley, finely chopped",
             "salt and freshly ground black pepper"
-        ],
-        "For the Norfolk spelt bread": [
-            "350g/12oz Letheringsett Mill spelt flour (or similar spelt flour), sifted",
-            "1 tsp salt",
-            "1 tsp English mustard powder",
-            "40g/1\u00beoz soft salted butter",
-            "50g/2oz chopped walnuts",
-            "25g/1oz sultanas (optional)",
-            "10g/\u00bdoz fresh yeast (available from bakers and from some supermarkets)",
-            "1 tsp caster sugar",
-            "4-5 tbsp lukewarm milk",
-            "4-5 tbsp lukewarm water",
-            "1 free-range egg, beaten"
-        ],
-        "For the English mustard butter": [
-            "50g/2oz very soft unsalted butter",
-            "1 heaped tsp English mustard powder",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "Serves 10",
+    "show": {
+        "b0071y6r": "Great British Menu"
     },
     "steps": [
         "Make the piccalilli well ahead as it improves with keeping. Combine the vinegar, sugar, horseradish, thyme, bay leaf and half of the chilli in a non-reactive saucepan. Heat gently until the sugar has dissolved, then bring to the boil. Simmer gently for a couple of minutes. Set aside to cool, then strain and set aside.",
@@ -91,9 +104,9 @@
         "For the mustard butter, beat together the butter and mustard powder in a bowl until thoroughly mixed. Taste and season with salt and freshly ground black pepper. Press into small pots and place in the fridge until firm.",
         "The terrine is best eaten at room temperature. Serve it sliced, with the piccalilli, slices of toasted spelt bread and English mustard butter."
     ],
-    "howTos": [
-        "kneading",
-        "using_fresh_yeast"
+    "tips": [
+        
     ],
+    "title": "Terrine of ham hock with piccalilli and toasted spelt bread with English mustard butter",
     "videos": "[]"
 }

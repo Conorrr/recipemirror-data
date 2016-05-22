@@ -1,24 +1,20 @@
 {
-    "title": "Earl Grey martini",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "1",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/earlgreymarteani_87394_16x9.jpg"
-    ],
-    "description": "Gin and Earl Grey tea combine to make the most sophisticated cocktail in town.",
     "author": {
         "andy_pearson": "Andy Pearson"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Gin and Earl Grey tea combine to make the most sophisticated cocktail in town.",
+    "dishes": [
+        "gin_cocktail"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/earlgreymarteani_87394_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -30,12 +26,19 @@
             "twist lemon peel, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Place the gin, Earl Grey tea, lemon juice, sugar syrup and egg white into a cocktail shaker and shake well.",
         "Double strain the liquid into a Martini glass and garnish with a lemon twist."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Earl Grey martini",
     "videos": "[]"
 }

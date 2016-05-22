@@ -1,26 +1,31 @@
 {
-    "title": "Iced Christmas muffins",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 6-8",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "icing",
+        "muffins",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the icing": [
+            "300g/10\u00bdoz icing sugar",
+            "25ml/1fl oz lemon juice",
+            "25ml/1fl oz water",
+            "decorative silver sugar balls, to decorate"
+        ],
         "default": [
             "100g/3\u00bdoz self-raising flour",
             "100g/3\u00bdoz wholemeal flour",
@@ -38,13 +43,13 @@
             "100ml/3\u00bdfl oz natural yoghurt",
             "3 tbsp clear honey",
             "75g/2\u00bdoz butter"
-        ],
-        "For the icing": [
-            "300g/10\u00bdoz icing sugar",
-            "25ml/1fl oz lemon juice",
-            "25ml/1fl oz water",
-            "decorative silver sugar balls, to decorate"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Makes 6-8",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -59,8 +64,9 @@
         "For the icing, place the icing sugar, lemon juice and water into a bowl and mix well, until smooth.",
         "To serve, spread the icing on top of the muffins once they have cooled and decorate with silver sugar balls."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Iced Christmas muffins",
     "videos": "[]"
 }

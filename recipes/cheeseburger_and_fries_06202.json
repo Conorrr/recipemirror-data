@@ -1,23 +1,25 @@
 {
-    "title": "Cheeseburger and fries",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Recreate the authentic American diner experience with burgers in soft white buns, fries and a thick vanilla milkshake.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Recreate the authentic American diner experience with burgers in soft white buns, fries and a thick vanilla milkshake.",
+    "dishes": [
+        "beef_burger",
+        "brioche",
+        "bun",
+        "chips",
+        "jam",
+        "mayonnaise",
+        "milkshake"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -43,6 +45,12 @@
             "200g/7oz vanilla ice cream"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "For the cheeseburger, put the mince in a large bowl and season with salt and pepper. Use your hands to shape the mince into four burger-shaped patties. Wrap the patties in cling film and place in the fridge for an hour.",
         "Heat a large frying pan and add the oil. Once hot, add the burgers and cook each side for 2-3 minutes. When cooked, set aside to rest.",
@@ -54,8 +62,9 @@
         "To assemble the burger, place each patty in a brioche roll topped with the gherkins, sliced tomato, lettuce, a few onion slices, cheese and beer mustard mayonnaise.",
         "Place the burgers on serving plates and secure with a wooden skewer. Place the fries alongside and serve with the milkshakes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cheeseburger and fries",
     "videos": "[]"
 }

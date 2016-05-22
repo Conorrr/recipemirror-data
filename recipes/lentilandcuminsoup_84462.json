@@ -1,26 +1,34 @@
 {
-    "title": "Lentil and cumin soup with pesto",
-    "cookTime": "",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "",
+    "description": "",
+    "dishes": [
+        "bun",
+        "jam",
+        "pesto",
+        "sauce",
+        "soup",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pesto": [
+            "bunch fresh basil, leaves only",
+            "3 tbsp olive oil",
+            "spoonful of yoghurt",
+            "sprinkling of chopped chives, to serve",
+            "drizzle of oil, to serve"
+        ],
         "default": [
             "1 can of lentils, rinsed and drained",
             "100ml/4fl oz red wine",
@@ -28,14 +36,13 @@
             "handful fresh parsley, chopped",
             "1 tsp cumin seeds",
             "100ml/4fl oz double cream"
-        ],
-        "For the pesto": [
-            "bunch fresh basil, leaves only",
-            "3 tbsp olive oil",
-            "spoonful of yoghurt",
-            "sprinkling of chopped chives, to serve",
-            "drizzle of oil, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat the lentils, red wine, water, parsley and cumin seeds in a saucepan over a medium heat and simmer for five minutes. Season with sea salt and freshly ground black pepper.",
@@ -44,8 +51,9 @@
         "Transfer the soup into a serving bowl and carefully stir through some of the pesto.",
         "To serve, top with a spoonful of yoghurt and sprinkle over the chopped chives and oil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lentil and cumin soup with pesto",
     "videos": "[]"
 }

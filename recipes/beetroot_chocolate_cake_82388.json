@@ -1,24 +1,28 @@
 {
-    "title": "Beetroot chocolate cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "58",
-    "images": [
-        
-    ],
-    "description": "If you haven\u2019t yet discovered the wonderful cake combination that is beetroot and chocolate, this is the perfect introductory recipe. Try it with a dollop of cr\u00e8me fra\u00eeche.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b01nd35k": "Nigel Slater's Dish of the Day"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "If you haven\u2019t yet discovered the wonderful cake combination that is beetroot and chocolate, this is the perfect introductory recipe. Try it with a dollop of cr\u00e8me fra\u00eeche.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "folding",
+        "separating_eggs",
+        "melting_chocolate",
+        "testing_to_see_if_a_cake_is_cooked",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,6 +38,12 @@
             "cr\u00e8me fra\u00eeche or double cream, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "58",
+    "serves": "Serves 6",
+    "show": {
+        "b01nd35k": "Nigel Slater's Dish of the Day"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease a 20cm/8in cake tin with a little butter and line the bottom of the tin with a disc of baking parchment.",
         "Blend the beetroot in a food processor to a rough pur\u00e9e.",
@@ -46,12 +56,9 @@
         "Pour the batter into the prepared tin and bake for 40 minutes, or until a skewer inserted into the cake comes out clean.",
         "Allow to cool in the tin, then serve with cr\u00e8me fra\u00eeche or double cream."
     ],
-    "howTos": [
-        "folding",
-        "separating_eggs",
-        "melting_chocolate",
-        "testing_to_see_if_a_cake_is_cooked",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Beetroot chocolate cake",
     "videos": "[p011wk2y:p011wk32]"
 }

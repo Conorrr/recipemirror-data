@@ -1,35 +1,39 @@
 {
-    "title": "Fruit tarts with elderflower custard",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 12",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "These pretty petits fours make the best of our finest summer fruits. Ripe peaches and apricots would also work well.",
     "author": {
         "mary_anne_boerman": "Mary-Anne Boermans"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "These pretty petits fours make the best of our finest summer fruits. Ripe peaches and apricots would also work well.",
+    "dishes": [
+        "bread",
+        "custard",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "stir-fries",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sweet shortcrust pastry": [
-            "250g/9oz plain flour",
-            "125g/4\u00bdoz sugar",
-            "125g/4\u00bdoz butter, diced",
-            "25g/1oz ground almonds",
-            "1 tsp baking powder",
-            "1 orange, zest only",
-            "1 lemon, zest only",
-            "1 free-range egg, beaten"
+        "For the fruit topping": [
+            "175g/6oz blueberries",
+            "175g/6oz raspberries",
+            "175g/6oz redcurrants",
+            "175g/6oz whitecurrants"
+        ],
+        "For the glaze": [
+            "115g/4oz sugar",
+            "250ml/9fl oz apple juice",
+            "2 tbsp cornflour",
+            "2 tbsp golden syrup"
         ],
         "For the pastry cream": [
             "1 vanilla pod, seeds scraped out",
@@ -39,18 +43,22 @@
             "30g/1oz cornflour, mixed to a paste with a little cold water",
             "50ml/2fl oz elderflower cordial"
         ],
-        "For the glaze": [
-            "115g/4oz sugar",
-            "250ml/9fl oz apple juice",
-            "2 tbsp cornflour",
-            "2 tbsp golden syrup"
-        ],
-        "For the fruit topping": [
-            "175g/6oz blueberries",
-            "175g/6oz raspberries",
-            "175g/6oz redcurrants",
-            "175g/6oz whitecurrants"
+        "For the sweet shortcrust pastry": [
+            "250g/9oz plain flour",
+            "125g/4\u00bdoz sugar",
+            "125g/4\u00bdoz butter, diced",
+            "25g/1oz ground almonds",
+            "1 tsp baking powder",
+            "1 orange, zest only",
+            "1 lemon, zest only",
+            "1 free-range egg, beaten"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes 12",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the pastry, pulse the flour, sugar, butter, ground almonds, baking powder and citrus zests in a food processor until the mixture resembles breadcrumbs.",
@@ -64,8 +72,9 @@
         "Dissolve the cornflour in the remaining juice, quickly pour the mixture into the saucepan and return to pan to the heat. Cook until the mixture has thickened, stirring all the time, then add the golden syrup, bring back to the boil and remove the pan from the heat. Set aside to cool",
         "To assemble the tarts, spoon a little pastry cream into each pastry case. Arrange the fruit on top and drizzle over the glaze. Chill in the fridge until ready to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fruit tarts with elderflower custard",
     "videos": "[]"
 }

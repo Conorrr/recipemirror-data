@@ -1,31 +1,23 @@
 {
-    "title": "Masala Machchi",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "atul_kochhar": "Atul Kochhar"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 cod fillets weighing 100-120g/3\u00bd-4\u00bdoz each",
-            "1 tbsp lime juice",
-            "pinch salt"
-        ],
         "For the batter": [
             "1 tbsp ginger or garlic paste",
             "\u00bd tsp turmeric powder",
@@ -38,10 +30,6 @@
             "1 drop orange colour (optional)",
             "120ml/4\u00bcfl oz sparkling water"
         ],
-        "To fry": [
-            "oil in a wok to deep fry",
-            "1 tsp chaat masala"
-        ],
         "For the cucumber and tomato salad": [
             "1 small cucumber thick sliced",
             "2 medium tomatoes, sliced",
@@ -53,7 +41,22 @@
             "pinch freshly ground black pepper or red chilli powder",
             "1 tsp lime juice",
             "\u00bd tsp salad oil or olive oil"
+        ],
+        "To fry": [
+            "oil in a wok to deep fry",
+            "1 tsp chaat masala"
+        ],
+        "default": [
+            "4 cod fillets weighing 100-120g/3\u00bd-4\u00bdoz each",
+            "1 tbsp lime juice",
+            "pinch salt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Marinate the fish with lime juice and salt and keep aside for 20 minutes.",
@@ -66,8 +69,9 @@
         "Mix the dressing ingredients together, and toss the salad in the dressing.",
         "Serve the crisp fried fish on the salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Masala Machchi",
     "videos": "[]"
 }

@@ -1,26 +1,37 @@
 {
-    "title": "Sausage, bacon and boiled-egg pie with juniper creamed cabbage",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This hearty pie makes good use of breakfast or Christmas leftovers and is ready in no time at all.",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b04v6210": "Christmas Kitchen with James Martin"
-    },
-    "tips": [
-        "To make the reduced chicken stock, boil 600ml/1 pint chicken stock until it has reduced in volume by half (this will concentrate the flavour)."
+    "cookTime": "30 mins to 1 hour",
+    "description": "This hearty pie makes good use of breakfast or Christmas leftovers and is ready in no time at all.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "sausage",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the juniper creamed cabbage": [
+            "150ml/\u00bc pint double cream",
+            "1 Savoy cabbage, outer leaves and root removed, leaves shredded",
+            "large bowl iced water",
+            "50g/2oz Wensleydale, grated",
+            "6 juniper berries, ground to a powder",
+            "salt and freshly ground black pepper"
+        ],
         "For the pie": [
             "600ml/1 pint chicken stock",
             "10 cooked leftover sausages, cut in half lengthways",
@@ -33,15 +44,13 @@
             "375g/13oz ready-made shortcrust pastry",
             "plain flour, for dusting",
             "1 egg, plus 1 egg yolk, beaten together"
-        ],
-        "For the juniper creamed cabbage": [
-            "150ml/\u00bc pint double cream",
-            "1 Savoy cabbage, outer leaves and root removed, leaves shredded",
-            "large bowl iced water",
-            "50g/2oz Wensleydale, grated",
-            "6 juniper berries, ground to a powder",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b04v6210": "Christmas Kitchen with James Martin"
     },
     "steps": [
         "Preheat the oven to 180C/160C Fan/Gas 4. Heat the chicken stock in a pan until reduced in volume by half.",
@@ -54,8 +63,9 @@
         "Stir the cheese into the warm cream until melted. Stir in the blanched cabbage and ground juniper, then season, to taste, with salt and freshly ground black pepper.",
         "Serve the pie in slices with some of the juniper creamed cabbage piled alongside."
     ],
-    "howTos": [
-        
+    "tips": [
+        "To make the reduced chicken stock, boil 600ml/1 pint chicken stock until it has reduced in volume by half (this will concentrate the flavour)."
     ],
+    "title": "Sausage, bacon and boiled-egg pie with juniper creamed cabbage",
     "videos": "[]"
 }

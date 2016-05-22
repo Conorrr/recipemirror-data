@@ -1,30 +1,33 @@
 {
-    "title": "Crab and scallop Mornay",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "11",
-    "images": [
-        
-    ],
-    "description": "Mornay, a mustard-flavoured cheese sauce makes an irresistibly melting topping for scallops served in their shells with crab and a gratinated crunchy topping.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Mornay, a mustard-flavoured cheese sauce makes an irresistibly melting topping for scallops served in their shells with crab and a gratinated crunchy topping.",
+    "dishes": [
+        "bread",
+        "gratin",
+        "oven-baked_dishes",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "6 large diver-caught scallops, shucked (keep the shells)",
-            "knob of butter",
-            "100g/3\u00bdoz white or brown (or a mixture) handpicked crabmeat"
+        "For the gratin topping": [
+            "25g/1oz white breadcrumbs, made with crust-less day-old bread",
+            "25g/1oz Gruy\u00e8re cheese, finely grated",
+            "3 heaped tbsp finely chopped curly parsley (optional)",
+            "flaked sea salt and freshly ground black pepper"
         ],
         "For the sauce": [
             "500ml/18fl oz whole milk",
@@ -38,12 +41,17 @@
             "25g/1oz Gruy\u00e8re cheese, finely grated",
             "2 heaped tbsp snipped chives"
         ],
-        "For the gratin topping": [
-            "25g/1oz white breadcrumbs, made with crust-less day-old bread",
-            "25g/1oz Gruy\u00e8re cheese, finely grated",
-            "3 heaped tbsp finely chopped curly parsley (optional)",
-            "flaked sea salt and freshly ground black pepper"
+        "default": [
+            "6 large diver-caught scallops, shucked (keep the shells)",
+            "knob of butter",
+            "100g/3\u00bdoz white or brown (or a mixture) handpicked crabmeat"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 6",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "Slice each scallop into three discs, put on a plate, cover with cling film and chill in the fridge while the sauce is being prepared. Scrub the deeper part of each scallop shell well with hot water and place on a rack over a baking tray, and grease the inside with butter. If you don\u2019t have scallop shells available, use shallow gratin dishes instead. Preheat the oven to 220C/425F/Gas 7.",
@@ -53,8 +61,9 @@
         "Mix the breadcrumbs with the grated cheese and parsley, if using, and season with salt and pepper. Sprinkle the breadcrumbs over the scallop mixture. Bake in the hot oven for 18-20 minutes until golden-brown and bubbling. (The scallops should have turned opaque, but remain sweet and tender.)",
         "Serve the scallops and crab Mornay with a crisp green salad and a glass of chilled white wine."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Crab and scallop Mornay",
     "videos": "[p017qswq:p017qswy]"
 }

@@ -1,32 +1,24 @@
 {
-    "title": "Roquefort steak with mushrooms and sweet potato chips",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "chips",
+        "jam",
+        "oven-baked_dishes"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the steak": [
-            "1 tbsp olive oil",
-            "1 Portobello mushroom, sliced",
-            "140g/5oz sirloin steak, seasoned with freshly ground black pepper",
-            "110g/4oz Roquefort"
-        ],
         "For the chips": [
             "1 tbsp olive oil",
             "1 sweet potato, cut into chunky chips",
@@ -35,7 +27,19 @@
             "1 tbsp fresh thyme leaves, chopped",
             "2 tbsp butter",
             "salt and freshly ground black pepper."
+        ],
+        "For the steak": [
+            "1 tbsp olive oil",
+            "1 Portobello mushroom, sliced",
+            "140g/5oz sirloin steak, seasoned with freshly ground black pepper",
+            "110g/4oz Roquefort"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
@@ -45,8 +49,9 @@
         "Add the rosemary, thyme and butter to the pan and season, to taste, with salt and freshly ground black pepper. Place into the oven for 12-15 minutes, making sure to move the potatoes around once or twice to ensure they cook evenly.",
         "To serve, place the steak and sweet potato chips on a warmed plate."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roquefort steak with mushrooms and sweet potato chips",
     "videos": "[]"
 }

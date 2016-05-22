@@ -1,26 +1,29 @@
 {
-    "title": "Lemon and almond cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "57",
-    "images": [
-        
-    ],
-    "description": "This moist lemon cake with its sugary crust is so good it won't last long. Make one extra and freeze (un-iced) for another day.",
     "author": {
         "fay_ripley": "Fay Ripley"
     },
-    "show": {
-        "b00sy9ws": "The Hairy Bikers' Cook Off"
-    },
-    "tips": [
-        "This is brilliant to make a day or two before serving and it also freezes well. Just add the icing on the day you serve it. Try and buy unwaxed or organic lemons when using the zest. To extract the maximum amount of juice, make sure the lemons are at room temperature, and firmly roll them back and forth under your palm a couple of times before juicing - this helps to break down some of the flesh's fibres."
+    "cookTime": "30 mins to 1 hour",
+    "description": "This moist lemon cake with its sugary crust is so good it won't last long. Make one extra and freeze (un-iced) for another day.",
+    "dishes": [
+        "almond_cake",
+        "cake",
+        "icing",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "creaming"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the icing": [
+            "1 lemon, juice only",
+            "5-6 tbsp icing sugar"
+        ],
         "default": [
             "200g/7oz butter, softened, plus extra for greasing",
             "200g/7oz golden caster sugar",
@@ -28,11 +31,13 @@
             "50g/2oz plain flour or white spelt flour",
             "125g/4\u00bdoz ground almonds",
             "2 lemons (juice of 1 and finely grated zest of 2)"
-        ],
-        "For the icing": [
-            "1 lemon, juice only",
-            "5-6 tbsp icing sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "57",
+    "serves": "Serves 8",
+    "show": {
+        "b00sy9ws": "The Hairy Bikers' Cook Off"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease the base and sides of a 20-22cm/8-8\u00bdin round cake tin and line the bottom with baking parchment.",
@@ -41,8 +46,9 @@
         "While the cake is still hot and still in the tin, stab it with a chopstick or some such weapon all over the cake, making 15 or so holes. Drizzle the lemon juice into the holes and all over the cake then leave in the tin to cool.",
         "When you're ready to serve the cake, make the icing. To make the icing, mix the lemon juice, a little at a time, into the icing sugar to make a smooth paste. Remove the cake from the tin and smooth the icing on the top, then serve."
     ],
-    "howTos": [
-        "creaming"
+    "tips": [
+        "This is brilliant to make a day or two before serving and it also freezes well. Just add the icing on the day you serve it. Try and buy unwaxed or organic lemons when using the zest. To extract the maximum amount of juice, make sure the lemons are at room temperature, and firmly roll them back and forth under your palm a couple of times before juicing - this helps to break down some of the flesh's fibres."
     ],
+    "title": "Lemon and almond cake",
     "videos": "[p00bxl0j:p00bxl0n]"
 }

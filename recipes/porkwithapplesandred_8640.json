@@ -1,37 +1,32 @@
 {
-    "title": "Pork with apples and red cabbage coleslaw",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ed_baines": "Ed Baines"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "coleslaw",
+        "ham",
+        "mayonnaise",
+        "pie",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 tbsp olive oil",
-            "4 pork fillets",
-            "8 slices Parma ham",
-            "2 cloves garlic, finely chopped",
-            "2 tbsp dijon mustard",
-            "1 glass dry white wine",
-            "290ml/\u00bd pint vegetable stock",
-            "juice of 1 lemon",
-            "12 sage leaves",
-            "salt and pepper"
+        "For the apples": [
+            "4 eating apples, cored and sliced",
+            "olive oil",
+            "sugar",
+            "salt"
         ],
         "For the coleslaw": [
             "\u00bd red cabbage, finely chopped",
@@ -43,12 +38,24 @@
             "4 tbsp mayonnaise",
             "salt and pepper"
         ],
-        "For the apples": [
-            "4 eating apples, cored and sliced",
-            "olive oil",
-            "sugar",
-            "salt"
+        "default": [
+            "4 tbsp olive oil",
+            "4 pork fillets",
+            "8 slices Parma ham",
+            "2 cloves garlic, finely chopped",
+            "2 tbsp dijon mustard",
+            "1 glass dry white wine",
+            "290ml/\u00bd pint vegetable stock",
+            "juice of 1 lemon",
+            "12 sage leaves",
+            "salt and pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "p0077hsg": "Housecall"
     },
     "steps": [
         "Seal the pork in a little olive oil until light brown on both sides. Wrap each piece of meat in two slices of Parma ham and set aside.",
@@ -58,8 +65,9 @@
         "For the apples, brush the apple slices with olive oil, sprinkle with sugar and salt. Grill or griddle until golden brown on both sides.",
         "To assemble the dish, place a portion of coleslaw on the centre of the plate, top with the pork and apple slices. Spoon the pan juices around the edge and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pork with apples and red cabbage coleslaw",
     "videos": "[]"
 }

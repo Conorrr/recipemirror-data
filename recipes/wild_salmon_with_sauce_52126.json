@@ -1,30 +1,25 @@
 {
-    "title": "Wild salmon with sauce vierge",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "A great summer dish for light, fresh eating. Vary the herbs in the green sauce according to what you can get hold of.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "French",
+    "description": "A great summer dish for light, fresh eating. Vary the herbs in the green sauce according to what you can get hold of.",
+    "dishes": [
+        "jam",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the wild salmon": [
-            "2 tbsp olive oil",
-            "4 x 150-200g/5\u00bd-7oz pieces wild salmon fillet"
-        ],
         "For the sauce vierge": [
             "120ml/4fl oz extra virgin olive oil",
             "1 lemon, juice only",
@@ -38,7 +33,17 @@
             "2 tbsp chopped fresh parsley",
             "2 tbsp snipped fresh chives",
             "salt and freshly ground black pepper"
+        ],
+        "For the wild salmon": [
+            "2 tbsp olive oil",
+            "4 x 150-200g/5\u00bd-7oz pieces wild salmon fillet"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the wild salmon, heat a large frying pan and, once hot, add the oil. Place the fillets of salmon skin-side down for three minutes and turn over for another three minutes. Remove from the pan and leave to rest in a warm place.",
@@ -47,8 +52,9 @@
         "Add the basil, chervil, dill, parsley and chives and season, to taste, with salt and freshly ground black pepper.",
         "To serve, divide the salmon among four plates and then spoon the sauce vierge over the top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Wild salmon with sauce vierge",
     "videos": "[]"
 }

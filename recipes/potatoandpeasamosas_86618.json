@@ -1,24 +1,26 @@
 {
-    "title": "Easy potato and pea samosas",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 20",
-    "recommendations": "25",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/potatoandpeasamosas_86618_16x9.jpg"
-    ],
-    "description": "An easy little vegetable samosa that makes a delicious, inexpensive lunch from storecupboard ingredients.",
     "author": {
         "anjum_anand": "Anjum Anand"
     },
-    "show": {
-        "b007szxr": "Indian Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "An easy little vegetable samosa that makes a delicious, inexpensive lunch from storecupboard ingredients.",
+    "dishes": [
+        "chutney",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "samosa",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/potatoandpeasamosas_86618_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -41,6 +43,12 @@
             "2 tbsp sesame seeds (optional) (you can also use poppy or nigella seeds)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "25",
+    "serves": "Makes 20",
+    "show": {
+        "b007szxr": "Indian Food Made Easy"
+    },
     "steps": [
         "Heat the oil in a small non-stick pan and fry the mustard seeds for about ten seconds, or until they begin to splutter.",
         "Add the onion and ginger and cook for 2-3 minutes over a high heat. Add the peas, stir well and add the spices, mango powder, salt and a splash of water. (If using lemon juice, add this instead of the water.) Cook for 1-2 minutes, then add the potatoes and coriander and cook for 2-3 minutes. Taste and adjust the seasoning.",
@@ -50,8 +58,9 @@
         "Bake in the centre of the oven for 30-35 minutes, or until golden and crisp, turning halfway through the cooking time.",
         "To serve, place the samosas onto a large serving plate with a bowlful of chutney."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Easy potato and pea samosas",
     "videos": "[]"
 }

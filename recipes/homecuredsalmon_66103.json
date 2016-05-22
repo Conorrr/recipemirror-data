@@ -1,30 +1,24 @@
 {
-    "title": "Home cured salmon",
-    "cookTime": "no cooking required",
-    "prepTime": "overnight",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "juliette_lawrence_wilson": "Juliette Lawrence Wilson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "mayonnaise",
+        "oatcake",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "225g/8oz fresh salmon",
-            "5 tbsp sea salt"
-        ],
         "For the marinade": [
             "150ml/\u00bc pint olive oil",
             "2 lemons, juice and finely grated rind",
@@ -32,7 +26,17 @@
             "1 tbsp sugar",
             "3 tbsp sherry",
             "black pepper"
+        ],
+        "default": [
+            "225g/8oz fresh salmon",
+            "5 tbsp sea salt"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Place the salmon in a bowl and cover well with the sea salt. Cover the bowl with cling film and refrigerate overnight.",
@@ -40,8 +44,9 @@
         "For the marinade, whisk together the olive oil, lemon juice, rind, dill, sugar, sherry and pepper. Pour over the salmon and leave, covered, in the fridge overnight.",
         "Carve the salmon finely and serve with crisp salad leaves, oatcakes and mayonnaise."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Home cured salmon",
     "videos": "[]"
 }

@@ -1,38 +1,45 @@
 {
-    "title": "Seasonal crumble",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 40",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "A comforting classic pud for a large group. You could substitute the apples for seasonal fruits such as plums or pears. You'll need several large ovenproof dishes.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b013y0nz": "Hairy Bikers' Meals on Wheels"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "A comforting classic pud for a large group. You could substitute the apples for seasonal fruits such as plums or pears. You'll need several large ovenproof dishes.",
+    "dishes": [
+        "bread",
+        "crumble",
+        "custard",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the filling": [
-            "3 tbsp cinnamon",
-            "500g/1lb 2oz demerara sugar",
-            "10kg/22lbs cooking apples, preferably Bramley variety, peeled, cored and sliced"
-        ],
         "For the crumble topping": [
             "875g/1lb 15oz plain flour",
             "2 tbsp cinnamon",
             "700g/1lb 9oz demerara sugar",
             "175g/6oz porridge oats",
             "900g/2lb cold unsalted butter"
+        ],
+        "For the filling": [
+            "3 tbsp cinnamon",
+            "500g/1lb 2oz demerara sugar",
+            "10kg/22lbs cooking apples, preferably Bramley variety, peeled, cored and sliced"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "7",
+    "serves": "Serves 40",
+    "show": {
+        "b013y0nz": "Hairy Bikers' Meals on Wheels"
     },
     "steps": [
         "Preheat the oven to 170C/325F/Gas 3.",
@@ -40,8 +47,9 @@
         "To make the crumble topping, place the flour and cinnamon in a large bowl and mix well, then stir in the sugar and the oats. Cut the butter into small cubes, add to the mixture and rub it in with your fingertips until the mixture is the texture of coarse breadcrumbs.",
         "Arrange the topping over the fruit and bake the crumbles for about 40 minutes or until the topping is golden and crunchy. Serve with custard."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Seasonal crumble",
     "videos": "[]"
 }

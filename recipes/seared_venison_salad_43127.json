@@ -1,29 +1,33 @@
 {
-    "title": "Seared venison salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "A light and healthy way to serve venison - a plentiful, sustainable, free range meat that's packed with flavour.",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b016pbs9": "Great British Food Revival"
-    },
-    "tips": [
-        "To prevent the beetroot from staining your hands as you peel them, wear disposable latex gloves."
+    "cookTime": "10 to 30 mins",
+    "description": "A light and healthy way to serve venison - a plentiful, sustainable, free range meat that's packed with flavour.",
+    "dishes": [
+        "bun",
+        "pickle",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "olive oil, for frying",
-            "500g/17oz venison loin (preferably from a roe deer)"
+        "For the salad": [
+            "1 bunch hot radishes (preferably French), sliced",
+            "handful fresh chervil, leaves only, chopped",
+            "handful fresh pea shoots",
+            "dash walnut oil",
+            "1 lemon, juice only",
+            "pinch salt"
         ],
         "For the salad dressing": [
             "1 tbsp butter",
@@ -34,19 +38,21 @@
             "1 tbsp walnut oil",
             "freshly ground black pepper"
         ],
-        "For the salad": [
-            "1 bunch hot radishes (preferably French), sliced",
-            "handful fresh chervil, leaves only, chopped",
-            "handful fresh pea shoots",
-            "dash walnut oil",
-            "1 lemon, juice only",
-            "pinch salt"
-        ],
         "To serve": [
             "3-4 baby beetroots, peeled, sliced",
             "4 gherkins, drained, sliced",
             "4 pickled walnuts, chopped"
+        ],
+        "default": [
+            "olive oil, for frying",
+            "500g/17oz venison loin (preferably from a roe deer)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b016pbs9": "Great British Food Revival"
     },
     "steps": [
         "For the venison, heat a little oil in a frying pan over a medium-to-high heat. Add the venison loin and fry, turning regularly, for 10-12 minutes, until browned all over but still pink inside. Set the meat aside to rest.",
@@ -56,8 +62,9 @@
         "Once the venison has rested, carve into slices.",
         "To serve, arrange a few of the beetroot and gherkin slices onto each of four serving plates. Sprinkle over the chopped pickled walnuts. Arrange the venison slices on top. Heap the pea shoot and radish salad on top of the meat. Drizzle over the warm salad dressing."
     ],
-    "howTos": [
-        
+    "tips": [
+        "To prevent the beetroot from staining your hands as you peel them, wear disposable latex gloves."
     ],
+    "title": "Seared venison salad",
     "videos": "[]"
 }

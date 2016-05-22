@@ -1,24 +1,22 @@
 {
-    "title": "Roast loin of lamb, peas, lettuce and bacon",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "11",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/roast_loin_of_lamb_peas_19776_16x9.jpg"
-    ],
-    "description": "Roast lamb accompanied by peas, mint and lettuce, this recipe captures Spring's sweetness and freshness. This meal provides 451 kcal, 37g protein, 5.5g carbohydrate (of which 2.5g sugars), 31g fat (of which 14.5g saturates), 2.3g fibre and 1.9g salt per portion.",
     "author": {
         "bryn_williams": "Bryn Williams"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Roast lamb accompanied by peas, mint and lettuce, this recipe captures Spring's sweetness and freshness. This meal provides 451 kcal, 37g protein, 5.5g carbohydrate (of which 2.5g sugars), 31g fat (of which 14.5g saturates), 2.3g fibre and 1.9g salt per portion.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pesto",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/roast_loin_of_lamb_peas_19776_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,6 +32,12 @@
             "1 sprig mint"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "For the lamb, preheat the oven to 160C/325F/Gas 3.",
         "Season the lamb well with salt and pepper.",
@@ -46,8 +50,9 @@
         "Add the peas, butter, the lettuce and the mint, and season with salt and pepper to taste. Simmer for a minute or two until the lettuce is cooked.",
         "To serve, slice the lamb, pour the pea, bacon and pesto mixture into a large bowl or individual serving dishes, and arrange the lamb slices on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roast loin of lamb, peas, lettuce and bacon",
     "videos": "[]"
 }

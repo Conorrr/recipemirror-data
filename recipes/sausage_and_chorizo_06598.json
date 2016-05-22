@@ -1,24 +1,25 @@
 {
-    "title": "Sausage and chorizo goulash",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "6",
-    "recommendations": "125",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sausage_and_chorizo_06598_16x9.jpg"
-    ],
-    "description": "Add chorizo to your goulash for an extra bite of paprika.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "East_European",
+    "description": "Add chorizo to your goulash for an extra bite of paprika.",
+    "dishes": [
+        "casserole",
+        "oven-baked_dishes",
+        "sausage",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sausage_and_chorizo_06598_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -38,6 +39,12 @@
             "cooked long-grain rice, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "125",
+    "serves": "6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Preheat the oven to 150C/300F/Gas 2.",
         "Heat the oil and butter in a large ovenproof frying pan and fry the beef sausages and chorizo for 5-7 minutes, or until browned all over.",
@@ -46,8 +53,9 @@
         "Remove the frying pan from the oven and skim off any fat that\u2019s risen to the surface with a slotted spoon. Stir in the soured cream and parsley until well combined.",
         "Serve the goulash with long-grain rice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sausage and chorizo goulash",
     "videos": "[]"
 }

@@ -1,26 +1,30 @@
 {
-    "title": "Grape sponge with custard",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "custard",
+        "jam",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the custard": [
+            "4 free-range egg yolks",
+            "75g/2\u00bcoz caster sugar",
+            "250ml/9fl oz double cream",
+            "1 vanilla pod, split and seeds removed"
+        ],
         "default": [
             "butter, for greasing",
             "115g/4oz self-raising flour, plus extra for dusting",
@@ -30,13 +34,13 @@
             "2 free-range eggs",
             "2 tbsp honey",
             "100g/3\u00bdoz grapes"
-        ],
-        "For the custard": [
-            "4 free-range egg yolks",
-            "75g/2\u00bcoz caster sugar",
-            "250ml/9fl oz double cream",
-            "1 vanilla pod, split and seeds removed"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "To make the sponge pudding, grease a pudding basin with butter then dust with self-raising flour.",
@@ -49,8 +53,9 @@
         "Pour this mixture back into the saucepan and gently heat, stirring continuously. When the custard reaches a consistency that coats the back of a wooden spoon it is ready.",
         "To serve, turn the sponge out onto a warm serving plate and pour over some of the custard."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Grape sponge with custard",
     "videos": "[]"
 }

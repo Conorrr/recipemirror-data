@@ -1,41 +1,37 @@
 {
-    "title": "The Bunny Pentathlon",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Rabbit is cooked in five ways to make up the 'bunny pentathlon' - truly an Olympic feat!",
     "author": {
         "stephen_terry": "Stephen Terry"
     },
-    "show": {
-        "b0071y6r": "Great British Menu"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Rabbit is cooked in five ways to make up the 'bunny pentathlon' - truly an Olympic feat!",
+    "dishes": [
+        "bread",
+        "bun",
+        "chips",
+        "coleslaw",
+        "ham",
+        "jam",
+        "oven-baked_dishes",
+        "salad",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the rabbit stock": [
-            "2 garlic cloves, crushed",
-            "1 small white onion, roughly chopped",
-            "1 small leek, roughly chopped",
-            "1 stick celery, roughly chopped",
-            "1 medium carrot, roughly chopped",
-            "olive oil",
-            "2 rabbit carcasses, chopped",
-            "500ml/18fl oz chicken stock",
-            "4 rabbit legs",
-            "4 rabbit shoulders"
-        ],
-        "For the rabbit mince": [
-            "2 rabbit loins",
-            "3 rabbit legs, cooked in the stock (above)"
+        "For the braised shoulder": [
+            "4 rabbit shoulders \u2013 cooked in stock",
+            "1 free-range egg",
+            "300ml/10\u00bdfl oz vegetable oil",
+            "100g/3\u00bdoz plain flour",
+            "100g/3\u00bdoz panko breadcrumbs"
         ],
         "For the bunny burger": [
             "3 shallots, finely diced",
@@ -45,9 +41,28 @@
             "30g/1oz bone marrow, finely diced",
             "4 slices white bread"
         ],
-        "For the potato fries": [
-            "4 large maris piper potatoes, peeled, cut into large thick chips",
-            "300ml/10\u00bdfloz vegetable oil"
+        "For the caper and shallot dressing": [
+            "1 shallot, finely diced",
+            "1 tbsp small capers",
+            "1 tbsp olive oil",
+            "1 tsp vinegar from the capers jar"
+        ],
+        "For the carrot slaw": [
+            "1 large carrot, finely shredded",
+            "2 tsp salad cream",
+            "1 tsp cr\u00e8me fra\u00eeche",
+            "\u00bd tsp poppy seeds"
+        ],
+        "For the confit leg": [
+            "100ml/3\u00bdfloz rabbit stock",
+            "1 leaf gelatine \u2013 soaked in cold water",
+            "1 rabbit leg \u2013 cooked in the stock"
+        ],
+        "For the creamed endive": [
+            "olive oil",
+            "1 large chicory, finely shredded",
+            "50ml/2floz double cream",
+            "1 tbsp chopped parsley"
         ],
         "For the faggots": [
             "olive oil",
@@ -63,48 +78,44 @@
             "olive oil",
             "rabbit stock (reserve 100ml/3\u00bdfloz for the confit leg)"
         ],
-        "For the confit leg": [
-            "100ml/3\u00bdfloz rabbit stock",
-            "1 leaf gelatine \u2013 soaked in cold water",
-            "1 rabbit leg \u2013 cooked in the stock"
-        ],
-        "For the braised shoulder": [
-            "4 rabbit shoulders \u2013 cooked in stock",
-            "1 free-range egg",
-            "300ml/10\u00bdfl oz vegetable oil",
-            "100g/3\u00bdoz plain flour",
-            "100g/3\u00bdoz panko breadcrumbs"
-        ],
         "For the loin": [
             "2 rabbit loins",
             "handful sage leaves",
             "4-6 slices Parma ham",
             "olive oil, for frying"
         ],
+        "For the potato fries": [
+            "4 large maris piper potatoes, peeled, cut into large thick chips",
+            "300ml/10\u00bdfloz vegetable oil"
+        ],
+        "For the rabbit mince": [
+            "2 rabbit loins",
+            "3 rabbit legs, cooked in the stock (above)"
+        ],
+        "For the rabbit stock": [
+            "2 garlic cloves, crushed",
+            "1 small white onion, roughly chopped",
+            "1 small leek, roughly chopped",
+            "1 stick celery, roughly chopped",
+            "1 medium carrot, roughly chopped",
+            "olive oil",
+            "2 rabbit carcasses, chopped",
+            "500ml/18fl oz chicken stock",
+            "4 rabbit legs",
+            "4 rabbit shoulders"
+        ],
         "For the smoked anchovies": [
             "200ml/7fl oz vegetable oil",
             "4 smoked anchovies",
             "100ml/3\u00bdfl oz milk",
             "100g/3\u00bdoz plain flour"
-        ],
-        "For the creamed endive": [
-            "olive oil",
-            "1 large chicory, finely shredded",
-            "50ml/2floz double cream",
-            "1 tbsp chopped parsley"
-        ],
-        "For the carrot slaw": [
-            "1 large carrot, finely shredded",
-            "2 tsp salad cream",
-            "1 tsp cr\u00e8me fra\u00eeche",
-            "\u00bd tsp poppy seeds"
-        ],
-        "For the caper and shallot dressing": [
-            "1 shallot, finely diced",
-            "1 tbsp small capers",
-            "1 tbsp olive oil",
-            "1 tsp vinegar from the capers jar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b0071y6r": "Great British Menu"
     },
     "steps": [
         "For the rabbit stock, place the garlic, onion, leek, celery, carrot into a pan with a little oil and cook for 1-2 minutes, without browning. Add the rabbit carcasses and the chicken stock and bring up the heat to a simmer. Meanwhile, place the rabbit legs and shoulders into a large square of muslin and tie the ends together with string, to form a bag. Tie the string to the handle of the pan so that the bag sits in the stock. Leave to simmer for 3\u00bd hours.",
@@ -129,8 +140,9 @@
         "For the caper and shallot dressing, mix together the ingredients in a small bowl.",
         "To serve place a disc of toast onto each serving plate, place a rabbit burger onto it, and top with coleslaw and some fries. Slice the rabbit loins in half and serve half in the centre of each plate, place a faggot to the side of it, a square of confit leg next to the faggot. Add a spoon of creamed endive next to the faggot. Top the creamed endive with the breaded shoulder and the smoked anchovy. Pour some of the stock that was used to cook the faggot all over, drizzle with the caper and shallot dressing and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "The Bunny Pentathlon",
     "videos": "[]"
 }

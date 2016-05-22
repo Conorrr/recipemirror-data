@@ -1,34 +1,29 @@
 {
-    "title": "Martinique coconut chicken curry",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "13",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "levi_roots": "Levi Roots"
     },
-    "show": {
-        "b00mh31r": "Caribbean Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Caribbean",
+    "description": "",
+    "dishes": [
+        "casserole",
+        "chicken_curry",
+        "curry",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the spice mix": [
-            "\u00bc tsp ground turmeric",
-            "1 tsp ground coriander",
-            "1 tsp yellow mustard seeds",
-            "3 garlic cloves, roughly chopped",
-            "\u00bd-1 Scotch bonnet chilli, seeds removed",
-            "1 tsp sea salt flakes"
-        ],
         "For the coconut chicken curry": [
             "12 chicken pieces (a mixture of thighs and drumsticks)",
             "salt and freshly ground black pepper",
@@ -46,7 +41,21 @@
             "\u00bd lime, juice only",
             "1\u00bd tbsp rum (optional)",
             "330g/\u00belb rice, cooked according to packet instructions, to serve"
+        ],
+        "For the spice mix": [
+            "\u00bc tsp ground turmeric",
+            "1 tsp ground coriander",
+            "1 tsp yellow mustard seeds",
+            "3 garlic cloves, roughly chopped",
+            "\u00bd-1 Scotch bonnet chilli, seeds removed",
+            "1 tsp sea salt flakes"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "13",
+    "serves": "Serves 6",
+    "show": {
+        "b00mh31r": "Caribbean Food Made Easy"
     },
     "steps": [
         "For the spice mix, grind the spice mix ingredients to a paste using a mortar and pestle. Set aside.",
@@ -58,8 +67,9 @@
         "Add the mango, papaya, lime juice and rum (if using), stir the mixture well, then cover and continue to simmer for 4-5 minutes, or until the fruit has warmed through.",
         "To serve, divide the rice equally among six serving plates. Spoon over the coconut chicken curry."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Martinique coconut chicken curry",
     "videos": "[]"
 }

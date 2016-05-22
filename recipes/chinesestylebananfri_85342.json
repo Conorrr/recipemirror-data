@@ -1,26 +1,32 @@
 {
-    "title": "Chinese-style banana fritters",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "caramel",
+        "jam",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the caramel": [
+            "250g/9oz caster sugar",
+            "4 tbsp water",
+            "3 tbsp sesame seeds"
+        ],
         "For the fritters": [
             "175g/6oz plain flour",
             "125g/4\u00bdoz cornflour",
@@ -30,14 +36,15 @@
             "4 bananas, peeled, cut into chunks",
             "vegetable oil, for deep-frying"
         ],
-        "For the caramel": [
-            "250g/9oz caster sugar",
-            "4 tbsp water",
-            "3 tbsp sesame seeds"
-        ],
         "To serve": [
             "vanilla ice cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the fritters, sift the flour, cornflour and baking powder together into a bowl, then stir in the water and sesame oil until a smooth batter is formed.",
@@ -48,8 +55,9 @@
         "Remove the caramel from the heat and, one at a time, dip the banana fritters into the hot caramel. Turn each fritter over with a fork to coat all over, then remove immediately and plunge into a bowl of iced water. Remove the fritter from the water and leave to drain on a wire rack while you dip the remaining fritters.",
         "To serve, place the fritters onto plates and place a scoop of vanilla ice cream alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chinese-style banana fritters",
     "videos": "[]"
 }

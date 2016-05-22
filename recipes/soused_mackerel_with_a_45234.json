@@ -1,26 +1,34 @@
 {
-    "title": "Soused mackerel with a carrots, fennel, orange and crispy smoked eel",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Soused mackerel is a fragrant and beautifully summery dish, served here with fennel and carrot.",
     "author": {
         "kenny_atkinson": "Kenny Atkinson"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Soused mackerel is a fragrant and beautifully summery dish, served here with fennel and carrot.",
+    "dishes": [
+        "bread",
+        "pickle"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pickled orange zest": [
+            "1 orange, zest peeled and finely sliced into thin strips",
+            "200g/7oz caster sugar",
+            "200ml/7fl oz white wine vinegar"
+        ],
+        "For the smoked eel": [
+            "2 smoked eel fillets",
+            "50g/2oz plain flour",
+            "1 free-range egg",
+            "75g/3oz panko breadcrumbs"
+        ],
         "default": [
             "4 mackerel, gutted",
             "salt, to season",
@@ -38,18 +46,13 @@
             "sprig fresh coriander",
             "coriander cress",
             "amaranth cress"
-        ],
-        "For the pickled orange zest": [
-            "1 orange, zest peeled and finely sliced into thin strips",
-            "200g/7oz caster sugar",
-            "200ml/7fl oz white wine vinegar"
-        ],
-        "For the smoked eel": [
-            "2 smoked eel fillets",
-            "50g/2oz plain flour",
-            "1 free-range egg",
-            "75g/3oz panko breadcrumbs"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the soused mackerel, fillet the mackerel and cut down each fillet lengthways to remove the centre bone line.",
@@ -66,8 +69,9 @@
         "Carefully place the breadcrumbed eel into the hot oil and cook for 2-3 minutes until golden-brown. Remove the eel from the hot oil with a slotted spoon and drain onto kitchen paper then season with salt.",
         "To serve, remove the mackerel from the fridge and llow to come to room temperature. Spoon a little fennel into the centre of each serving bowl and top with the soused mackerel fillets. Garnish with the carrot ribbons, pickled orange zest, arrange the breaded smoked eel next to the mackerel and finish with a little of each of the cresses."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Soused mackerel with a carrots, fennel, orange and crispy smoked eel",
     "videos": "[]"
 }

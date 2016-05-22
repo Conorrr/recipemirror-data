@@ -1,24 +1,27 @@
 {
-    "title": "Rich beef and mushroom stew",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10",
-    "recommendations": "24",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/rich_beef_and_mushroom_77312_16x9.jpg"
-    ],
-    "description": "This is a rich and comforting stew that is smart enough to serve for a dinner party. I like to serve it with mashed potatoes or my potatoes dauphinoise and a green vegetable.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "p01s4q10": "Mary Berry Cooks"
-    },
-    "tips": [
-        "This can be cooked the day before, chilled in the fridge and reheated. To freeze, cool completely then freeze for up to three months. Defrost in the fridge overnight and reheat thoroughly. Shin of beef has a nice marbling of fat so will be meltingly tender, but any sewing steak or cuts will work well. If you want to thicken the sauce further, mix one tablespoon of plain flour with 2-3 tablespoons of cold water to make a thin paste, and add gradually to the boiling sauce until thickened to your liking."
+    "cookTime": "over 2 hours",
+    "description": "This is a rich and comforting stew that is smart enough to serve for a dinner party. I like to serve it with mashed potatoes or my potatoes dauphinoise and a green vegetable.",
+    "dishes": [
+        "beef_stew",
+        "casserole",
+        "jelly",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stew",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "browning_meat"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/rich_beef_and_mushroom_77312_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -38,6 +41,12 @@
             "mash, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "24",
+    "serves": "Serves 10",
+    "show": {
+        "p01s4q10": "Mary Berry Cooks"
+    },
     "steps": [
         "Cut the beef into 2.5cm/1in chunks and trim off any excess fat. Place the flour on a plate or in a plastic bag with plenty of salt and black pepper and toss the meat in it until well coated.",
         "Heat the oil in a large flameproof casserole and add the beef. Fry until browned on all sides - you may need to do this in batches, as you don\u2019t want to over-crowd the pan. It is important to brown the beef and not stew it.",
@@ -47,8 +56,9 @@
         "Bring to the boil and then cover and simmer on a low heat for about 2\u00bd hours, or until tender. If you prefer you can cook it in a preheated oven at 150C/300F/Gas 3 (130 fan) for the same time.",
         "Add the button mushrooms and the redcurrant jelly and cook for a further 30 minutes. Serve with mash."
     ],
-    "howTos": [
-        "browning_meat"
+    "tips": [
+        "This can be cooked the day before, chilled in the fridge and reheated. To freeze, cool completely then freeze for up to three months. Defrost in the fridge overnight and reheat thoroughly. Shin of beef has a nice marbling of fat so will be meltingly tender, but any sewing steak or cuts will work well. If you want to thicken the sauce further, mix one tablespoon of plain flour with 2-3 tablespoons of cold water to make a thin paste, and add gradually to the boiling sauce until thickened to your liking."
     ],
+    "title": "Rich beef and mushroom stew",
     "videos": "[]"
 }

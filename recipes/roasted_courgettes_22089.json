@@ -1,31 +1,25 @@
 {
-    "title": "Roasted courgettes stuffed with mushroom mousse",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 20",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Use up a seasonal glut of courgettes with Simon Rimmer's delicious waste-not-want-not canap\u00e9s.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Use up a seasonal glut of courgettes with Simon Rimmer's delicious waste-not-want-not canap\u00e9s.",
+    "dishes": [
+        "canape",
+        "caramel",
+        "mousse",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "using_piping_bags"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 courgettes",
-            "drizzle olive oil",
-            "salt and freshly ground black pepper"
-        ],
         "For the mousse filling": [
             "2 tbsp olive oil",
             "\u00bd onion, peeled, finely chopped",
@@ -35,7 +29,18 @@
             "100g/3\u00bdoz cream cheese",
             "10 asparagus spear tips, blanched, cut in half lengthways",
             "1-2 tbsp roasted hazelnuts, crushed"
+        ],
+        "default": [
+            "4 courgettes",
+            "drizzle olive oil",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Makes 20",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -46,8 +51,9 @@
         "Blend the cooked onion, mushrooms and herbs and the cream cheese in a food processor to a smooth pur\u00e9e. Transfer the mixture to a piping bag.",
         "Arrange the roasted courgette slices on a serving platter. Pipe a little of the mushroom mousse into the hollowed-out part of each slice of courgette. Top the mushroom mousse with the asparagus tips. Sprinkle over the crushed hazelnuts and serve."
     ],
-    "howTos": [
-        "using_piping_bags"
+    "tips": [
+        
     ],
+    "title": "Roasted courgettes stuffed with mushroom mousse",
     "videos": "[]"
 }

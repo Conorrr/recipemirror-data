@@ -1,34 +1,27 @@
 {
-    "title": "How to make fish soup",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Fish soup made with fresh stock has bags of flavour and economically uses up all the fish. Make it as simple or luxurious as you wish.",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Fish soup made with fresh stock has bags of flavour and economically uses up all the fish. Make it as simple or luxurious as you wish.",
+    "dishes": [
+        "fish_soup",
+        "pie",
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the soup": [
-            "3 x whole white fish (such as bream, John Dory or snapper), gutted",
-            "large handful prawns in the shell",
-            "large handful mussels in the shell",
-            "400g/14oz waxy potatoes, such as Desir\u00e9e, peeled and cut into 2cm chunks",
-            "1 tbsp chopped flatleaf parsley",
-            "drizzle of olive oil"
-        ],
         "For the fish stock": [
             "30ml/2 tbsp olive oil",
             "fish trimmings, including head and bones, from fish listed above",
@@ -42,7 +35,21 @@
             "1-2 star anise",
             "2 litres/3\u00bd pints boiling water",
             "salt and freshly ground black pepper"
+        ],
+        "For the soup": [
+            "3 x whole white fish (such as bream, John Dory or snapper), gutted",
+            "large handful prawns in the shell",
+            "large handful mussels in the shell",
+            "400g/14oz waxy potatoes, such as Desir\u00e9e, peeled and cut into 2cm chunks",
+            "1 tbsp chopped flatleaf parsley",
+            "drizzle of olive oil"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Fillet the fish, set aside the trimmings and remove any small bones from the fillets with tweezers. Set the fillets aside to be added to the soup later.",
@@ -56,8 +63,9 @@
         "Add the prawns, mussels and white fish to the saucepan and simmer for 2-3 minutes, or until the fish is cooked through and the mussels have opened. Discard any mussels that have not opened during cooking. Season to taste with salt and freshly ground black pepper.",
         "To serve, ladle the fish soup into soup bowls, scatter with parsley, drizzle with olive oil and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "How to make fish soup",
     "videos": "[p00yrtzf:p00yrtzh]"
 }

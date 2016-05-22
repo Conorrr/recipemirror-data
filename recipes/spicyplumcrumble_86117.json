@@ -1,26 +1,35 @@
 {
-    "title": "Spicy plum crumble",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b00728v4": "Sweet Baby James"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "crumble",
+        "jam",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the crumble topping": [
+            "190g/6\u00beoz plain flour",
+            "100g/3\u00bdoz demerara sugar",
+            "100g/3\u00bdoz butter, softened"
+        ],
+        "To serve": [
+            "ice cream or double cream"
+        ],
         "default": [
             "50g/1\u00beoz butter",
             "15 fresh dark plums, halved, stones removed",
@@ -32,15 +41,13 @@
             "100ml/3\u00bdfl oz red wine",
             "5 tbsp golden syrup",
             "4 tbsp caster sugar"
-        ],
-        "For the crumble topping": [
-            "190g/6\u00beoz plain flour",
-            "100g/3\u00bdoz demerara sugar",
-            "100g/3\u00bdoz butter, softened"
-        ],
-        "To serve": [
-            "ice cream or double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 6",
+    "show": {
+        "b00728v4": "Sweet Baby James"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 4.",
@@ -51,8 +58,9 @@
         "Sprinkle the crumble over the plums and bake in the oven for 20-25 minutes, until golden-brown.",
         "Remove and allow to cool slightly before serving with ice-cream or double cream."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Spicy plum crumble",
     "videos": "[]"
 }

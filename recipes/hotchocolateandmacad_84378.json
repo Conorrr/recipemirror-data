@@ -1,42 +1,31 @@
 {
-    "title": "Hot chocolate and macadamia fondant",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the spun sugar": [
-            "100g/3\u00bdoz caster sugar",
-            "3 tbsp water"
-        ],
         "For chocolate glaze": [
             "30g/1oz cocoa",
             "1\u00bd tbsp boiling water",
             "3 tbsp clear honey"
-        ],
-        "For the vanilla tuille garnish": [
-            "55g/2oz flour",
-            "55g/2oz butter, melted",
-            "1 free-range egg white, lightly whisked",
-            "110g/4oz caster sugar",
-            "\u00bd tsp vanilla extract",
-            "non-stick baking paper"
         ],
         "For the fondant": [
             "15g/\u00bdoz flour",
@@ -48,7 +37,25 @@
             "30g/1oz macadamia nuts",
             "butter for greasing",
             "mint sprig, to garnish"
+        ],
+        "For the spun sugar": [
+            "100g/3\u00bdoz caster sugar",
+            "3 tbsp water"
+        ],
+        "For the vanilla tuille garnish": [
+            "55g/2oz flour",
+            "55g/2oz butter, melted",
+            "1 free-range egg white, lightly whisked",
+            "110g/4oz caster sugar",
+            "\u00bd tsp vanilla extract",
+            "non-stick baking paper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat oven to 200C/400F/Gas 6.",
@@ -67,8 +74,9 @@
         "Arrange the bent vanilla tuille and spun sugar on top.",
         "To serve, decorate with a mint sprig."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Hot chocolate and macadamia fondant",
     "videos": "[]"
 }

@@ -1,24 +1,24 @@
 {
-    "title": "Nigel Slater's gazpacho",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2-3",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This simple, refreshing, chilled Spanish soup is perfect on a hot day. Crumbled boiled egg makes a tasty garnish.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b05y38pk": "Nigel Slater: Eating Together"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "Spanish",
+    "description": "This simple, refreshing, chilled Spanish soup is perfect on a hot day. Crumbled boiled egg makes a tasty garnish.",
+    "dishes": [
+        "bread",
+        "chilled_soup",
+        "crumble",
+        "soup"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,14 +33,21 @@
             "2 tbsp sherry vinegar"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2-3",
+    "show": {
+        "b05y38pk": "Nigel Slater: Eating Together"
+    },
     "steps": [
         "Blend most of the cucumber, peppers, tomatoes and shallots to a rough pur\u00e9e in a food processor, reserving a couple of chunks of each vegetable for the garnish.",
         "Add the garlic, soaked bread, olive oil and sherry vinegar to the food processor and blend again until smooth, or to a more textured consistency if desired.",
         "Transfer the soup to a jug, cover with cling film and chill for at least 20 minutes, or until cold.",
         "Cut the reserved vegetables into small cubes. When ready to serve, pour the gazpacho into bowls and garnish with the vegetables."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Nigel Slater's gazpacho",
     "videos": "[]"
 }

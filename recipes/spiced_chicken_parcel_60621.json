@@ -1,23 +1,24 @@
 {
-    "title": "Spiced chicken parcel",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "Spicy chicken and rice are bundled together in in a lovely crisp parcel of buttery filo pastry in this easy, yet unusual, chicken supper.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Spicy chicken and rice are bundled together in in a lovely crisp parcel of buttery filo pastry in this easy, yet unusual, chicken supper.",
+    "dishes": [
+        "bun",
+        "chicken_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -34,6 +35,12 @@
             "5 filo pastry sheets"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 4",
+    "show": {
+        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "Remove the skin and bones from the chicken thighs and roughly chop.",
@@ -46,8 +53,9 @@
         "Take the remaining filo sheet, soak it in the butter, crumple and place on top of the parcel as decoration.",
         "Bake in the oven for 30 minutes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spiced chicken parcel",
     "videos": "[]"
 }

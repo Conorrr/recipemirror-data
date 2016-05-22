@@ -1,26 +1,39 @@
 {
-    "title": "Salmon lasagne with a kale and lemon sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "This fish lasagne is much quicker to prepare than the normal meat version. Serve with a seasonal salad.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This fish lasagne is much quicker to prepare than the normal meat version. Serve with a seasonal salad.",
+    "dishes": [
+        "bun",
+        "champ",
+        "jam",
+        "lasagne",
+        "oven-baked_dishes",
+        "pasta",
+        "prepare-ahead_desserts",
+        "salad",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the green salad": [
+            "2 bunches fresh rocket",
+            "1 bunch watercress",
+            "3 tbsp olive oil",
+            "1 tbsp white wine vinegar",
+            "1 tsp Dijon mustard"
+        ],
         "For the salmon lasagne": [
             "75g/2\u00bdoz butter",
             "2 banana shallots, finely chopped",
@@ -33,14 +46,13 @@
             "400g/14oz fresh salmon, thinly sliced",
             "handful basil leaves",
             "400g/14oz fresh lasagne sheets"
-        ],
-        "For the green salad": [
-            "2 bunches fresh rocket",
-            "1 bunch watercress",
-            "3 tbsp olive oil",
-            "1 tbsp white wine vinegar",
-            "1 tsp Dijon mustard"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 180C/160C Fan/Gas 4.",
@@ -51,8 +63,9 @@
         "For the green salad, mix the rocket and watercress in a large bowl. Beat the oil, vinegar and mustard together in a small bowl. Just before serving add the dressing to the leaves and toss.",
         "To serve, place a slice of salmon lasagne on each serving plate and serve the salad on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salmon lasagne with a kale and lemon sauce",
     "videos": "[]"
 }

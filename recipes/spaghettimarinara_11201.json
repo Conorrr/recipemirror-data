@@ -1,23 +1,22 @@
 {
-    "title": "Spaghetti marinara",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A classic dish full of flavour and taste.",
     "author": {
         "curtis_stone": "Curtis Stone"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "A classic dish full of flavour and taste.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "tapenade"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -40,6 +39,12 @@
             "1 tsp freshly chopped parsley"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "Blanch the spaghetti in boiling salted water for approximately 6 minutes.",
@@ -51,8 +56,9 @@
         "Add the reserved liquor, clams, mussels, tomoatoes, tapenade and capers to the spaghetti and toss through for 1 minute. Add some olive oil to help emulsify.",
         "Adjust the seasoning with lemon juice, salt and pepper. Sprinkle through the chopped parsley and serve each portion of spaghetti with two pieces of scallop and one portion of sea bass."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spaghetti marinara",
     "videos": "[]"
 }

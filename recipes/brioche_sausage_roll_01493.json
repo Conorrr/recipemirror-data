@@ -1,29 +1,27 @@
 {
-    "title": "Brioche sausage roll (Saucisson brioche)",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 8",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "This is the Rolls Royce of sausage rolls, made with a large French saucisson and a rich brioche dough. It\u2019s usually baked as one large loaf, but individual rolls can be made with smaller sausages. You could also use a roll of sausage meat.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b01dl8gl": "Hairy Bikers' Bakeation"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "This is the Rolls Royce of sausage rolls, made with a large French saucisson and a rich brioche dough. It\u2019s usually baked as one large loaf, but individual rolls can be made with smaller sausages. You could also use a roll of sausage meat.",
+    "dishes": [
+        "brioche",
+        "oven-baked_dishes",
+        "sausage",
+        "sausage_roll"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading",
+        "knocking_back"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 large saucisson, or other soft French sausage"
-        ],
         "For the brioche": [
             "1 x 7g/\u00beoz sachet of fast-action dried yeast",
             "1 tsp caster sugar",
@@ -34,7 +32,16 @@
             "4 medium eggs, beaten",
             "175g/6oz butter, softened, plus extra for greasing",
             "1 egg yolk, beaten, for glaze"
+        ],
+        "default": [
+            "1 large saucisson, or other soft French sausage"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "6",
+    "serves": "Serves 8",
+    "show": {
+        "b01dl8gl": "Hairy Bikers' Bakeation"
     },
     "steps": [
         "To make the brioche, sprinkle the yeast and caster sugar on to the warm milk in a small bowl. Whisk them together lightly, then leave in a warm place for 10 minutes or until a light foam forms on the surface.",
@@ -49,9 +56,9 @@
         "Cool it in the tin for 10 minutes, then turn out and cool on a wire rack.",
         "Serve in thick slices."
     ],
-    "howTos": [
-        "kneading",
-        "knocking_back"
+    "tips": [
+        
     ],
+    "title": "Brioche sausage roll (Saucisson brioche)",
     "videos": "[]"
 }

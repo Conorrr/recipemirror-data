@@ -1,33 +1,27 @@
 {
-    "title": "Chicken Parmentier",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_parmentier_25434_16x9.jpg"
-    ],
-    "description": "Try using up leftover roast chicken in this tasty potato-topped pie. For this recipe you will need a 20x30cm/8x12in ovenproof dish.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b078dj4l": "Rick Stein's Long Weekends"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Try using up leftover roast chicken in this tasty potato-topped pie. For this recipe you will need a 20x30cm/8x12in ovenproof dish.",
+    "dishes": [
+        "meat_pie",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_parmentier_25434_16x9.jpg"
+    ],
     "ingredients": {
-        "For the potato topping": [
-            "1.5kg/3lb 5oz floury potatoes, such as King Edwards, peeled",
-            "30g/1oz butter",
-            "5 tbsp double cream",
-            "2 free-range egg yolks",
-            "salt and black pepper"
-        ],
         "For the filling": [
             "30g/1oz butter",
             "6 large or 8 small shallots, peeled and halved",
@@ -42,7 +36,20 @@
             "16 black olives, stones removed, halved",
             "2 tbsp chopped fresh parsley",
             "50g/1\u00beoz Gruy\u00e8re cheese"
+        ],
+        "For the potato topping": [
+            "1.5kg/3lb 5oz floury potatoes, such as King Edwards, peeled",
+            "30g/1oz butter",
+            "5 tbsp double cream",
+            "2 free-range egg yolks",
+            "salt and black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b078dj4l": "Rick Stein's Long Weekends"
     },
     "steps": [
         "For the topping, boil the potatoes in salted water until tender. Drain and push through a potato ricer, or mash thoroughly. Stir in the butter, cream and egg yolks. Season and set aside.",
@@ -50,8 +57,9 @@
         "Preheat the oven to 180C/160C Fan/Gas 4.",
         "Put the filling in a 20x30cm/8x12in ovenproof dish and top with the mashed potato. Grate over the Gruy\u00e8re. Bake for 30\u201335 minutes, until piping hot and the potato is golden-brown."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken Parmentier",
     "videos": "[]"
 }

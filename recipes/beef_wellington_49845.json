@@ -1,40 +1,48 @@
 {
-    "title": "Beef Wellington",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 8",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "This is one of Paul's signature bakes and a masterclass in making puff pastry. The pastry is a labour of love, but sure to impress.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "This is one of Paul's signature bakes and a masterclass in making puff pastry. The pastry is a labour of love, but sure to impress.",
+    "dishes": [
+        "beef_wellington",
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "pate",
+        "sandwich"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the puff pastry": [
-            "150g/5\u00bdoz strong bread flour",
-            "150g/5\u00bdoz plain flour, plus extra for dusting",
-            "2 free-range eggs, beaten",
-            "100ml/3\u00bdfl oz ice cold water",
-            "160g/5\u00beoz unsalted butter, well chilled"
-        ],
         "For the filling": [
             "1 x 750g/1lb 10oz fillet of beef",
             "olive oil",
             "salt, to taste",
             "100g/3\u00bdoz chicken liver p\u00e2t\u00e9",
             "free-range egg, for egg wash"
+        ],
+        "For the puff pastry": [
+            "150g/5\u00bdoz strong bread flour",
+            "150g/5\u00bdoz plain flour, plus extra for dusting",
+            "2 free-range eggs, beaten",
+            "100ml/3\u00bdfl oz ice cold water",
+            "160g/5\u00beoz unsalted butter, well chilled"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "4",
+    "serves": "Serves 8",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the pastry, begin by putting the flours, eggs and water in a large bowl and gently mixing everything to a stiff dough. Transfer the dough to a lightly floured work surface and knead it well for 10 minutes. The dough should feel tight but elastic so the kneading will take a bit of effort. When the dough is smooth, shape it into a ball and put it in a plastic bag in the fridge to chill, either overnight or for seven hours.",
@@ -54,8 +62,9 @@
         "When the pastry is ready, take it out of the fridge and score the top of the pastry. Cook for 20-25 minutes in the hot oven until a deep golden-brown.",
         "Allow to rest for 20 minutes before carving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef Wellington",
     "videos": "[]"
 }

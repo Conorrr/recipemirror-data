@@ -1,37 +1,40 @@
 {
-    "title": "Bruschetta with tomato and red onion",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "bruschetta"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 thick slices of bread",
-            "1 tbsp olive oil"
-        ],
         "For the topping": [
             "25g/1oz chopped red onion",
             "75g/2\u00beoz tinned tomatoes, chopped",
             "1 tbsp olive oil",
             "1 tbsp chopped fresh parsley",
             "salt and freshly ground black pepper"
+        ],
+        "default": [
+            "2 thick slices of bread",
+            "1 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat a griddle pan and rub the bread with olive oil. Place the bread onto the griddle and cook for two minutes on each side, or until toasted.",
@@ -39,8 +42,9 @@
         "Add the parsley and season, to taste, with salt and freshly ground black pepper.",
         "To serve, place the toasted bread on the plate and spoon over the topping."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Bruschetta with tomato and red onion",
     "videos": "[]"
 }

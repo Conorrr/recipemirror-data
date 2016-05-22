@@ -1,26 +1,32 @@
 {
-    "title": "Steamed trout cooked in a bag with white wine and leek sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the leek and white wine sauce": [
+            "1 tbsp olive oil",
+            "2 baby leeks, finely chopped",
+            "2 tbsp double cream",
+            "2 tsp grainy mustard",
+            "1 tbsp white wine"
+        ],
         "For the trout": [
             "1\u00bd tbsp butter",
             "50g/1\u00beoz mangetout",
@@ -30,14 +36,13 @@
             "150g/5\u00bdoz trout fillet, cut into two pieces",
             "1 tbsp white wine",
             "salt and freshly ground black pepper"
-        ],
-        "For the leek and white wine sauce": [
-            "1 tbsp olive oil",
-            "2 baby leeks, finely chopped",
-            "2 tbsp double cream",
-            "2 tsp grainy mustard",
-            "1 tbsp white wine"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
@@ -48,8 +53,9 @@
         "For the sauce, heat the oil in a frying pan over a medium heat, add the leeks and saut\u00e9 for 3-4 minutes, or until softened. Stir in the double cream, mustard and white wine and simmer for another minute.",
         "To serve, place the fish parcel onto a plate and open it out, transferring the contents to the plate, along with the sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steamed trout cooked in a bag with white wine and leek sauce",
     "videos": "[]"
 }

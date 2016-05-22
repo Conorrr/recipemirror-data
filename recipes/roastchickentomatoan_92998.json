@@ -1,26 +1,31 @@
 {
-    "title": "Roast chicken, tomato and chickpea salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "alex_mackay": "Alex Mackay"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "chiffonade",
+        "testing_cooked_poultry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the herb oil": [
+            "2 tbsp chopped fresh mint",
+            "2 tbsp chopped fresh coriander",
+            "3 tbsp olive oil",
+            "salt and freshly ground black pepper"
+        ],
         "For the salad": [
             "1 tbsp olive oil",
             "85g/3oz chicken breast",
@@ -33,15 +38,15 @@
             "1 tbsp chopped fresh chervil",
             "1 tbsp chopped fresh basil"
         ],
-        "For the herb oil": [
-            "2 tbsp chopped fresh mint",
-            "2 tbsp chopped fresh coriander",
-            "3 tbsp olive oil",
-            "salt and freshly ground black pepper"
-        ],
         "To serve": [
             "handful fresh spinach leaves"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -50,9 +55,9 @@
         "For the herb oil, blend all the ingredients in a food processor until smooth.",
         "To serve, place the spinach leaves on a serving plate, top with the salad and spoon the herb oil on top."
     ],
-    "howTos": [
-        "chiffonade",
-        "testing_cooked_poultry"
+    "tips": [
+        
     ],
+    "title": "Roast chicken, tomato and chickpea salad",
     "videos": "[]"
 }

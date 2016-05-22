@@ -1,24 +1,26 @@
 {
-    "title": "Raspberry and pistachio \u00e9clairs",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 24 \u00e9clairs",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/raspberry_and_pistachio_61368_16x9.jpg"
-    ],
-    "description": "If you aren't up to the challenge of Paul's choux pastry tower, you can still enjoy the same gorgeous flavours in these easier \u00e9clairs.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "If you aren't up to the challenge of Paul's choux pastry tower, you can still enjoy the same gorgeous flavours in these easier \u00e9clairs.",
+    "dishes": [
+        "bread",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "making_choux_pastry"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/raspberry_and_pistachio_61368_16x9.jpg"
     ],
     "ingredients": {
         "For the choux pastry": [
@@ -26,6 +28,13 @@
             "pinch of salt",
             "130g/4\u00bdoz very strong white bread flour",
             "2 large free-range eggs, beaten"
+        ],
+        "For the icing": [
+            "250g/9oz fondant icing sugar, sifted",
+            "1 tsp raspberry liqueur (such as Chambord)",
+            "\u00bc tsp almond extract",
+            "pink food colouring paste",
+            "green food colouring paste"
         ],
         "For the pistachio cr\u00e8me p\u00e2tissi\u00e8re": [
             "400ml/14fl oz full-fat milk",
@@ -42,14 +51,13 @@
             "4 large free-range egg yolks",
             "40g/1\u00bdoz cornflour",
             "40g/1\u00bdoz butter, cubed"
-        ],
-        "For the icing": [
-            "250g/9oz fondant icing sugar, sifted",
-            "1 tsp raspberry liqueur (such as Chambord)",
-            "\u00bc tsp almond extract",
-            "pink food colouring paste",
-            "green food colouring paste"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes 24 \u00e9clairs",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 220C/200C Fan/Gas 7. Line 2 baking sheets with baking parchment. On the first sheet draw 12 x 9cm/3\u00bdin lines spaced well apart. Turn the paper over so the pencil marks are underneath but can be seen, to use as a template.",
@@ -68,8 +76,9 @@
         "Spoon the icing into 2 separate disposable piping bags and snip off the ends. Pipe the pink icing onto the raspberry filled \u00e9clairs and the green icing onto the pistachio filled \u00e9clairs. Smooth with a palette knife and allow to set.",
         "For best results serve the \u00e9clairs immediately. They can be stored in the fridge for an hour but the pastry will start to absorb moisture from the filling and become soggy."
     ],
-    "howTos": [
-        "making_choux_pastry"
+    "tips": [
+        
     ],
+    "title": "Raspberry and pistachio \u00e9clairs",
     "videos": "[]"
 }

@@ -1,38 +1,40 @@
 {
-    "title": "Plum and almond tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6-8",
-    "recommendations": "35",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/plumandalmondtart_86705_16x9.jpg"
-    ],
-    "description": "Juicy plums and almonds are a match made in heaven in this delicious pud.",
     "author": {
         "angela_hartnett": "Angela Hartnett"
     },
-    "show": {
-        "b007x2kg": "Kitchen Criminals"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Juicy plums and almonds are a match made in heaven in this delicious pud.",
+    "dishes": [
+        "bread",
+        "frangipane",
+        "fruit_tart",
+        "icing",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading",
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/plumandalmondtart_86705_16x9.jpg"
+    ],
     "ingredients": {
+        "For the frangipane": [
+            "200g/7\u00bcoz unsalted butter",
+            "200g/7\u00bcoz caster sugar",
+            "2 free-range eggs",
+            "200g/7\u00bcoz ground almonds"
+        ],
         "For the pastry": [
             "375g/13\u00bcoz plain flour, plus extra for dusting",
             "15g/\u00bdoz sugar",
             "225g/8oz unsalted butter, cut into cubes, plus extra for greasing",
             "1 free-range egg",
             "4 tbsp ice-cold water"
-        ],
-        "For the frangipane": [
-            "200g/7\u00bcoz unsalted butter",
-            "200g/7\u00bcoz caster sugar",
-            "2 free-range eggs",
-            "200g/7\u00bcoz ground almonds"
         ],
         "For the tart filling": [
             "5-6 ripe plums, each cut into eighths, stones removed"
@@ -41,6 +43,12 @@
             "icing sugar, for dusting",
             "whipped cream or cr\u00e8me fra\u00eeche"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "35",
+    "serves": "Serves 6-8",
+    "show": {
+        "b007x2kg": "Kitchen Criminals"
     },
     "steps": [
         "For the pastry, sieve the flour and sugar into a large mixing bowl. Tip the cubed butter into the bowl. Rub the butter and the flour between your thumb and fingertips until the mixture resembles fine breadcrumbs.",
@@ -53,9 +61,9 @@
         "Bake for 30-40 minutes (15-25 minutes for the tartlets), or until the pastry is crisp and golden-brown and the fruit is tender.",
         "Remove the tart(s) from the oven. Dust with icing sugar and serve warm with whipped cream or cr\u00e8me fra\u00eeche."
     ],
-    "howTos": [
-        "kneading",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Plum and almond tart",
     "videos": "[]"
 }

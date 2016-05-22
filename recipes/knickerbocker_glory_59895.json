@@ -1,24 +1,24 @@
 {
-    "title": "Knickerbocker glory",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/knickerbocker_glory_59895_16x9.jpg"
-    ],
-    "description": "Knickerbocker glory, the dessert of childhood dreams! Very simple to prepare but impressive-looking when assembled, these will be loved by children and adults alike.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b05vr6dl": "Mary Berry's Absolute Favourites"
-    },
-    "tips": [
-        "Tip 1: If anyone is allergic to nuts, you could replace the pistachios with crumbled ginger biscuits. Tip 2: The raspberry pur\u00e9e can be made in advance and kept, covered, in the fridge for up to 2 days."
+    "cookTime": "no cooking required",
+    "description": "Knickerbocker glory, the dessert of childhood dreams! Very simple to prepare but impressive-looking when assembled, these will be loved by children and adults alike.",
+    "dishes": [
+        "biscuit",
+        "crumble",
+        "ice_cream",
+        "icing",
+        "prepare-ahead_desserts"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/knickerbocker_glory_59895_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -30,13 +30,20 @@
             "25g/1oz pistachios, coarsely chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b05vr6dl": "Mary Berry's Absolute Favourites"
+    },
     "steps": [
         "For the raspberry coulis, measure 250g/9oz of the raspberries into a food processor, add the icing sugar and pulse until smooth.",
         "Tip the raspberry pur\u00e9e into a sieve set over a bowl. Use a metal spoon to push the fruit pulp through the sieve. Discard the seeds.",
         "Divide half the diced mango between six sundae glasses. Divide half the blueberries between the glasses, placing on top of the mango. Sit one scoop of ice cream on top of each blueberry layer, drizzle over half the raspberry coulis and half the whole raspberries. Repeat the layering again to use the remaining ingredients and top with the chopped pistachios."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Tip 1: If anyone is allergic to nuts, you could replace the pistachios with crumbled ginger biscuits. Tip 2: The raspberry pur\u00e9e can be made in advance and kept, covered, in the fridge for up to 2 days."
     ],
+    "title": "Knickerbocker glory",
     "videos": "[]"
 }

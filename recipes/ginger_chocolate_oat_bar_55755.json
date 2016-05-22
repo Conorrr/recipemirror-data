@@ -1,24 +1,23 @@
 {
-    "title": "Ginger chocolate oat bar",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 12-15",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/ginger_chocolate_oat_bar_55755_16x9.jpg"
-    ],
-    "description": "This is a fantastic chocolate oat dessert packed with dried cranberries and cherries and the spice kick of crystallised ginger. It\u2019s great in a picnic box too.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This is a fantastic chocolate oat dessert packed with dried cranberries and cherries and the spice kick of crystallised ginger. It\u2019s great in a picnic box too.",
+    "dishes": [
+        "flapjacks",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/ginger_chocolate_oat_bar_55755_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,6 +31,12 @@
             "150g/5\u00bdoz crystallised ginger, chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Makes 12-15",
+    "show": {
+        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
+    },
     "steps": [
         "Melt the butter in a pan. Add both types of oats and cook for three minutes. Transfer to an oven dish that will fit in your fridge.",
         "Place a bowl over a pan of simmering water. Add the chocolate and cream to the bowl and leave to melt for 15 minutes without stirring.",
@@ -39,8 +44,9 @@
         "When the chocolate has fully melted, give it a little stir and then pour over the oat and fruit. Fold the chocolate through and then refrigerate for 30 minutes.",
         "When set, break into pieces by hand and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Ginger chocolate oat bar",
     "videos": "[]"
 }

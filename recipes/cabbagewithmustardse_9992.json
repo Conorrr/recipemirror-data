@@ -1,24 +1,23 @@
 {
-    "title": "Cabbage with mustard seeds",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cabbagewithmustardse_9992_16x9.jpg"
-    ],
-    "description": "If you're looking for a healthy side dish for a curry night, try adding spice to the humble cabbage.",
     "author": {
         "roopa_gulati": "Roopa Gulati"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "If you're looking for a healthy side dish for a curry night, try adding spice to the humble cabbage.",
+    "dishes": [
+        "curry",
+        "stir-fries",
+        "vegetable_curry"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cabbagewithmustardse_9992_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,13 +34,20 @@
             "1 tomato, diced"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Heat the oil in a large frying pan. Toss in the fenugreek and mustard seeds, curry leaves and the chilli. Lower the heat immediately and add the onions and ginger.",
         "Cover the pan and soften the onions without browning for five minutes. Stir in the turmeric and chilli powder, then add the shredded cabbage and salt.",
         "Cover the pan once more and cook over a gentle heat for about 10 minutes or until the cabbage has softened but retains a bite. Stir in the diced tomato and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cabbage with mustard seeds",
     "videos": "[]"
 }

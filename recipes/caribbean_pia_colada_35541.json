@@ -1,36 +1,39 @@
 {
-    "title": "Caribbean pi\u00f1a colada trifle",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4-6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Having a Caribbean-themed dinner? Try this twist on trifle with mango jam, coconut custard, rum syrup, pineapple and kiwi fruit. Equipment and preparation: you will need a hand-held electric whisk and a piping bag with a plain nozzle. Plus a cocktail umbrella, curly straw and swizzle stick for decoration.",
     "author": {
         "christine": "Christine Wallace"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Caribbean",
+    "description": "Having a Caribbean-themed dinner? Try this twist on trifle with mango jam, coconut custard, rum syrup, pineapple and kiwi fruit. Equipment and preparation: you will need a hand-held electric whisk and a piping bag with a plain nozzle. Plus a cocktail umbrella, curly straw and swizzle stick for decoration.",
+    "dishes": [
+        "biscuit",
+        "custard",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sandwich",
+        "sauce",
+        "slow-cooked_dishes",
+        "trifle"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "whipping_cream",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the mango jam": [
-            "2 very ripe mangos, peeled and cubed",
-            "185g/6\u00bdoz granulated sugar",
-            "1 tbsp lemon juice"
-        ],
-        "For the decoration": [
-            "2 limes",
-            "570ml/1 pint double cream, softly whipped",
-            "light brown food colouring",
-            "1 maraschino cherry"
+        "For the barquillos (wafer rolls)": [
+            "55g/2oz slightly salted butter",
+            "55g/2oz caster sugar",
+            "\u00bd tsp vanilla extract",
+            "1 free-range egg white",
+            "40g/1\u00bdoz plain flour"
         ],
         "For the coconut custard": [
             "750ml/1\u00bc pint coconut cream",
@@ -40,29 +43,39 @@
             "85g/3oz caster sugar",
             "6 level tsp custard powder"
         ],
-        "For the sponge fingers": [
-            "4 free-range eggs, separated",
-            "140g/5oz caster sugar",
-            "115g/4oz plain flour",
-            "\u00bd tsp baking powder"
-        ],
         "For the coconut rum syrup": [
             "\u00bc-\u2153 fresh pineapple",
             "2 tbsp granulated sugar",
             "\u00bd tsp pineapple extract",
             "coconut-flavoured rum, such as Malibu, to taste"
         ],
-        "For the barquillos (wafer rolls)": [
-            "55g/2oz slightly salted butter",
-            "55g/2oz caster sugar",
-            "\u00bd tsp vanilla extract",
-            "1 free-range egg white",
-            "40g/1\u00bdoz plain flour"
+        "For the decoration": [
+            "2 limes",
+            "570ml/1 pint double cream, softly whipped",
+            "light brown food colouring",
+            "1 maraschino cherry"
         ],
         "For the fruit layer": [
             "1 pineapple, \u2154 cut into thin rings, core removed",
             "3 kiwi fruit, peeled and sliced"
+        ],
+        "For the mango jam": [
+            "2 very ripe mangos, peeled and cubed",
+            "185g/6\u00bdoz granulated sugar",
+            "1 tbsp lemon juice"
+        ],
+        "For the sponge fingers": [
+            "4 free-range eggs, separated",
+            "140g/5oz caster sugar",
+            "115g/4oz plain flour",
+            "\u00bd tsp baking powder"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4-6",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the mango jam, place the cubed mango pieces in a pan with the sugar and lemon juice. Gradually bring to the boil to dissolve the sugar. Simmer for about 30 minutes, or until soft and sticky. Remove from the heat and leave to cool.",
@@ -84,10 +97,9 @@
         "Put the whipped cream into a piping bag. Pipe the shape of a pineapple on top of the trifle and use the reserved lime \u2018leaves\u2019 for the spiky top of the fruit.",
         "Using a cocktail stick, dot tiny drops of light brown food colouring on the point of each rosette of the pineapple. Pipe rosettes of cream around the edge of the bowl. Decorate with a cocktail umbrella, a swizzle stick with a maraschino cherry, a curly straw and 2-3 barquillo wafers."
     ],
-    "howTos": [
-        "folding",
-        "whipping_cream",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Caribbean pi\u00f1a colada trifle",
     "videos": "[]"
 }

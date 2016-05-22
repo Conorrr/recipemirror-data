@@ -1,23 +1,26 @@
 {
-    "title": "Pork pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "Classic pork pie - made with pork shoulder, bacon and lard. Flavoured with herbs and baked until deep golden brown.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Classic pork pie - made with pork shoulder, bacon and lard. Flavoured with herbs and baked until deep golden brown.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "pork_pie",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "making_pastry_lids",
+        "kneading",
+        "chopping_vegetables"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -40,6 +43,12 @@
             "1 free-range egg yolk, beaten"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "7",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "For the filling, place half of the pork shoulder and bacon into a food processor and pulse to a coarse mince.",
@@ -56,10 +65,9 @@
         "Remove from the oven and allow to cool in the tin.",
         "To serve, turn the pie out of the tin and slice."
     ],
-    "howTos": [
-        "making_pastry_lids",
-        "kneading",
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Pork pie",
     "videos": "[]"
 }

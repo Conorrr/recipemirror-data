@@ -1,38 +1,43 @@
 {
-    "title": "Haggis and neeps",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "gravy",
+        "haggis",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "\u00bd haggis, cooked",
-            "\u00bd swede, peeled and diced",
-            "salt and freshly ground black pepper",
-            "1 free-range egg, beaten"
-        ],
         "For the gravy": [
             "\u00bdpint beef stock",
             "splash of red wine",
             "knob of butter",
             "salt and freshly ground black pepper"
+        ],
+        "default": [
+            "\u00bd haggis, cooked",
+            "\u00bd swede, peeled and diced",
+            "salt and freshly ground black pepper",
+            "1 free-range egg, beaten"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Cook the haggis in the microwave according to packet instructions.",
@@ -41,8 +46,9 @@
         "To make the gravy, reduce the beef stock and red wine to thicken. Stir in the butter and season with salt and freshly ground black pepper. Simmer for a further few minutes to thicken further.",
         "Drizzle the gravy over the haggis to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Haggis and neeps",
     "videos": "[]"
 }

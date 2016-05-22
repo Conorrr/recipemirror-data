@@ -1,26 +1,38 @@
 {
-    "title": "Ayam golek (spiced chicken with coconut cream and rojak salad)",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tom_kime": "Tom Kime"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "",
+    "dishes": [
+        "bun",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "2 tbsp shrimp paste",
+            "3 fresh red chillies, seeds removed, finely chopped",
+            "4cm/1\u00bdin piece of fresh root ginger, grated",
+            "1 tbsp tamarind pulp, mashed (available in Asian and Indian supermarkets)",
+            "1 lime, juice only",
+            "5 tbsp boiling water",
+            "2 tbsp fish sauce (nam pla)",
+            "3 tbsp caster sugar"
+        ],
         "For the poussins": [
             "2cm/1in piece fresh root ginger",
             "2cm/1in piece galangal (if galangal is not available, use double the quantity of fresh root ginger)",
@@ -34,16 +46,6 @@
             "2 tsp sugar",
             "2 limes, juice only"
         ],
-        "For the dressing": [
-            "2 tbsp shrimp paste",
-            "3 fresh red chillies, seeds removed, finely chopped",
-            "4cm/1\u00bdin piece of fresh root ginger, grated",
-            "1 tbsp tamarind pulp, mashed (available in Asian and Indian supermarkets)",
-            "1 lime, juice only",
-            "5 tbsp boiling water",
-            "2 tbsp fish sauce (nam pla)",
-            "3 tbsp caster sugar"
-        ],
         "For the rojak salad": [
             "\u00bd small cucumber, cut into triangular chunks",
             "\u00bc fresh pineapple, peeled, core removed, cut into cubes",
@@ -54,6 +56,12 @@
             "\u00bd bunch fresh mint, leaves only, torn (plus extra to garnish)",
             "100g/3\u00bdoz roasted blanched peanuts, coarsely crushed"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6 and preheat a large griddle pan until hot.",
@@ -75,8 +83,9 @@
         "Pour over the dressing and stir again to coat well.",
         "To serve, place a poussin onto each plate. Add a couple of spoonfuls of salad and garnish with the remaining peanuts and a few mint leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Ayam golek (spiced chicken with coconut cream and rojak salad)",
     "videos": "[]"
 }

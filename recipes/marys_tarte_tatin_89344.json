@@ -1,33 +1,37 @@
 {
-    "title": "Mary\u2019s tarte tatin",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 8",
-    "recommendations": "21",
-    "images": [
-        
-    ],
-    "description": "This classic \u2018upside down\u2019 French tart, usually served warm as a pudding. Do not grease the tin otherwise the caramel will be cloudy and not clear. Equipment: You will need a 23cm/9in diameter fixed base deep sponge sandwich tin.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b03qgyqf": "The Great Sport Relief Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "This classic \u2018upside down\u2019 French tart, usually served warm as a pudding. Do not grease the tin otherwise the caramel will be cloudy and not clear. Equipment: You will need a 23cm/9in diameter fixed base deep sponge sandwich tin.",
+    "dishes": [
+        "caramel",
+        "oven-baked_dishes",
+        "pastry",
+        "sandwich",
+        "sauce",
+        "stir-fries",
+        "tarte_tatin",
+        "upside-down_cake"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the caramel": [
+            "175g/6oz granulated sugar"
+        ],
         "For the pastry": [
             "100g/4oz plain flour",
             "50g/2oz butter (in a block)",
             "25g/1oz lard (in a block)"
-        ],
-        "For the caramel": [
-            "175g/6oz granulated sugar"
         ],
         "For the topping": [
             "900g/2lb red dessert apples",
@@ -36,6 +40,12 @@
         "To finish": [
             "75g/3oz caster sugar"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "21",
+    "serves": "Serves 8",
+    "show": {
+        "b03qgyqf": "The Great Sport Relief Bake Off"
     },
     "steps": [
         "First make the pastry. Freeze the butter and lard until very cold.",
@@ -49,8 +59,9 @@
         "To finish, before turning the tarte out, tip the juices from the tin into a saucepan. Add the caster sugar and boil until syrupy.",
         "Turn the tarte tatin out onto a plate and spoon the syrup over the apples. Serve with cream or cr\u00e8me fra\u00eeche."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mary\u2019s tarte tatin",
     "videos": "[]"
 }

@@ -1,31 +1,27 @@
 {
-    "title": "Classic victoria sponge cake with strawberry jam",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "This cake is so simple and totally delicious. Making it with homemade jam makes it extra special.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This cake is so simple and totally delicious. Making it with homemade jam makes it extra special.",
+    "dishes": [
+        "cake",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "sandwich",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the jam": [
-            "500g/1lb 2oz jam sugar",
-            "1 lemon, zest and juice",
-            "500g/1lb 2oz fresh strawberries, hulled, cut in half only if large"
-        ],
         "For the cake": [
             "oil, for greasing the tins",
             "flour, for dusting the tins",
@@ -37,7 +33,18 @@
             "175ml/6fl oz double cream, whipped",
             "250g/9oz strawberries",
             "2-3 tbsp icing sugar"
+        ],
+        "For the jam": [
+            "500g/1lb 2oz jam sugar",
+            "1 lemon, zest and juice",
+            "500g/1lb 2oz fresh strawberries, hulled, cut in half only if large"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 6-8",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the jam, heat the sugar, lemon juice and zest and three tablespoons water in a large pan, slowly, until the sugar has melted.",
@@ -57,8 +64,9 @@
         "Layer on the fresh strawberries then place the other cake on top.",
         "Dust with icing sugar to finish."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Classic victoria sponge cake with strawberry jam",
     "videos": "[]"
 }

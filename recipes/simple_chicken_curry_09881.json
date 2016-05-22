@@ -1,24 +1,24 @@
 {
-    "title": "Simple chicken curry",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4-6",
-    "recommendations": "17",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/simple_chicken_curry_09881_16x9.jpg"
-    ],
-    "description": "This recipe makes excellent use of a whole chicken. Serve with rice, or if you have time, homemade roti. This meal, if served as six portions, provides 491kcal, 59g protein, 27g carbohydrate (of which 6g sugars), 15g fat (of which 3g saturates), 7g fibre and 0.7g salt per portion.",
     "author": {
         "helen_mills": "Helen Mills"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        "Using a whole chicken which you joint at home can be much more budget-friendly than buying chicken pieces, plus you get the tasty darker meat as well as the breast. However, this recipe could also be made using 8 chicken thighs, or four leg joints, if you're buying pre-jointed chicken pieces. If making for a gluten-free diet, please check the stock packaging to ensure it is suitable."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "This recipe makes excellent use of a whole chicken. Serve with rice, or if you have time, homemade roti. This meal, if served as six portions, provides 491kcal, 59g protein, 27g carbohydrate (of which 6g sugars), 15g fat (of which 3g saturates), 7g fibre and 0.7g salt per portion.",
+    "dishes": [
+        "chicken_curry",
+        "curry",
+        "pie",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/simple_chicken_curry_09881_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,6 +34,12 @@
             "3\u20134 spring onions, chopped to garnish"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "17",
+    "serves": "Serves 4-6",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
+    },
     "steps": [
         "Rub the skin of the chicken pieces with 2 tablespoons of the curry powder, wrap well with cling film and leave to absorb overnight in the fridge.",
         "Heat 2 tablespoons of the oil in a pan with a lid, and fry the chicken over a medium heat, turning regularly until well browned all over. Remove the chicken from the pan and set aside.",
@@ -42,8 +48,9 @@
         "Once boiling, reduce the heat and simmer gently for 30-40 minutes, or until the potatoes are soft and the chicken is cooked through. To test if the chicken is cooked, remove one of the larger pieces to a plate and pierce with a skewer \u2013 if cooked, the juices will run clear. If the juices remain pink, the chicken needs to be cooked for longer.",
         "Once cooked, sprinkle with chopped spring onions and serve the curry with boiled rice or roti."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Using a whole chicken which you joint at home can be much more budget-friendly than buying chicken pieces, plus you get the tasty darker meat as well as the breast. However, this recipe could also be made using 8 chicken thighs, or four leg joints, if you're buying pre-jointed chicken pieces. If making for a gluten-free diet, please check the stock packaging to ensure it is suitable."
     ],
+    "title": "Simple chicken curry",
     "videos": "[]"
 }

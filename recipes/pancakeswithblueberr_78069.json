@@ -1,26 +1,31 @@
 {
-    "title": "Pancakes with blueberry sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "pancake",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the blueberry sauce": [
+            "100g/3\u00bdoz fresh blueberries",
+            "100ml/3\u00bdfl oz red wine",
+            "pinch cinnamon",
+            "1 tbsp caster sugar",
+            "\u00bd tsp vanilla extract"
+        ],
         "For the pancakes": [
             "110g/4oz self-raising flour",
             "1 tsp baking powder",
@@ -29,17 +34,16 @@
             "100-125ml /4-1\u00bdfl oz milk",
             "oil, for frying"
         ],
-        "For the blueberry sauce": [
-            "100g/3\u00bdoz fresh blueberries",
-            "100ml/3\u00bdfl oz red wine",
-            "pinch cinnamon",
-            "1 tbsp caster sugar",
-            "\u00bd tsp vanilla extract"
-        ],
         "To serve": [
             "1 tbsp flaked almonds",
             "50ml/1\u00befl oz double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the pancakes whisk together the self-raising flour, baking powder and sugar.",
@@ -48,8 +52,9 @@
         "For the blueberry sauce, add all ingredients to a small saucepan and simmer for ten minutes, until reduced and syrupy.",
         "To serve, place the pancakes on a plate, drizzle with blueberry sauce, top with flaked almonds and pour cream around the outside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pancakes with blueberry sauce",
     "videos": "[]"
 }

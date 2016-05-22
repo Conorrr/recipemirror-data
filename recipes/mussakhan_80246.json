@@ -1,34 +1,28 @@
 {
-    "title": "Mussakhan",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Spiced chicken and onions saut\u00e9ed in sumac are roasted on top of flatbread, which absorbs all the delicious flavours and doubles up as a serving plate.",
     "author": {
         "roberta_sawalha___julia_sawalha": "Roberta Sawalha / Julia Sawalha"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        "Mussakhan means 'browned during additional baking' in Arabic."
+    "cookTime": "1 to 2 hours",
+    "cusine": "Turkish_and_Middle_Eastern",
+    "description": "Spiced chicken and onions saut\u00e9ed in sumac are roasted on top of flatbread, which absorbs all the delicious flavours and doubles up as a serving plate.",
+    "dishes": [
+        "bread",
+        "casserole",
+        "flatbread",
+        "oven-baked_dishes",
+        "pie",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 small chicken",
-            "1 lemon, juice only",
-            "scant \u00bd tsp ground allspice",
-            "1 medium onion, roughly chopped",
-            "1 fresh bay leaf",
-            "olive oil, for brushing"
-        ],
         "For the sumac and onion mixture": [
             "700g/1\u00bdlbs onions",
             "3-4 tbsp olive and sunflower oil, mixed, plus extra for frying pine nuts",
@@ -38,7 +32,21 @@
         "To serve": [
             "2 large handfuls pine nuts",
             "Lebanese flatbread or similar"
+        ],
+        "default": [
+            "1 small chicken",
+            "1 lemon, juice only",
+            "scant \u00bd tsp ground allspice",
+            "1 medium onion, roughly chopped",
+            "1 fresh bay leaf",
+            "olive oil, for brushing"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b00701fw": "A Taste of My Life"
     },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
@@ -49,8 +57,9 @@
         "At the end of cooking time, remove the browned chicken from the roasting tin. Brush the tin with olive oil and cover the bottom of the roasting tin with a layer of the flatbread and spoon over most of the onion/sumac mixture, reserving some to go on top of the chicken. Replace the chicken on top of the bread, spoon over reserved onion/sumac mixture and return to the oven for a further 10-15 minutes.",
         "Serve the chicken, sprinkled with the pine nuts, on top of the bread."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Mussakhan means 'browned during additional baking' in Arabic."
     ],
+    "title": "Mussakhan",
     "videos": "[]"
 }

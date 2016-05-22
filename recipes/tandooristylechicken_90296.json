@@ -1,31 +1,24 @@
 {
-    "title": "Tandoori-style chicken",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/tandooristylechicken_90296_16x9.jpg"
-    ],
-    "description": "",
     "author": {
         "madhur_jaffrey": "Madhur Jaffrey"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/tandooristylechicken_90296_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "1.25kg/2\u00bdlb chicken pieces (legs and breasts), skinless",
-            "2 tsp salt",
-            "1-2 lemons, halved"
-        ],
         "For the yoghurt marinade": [
             "425ml/1 pint plain yoghurt",
             "\u00bd onion, coarsely chopped",
@@ -34,7 +27,18 @@
             "1-2 hot green chillies, roughly sliced",
             "2 tsp garam masala",
             "lime or lemon wedges, to serve"
+        ],
+        "default": [
+            "1.25kg/2\u00bdlb chicken pieces (legs and breasts), skinless",
+            "2 tsp salt",
+            "1-2 lemons, halved"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Cut each chicken leg into two pieces (drumstick and thigh) and each breast into two pieces. Make two deep slits crossways on the meaty parts of each leg and breast piece. The slits should be deep enough to reach the bone.",
@@ -46,8 +50,9 @@
         "Place the tray in the top part of the oven and cook for 20-25 minutes, until the chicken is cooked through. The breasts cook more quickly than the legs, so remove these after about 10-15 minutes, when they're cooked through. You can check whether they're done by piercing the chicken in the thickest part with a skewer. The juices will run clear but the flesh should still feel springy to the touch.",
         "Lift the chicken pieces out of their juices and place on a serving plate. Serve with lemon or lime wedges."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tandoori-style chicken",
     "videos": "[]"
 }

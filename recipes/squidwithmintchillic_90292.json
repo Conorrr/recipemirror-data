@@ -1,24 +1,23 @@
 {
-    "title": "How to prepare and cook squid",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/squidwithmintchillic_90292_16x9.jpg"
-    ],
-    "description": "Simple steps to delicious fried squid flavoured with mint, chilli, lime and coriander.",
     "author": {
         "mitch_tonks": "Mitch Tonks"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Simple steps to delicious fried squid flavoured with mint, chilli, lime and coriander.",
+    "dishes": [
+        "prepare-ahead_desserts",
+        "seafood",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "cleaning_squid",
+        "chopping_vegetables"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/squidwithmintchillic_90292_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -31,6 +30,12 @@
             "1 tbsp olive oil",
             "\u00bd lime, juice only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        
     },
     "steps": [
         "Clean and prepare the fresh squid. Pull the tentacles away from the body. Remove the quill from inside the body and discard. Clean the body by running it under a tap or cleaning it in a bowl of water.",
@@ -45,9 +50,9 @@
         "Season with sea salt. Add the mint and coriander to the pan and stir.",
         "Remove the pan from the heat, and squeeze over the lime juice and serve immediately."
     ],
-    "howTos": [
-        "cleaning_squid",
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "How to prepare and cook squid",
     "videos": "[]"
 }

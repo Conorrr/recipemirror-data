@@ -1,26 +1,30 @@
 {
-    "title": "Chocolate and cherry slice",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8-12",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This decadent chocolate slice makes a great treat for a picnic box: serve with clotted cream and fresh raspberries.",
     "author": {
         "ed_baines": "Ed Baines"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This decadent chocolate slice makes a great treat for a picnic box: serve with clotted cream and fresh raspberries.",
+    "dishes": [
+        "icing",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "melting_chocolate"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "clotted cream",
+            "raspberries",
+            "few sprigs fresh mint",
+            "icing sugar"
+        ],
         "default": [
             "300g/10\u00bdoz dark chocolate",
             "225g/8oz unsalted butter",
@@ -32,13 +36,13 @@
             "pinch salt",
             "about 100g/3\u00bdoz glac\u00e9 cherries, chopped",
             "200g/7oz milk chocolate, chopped"
-        ],
-        "To serve": [
-            "clotted cream",
-            "raspberries",
-            "few sprigs fresh mint",
-            "icing sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 8-12",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
     },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5 and grease and line a 20cm/8in square baking tin with baking parchment.",
@@ -50,8 +54,9 @@
         "Remove from the oven and leave to cool in the tin.",
         "Cut into squares and serve with clotted cream, raspberries, fresh mint leaves and a dusting of icing sugar."
     ],
-    "howTos": [
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "Chocolate and cherry slice",
     "videos": "[]"
 }

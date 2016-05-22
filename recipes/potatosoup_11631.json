@@ -1,24 +1,24 @@
 {
-    "title": "Potato soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "28",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/potatosoup_11631_16x9.jpg"
-    ],
-    "description": "A comforting classic, this easy potato soup uses a handful of store cupboard ingredients to great effect.",
     "author": {
         "darina_allen": "Darina Allen"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Irish",
+    "description": "A comforting classic, this easy potato soup uses a handful of store cupboard ingredients to great effect.",
+    "dishes": [
+        "sauce",
+        "soup",
+        "stock",
+        "vegetable_soup"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/potatosoup_11631_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,6 +32,12 @@
             "freshly chopped herbs to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "28",
+    "serves": "Serves 6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Melt the butter in a heavy saucepan. When it foams, add the potatoes and onions and toss them in the butter until well coated.",
         "Sprinkle with salt and a few grinds of pepper. Cover with a butter wrapper or paper lid and the lid of the saucepan. Sweat on a gentle heat for approximately 10 minutes.",
@@ -39,8 +45,9 @@
         "Add the milk and pur\u00e9e the soup in a blender or food processor. Taste and adjust seasoning.",
         "Serve sprinkled with a few freshly chopped herbs or some of the following garnishes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Potato soup",
     "videos": "[]"
 }

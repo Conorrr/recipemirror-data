@@ -1,31 +1,32 @@
 {
-    "title": "Traditional wedding cake",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 100",
-    "recommendations": "9",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/traditional_wedding_cake_68531_16x9.jpg"
-    ],
-    "description": "Make your own wedding cake with our step-by-step recipe. The great thing about making a fruit cake is that it can be made well in advance of the big day. Equipment and preparation: For this recipe you will need a 15cm/6in, 23cm/9in and 30cm/12in round cake tin, thin cake boards of respective sizes, and 20cm/8in, 28cm/11in and 35cm/14in thick cake boards. You will also need eight dowelling rods and eight cake pillars. All of these are available from specialist cake shops. Plus you will need 5m/16ft 5in x 1.5cm/\u215din pink satin ribbon.",
     "author": {
         "ruth_clemens": "Ruth Clemens"
     },
-    "show": {
-        "b010n3q1": "The Great British Wedding Cake"
-    },
-    "tips": [
-        "The cakes can be covered with marzipan up to one month ahead - they can then be iced three days in advance."
+    "cookTime": "over 2 hours",
+    "description": "Make your own wedding cake with our step-by-step recipe. The great thing about making a fruit cake is that it can be made well in advance of the big day. Equipment and preparation: For this recipe you will need a 15cm/6in, 23cm/9in and 30cm/12in round cake tin, thin cake boards of respective sizes, and 20cm/8in, 28cm/11in and 35cm/14in thick cake boards. You will also need eight dowelling rods and eight cake pillars. All of these are available from specialist cake shops. Plus you will need 5m/16ft 5in x 1.5cm/\u215din pink satin ribbon.",
+    "dishes": [
+        "cake",
+        "icing",
+        "jam",
+        "marzipan",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "upside-down_cake",
+        "wedding_cake"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "cover_cake_fondant_icing",
+        "marzipan_fruit_cake"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/traditional_wedding_cake_68531_16x9.jpg"
+    ],
     "ingredients": {
-        "For the fondant roses": [
-            "1.5kg/3lb 5oz ready-to-roll white icing",
-            "pink edible dust",
-            "edible glue"
-        ],
         "For the 15cm/6in tier": [
             "150g/5\u00bdoz butter, plus extra for greasing",
             "90g/3\u00bcoz dark brown sugar",
@@ -74,12 +75,23 @@
             "1 tsp ground cloves",
             "1 tsp ground cinnamon"
         ],
+        "For the fondant roses": [
+            "1.5kg/3lb 5oz ready-to-roll white icing",
+            "pink edible dust",
+            "edible glue"
+        ],
         "To ice the cakes": [
             "1 x 340g/12oz jar apricot jam",
             "icing sugar, for dusting",
             "3.5kg/7lb 11oz marzipan",
             "5.15kg/11lb 6oz ready-to-roll white icing"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "9",
+    "serves": "Serves 100",
+    "show": {
+        "b010n3q1": "The Great British Wedding Cake"
     },
     "steps": [
         "To make the roses, pinch off a little icing and roll it in the palm of your hands to make it more malleable. Shape the icing into an oval shape, smooth out one end of the oval to make it thinner so that it resembles the frilly part of the tip of a rose petal. Make 8-10 more rose petals in this way. To make a rose, roll a small ball of icing into a cone shape, then wrap a rose petal around it. Carefully press the remaining rose petals around the central petal to form a rose shape. You may need to \u2018tease\u2019 the petals out from each other a little bit.",
@@ -101,9 +113,9 @@
         "Repeat step 16 using 500g/1lb 2oz icing for the 28cm/11in cake board and 750g/1lb 10oz icing for the 35cm/14in cake board.",
         "If you\u2019re transporting the cakes to a venue, it\u2019s best to transport them separately and assemble the cake at the venue. To assemble the cakes, first stick the 30cm/12in cake to the 35cm/14in cake board: add a little glue to the middle of the 35cm/14in cake board, then position the 30cm/12in cake in the middle. Place four of the pillars on top of the largest cake, positioning each one over a dowelling rod. Top with the 28cm/11in cake board, and repeat the process with the 23cm/9in cake, finishing with the 20cm/8in cake board and the 15cm/6in cake. Using the edible glue, arrange the fondant roses in a cluster on the top of the cake and around the side of the 23cm/9in and 30cm/12in cake."
     ],
-    "howTos": [
-        "cover_cake_fondant_icing",
-        "marzipan_fruit_cake"
+    "tips": [
+        "The cakes can be covered with marzipan up to one month ahead - they can then be iced three days in advance."
     ],
+    "title": "Traditional wedding cake",
     "videos": "[]"
 }

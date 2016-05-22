@@ -1,24 +1,26 @@
 {
-    "title": "Ratatouille",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "27",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/ratatouille_19540_16x9.jpg"
-    ],
-    "description": "Rich tomato sauce with soft aubergine, courgette and peppers - this vegetarian dish is a favourite with everyone. Each serving provides 223kcal, 5.5g protein, 17.5g carbohydrate (of which 16g sugars), 12g fat (of which 2g saturates), 10g fibre and 0g salt.",
     "author": {
         "jenny_white": "Jenny White"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Rich tomato sauce with soft aubergine, courgette and peppers - this vegetarian dish is a favourite with everyone. Each serving provides 223kcal, 5.5g protein, 17.5g carbohydrate (of which 16g sugars), 12g fat (of which 2g saturates), 10g fibre and 0g salt.",
+    "dishes": [
+        "bun",
+        "casserole",
+        "pie",
+        "ratatouille",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/ratatouille_19540_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,14 +36,21 @@
             "small bunch basil, roughly torn"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "27",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Cut the aubergines into quarters lengthways, then cut the quarters into 2.5cm/1in slices. Cut the courgettes into 2.5cm/1in slices. De-seed the peppers and cut them into bite-sized pieces.",
         "Score a cross in the base of each tomato and place them in a heatproof bowl. Pour over enough boiling water to cover and set aside for one minute. Drain and set aside until cool enough to handle, then peel away the skins. Cut them into quarters, scoop out the seeds and discard. Roughly chop the flesh.",
         "Heat the oil in a flameproof casserole dish and add the onions. Cook over a gentle heat for 8-10 minutes, stirring occasionally, until golden-brown and very tender. Add the aubergines and courgettes, increase the heat slightly and cook for 2-3 minutes. Stir in the peppers, garlic, sugar, some salt and pepper and half the basil and mix well. Cover and cook over a very gentle heat for 20 minutes.",
         "Add the tomatoes to the pan and cook for a further 10 minutes. Scatter with the remaining basil and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Ratatouille",
     "videos": "[]"
 }

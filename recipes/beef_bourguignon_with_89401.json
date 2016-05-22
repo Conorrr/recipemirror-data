@@ -1,23 +1,25 @@
 {
-    "title": "Beef bourguignon with mashed potatoes",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "52",
-    "images": [
-        
-    ],
-    "description": "Try James Martin's recipe for slow-cooked beef in a rich sauce served with comforting and creamy mash.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "French",
+    "description": "Try James Martin's recipe for slow-cooked beef in a rich sauce served with comforting and creamy mash.",
+    "dishes": [
+        "beef_bourguignon",
+        "bun",
+        "jam",
+        "sauce",
+        "slow-cooked_dishes",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -37,11 +39,6 @@
             "150g/5oz peeled baby shallots (or frozen button onions)",
             "200g/7oz chestnut mushrooms"
         ],
-        "For the mash": [
-            "1kg/2lb 4oz floury potatoes, peeled and cut into chunks",
-            "110g/4oz butter",
-            "110ml/4fl oz full-fat milk"
-        ],
         "For the garnish": [
             "1 tbsp olive oil",
             "25g/1oz butter",
@@ -49,7 +46,18 @@
             "100g/3\u00bdoz pancetta, cut into lardons",
             "150g/5oz button mushrooms, stalks removed left whole",
             "\u00bd bunch flat-leaf parsley, finely chopped"
+        ],
+        "For the mash": [
+            "1kg/2lb 4oz floury potatoes, peeled and cut into chunks",
+            "110g/4oz butter",
+            "110ml/4fl oz full-fat milk"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "52",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the beef bourguignon, sprinkle the flour onto a plate and season with salt and freshly ground black pepper. Dredge the beef in the seasoned flour and set aside.",
@@ -64,8 +72,9 @@
         "For the garnish, heat the olive oil and butter in a small frying pan. Add the onions and fry until brown. Add the pancetta and fry until browned and crisp. Then add the mushrooms and continue frying until the mushrooms are softened and golden-brown. Finish with the chopped parsley and set aside until ready to serve.",
         "To serve, divide the mash equally among the serving plates and spoon the beef bourguignon alongside, with the garnish on top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef bourguignon with mashed potatoes",
     "videos": "[]"
 }

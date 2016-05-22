@@ -1,24 +1,21 @@
 {
-    "title": "Manhattan",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "wayne_collins": "Wayne Collins"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "cocktails",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,12 +27,19 @@
             "maraschino cherry, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Place the bourbon, vermouth, bitters and syrup into a mixing glass filled with ice and stir well.",
         "Strain into a cocktail glass and garnish with an orange twist and a maraschino cherry."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Manhattan",
     "videos": "[]"
 }

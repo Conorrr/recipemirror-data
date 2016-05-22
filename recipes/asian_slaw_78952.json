@@ -1,26 +1,34 @@
 {
-    "title": "Asian slaw",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This spicy slaw is a welcome addition to any summer barbecue. Serve with Thai-style prawns or sticky ribs.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b01qkkjj": "Hairy Bikers Everyday Gourmets"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "This spicy slaw is a welcome addition to any summer barbecue. Serve with Thai-style prawns or sticky ribs.",
+    "dishes": [
+        "bun",
+        "coleslaw",
+        "pickle"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "125ml/4\u00bdfl oz rice wine vinegar",
+            "1 tsp sea salt flakes",
+            "125ml/4\u00bdfl oz extra virgin olive oil",
+            "2 limes, juice only",
+            "2 tbsp sesame oil",
+            "4 tbsp mirin",
+            "1 tbsp finely grated fresh ginger"
+        ],
         "For the slaw": [
             "\u00bd Chinese cabbage, finely shredded",
             "\u00bd red cabbage finely shredded",
@@ -32,23 +40,21 @@
             "1 bunch fresh mint leaves",
             "1 bunch fresh coriander, leaves only",
             "75g/3oz Japanese pickled ginger (available from Asian supermarkets)"
-        ],
-        "For the dressing": [
-            "125ml/4\u00bdfl oz rice wine vinegar",
-            "1 tsp sea salt flakes",
-            "125ml/4\u00bdfl oz extra virgin olive oil",
-            "2 limes, juice only",
-            "2 tbsp sesame oil",
-            "4 tbsp mirin",
-            "1 tbsp finely grated fresh ginger"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b01qkkjj": "Hairy Bikers Everyday Gourmets"
     },
     "steps": [
         "For the slaw, mix together all the slaw ingredients in large bowl.",
         "For the dressing, whisk all of the dressing ingredients together until well combined. Drizzle over the slaw and mix until all the vegetables are well coated in the dressing. Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Asian slaw",
     "videos": "[]"
 }

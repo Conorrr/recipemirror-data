@@ -1,24 +1,22 @@
 {
-    "title": "Vegetable biryani",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "15",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/vegetable_biryani_50072_16x9.jpg"
-    ],
-    "description": "Layered spicy vegetables, basmati rice and cashew nuts are just the ticket in this traditional vegetarian Indian dish.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "Layered spicy vegetables, basmati rice and cashew nuts are just the ticket in this traditional vegetarian Indian dish.",
+    "dishes": [
+        "biryani",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/vegetable_biryani_50072_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -40,6 +38,12 @@
             "yoghurt, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "15",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Preheat the oven to 170C/235F/Gas 3.",
         "Cook the carrot, potato, peppers, French beans and peas in a pan of boiling water for 3-4 minutes, or until tender. Drain and return to the pan.",
@@ -48,8 +52,9 @@
         "Sprinkle the top layer of rice with the chopped onions, cashew nuts, cumin seeds and red chilli powder. Cover with aluminium foil and bake for 15 minutes.",
         "Serve with yoghurt."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Vegetable biryani",
     "videos": "[]"
 }

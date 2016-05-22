@@ -1,24 +1,25 @@
 {
-    "title": "Bombay potato",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 3-4",
-    "recommendations": "14",
-    "images": [
-        
-    ],
-    "description": "These Indian-style potatoes use fresh tomatoes and coriander. In 15 minutes you\u2019ll have a tasty accompaniment to a curry.",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "These Indian-style potatoes use fresh tomatoes and coriander. In 15 minutes you\u2019ll have a tasty accompaniment to a curry.",
+    "dishes": [
+        "bun",
+        "curry",
+        "pie",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -36,6 +37,12 @@
             "1 bunch coriander, roughly chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "14",
+    "serves": "Serves 3-4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Heat a wok until hot and add the oil.",
         "Add all the spices and the ginger and stir-fry for one minute until fragrant.",
@@ -44,8 +51,9 @@
         "Stir in the tomatoes and coriander.",
         "Season with salt and freshly ground black pepper and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Bombay potato",
     "videos": "[]"
 }

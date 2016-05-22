@@ -1,34 +1,26 @@
 {
-    "title": "Honey, nut, orange and rhubarb tart",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2-3",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading",
+        "rubbing_in",
+        "segmenting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "170g/6oz plain flour, plus extra for dusting",
-            "100g/3\u00bdoz butter",
-            "1 tbsp caster sugar",
-            "pinch salt",
-            "1 free-range egg, lightly beaten",
-            "1 tbsp cold water"
-        ],
         "For the filling": [
             "55g/2oz mixed nuts, chopped",
             "2 tbsp clear honey",
@@ -36,7 +28,21 @@
             "2 tbsp caster sugar",
             "1 orange, peeled and segmented, to serve",
             "3 tbsp double cream, to serve"
+        ],
+        "For the pastry": [
+            "170g/6oz plain flour, plus extra for dusting",
+            "100g/3\u00bdoz butter",
+            "1 tbsp caster sugar",
+            "pinch salt",
+            "1 free-range egg, lightly beaten",
+            "1 tbsp cold water"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2-3",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -49,10 +55,9 @@
         "Bake in the oven for 12-15 minutes, or until the pastry is crisp and golden-brown.",
         "To serve, arrange the orange segments in a row down the centre of the tart and drizzle with the double cream."
     ],
-    "howTos": [
-        "kneading",
-        "rubbing_in",
-        "segmenting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Honey, nut, orange and rhubarb tart",
     "videos": "[]"
 }

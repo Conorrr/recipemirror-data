@@ -1,24 +1,28 @@
 {
-    "title": "Coronation chicken",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "40",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/coronation_chicken_30402_16x9.jpg"
-    ],
-    "description": "Step back into 1952 and showcase the classic chicken salad for a delicious lunch of Coronation nostalgia.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Step back into 1952 and showcase the classic chicken salad for a delicious lunch of Coronation nostalgia.",
+    "dishes": [
+        "curry",
+        "jam",
+        "mayonnaise",
+        "pie",
+        "salad",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/coronation_chicken_30402_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -44,6 +48,12 @@
             "green salad leaves, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "40",
+    "serves": "Serves 4",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
+    },
     "steps": [
         "Rub the olive oil all over the chicken. Scatter over the lemon zest and season with the salt and black pepper.",
         "Steam the chicken for 20-25 minutes, or until cooked through, then set aside to cool.",
@@ -52,8 +62,9 @@
         "Mix the mayonnaise and the cr\u00e8me fraiche in a bowl until well combined, then stir in the curry dressing. Fold in the mango, spring onions, lemon juice and coriander.",
         "Cut the chicken into bite-sized pieces. Fold this into the mayonnaise mixture. Season with salt, freshly ground black pepper and Tabasco to taste. Serve with a green salad, and dress with the toasted almond flakes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Coronation chicken",
     "videos": "[]"
 }

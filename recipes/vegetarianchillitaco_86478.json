@@ -1,26 +1,32 @@
 {
-    "title": "Vegetarian chilli tacos",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "8",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/vegetarianchillitaco_86478_16x9.jpg"
-    ],
-    "description": "Tacos with a spicy bean filling and all the trimmings. The veggie bean filling can be made in advance and will keep in the freezer for 2 months, so whenever you fancy a veggie taco you can whip one up in minutes.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        "To freeze the veggie bean filling, leave to cool and then put in a freezer-proof container."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Mexican",
+    "description": "Tacos with a spicy bean filling and all the trimmings. The veggie bean filling can be made in advance and will keep in the freezer for 2 months, so whenever you fancy a veggie taco you can whip one up in minutes.",
+    "dishes": [
+        "sauce",
+        "stock",
+        "taco",
+        "veggie_chilli"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/vegetarianchillitaco_86478_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "12 ready-made taco shells, warmed",
+            "150g/5oz Monterey Jack (or mild cheddar) cheese, grated",
+            "2 tbsp chopped fresh coriander (optional)",
+            "200ml/7fl oz plain yoghurt"
+        ],
         "default": [
             "1 tbsp olive oil",
             "1 onion, finely chopped",
@@ -33,13 +39,13 @@
             "150ml/5fl oz vegetable stock",
             "2 x 400g tinned kidney beans, or mixed beans, rinsed and drained",
             "salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "12 ready-made taco shells, warmed",
-            "150g/5oz Monterey Jack (or mild cheddar) cheese, grated",
-            "2 tbsp chopped fresh coriander (optional)",
-            "200ml/7fl oz plain yoghurt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Heat the oil in a frying pan over a medium heat. Fry the onion, garlic and celery until soft.",
@@ -47,8 +53,9 @@
         "Reduce the heat and simmer for 15 minutes, then add the beans and cook for a further 10-12 minutes, or until the sauce has reduced and the beans are all heated through.",
         "To serve, place 2-3 tablespoonfuls of the bean chilli in each taco shell. Top with the grated cheese, chopped coriander (if using), and a spoon of yoghurt and put on plates."
     ],
-    "howTos": [
-        
+    "tips": [
+        "To freeze the veggie bean filling, leave to cool and then put in a freezer-proof container."
     ],
+    "title": "Vegetarian chilli tacos",
     "videos": "[]"
 }

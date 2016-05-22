@@ -1,24 +1,24 @@
 {
-    "title": "Aromatic beef curry",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "150",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/aromatic_beef_curry_90850_16x9.jpg"
-    ],
-    "description": "Try this comforting curry, packed with flavour and tender beef.",
     "author": {
         "anjie_mosher": "Anjie Mosher"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        "The curry could alternately be cooked in the oven from the end of step 3 onwards: simply preheat the oven to 190C/375F/Gas 5, then pour the contents of the pan into a lidded ovenproof dish and cook for 2 hours with the lid on, until the meat is tender."
+    "cookTime": "over 2 hours",
+    "cusine": "Indian",
+    "description": "Try this comforting curry, packed with flavour and tender beef.",
+    "dishes": [
+        "beef_curry",
+        "curry",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/aromatic_beef_curry_90850_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -42,14 +42,21 @@
             "pinch sugar"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "150",
+    "serves": "Serves 4",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
+    },
     "steps": [
         "Heat a lidded frying pan over a medium heat and add the ghee or oil. Fry the meat until lightly browned on all sides, then remove from the pan with a slotted spoon, cover and set aside.",
         "Add the onion and garlic to the pan and fry over a low heat until soft. Turn the heat up slightly, add the spices and fry for 1 minute, they should start to smell aromatic, without burning.",
         "Return the beef to the pan, add the tomatoes and bring to the boil. Take the pan off the heat and stir in the yoghurt and vinegar, then season to taste with the salt and the sugar.",
         "Return the pan to the heat, bring back to the boil and simmer, covered, for 1\u00bd hours, or until the meat is tender."
     ],
-    "howTos": [
-        
+    "tips": [
+        "The curry could alternately be cooked in the oven from the end of step 3 onwards: simply preheat the oven to 190C/375F/Gas 5, then pour the contents of the pan into a lidded ovenproof dish and cook for 2 hours with the lid on, until the meat is tender."
     ],
+    "title": "Aromatic beef curry",
     "videos": "[]"
 }

@@ -1,36 +1,24 @@
 {
-    "title": "Thai beef stir fry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This spicy Thai beef stir fry is served with a crisp fried egg on top and a flavour-packed dipping sauce on the side.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b03vp3tt": "The Hairy Bikers' Asian Adventure"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "This spicy Thai beef stir fry is served with a crisp fried egg on top and a flavour-packed dipping sauce on the side.",
+    "dishes": [
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sauce": [
-            "4 coriander roots, chopped",
-            "4 garlic cloves",
-            "5 chillies, finely chopped (seeds optional)",
-            "1 tbsp oyster sauce",
-            "1 tbsp rice wine vinegar",
-            "2 tbsp soy sauce",
-            "2 tbsp Thai fish sauce",
-            "\u00bd lime, juice only"
-        ],
         "For the beef": [
             "4 birds\u2019-eye chillies, chopped",
             "4 garlic cloves, roughly chopped",
@@ -46,7 +34,23 @@
             "1\u00bd tbsp palm sugar",
             "a good handful of Thai basil and a smaller handful of holy basil (optional)",
             "freshly cooked rice, for serving"
+        ],
+        "For the sauce": [
+            "4 coriander roots, chopped",
+            "4 garlic cloves",
+            "5 chillies, finely chopped (seeds optional)",
+            "1 tbsp oyster sauce",
+            "1 tbsp rice wine vinegar",
+            "2 tbsp soy sauce",
+            "2 tbsp Thai fish sauce",
+            "\u00bd lime, juice only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b03vp3tt": "The Hairy Bikers' Asian Adventure"
     },
     "steps": [
         "For the sauce, put the coriander roots, garlic and chillies into a pestle and mortar and crush lightly. Add the remaining ingredients for the sauce to the mortar and give it a good grind to infuse the flavours. Put into a serving bowl or dipping bowls.",
@@ -55,8 +59,9 @@
         "In the meantime while the beef is cooking, heat a medium frying pan with two tablespoons of vegetable oil. Fry four eggs until crisp on the outside, but the yolks are still runny",
         "Add the fish sauce, oyster sauce, soy sauce and palm sugar and a good handful of basil leaves and fold through the cooked beef. Divide into onto suitable serving bowls and serve with the rice and sauce on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Thai beef stir fry",
     "videos": "[]"
 }

@@ -1,26 +1,36 @@
 {
-    "title": "Thai-style duck red curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "",
+    "dishes": [
+        "curry",
+        "pie",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "chopping_vegetables",
+        "scoring_skin"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the duck": [
+            "4 duck breasts",
+            "250ml/8fl oz chicken stock",
+            "400ml/14fl oz can of coconut milk",
+            "salt and freshly ground pepper",
+            "8 spring onions, finely sliced",
+            "1 red pepper, seeds removed, sliced",
+            "16 baby aubergines, halved and griddled (griddling optional)"
+        ],
         "For the spice paste": [
             "5 black peppercorns",
             "1 tsp cumin seeds",
@@ -37,20 +47,17 @@
             "splash chilli oil (available from larger supermarkets)",
             "1 tbsp palm sugar (available from Asian supermarkets, substitute brown sugar if unavailable)"
         ],
-        "For the duck": [
-            "4 duck breasts",
-            "250ml/8fl oz chicken stock",
-            "400ml/14fl oz can of coconut milk",
-            "salt and freshly ground pepper",
-            "8 spring onions, finely sliced",
-            "1 red pepper, seeds removed, sliced",
-            "16 baby aubergines, halved and griddled (griddling optional)"
-        ],
         "To serve": [
             "Thai sticky rice, cooked according to packet instructions",
             "fresh coriander leaves, chopped",
             "1 lime, cut into wedges"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the spice paste, dry-fry the peppercorns, cumin seeds and coriander seeds in a frying pan without any oil for 4-5 minutes, to release the flavours. Transfer the spices to a pestle and mortar and grind.",
@@ -62,9 +69,9 @@
         "Add the spring onions, red pepper and aubergines and cook for five minutes, or until the aubergines are soft and the duck is completely cooked through.",
         "To serve, place a mound of rice onto each of four plates. Spoon equal portions of the duck curry over and garnish with chopped coriander and lime wedges."
     ],
-    "howTos": [
-        "chopping_vegetables",
-        "scoring_skin"
+    "tips": [
+        
     ],
+    "title": "Thai-style duck red curry",
     "videos": "[]"
 }

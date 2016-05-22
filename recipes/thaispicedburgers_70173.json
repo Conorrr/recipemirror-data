@@ -1,23 +1,24 @@
 {
-    "title": "Thai spiced burgers",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "Something a little bit different to your classic burger - lovely and spicy and great served with sweet chilli sauce and crunchy cucumber.",
     "author": {
         "angela_boggiano": "Angela Boggiano"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "Something a little bit different to your classic burger - lovely and spicy and great served with sweet chilli sauce and crunchy cucumber.",
+    "dishes": [
+        "beef_burger",
+        "bread",
+        "bun",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "chopping_vegetables",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -33,6 +34,12 @@
             "salt and ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "If you have a food processor place the spring onions, chilli, garlic and peanuts into the bowl and process until finely chopped.",
         "Tip into a bowl and mix well with the pork or beef, coriander, zest and juice of lime and plenty of seasoning.",
@@ -41,9 +48,9 @@
         "Brush slices of crusty bread with a little oil and place on barbecue to toast.",
         "Serve the burgers with the toasted bread and a little sliced cucumber and sweet chilli sauce."
     ],
-    "howTos": [
-        "chopping_vegetables",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Thai spiced burgers",
     "videos": "[]"
 }

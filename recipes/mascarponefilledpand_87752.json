@@ -1,24 +1,22 @@
 {
-    "title": "Mascarpone-filled pandoro",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "bread",
+        "icing"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,14 +29,21 @@
             "gold candles, to decorate (optional)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Cut the pandoro horizontally into four.",
         "In a large bowl, whisk together the cream, mascarpone, lemon zest, maraschino and icing sugar, until soft peaks form when the whisk is removed.",
         "Divide the mixture between the layers of pandoro and carefully spread out to the edges.",
         "Reconstruct the pandoro in layers on a serving plate and dust liberally with icing sugar and serve. Decorate with gold candles, if you like."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Mascarpone-filled pandoro",
     "videos": "[]"
 }

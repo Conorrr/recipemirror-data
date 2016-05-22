@@ -1,26 +1,33 @@
 {
-    "title": "Lamb with cabbage and mushroom fricass\u00e9e",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "curtis_stone": "Curtis Stone"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "fricassee",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the fricass\u00e9e": [
+            "2 tbsp olive oil",
+            "1 garlic clove, finely diced",
+            "\u00bd onion, sliced",
+            "1 sprig thyme",
+            "200g/7\u00bcoz savoy cabbage, shredded",
+            "3 large flat mushrooms, cut into wedges"
+        ],
         "default": [
             "1 tbsp oil",
             "1 lamb fillet",
@@ -29,15 +36,13 @@
             "\u00bd celery stick",
             "\u00bd onion",
             "1 garlic clove"
-        ],
-        "For the fricass\u00e9e": [
-            "2 tbsp olive oil",
-            "1 garlic clove, finely diced",
-            "\u00bd onion, sliced",
-            "1 sprig thyme",
-            "200g/7\u00bcoz savoy cabbage, shredded",
-            "3 large flat mushrooms, cut into wedges"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Heat a frying pan until hot.",
@@ -52,8 +57,9 @@
         "Add 50ml/1\u00befl oz of the poaching liquid.",
         "Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb with cabbage and mushroom fricass\u00e9e",
     "videos": "[]"
 }

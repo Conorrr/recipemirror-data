@@ -1,26 +1,33 @@
 {
-    "title": "Salmon and asparagus open lasagne with lemon and chive hollandaise",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "jo_pratt": "Jo' Pratt"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "lasagne",
+        "pasta",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For thelemon and chive hollandaise": [
+            "1 egg, separated",
+            "2 tsp lemon juice",
+            "50g/2oz butter, melted",
+            "sea salt",
+            "cayenne pepper",
+            "1 tbsp chopped chives"
+        ],
         "default": [
             "olive oil",
             "knob of butter",
@@ -29,15 +36,13 @@
             "1 large bunch of asparagus, trimmed and halved if long",
             "6-8 baby plum tomatoes",
             "sea salt and freshly ground black pepper"
-        ],
-        "For thelemon and chive hollandaise": [
-            "1 egg, separated",
-            "2 tsp lemon juice",
-            "50g/2oz butter, melted",
-            "sea salt",
-            "cayenne pepper",
-            "1 tbsp chopped chives"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "To cook the salmon, heat a trickle of olive oil in a non-stick frying pan over a medium heat. Season the salmon with salt and freshly ground pepper.",
@@ -52,8 +57,9 @@
         "Lay the second sheet of pasta over the top, spoon over the remaining hollandaise and finish with some asparagus spears to garnish the top.",
         "Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salmon and asparagus open lasagne with lemon and chive hollandaise",
     "videos": "[]"
 }

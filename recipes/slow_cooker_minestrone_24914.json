@@ -1,24 +1,25 @@
 {
-    "title": "Slow cooker minestrone",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "30",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/slow_cooker_minestrone_24914_16x9.jpg"
-    ],
-    "description": "This hearty Italian soup is made with pasta and beans. This soup is great for batch cooking, just divide into portions and pop in the freezer and wonderfully warming soup will never be far from your bowl. Each serving provides 352kcal, 24g protein, 29g carbohydrate (of which 9.5g sugars), 14g fat (of which 4g saturates), 8.5g fibre and 1.5g salt.",
     "author": {
         "jane_hornby": "Jane Hornby"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "This soup will keep in the freezer for 2 months."
+    "cookTime": "over 2 hours",
+    "cusine": "Italian",
+    "description": "This hearty Italian soup is made with pasta and beans. This soup is great for batch cooking, just divide into portions and pop in the freezer and wonderfully warming soup will never be far from your bowl. Each serving provides 352kcal, 24g protein, 29g carbohydrate (of which 9.5g sugars), 14g fat (of which 4g saturates), 8.5g fibre and 1.5g salt.",
+    "dishes": [
+        "pasta",
+        "slow-cooked_dishes",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/slow_cooker_minestrone_24914_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -40,13 +41,20 @@
             "25g/1oz parmesan, grated (optional)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "30",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Put a large frying pan over a low heat, add the lardons and cook for 10 minutes until crisp, golden and the fat has run from the meat. Transfer onto a plate.",
         "Tip the carrots, celery and onion into the bacon fat and fry for two minutes before adding the garlic, herbs and tomato pur\u00e9e. Cook for 1 minute, then add the tomatoes and most of the stock. Bring to the boil. Carefully transfer the soup to a slow cooker, cover with the lid, then cook on high for 4 hours until the vegetables are tender.",
         "Stir the beans and pasta into the soup, adding the rest of the stock if it seems overly thick. Scatter the shredded greens over the top of the soup, then re-cover with the lid. Cook for 30 minutes until the pasta is tender. Stir in the greens, season with salt and pepper, then serve in bowls with a drizzle of oil and plenty of parmesan."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This soup will keep in the freezer for 2 months."
     ],
+    "title": "Slow cooker minestrone",
     "videos": "[]"
 }

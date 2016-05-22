@@ -1,26 +1,33 @@
 {
-    "title": "Leek and smoked cheese pancakes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pancake",
+        "salsa"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pancake filling": [
+            "50g/2oz butter",
+            "250g/9oz leeks, sliced into rounds",
+            "150g/5\u00bdoz smoked cheese, grated",
+            "1 tbsp chopped fresh thyme",
+            "1 tbsp chopped fresh sage",
+            "100g/3\u00bdoz frozen peas",
+            "100g/3\u00bdoz ricotta"
+        ],
         "For the pancakes": [
             "200g/7oz plain flour, sifted, plus extra for dredging",
             "pinch salt",
@@ -32,15 +39,6 @@
             "2 free-range eggs, beaten",
             "125g/4\u00bdoz polenta (cornmeal)"
         ],
-        "For the pancake filling": [
-            "50g/2oz butter",
-            "250g/9oz leeks, sliced into rounds",
-            "150g/5\u00bdoz smoked cheese, grated",
-            "1 tbsp chopped fresh thyme",
-            "1 tbsp chopped fresh sage",
-            "100g/3\u00bdoz frozen peas",
-            "100g/3\u00bdoz ricotta"
-        ],
         "For the salsa": [
             "1 red onion, peeled, chopped",
             "1 cucumber, chopped",
@@ -49,6 +47,12 @@
             "1 red chilli, finely chopped",
             "50ml/2fl oz sherry vinegar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the pancakes, sift the flour and salt into a large bowl and make a well in the centre. Break the eggs into the well, then gradually mix the eggs into the flour with a fork. Gradually add the milk and water to the mixture, whisking continuously, until the mixture is smooth and has the texture of double cream. Finally, whisk in the butter.",
@@ -63,8 +67,9 @@
         "For the salsa, mix together all of the salsa ingredients in a bowl.",
         "To serve, arrange the pancake rolls on serving plates with the salsa in small bowls alongside for dipping."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Leek and smoked cheese pancakes",
     "videos": "[]"
 }

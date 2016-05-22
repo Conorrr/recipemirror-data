@@ -1,44 +1,34 @@
 {
-    "title": "Roast chicken with game chips, bread sauce and bacon-wrapped chipolatas",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This is roast chicken with everything - bread sauce, sausages wrapped in bacon, roast balls of stuffing, a rich gravy.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "This is roast chicken with everything - bread sauce, sausages wrapped in bacon, roast balls of stuffing, a rich gravy.",
+    "dishes": [
+        "bread",
+        "chips",
+        "gravy",
+        "jam",
+        "jelly",
+        "oven-baked_dishes",
+        "pie",
+        "roast_chicken",
+        "sauce",
+        "sausage",
+        "stir-fries",
+        "stock",
+        "stuffing"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sage and onion stuffing": [
-            "40g/1\u00bdoz butter",
-            "2 onions, finely chopped",
-            "8 sage leaves, finely chopped",
-            "125g/4\u00bdoz breadcrumbs",
-            "1 free-range egg, beaten",
-            "salt and pepper to taste"
-        ],
-        "For the chicken": [
-            "1 large chicken, preferably organic",
-            "40g/1\u00bdoz butter, softened",
-            "2 tbsp extra virgin olive oil",
-            "salt and freshly ground black pepper",
-            "2 tbsp plain flour",
-            "150ml/5fl oz white wine",
-            "300ml/10fl oz chicken stock",
-            "1 small jar redcurrant jelly"
-        ],
         "For the bacon chipolatas": [
             "6 thin slices streaky bacon",
             "12 chipolatas"
@@ -53,11 +43,35 @@
             "40g/1\u00bdoz butter",
             "salt and freshly ground black pepper"
         ],
+        "For the chicken": [
+            "1 large chicken, preferably organic",
+            "40g/1\u00bdoz butter, softened",
+            "2 tbsp extra virgin olive oil",
+            "salt and freshly ground black pepper",
+            "2 tbsp plain flour",
+            "150ml/5fl oz white wine",
+            "300ml/10fl oz chicken stock",
+            "1 small jar redcurrant jelly"
+        ],
         "For the game chips": [
             "vegetable oil, for deep-frying",
             "1 large baking potato, sliced very thinly on a mandoline",
             "salt and freshly ground black pepper"
+        ],
+        "For the sage and onion stuffing": [
+            "40g/1\u00bdoz butter",
+            "2 onions, finely chopped",
+            "8 sage leaves, finely chopped",
+            "125g/4\u00bdoz breadcrumbs",
+            "1 free-range egg, beaten",
+            "salt and pepper to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -80,8 +94,9 @@
         "Deep-fry the potato slices for 1-2 minutes, or until golden-brown. Remove the game chips from the oil with a slotted spoon, set aside to drain on kitchen paper and season with salt and freshly ground black pepper.",
         "To serve, place a couple of pieces of chicken on the plate. Add a spoonful of bread sauce, some game chips, stuffing and bacon sausages. Finish with a dollop of redcurrant jelly and generous pouring of gravy."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roast chicken with game chips, bread sauce and bacon-wrapped chipolatas",
     "videos": "[]"
 }

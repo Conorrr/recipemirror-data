@@ -1,26 +1,35 @@
 {
-    "title": "Pandhi curry (Coorg-style pork stir fry) with apple and fennel raita",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "vivek_singh": "Vivek Singh"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "bun",
+        "curry",
+        "raita",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the apple and fennel raita": [
+            "1 Granny Smith apple, or similar sharp green eating apple, core removed, flesh finely chopped",
+            "2 heads baby fennel, finely chopped",
+            "1 tsp fennel seeds, lightly toasted in a dry pan",
+            "200g/7oz Greek-style yoghurt",
+            "\u00bd tsp salt",
+            "1 tsp caster sugar"
+        ],
         "For the pork": [
             "750g/1\u00bdlb pork shoulder or pork belly, cut into 2.5cm/1in cubes",
             "2 tbsp ginger and garlic paste (made from 1cm/\u00bdin garlic, 1cm/\u00bdin ginger and \u00bd-1 tsp vegetable oil, blended to a paste)",
@@ -33,14 +42,6 @@
             "3 tbsp soy sauce",
             "10 kokum (cocum) pods, soaked in 110ml/4floz hot water to soften (available from some Asian grocers)"
         ],
-        "For the apple and fennel raita": [
-            "1 Granny Smith apple, or similar sharp green eating apple, core removed, flesh finely chopped",
-            "2 heads baby fennel, finely chopped",
-            "1 tsp fennel seeds, lightly toasted in a dry pan",
-            "200g/7oz Greek-style yoghurt",
-            "\u00bd tsp salt",
-            "1 tsp caster sugar"
-        ],
         "For the stir fry": [
             "2 tbsp vegetable oil",
             "4 dried red chillies",
@@ -51,6 +52,12 @@
             "\u00bd lime, juice only",
             "small bunch coriander cress, or other micro-leaves, to serve"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the pork, place the cubes of pork into a large dish. Add the remaining pork ingredients, cover, then marinate overnight in the fridge.",
@@ -63,8 +70,9 @@
         "Add the cooked pork cubes and fry, stirring continuously, for 3-4 minutes, or until golden-brown. (If the meat looks dry, add 1-2 tablespoons of the reserved cooking liquid and continue to cook until it has evaporated - this will glaze the pork cubes.) Season, to taste, with salt and freshly ground black pepper, then squeeze in the lime juice and stir to combine.",
         "To serve, spoon some curry into the centre of each of four serving plates. Spoon a portion of apple and fennel raita alongside each serving. Sprinkle over the coriander cress leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pandhi curry (Coorg-style pork stir fry) with apple and fennel raita",
     "videos": "[]"
 }

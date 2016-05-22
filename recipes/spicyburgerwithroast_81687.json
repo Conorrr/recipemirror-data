@@ -1,26 +1,28 @@
 {
-    "title": "Spicy burger with roast parsnips",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "beef_burger",
+        "oven-baked_dishes"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the roast parsnips": [
+            "1 parsnip, peeled and quartered",
+            "1 tbsp olive oil",
+            "salt and freshly ground black pepper"
+        ],
         "For the spicy burger": [
             "\u00bd tsp coriander seeds",
             "\u00bd tsp cumin seeds",
@@ -31,12 +33,13 @@
             "200g/7oz minced beef",
             "salt and freshly ground black pepper",
             "1 tbsp olive oil"
-        ],
-        "For the roast parsnips": [
-            "1 parsnip, peeled and quartered",
-            "1 tbsp olive oil",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -46,8 +49,9 @@
         "For the roast parsnips, place the parsnips onto a baking sheet, drizzle with olive oil and season with salt and freshly ground black pepper. Place into the oven and roast for 12-15 minutes, or until golden-brown.",
         "To serve, place the two burgers on a large plate and serve the roast parsnips on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spicy burger with roast parsnips",
     "videos": "[]"
 }

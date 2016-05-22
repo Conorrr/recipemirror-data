@@ -1,26 +1,35 @@
 {
-    "title": "American baked cheesecake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10",
-    "recommendations": "12",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/americanbakedcheesec_8358_16x9.jpg"
-    ],
-    "description": "Make an American classic with James Martin's easy baked cheesecake that cleverly uses a ready-made sponge base.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "Make an American classic with James Martin's easy baked cheesecake that cleverly uses a ready-made sponge base.",
+    "dishes": [
+        "cake",
+        "caramel",
+        "cheesecake",
+        "jam",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/americanbakedcheesec_8358_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "10 small bananas",
+            "25g/1oz butter",
+            "2 tbsp sugar",
+            "caramel sauce or maple syrup",
+            "sprig of mint or basil"
+        ],
         "default": [
             "25cm/10in sponge (cut from a large bought flan case)",
             "200g/7oz caster sugar",
@@ -33,14 +42,13 @@
             "1 vanilla pod",
             "Jack Daniels to taste or bourbon (optional)",
             "375ml/12\u00bdfl oz double or single cream"
-        ],
-        "To serve": [
-            "10 small bananas",
-            "25g/1oz butter",
-            "2 tbsp sugar",
-            "caramel sauce or maple syrup",
-            "sprig of mint or basil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Serves 10",
+    "show": {
+        "p0077hsg": "Housecall"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Butter a 25cm/10in loose-bottomed cake tin.",
@@ -51,8 +59,9 @@
         "Just before serving, peel the bananas and pan fry in the butter and sugar until brown and slightly caramelised.",
         "Serve, cut into wedges, with the bananas and a drizzle of caramel sauce or maple syrup."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "American baked cheesecake",
     "videos": "[]"
 }

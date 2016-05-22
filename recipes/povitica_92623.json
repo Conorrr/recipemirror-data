@@ -1,24 +1,25 @@
 {
-    "title": "Povitica",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 1 loaf",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/povitica_92623_16x9.jpg"
-    ],
-    "description": "Pronounced Pov-e-Tee-za, this Eastern European sweet bread is traditionally served at Christmas, but makes a delicious tea time treat at any time of the year. Equipment and preparation: for this recipe you will need a clean, flat single bed sheet and a 1kg/2lb loaf tin.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "Using a bed sheet makes it easier to roll the very thin dough. Clean the sheet well before use or use a large piece of cotton."
+    "cookTime": "1 to 2 hours",
+    "cusine": "East_European",
+    "description": "Pronounced Pov-e-Tee-za, this Eastern European sweet bread is traditionally served at Christmas, but makes a delicious tea time treat at any time of the year. Equipment and preparation: for this recipe you will need a clean, flat single bed sheet and a 1kg/2lb loaf tin.",
+    "dishes": [
+        "bread",
+        "icing",
+        "oven-baked_dishes",
+        "pie",
+        "slow-cooked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/povitica_92623_16x9.jpg"
     ],
     "ingredients": {
         "For the dough": [
@@ -46,6 +47,12 @@
             "100g/3\u00bdoz icing sugar"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "5",
+    "serves": "Makes 1 loaf",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
+    },
     "steps": [
         "For the dough, tip the flour and sugar into the bowl of a freestanding mixer fitted with a dough hook. Add the salt into one side of the bowl and the yeast to the other. Add the melted butter, egg, vanilla seeds and warm milk and begin mixing on a slow speed. When the dough starts to come together, mix for a further 5-8 minutes on a medium speed until the dough is soft, smooth and stretchy.",
         "Tip the dough into a lightly oiled mixing bowl, cover with cling film and leave to rise until at least doubled in size \u2013 about one hour. Butter a 1kg/2lb loaf tin.",
@@ -62,8 +69,9 @@
         "Remove from the oven and leave to cool in the tin for 30 minutes before turning out onto a wire rack to cool completely.",
         "Mix the icing sugar with a few drops of cold water to make a runny icing and drizzle it over the povitica. Slice and enjoy."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Using a bed sheet makes it easier to roll the very thin dough. Clean the sheet well before use or use a large piece of cotton."
     ],
+    "title": "Povitica",
     "videos": "[]"
 }

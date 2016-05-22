@@ -1,23 +1,23 @@
 {
-    "title": "Fried corned beef and egg with beetroot and potato rosti",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Humble corned beef is transformed into a super tasty fry up with fried duck egg and delicious beetroot and potato cakes. Equipment and preparation: for this recipe you will need two 7.5cm/3in chefs' rings.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Humble corned beef is transformed into a super tasty fry up with fried duck egg and delicious beetroot and potato cakes. Equipment and preparation: for this recipe you will need two 7.5cm/3in chefs' rings.",
+    "dishes": [
+        "cake",
+        "jam",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -30,19 +30,25 @@
             "salt and freshly ground black pepper",
             "75g/2\u00bdoz butter, melted"
         ],
+        "For the corned beef and egg": [
+            "50g/1\u00beoz butter",
+            "400g/14oz corned beef, sliced",
+            "2 tbsp rapeseed oil",
+            "2 duck eggs"
+        ],
         "For the hollandaise sauce": [
             "1 free-range egg, yolk only",
             "1 lemon, juice only",
             "110g/4oz clarified butter, warmed",
             "pinch cayenne pepper",
             "pinch salt"
-        ],
-        "For the corned beef and egg": [
-            "50g/1\u00beoz butter",
-            "400g/14oz corned beef, sliced",
-            "2 tbsp rapeseed oil",
-            "2 duck eggs"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the beetroot and potato rosti, preheat the oven to 200C/400F/Gas 6.",
@@ -55,8 +61,9 @@
         "Add the oil to the pan. Break the eggs into the pan and fry until cooked to your liking.",
         "To serve, place the rosti in the centre of serving plates and place the fried corned beef on top. Top with the fried egg and pour over the hollandaise sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fried corned beef and egg with beetroot and potato rosti",
     "videos": "[]"
 }

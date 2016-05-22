@@ -1,33 +1,29 @@
 {
-    "title": "Meat and potato pie",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 12",
-    "recommendations": "42",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/meat_and_potato_pie_66778_16x9.jpg"
-    ],
-    "description": "A comforting homemade beef and potato pie, perfect for a family meal.",
     "author": {
         "dee_briggs": "Dee Briggs"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        "This can be made into two smaller pies so you can freeze one. Simply wrap well and freeze before Step 9. Defrost the pie in the fridge overnight, and cook as per Step 9 until piping hot in the centre."
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "A comforting homemade beef and potato pie, perfect for a family meal.",
+    "dishes": [
+        "bread",
+        "gravy",
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/meat_and_potato_pie_66778_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pie filling": [
-            "2.75kg/6lb braising steak, cut into cubes",
-            "3 medium onions, chopped",
-            "2.75kg/6lb potatoes, peeled, cut into chunks",
-            "1 tbsp beef extract",
-            "4 tbsp gravy granules"
-        ],
         "For the pastry": [
             "500g/1lb 2oz plain flour",
             "2 tsp salt",
@@ -35,7 +31,20 @@
             "125g/4\u00bdoz lard, cut into small cubes",
             "125ml/4fl oz cold water",
             "1 free-range egg, beaten"
+        ],
+        "For the pie filling": [
+            "2.75kg/6lb braising steak, cut into cubes",
+            "3 medium onions, chopped",
+            "2.75kg/6lb potatoes, peeled, cut into chunks",
+            "1 tbsp beef extract",
+            "4 tbsp gravy granules"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "42",
+    "serves": "Serves 12",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
     },
     "steps": [
         "For the pie filling, put the beef and onions into a large, lidded saucepan and season with salt. Pour in enough water to cover the contents of the pan and bring to the boil. Once boiling, put cover the pan with a lid, reduce the heat and simmer gently for 2\u00bd\u20133 hours, or until the meat is tender.",
@@ -49,8 +58,9 @@
         "Cook in the preheated oven for 50\u201360 minutes, or until the pastry is golden-brown and the filling is bubbling inside.",
         "Serve the hot pie with the reserved sauce on the side."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        "This can be made into two smaller pies so you can freeze one. Simply wrap well and freeze before Step 9. Defrost the pie in the fridge overnight, and cook as per Step 9 until piping hot in the centre."
     ],
+    "title": "Meat and potato pie",
     "videos": "[]"
 }

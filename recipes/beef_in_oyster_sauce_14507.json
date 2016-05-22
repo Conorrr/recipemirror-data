@@ -1,24 +1,24 @@
 {
-    "title": "Beef in oyster sauce",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "25",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beef_in_oyster_sauce_14507_16x9.jpg"
-    ],
-    "description": "Try Ken Hom's recipe for this Chinese takeaway classic, served with spicy salad.",
     "author": {
         "ken_hom": "Ken Hom"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Chinese",
+    "description": "Try Ken Hom's recipe for this Chinese takeaway classic, served with spicy salad.",
+    "dishes": [
+        "curry",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beef_in_oyster_sauce_14507_16x9.jpg"
     ],
     "ingredients": {
         "For the beef": [
@@ -48,6 +48,12 @@
             "3 tbsp finely chopped fresh chives"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "25",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "Put the beef, soy sauce, sesame oil, Shaoxing rice wine or dry sherry and cornflour into a bowl and mix together until well combined. Set aside to marinate for 20 minutes.",
         "Heat a wok or large frying-pan until it is very hot.",
@@ -62,8 +68,9 @@
         "Drain the vegetables into a warm bowl, then add the water chestnuts and tomatoes, shallots and chives. Drizzle over the salad dressing and mix until well combined.",
         "Serve the salad alongside the beef."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef in oyster sauce",
     "videos": "[]"
 }

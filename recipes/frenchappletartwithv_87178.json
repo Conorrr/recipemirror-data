@@ -1,26 +1,31 @@
 {
-    "title": "Apple tart with vanilla ice cream",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "vanilla ice cream",
+            "icing sugar, for dusting"
+        ],
         "default": [
             "3 Bramley apples, peeled, cores removed, roughly chopped",
             "2 tbsp water",
@@ -29,11 +34,13 @@
             "2 Bramley apples, peeled, cores removed, thinly sliced",
             "75g/3oz butter, melted",
             "4 tbsp caster sugar"
-        ],
-        "To serve": [
-            "vanilla ice cream",
-            "icing sugar, for dusting"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 6-8",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -47,8 +54,9 @@
         "Transfer to the oven to bake for 25-30 minutes, until the pastry is golden-brown and the apples are caramelised.",
         "To serve, cut out slices and place into the centre of plates with a ball of ice cream placed alongside. Dust with icing sugar and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Apple tart with vanilla ice cream",
     "videos": "[]"
 }

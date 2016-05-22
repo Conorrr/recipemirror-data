@@ -1,24 +1,27 @@
 {
-    "title": "Chicken chasseur with creamy mash",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "45",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/_chicken_chasseur_with_19163_16x9.jpg"
-    ],
-    "description": "This classic French dish is a winner as an easy supper that\u2019s good enough to give to guests. Serve it with a crisp green salad.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "French",
+    "description": "This classic French dish is a winner as an easy supper that\u2019s good enough to give to guests. Serve it with a crisp green salad.",
+    "dishes": [
+        "caramel",
+        "jam",
+        "pie",
+        "salad",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "jointing_chicken",
+        "de-skinning_tomatoes"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/_chicken_chasseur_with_19163_16x9.jpg"
     ],
     "ingredients": {
         "For the chicken": [
@@ -44,6 +47,12 @@
             "125ml/4fl oz full fat milk"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "45",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "Season the chicken with salt and freshly ground black pepper then toss in the flour to coat.",
         "Heat a large saut\u00e9 pan until hot, add the oil and half the butter then fry the chicken pieces, skin side down, for 1-2 minutes until golden-brown. Turn the chicken and fry on the other side for another 1-2 minutes.",
@@ -56,9 +65,9 @@
         "When the chicken is cooked, add the tomatoes and flat leaf parsley, check the seasoning then simmer for a further two minutes before serving.",
         "Serve two pieces of chicken per person with the sauce spooned over and a dollop of mash alongside."
     ],
-    "howTos": [
-        "jointing_chicken",
-        "de-skinning_tomatoes"
+    "tips": [
+        
     ],
+    "title": "Chicken chasseur with creamy mash",
     "videos": "[]"
 }

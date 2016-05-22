@@ -1,26 +1,29 @@
 {
-    "title": "Green bean and beansprout salad",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "the_vegetarian_society": "The Vegetarian Society"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the garnish": [
+            "3 spring onions, shredded finely",
+            "a few sprigs fresh coriander and basil leaves",
+            "1 tbsp sesame seeds, toasted"
+        ],
         "default": [
             "225g/8oz fine green beans, topped and tailed",
             "100g/4oz mangetout, shredded diagonally",
@@ -33,12 +36,13 @@
             "1 tsp raw brown sugar",
             "1 tbsp fresh coriander leaves, chopped roughly",
             "1 tbsp Thai basil, chopped roughly"
-        ],
-        "For the garnish": [
-            "3 spring onions, shredded finely",
-            "a few sprigs fresh coriander and basil leaves",
-            "1 tbsp sesame seeds, toasted"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Steam the green beans and mangetout for 3 minutes. Place in a colander and refresh under cold running water. Drain.",
@@ -46,8 +50,9 @@
         "In a small bowl mix together the vinegar, soy sauce, sesame oil, and sugar. Stir in the coriander and basil leaves, pour over the salad ingredients and toss together well.",
         "Transfer to a serving platter and scatter over the spring onions, herb leaves and toasted sesame seeds."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Green bean and beansprout salad",
     "videos": "[]"
 }

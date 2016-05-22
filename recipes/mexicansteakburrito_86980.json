@@ -1,24 +1,25 @@
 {
-    "title": "Mexican steak burrito",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "12",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mexicansteakburrito_86980_16x9.jpg"
-    ],
-    "description": "A fast, healthy alternative to heavy Mexican dishes, this burrito is mostly an assembly job of all your favourites.",
     "author": {
         "angela_hartnett": "Angela Hartnett"
     },
-    "show": {
-        "b007zn94": "Take on the Takeaway"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Mexican",
+    "description": "A fast, healthy alternative to heavy Mexican dishes, this burrito is mostly an assembly job of all your favourites.",
+    "dishes": [
+        "guacamole",
+        "pie",
+        "salsa",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mexicansteakburrito_86980_16x9.jpg"
     ],
     "ingredients": {
         "For the guacamole": [
@@ -28,11 +29,6 @@
             "1 small red chilli, seeds removed, finely chopped",
             "1 lime, juice only",
             "salt and freshly ground black pepper"
-        ],
-        "For the tomato salsa": [
-            "2 medium ripe tomatoes, chopped",
-            "\u00bd onion, peeled and finely chopped",
-            "small handful fresh coriander, chopped"
         ],
         "For the steak filling": [
             "2 tbsp vegetable oil (or 40g/1\u00bdoz lard)",
@@ -45,6 +41,11 @@
             "pinch cayenne pepper",
             "small handful fresh coriander, chopped"
         ],
+        "For the tomato salsa": [
+            "2 medium ripe tomatoes, chopped",
+            "\u00bd onion, peeled and finely chopped",
+            "small handful fresh coriander, chopped"
+        ],
         "To serve": [
             "2 ready-made soft flour tortillas, warmed briefly in a hot dry pan",
             "1 Little Gem lettuce, finely sliced",
@@ -52,6 +53,12 @@
             "75g/2\u00bdoz cheddar cheese, grated",
             "100ml/3\u00bdfl oz soured cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Serves 2",
+    "show": {
+        "b007zn94": "Take on the Takeaway"
     },
     "steps": [
         "For the guacamole, place the avocados in a bowl with the garlic, onion and chilli and mash together roughly with a fork.",
@@ -63,8 +70,9 @@
         "To assemble the burrito, place the warmed tortillas on serving plates and divide the steak between them. Top with salsa and lettuce and fold to enclose the filling.",
         "Serve the burrito with rice, grated cheese, soured cream and a spoonful of the guacamole."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mexican steak burrito",
     "videos": "[]"
 }

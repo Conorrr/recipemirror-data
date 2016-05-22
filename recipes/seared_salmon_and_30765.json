@@ -1,31 +1,25 @@
 {
-    "title": "Seared salmon and chorizo salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "8",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/seared_salmon_and_30765_16x9.jpg"
-    ],
-    "description": "The smoky, paprika flavour of chorizo adds a spicy kick to this healthy salmon salad.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "The smoky, paprika flavour of chorizo adds a spicy kick to this healthy salmon salad.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "warm_salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/seared_salmon_and_30765_16x9.jpg"
+    ],
     "ingredients": {
-        "For the salmon": [
-            "olive oil",
-            "300g/10\u00bdoz chorizo, cut into 0.5cm/\u00bcin rounds",
-            "300g/10\u00bdoz salmon fillet, cut into thin strips"
-        ],
         "For the dressing": [
             "50ml/2fl oz sherry vinegar",
             "1 heaped tsp whole grain mustard",
@@ -37,7 +31,18 @@
             "100g/ 3\u00bdoz watercress",
             "1 shallot, finely sliced",
             "20 sunblush tomatoes"
+        ],
+        "For the salmon": [
+            "olive oil",
+            "300g/10\u00bdoz chorizo, cut into 0.5cm/\u00bcin rounds",
+            "300g/10\u00bdoz salmon fillet, cut into thin strips"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the salmon, preheat oven to 180C/350F/Gas 4.",
@@ -49,8 +54,9 @@
         "For the salad, mix the rocket, watercress and shallot together in a bowl and scatter the chorizo over the leaves.",
         "To serve, spoon the salad onto serving plates, top with the salmon pieces and tomatoes and drizzle with a little dressing."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Seared salmon and chorizo salad",
     "videos": "[]"
 }

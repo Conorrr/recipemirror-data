@@ -1,24 +1,22 @@
 {
-    "title": "Steak tartare",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/steaktartare_88981_16x9.jpg"
-    ],
-    "description": "Buy the best quality ingredients you can afford to make the most of this classic French dish made with raw steak.",
     "author": {
         "nigella_lawson": "Nigella Lawson"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "French",
+    "description": "Buy the best quality ingredients you can afford to make the most of this classic French dish made with raw steak.",
+    "dishes": [
+        "bread",
+        "sauce"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/steaktartare_88981_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,14 +32,21 @@
             "1 free-range egg yolk"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b00701fw": "A Taste of My Life"
+    },
     "steps": [
         "Place the chopped beef, gherkins, capers and shallot into a bowl and mix well.",
         "Add the mustard, Tabasco sauce, Worcestershire sauce, salt and freshly ground black pepper and mix well.",
         "To serve, spoon the steak tartare mixture onto a slice of plain or toasted dark rye or pumpernickel bread.",
         "Make a small dent in the top of the tartare and top with a fresh egg yolk. Eat immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steak tartare",
     "videos": "[]"
 }

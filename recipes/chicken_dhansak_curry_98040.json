@@ -1,26 +1,32 @@
 {
-    "title": "Chicken dhansak curry",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "23",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_dhansak_curry_98040_16x9.jpg"
-    ],
-    "description": "This traditional, Indian, high-protein dish is the perfect weekday supper to warm you up. If you don\u2019t fancy rice you could serve the curry with wholemeal flatbread, roti or salad. Leftovers will keep in the fridge for a day or can be frozen. With a GI of 50, this meal is high protein, low GI and provides 457 kcal per portion.",
     "author": {
         "justine_pattison": "Justine Pattison"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "This traditional, Indian, high-protein dish is the perfect weekday supper to warm you up. If you don\u2019t fancy rice you could serve the curry with wholemeal flatbread, roti or salad. Leftovers will keep in the fridge for a day or can be frozen. With a GI of 50, this meal is high protein, low GI and provides 457 kcal per portion.",
+    "dishes": [
+        "curry",
+        "flatbread",
+        "salad",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_dhansak_curry_98040_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "150g/5\u00bdoz fat-free natural yoghurt",
+            "1 tbsp roughly chopped fresh coriander leaves"
+        ],
         "default": [
             "low-calorie cooking spray",
             "2 onions, finely chopped",
@@ -34,11 +40,13 @@
             "100g/3\u00bdoz dried red split lentils, rinsed and drained",
             "2 bay leaves",
             "200g/7oz wholegrain long grain rice"
-        ],
-        "To serve": [
-            "150g/5\u00bdoz fat-free natural yoghurt",
-            "1 tbsp roughly chopped fresh coriander leaves"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "23",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Spray a wide-based saucepan or saut\u00e9 pan with oil and place over a medium heat. Cook the onions for five minutes, stirring regularly, until softened and very lightly browned.",
@@ -47,8 +55,9 @@
         "About 25 minutes before the curry is ready, cook the rice in plenty of boiling water until tender, then drain well.",
         "Season the curry to taste. Serve with the rice, topped with yoghurt and sprinkled with coriander."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken dhansak curry",
     "videos": "[]"
 }

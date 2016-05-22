@@ -1,29 +1,29 @@
 {
-    "title": "Gravad lax",
-    "cookTime": "no cooking required",
-    "prepTime": "overnight",
-    "serves": "Makes 1 whole fish",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hugh_fearnley-whittingstall": "Hugh Fearnley-Whittingstall"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "The quantity of the cure should be increased proportionately according to the size of your fish. The given amounts are sufficient for about six average size mackerel. Fish too big to fit in the fridge can be cured in a cool cellar or outhouse (provided it never exceeds 6C)."
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "bread",
+        "bun",
+        "pickle",
+        "pie",
+        "sandwich",
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 whole salmon, preferably wild or organic, (or sea trout, or large trout) about 2-4kg/4\u00bd-9lb"
-        ],
         "For the cure": [
             "2-3 large bunches fresh dill",
             "125g/4oz rough sea salt crystals",
@@ -37,7 +37,16 @@
             "1 tbsp sunflower oil",
             "2 tbsp cr\u00e8me fra\u00eeche",
             "1 tbsp wine vinegar"
+        ],
+        "default": [
+            "1 whole salmon, preferably wild or organic, (or sea trout, or large trout) about 2-4kg/4\u00bd-9lb"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "5",
+    "serves": "Makes 1 whole fish",
+    "show": {
+        
     },
     "steps": [
         "Gut and wipe clean the salmon then take two large fillets from each side, as close to the backbone as possible (use the carcass for stock or soup).",
@@ -48,8 +57,9 @@
         "At least one hour before you wish to serve the fish, combine all the ingredients for the dressing in a jar and shake well together. Leave to stand and shake again to emulsify before serving.",
         "To serve, unwrap the gravadlax and wipe off any excess pickling liquid. There is no need to scrape off the dill pieces though, as some recipes suggest. Slice fairly (but not too) thinly then serve with the sauce and buttered brown bread. (Unused gravadlax can be re-wrapped in clean cling film or foil and kept in the fridge for up to five days.)"
     ],
-    "howTos": [
-        
+    "tips": [
+        "The quantity of the cure should be increased proportionately according to the size of your fish. The given amounts are sufficient for about six average size mackerel. Fish too big to fit in the fridge can be cured in a cool cellar or outhouse (provided it never exceeds 6C)."
     ],
+    "title": "Gravad lax",
     "videos": "[]"
 }

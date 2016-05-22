@@ -1,26 +1,29 @@
 {
-    "title": "Borscht",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Borscht is a wonderfully vibrant beetroot soup, try the Hairy Bikers' simple version inspired by their travels around the Baltic sea.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b069hr3q": "The Hairy Bikers' Northern Exposure"
-    },
-    "tips": [
-        "This could easily be turned into a vegetarian dish, by using a mixture of vegetable stock and liquor from soaking dried mushrooms. You wouldn\u2019t need much dried mushrooms, just around 15g/\u00bdoz to add flavour, and they would just need to be finely chopped before adding to the soup at the same time as the cabbage."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "East_European",
+    "description": "Borscht is a wonderfully vibrant beetroot soup, try the Hairy Bikers' simple version inspired by their travels around the Baltic sea.",
+    "dishes": [
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "sour cream",
+            "1 tbsp finely chopped dill"
+        ],
         "default": [
             "1 tbsp vegetable oil",
             "15g/\u00bdoz butter",
@@ -34,11 +37,13 @@
             "\u00bd purple cabbage, finely shredded",
             "2 tomatoes, skinned, cored and chopped",
             "salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "sour cream",
-            "1 tbsp finely chopped dill"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4-6",
+    "show": {
+        "b069hr3q": "The Hairy Bikers' Northern Exposure"
     },
     "steps": [
         "Heat the vegetable oil and butter in a large, heavy-bottomed saucepan. Once melted add the carrot, celery and onion and cook gently for a few minutes. Add the beetroot, potato and garlic. Fry for a couple of minutes, until well coated and combined.",
@@ -46,8 +51,9 @@
         "Add the cabbage and tomatoes. Cover and leave to simmer for a further 20 minutes.",
         "Serve the soup with dollops of sour cream and a sprinkling of dill."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This could easily be turned into a vegetarian dish, by using a mixture of vegetable stock and liquor from soaking dried mushrooms. You wouldn\u2019t need much dried mushrooms, just around 15g/\u00bdoz to add flavour, and they would just need to be finely chopped before adding to the soup at the same time as the cabbage."
     ],
+    "title": "Borscht",
     "videos": "[p031ll9z:p031llb4]"
 }

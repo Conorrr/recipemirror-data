@@ -1,36 +1,23 @@
 {
-    "title": "Salmon, fennel and peanut salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 fennel bulb, including leaves",
-            "2 tbsp sea salt",
-            "1 tsp white peppercorns",
-            "2 bay leaves",
-            "4 x 175g/6oz salmon fillets",
-            "300g/10\u00bdoz fine beans, cooked",
-            "200g/7oz sugar-snap peas, cooked",
-            "salt and freshly ground black pepper"
-        ],
         "For the dressing": [
             "3 plum tomatoes",
             "2 anchovy fillets (either salted or fresh)",
@@ -41,7 +28,23 @@
             "1 red chilli, deseeded and finely chopped",
             "splash Thai fish sauce",
             "30g/1\u00bdoz roasted peanuts, crushed"
+        ],
+        "default": [
+            "1 fennel bulb, including leaves",
+            "2 tbsp sea salt",
+            "1 tsp white peppercorns",
+            "2 bay leaves",
+            "4 x 175g/6oz salmon fillets",
+            "300g/10\u00bdoz fine beans, cooked",
+            "200g/7oz sugar-snap peas, cooked",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "With a sharp knife or scissors, remove the leaves from the fennel. Place it, along with the salt, peppercorns and bay leaves, in a saucepan with about 600ml/1 pint of water. Set aside the fennel bulb to use later.",
@@ -52,8 +55,9 @@
         "Break the salmon into large chunks, then toss with the fennel. Add the beans and sugar snaps, and salt and freshly ground black pepper to taste.",
         "Pour over the dressing and arrange on a serving plate. Serve straightaway."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Salmon, fennel and peanut salad",
     "videos": "[]"
 }

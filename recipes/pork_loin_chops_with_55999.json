@@ -1,36 +1,25 @@
 {
-    "title": "Pork loin chops with apples, cider and creamy butter bean mash",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "11",
-    "images": [
-        
-    ],
-    "description": "Give free-range British pork the treatment it deserves with this indulgent cream and apple sauce from The Hairy Bikers.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00sy9ws": "The Hairy Bikers' Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Give free-range British pork the treatment it deserves with this indulgent cream and apple sauce from The Hairy Bikers.",
+    "dishes": [
+        "bun",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_cook_pork_chops"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pork": [
-            "2 pork loin chops, preferably British and free-range",
-            "2 tbsp olive oil",
-            "sea salt and freshly ground black pepper",
-            "knob of butter",
-            "1 English eating apple, cored and cut into wedges",
-            "4 fresh sage leaves, chopped",
-            "100ml/4fl oz dry cider",
-            "2 tbsp double cream"
-        ],
         "For the mash": [
             "1 tbsp olive oil",
             "knob of butter",
@@ -42,11 +31,27 @@
             "1 tsp wholegrain mustard",
             "1 tsp Dijon mustard"
         ],
+        "For the pork": [
+            "2 pork loin chops, preferably British and free-range",
+            "2 tbsp olive oil",
+            "sea salt and freshly ground black pepper",
+            "knob of butter",
+            "1 English eating apple, cored and cut into wedges",
+            "4 fresh sage leaves, chopped",
+            "100ml/4fl oz dry cider",
+            "2 tbsp double cream"
+        ],
         "For the spinach": [
             "small bunch spinach, washed and drained",
             "25g/1oz butter",
             "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 2",
+    "show": {
+        "b00sy9ws": "The Hairy Bikers' Cook Off"
     },
     "steps": [
         "For the pork, rub half the olive oil into the chops and season with sea salt and freshly ground black pepper. Heat the remaining oil and the butter in a frying pan over a medium heat then place the chops in the pan along with the wedges of apple and fry for 2-3 minutes or until golden-brown underneath.",
@@ -57,8 +62,9 @@
         "For the spinach, wilt the spinach in a hot pan with just the water clinging to its leaves then add the butter and stir until melted. Season, to taste, with salt and freshly ground black pepper.",
         "To serve, place the mash onto two warm plates and top with the spinach, followed by a pork chop. Spoon over the sauce and arrange the apples around the edge of the plates."
     ],
-    "howTos": [
-        "how_to_cook_pork_chops"
+    "tips": [
+        
     ],
+    "title": "Pork loin chops with apples, cider and creamy butter bean mash",
     "videos": "[]"
 }

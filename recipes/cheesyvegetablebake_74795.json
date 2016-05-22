@@ -1,24 +1,22 @@
 {
-    "title": "Cheesy vegetable bake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bread",
+        "gratin",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -35,6 +33,12 @@
             "3 tbsp breadcrumbs"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Place the carrots in the bottom of a medium-sized baking dish. Add the butter and a pinch of the garlic.",
         "Sprinkle over some of the grated emmental.",
@@ -44,8 +48,9 @@
         "Top with the breadcrumbs and bake the gratin in a preheated oven 190C/375F/Gas 5 for 45 minutes.",
         "Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cheesy vegetable bake",
     "videos": "[]"
 }

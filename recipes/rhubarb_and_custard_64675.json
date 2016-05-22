@@ -1,38 +1,31 @@
 {
-    "title": "Rhubarb and custard tarts",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 4 individual tarts",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Grenadine adds sweetness and a lovely pink colour to the rhubarb, but if you want to avoid alcohol you can use pomegranate juice instead. Equipment and preparation: for this recipe you will need four 10cm/4in tart rings.",
     "author": {
         "tom_kerridge": "Tom Kerridge"
     },
-    "show": {
-        "b0424667": "Spring Kitchen with Tom Kerridge"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Grenadine adds sweetness and a lovely pink colour to the rhubarb, but if you want to avoid alcohol you can use pomegranate juice instead. Equipment and preparation: for this recipe you will need four 10cm/4in tart rings.",
+    "dishes": [
+        "custard",
+        "custard_tart",
+        "marmalade",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry",
+        "lining_tin_with_pastry",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sweet pastry": [
-            "125g/4\u00bdoz unsalted butter",
-            "225g/8oz plain flour",
-            "20g/\u00beoz caster sugar",
-            "1 medium free-range egg"
-        ],
-        "For the custard": [
-            "750ml/1\u2153 pints double cream",
-            "2 vanilla pods, slit in half lengthways and seeds scraped out",
-            "100g/3\u00bdoz sugar",
-            "4 medium free-range eggs"
-        ],
         "For the baked rhubarb": [
             "500g/1lb 2oz medium-sized rhubarb",
             "50ml/2fl oz grenadine",
@@ -40,7 +33,25 @@
             "1 orange, juice only",
             "2 tbsp orange marmalade",
             "clotted cream, to serve"
+        ],
+        "For the custard": [
+            "750ml/1\u2153 pints double cream",
+            "2 vanilla pods, slit in half lengthways and seeds scraped out",
+            "100g/3\u00bdoz sugar",
+            "4 medium free-range eggs"
+        ],
+        "For the sweet pastry": [
+            "125g/4\u00bdoz unsalted butter",
+            "225g/8oz plain flour",
+            "20g/\u00beoz caster sugar",
+            "1 medium free-range egg"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Makes 4 individual tarts",
+    "show": {
+        "b0424667": "Spring Kitchen with Tom Kerridge"
     },
     "steps": [
         "For the sweet pastry, preheat the oven to 170C/340F/Gas 3.",
@@ -59,10 +70,9 @@
         "To make a glaze, heat the marmalade with the rhubarb cooking juices until the volume of liquid has reduced to a thick syrup. Leave to cool slightly and then brush over the rhubarb in the tart. Leave to set out of the fridge.",
         "Serve the finished tarts with a spoonful of clotted cream and a drizzle of the glaze."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry",
-        "lining_tin_with_pastry",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Rhubarb and custard tarts",
     "videos": "[]"
 }

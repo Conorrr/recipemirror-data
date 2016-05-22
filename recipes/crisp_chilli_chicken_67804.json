@@ -1,34 +1,28 @@
 {
-    "title": "Crisp chilli chicken",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Give chicken the Middle Eastern treatment with the enchanting spices of za'atar and sumac. Serve with a zesty homemade mayonnaise for a special supper.",
     "author": {
         "selin_kiazim": "Selin Kiazim"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Turkish_and_Middle_Eastern",
+    "description": "Give chicken the Middle Eastern treatment with the enchanting spices of za'atar and sumac. Serve with a zesty homemade mayonnaise for a special supper.",
+    "dishes": [
+        "bread",
+        "caramel",
+        "mayonnaise",
+        "oven-baked_dishes",
+        "pickle",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_make_mayonnaise_using_a_food_processor"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the za'atar crumb": [
-            "300g/10\u00bd oz fine breadcrumbs, dried",
-            "80g/2\u00beoz za\u2019atar",
-            "20g/\u00beoz sumac",
-            "1 tbsp sesame seeds, lightly toasted",
-            "chicken skin, from 1 chicken",
-            "flaky sea salt, to taste"
-        ],
         "For the brine": [
             "50g/1\u00beoz fine salt",
             "1 tsp sweet smoked paprika"
@@ -52,9 +46,23 @@
             "squeeze lime juice",
             "1 heaped tbsp lime pickle"
         ],
+        "For the za'atar crumb": [
+            "300g/10\u00bd oz fine breadcrumbs, dried",
+            "80g/2\u00beoz za\u2019atar",
+            "20g/\u00beoz sumac",
+            "1 tbsp sesame seeds, lightly toasted",
+            "chicken skin, from 1 chicken",
+            "flaky sea salt, to taste"
+        ],
         "To serve": [
             "1 lime, cut into wedges"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Take all the skin off the chicken pieces except for the wings. Put on a baking tray and cook for approximately 40-50 minutes or until golden and crisp. Tip the fat out of the tray a few times whilst cooking. Once the skin has cooled finely chop into little pieces. Turn the oven up to 200C/180C Fan/Gas 6.",
@@ -66,8 +74,9 @@
         "Meanwhile make the crumb, combine all of the ingredients and place on a tray.",
         "Once the chicken is cooked through and glazed well take out of the oven. Coat the chicken in the crumb. Serve with the lime mayo on the side and wedges of lime."
     ],
-    "howTos": [
-        "how_to_make_mayonnaise_using_a_food_processor"
+    "tips": [
+        
     ],
+    "title": "Crisp chilli chicken",
     "videos": "[]"
 }

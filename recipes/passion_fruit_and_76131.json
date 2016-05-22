@@ -1,26 +1,69 @@
 {
-    "title": "Passion fruit and chocolate tart",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 1 large tart",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Rich chocolate mousse and ganache is balanced with the tangy citrus flavours of passionfruit in this extravagant tart. For this recipe you will need a piping bag fitted with a 1cm/\u00bdin plain nozzle and an electric mixer.",
     "author": {
         "flora": "Flora"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Rich chocolate mousse and ganache is balanced with the tangy citrus flavours of passionfruit in this extravagant tart. For this recipe you will need a piping bag fitted with a 1cm/\u00bdin plain nozzle and an electric mixer.",
+    "dishes": [
+        "chocolate_tart",
+        "icing",
+        "jelly",
+        "marshmallow",
+        "mousse",
+        "oven-baked_dishes",
+        "pastry",
+        "sandwich",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry",
+        "whipping_cream",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the buttercream": [
+            "50g/1\u00beoz butter",
+            "125g/4\u00bdoz icing sugar",
+            "1 tbsp sieved passion fruit"
+        ],
+        "For the chocolate mousse layer": [
+            "200g/7oz milk chocolate drops",
+            "50g/1\u00beoz dark chocolate drops",
+            "50g/1\u00beoz unsalted butter",
+            "150g/5\u00bdoz mini white marshmallows",
+            "200ml/7fl oz double cream"
+        ],
+        "For the macarons": [
+            "40g/1\u00bdoz ground almonds",
+            "60g/2\u00bcoz icing sugar",
+            "1 large free-range egg white",
+            "1 tbsp caster sugar",
+            "orange or yellow gel or paste food colouring"
+        ],
+        "For the passion fruit ganache": [
+            "50ml/2fl oz double cream",
+            "200g/7oz dark chocolate drops",
+            "50ml/2fl oz sieved passion fruit"
+        ],
+        "For the passion fruit jelly": [
+            "100g/3\u00bdoz caster sugar",
+            "3 large passion fruits, seeds scooped out",
+            "3 gelatine leaves, soaked in cold water for 10 minutes"
+        ],
+        "For the passion fruit layer": [
+            "125ml/4fl oz double cream",
+            "4 tbsp sieved passion fruit",
+            "2 free-range egg yolks",
+            "1 large free-range egg",
+            "55g/2oz caster sugar"
+        ],
         "For the pastry": [
             "270g/9\u00beoz plain flour, plus extra for dusting",
             "30g/1oz cocoa powder",
@@ -30,45 +73,15 @@
             "1 medium free-range egg",
             "1 free-range egg white, for egg wash"
         ],
-        "For the macarons": [
-            "40g/1\u00bdoz ground almonds",
-            "60g/2\u00bcoz icing sugar",
-            "1 large free-range egg white",
-            "1 tbsp caster sugar",
-            "orange or yellow gel or paste food colouring"
-        ],
-        "For the passion fruit layer": [
-            "125ml/4fl oz double cream",
-            "4 tbsp sieved passion fruit",
-            "2 free-range egg yolks",
-            "1 large free-range egg",
-            "55g/2oz caster sugar"
-        ],
-        "For the chocolate mousse layer": [
-            "200g/7oz milk chocolate drops",
-            "50g/1\u00beoz dark chocolate drops",
-            "50g/1\u00beoz unsalted butter",
-            "150g/5\u00bdoz mini white marshmallows",
-            "200ml/7fl oz double cream"
-        ],
-        "For the passion fruit jelly": [
-            "100g/3\u00bdoz caster sugar",
-            "3 large passion fruits, seeds scooped out",
-            "3 gelatine leaves, soaked in cold water for 10 minutes"
-        ],
-        "For the buttercream": [
-            "50g/1\u00beoz butter",
-            "125g/4\u00bdoz icing sugar",
-            "1 tbsp sieved passion fruit"
-        ],
-        "For the passion fruit ganache": [
-            "50ml/2fl oz double cream",
-            "200g/7oz dark chocolate drops",
-            "50ml/2fl oz sieved passion fruit"
-        ],
         "To finish": [
             "small yellow and purple edible pansies (optional)"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Makes 1 large tart",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the pastry, put all the ingredients, except the egg white, in a food processor and briefly blitz to combine. Add a few drops of water and pulse to bring the dough together. Cover with cling film and chill for 20 minutes.",
@@ -87,10 +100,9 @@
         "For the passion fruit ganache, heat the cream in a pan then add the chocolate drops. When the chocolate is melted, stir in the passion fruit, leave to cool slightly then smooth on top of the chocolate mousse and chill in the fridge until set.",
         "To assemble the tart, cut the jelly into cubes. Decorate the top of the tart with the macarons, some squares of jelly and pansies."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry",
-        "whipping_cream",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Passion fruit and chocolate tart",
     "videos": "[]"
 }

@@ -1,34 +1,25 @@
 {
-    "title": "Salt-baked leg of lamb with salsa verde",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "12",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/salt-baked_leg_of_lamb_10556_16x9.jpg"
-    ],
-    "description": "Baking the lamb, rather than roasting, gives it a different texture and taste. Cooking on the bone stops the muscles in the leg retracting and squeezing out the moisture, and combined with the effects of the steam generated inside the salt crust, and the salt absorbed during cooking, this lamb is incredibly moist and tender. Serve with salsa verde, or mint sauce if you prefer.",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b036zkh2": "Raymond Blanc: How to Cook Well"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Baking the lamb, rather than roasting, gives it a different texture and taste. Cooking on the bone stops the muscles in the leg retracting and squeezing out the moisture, and combined with the effects of the steam generated inside the salt crust, and the salt absorbed during cooking, this lamb is incredibly moist and tender. Serve with salsa verde, or mint sauce if you prefer.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "salsa",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/salt-baked_leg_of_lamb_10556_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "4 tbsp vegetable oil",
-            "2.5-3kg/5lb 8oz-6lb 8oz leg of lamb, bone in"
-        ],
-        "For the salt crust": [
-            "1.25kg/2lb 12oz table salt (without anti-caking additives)",
-            "175g/6oz free-range egg white (about 4-5 large egg whites)"
-        ],
         "For the salsa verde": [
             "1 garlic clove, crushed to a paste",
             "2 anchovy fillets, finely chopped",
@@ -36,7 +27,21 @@
             "10g/\u00bcoz fresh mint, chopped",
             "4 tbsp extra-virgin olive oil",
             "\u00bd tsp red wine vinegar"
+        ],
+        "For the salt crust": [
+            "1.25kg/2lb 12oz table salt (without anti-caking additives)",
+            "175g/6oz free-range egg white (about 4-5 large egg whites)"
+        ],
+        "default": [
+            "4 tbsp vegetable oil",
+            "2.5-3kg/5lb 8oz-6lb 8oz leg of lamb, bone in"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Serves 6-8",
+    "show": {
+        "b036zkh2": "Raymond Blanc: How to Cook Well"
     },
     "steps": [
         "Remove the lamb from the fridge about three hours before you wish to cook it to allow it to rise to room temperature to get an even bake.",
@@ -50,8 +55,9 @@
         "For the salsa verde, place all the ingredients into a pestle and mortar and pound together until smooth and emulsified.",
         "To serve, using a sharp serrated knife cut the crust around the base of the leg and lift off the top part of the crust in one piece. Lift the leg from the base of the crust onto a chopping board. Carve into slices and serve with the salsa verde."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salt-baked leg of lamb with salsa verde",
     "videos": "[]"
 }

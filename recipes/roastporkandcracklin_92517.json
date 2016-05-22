@@ -1,38 +1,27 @@
 {
-    "title": "Roast pork and crackling with fruity red cabbage",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "",
+    "dishes": [
+        "jam",
+        "jelly",
+        "oven-baked_dishes",
+        "roast_pork",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "carving_pork"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
         "For roast pork and crackling": [
-            "1.5kg/3lb 4oz pork loin, skin and fat scored diagonally several times using a very sharp knife",
-            "3 tbsp olive oil",
-            "1 tbsp sea salt flakes",
-            "freshly ground black pepper",
-            "25g/1oz butter, softened",
-            "25g/1oz plain flour",
-            "2 Bramley apples, or similar cooking apples, peeled, cores removed, roughly chopped",
-            "1-2 tbsp water",
-            "1-2 tsp caster sugar, to taste"
-        ],
-        "default": [
             "1.5kg/3lb 4oz pork loin, skin and fat scored diagonally several times using a very sharp knife",
             "3 tbsp olive oil",
             "1 tbsp sea salt flakes",
@@ -54,7 +43,24 @@
             "5 tbsp ready-made redcurrant jelly",
             "2 tbsp red wine vinegar",
             "salt and freshly ground black pepper"
+        ],
+        "default": [
+            "1.5kg/3lb 4oz pork loin, skin and fat scored diagonally several times using a very sharp knife",
+            "3 tbsp olive oil",
+            "1 tbsp sea salt flakes",
+            "freshly ground black pepper",
+            "25g/1oz butter, softened",
+            "25g/1oz plain flour",
+            "2 Bramley apples, or similar cooking apples, peeled, cores removed, roughly chopped",
+            "1-2 tbsp water",
+            "1-2 tsp caster sugar, to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 230C/475F/Gas 8.",
@@ -70,8 +76,9 @@
         "Remove the lid and cook for a further 5-8 minutes over a high heat, or until the liquid has evaporated and the red cabbage is slightly sticky and glossy. Season, to taste, with salt and freshly ground black pepper.",
         "To serve, carve the pork into thick slices. Pile the red cabbage into the centre of each serving plate, top with a few slices of crackling-coated pork, spoon the pan juices around the edge of the plate and finish with a spoonful of apple pur\u00e9e."
     ],
-    "howTos": [
-        "carving_pork"
+    "tips": [
+        
     ],
+    "title": "Roast pork and crackling with fruity red cabbage",
     "videos": "[]"
 }

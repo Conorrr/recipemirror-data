@@ -1,35 +1,29 @@
 {
-    "title": "Malaysian-style chicken curry",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-5",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/malaysian-style_chicken_98338_16x9.jpg"
-    ],
-    "description": "This coconut-rich, slow-cooked curry is a doddle to prepare for the family and full of kid-friendly vegetables. Equipment and preparation: For this recipe, you will need a 4.5 litre/8 pint slow-cooker.",
     "author": {
         "justine_pattison": "Justine Pattison"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "Tip 1: If preferred, substitute the green beans with a sliced pepper. Tip 2: It's important to use waxy potatoes because floury potatoes will fall apart during the long cooking time."
+    "cookTime": "over 2 hours",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "This coconut-rich, slow-cooked curry is a doddle to prepare for the family and full of kid-friendly vegetables. Equipment and preparation: For this recipe, you will need a 4.5 litre/8 pint slow-cooker.",
+    "dishes": [
+        "chicken_curry",
+        "curry",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/malaysian-style_chicken_98338_16x9.jpg"
+    ],
     "ingredients": {
-        "For the curry paste": [
-            "2 onions, quartered",
-            "20g/\u00beoz fresh root ginger, peeled, coarsely grated",
-            "6 garlic cloves, peeled",
-            "2 tbsp medium curry powder",
-            "1 tsp dried chilli flakes",
-            "1 tsp ground turmeric",
-            "2 tbsp sunflower oil"
-        ],
         "For the curry": [
             "8 chicken thighs, boned, skinned, halved",
             "1 cinnamon stick",
@@ -40,7 +34,22 @@
             "400ml tin coconut milk",
             "150g/5oz green beans, trimmed and cut in half",
             "freshly ground black pepper"
+        ],
+        "For the curry paste": [
+            "2 onions, quartered",
+            "20g/\u00beoz fresh root ginger, peeled, coarsely grated",
+            "6 garlic cloves, peeled",
+            "2 tbsp medium curry powder",
+            "1 tsp dried chilli flakes",
+            "1 tsp ground turmeric",
+            "2 tbsp sunflower oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4-5",
+    "show": {
+        
     },
     "steps": [
         "Put all of the curry paste ingredients in a food processor and blend. You will need to remove the lid and push the mixture down a couple of times using a rubber spatula.",
@@ -52,8 +61,9 @@
         "Cover and cook on high for 3 hours, or until the chicken and vegetables are tender and the sauce has thickened. Just before the end of the cooking time, stir in the green beans.",
         "Serve the curry just as it is, or with small portions of steamed rice."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Tip 1: If preferred, substitute the green beans with a sliced pepper. Tip 2: It's important to use waxy potatoes because floury potatoes will fall apart during the long cooking time."
     ],
+    "title": "Malaysian-style chicken curry",
     "videos": "[]"
 }

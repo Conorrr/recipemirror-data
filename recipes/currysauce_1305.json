@@ -1,24 +1,24 @@
 {
-    "title": "Curry sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1/4 pint",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "curry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -36,6 +36,12 @@
             "juice of half a lemon"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 1/4 pint",
+    "show": {
+        
+    },
     "steps": [
         "Heat the oil and cook the onion until soft.",
         "Add the garlic and cook for another 2 minutes.",
@@ -43,8 +49,9 @@
         "Stir in the double cream and bring to the boil.",
         "Add salt and lemon juice to taste."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Curry sauce",
     "videos": "[]"
 }

@@ -1,34 +1,32 @@
 {
-    "title": "Goujons of sole with lemon",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "bread",
+        "goujons",
+        "jam",
+        "mayonnaise",
+        "pie",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "125g/4\u00bdoz fresh fine breadcrumbs",
-            "\u00bd tsp cayenne pepper",
-            "450g/1lb sole or lemon sole fillets, skinned",
-            "sunflower oil, for frying",
-            "50g/2oz plain flour",
-            "3 free-range eggs, beaten",
-            "2 lemons, cut into wedges"
+        "For the salad dressing": [
+            "1 lemon, juice only",
+            "4 tbsp olive oil",
+            "1 bag of mixed salad leaves"
         ],
         "For the tartare sauce": [
             "100g/4oz mayonnaise",
@@ -37,11 +35,21 @@
             "1 tbsp flatleaf parsley",
             "salt and freshly ground black pepper"
         ],
-        "For the salad dressing": [
-            "1 lemon, juice only",
-            "4 tbsp olive oil",
-            "1 bag of mixed salad leaves"
+        "default": [
+            "125g/4\u00bdoz fresh fine breadcrumbs",
+            "\u00bd tsp cayenne pepper",
+            "450g/1lb sole or lemon sole fillets, skinned",
+            "sunflower oil, for frying",
+            "50g/2oz plain flour",
+            "3 free-range eggs, beaten",
+            "2 lemons, cut into wedges"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Mix the breadcrumbs with the cayenne pepper and leave to one side.",
@@ -54,8 +62,9 @@
         "To make the salad dressing mix the lemon juice and olive oil together. Dress the mixed salad leaves with it.",
         "Pile the goujons in a dish or on plates, and serve with the wedges of lemon, tartare sauce and salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Goujons of sole with lemon",
     "videos": "[]"
 }

@@ -1,23 +1,25 @@
 {
-    "title": "Peanut chicken with satay sauce and little gem salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "James Martin makes homemade chicken satay with a twist.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "James Martin makes homemade chicken satay with a twist.",
+    "dishes": [
+        "bread",
+        "jam",
+        "pie",
+        "salad",
+        "satay",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -30,6 +32,14 @@
             "1 lime, quartered",
             "vegetable oil, for deep-frying"
         ],
+        "For the salad": [
+            "2 little gem lettuces, leaves separated",
+            "1 small red onion, finely sliced",
+            "110g/4oz radishes, finely sliced",
+            "3 tbsp finely sliced fresh mint leaves,",
+            "1 lime, juice only",
+            "2 tbsp vegetable oil"
+        ],
         "For the satay sauce": [
             "1 tbsp vegetable oil",
             "1 shallot, finely chopped",
@@ -40,15 +50,13 @@
             "1 lime, juice only",
             "1 tbsp soy sauce",
             "150g/5oz roasted, salted peanuts"
-        ],
-        "For the salad": [
-            "2 little gem lettuces, leaves separated",
-            "1 small red onion, finely sliced",
-            "110g/4oz radishes, finely sliced",
-            "3 tbsp finely sliced fresh mint leaves,",
-            "1 lime, juice only",
-            "2 tbsp vegetable oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Blend the peanuts and breadcrumbs in a food processor to a fine powder, sprinkle onto a plate. Sprinkle the flour onto a separate plate.",
@@ -62,8 +70,9 @@
         "Whisk the lime juice and vegetable oil in a bowl and mix with the salad until well combined.",
         "To serve, place some salad onto the plate, with the chicken strips alongside. Spoon the satay sauce into a small bowl and serve alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Peanut chicken with satay sauce and little gem salad",
     "videos": "[]"
 }

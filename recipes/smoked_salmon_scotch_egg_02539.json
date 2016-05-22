@@ -1,26 +1,34 @@
 {
-    "title": "Smoked salmon Scotch egg with chive beurre blanc",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Try this elegant Scotch egg with its delicate beurre blanc and a healthy dose of greens - perfect for a dinner party starter.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Try this elegant Scotch egg with its delicate beurre blanc and a healthy dose of greens - perfect for a dinner party starter.",
+    "dishes": [
+        "bread",
+        "jam",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_boil_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chive beurre blanc": [
+            "2 shallots, peeled, finely sliced",
+            "1 tbsp white wine vinegar",
+            "4 tbsp white wine",
+            "1 tbsp cold water",
+            "275g/10oz salted butter, cut into cubes",
+            "salt and freshly ground black pepper",
+            "4 tbsp chopped fresh chives"
+        ],
         "For the smoked salmon Scotch eggs": [
             "6 medium free-range eggs (for hard boiling), plus 2 extra, beaten",
             "225g/8oz cold smoked salmon, roughly chopped",
@@ -31,18 +39,15 @@
             "110g/4oz Japanese panko breadcrumbs (use ordinary breadcrumbs if unavailable)",
             "vegetable oil, for deep-frying"
         ],
-        "For the chive beurre blanc": [
-            "2 shallots, peeled, finely sliced",
-            "1 tbsp white wine vinegar",
-            "4 tbsp white wine",
-            "1 tbsp cold water",
-            "275g/10oz salted butter, cut into cubes",
-            "salt and freshly ground black pepper",
-            "4 tbsp chopped fresh chives"
-        ],
         "To serve": [
             "300g/11oz baby spinach leaves"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 6",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Bring a saucepan of water to the boil. Add the four whole eggs and boil for five minutes. Using a slotted spoon, remove the eggs from the saucepan and place into a bowl of iced water, then peel and remove the shells.",
@@ -59,8 +64,9 @@
         "Heat a frying pan until hot, add the remaining 50g/20z butter and the spinach and saut\u00e9 until wilted then season with a little salt, pepper and nutmeg.",
         "To serve, pile the spinach onto the plate. Cut the top off of the egg and nestle into the spinach. Spoon the chive beurre blanc around."
     ],
-    "howTos": [
-        "how_to_boil_eggs"
+    "tips": [
+        
     ],
+    "title": "Smoked salmon Scotch egg with chive beurre blanc",
     "videos": "[]"
 }

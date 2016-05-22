@@ -1,33 +1,25 @@
 {
-    "title": "Chicken alla Milanese",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "bread",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 medium chicken breasts, skinless and boneless",
-            "100g/3\u00bd plain flour",
-            "1 handful of fine breadcrumbs, toasted",
-            "2 eggs, beaten with salt and freshly ground black pepper",
-            "4 tbsp Italian extra virgin olive oil"
-        ],
         "For the sauce": [
             "4 fresh large plum tomatoes, chopped",
             "1 handful of pitted black olives, sliced",
@@ -39,7 +31,20 @@
             "2 pinches dried, crushed chilli",
             "500g/1lb 1\u00bdoz spinach leaves, washed",
             "salt and freshly ground black pepper, to taste"
+        ],
+        "default": [
+            "4 medium chicken breasts, skinless and boneless",
+            "100g/3\u00bd plain flour",
+            "1 handful of fine breadcrumbs, toasted",
+            "2 eggs, beaten with salt and freshly ground black pepper",
+            "4 tbsp Italian extra virgin olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "With the help of a meat mallet, beat the chicken breasts between two sheets of cling film until thin.",
@@ -50,8 +55,9 @@
         "To serve, put some spinach in the middle of a plate, place a chicken breast on top and spread two tablespoons of the cold tomato mixture on top.",
         "Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken alla Milanese",
     "videos": "[]"
 }

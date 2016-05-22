@@ -1,24 +1,23 @@
 {
-    "title": "Chargrilled T-bone steak with tomato chilli chutney",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chargrilled_t-bone_steak_64791_16x9.jpg"
-    ],
-    "description": "Chargrilled steak - who can resist? Served here with sweet and sharp tomato chutney and chargrilled figs.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Chargrilled steak - who can resist? Served here with sweet and sharp tomato chutney and chargrilled figs.",
+    "dishes": [
+        "chutney",
+        "jam",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chargrilled_t-bone_steak_64791_16x9.jpg"
     ],
     "ingredients": {
         "For the chutney": [
@@ -44,6 +43,12 @@
             "3 tbsp extra virgin olive oil"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "For the chutney, place the vinegar and sugar in a large saucepan and bring to the boil then cook for 3-4 minutes until the sugar has melted.",
         "Add all the other ingredients, bring to the boil and cook for about 20-30 minutes, stirring frequently. If the tomatoes are very juicy, you might need to cook for a little longer until the mixture starts to thicken.",
@@ -59,8 +64,9 @@
         "At the very last minute, toss the lettuce, shallots and figs together in a bowl with the dressing.",
         "To serve, for each person, place a steak onto a board, pile the salad alongside with a spoonful of chutney."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chargrilled T-bone steak with tomato chilli chutney",
     "videos": "[]"
 }

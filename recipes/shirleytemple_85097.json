@@ -1,24 +1,20 @@
 {
-    "title": "Shirley Temple",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "andy_pearson": "Andy Pearson"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "non-alcoholic_cocktail"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -27,12 +23,19 @@
             "1 maraschino cherry"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Pour the ginger ale into a highball glass and pour in the grenadine.",
         "Add a maraschino cherry and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Shirley Temple",
     "videos": "[]"
 }

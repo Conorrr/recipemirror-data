@@ -1,29 +1,57 @@
 {
-    "title": "Slow-cooked beef fillet with horseradish mash, wild mushroom tortellini and red wine sauce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "You will need a pasta machine for this recipe.",
     "author": {
         "john_campbell": "John Campbell"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "You will need a pasta machine for this recipe.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pasta",
+        "sauce",
+        "slow-cooked_dishes",
+        "stock",
+        "torte",
+        "tortellini"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading",
+        "rolling_pasta_dough",
+        "using_piping_bags"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For red wine sauce": [
+            "110g/4oz butter",
+            "250g/9oz sliced shallots",
+            "250g/9oz button mushrooms",
+            "500ml/18fl oz red wine, simmered in a pan until the volume of liquid has reduced to 200ml/7fl oz",
+            "500g/18fl oz beef stock",
+            "salt and freshly ground black pepper"
+        ],
         "For the beef": [
             "1 tbsp corn oil",
             "500g/1lb 2oz middle-cut well hung beef fillet"
+        ],
+        "For the cabbage": [
+            "\u00bd Savoy cabbage, finely sliced",
+            "40g/1\u00bdoz butter",
+            "1 carrot, finely diced",
+            "1 shallot, finely sliced",
+            "1 bay leaf",
+            "1 sprig thyme",
+            "250ml/9fl oz chicken stock",
+            "salt and freshly ground black pepper"
+        ],
+        "For the horseradish mash": [
+            "500g/1lb 2oz potato, peeled and cut into 5cm/2in cubes",
+            "200ml/7fl oz double cream",
+            "2-3 tsp grated fresh horseradish root, or to taste",
+            "salt and freshly ground black pepper"
         ],
         "For the pasta": [
             "550g/1lb 4oz '00' pasta flour, plus extra for dusting",
@@ -37,33 +65,15 @@
             "110g/4oz wild mushrooms, washed and pre-cooked",
             "1 tsp flatleaf parsley, chopped"
         ],
-        "For the horseradish mash": [
-            "500g/1lb 2oz potato, peeled and cut into 5cm/2in cubes",
-            "200ml/7fl oz double cream",
-            "2-3 tsp grated fresh horseradish root, or to taste",
-            "salt and freshly ground black pepper"
-        ],
-        "For the cabbage": [
-            "\u00bd Savoy cabbage, finely sliced",
-            "40g/1\u00bdoz butter",
-            "1 carrot, finely diced",
-            "1 shallot, finely sliced",
-            "1 bay leaf",
-            "1 sprig thyme",
-            "250ml/9fl oz chicken stock",
-            "salt and freshly ground black pepper"
-        ],
-        "For red wine sauce": [
-            "110g/4oz butter",
-            "250g/9oz sliced shallots",
-            "250g/9oz button mushrooms",
-            "500ml/18fl oz red wine, simmered in a pan until the volume of liquid has reduced to 200ml/7fl oz",
-            "500g/18fl oz beef stock",
-            "salt and freshly ground black pepper"
-        ],
         "To serve": [
             "watercress"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "7",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the beef, preheat the oven to 60C/140F/Gas \u00bc. Heat a frying pan until hot, then add the corn oil. Add the beef and fry until it has browned on all sides - this should take no more than two minutes in total.",
@@ -89,10 +99,9 @@
         "Pass the sauce through a sieve, return it to the pan and season, to taste, with salt and freshly ground black pepper.",
         "To serve, drain the cabbage of any excess liquid and place it in the centre of four bowls. Pipe a mound of mashed potato next to the cabbage. Carve the beef and place it next to the cabbage and mash. Place the tortellini next to the mash on top of the cabbage. Finish the dish with the red wine sauce and garnish with watercress."
     ],
-    "howTos": [
-        "kneading",
-        "rolling_pasta_dough",
-        "using_piping_bags"
+    "tips": [
+        
     ],
+    "title": "Slow-cooked beef fillet with horseradish mash, wild mushroom tortellini and red wine sauce",
     "videos": "[]"
 }

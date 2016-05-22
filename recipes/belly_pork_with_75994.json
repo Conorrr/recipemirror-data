@@ -1,26 +1,36 @@
 {
-    "title": "Belly pork with piccalilli pur\u00e9e",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Belly pork recipes tend to benefit from a slow cook. Sat Baines uses a water bath for his creation. Equipment and preparation: You\u2019ll need a temperature-controlled water bath and sous vide bags.",
     "author": {
         "sat_bains": "Sat Bains"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Belly pork recipes tend to benefit from a slow cook. Sat Baines uses a water bath for his creation. Equipment and preparation: You\u2019ll need a temperature-controlled water bath and sous vide bags.",
+    "dishes": [
+        "caramel",
+        "ham",
+        "piccalilli",
+        "pie",
+        "salad",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries",
+        "teriyaki"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the apples": [
+            "2 Granny Smith apples",
+            "2 tsp lemon juice",
+            "pinch salt",
+            "1 tbsp apple balsamic vinegar"
+        ],
         "For the belly pork": [
             "650g/1lb 6oz pork belly",
             "150g/5oz salt",
@@ -29,6 +39,13 @@
             "25ml/1fl oz mirin",
             "25ml/1fl oz sesame oil",
             "4 slices shonka ham (available from specialist butchers)"
+        ],
+        "For the cauliflower salad": [
+            "4 large cauliflower florets, thinly sliced on a mandolin",
+            "1 lemon, juice only",
+            "sea salt",
+            "3 tbsp coriander cress",
+            "1 tsp ground cumin"
         ],
         "For the piccallili": [
             "\u00bd cauliflower head, roughly chopped",
@@ -42,20 +59,13 @@
             "25g/1oz English mustard powder",
             "125g/4\u00bdoz sugar",
             "\u00bd cucumber, peeled, seeds removed"
-        ],
-        "For the apples": [
-            "2 Granny Smith apples",
-            "2 tsp lemon juice",
-            "pinch salt",
-            "1 tbsp apple balsamic vinegar"
-        ],
-        "For the cauliflower salad": [
-            "4 large cauliflower florets, thinly sliced on a mandolin",
-            "1 lemon, juice only",
-            "sea salt",
-            "3 tbsp coriander cress",
-            "1 tsp ground cumin"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Rub the meat side of the pork belly with the salt. Cover with clingfilm and chill in the fridge for 24 hours.",
@@ -74,8 +84,9 @@
         "For the cauliflower salad, mix the cauliflower with lemon juice and sea salt.",
         "To serve, brush the piccalilli across the plate. Add a piece of pork on top and scatter over the apple and finish with the cauliflower salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Belly pork with piccalilli pur\u00e9e",
     "videos": "[]"
 }

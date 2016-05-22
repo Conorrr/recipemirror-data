@@ -1,24 +1,21 @@
 {
-    "title": "Sage and onion stuffing",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "4-6",
-    "recommendations": "21",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sageonionstuffing_3580_16x9.jpg"
-    ],
-    "description": "Homemade stuffing is easy to make from everyday ingredients and makes Christmas dinner that much more special.",
     "author": {
         "mrs_beeton": "Mrs Beeton"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Homemade stuffing is easy to make from everyday ingredients and makes Christmas dinner that much more special.",
+    "dishes": [
+        "bread",
+        "stuffing"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sageonionstuffing_3580_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -30,6 +27,12 @@
             "1 egg"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "21",
+    "serves": "4-6",
+    "show": {
+        
+    },
     "steps": [
         "Peel the onions, put them into boiling water, let them simmer for 5 minutes or rather longer, and just before they are taken out, put in the sage-leaves for a minute or two to take off their rawness.",
         "Chop both these very fine, add the bread, seasoning and butter, and work the whole lot together with the yolk of an egg, when the stuffing will be ready for use.",
@@ -37,8 +40,9 @@
         "Many cooks do not parboil the onions in the manner just stated, but merely use them raw. The stuffing then, however is not nearly so mild, and to many tastes, its strong flavour would be very objectionable.",
         "When made for goose, a portion of the liver of the bird, simmered for a few minutes and very finely minced, is frequently added to this stuffing; and where economy is studied, the egg and butter may be dispensed with."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Sage and onion stuffing",
     "videos": "[]"
 }

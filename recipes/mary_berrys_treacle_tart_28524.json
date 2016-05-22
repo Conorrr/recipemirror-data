@@ -1,36 +1,42 @@
 {
-    "title": "Mary Berry\u2019s treacle tart with woven lattice top",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 8",
-    "recommendations": "45",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mary_berrys_treacle_tart_28524_16x9.jpg"
-    ],
-    "description": "Treacle tart is made with golden syrup, breadcrumbs and lemon to cut through the sweetness. Serve with cr\u00e8me fraiche.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "The breadcrumbs need to be fine fresh breadcrumbs, the bigger they are the lumpier the texture and consistency will be, and the mixture can burn/catch slightly when cooking."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Treacle tart is made with golden syrup, breadcrumbs and lemon to cut through the sweetness. Serve with cr\u00e8me fraiche.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mary_berrys_treacle_tart_28524_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pastry": [
-            "250g/9oz plain flour",
-            "130g/4\u00bdoz butter, plus extra for greasing"
-        ],
         "For the filling": [
             "400g/14oz golden syrup",
             "150g/5\u00bdoz fine fresh white breadcrumbs",
             "2 lemons, zest and juice",
             "1 free-range egg, beaten, to use as egg wash"
+        ],
+        "For the pastry": [
+            "250g/9oz plain flour",
+            "130g/4\u00bdoz butter, plus extra for greasing"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "45",
+    "serves": "Serves 8",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "First make the short crust pastry: measure the flour into a large bowl and rub in the butter with your fingertips until the mixture resembles fine breadcrumbs (alternatively, this can be done in a food processor). Add about three tablespoons of cold water and mix to a firm dough, wrap in cling film and chill in the fridge for about 20 minutes.",
@@ -49,8 +55,9 @@
         "Bake for a further 25-30 minutes until the pastry is golden-brown and the filling set.",
         "Remove the tart from the oven and leave to firm up in the tin. Serve warm or cold."
     ],
-    "howTos": [
-        
+    "tips": [
+        "The breadcrumbs need to be fine fresh breadcrumbs, the bigger they are the lumpier the texture and consistency will be, and the mixture can burn/catch slightly when cooking."
     ],
+    "title": "Mary Berry\u2019s treacle tart with woven lattice top",
     "videos": "[]"
 }

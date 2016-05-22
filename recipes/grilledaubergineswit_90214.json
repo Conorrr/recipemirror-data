@@ -1,38 +1,43 @@
 {
-    "title": "Grilled aubergines with miso",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/grilledaubergineswit_90214_16x9.jpg"
-    ],
-    "description": "This aubergine recipe is healthy and low fat, yet absolutely delicious! Serve with rice for a filling midweek meal.",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "This aubergine dish can be made on the barbecue, just keep an eye on it as the sweet mirin can burn."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Japanese",
+    "description": "This aubergine recipe is healthy and low fat, yet absolutely delicious! Serve with rice for a filling midweek meal.",
+    "dishes": [
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/grilledaubergineswit_90214_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "2 Japanese aubergines or 1 large purple aubergine",
-            "vegetable oil, for shallow frying",
-            "4 spring onions, green part only"
-        ],
         "For the miso topping": [
             "4 tbsp light (sweet) miso paste (available in some supermarkets and in Asian grocers)",
             "2 tsp sugar",
             "1 small knob fresh ginger",
             "1 tbsp shoyu or light soy sauce",
             "2 tbsp mirin"
+        ],
+        "default": [
+            "2 Japanese aubergines or 1 large purple aubergine",
+            "vegetable oil, for shallow frying",
+            "4 spring onions, green part only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 2",
+    "show": {
+        
     },
     "steps": [
         "Prepare the aubergines. Slice the aubergines in half lengthways, keeping the stem end intact.",
@@ -45,8 +50,9 @@
         "Finely slice the spring onions.",
         "Place the grilled aubergines onto a serving plate, scatter the finely sliced spring onions over the top and serve."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        "This aubergine dish can be made on the barbecue, just keep an eye on it as the sweet mirin can burn."
     ],
+    "title": "Grilled aubergines with miso",
     "videos": "[]"
 }

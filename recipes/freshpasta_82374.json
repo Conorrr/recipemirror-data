@@ -1,24 +1,23 @@
 {
-    "title": "Fresh pasta",
-    "cookTime": "less than 10 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "katie_and_giancarlo_caldesi": "Katie and Giancarlo Caldesi"
     },
-    "show": {
-        "p007b4jj": "Return to Tuscany"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "pasta",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading",
+        "rolling_pasta_dough"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -26,6 +25,12 @@
             "10 medium free-range eggs",
             "semolina, for dusting (optional)"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "6",
+    "serves": "",
+    "show": {
+        "p007b4jj": "Return to Tuscany"
     },
     "steps": [
         "Pour the flour into a mound onto a flat surface and make a well in the centre. Crack the eggs into the well and gradually mix with either a blunt knife or your hands. When the dough has become a thick paste use your hands to incorporate more of the flour.",
@@ -37,9 +42,9 @@
         "When cut, separate into individual pieces and toss with dried semolina or a little more flour to prevent the pasta sticking to itself. Leave it on a floured tray and cook within the hour. Repeat to use up the remaining dough.",
         "Cook in boiling salted water for 3-5 minutes, depending on the thickness of the strands or shapes."
     ],
-    "howTos": [
-        "kneading",
-        "rolling_pasta_dough"
+    "tips": [
+        
     ],
+    "title": "Fresh pasta",
     "videos": "[]"
 }

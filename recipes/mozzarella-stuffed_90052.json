@@ -1,31 +1,32 @@
 {
-    "title": "Mozzarella-stuffed chicken with roasted tomatoes, aubergines and basil pesto",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "Deeply savoury and crisp, this Italian-style fried chicken will please the whole family.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        "If you don\u2019t have a deep fat fryer, half-fill a deep, heavy-based saucepan with the oil and heat until a breadcrumb sizzles and turns golden-brown when dropped into it. (CAUTION: Hot oil can be dangerous. Do not leave unattended.)"
+    "cookTime": "over 2 hours",
+    "description": "Deeply savoury and crisp, this Italian-style fried chicken will please the whole family.",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "pesto",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the roasted tomatoes": [
-            "6 vine tomatoes, cut in half",
+        "For the aubergines": [
+            "2 aubergines, halved lengthways, cut into large pieces",
+            "3 sprigs fresh rosemary, leaves only",
             "2 tbsp olive oil",
-            "Salt and freshly ground black pepper",
-            "4 sprigs fresh thyme"
+            "Salt and freshly ground black pepper"
         ],
         "For the mozzarella-stuffed chicken": [
             "4 skinless chicken breasts, wing bone attached",
@@ -35,19 +36,25 @@
             "75g/3oz Japanese panko breadcrumbs (available from Japanese grocers), or dried breadcrumbs",
             "Vegetable oil, for deep frying"
         ],
-        "For the aubergines": [
-            "2 aubergines, halved lengthways, cut into large pieces",
-            "3 sprigs fresh rosemary, leaves only",
-            "2 tbsp olive oil",
-            "Salt and freshly ground black pepper"
-        ],
         "For the pesto": [
             "60g/2\u00bd oz fresh basil leaves",
             "50g/2oz pine nuts, toasted",
             "50g/2oz parmesan, freshly grated",
             "2 garlic cloves",
             "125-175ml/4\u00bd -5fl oz extra virgin olive oil, to taste"
+        ],
+        "For the roasted tomatoes": [
+            "6 vine tomatoes, cut in half",
+            "2 tbsp olive oil",
+            "Salt and freshly ground black pepper",
+            "4 sprigs fresh thyme"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the roasted tomatoes, preheat the oven to 150C/300F/Gas 1.",
@@ -65,8 +72,9 @@
         "Add olive oil to loosen the mixture and blend again until well combined.",
         "To serve, place one mozzarella-stuffed chicken breast into the centre of each of four serving plates. Pile the aubergines and roasted tomatoes alongside. Drizzle over the pesto."
     ],
-    "howTos": [
-        
+    "tips": [
+        "If you don\u2019t have a deep fat fryer, half-fill a deep, heavy-based saucepan with the oil and heat until a breadcrumb sizzles and turns golden-brown when dropped into it. (CAUTION: Hot oil can be dangerous. Do not leave unattended.)"
     ],
+    "title": "Mozzarella-stuffed chicken with roasted tomatoes, aubergines and basil pesto",
     "videos": "[]"
 }

@@ -1,26 +1,31 @@
 {
-    "title": "Kidney bean curry (rajma)",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "9",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/kidney_bean_curry_rajma_57839_16x9.jpg"
-    ],
-    "description": "One of the surprising things I discovered on my journey through India and staying, I have to confess, in nice hotels, was that the cooking in such places was actually very good, even the buffets, where you are presented with, say, twenty curries, the majority of them vegetarian. Rajma would be included in the buffet of every one of those hotels in the north of India, and with dishes like these I would have no problem being a vegetarian. This meal, if served as eight portions, provides 221kcal, 11g protein, 24g carbohydrate (of which 5g sugars), 7g fat (of which 1.5g saturates), 10g fibre and 0.7g salt.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b033rhzh": "Rick Stein's India"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Indian",
+    "description": "One of the surprising things I discovered on my journey through India and staying, I have to confess, in nice hotels, was that the cooking in such places was actually very good, even the buffets, where you are presented with, say, twenty curries, the majority of them vegetarian. Rajma would be included in the buffet of every one of those hotels in the north of India, and with dishes like these I would have no problem being a vegetarian. This meal, if served as eight portions, provides 221kcal, 11g protein, 24g carbohydrate (of which 5g sugars), 7g fat (of which 1.5g saturates), 10g fibre and 0.7g salt.",
+    "dishes": [
+        "casserole",
+        "curry",
+        "gravy",
+        "stir-fries",
+        "vegetable_curry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/kidney_bean_curry_rajma_57839_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "boiled basmati rice",
+            "lime wedges"
+        ],
         "default": [
             "350g/12oz dried red kidney beans, soaked overnight with cold water to cover",
             "1 tsp ground turmeric",
@@ -32,19 +37,22 @@
             "1 tsp Kashmiri chilli powder",
             "1 tsp garam masala",
             "125ml/4fl oz thick Greek-style yogurt"
-        ],
-        "To serve": [
-            "boiled basmati rice",
-            "lime wedges"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 6-8",
+    "show": {
+        "b033rhzh": "Rick Stein's India"
     },
     "steps": [
         "Drain the soaked beans, put them in a heavy casserole pot, cover with fresh water and sprinkle in the turmeric. Place over a medium heat, bring to a simmer, then lower the heat and simmer uncovered for 1-1\u00bd hours, or until the beans are tender, topping up with water if the pot starts to look dry.",
         "Heat the oil in a large pan or karahi over a medium heat and fry the onions, garlic and ginger for 10 minutes or until tinged golden-brown. Add the salt, chilli powder and garam masala and fry for 30 seconds, then stir in the yogurt and cook for five minutes.",
         "Add the drained cooked beans to the onion mixture, along with enough of the cooking liquid to just cover the beans (topping up with water if necessary) and simmer for 10 minutes, mashing a few beans against the side of the pan with the back of a spoon to thicken the gravy. Serve with basmati rice and wedges of lime."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Kidney bean curry (rajma)",
     "videos": "[]"
 }

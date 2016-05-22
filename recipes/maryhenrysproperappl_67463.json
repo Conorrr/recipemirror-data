@@ -1,37 +1,45 @@
 {
-    "title": "Proper apple pie",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "6-8",
-    "recommendations": "52",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/maryhenrysproperappl_67463_16x9.jpg"
-    ],
-    "description": "This is apple pie like mum used to make, with large pieces of Bramley apple enclosed in rich shortcrust pastry. Douse in cream and get stuck in.",
     "author": {
         "mary_henry": "Mary Henry"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This is apple pie like mum used to make, with large pieces of Bramley apple enclosed in rich shortcrust pastry. Douse in cream and get stuck in.",
+    "dishes": [
+        "apple_pie",
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stew"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "trimming_pastry_case",
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/maryhenrysproperappl_67463_16x9.jpg"
+    ],
     "ingredients": {
+        "For the filling": [
+            "3 large Bramley cooking apples, chopped, stewed and cooled",
+            "sugar, to taste",
+            "caster sugar, to serve"
+        ],
         "For the pastry": [
             "255g/9oz plain flour",
             "pinch of salt",
             "140g/5oz hard margarine or butter",
             "6 tsp cold water"
-        ],
-        "For the filling": [
-            "3 large Bramley cooking apples, chopped, stewed and cooled",
-            "sugar, to taste",
-            "caster sugar, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "52",
+    "serves": "6-8",
+    "show": {
+        "p0077hsg": "Housecall"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -47,9 +55,9 @@
         "When the pie is cooked it should move slightly on the plate when gently shaken.",
         "Slide on to a serving plate, dust with caster sugar and serve."
     ],
-    "howTos": [
-        "trimming_pastry_case",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Proper apple pie",
     "videos": "[]"
 }

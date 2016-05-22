@@ -1,24 +1,18 @@
 {
-    "title": "Halloumi saganaki",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-8",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/halloumi_saganaki_92664_16x9.jpg"
-    ],
-    "description": "This is the way to cook halloumi. It is very popular done on a barbecue as a vegetarian burger, but served like this, dusted in semolina, fried in olive oil and drizzled with warm honey, black sesame seeds and oregano, it is one of the best mezzes I know. If you can get kefalotiri cheese, try that; it is very special too.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b0667qf6": "Rick Stein: From Venice to Istanbul"
-    },
-    "tips": [
-        
-    ],
+    "cookTime": "less than 10 mins",
+    "cusine": "Greek",
+    "description": "This is the way to cook halloumi. It is very popular done on a barbecue as a vegetarian burger, but served like this, dusted in semolina, fried in olive oil and drizzled with warm honey, black sesame seeds and oregano, it is one of the best mezzes I know. If you can get kefalotiri cheese, try that; it is very special too.",
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/halloumi_saganaki_92664_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,13 +26,20 @@
             "freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4-8",
+    "show": {
+        "b0667qf6": "Rick Stein: From Venice to Istanbul"
+    },
     "steps": [
         "Heat the olive oil in a non-stick frying pan.",
         "Cut the halloumi horizontally through the middle. Dip the halloumi slices in the beaten egg then roll in the semolina. Fry on a medium heat for a couple of minutes on each side until golden-brown.",
         "In a separate small pan, warm the honey. Serve the halloumi cut into squares, drizzled with warm honey and sprinkled with sesame seeds, oregano and black pepper."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Halloumi saganaki",
     "videos": "[]"
 }

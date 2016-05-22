@@ -1,26 +1,31 @@
 {
-    "title": "Classic Bakewell tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10-12",
-    "recommendations": "17",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bakewell_tart",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "200g/7oz clotted cream",
+            "250ml/9fl oz double cream"
+        ],
         "default": [
             "500g/1lb 2oz sweet shortcrust pastry",
             "3 tbsp icing sugar, plus extra for dusting",
@@ -30,11 +35,13 @@
             "175g/6oz ground almonds",
             "300g/11oz ready-made raspberry jam",
             "40g/1\u00bdoz flaked toasted almonds"
-        ],
-        "To serve": [
-            "200g/7oz clotted cream",
-            "250ml/9fl oz double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "17",
+    "serves": "Serves 10-12",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5.",
@@ -53,8 +60,9 @@
         "Remove the tart from the oven and set aside to cool slightly before serving.",
         "To serve, place one slice of Bakewell tart into the centre of each of 10-12 serving plates. Place a spoonful of clotted cream on top of each slice. Drizzle the double cream around the edge of each plate."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Classic Bakewell tart",
     "videos": "[]"
 }

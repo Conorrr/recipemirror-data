@@ -1,26 +1,29 @@
 {
-    "title": "Chicken with wild mushrooms and spinach",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the rice": [
+            "200g/7oz basmati rice, cooked according to packet instructions",
+            "75g/2\u00bdoz flaked almonds, toasted",
+            "75g/2\u00bdoz butter"
+        ],
         "default": [
             "2 x 225g/8oz chicken breasts, skin on",
             "salt and freshly ground black pepper",
@@ -32,12 +35,13 @@
             "200ml/7ml double cream",
             "handful large leaf spinach (not baby spinach)",
             "1 tbsp chopped fresh tarragon"
-        ],
-        "For the rice": [
-            "200g/7oz basmati rice, cooked according to packet instructions",
-            "75g/2\u00bdoz flaked almonds, toasted",
-            "75g/2\u00bdoz butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 2",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -50,8 +54,9 @@
         "For the rice, place the cooked rice into a bowl, add the nuts and butter and mix together well.",
         "To serve, spoon out a portion of rice mixture onto a plate. Place a chicken breast alongside and spoon over some of the cream sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken with wild mushrooms and spinach",
     "videos": "[]"
 }

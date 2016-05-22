@@ -1,33 +1,26 @@
 {
-    "title": "Pine nut-crusted paneer with spinach salad and honey and red pepper dressing",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1-2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "jam",
+        "paneer",
+        "salad",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pine nut-crusted paneer": [
-            "vegetable oil, for deep frying",
-            "50g/1\u00beoz plain flour",
-            "1 free-range egg, beaten",
-            "75g/3oz pine nuts, finely chopped",
-            "125g/4\u00bdoz paneer, sliced"
-        ],
         "For the honey and red pepper dressing": [
             "2 tbsp olive oil",
             "\u00bd red pepper, finely chopped",
@@ -35,6 +28,13 @@
             "\u00bd orange, juice only",
             "2 tsp honey",
             "salt and freshly ground black pepper"
+        ],
+        "For the pine nut-crusted paneer": [
+            "vegetable oil, for deep frying",
+            "50g/1\u00beoz plain flour",
+            "1 free-range egg, beaten",
+            "75g/3oz pine nuts, finely chopped",
+            "125g/4\u00bdoz paneer, sliced"
         ],
         "For the spinach salad": [
             "150g/5\u00bdoz fresh spinach",
@@ -45,6 +45,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1-2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "For the paneer, half fill a deep, heavy based saucepan or deep fat fryer with the vegetable oil and heat until a small cube of bread sizzles and turns golden when dropped into it. (CAUTION: hot oil can be dangerous. Do not leave unattended.)",
         "Place the plain flour, beaten egg and finely chopped pine nuts into three separate bowls. First roll the paneer in the plain flour, then in the egg and finally in the pine nuts.",
@@ -54,8 +60,9 @@
         "For the spinach salad, combine all of the ingredients in a mixing bowl.",
         "To serve, place the salad onto a large plate with the paneer on top and the small dipping bowl of sauce alongside."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Pine nut-crusted paneer with spinach salad and honey and red pepper dressing",
     "videos": "[]"
 }

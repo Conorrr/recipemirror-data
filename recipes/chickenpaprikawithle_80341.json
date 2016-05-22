@@ -1,24 +1,25 @@
 {
-    "title": "Chicken paprika",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "130",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenpaprikawithle_80341_16x9.jpg"
-    ],
-    "description": "Soured cream makes this tasty one pot rich and creamy. It\u2019s delicious served with mash or rice. This hearty hotpot is great for cooking in advance. Once cooked, leave to cool completely and then put in a freezer-proof container. It will last in the freezer for up to 2 months.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "East_European",
+    "description": "Soured cream makes this tasty one pot rich and creamy. It\u2019s delicious served with mash or rice. This hearty hotpot is great for cooking in advance. Once cooked, leave to cool completely and then put in a freezer-proof container. It will last in the freezer for up to 2 months.",
+    "dishes": [
+        "hotpot",
+        "pie",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenpaprikawithle_80341_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -37,14 +38,21 @@
             "250ml/8fl oz soured cream"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "130",
+    "serves": "Serves 6",
+    "show": {
+        
+    },
     "steps": [
         "Rub the chicken pieces with salt. Heat the oil and butter in a large heavy-bottomed pan and brown the chicken all over for a few minutes. Remove the chicken from the pan and set to one side.",
         "To the same pan, add the onions and garlic and sweat for about 5 minutes. Add the paprika, then the flour, and stir until combined - take care not to burn it.",
         "Add the stock and stir. Return the chicken pieces to the pan, adding a bit more stock if the mixtures seems too dry. Add half of the parsley and bring to the boil. Add the red pepper strips, reduce the heat and simmer for 10 minutes. Stir in the tomatoes and simmer gently for about 1 hour.",
         "When the chicken is cooked, remove the pan from the heat. Stir in the sour cream and the remaining parsley. Check the seasoning and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken paprika",
     "videos": "[]"
 }

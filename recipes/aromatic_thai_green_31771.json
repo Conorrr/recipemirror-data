@@ -1,26 +1,44 @@
 {
-    "title": "Aromatic Thai green chicken and autumn vegetable curry",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Thai-flavoured chicken thighs and chunky vegetables, served with rice and lightly fried flatbread.",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "Thai-flavoured chicken thighs and chunky vegetables, served with rice and lightly fried flatbread.",
+    "dishes": [
+        "bread",
+        "curry",
+        "flatbread",
+        "jam",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock",
+        "thai_chicken_curry"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the garnish": [
+            "2 tbsp roughly chopped fresh coriander",
+            "4 spring onions, root removed and finely sliced"
+        ],
+        "For the griddled flatbread": [
+            "400g/14oz plain flour",
+            "2 tsp sea salt",
+            "2 tbsp olive oil, plus extra for frying",
+            "splash of warm water to bind mix"
+        ],
+        "For the rice": [
+            "400g/14oz basmati rice"
+        ],
         "default": [
             "2 tbsp olive oil",
             "1 onion, finely chopped",
@@ -36,20 +54,13 @@
             "200ml/7fl oz chicken stock",
             "100ml/3\u00bdfl oz double cream",
             "100g/3\u00bdoz fine green beans cut into 2cm/1in lengths"
-        ],
-        "For the rice": [
-            "400g/14oz basmati rice"
-        ],
-        "For the griddled flatbread": [
-            "400g/14oz plain flour",
-            "2 tsp sea salt",
-            "2 tbsp olive oil, plus extra for frying",
-            "splash of warm water to bind mix"
-        ],
-        "For the garnish": [
-            "2 tbsp roughly chopped fresh coriander",
-            "4 spring onions, root removed and finely sliced"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "Heat a large frying pan and, once hot, add the oil and then the onion, garlic and ginger. Cook for four minutes, then add the chicken thighs and cook for a further 3-4 minutes. Stir in the Thai curry paste and cook for a further 3-4 minutes.",
@@ -61,8 +72,9 @@
         "Heat a griddle or frying pan and add the oil. One at a time, place each flatbread into the pan and cook on both sides for a few minutes.",
         "To serve, place the rice on serving plates topped with the curry. Place the bread on the side and garnish with fresh coriander and spring onions."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Aromatic Thai green chicken and autumn vegetable curry",
     "videos": "[]"
 }

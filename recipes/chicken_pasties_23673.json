@@ -1,32 +1,27 @@
 {
-    "title": "Chicken pasties",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 40 pasties",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This makes enough for 40 pasties. If you're using a domestic oven, you'll have to bake them in batches.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b013y0nz": "Hairy Bikers' Meals on Wheels"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "This makes enough for 40 pasties. If you're using a domestic oven, you'll have to bake them in batches.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "pasty",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "crimping_pasty"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "4.5kg/10lb 2oz plain flour, plus extra for dusting",
-            "3 tbsp salt",
-            "2.25kg/5lb lard, diced",
-            "about 1.2 litres/2 pints cold water"
-        ],
         "For the filling": [
             "3kg/6lb 8oz chicken thighs, boned and skin removed, finely chopped",
             "150g/5\u00bdoz plain flour",
@@ -35,7 +30,19 @@
             "1.5kg/3lb 5oz swede, peeled, finely chopped",
             "4.5kg/10lb 2oz potato, peeled, finely chopped",
             "10 free-range eggs, beaten"
+        ],
+        "For the pastry": [
+            "4.5kg/10lb 2oz plain flour, plus extra for dusting",
+            "3 tbsp salt",
+            "2.25kg/5lb lard, diced",
+            "about 1.2 litres/2 pints cold water"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes 40 pasties",
+    "show": {
+        "b013y0nz": "Hairy Bikers' Meals on Wheels"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -54,8 +61,9 @@
         "Place the pasties onto greased baking trays and transfer to the oven. Bake for 45-50 minutes, or until the pastry is crisp and golden-brown and the filling is cooked through and piping hot.",
         "When the pasties are cooked, remove them from the oven and set aside to rest for 5-10 minutes before serving."
     ],
-    "howTos": [
-        "crimping_pasty"
+    "tips": [
+        
     ],
+    "title": "Chicken pasties",
     "videos": "[]"
 }

@@ -1,26 +1,31 @@
 {
-    "title": "Simon Rimmer's lasagne",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "32",
-    "images": [
-        
-    ],
-    "description": "This lasagne is a lighter version of the classic dish, filled with lean beef, summery peppers and cottage cheese.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "This lasagne is a lighter version of the classic dish, filled with lean beef, summery peppers and cottage cheese.",
+    "dishes": [
+        "bread",
+        "lasagne",
+        "oven-baked_dishes",
+        "pasta",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "green salad",
+            "garlic bread"
+        ],
         "default": [
             "oil for frying",
             "450g/1lb lean minced beef",
@@ -39,11 +44,13 @@
             "300g/10\u00bdoz cottage cheese",
             "150g/5oz mature cheddar, grated",
             "salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "green salad",
-            "garlic bread"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "32",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -58,8 +65,9 @@
         "Transfer to the oven and bake for about 45 minutes to 1 hour, until the top is golden-brown and bubbling and the pasta cooked through.",
         "To serve, cut out squares of the lasagne and place onto plates. Serve with a green salad and garlic bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Simon Rimmer's lasagne",
     "videos": "[]"
 }

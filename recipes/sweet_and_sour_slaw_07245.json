@@ -1,24 +1,22 @@
 {
-    "title": "Sweet and sour slaw",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10-12",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Here is an exercise in chopping meditation for you! There is much to slice, but you end up with a bright tangle of slaw that feeds a crowd and has enough zing in it to bring a table of cold cuts to life.",
     "author": {
         "nigella_lawson": "Nigella Lawson"
     },
-    "show": {
-        "b06nvzk6": "Simply Nigella"
-    },
-    "tips": [
-        "Refrigerate leftovers in a covered container straightaway. It will keep in fridge for up to 3 days, though the vegetables will soften as they stand."
+    "cookTime": "no cooking required",
+    "description": "Here is an exercise in chopping meditation for you! There is much to slice, but you end up with a bright tangle of slaw that feeds a crowd and has enough zing in it to bring a table of cold cuts to life.",
+    "dishes": [
+        "bun",
+        "coleslaw",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "chopping_chillies"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -36,6 +34,12 @@
             "2 tsp maple syrup"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 10-12",
+    "show": {
+        "b06nvzk6": "Simply Nigella"
+    },
     "steps": [
         "Shred the cabbage thinly and put into the largest bowl you have. It may be easier to use a huge saucepan as you need to toss all the ingredients together later, and even my largest mixing bowl isn\u2019t big enough.",
         "Slice the spring onions into batons and then cut each baton into thin slices lengthways, so that you, again, have shreds. Add to the cabbage.",
@@ -43,8 +47,9 @@
         "Finely chop the red chilli, and do the same with the coriander \u2013 stalks and leaves. Add the chilli and all but a tablespoon of the chopped coriander to the cabbage bowl.",
         "In a bowl or measuring jug, mix together the pineapple juice, the zest and juice of 1 lime and the juice of half of the second. Sprinkle in the salt, add the sesame oil and maple syrup, and whisk together before pouring over the prepared vegetables. Toss to mix, then leave to stand for at least 15 minutes, and up to 2 hours, before serving. Sprinkle the reserved tablespoonful of chopped coriander over the finished slaw."
     ],
-    "howTos": [
-        "chopping_chillies"
+    "tips": [
+        "Refrigerate leftovers in a covered container straightaway. It will keep in fridge for up to 3 days, though the vegetables will soften as they stand."
     ],
+    "title": "Sweet and sour slaw",
     "videos": "[p03c3s2r:p03c3s2t]"
 }

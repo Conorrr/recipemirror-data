@@ -1,24 +1,20 @@
 {
-    "title": "Tomato salad Maman Blanc",
-    "cookTime": "no cooking required",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "salad"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,6 +30,12 @@
             "1 small handful fresh basil leaves"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "5",
+    "serves": "4",
+    "show": {
+        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
+    },
     "steps": [
         "Arrange the tomato slices in a circle on a serving platter.",
         "Scatter the red onion over the top.",
@@ -41,8 +43,9 @@
         "Spoon the dressing over the tomatoes then set aside for at least one hour to marinate.",
         "When ready to serve, scatter over the parsley and basil leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tomato salad Maman Blanc",
     "videos": "[]"
 }

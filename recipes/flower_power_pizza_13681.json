@@ -1,24 +1,22 @@
 {
-    "title": "Flower power pizza",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 30cm/12in pizza",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/flower_power_pizza_13681_16x9.jpg"
-    ],
-    "description": "The power in this gluten-free pizza comes from the protein-rich almonds, egg white and buckwheat, while the \u2018flower\u2019 comes from the cauliflower used to make the pizza base. Try adding herbs and toppings of your choice. This pizza provides 985 kcal, 46g protein, 43g carbohydrate (of which 8.5g sugars), 70g fat (of which 24g saturates), 6g fibre and 4.8g salt.",
     "author": {
         "jasmine_and_melissa_hemsley": "Hemsley + Hemsley"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "The power in this gluten-free pizza comes from the protein-rich almonds, egg white and buckwheat, while the \u2018flower\u2019 comes from the cauliflower used to make the pizza base. Try adding herbs and toppings of your choice. This pizza provides 985 kcal, 46g protein, 43g carbohydrate (of which 8.5g sugars), 70g fat (of which 24g saturates), 6g fibre and 4.8g salt.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "pizza"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/flower_power_pizza_13681_16x9.jpg"
     ],
     "ingredients": {
         "For the pizza base": [
@@ -39,6 +37,12 @@
             "drizzle of olive oil, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 1 30cm/12in pizza",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Preheat the oven to 170C/190C fan/350F/Gas 4. Line a baking tray with baking parchment and lightly grease with butter, ghee or coconut oil.",
         "Grate the cauliflower into rice-sized pieces using a hand grater or food processor.",
@@ -50,8 +54,9 @@
         "Bake the pizza for 10-15 minutes more until the mozzarella is melted and bubbling.",
         "Sprinkle the basil over the top of the pizza before serving and drizzle with olive oil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Flower power pizza",
     "videos": "[]"
 }

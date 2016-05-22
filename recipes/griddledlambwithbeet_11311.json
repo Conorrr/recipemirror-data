@@ -1,29 +1,24 @@
 {
-    "title": "Griddled lamb with beetroot and bean salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "segmenting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 leg of lamb steaks"
-        ],
         "For the marinade": [
             "2 lemons, halved and juiced",
             "100ml/3\u00bdfl oz olive oil",
@@ -37,7 +32,16 @@
             "1 tsp Dijon mustard",
             "pinch of sugar",
             "1 tbsp chives, finely chopped"
+        ],
+        "default": [
+            "4 leg of lamb steaks"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "p0077hsg": "Housecall"
     },
     "steps": [
         "For the marinade, mix the lemon halves, lemon juice and olive oil in a bowl. Add the rosemary and season to taste. Coat the lamb steaks in the marinade and leave in the bowl for 20 to 30 minutes.",
@@ -46,8 +50,9 @@
         "For the dressing, mix the olive oil with the remaining orange juice in a jug. Spoon in the mustard and sugar and stir well.",
         "Place the lamb in the centre of the plate, drizzle with the dressing and top with chives."
     ],
-    "howTos": [
-        "segmenting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Griddled lamb with beetroot and bean salad",
     "videos": "[]"
 }

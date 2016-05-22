@@ -1,26 +1,31 @@
 {
-    "title": "Passion fruit puddings",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "cake",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "200g/7oz caster sugar",
+            "200ml/7fl oz water",
+            "50ml/2fl oz coconut liqueur",
+            "double cream, lightly whipped, to serve"
+        ],
         "default": [
             "25g/1oz butter",
             "125g/4oz caster sugar",
@@ -29,13 +34,13 @@
             "2 free-range eggs, separated",
             "8 passion fruit, inner pulp only, sieved to remove seeds",
             "butter, for greasing"
-        ],
-        "For the sauce": [
-            "200g/7oz caster sugar",
-            "200ml/7fl oz water",
-            "50ml/2fl oz coconut liqueur",
-            "double cream, lightly whipped, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/365F/Gas 4.",
@@ -49,8 +54,9 @@
         "Add the remaining passion fruit pulp and the coconut liqueur and stir well.",
         "To serve, place the puddings in their dishes onto plates, drizzle the sauce over the top of each and top with a dollop of whipped cream."
     ],
-    "howTos": [
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Passion fruit puddings",
     "videos": "[]"
 }

@@ -1,24 +1,31 @@
 {
-    "title": "Mary Berry's classic Christmas cake",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 10-12",
-    "recommendations": "87",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/classic_christmas_cake_04076_16x9.jpg"
-    ],
-    "description": "Mary Berry\u2019s been making her Christmas cake recipe for as long as Paul Hollywood\u2019s been alive. She knows what she\u2019s talking about.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "Decorate this cake with a festive ribbon and some cute retro robins or reindeer."
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Mary Berry\u2019s been making her Christmas cake recipe for as long as Paul Hollywood\u2019s been alive. She knows what she\u2019s talking about.",
+    "dishes": [
+        "cake",
+        "christmas_cake",
+        "icing",
+        "jam",
+        "marzipan",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries",
+        "upside-down_cake"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "how_to_line_a_round_cake_tin",
+        "marzipan_fruit_cake",
+        "testing_to_see_if_a_cake_is_cooked"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/classic_christmas_cake_04076_16x9.jpg"
     ],
     "ingredients": {
         "For the cake": [
@@ -48,6 +55,12 @@
             "1\u00bd tsp glycerine"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "87",
+    "serves": "Serves 10-12",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
+    },
     "steps": [
         "For the cake, place all the dried fruit, including the cherries, into a large mixing bowl, pour over the brandy and stir in the orange zest. Cover with clingfilm and leave to soak for three days, stirring daily.",
         "Grease and line a 23cm/9in deep, round tin with a double layer of greased greaseproof paper. Preheat the oven to 140C/275F/Gas 1.",
@@ -65,10 +78,9 @@
         "To ice the cake, place all the icing onto the top of the cake. Spread evenly over the top and sides of the cake with a palette knife. For a snow-peak effect, use a smaller palette knife to rough up the icing.",
         "Leave the cake loosely covered overnight for the icing to harden a little, then wrap or store in an airtight container in a cool place until needed."
     ],
-    "howTos": [
-        "how_to_line_a_round_cake_tin",
-        "marzipan_fruit_cake",
-        "testing_to_see_if_a_cake_is_cooked"
+    "tips": [
+        "Decorate this cake with a festive ribbon and some cute retro robins or reindeer."
     ],
+    "title": "Mary Berry's classic Christmas cake",
     "videos": "[]"
 }

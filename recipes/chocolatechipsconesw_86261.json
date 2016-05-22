@@ -1,26 +1,33 @@
 {
-    "title": "Chocolate chip scones with orange mascarpone cream",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 6 scones",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "phil_vickery": "Phil Vickery"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "scone"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading",
+        "rubbing_in",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the orange mascarpone cream": [
+            "150g/5\u00bdoz mascarpone",
+            "1 tbsp icing sugar",
+            "\u00bd orange, juice and zest"
+        ],
         "For the scones": [
             "225g/8oz self-raising flour, plus extra for dusting",
             "\u00bd tsp salt",
@@ -29,12 +36,13 @@
             "50g/2oz dark chocolate, chopped",
             "150ml/\u00bc pint milk",
             "1 free-range egg, beaten"
-        ],
-        "For the orange mascarpone cream": [
-            "150g/5\u00bdoz mascarpone",
-            "1 tbsp icing sugar",
-            "\u00bd orange, juice and zest"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Makes 6 scones",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/425F/Gas 7.",
@@ -44,10 +52,9 @@
         "For the orange mascarpone cream, mix the mascarpone, icing sugar and orange juice and zest together in a bowl.",
         "To serve, place the scones onto a serving plate with the bowl of orange mascarpone cream alongside."
     ],
-    "howTos": [
-        "kneading",
-        "rubbing_in",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Chocolate chip scones with orange mascarpone cream",
     "videos": "[]"
 }

@@ -1,26 +1,39 @@
 {
-    "title": "Moroccan lamb tagine with lemon and pomegranate couscous",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 12-14",
-    "recommendations": "56",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/moroccanlambtaginewi_84062_16x9.jpg"
-    ],
-    "description": "This aromatic lamb tagine can be made in advance and reheated. Make the fruity lemon couscous just before serving.",
     "author": {
         "rachel_allen": "Rachel Allen"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "North_African",
+    "description": "This aromatic lamb tagine can be made in advance and reheated. Make the fruity lemon couscous just before serving.",
+    "dishes": [
+        "casserole",
+        "lamb_tagine",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries",
+        "stock",
+        "tagine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_make_couscous",
+        "how_to_prepare_a_pomegranate"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/moroccanlambtaginewi_84062_16x9.jpg"
+    ],
     "ingredients": {
+        "For the couscous": [
+            "1 large or 2 small pomegranates",
+            "800g/1\u00belb couscous",
+            "6 tbsp olive oil",
+            "2 lemons, juice only",
+            "1 litre/1\u00be pints boiling chicken stock or water",
+            "sea salt and freshly ground black pepper",
+            "4 tbsp chopped, fresh mint or coriander"
+        ],
         "For the lamb tagine": [
             "4 tbsp olive oil",
             "8 garlic cloves, peeled and crushed",
@@ -34,19 +47,16 @@
             "2kg/4\u00bdlb ripe tomatoes or 4 X 400g/14oz can tomatoes, coarsely chopped",
             "4-5 tbsp honey"
         ],
-        "For the couscous": [
-            "1 large or 2 small pomegranates",
-            "800g/1\u00belb couscous",
-            "6 tbsp olive oil",
-            "2 lemons, juice only",
-            "1 litre/1\u00be pints boiling chicken stock or water",
-            "sea salt and freshly ground black pepper",
-            "4 tbsp chopped, fresh mint or coriander"
-        ],
         "To serve": [
             "1 lime, cut into wedges",
             "bowl Greek yoghurt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "56",
+    "serves": "Serves 12-14",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 160C/325F/Gas 2.",
@@ -63,9 +73,9 @@
         "Stir the chopped herbs and pomegranate seeds into the couscous.",
         "To serve, place the tagine on serving plates with couscous and a wedge of lime. Serve alongside a bowl of thick Greek yoghurt."
     ],
-    "howTos": [
-        "how_to_make_couscous",
-        "how_to_prepare_a_pomegranate"
+    "tips": [
+        
     ],
+    "title": "Moroccan lamb tagine with lemon and pomegranate couscous",
     "videos": "[]"
 }

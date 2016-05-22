@@ -1,26 +1,41 @@
 {
-    "title": "McSingh's Scotch pie",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "There\u2019s nothing better than a juicy, crispy, lush Scotch pie \u2013 unless of course you add spices to it. The sweet, fatty taste of the lamb mince is paired with white pepper, nutmeg, coriander, cumin and some chilli. It\u2019s fantastic for picnics or lunches.",
     "author": {
         "tony_singh": "Tony Singh"
     },
-    "show": {
-        "b0394f74": "The Incredible Spice Men"
-    },
-    "tips": [
-        "Ideally, you need to make this a day in advance to give the pie time to set. If you have time, refrigerate the cooled pie for at least two hours before trying to remove it from the tin. You can use the same spiced mince base mix to make burgers, meatballs or kebabs. Instead of hot water pastry you could top the pie with shortcrust or filo pastry."
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "There\u2019s nothing better than a juicy, crispy, lush Scotch pie \u2013 unless of course you add spices to it. The sweet, fatty taste of the lamb mince is paired with white pepper, nutmeg, coriander, cumin and some chilli. It\u2019s fantastic for picnics or lunches.",
+    "dishes": [
+        "cake",
+        "chutney",
+        "kebab",
+        "meat_pie",
+        "meatballs",
+        "oven-baked_dishes",
+        "pastry",
+        "pickle",
+        "pie",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the hot water pastry": [
+            "340g/12oz plain flour, plus extra for dusting",
+            "\u00bd tsp salt",
+            "90ml/3fl oz milk",
+            "150g/5\u00bdoz lard, chopped into cubes, plus extra for greasing",
+            "1 free-range egg, yolk only, beaten, for brushing"
+        ],
         "default": [
             "2 tsp cumin seeds",
             "1 tbsp rapeseed oil or vegetable oil, plus extra for greasing",
@@ -34,14 +49,13 @@
             "1 tsp freshly ground white pepper",
             "3 tbsp chopped fresh coriander",
             "salt"
-        ],
-        "For the hot water pastry": [
-            "340g/12oz plain flour, plus extra for dusting",
-            "\u00bd tsp salt",
-            "90ml/3fl oz milk",
-            "150g/5\u00bdoz lard, chopped into cubes, plus extra for greasing",
-            "1 free-range egg, yolk only, beaten, for brushing"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 8",
+    "show": {
+        "b0394f74": "The Incredible Spice Men"
     },
     "steps": [
         "Heat a large frying pan and toast the cumin seeds for a few minutes, then set aside. Heat the oil in the same pan and fry the onion, garlic, chilli, pepper and a good pinch of salt for around eight minutes, until there is no moisture left. Remove from the heat, stir in the toasted cumin seeds, ground mace (or nutmeg) and ground coriander. Leave to cool.",
@@ -55,8 +69,9 @@
         "Brush the top of the pie with a little beaten egg yolk, and bake in the preheated oven for 30 minutes (put a tray on the shelf below to catch any drips). Then reduce the temperature to 160C/325F/Gas 3 and cook for a further 1\u00bc hours until golden-brown. Leave to cool completely before refrigerating for two hours, or overnight.",
         "Run a knife around the edge of the pie, remove from the tin and serve with chutneys, salads or pickles."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Ideally, you need to make this a day in advance to give the pie time to set. If you have time, refrigerate the cooled pie for at least two hours before trying to remove it from the tin. You can use the same spiced mince base mix to make burgers, meatballs or kebabs. Instead of hot water pastry you could top the pie with shortcrust or filo pastry."
     ],
+    "title": "McSingh's Scotch pie",
     "videos": "[]"
 }

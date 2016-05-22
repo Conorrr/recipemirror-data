@@ -1,24 +1,23 @@
 {
-    "title": "Tzatziki",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 300g/10oz",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Garlic, yoghurt, lemon and fresh mint make a wonderful dip to serve with pitta bread or your favourite kebab.",
     "author": {
         "lisa_faulkner": "Lisa Faulkner"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "Greek",
+    "description": "Garlic, yoghurt, lemon and fresh mint make a wonderful dip to serve with pitta bread or your favourite kebab.",
+    "dishes": [
+        "bread",
+        "kebab",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,12 +28,19 @@
             "small handful mint leaves, chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 300g/10oz",
+    "show": {
+        
+    },
     "steps": [
         "Crush the garlic with a little salt in a pestle and mortar to make a paste.",
         "Add the yoghurt and lemon juice and stir well. Stir through the mint. Set aside until needed."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tzatziki",
     "videos": "[]"
 }

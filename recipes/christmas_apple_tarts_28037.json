@@ -1,26 +1,34 @@
 {
-    "title": "Christmas apple tarts",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 6 tartlets",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Sweet apple slices layered over spiced fruit, all on homemade pastry, served with a creamy caramel sauce.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Sweet apple slices layered over spiced fruit, all on homemade pastry, served with a creamy caramel sauce.",
+    "dishes": [
+        "caramel",
+        "jam",
+        "mince_pies",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the caramel sauce": [
+            "115g/4oz dark soft brown sugar",
+            "115g/4oz butter",
+            "175ml/6fl oz double cream"
+        ],
         "For the rough puff pastry": [
             "250g/9oz plain flour",
             "250g/9oz very cold butter, cut into small cubes",
@@ -35,12 +43,13 @@
             "50g/2oz soft dark brown sugar",
             "\u00bd tsp ground mixed spice",
             "\u00bd tsp ground cinnamon"
-        ],
-        "For the caramel sauce": [
-            "115g/4oz dark soft brown sugar",
-            "115g/4oz butter",
-            "175ml/6fl oz double cream"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Makes 6 tartlets",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the rough puff pastry, put the flour in a mound on the work surface and make a well in the centre. Place the butter and salt in the well and work them together with the fingertips of one hand, gradually drawing the flour into the centre with the other hand.",
@@ -67,8 +76,9 @@
         "Pour in the double cream and simmer gently for 3-5 minutes, or until the mixture thickens slightly.",
         "To serve, slide the tart onto a plate and serve with a spoonful of caramel sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Christmas apple tarts",
     "videos": "[]"
 }

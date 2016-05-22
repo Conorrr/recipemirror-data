@@ -1,24 +1,22 @@
 {
-    "title": "Creamy mushroom soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1-2",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "richard_phillips": "Richard Phillips"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,13 +31,20 @@
             "2 tbsp double cream"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 1-2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place the chopped onion and mushroom into a small food processor with the garlic and blend together.",
         "Heat the butter in a saucepan. Add the onion and mushroom mixture and fry for a few minutes. Add the potato, water, stock cube and season with salt and freshly ground black pepper. Cover with a lid and simmer for ten minutes.",
         "Add the cream and pour into a bowl to serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Creamy mushroom soup",
     "videos": "[]"
 }

@@ -1,40 +1,45 @@
 {
-    "title": "Squid tempura with citrus rice",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "sauce",
+        "stir-fries",
+        "tempura"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the squid tempura": [
-            "500ml/18fl oz vegetable oil, for deep frying",
-            "150g/5\u00bdoz self-raising flour",
-            "sparkling water",
-            "100g/3\u00bdoz squid, cleaned, cut into rings",
-            "sea salt, for sprinkling"
-        ],
         "For the citrus rice": [
             "150g/5\u00bdoz basmati rice, cooked according to packet instructions",
             "1 lime, zest and juice",
             "large handful fresh coriander, chopped",
             "vegetable oil, for oiling",
             "lime wedges and fresh coriander, to garnish"
+        ],
+        "For the squid tempura": [
+            "500ml/18fl oz vegetable oil, for deep frying",
+            "150g/5\u00bdoz self-raising flour",
+            "sparkling water",
+            "100g/3\u00bdoz squid, cleaned, cut into rings",
+            "sea salt, for sprinkling"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the squid tempura, place the vegetable oil into a deep, heavy-bottomed saucepan and heat until a small cube of bread sizzles and turns golden when dropped into it. (CAUTION: hot oil can be dangerous. Do not leave unattended.)",
@@ -44,8 +49,9 @@
         "Lightly oil a ramekin, place the rice mixture into the ramekin and press down slightly.",
         "To serve, turn the rice out onto a serving plate, top with the tempura squid and garnish with lime wedges and fresh coriander."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Squid tempura with citrus rice",
     "videos": "[]"
 }

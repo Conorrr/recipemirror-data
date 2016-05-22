@@ -1,24 +1,23 @@
 {
-    "title": "Proper baked beans with soda bread toast",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 6",
-    "recommendations": "29",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/proper_baked_beans_with_36013_16x9.jpg"
-    ],
-    "description": "Beans on toast is a British staple, but you can very easily make it something special. Don't be put off by the long cooking time - it's just a few minutes of effort and the rest of the time it takes care of itself.",
     "author": {
         "tom_kerridge": "Tom Kerridge"
     },
-    "show": {
-        "b03bv3vm": "Tom Kerridge's Proper Pub Food"
-    },
-    "tips": [
-        "To save time you can use tinned white beans."
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Beans on toast is a British staple, but you can very easily make it something special. Don't be put off by the long cooking time - it's just a few minutes of effort and the rest of the time it takes care of itself.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/proper_baked_beans_with_36013_16x9.jpg"
     ],
     "ingredients": {
         "For the baked beans": [
@@ -43,6 +42,12 @@
             "625ml/21fl oz buttermilk"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "29",
+    "serves": "Serves 6",
+    "show": {
+        "b03bv3vm": "Tom Kerridge's Proper Pub Food"
+    },
     "steps": [
         "Drain the white beans and put them in a large pan. Cover with water and bring to the boil. Drain again and return to the pan. Cover with water and cook for approximately one hour, or until just soft. Remove from the heat and drain.",
         "In a large saucepan, heat the rapeseed oil over a medium heat. Add the streaky bacon and fry until crisp. Add the onion and garlic to the pan and cook until the onion is soft. Add the tinned tomatoes, tomato pur\u00e9e, sugar, vinegar and 500ml/18fl oz water. Bring to the boil and then add the soaked beans. Reduce the heat to low and cook for 1\u00bd-2 hours, or until you have a thick sauce with soft tender beans",
@@ -52,8 +57,9 @@
         "Remove from the oven and leave to cool. Slice and toast when needed.",
         "Season the beans with salt and pepper and serve with slices of toasted soda bread."
     ],
-    "howTos": [
-        
+    "tips": [
+        "To save time you can use tinned white beans."
     ],
+    "title": "Proper baked beans with soda bread toast",
     "videos": "[]"
 }

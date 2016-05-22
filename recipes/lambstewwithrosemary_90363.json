@@ -1,26 +1,35 @@
 {
-    "title": "Lamb stew with rosemary dumplings",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "19",
-    "images": [
-        
-    ],
-    "description": "Lamb stew made with neck fillet, is economical and extremely tasty, the rosemary dumplings add the perfect finish.",
     "author": {
         "bryn_williams": "Bryn Williams"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Lamb stew made with neck fillet, is economical and extremely tasty, the rosemary dumplings add the perfect finish.",
+    "dishes": [
+        "caramel",
+        "casserole",
+        "oven-baked_dishes",
+        "stew",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dumplings": [
+            "125g/4\u00bd oz plain flour",
+            "65g/2\u00bd oz suet",
+            "\u00bd tsp baking powder",
+            "pinch salt",
+            "1 tbsp rosemary, finely chopped",
+            "500ml/18fl oz lamb stock"
+        ],
         "For the stew": [
             "750g/1lb 10oz lamb neck fillet, cut into 2.5cm/1in cubes",
             "salt and freshly ground black pepper",
@@ -35,15 +44,13 @@
             "4 bay leaves",
             "1.25 litres/2 pints lamb stock",
             "3 tbsp flatleaf parsley, roughly chopped"
-        ],
-        "For the dumplings": [
-            "125g/4\u00bd oz plain flour",
-            "65g/2\u00bd oz suet",
-            "\u00bd tsp baking powder",
-            "pinch salt",
-            "1 tbsp rosemary, finely chopped",
-            "500ml/18fl oz lamb stock"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "19",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the stew, preheat the oven to 120C/250F/Gas \u00bd.",
@@ -64,8 +71,9 @@
         "Remove the dumplings and set aside to rest for a minute, discarding the cooking stock.",
         "To serve, when the lamb is ready, remove the lid and add the dumplings and parsley to the casserole dish, then serve in a shallow bowl."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb stew with rosemary dumplings",
     "videos": "[]"
 }

@@ -1,34 +1,27 @@
 {
-    "title": "Teriyaki salmon with cabbage salad",
-    "cookTime": "less than 10 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "This recipe is so simple to make and packs a lot punch flavourwise. Healthy, tasty, easy - it could be a new favourite",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Japanese",
+    "description": "This recipe is so simple to make and packs a lot punch flavourwise. Healthy, tasty, easy - it could be a new favourite",
+    "dishes": [
+        "jam",
+        "punch",
+        "salad",
+        "sauce",
+        "teriyaki"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the teriyaki salmon": [
-            "125ml/4fl oz Shaoxing rice wine",
-            "125ml/4fl oz sake",
-            "125ml/4fl oz mirin",
-            "125ml/4fl oz soy sauce",
-            "3 tbsp caster sugar",
-            "4 x 175g/6oz salmon fillets, skinned and pin boned"
-        ],
         "For the cabbage salad": [
             "75g/3oz curly kale, picked and shredded",
             "\u00bd cucumber, peeled and finely sliced",
@@ -40,7 +33,21 @@
             "2 tbsp sesame oil",
             "1 tbsp soy sauce",
             "salt and freshly ground black pepper"
+        ],
+        "For the teriyaki salmon": [
+            "125ml/4fl oz Shaoxing rice wine",
+            "125ml/4fl oz sake",
+            "125ml/4fl oz mirin",
+            "125ml/4fl oz soy sauce",
+            "3 tbsp caster sugar",
+            "4 x 175g/6oz salmon fillets, skinned and pin boned"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "9",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the teriyaki salmon, heat a frying pan until hot, add the rice wine, sake, mirin, soy sauce and caster sugar and bring the mixture to a simmer.",
@@ -56,8 +63,9 @@
         "Drizzle over the salad and toss to combine.",
         "To serve, pile the salad onto the plate and place the salmon alongside. Spoon over the extra teriyaki sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Teriyaki salmon with cabbage salad",
     "videos": "[]"
 }

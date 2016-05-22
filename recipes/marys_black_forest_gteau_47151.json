@@ -1,42 +1,52 @@
 {
-    "title": "Mary's Black Forest g\u00e2teau",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 1 large cake",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/marys_black_forest_gteau_47151_16x9.jpg"
-    ],
-    "description": "You can't beat a classic cake - and Mary's crowd pleasing chocolate g\u00e2teau makes a wonderful make-ahead dessert for special occasions.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "If the chocolate starts to harden while you are piping, seal the tip with a little tape, place the piping bag in a bowl and microwave for a few seconds."
+    "cookTime": "30 mins to 1 hour",
+    "description": "You can't beat a classic cake - and Mary's crowd pleasing chocolate g\u00e2teau makes a wonderful make-ahead dessert for special occasions.",
+    "dishes": [
+        "black_forest_gateau",
+        "cake",
+        "gateau",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "melting_chocolate",
+        "testing_to_see_if_a_cake_is_cooked"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/marys_black_forest_gteau_47151_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "6 large free-range eggs",
-            "150g/5\u00bdoz caster sugar",
-            "100g/3\u00bdoz self-raising flour, sifted",
-            "50g/1\u00beoz cocoa powder, sifted"
+        "For the decoration": [
+            "150g/5\u00bdoz white chocolate",
+            "250g/9oz plain chocolate (about 46% cocoa solids)",
+            "24 fresh cherries with stalks"
         ],
         "For the filling and topping": [
             "2 x 390g jars black cherries in kirsch (500g/1lb 2oz drained weight)",
             "2 heaped tbsp cornflour",
             "750ml/1\u2153 pint double cream, whipped"
         ],
-        "For the decoration": [
-            "150g/5\u00bdoz white chocolate",
-            "250g/9oz plain chocolate (about 46% cocoa solids)",
-            "24 fresh cherries with stalks"
+        "default": [
+            "6 large free-range eggs",
+            "150g/5\u00bdoz caster sugar",
+            "100g/3\u00bdoz self-raising flour, sifted",
+            "50g/1\u00beoz cocoa powder, sifted"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "Makes 1 large cake",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 180C/160C Fan/Gas 4. Lightly grease two 23cm/9in cake tins and line the base with greased non-stick baking parchment.",
@@ -50,10 +60,9 @@
         "Cut each sponge into 2 layers using a long sharp knife. Divide the cherry mixture into thirds. Spread one third of the cherry mix over the sliced sponge. Divide one half of the cream into thirds and spread one third over the cherry mix. Top with another sponge layer and continue until you have three layers of cherries and cream. Top with the final sponge layer.",
         "Spread half of the reserved whipped cream around the sides of the cake and cover with the chocolate trees. With the remaining reserved cream, pipe rosettes of cream around the top edge of the cake and decorate with the chocolate dipped cherries."
     ],
-    "howTos": [
-        "folding",
-        "melting_chocolate",
-        "testing_to_see_if_a_cake_is_cooked"
+    "tips": [
+        "If the chocolate starts to harden while you are piping, seal the tip with a little tape, place the piping bag in a bowl and microwave for a few seconds."
     ],
+    "title": "Mary's Black Forest g\u00e2teau",
     "videos": "[]"
 }

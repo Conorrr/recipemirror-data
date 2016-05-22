@@ -1,35 +1,39 @@
 {
-    "title": "Rich chocolate mousse",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "14",
-    "images": [
-        
-    ],
-    "description": "Raymond Blanc shares his kitchen secrets, revealing how to make his decadent recipe for chocolate mousse.",
     "author": {
         "elizabeth_guy": "Elizabeth Guy"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Raymond Blanc shares his kitchen secrets, revealing how to make his decadent recipe for chocolate mousse.",
+    "dishes": [
+        "chocolate_mousse",
+        "mousse",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To decorate": [
+            "whipped cream, to decorate",
+            "grated chocolate"
+        ],
         "default": [
             "170g/6oz dark chocolate",
             "4 free-range eggs, separated",
             "shot of liqueur, such as Cointreau or amaretto"
-        ],
-        "To decorate": [
-            "whipped cream, to decorate",
-            "grated chocolate"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "14",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Place the chocolate into a heatproof bowl over a pan of simmering water and melt it, taking care not to let the chocolate over heat.",
@@ -38,8 +42,9 @@
         "Pour the chocolate mixture into the egg whites and gently fold together.",
         "Divide evenly between four ramekins and transfer to the refrigerator to chill. Decorate with whipped cream and grated chocolate."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Rich chocolate mousse",
     "videos": "[]"
 }

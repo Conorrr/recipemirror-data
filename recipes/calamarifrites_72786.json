@@ -1,31 +1,28 @@
 {
-    "title": "Calamari frites",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes approx. 50 rings",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ed_baines": "Ed Baines"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "prepare-ahead_desserts",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "450g/1lb squid tubes",
-            "vegetable oil, for deep-frying",
-            "deep-fried parsley sprigs, to garnish (optional)",
-            "limes, to serve"
+        "For the batter": [
+            "6 eggs, separated",
+            "225g/8oz plain white flour",
+            "150ml/\u00bc pint whole milk",
+            "a wine glassful of ice"
         ],
         "For the palm hearts and papaya dressing": [
             "3 papayas",
@@ -37,12 +34,18 @@
             "1 lemon, juice only",
             "salt"
         ],
-        "For the batter": [
-            "6 eggs, separated",
-            "225g/8oz plain white flour",
-            "150ml/\u00bc pint whole milk",
-            "a wine glassful of ice"
+        "default": [
+            "450g/1lb squid tubes",
+            "vegetable oil, for deep-frying",
+            "deep-fried parsley sprigs, to garnish (optional)",
+            "limes, to serve"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes approx. 50 rings",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "First prepare the palm heart and papaya dressing. Peel the papayas, cut them in half and scoop out the seeds. Chop the papaya flesh into small cubes.",
@@ -56,8 +59,9 @@
         "Repeat until all of the calamari is cooked.",
         "To serve, pile up the calamari and pour over the dressing, with a squeeze of lime."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Calamari frites",
     "videos": "[]"
 }

@@ -1,26 +1,34 @@
 {
-    "title": "Strawberry pavlova",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "7",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/strawberrypavlova_88895_16x9.jpg"
-    ],
-    "description": "Crunchy, chewy, creamy and sweet this candy pink strawberry pavlova is fit for a princess.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Crunchy, chewy, creamy and sweet this candy pink strawberry pavlova is fit for a princess.",
+    "dishes": [
+        "icing",
+        "meringue",
+        "oven-baked_dishes",
+        "pavlova",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/strawberrypavlova_88895_16x9.jpg"
+    ],
     "ingredients": {
+        "For the filling": [
+            "250ml/9fl oz whipping cream, whipped until stiff peaks form when the whisk is removed",
+            "1 vanilla pod, split, seeds only",
+            "75g/2\u00bdoz sifted icing sugar",
+            "450g/1lb strawberries, washed, hulled and cut in half"
+        ],
         "For the meringues": [
             "6 free-range egg whites",
             "300g/10\u00bdoz caster sugar",
@@ -28,17 +36,17 @@
             "1 drop of pink food colouring",
             "1 tbsp orange liqueur"
         ],
-        "For the filling": [
-            "250ml/9fl oz whipping cream, whipped until stiff peaks form when the whisk is removed",
-            "1 vanilla pod, split, seeds only",
-            "75g/2\u00bdoz sifted icing sugar",
-            "450g/1lb strawberries, washed, hulled and cut in half"
-        ],
         "For the strawberry sauce": [
             "100ml/3\u00bdfl oz water",
             "100g/3\u00bdoz caster sugar",
             "250g/9oz strawberries"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/360F/Gas 4.",
@@ -55,9 +63,9 @@
         "Remove from the heat then add the strawberries and set aside for ten minutes. Transfer the strawberries and syrup to a food processor and blend until smooth, then pass through a sieve. Place into the fridge to chill.",
         "To serve, cut each pavlova in half and place each half onto a plate. Pour over the strawberry sauce and serve."
     ],
-    "howTos": [
-        "folding",
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Strawberry pavlova",
     "videos": "[]"
 }

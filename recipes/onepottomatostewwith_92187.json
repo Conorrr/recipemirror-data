@@ -1,33 +1,28 @@
 {
-    "title": "One-pot tomato stew with pork meatballs, chorizo and white beans",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        "b00m1c34": "Economy Gastronomy"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "casserole",
+        "meatballs",
+        "pie",
+        "sauce",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_make_meatballs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the tomato sauce": [
-            "1kg/2\u00bclb ripe tomatoes, stalks cut out, cross cut in the bottom of each using a sharp knife",
-            "100-150ml/3\u00bd-5fl oz olive oil",
-            "4 large shallots, peeled, finely chopped",
-            "4 garlic cloves, crushed to a paste",
-            "sprig fresh thyme, leaves only"
-        ],
         "For the stew": [
             "2 tbsp olive oil",
             "1 head of fennel, chopped",
@@ -43,7 +38,20 @@
             "2 tsp ground cumin",
             "2 medium cooking chorizos, chopped",
             "1 x 400g/14fl oz canned white beans (such as butter beans or haricot beans), drained, rinsed"
+        ],
+        "For the tomato sauce": [
+            "1kg/2\u00bclb ripe tomatoes, stalks cut out, cross cut in the bottom of each using a sharp knife",
+            "100-150ml/3\u00bd-5fl oz olive oil",
+            "4 large shallots, peeled, finely chopped",
+            "4 garlic cloves, crushed to a paste",
+            "sprig fresh thyme, leaves only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4-6",
+    "show": {
+        "b00m1c34": "Economy Gastronomy"
     },
     "steps": [
         "For the tomato sauce, bring a pan of water to the boil. Lower the tomatoes into the boiling water and boil for ten seconds, then remove them from the pan using a slotted spoon and immediately plunge them into a bowl of ice-cold water.",
@@ -62,8 +70,9 @@
         "Stir in the white beans and heat through for a further 1-2 minutes.",
         "Serve immediately."
     ],
-    "howTos": [
-        "how_to_make_meatballs"
+    "tips": [
+        
     ],
+    "title": "One-pot tomato stew with pork meatballs, chorizo and white beans",
     "videos": "[]"
 }

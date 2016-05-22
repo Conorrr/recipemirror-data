@@ -1,29 +1,26 @@
 {
-    "title": "Tea-smoked lamb chops, with miso grilled aubergine (nasu dengaku) and pickled daikon",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A restaurant-style feast of Japanese ingredients and flavours.",
     "author": {
         "scott_hallsworth": "Scott Hallsworth"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Japanese",
+    "description": "A restaurant-style feast of Japanese ingredients and flavours.",
+    "dishes": [
+        "chips",
+        "pickle",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "8 lamb chops"
-        ],
         "For the BBQ marinade": [
             "\u00bd red onion, peeled and roughly chopped",
             "small handful fresh coriander leaves and roots",
@@ -53,6 +50,11 @@
             "generous pinch of salt",
             "2 yuzu (or limes), zest only"
         ],
+        "For the smoking mix": [
+            "250g/9oz fine smoking chips",
+            "125g/4\u00bdoz sencha green tea powder",
+            "85g/3oz raw rice"
+        ],
         "For the spicy Korean miso": [
             "100g/3\u00bdoz gochujang (Korean pepper paste)",
             "4 tsp rice vinegar",
@@ -61,16 +63,20 @@
             "10g/1/3g white miso paste",
             "1 egg yolk"
         ],
-        "For the smoking mix": [
-            "250g/9oz fine smoking chips",
-            "125g/4\u00bdoz sencha green tea powder",
-            "85g/3oz raw rice"
-        ],
         "To serve": [
             "1 lemon, cut into wedges",
             "2 tbsp finely chopped fresh chives",
             "handful of mizuna leaves"
+        ],
+        "default": [
+            "8 lamb chops"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the BBQ marinade, place all the ingredients into a food processor and blend until smooth. Place the chops in a glass bowl and pour over the marinade and set aside in the fridge for at least for two hours.",
@@ -93,8 +99,9 @@
         "Top with the walnuts, sesame seeds and a light sprinkling of the sansho pepper and a small wedge of lemon.",
         "Serve a mound of pickled daikon on a separate plate with the lamb chops sprinkled with chives and topped with mizuna."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tea-smoked lamb chops, with miso grilled aubergine (nasu dengaku) and pickled daikon",
     "videos": "[]"
 }

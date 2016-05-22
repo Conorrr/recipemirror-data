@@ -1,36 +1,29 @@
 {
-    "title": "Sardinian fregola with seafood",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "Fregola, a type of pasta formed into small balls, is a speciality of Sardinia. Here it is cooked with a cornucopia of seafood in a rich sauce.",
     "author": {
         "francesco_mazzei": "Francesco Mazzei"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "Fregola, a type of pasta formed into small balls, is a speciality of Sardinia. Here it is cooked with a cornucopia of seafood in a rich sauce.",
+    "dishes": [
+        "bun",
+        "pasta",
+        "sauce",
+        "seafood",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the stewed squid": [
-            "1 tsp olive oil",
-            "1 tsp garlic oil",
-            "1 sprig thyme",
-            "50g/2oz shallots, finely sliced",
-            "200g/7oz squid, cleaned and cut into small squares",
-            "50ml/2fl oz white wine",
-            "1 tbsp tomato pur\u00e9e",
-            "fine sea salt"
-        ],
         "For the fregola": [
             "3 tbsp olive oil",
             "1 garlic clove, finely chopped",
@@ -51,7 +44,23 @@
             "1 tsp dill, finely chopped",
             "1 tsp tarragon, finely chopped",
             "sea salt and freshly ground black pepper"
+        ],
+        "For the stewed squid": [
+            "1 tsp olive oil",
+            "1 tsp garlic oil",
+            "1 sprig thyme",
+            "50g/2oz shallots, finely sliced",
+            "200g/7oz squid, cleaned and cut into small squares",
+            "50ml/2fl oz white wine",
+            "1 tbsp tomato pur\u00e9e",
+            "fine sea salt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 2",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the squid, heat a frying pan until medium hot, add the olive and garlic oils, thyme and shallots and cook gently for a couple of minutes until the shallot is soft and golden.",
@@ -63,8 +72,9 @@
         "Return the pan to the heat and fry the scallops for one minute on each side.",
         "To serve, stir half the herbs through the fregola then ladle it into bowls. Place the red mullet and scallops on top of the fregola then scatter over with the remaining herbs."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sardinian fregola with seafood",
     "videos": "[]"
 }

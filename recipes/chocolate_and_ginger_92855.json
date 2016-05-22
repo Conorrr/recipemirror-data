@@ -1,24 +1,24 @@
 {
-    "title": "Chocolate and ginger tarts",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "10",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_and_ginger_92855_16x9.jpg"
-    ],
-    "description": "The chocolate tarts make a quick and easy dessert. Make it even easier by using ready-made tart cases.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "The chocolate tarts make a quick and easy dessert. Make it even easier by using ready-made tart cases.",
+    "dishes": [
+        "chocolate_tart",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "lining_tin_with_pastry"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_and_ginger_92855_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -29,6 +29,12 @@
             "75g/3oz stem ginger, finely chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 6",
+    "show": {
+        
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "Dust the work surface with flour and roll the dough out thinly. Use it to line one large 25cm/10in tart ring or 6 individual tartlet rings 10cm/4in in diameter. Trim away any excess.",
@@ -37,8 +43,9 @@
         "Sprinkle the finely chopped stem ginger over the base of the tart, reserving a little to garnish.",
         "Pour the chocolate mixture into the tart shell and chill in the fridge for 45 minutes, or until set. Sprinkle over the remaining stem ginger."
     ],
-    "howTos": [
-        "lining_tin_with_pastry"
+    "tips": [
+        
     ],
+    "title": "Chocolate and ginger tarts",
     "videos": "[]"
 }

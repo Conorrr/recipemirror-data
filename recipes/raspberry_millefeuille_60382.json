@@ -1,26 +1,45 @@
 {
-    "title": "Raspberry millefeuille",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 6 large millefeuille",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/raspberry_millefeuille_60382_16x9.jpg"
-    ],
-    "description": "Thin, crisp pastry is the key to these pretty French pastries and Paul Hollywood is the man to show you how. For this recipe you will need: a sugar thermometer, 6 large baking trays and a ruler.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "If you are short on time you can make this recipe easier by buying good-quality puff pastry and raspberry jam."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "Thin, crisp pastry is the key to these pretty French pastries and Paul Hollywood is the man to show you how. For this recipe you will need: a sugar thermometer, 6 large baking trays and a ruler.",
+    "dishes": [
+        "bread",
+        "icing",
+        "jam",
+        "millefeuille",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/raspberry_millefeuille_60382_16x9.jpg"
+    ],
     "ingredients": {
+        "For the Chantilly cream": [
+            "600ml/20fl oz double cream",
+            "50g/1\u00beoz icing sugar",
+            "\u00bd tsp vanilla paste",
+            "48 raspberries"
+        ],
+        "For the icing": [
+            "250g/9oz white ready-to-roll fondant icing",
+            "125g/4\u00bdoz pink ready-to-roll fondant icing"
+        ],
+        "For the raspberry jam": [
+            "200g/7oz raspberries",
+            "250g/9oz jam sugar",
+            "knob of butter"
+        ],
         "For the rough puff pastry": [
             "450g/1lb plain four, plus extra for rolling",
             "pinch of salt",
@@ -28,24 +47,15 @@
             "180g/6\u00bcoz butter, frozen",
             "icing sugar, for dusting"
         ],
-        "For the raspberry jam": [
-            "200g/7oz raspberries",
-            "250g/9oz jam sugar",
-            "knob of butter"
-        ],
         "For the sugar syrup": [
             "25g/1oz caster sugar"
-        ],
-        "For the icing": [
-            "250g/9oz white ready-to-roll fondant icing",
-            "125g/4\u00bdoz pink ready-to-roll fondant icing"
-        ],
-        "For the Chantilly cream": [
-            "600ml/20fl oz double cream",
-            "50g/1\u00beoz icing sugar",
-            "\u00bd tsp vanilla paste",
-            "48 raspberries"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Makes 6 large millefeuille",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the rough puff pastry, mix the flour and salt together in a bowl. Rub in the chilled butter using your fingertips until the mixture resembles breadcrumbs. Gradually add enough water to form a dough (about 4-6 tablespoons water).",
@@ -65,8 +75,9 @@
         "Sit the rectangles on top of each other so you have 6, double-layered pastries, topped with raspberries and cream.",
         "To decorate, brush sugar syrup over the reserved 6 pastry rectangles and stick the striped fondant rectangles to the pastry. Place on top of the raspberries and cream and brush with more sugar syrup to glaze. Store in the fridge until ready to serve."
     ],
-    "howTos": [
-        "rubbing_in"
+    "tips": [
+        "If you are short on time you can make this recipe easier by buying good-quality puff pastry and raspberry jam."
     ],
+    "title": "Raspberry millefeuille",
     "videos": "[]"
 }

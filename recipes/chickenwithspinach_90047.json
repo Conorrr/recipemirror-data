@@ -1,24 +1,26 @@
 {
-    "title": "Chicken with spinach",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "53",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenwithspinach_90047_16x9.jpg"
-    ],
-    "description": "Try this healthy curry recipe packed full of spinach goodness. Each serving provides 266kcal, 33g protein, 6.5g carbohydrate (of which 6g sugars), 11g fat (of which 1.5g saturates), 4g fibre and 0.6g salt.",
     "author": {
         "anjum_anand": "Anjum Anand"
     },
-    "show": {
-        "b007szxr": "Indian Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "Try this healthy curry recipe packed full of spinach goodness. Each serving provides 266kcal, 33g protein, 6.5g carbohydrate (of which 6g sugars), 11g fat (of which 1.5g saturates), 4g fibre and 0.6g salt.",
+    "dishes": [
+        "caramel",
+        "chicken_curry",
+        "curry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenwithspinach_90047_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -40,6 +42,12 @@
             "basmati rice, cooked according to packet instructions, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "53",
+    "serves": "Serves 6",
+    "show": {
+        "b007szxr": "Indian Food Made Easy"
+    },
     "steps": [
         "In a food processor, blend the spinach to a pur\u00e9e using one or two tablespoons of water to loosen the mixture. Set aside.",
         "Heat the vegetable oil in a pan over a medium heat. Add the cardamom pods, bay leaves and cinnamon and fry for 20-30 seconds.",
@@ -49,8 +57,9 @@
         "Add the yoghurt, stir well and continue to simmer the mixture until the sauce has thickened and almost dried out.",
         "Stir in the spinach pur\u00e9e and continue to simmer for 10-12 minutes, or until the chicken has cooked through. Season, to taste, with salt and freshly ground black pepper, then serve with rice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken with spinach",
     "videos": "[]"
 }

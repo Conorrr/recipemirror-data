@@ -1,26 +1,33 @@
 {
-    "title": "Goan-style lobster with chips",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "Rich, buttery lobster is perfect with the spicy flavours of Indian food. Serve homemade chips on the side to mop up all the juices.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "Rich, buttery lobster is perfect with the spicy flavours of Indian food. Serve homemade chips on the side to mop up all the juices.",
+    "dishes": [
+        "chips",
+        "jam",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chips": [
+            "4 large chipping potatoes, peeled and cut into 1cm/\u00bdin thick chips",
+            "vegetable oil, for frying",
+            "sea salt, to taste"
+        ],
         "For the lobster": [
             "4 live lobsters",
             "2 tbsp vegetable oil",
@@ -38,12 +45,13 @@
             "50ml/2fl oz tamarind pulp",
             "300ml/11fl oz coconut milk",
             "2 tbsp finely chopped coriander leaves"
-        ],
-        "For the chips": [
-            "4 large chipping potatoes, peeled and cut into 1cm/\u00bdin thick chips",
-            "vegetable oil, for frying",
-            "sea salt, to taste"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the lobster, put the lobsters in the freezer for two hours until almost frozen - this will render them unconscious.",
@@ -61,8 +69,9 @@
         "Drain, place on a plate lined with kitchen paper and sprinkle with sea salt.",
         "To serve, spoon the lobster onto four plates, pour over the sauce and then pile the chips alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Goan-style lobster with chips",
     "videos": "[]"
 }

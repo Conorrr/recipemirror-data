@@ -1,24 +1,21 @@
 {
-    "title": "Snowbound",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Stuck indoors in the snow? Might as well warm up from the inside out. Cinnamon syrup is available in coffee shops and suppliers.",
     "author": {
         "wayne_collins": "Wayne Collins"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Stuck indoors in the snow? Might as well warm up from the inside out. Cinnamon syrup is available in coffee shops and suppliers.",
+    "dishes": [
+        "stir-fries",
+        "vodka_cocktail"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,12 +27,19 @@
             "grated nutmeg, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Place all the ingredients, apart from the cinnamon cream, into a latt\u00e9 glass and stir to mix.",
         "Spoon the cinnamon cream on top, garnish with nutmeg and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Snowbound",
     "videos": "[]"
 }

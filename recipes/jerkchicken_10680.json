@@ -1,29 +1,26 @@
 {
-    "title": "Jerk chicken",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 6",
-    "recommendations": "26",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/jerkchicken_10680_16x9.jpg"
-    ],
-    "description": "Pour this authentic spicy marinade over chicken, seafood or even aubergines to make them come over all Caribbean.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Caribbean",
+    "description": "Pour this authentic spicy marinade over chicken, seafood or even aubergines to make them come over all Caribbean.",
+    "dishes": [
+        "bun",
+        "jam",
+        "sauce",
+        "seafood"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/jerkchicken_10680_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "6 chicken breasts, or chicken thighs, bones removed"
-        ],
         "For the sauce": [
             "225g/8oz onions, quartered",
             "1-1\u00bd scotch bonnet or other chillies according to taste, halved and seeded",
@@ -38,7 +35,16 @@
             "rice and peas",
             "1 pineapple, peeled, cored and cut in wedges",
             "4 limes, 3 cut in wedges, 1 juice only"
+        ],
+        "default": [
+            "6 chicken breasts, or chicken thighs, bones removed"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "26",
+    "serves": "Serves 6",
+    "show": {
+        "p0077hsg": "Housecall"
     },
     "steps": [
         "Put all the ingredients for the Jerk Sauce in a food processor and whiz until smooth.",
@@ -47,8 +53,9 @@
         "Brush the pineapple lightly with oil and char grill until golden brown on all sides. Squeeze over the juice of one lime.",
         "Serve the jerk chicken with the rice and peas, pineapple and wedges of lime on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Jerk chicken",
     "videos": "[]"
 }

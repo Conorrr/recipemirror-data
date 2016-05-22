@@ -1,24 +1,21 @@
 {
-    "title": "Vanilla rice pudding",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1-2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,12 +27,19 @@
             "1 slice orange, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1-2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place the milk, cream, sugar and vanilla pod in a saucepan and bring to simmering point. Add the rice and simmer gently for ten minutes, or until the rice is tender.",
         "Serve in a bowl, garnished with a twisted slice of orange."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Vanilla rice pudding",
     "videos": "[]"
 }

@@ -1,24 +1,21 @@
 {
-    "title": "Coffee ice",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "This recipes also works well using cinnamon as flavouring."
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "jam",
+        "quick_desserts"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -27,13 +24,20 @@
             "1 cup strong coffee (with sugar if preferred)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        
+    },
     "steps": [
         "Crush the cardamom pods in a pestle and mortar to release the small black seeds.",
         "Spoon the ice cream onto the coffee and scatter with the seeds.",
         "Drink or spoon the coffee through the melting ice cream."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This recipes also works well using cinnamon as flavouring."
     ],
+    "title": "Coffee ice",
     "videos": "[]"
 }

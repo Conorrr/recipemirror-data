@@ -1,24 +1,24 @@
 {
-    "title": "Tea cakes",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 8 tea-cakes",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "mrs_beeton": "Mrs Beeton"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "cake",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,14 +30,21 @@
             "warm milk"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes 8 tea-cakes",
+    "show": {
+        
+    },
     "steps": [
         "Put the flour (which should be perfectly dry) into a basin; mix it with the salt, and rub in the butter or lard; then beat the egg well, stir in the yeast, and add these to the flour with as much warm milk as needed to make the whole mixture into a smooth paste, and knead it well.",
         "Let it rise near the fire, and, when well risen, form it into cakes; place them on tins, let them rise again for a few minutes before putting them into the oven, and bake for \u00bc to \u00bd hour in a moderate oven.",
         "These are very nice with a few currants and a little sugar added to the other ingredients; they should be put in after the butter is rubbed in.",
         "These cakes should be buttered, and eaten hot as soon as baked; but, when stale, they are very nice split and toasted; or if dipped in milk, or even water, and covered with a basin in the oven until hot, they will be almost as good as new."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Tea cakes",
     "videos": "[]"
 }

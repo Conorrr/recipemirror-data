@@ -1,24 +1,27 @@
 {
-    "title": "Intense chocolate cookies",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 12",
-    "recommendations": "115",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/intensechocolatecook_87336_16x9.jpg"
-    ],
-    "description": "Often I make a full batch of these but bake only half and freeze the other half. I freeze them on a little tray and once they're hard, I bung them in a freezer bag and stash it back in the freezer. That way I can bake another six without any effort.",
     "author": {
         "nigella_lawson": "Nigella Lawson"
     },
-    "show": {
-        "b007z2r2": "Nigella Express"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Often I make a full batch of these but bake only half and freeze the other half. I freeze them on a little tray and once they're hard, I bung them in a freezer bag and stash it back in the freezer. That way I can bake another six without any effort.",
+    "dishes": [
+        "biscuit",
+        "bun",
+        "chips",
+        "chocolate_biscuit",
+        "cookies",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "creaming"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/intensechocolatecook_87336_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,6 +38,12 @@
             "350g/12\u00bcoz dark chocolate chips"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "115",
+    "serves": "Makes 12",
+    "show": {
+        "b007z2r2": "Nigella Express"
+    },
     "steps": [
         "Preheat the oven to 170C/325F/Gas 3.",
         "Break the 125g/4oz dark chocolate into pieces and place into a heatproof bowl set over a pan of barely simmering water. Heat, stirring occasionally, until melted.",
@@ -45,8 +54,9 @@
         "Transfer to the oven and bake for 18 minutes, then test with a skewer - it should come out semi-clean and not wet with batter. If you pierce a chocolate chip, try again.",
         "Leave the cookies to cool on the baking sheet for 4-5 minutes, then transfer them to a cooling rack to harden as they cool."
     ],
-    "howTos": [
-        "creaming"
+    "tips": [
+        
     ],
+    "title": "Intense chocolate cookies",
     "videos": "[]"
 }

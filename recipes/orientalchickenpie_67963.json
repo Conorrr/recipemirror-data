@@ -1,23 +1,25 @@
 {
-    "title": "Oriental chicken pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "jill_dupleix": "Jill Dupleix"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "chopping_vegetables",
+        "julienne"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -38,6 +40,12 @@
             "110g/4oz mange tout, julienned"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Soak the dried mushrooms in hot water for 30 minutes.",
         "Heat the oven to 200C/400F/Gas 6.",
@@ -49,9 +57,9 @@
         "Brush with egg yolk, cut a small slash in the top, and bake for 20 minutes or until golden.",
         "Serve with julienned mange tout on the side."
     ],
-    "howTos": [
-        "chopping_vegetables",
-        "julienne"
+    "tips": [
+        
     ],
+    "title": "Oriental chicken pie",
     "videos": "[]"
 }

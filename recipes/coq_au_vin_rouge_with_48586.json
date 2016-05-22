@@ -1,26 +1,33 @@
 {
-    "title": "Coq au vin rouge with rice and savoy cabbage",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Cook an old classic with The Hairy Bikers' easy take on this French favourite chicken, bacon and red wine stew.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00sy9ws": "The Hairy Bikers' Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "French",
+    "description": "Cook an old classic with The Hairy Bikers' easy take on this French favourite chicken, bacon and red wine stew.",
+    "dishes": [
+        "casserole",
+        "coq_au_vin",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stew",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the beurre mani\u00e9 (optional)": [
+            "25g/1oz plain flour",
+            "25g/1oz butter, softened"
+        ],
         "default": [
             "750ml/1\u00bc pints full-bodied red wine",
             "2 tbsp sunflower oil",
@@ -39,11 +46,13 @@
             "250g/8oz small button mushrooms",
             "50g/2oz unsalted butter",
             "1 tbsp chopped fresh parsley, to garnish"
-        ],
-        "For the beurre mani\u00e9 (optional)": [
-            "25g/1oz plain flour",
-            "25g/1oz butter, softened"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b00sy9ws": "The Hairy Bikers' Cook Off"
     },
     "steps": [
         "Preheat the oven to 190C/375F/gas 5.",
@@ -56,8 +65,9 @@
         "Remove the casserole from the oven, add salt and freshly ground black pepper, to taste. If you want to thicken the sauce slightly then make the beurre mani\u00e9 by mixing the butter and flour together into a paste and whisk in tiny pieces at a time (this needs care when adding - too heavy handed and the sauce will become too thick and be ruined).",
         "Serve straight from the casserole pot, or arrange chicken, mushrooms and onions on a warm serving dish and spoon the red wine sauce over. Garnish with the chopped parsley."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Coq au vin rouge with rice and savoy cabbage",
     "videos": "[]"
 }

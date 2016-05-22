@@ -1,26 +1,32 @@
 {
-    "title": "Grilled salmon with Japanese seven-spice with miso broth",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This is the kind of dish that makes you feel good in so many ways: udon noodles in a light miso broth with wakame seaweed and topped with griddled salmon.",
     "author": {
         "john_burton_race": "John Burton Race"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Japanese",
+    "description": "This is the kind of dish that makes you feel good in so many ways: udon noodles in a light miso broth with wakame seaweed and topped with griddled salmon.",
+    "dishes": [
+        "broth",
+        "noodle_soup",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "\u00bc mouli, peeled and julienned (if you can't get mouli, some shredded cabbage would also work here)",
+            "few coriander leaves, to garnish"
+        ],
         "default": [
             "250g/9oz udon noodles",
             "1.5 litre/2\u00bd pints dashi or miso stock (from sachet)",
@@ -33,11 +39,13 @@
             "4 x 200g/7oz salmon fillets, skin on, scaled and pin-boned",
             "1 tbsp sunflower oil",
             "Japanese seven-spice powder (available from specialist suppliers online and Asian stores), to taste"
-        ],
-        "To serve": [
-            "\u00bc mouli, peeled and julienned (if you can't get mouli, some shredded cabbage would also work here)",
-            "few coriander leaves, to garnish"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "To cook the noodles, plunge them into a pan of boiling water.",
@@ -48,8 +56,9 @@
         "To serve warm the udon noodles in the miso broth and ladle into serving bowls. Spoon the hot broth over.",
         "Top with the griddled salmon and garnish with the strips of mouli and coriander leaf to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Grilled salmon with Japanese seven-spice with miso broth",
     "videos": "[]"
 }

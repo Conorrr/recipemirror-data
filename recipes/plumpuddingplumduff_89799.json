@@ -1,26 +1,35 @@
 {
-    "title": "Plum pudding (plum duff)",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "icing",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "folding",
+        "steaming_puddings",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "1 free-range egg",
+            "300g/10\u00bdoz icing sugar",
+            "150g/5oz butter, melted",
+            "1 vanilla pod, seeds scraped out",
+            "200ml/7 fl oz cream, whipped until soft peaks form when the whisk is removed"
+        ],
         "default": [
             "110g/4oz self-raising flour",
             "110g/4oz currants",
@@ -37,14 +46,13 @@
             "4 tablespoons dark rum",
             "2 free-range eggs",
             "225ml/8fl oz milk"
-        ],
-        "For the sauce": [
-            "1 free-range egg",
-            "300g/10\u00bdoz icing sugar",
-            "150g/5oz butter, melted",
-            "1 vanilla pod, seeds scraped out",
-            "200ml/7 fl oz cream, whipped until soft peaks form when the whisk is removed"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Butter a 1 litre/2 pint pudding basin.",
@@ -60,10 +68,9 @@
         "Carefully fold in the whipped cream until well combined.",
         "To serve, spoon out the plum pudding onto plates and spoon the sauce alongside."
     ],
-    "howTos": [
-        "folding",
-        "steaming_puddings",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Plum pudding (plum duff)",
     "videos": "[]"
 }

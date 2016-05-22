@@ -1,23 +1,23 @@
 {
-    "title": "Spice-rubbed pork fillet with tzatziki and romesco sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -36,14 +36,6 @@
             "200g/7oz pork fillet",
             "splash olive oil"
         ],
-        "For the tzatziki": [
-            "1 cucumber, peeled, seeds removed, finely chopped",
-            "1 tsp salt",
-            "200g/7oz Greek yoghurt",
-            "1 clove garlic, chopped",
-            "1 handful fresh mint leaves, chopped",
-            "salt and freshly ground black pepper"
-        ],
         "For the romesco sauce": [
             "1 red pepper",
             "1 red onion, chopped",
@@ -56,7 +48,21 @@
             "25g/1oz toasted white bread, crusts removed",
             "125ml/4\u00bdfl oz olive oil",
             "salt and freshly ground black pepper"
+        ],
+        "For the tzatziki": [
+            "1 cucumber, peeled, seeds removed, finely chopped",
+            "1 tsp salt",
+            "200g/7oz Greek yoghurt",
+            "1 clove garlic, chopped",
+            "1 handful fresh mint leaves, chopped",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 2",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -73,8 +79,9 @@
         "With the food processor still running, gradually add 125ml/4\u00bdfl oz olive oil in a steady stream until completely incorporated into the sauce, then season well with salt and freshly ground black pepper.",
         "To serve, slice the pork fillet and place onto a plate. Place a spoonful of romesco to one side of pork, and a spoonful of the tzatziki to the other side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spice-rubbed pork fillet with tzatziki and romesco sauce",
     "videos": "[]"
 }

@@ -1,26 +1,29 @@
 {
-    "title": "Geisha cupcakes",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 24 cupcakes",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Decorated with geisha faces made from fondant icing, Gok Wan's stylish banana and nut cupcakes are sure to impress. Equipment and preparation: for this recipe you will need a black edible ink pen.",
     "author": {
         "gok_wan": "Gok Wan"
     },
-    "show": {
-        "b052sj1d": "The Great Comic Relief Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Decorated with geisha faces made from fondant icing, Gok Wan's stylish banana and nut cupcakes are sure to impress. Equipment and preparation: for this recipe you will need a black edible ink pen.",
+    "dishes": [
+        "cupcakes",
+        "icing",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To decorate": [
+            "1 large packet ready-to-roll skin tone fondant icing",
+            "1 large packet ready-to-roll black fondant icing"
+        ],
         "default": [
             "160g/5\u00beoz unsalted butter, softened",
             "560g/1lb 4oz caster sugar",
@@ -32,11 +35,13 @@
             "4 large free-range eggs",
             "4 very ripe bananas, peeled and mashed",
             "24 brazil nuts"
-        ],
-        "To decorate": [
-            "1 large packet ready-to-roll skin tone fondant icing",
-            "1 large packet ready-to-roll black fondant icing"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Makes 24 cupcakes",
+    "show": {
+        "b052sj1d": "The Great Comic Relief Bake Off"
     },
     "steps": [
         "Preheat the oven to 200C/190C Fan/Gas 6. Fill two 12-hole cupcake tins with paper cases.",
@@ -46,8 +51,9 @@
         "Leave to cool slightly in the tin before transferring to a wire rack.",
         "For the decoration, roll out the flesh-coloured icing and cut into circles to fit the top of the cupcakes. Roll out the black fondant icing and cut to resemble the geishas\u2019 hair. Top each cupcake with a circle and use the edible ink pen to draw on facial features. Attach the hair using edible glue or a little water."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Geisha cupcakes",
     "videos": "[]"
 }

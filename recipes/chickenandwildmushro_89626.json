@@ -1,34 +1,31 @@
 {
-    "title": "Chicken and wild mushroom pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00d6g4f": "The Hairy Bakers"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bread",
+        "chicken_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "making_pastry_lids",
+        "lining_tin_with_pastry",
+        "trimming_pastry_case",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "450g/1lb plain flour, plus extra for dusting",
-            "2 tsp baking powder",
-            "\u00bd tsp salt",
-            "120g/4\u00bdoz unsalted butter, plus extra for greasing",
-            "1 free-range egg yolk",
-            "120ml/4fl oz water"
-        ],
         "For the filling": [
             "4 tbsp olive oil",
             "2 chicken breasts, bone and skin removed, flesh cut into pieces",
@@ -41,7 +38,21 @@
             "200g/7oz fresh wild mushrooms, roughly chopped",
             "50ml/2fl oz soured cream",
             "1 free-range egg, beaten"
+        ],
+        "For the pastry": [
+            "450g/1lb plain flour, plus extra for dusting",
+            "2 tsp baking powder",
+            "\u00bd tsp salt",
+            "120g/4\u00bdoz unsalted butter, plus extra for greasing",
+            "1 free-range egg yolk",
+            "120ml/4fl oz water"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b00d6g4f": "The Hairy Bakers"
     },
     "steps": [
         "For the pastry, pulse the flour, baking powder, salt, butter and egg yolk in a food processor until the mixture resembles breadcrumbs.",
@@ -55,11 +66,9 @@
         "Roll the remaining one third of the pastry out onto a clean, floured work surface until it is a little bit larger than the diameter of the pie tin. Brush the rim of the cooked pastry case with some of the beaten egg and place the pastry lid on top of the pie. Trim off any excess pastry. Seal the pastry lid to the pastry case by crimping the edges of the pastry lid with a fork.",
         "With a knife, make two small holes in the centre of the pastry lid to allow steam to escape. Brush the pastry lid with the remaining beaten egg, then transfer to the oven and bake for 30-35 minutes, or until golden-brown."
     ],
-    "howTos": [
-        "making_pastry_lids",
-        "lining_tin_with_pastry",
-        "trimming_pastry_case",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Chicken and wild mushroom pie",
     "videos": "[]"
 }

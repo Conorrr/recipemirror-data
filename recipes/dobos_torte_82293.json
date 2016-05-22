@@ -1,24 +1,32 @@
 {
-    "title": "Dobos torte",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 1 large two-tiered cake",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/dobos_torte_82293_16x9.jpg"
-    ],
-    "description": "Mary\u2019s twist on this Hungarian cake has a full twelve layers in two tiers and is covered in caramel buttercream. Equipment and preparation: You will need a piping bag fitted with a medium size star nozzle.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "East_European",
+    "description": "Mary\u2019s twist on this Hungarian cake has a full twelve layers in two tiers and is covered in caramel buttercream. Equipment and preparation: You will need a piping bag fitted with a medium size star nozzle.",
+    "dishes": [
+        "cake",
+        "caramel",
+        "oven-baked_dishes",
+        "pie",
+        "praline",
+        "sandwich",
+        "sauce",
+        "stir-fries",
+        "torte"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "ice_cake_buttercream",
+        "how_to_make_caramel_and_praline",
+        "how_to_pipe_icing_decoration_on_a_cake",
+        "testing_to_see_if_a_cake_is_cooked"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/dobos_torte_82293_16x9.jpg"
     ],
     "ingredients": {
         "For the caramel buttercream": [
@@ -26,16 +34,22 @@
             "400ml/14fl oz double cream",
             "450g/1lb butter, softened"
         ],
-        "For the sponge cake": [
-            "8 large free-range eggs",
-            "350g/12oz caster sugar",
-            "300g/10\u00bdoz sifted self-raising flour"
-        ],
         "For the caramel, praline and hazelnut decoration": [
             "75g/2\u00bdoz flaked almonds",
             "16 hazelnuts, blanched",
             "400g/14oz granulated sugar"
+        ],
+        "For the sponge cake": [
+            "8 large free-range eggs",
+            "350g/12oz caster sugar",
+            "300g/10\u00bdoz sifted self-raising flour"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes 1 large two-tiered cake",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the caramel buttercream, place the sugar and 100ml/3\u00bdfl oz water into a large saucepan. Slowly bring to the boil over a medium heat, stirring until the sugar has dissolved.",
@@ -57,11 +71,9 @@
         "Spoon the remaining buttercream into a piping bag fitted with a medium size star nozzle. Pipe 16 rosettes of the buttercream around the top edge of the larger cake and top each rosette with a caramel coated hazelnut.",
         "Pipe eight rosettes around the top of the small cake and place a caramel-topped wedge of cake at an angle on top of each rosette to form the top layer."
     ],
-    "howTos": [
-        "ice_cake_buttercream",
-        "how_to_make_caramel_and_praline",
-        "how_to_pipe_icing_decoration_on_a_cake",
-        "testing_to_see_if_a_cake_is_cooked"
+    "tips": [
+        
     ],
+    "title": "Dobos torte",
     "videos": "[]"
 }

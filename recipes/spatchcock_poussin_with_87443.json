@@ -1,26 +1,38 @@
 {
-    "title": "Spatchcock poussin with walnut salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Spatchcocked poussin take no time to cook and the result is juicy, tender meat. Try them served with a spicy sauce and creamy celery and walnut salad.",
     "author": {
         "stuart_gillies": "Stuart Gillies"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Spatchcocked poussin take no time to cook and the result is juicy, tender meat. Try them served with a spicy sauce and creamy celery and walnut salad.",
+    "dishes": [
+        "bun",
+        "crumble",
+        "mayonnaise",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the walnut salad": [
+            "3 celery stalks, peeled into ribbons",
+            "150g/5oz walnuts",
+            "100g/3\u00bdoz Stilton, crumbled",
+            "50g/2oz flatleaf parsley leaves",
+            "handful celery leaves (the yellow leaves from centre of the celery head)",
+            "110ml/4fl oz cr\u00e8me fra\u00eeche",
+            "50g/2oz honey",
+            "1 tbsp sherry vinegar",
+            "200g/7oz mayonnaise"
+        ],
         "default": [
             "3 tbsp shallots, finely chopped",
             "6 tbsp flat leaf parsley, finely chopped",
@@ -33,18 +45,13 @@
             "\u00bd lemon, juiced",
             "2 lemons, halved",
             "4 poussin, spatchcocked"
-        ],
-        "For the walnut salad": [
-            "3 celery stalks, peeled into ribbons",
-            "150g/5oz walnuts",
-            "100g/3\u00bdoz Stilton, crumbled",
-            "50g/2oz flatleaf parsley leaves",
-            "handful celery leaves (the yellow leaves from centre of the celery head)",
-            "110ml/4fl oz cr\u00e8me fra\u00eeche",
-            "50g/2oz honey",
-            "1 tbsp sherry vinegar",
-            "200g/7oz mayonnaise"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Mix the shallots, parsley, chillies, oregano and chives together in a bowl. Stir in the vinegar, olive oil, Tabasco sauce and lemon juice.",
@@ -56,8 +63,9 @@
         "Mix the salad with enough of the dressing to coat.",
         "To serve, place the poussin onto a serving plate, drizzle over the sauce and spoon the salad alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spatchcock poussin with walnut salad",
     "videos": "[]"
 }

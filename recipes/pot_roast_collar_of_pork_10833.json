@@ -1,35 +1,26 @@
 {
-    "title": "Pot roast collar of pork with braised cabbage",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Pork collar is a wonderful one-pot roast. Slowly cooked until tender and juicy, here it\u2019s served with braised cabbage and bacon.",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b04gtx26": "A Taste of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Pork collar is a wonderful one-pot roast. Slowly cooked until tender and juicy, here it\u2019s served with braised cabbage and bacon.",
+    "dishes": [
+        "casserole",
+        "oven-baked_dishes",
+        "roast_pork",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 x 1.8kg/4lb pork collar roasting joint",
-            "freshly ground black pepper",
-            "2 tbsp lard",
-            "170g/6oz onions, finely sliced",
-            "1 garlic clove, finely sliced",
-            "125ml/4fl oz dry white wine",
-            "140ml/4\u00bdfl oz chicken stock"
-        ],
         "For the cabbage": [
             "30g/1oz butter",
             "4 slices smoked streaky bacon, cut into big chunks",
@@ -39,7 +30,22 @@
             "140ml/\u00bc pt chicken stock",
             "sea salt and freshly ground black pepper",
             "1 tbsp finely chopped parsley, to serve"
+        ],
+        "default": [
+            "1 x 1.8kg/4lb pork collar roasting joint",
+            "freshly ground black pepper",
+            "2 tbsp lard",
+            "170g/6oz onions, finely sliced",
+            "1 garlic clove, finely sliced",
+            "125ml/4fl oz dry white wine",
+            "140ml/4\u00bdfl oz chicken stock"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b04gtx26": "A Taste of Britain"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Season the pork with black pepper.",
@@ -53,8 +59,9 @@
         "Strain the residue of the braising liquor through a sieve and add it to the residue of roasting juices. Taste and season with salt and pepper. Add the parsley.",
         "Carve the meat, lay it on top of the cabbage and pour the sauce over it."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pot roast collar of pork with braised cabbage",
     "videos": "[]"
 }

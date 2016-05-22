@@ -1,26 +1,29 @@
 {
-    "title": "Lobster with escargot butter",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Buying ready-cooked lobsters is a great way to serve a Tom Kitchin classic with minimum effort. The herb butter is usually served on escargots, but is perfect with lobster.",
     "author": {
         "tom_kitchin": "Tom Kitchin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Buying ready-cooked lobsters is a great way to serve a Tom Kitchin classic with minimum effort. The herb butter is usually served on escargots, but is perfect with lobster.",
+    "dishes": [
+        "bread",
+        "ham",
+        "oven-baked_dishes",
+        "seafood"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the samphire": [
+            "50g/2oz butter",
+            "200g/7oz samphire"
+        ],
         "default": [
             "500g/1lb 2oz soft butter",
             "2 tbsp rapeseed oil",
@@ -36,11 +39,13 @@
             "1 cooked lobster coral",
             "2 tbsp ground almonds",
             "2 whole cooked lobster"
-        ],
-        "For the samphire": [
-            "50g/2oz butter",
-            "200g/7oz samphire"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -52,8 +57,9 @@
         "Unwrap the herb butter and slice into eight rounds. Place two slices of the butter on each half of lobster. Bake the lobsters in the oven for 4-5 minutes, until hot and bubbling.",
         "Meanwhile, for the samphire, heat a medium frying pan and add the butter. Once melted add the samphire and cook for a couple of minutes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lobster with escargot butter",
     "videos": "[]"
 }

@@ -1,26 +1,34 @@
 {
-    "title": "Lamb tagine",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "77",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "",
+    "dishes": [
+        "casserole",
+        "lamb_tagine",
+        "sauce",
+        "stir-fries",
+        "stock",
+        "tagine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "2 tbsp chopped fresh parsley",
+            "2 tbsp chopped fresh mint",
+            "handful flaked almonds",
+            "400g/14oz couscous, cooked according to packet instructions",
+            "6 tbsp Greek-style yoghurt"
+        ],
         "default": [
             "3 tbsp vegetable oil",
             "800g /1lb 12oz cubed lamb shoulder",
@@ -36,14 +44,13 @@
             "1 x 400g/14oz can chopped tomatoes",
             "salt and freshly ground black pepper",
             "1 x 400g/14oz can chickpeas, drained"
-        ],
-        "To serve": [
-            "2 tbsp chopped fresh parsley",
-            "2 tbsp chopped fresh mint",
-            "handful flaked almonds",
-            "400g/14oz couscous, cooked according to packet instructions",
-            "6 tbsp Greek-style yoghurt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "77",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Heat the oil in a large tagine or casserole. Fry the lamb, in batches, for 3-4 minutes or until browned all over. Remove the lamb and set aside.",
@@ -53,8 +60,9 @@
         "Stir in the chickpeas and cook for a further 15 minutes.",
         "To serve, sprinkle over the parsley, mint and flaked almonds. Serve the couscous and Greek-style yoghurt alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb tagine",
     "videos": "[]"
 }

@@ -1,26 +1,31 @@
 {
-    "title": "Malaysian prawn fritters with crispy seaweed",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 20",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ken_hom": "Ken Hom"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the seaweed": [
+            "1.25kg/12oz bok choi",
+            "900ml/30fl oz groundnut oil",
+            "1 tsp salt",
+            "2 tsp sugar",
+            "50g/2oz pine kernels, lightly roasted"
+        ],
         "default": [
             "450g/1lb raw prawns, shelled and de-veined",
             "225g/8oz fresh bean sprouts, rinsed",
@@ -35,14 +40,13 @@
             "2 eggs, beaten",
             "400ml/14fl oz oil, preferably groundnut, for deep-frying",
             "freshly ground black pepper"
-        ],
-        "For the seaweed": [
-            "1.25kg/12oz bok choi",
-            "900ml/30fl oz groundnut oil",
-            "1 tsp salt",
-            "2 tsp sugar",
-            "50g/2oz pine kernels, lightly roasted"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Makes 20",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Finely chop half the prawns.",
@@ -60,8 +64,9 @@
         "Toss the crispy greens with the salt and sugar.",
         "Garnish with the pine kernels and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Malaysian prawn fritters with crispy seaweed",
     "videos": "[]"
 }

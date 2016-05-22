@@ -1,32 +1,23 @@
 {
-    "title": "Fresh turbot with avocado and mango salad",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4 (main) or 6 (starter)",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gary_rhodes": "Gary Rhodes"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 X 175g/6oz portions of turbot fillet, skinned",
-            "salt and freshly ground black pepper, plus sea salt flakes",
-            "flour, for dusting",
-            "large knob of butter"
-        ],
         "For the salad": [
             "2 small avocados",
             "2 limes, juice only",
@@ -35,7 +26,19 @@
             "1 small red onion or 2-3 spring onions, finely chopped",
             "1 heaped tbsp chopped coriander leaves",
             "4 tbsp olive oil"
+        ],
+        "default": [
+            "4 X 175g/6oz portions of turbot fillet, skinned",
+            "salt and freshly ground black pepper, plus sea salt flakes",
+            "flour, for dusting",
+            "large knob of butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4 (main) or 6 (starter)",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "To make the salad, halve the avocados, remove the stone and peel away the skin.",
@@ -48,8 +51,9 @@
         "Place salad on a plate and serve fish alongside.",
         "Drizzle any remaining butter in the pan over the fish. Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fresh turbot with avocado and mango salad",
     "videos": "[]"
 }

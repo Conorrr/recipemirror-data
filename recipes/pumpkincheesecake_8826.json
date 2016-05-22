@@ -1,24 +1,25 @@
 {
-    "title": "Pumpkin cheesecake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8-10",
-    "recommendations": "8",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pumpkincheesecake_8826_16x9.jpg"
-    ],
-    "description": "This creamy cheesecake makes a change from the more traditional pumpkin pie. Perfect for a Thanksgiving feast.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "American",
+    "description": "This creamy cheesecake makes a change from the more traditional pumpkin pie. Perfect for a Thanksgiving feast.",
+    "dishes": [
+        "biscuit",
+        "cake",
+        "cheesecake",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pumpkincheesecake_8826_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,6 +36,12 @@
             "90ml/3fl oz natural yoghurt"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 8-10",
+    "show": {
+        
+    },
     "steps": [
         "Heat the oven to 170C/325F/Gas 3.",
         "Bash the digestive biscuits into crumbs. Melt the butter over a low heat and mix in the biscuit crumbs and lemon zest. Lightly grease a 25cm/10in loose-bottomed cake tin and press the crumbs into the base and up the sides slightly.",
@@ -42,8 +49,9 @@
         "Take the cheesecake out of the oven and let it cool in the tin. When cool, turn it on to a serving plate, cover with foodwrap and chill overnight.",
         "Whip the double cream until thick and fold in the yoghurt and the lemon juice. Spread over the top of the cheesecake and serve at room temperature."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Pumpkin cheesecake",
     "videos": "[]"
 }

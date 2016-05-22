@@ -1,26 +1,30 @@
 {
-    "title": "Slow-cooked marinated belly pork",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4-6",
-    "recommendations": "13",
-    "images": [
-        
-    ],
-    "description": "Pork belly lends itself beautifully to slow cooking. Try to find a rare breed such as Tamworth, Middle White, Gloucester Old Spot or Berkshire. Equipment and preparation: For this recipe, you will need a vacuum-pack machine and a temperature-controlled water bath.",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
-    },
-    "tips": [
-        "The pork can be cooked one day in advance, then finished in the oven when you are ready to eat."
+    "cookTime": "over 2 hours",
+    "description": "Pork belly lends itself beautifully to slow cooking. Try to find a rare breed such as Tamworth, Middle White, Gloucester Old Spot or Berkshire. Equipment and preparation: For this recipe, you will need a vacuum-pack machine and a temperature-controlled water bath.",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce",
+        "slow-cooked_dishes"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cabbage": [
+            "350g/12oz spring pointed cabbage cut into 0.5cm/\u00bcin slices",
+            "20g/\u00beoz unsalted butter",
+            "pinch sea salt",
+            "pinch freshly ground black pepper"
+        ],
         "For the pork": [
             "1 tsp sea salt",
             "1 stalk lemongrass, bruised, halved lengthways, finely chopped",
@@ -33,13 +37,13 @@
             "2 tbsp rapeseed oil",
             "soy sauce, to taste",
             "sesame oil, to taste"
-        ],
-        "For the cabbage": [
-            "350g/12oz spring pointed cabbage cut into 0.5cm/\u00bcin slices",
-            "20g/\u00beoz unsalted butter",
-            "pinch sea salt",
-            "pinch freshly ground black pepper"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "13",
+    "serves": "Serves 4-6",
+    "show": {
+        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
     },
     "steps": [
         "For the pork belly, mix the salt, lemongrass, spices, garlic, ginger and red chillies together in a small bowl, then rub the marinade into the flesh side of the pork belly.",
@@ -56,8 +60,9 @@
         "Strain off any excess liquid and set aside with the lid on to keep warm.",
         "Serve the pork sitting on a bed of cabbage with the hot cooking juices poured over, or put the whole belly, the cabbage and the juices in the roasting pot and place in the middle of the table for guests to help themselves."
     ],
-    "howTos": [
-        
+    "tips": [
+        "The pork can be cooked one day in advance, then finished in the oven when you are ready to eat."
     ],
+    "title": "Slow-cooked marinated belly pork",
     "videos": "[]"
 }

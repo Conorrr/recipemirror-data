@@ -1,24 +1,23 @@
 {
-    "title": "Lentil curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "1",
-    "recommendations": "18",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lentilcurry_83629_16x9.jpg"
-    ],
-    "description": "This tasty vegetarian curry is on the table in 15 minutes, perfect for a speedy weekday summer.",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This tasty vegetarian curry is on the table in 15 minutes, perfect for a speedy weekday summer.",
+    "dishes": [
+        "curry",
+        "salad",
+        "stock",
+        "vegetable_curry"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lentilcurry_83629_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -37,6 +36,12 @@
             "2 hot ready-made chapattis"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "18",
+    "serves": "1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the olive oil in a frying pan over a medium heat. Add the onions and garlic and fry for two minutes, until soft.",
         "Add the spices and cook through for two more minutes.",
@@ -44,8 +49,9 @@
         "Add the cream and season with salt and freshly ground black pepper.",
         "To serve, pour the lentil curry into a warm bowl with the warm chipattis served on a plate alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lentil curry",
     "videos": "[]"
 }

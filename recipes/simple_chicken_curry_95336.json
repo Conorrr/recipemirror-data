@@ -1,26 +1,30 @@
 {
-    "title": "Simple chicken curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "26",
-    "images": [
-        
-    ],
-    "description": "This wonderfully spicy chicken curry is full of flavour and takes less than half an hour! The secret to the rice is leaving it to steam with the lid on after you take it off the heat.",
     "author": {
         "shelina_permalloo": "Shelina Permalloo"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This wonderfully spicy chicken curry is full of flavour and takes less than half an hour! The secret to the rice is leaving it to steam with the lid on after you take it off the heat.",
+    "dishes": [
+        "chicken_curry",
+        "curry",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "200g/7oz long grain rice"
+        ],
         "default": [
             "6 spring onions",
             "3 garlic cloves",
@@ -31,10 +35,13 @@
             "400g/14oz boneless skinless chicken thigh, cut into 2.5cm/1in pieces",
             "100ml/3\u00bdfl oz Greek-style natural yoghurt, plus extra to serve",
             "salt and pepper"
-        ],
-        "To serve": [
-            "200g/7oz long grain rice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "26",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Thinly slice the spring onions, reserving a handful of the sliced green parts for garnish. Peel and chop the garlic. Heat the oil in a large saucepan over a medium heat and cook the spring onions and garlic for a few minutes. Add the tomatoes, curry powder and ground ginger and cook for 3-4 minutes. If the pan gets dry add a splash of water and make sure the spices don't burn.",
@@ -43,8 +50,9 @@
         "While the chicken is cooking, prepare the rice. Pour the rice into a saucepan and rinse it under the cold tap to take away any cloudy starch. Drain the cloudy water away. Add clean water for cooking the rice. You need almost twice as much water as rice. (If you use a mug of rice, add a little less than two mugs of water). Bring to the boil then reduce the heat to a low simmer. Cover with a lid and cook very gently for 10 minutes. Remove from the heat and leave to stand with the lid on for 10 minutes. This will finish cooking the rice. Keeping the lid on is important, so none of the steam escapes.",
         "Take the curry off the heat, stir in the yoghurt then season with salt and pepper. Serve the curry with the rice and garnish with a drizzle of yoghurt."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Simple chicken curry",
     "videos": "[p02sc359:p02sc35d]"
 }

@@ -1,24 +1,26 @@
 {
-    "title": "Paneer-stuffed peppers",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-8",
-    "recommendations": "15",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/paneerstuffedpeppers_90032_16x9.jpg"
-    ],
-    "description": "These delicately spiced stuffed peppers are perfect for veggies and can be served as part of an Indian feast.",
     "author": {
         "anjum_anand": "Anjum Anand"
     },
-    "show": {
-        "b007szxr": "Indian Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "These delicately spiced stuffed peppers are perfect for veggies and can be served as part of an Indian feast.",
+    "dishes": [
+        "crumble",
+        "oven-baked_dishes",
+        "paneer",
+        "sauce",
+        "stir-fries",
+        "stuffed_pepper"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/paneerstuffedpeppers_90032_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -42,6 +44,12 @@
             "200g/7oz basmati rice, cooked according to packet instructions, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "15",
+    "serves": "Serves 4-8",
+    "show": {
+        "b007szxr": "Indian Food Made Easy"
+    },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5.",
         "Place the pepper halves onto a baking tray, drizzle with one tablespoon of the oil and bake in the oven for 20-25 minutes, or until softened. Once the peppers are cooked, remove them from the oven and set aside.",
@@ -54,8 +62,9 @@
         "Preheat the grill to its highest setting. While the grill is heating up, fill each of the baked pepper halves with the paneer mixture. When the grill is hot, grill the stuffed peppers until the paneer mixture is golden-brown.",
         "To serve, place one or two stuffed pepper halves onto each serving plate. Spoon a portion of basmati rice alongside each."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Paneer-stuffed peppers",
     "videos": "[]"
 }

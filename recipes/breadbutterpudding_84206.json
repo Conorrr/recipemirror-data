@@ -1,24 +1,25 @@
 {
-    "title": "Bread and butter pudding",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "brioche",
+        "custard",
+        "icing",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the custard mixture": [
@@ -34,6 +35,12 @@
             "icing sugar, for sprinkling"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "For the custard, place the milk, cream, vanilla seeds and pods into a saucepan and bring to a scalding point, then take off the heat.",
@@ -42,8 +49,9 @@
         "Grease an ovenproof dish with butter and pour over the custard mixture. Place into the oven to bake for 12 minutes, or until the custard has set.",
         "To serve, sprinkle the pudding with icing sugar."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Bread and butter pudding",
     "videos": "[]"
 }

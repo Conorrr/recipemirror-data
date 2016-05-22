@@ -1,24 +1,24 @@
 {
-    "title": "Red wine souffl\u00e9",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Use a full-bodied red wine to pack in the flavour in this fancy souffl\u00e9 recipe, served with a mixed berry salad.",
     "author": {
         "will_holland": "Will Holland"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Use a full-bodied red wine to pack in the flavour in this fancy souffl\u00e9 recipe, served with a mixed berry salad.",
+    "dishes": [
+        "oven-baked_dishes",
+        "salad",
+        "sauce",
+        "souffle",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the base": [
@@ -26,20 +26,26 @@
             "250ml/9fl oz full-bodied red wine",
             "100g/3\u00bdoz caster sugar"
         ],
-        "For the souffl\u00e9": [
-            "butter, for greasing",
-            "caster sugar, for dusting",
-            "3 free-range eggs, whites only",
-            "30g/1oz caster sugar",
-            "4 tbsp base (see above)"
-        ],
         "For the mixed berry salad": [
             "250g/9oz mixed strawberries, blueberries, blackberries, raspberries and redcurrants",
             "2 tbsp caster sugar",
             "8 mint leaves, finely sliced",
             "4 tbsp cr\u00e8me fra\u00eeche, to garnish",
             "1 tbsp basil cress, to garnish"
+        ],
+        "For the souffl\u00e9": [
+            "butter, for greasing",
+            "caster sugar, for dusting",
+            "3 free-range eggs, whites only",
+            "30g/1oz caster sugar",
+            "4 tbsp base (see above)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "To make the base, place the cornflour in a mixing bowl and gradually stir in the wine.",
@@ -53,8 +59,9 @@
         "For the mixed berry salad, mix the berries with the sugar and mint leaves and set aside to macerate for a couple of minutes.",
         "To serve, spoon the berry salad into four small dishes, and top with a spoonful of cr\u00e8me fraiche and a few leaves of basil cress. Place each dish on a plate and place the souffl\u00e9s alongside. Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Red wine souffl\u00e9",
     "videos": "[]"
 }

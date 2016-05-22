@@ -1,24 +1,21 @@
 {
-    "title": "Chickpea and cucumber salad",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "This salad will really cut through the fat of rich dishes, such as roast lamb, perfectly.",
     "author": {
         "freddy_bird": "Freddy Bird"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "This salad will really cut through the fat of rich dishes, such as roast lamb, perfectly.",
+    "dishes": [
+        "bun",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,12 +29,19 @@
             "salt and pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Drain and rinse the chickpeas and place in a bowl. Add the cucumber, herbs, chilli and red onion.",
         "Gently toss to combine. Season with lemon juice, salt and pepper, to taste."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chickpea and cucumber salad",
     "videos": "[]"
 }

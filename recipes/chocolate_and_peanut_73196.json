@@ -1,26 +1,40 @@
 {
-    "title": "Chocolate and peanut butter layer cake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8-10",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This is layer upon layer of luxury itself. Delicious peanut butter cream sandwiched between rich chocolate sponge - what more could anyone want from a cake?",
     "author": {
         "matt_tebbutt": "Matt Tebbutt"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "American",
+    "description": "This is layer upon layer of luxury itself. Delicious peanut butter cream sandwiched between rich chocolate sponge - what more could anyone want from a cake?",
+    "dishes": [
+        "cake",
+        "caramel",
+        "chocolate_cake",
+        "icing",
+        "oven-baked_dishes",
+        "sandwich",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_make_caramel_and_praline"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the frosting": [
+            "400g/14oz smooth peanut butter",
+            "400g/14oz icing sugar",
+            "70g/2\u00bdoz butter, softened",
+            "100g/3\u00bdoz soured cream"
+        ],
+        "For the peanut brittle": [
+            "150g/5oz caster sugar",
+            "100g/3\u00bdoz roasted peanuts"
+        ],
         "For the sponge": [
             "300g/10\u00bdoz dark chocolate, broken up",
             "350g/12oz butter, soft, plus extra for greasing",
@@ -30,17 +44,13 @@
             "2 tsp baking powder",
             "8 tbsp cocoa powder",
             "a little milk, if necessary"
-        ],
-        "For the peanut brittle": [
-            "150g/5oz caster sugar",
-            "100g/3\u00bdoz roasted peanuts"
-        ],
-        "For the frosting": [
-            "400g/14oz smooth peanut butter",
-            "400g/14oz icing sugar",
-            "70g/2\u00bdoz butter, softened",
-            "100g/3\u00bdoz soured cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 8-10",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease three 20cm/8in round cake tins with butter and line with baking paper (or use non-stick tins).",
@@ -50,8 +60,9 @@
         "For the frosting, beat the peanut butter with the icing sugar and butter until smooth. Beat in the soured cream, taste, then adjust the sweetness if necessary with a little more icing sugar.",
         "When the cakes have cooled, place one on a plate or cake stand and spread with some of the frosting. Top with another cake layer, more frosting, than the final layer of cake. Frost the top of the cake, using a piping bag if you wish. Finally, decorate with shards of the peanut brittle."
     ],
-    "howTos": [
-        "how_to_make_caramel_and_praline"
+    "tips": [
+        
     ],
+    "title": "Chocolate and peanut butter layer cake",
     "videos": "[]"
 }

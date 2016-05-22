@@ -1,26 +1,26 @@
 {
-    "title": "Whisky flapjacks",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 3",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "flapjacks"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "segmenting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "2 segments orange",
+            "fresh mint sprig"
+        ],
         "default": [
             "55g/2oz oats",
             "2 eggs, beaten",
@@ -28,11 +28,13 @@
             "55g/2oz caster sugar",
             "vegetable oil",
             "1 miniature whisky"
-        ],
-        "To serve": [
-            "2 segments orange",
-            "fresh mint sprig"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 3",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Mix together the main ingredients, except the oil and whisky, and shape into three patties.",
@@ -40,8 +42,9 @@
         "Add the whisky to the pan, warm and carefully set alight to flamb\u00e9 for a few seconds.",
         "Serve on a warm plate with the orange segments and mint sprig."
     ],
-    "howTos": [
-        "segmenting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Whisky flapjacks",
     "videos": "[]"
 }

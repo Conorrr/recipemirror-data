@@ -1,24 +1,21 @@
 {
-    "title": "Trout with samphire and beurre blanc",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/troutwithsamphireand_91865_16x9.jpg"
-    ],
-    "description": "",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b00lpbxs": "What to Eat Now"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "pie",
+        "sauce"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/troutwithsamphireand_91865_16x9.jpg"
     ],
     "ingredients": {
         "For the beurre blanc": [
@@ -33,18 +30,24 @@
             "sea salt flakes",
             "1-2 tbsp freshly squeezed lemon juice"
         ],
-        "For the trout": [
-            "2-3 tbsp plain flour",
-            "salt and freshly ground black pepper",
-            "2-3 tbsp sunflower oil",
-            "2 x 200g/7oz thick-cut brown or rainbow trout fillets"
-        ],
         "For the samphire": [
             "2 handfuls marsh samphire, rinsed thoroughly, tough stems removed, broken up into small pieces",
             "1 tbsp butter",
             "1-2 tbsp freshly squeezed lemon juice",
             "salt and freshly ground black pepper"
+        ],
+        "For the trout": [
+            "2-3 tbsp plain flour",
+            "salt and freshly ground black pepper",
+            "2-3 tbsp sunflower oil",
+            "2 x 200g/7oz thick-cut brown or rainbow trout fillets"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 2",
+    "show": {
+        "b00lpbxs": "What to Eat Now"
     },
     "steps": [
         "For the beurre blanc, heat one tablespoon of the butter in a non-reactive pan over a medium heat. When the butter has melted, add the shallots, garlic, thyme, bay leaf and peppercorns and fry for 2-3 minutes, or until the shallots have softened but not coloured.",
@@ -57,8 +60,9 @@
         "Meanwhile, for the samphire, add the samphire to a pan of boiling water (do not add salt) and cook for 2-3 minutes, or until tender. Drain well, then return the samphire to the pan, add the butter and lemon juice and season, to taste, with freshly ground black pepper.",
         "To serve, divide the samphire between two warmed plates. Place the trout on top and spoon over the beurre blanc."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Trout with samphire and beurre blanc",
     "videos": "[]"
 }

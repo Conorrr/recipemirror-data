@@ -1,43 +1,24 @@
 {
-    "title": "Lemon roasted pork chops with a warm aubergine and potato salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ed_baines": "Ed Baines"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "salad",
+        "salsa"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 tsp fennel seeds",
-            "1 bulb fennel",
-            "2 Cox's apples, finely chopped",
-            "12 sage leaves, finely chopped",
-            "juice and fruit of 1 lemon",
-            "8 tbsp olive oil",
-            "salt",
-            "freshly ground black pepper",
-            "2 pork chops"
-        ],
-        "For the roast lemon": [
-            "2 lemons cut into quarters",
-            "2 tsp demerara sugar",
-            "pinch of salt",
-            "2 tsp olive oil"
-        ],
         "For the aubergine and potato salad": [
             "2 aubergines, cut into wedges",
             "2 red or Maris Piper potatoes, cubed",
@@ -50,7 +31,30 @@
             "8 cherry tomatoes",
             "salt",
             "freshly ground black pepper"
+        ],
+        "For the roast lemon": [
+            "2 lemons cut into quarters",
+            "2 tsp demerara sugar",
+            "pinch of salt",
+            "2 tsp olive oil"
+        ],
+        "default": [
+            "2 tsp fennel seeds",
+            "1 bulb fennel",
+            "2 Cox's apples, finely chopped",
+            "12 sage leaves, finely chopped",
+            "juice and fruit of 1 lemon",
+            "8 tbsp olive oil",
+            "salt",
+            "freshly ground black pepper",
+            "2 pork chops"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Grind the fennel seeds.",
@@ -63,8 +67,9 @@
         "Grill the pork on both sides and then roast at 180C/350F/Gas 4 for ten minutes with the lemons.",
         "Serve with the salsa and the warm salad."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Lemon roasted pork chops with a warm aubergine and potato salad",
     "videos": "[]"
 }

@@ -1,24 +1,22 @@
 {
-    "title": "Artichokes alla Romana",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-5",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/artichokesallaromana_91747_16x9.jpg"
-    ],
-    "description": "",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b00lpbxs": "What to Eat Now"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "casserole",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "preparing_artichokes"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/artichokesallaromana_91747_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -40,6 +38,12 @@
             "handful chopped fresh parsley leaves"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4-5",
+    "show": {
+        "b00lpbxs": "What to Eat Now"
+    },
     "steps": [
         "Cut the peeled, trimmed artichokes in half lengthways and scoop out the hairy 'chokes' using a teaspoon. Rub the artichoke halves all over with the lemon juice to prevent them from discolouring. Set aside.",
         "Heat a heavy-based, lidded ovenproof casserole over a medium heat. When the casserole is hot, add the fennel and coriander seeds and dry fry for 30 seconds to one minute, or until the seeds begin to pop. (CAUTION: Keep the pan away from the eyes and face as popping seeds can be dangerous.)",
@@ -48,8 +52,9 @@
         "When the vegetables are tender, remove the casserole from the heat and set aside, uncovered, until cooled slightly.",
         "When the casserole contents have cooled slightly, drizzle over the olive oil, then sprinkle over the parsley. Serve the artichokes alla Romana with steamed fish or barbecued meat."
     ],
-    "howTos": [
-        "preparing_artichokes"
+    "tips": [
+        
     ],
+    "title": "Artichokes alla Romana",
     "videos": "[]"
 }

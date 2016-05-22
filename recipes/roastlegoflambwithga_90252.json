@@ -1,29 +1,25 @@
 {
-    "title": "Roast leg of lamb with garlic and rosemary",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "56",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/roastlegoflambwithga_90252_16x9.jpg"
-    ],
-    "description": "Put on your Sunday best for Mike Robinson\u2019s perfect roast leg of lamb served with a classic red wine gravy.",
     "author": {
         "mike_robinson": "Mike Robinson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Put on your Sunday best for Mike Robinson\u2019s perfect roast leg of lamb served with a classic red wine gravy.",
+    "dishes": [
+        "gravy",
+        "oven-baked_dishes",
+        "roast_lamb",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/roastlegoflambwithga_90252_16x9.jpg"
+    ],
     "ingredients": {
-        "For the lamb": [
-            "2kg/4\u00bdlb leg of lamb, on the bone"
-        ],
         "For the garlic and rosemary butter": [
             "3 large garlic cloves",
             "20g/1oz butter, softened",
@@ -34,7 +30,16 @@
             "125ml/4\u00bdfl oz red wine",
             "small knob of butter",
             "equal amount of plain flour"
+        ],
+        "For the lamb": [
+            "2kg/4\u00bdlb leg of lamb, on the bone"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "56",
+    "serves": "Serves 6-8",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Remove the lamb from the fridge and allow it to get to room temperature.",
@@ -49,8 +54,9 @@
         "To thicken the sauce, make a beurre manie by mixing together the flour and butter in a clean bowl to make a paste. Add about a teaspoon of the beurre manie to the pan and whisk well, until the sauce has the desired consistency.",
         "To serve, slice the lamb and pour over the gravy. Garnish with a couple stalks of fresh rosemary. This would be good with potatoes dauphinoise and fresh vegetables, for a Sunday lunch."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roast leg of lamb with garlic and rosemary",
     "videos": "[]"
 }

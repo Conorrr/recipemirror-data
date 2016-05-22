@@ -1,26 +1,33 @@
 {
-    "title": "Luxury fish pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "9",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/luxury_fish_pie_18997_16x9.jpg"
-    ],
-    "description": "A fish pie, I think, always needs a bit of smoked fish to really make it taste good and what could be more luxurious than smoked Scottish langoustines? If you can\u2019t get hold of any, use giant tiger prawns instead, and replace half of the plain haddock with smoked haddock. Equipment and preparation: for this recipe you will need a large ovenproof dish, about 2.5 litres/4 pints 7fl oz capacity.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b03hcv64": "Paul Hollywood's Pies & Puds"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A fish pie, I think, always needs a bit of smoked fish to really make it taste good and what could be more luxurious than smoked Scottish langoustines? If you can\u2019t get hold of any, use giant tiger prawns instead, and replace half of the plain haddock with smoked haddock. Equipment and preparation: for this recipe you will need a large ovenproof dish, about 2.5 litres/4 pints 7fl oz capacity.",
+    "dishes": [
+        "fish_pie",
+        "oven-baked_dishes",
+        "pie",
+        "roux",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/luxury_fish_pie_18997_16x9.jpg"
+    ],
     "ingredients": {
+        "For the filling": [
+            "500g/1lb 2oz haddock fillet (or other white fish of your choice), skinned and boned",
+            "250g/9oz salmon fillet, skinned and boned",
+            "250g/9oz smoked langoustines"
+        ],
         "For the poaching stock": [
             "600ml/20fl oz fish stock",
             "50ml/2fl oz anise-flavoured liqueur, such as Pernod",
@@ -29,11 +36,6 @@
             "2 celery sticks, roughly chopped",
             "1 bay leaf",
             "few sprigs fresh parsley"
-        ],
-        "For the filling": [
-            "500g/1lb 2oz haddock fillet (or other white fish of your choice), skinned and boned",
-            "250g/9oz salmon fillet, skinned and boned",
-            "250g/9oz smoked langoustines"
         ],
         "For the saffron mash": [
             "1.5kg/3lb 5oz floury potatoes (such as King Edward), peeled and cut into large chunks",
@@ -51,6 +53,12 @@
             "salt and black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 6",
+    "show": {
+        "b03hcv64": "Paul Hollywood's Pies & Puds"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "For the poaching stock, place all the ingredients in a large pan and bring to the boil. Reduce the heat to a simmer.",
@@ -62,8 +70,9 @@
         "Flake the cooked fish over the base of your ovenproof dish, taking care to remove any bones as you go. Scatter over the langoustines. Pour over the sauce. Top with the mash, smooth it down and then mark into a scallop pattern with the tip of a pallet knife, or the handle of a large spoon.",
         "Bake for 25\u201330 minutes, or until golden-brown on top and bubbling all the way through. If your assembled pie has cooled down, it may take longer. Serve with buttered peas."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Luxury fish pie",
     "videos": "[]"
 }

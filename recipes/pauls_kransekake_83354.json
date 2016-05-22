@@ -1,26 +1,32 @@
 {
-    "title": "Paul\u2019s kransekake",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 1 large kransekake",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pauls_kransekake_83354_16x9.jpg"
-    ],
-    "description": "Kransekake is a Scandinavian cake that forms an impressive showpiece at celebrations including weddings and Christmas. Equipment and preparation: for this recipe you will need six kransekake moulds (available from cookware specialists or online). Each mould comprises three rings, giving 18 rings in total.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "These buns can be frozen, just pop them in the oven for a few minutes to refresh them. Perfect for starting your Christmas prep early."
+    "cookTime": "10 to 30 mins",
+    "description": "Kransekake is a Scandinavian cake that forms an impressive showpiece at celebrations including weddings and Christmas. Equipment and preparation: for this recipe you will need six kransekake moulds (available from cookware specialists or online). Each mould comprises three rings, giving 18 rings in total.",
+    "dishes": [
+        "bun",
+        "cake",
+        "icing",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pauls_kransekake_83354_16x9.jpg"
+    ],
     "ingredients": {
+        "For the icing": [
+            "3 free-range egg whites",
+            "600g/1lb 5oz icing sugar, sifted",
+            "few drops red food colouring, or pea-sized piece red food colouring paste",
+            "red, green and silver edible glitter (available online or from specialist retailers)"
+        ],
         "default": [
             "500g/1lb 2oz ground almonds",
             "500g/1lb 2oz icing sugar, sifted",
@@ -29,13 +35,13 @@
             "vegetable oil, for greasing",
             "semolina, for dusting",
             "plain flour, for dusting"
-        ],
-        "For the icing": [
-            "3 free-range egg whites",
-            "600g/1lb 5oz icing sugar, sifted",
-            "few drops red food colouring, or pea-sized piece red food colouring paste",
-            "red, green and silver edible glitter (available online or from specialist retailers)"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "3",
+    "serves": "Makes 1 large kransekake",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Place the ground almonds and icing sugar in a large electric mixer. Add the egg whites and almond extract and mix with a dough hook. This could be done by hand but is easier with a mixer due to the large quantities. Cover the bowl with cling film and chill in the fridge for a minimum of two hours, or preferably overnight.",
@@ -53,8 +59,9 @@
         "Place the second-largest ring on top of the largest ring and repeat the icing and decorating process.",
         "Continue to stack the rings in decreasing size order until you have a tower of 18 iced and glittery rings. Allow the icing to set (this will stick the rings to each other), then serve."
     ],
-    "howTos": [
-        
+    "tips": [
+        "These buns can be frozen, just pop them in the oven for a few minutes to refresh them. Perfect for starting your Christmas prep early."
     ],
+    "title": "Paul\u2019s kransekake",
     "videos": "[]"
 }

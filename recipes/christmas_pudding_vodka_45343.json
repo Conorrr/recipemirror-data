@@ -1,24 +1,21 @@
 {
-    "title": "Christmas pudding vodka",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 500ml/18fl oz",
-    "recommendations": "21",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/christmas_pudding_vodka_45343_16x9.jpg"
-    ],
-    "description": "Keep this delicious aperitif in the freezer for a refreshing - and surprising - Christmas drink.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b018nq5b": "The Hairy Bikers' Christmas Party"
-    },
-    "tips": [
-        "To sterilise a bottle, wash it well and put it on its side on a clean baking sheet in the oven, preheated to 160C/325F/Gas 3, for 10 minutes."
+    "cookTime": "no cooking required",
+    "description": "Keep this delicious aperitif in the freezer for a refreshing - and surprising - Christmas drink.",
+    "dishes": [
+        "oven-baked_dishes",
+        "vodka_cocktail"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/christmas_pudding_vodka_45343_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -33,6 +30,12 @@
             "750ml/1 pint 5fl oz bottle good quality vodka"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "21",
+    "serves": "Makes 500ml/18fl oz",
+    "show": {
+        "b018nq5b": "The Hairy Bikers' Christmas Party"
+    },
     "steps": [
         "Mix the dried fruit with the sugar, cinnamon sticks, mixed spice, cloves, grated nutmeg and citrus zest in a large bowl.",
         "Pour over the vodka, and cover tightly with cling film.",
@@ -41,8 +44,9 @@
         "Pour the dried fruit and vodka mixture into the sieve and allow to drip through into the jug.",
         "Pour into a sterilized bottle."
     ],
-    "howTos": [
-        
+    "tips": [
+        "To sterilise a bottle, wash it well and put it on its side on a clean baking sheet in the oven, preheated to 160C/325F/Gas 3, for 10 minutes."
     ],
+    "title": "Christmas pudding vodka",
     "videos": "[]"
 }

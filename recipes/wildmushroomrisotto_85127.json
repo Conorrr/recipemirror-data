@@ -1,24 +1,22 @@
 {
-    "title": "Wild mushroom risotto",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "risotto",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -35,6 +33,12 @@
             "1 tsp fresh thyme leaves"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil in a large frying pan over a medium heat, add the chopped onion and cook for 4-5 minutes, or until softened but not browned.",
         "Add the garlic and mushrooms and cook for 3-4 minutes.",
@@ -43,8 +47,9 @@
         "Stir in the butter and cream and season well with salt and freshly ground black pepper.",
         "To serve, place the risotto into a bowl and sprinkle over the thyme leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Wild mushroom risotto",
     "videos": "[]"
 }

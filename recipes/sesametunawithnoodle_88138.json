@@ -1,34 +1,24 @@
 {
-    "title": "Sesame tuna with noodles",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Fresh tuna is such a treat, especially when it's given the sweet and tangy Chinese style treatment.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Fresh tuna is such a treat, especially when it's given the sweet and tangy Chinese style treatment.",
+    "dishes": [
+        "bread",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "800g/1lb 12\u00bcoz loin of tuna (the piece should be cylinder-shaped)",
-            "1 free-range egg white, lightly beaten",
-            "100g/3\u00bdoz sesame seeds",
-            "100g/3\u00bdoz poppy seeds",
-            "salt and freshly ground black pepper",
-            "dash vegetable oil, to fry"
-        ],
         "For the crisp-fried noodles (optional)": [
             "vegetable oil, for deep frying",
             "small handful dried fine egg noodles"
@@ -47,7 +37,21 @@
             "2 spring onions, sliced",
             "1 red pepper, finely sliced",
             "dash vegetable oil, to fry"
+        ],
+        "default": [
+            "800g/1lb 12\u00bcoz loin of tuna (the piece should be cylinder-shaped)",
+            "1 free-range egg white, lightly beaten",
+            "100g/3\u00bdoz sesame seeds",
+            "100g/3\u00bdoz poppy seeds",
+            "salt and freshly ground black pepper",
+            "dash vegetable oil, to fry"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Brush the tuna with the egg white. Scatter the seeds over a clean work surface or flat plate and roll the tuna in the seeds until covered all over. Season with salt and freshly ground black pepper, to taste.",
@@ -60,8 +64,9 @@
         "For the vegetables, add all the vegetables to the wok, mix well and then add some of the dressing.",
         "Serve the tuna on the vegetables, drizzled with the remaining dressing and topped with the crisp-fried noodles."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sesame tuna with noodles",
     "videos": "[]"
 }

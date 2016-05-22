@@ -1,24 +1,26 @@
 {
-    "title": "Simple chorizo and bean stew",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/simple_chorizo_and_bean_62033_16x9.jpg"
-    ],
-    "description": "Spice up your stew with chorizo and stir in some cannellini beans for a super dinner on a budget. Find out how you could cut your food bills with the Eat Well for Less quiz.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Spanish",
+    "description": "Spice up your stew with chorizo and stir in some cannellini beans for a super dinner on a budget. Find out how you could cut your food bills with the Eat Well for Less quiz.",
+    "dishes": [
+        "bread",
+        "pie",
+        "sauce",
+        "soup",
+        "stew",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/simple_chorizo_and_bean_62033_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -33,6 +35,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 2",
+    "show": {
+        
+    },
     "steps": [
         "Heat the oil in a large lidded saucepan over a medium-low heat. Add the chorizo and cook until the oil starts to run from the chorizo.",
         "Add the onion and garlic and cover with the lid. Cook, stirring from time to time, until soft.",
@@ -40,8 +48,9 @@
         "Add the parsley, season to taste with salt and pepper and stir well.",
         "Serve in soup bowls, with crusty bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Simple chorizo and bean stew",
     "videos": "[]"
 }

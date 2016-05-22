@@ -1,26 +1,30 @@
 {
-    "title": "Individual summer puddings",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "overnight",
-    "serves": "Makes 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "icing",
+        "pie",
+        "summer_pudding"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "icing sugar, for dusting",
+            "clotted cream (optional)"
+        ],
         "default": [
             "175g/6oz caster sugar",
             "150ml/5fl oz water",
@@ -29,11 +33,13 @@
             "100g/3\u00bdoz strawberries, quartered",
             "100g/3\u00bdoz raspberries",
             "12 slices white bread, crusts removed"
-        ],
-        "To serve": [
-            "icing sugar, for dusting",
-            "clotted cream (optional)"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Makes 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Place the sugar, water and vanilla pod into a pan over a high heat. Bring to the boil, then reduce the heat and simmer for 8-10 minutes.",
@@ -46,8 +52,9 @@
         "Place into the fridge to chill overnight.",
         "To serve, turn out the puddings from the moulds onto plates and dust with icing sugar. Add a dollop of clotted cream alongside, if using, then serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Individual summer puddings",
     "videos": "[]"
 }

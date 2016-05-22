@@ -1,33 +1,26 @@
 {
-    "title": "Rack of venison with sage and caramelised endive",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Mellow sweet flavours of braised endives go beautifully with rack of venison and a rich red wine sauce.",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b04gtx26": "A Taste of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Mellow sweet flavours of braised endives go beautifully with rack of venison and a rich red wine sauce.",
+    "dishes": [
+        "bun",
+        "caramel",
+        "oven-baked_dishes",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 tbsp rapeseed oil",
-            "2 racks venison (6 bones each), trimmed",
-            "salt and freshly ground black pepper",
-            "55g/2oz butter",
-            "\u00bd bunch sage, leaves picked and chopped, stalks reserved"
-        ],
         "For the endive": [
             "8 medium-sized Belgian endives",
             "250ml/9fl oz chicken stock",
@@ -44,7 +37,20 @@
             "125ml/4\u00bdfl oz red wine",
             "568ml/1 pint chicken stock",
             "55g/2oz butter"
+        ],
+        "default": [
+            "1 tbsp rapeseed oil",
+            "2 racks venison (6 bones each), trimmed",
+            "salt and freshly ground black pepper",
+            "55g/2oz butter",
+            "\u00bd bunch sage, leaves picked and chopped, stalks reserved"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b04gtx26": "A Taste of Britain"
     },
     "steps": [
         "For the venison, preheat the oven to 200C/400F/Gas 6.",
@@ -60,8 +66,9 @@
         "Strain the sauce through a sieve into the pan you caramelized the endives in, then beat in the butter. Taste and adjust seasoning as necessary.",
         "To serve, carve the racks of venison and serve with the endives. Garnish the endives with chives and pour the sauce around."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Rack of venison with sage and caramelised endive",
     "videos": "[]"
 }

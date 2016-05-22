@@ -1,32 +1,25 @@
 {
-    "title": "Salt-crusted sea bass with runner bean salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "15",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/salt-crusted_sea_bass_20066_16x9.jpg"
-    ],
-    "description": "Sea bass baked in salt crust makes for beautifully moist fish. Serve it with a simple summery salad.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Sea bass baked in salt crust makes for beautifully moist fish. Serve it with a simple summery salad.",
+    "dishes": [
+        "bun",
+        "jam",
+        "oven-baked_dishes",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/salt-crusted_sea_bass_20066_16x9.jpg"
+    ],
     "ingredients": {
-        "For the sea bass": [
-            "1 x 1.5kg/3lb 5oz sea bass",
-            "bunch fresh thyme",
-            "4 free-range egg whites",
-            "300g/11oz sea salt"
-        ],
         "For the salad": [
             "400g/14oz runner beans, thickly sliced diagonally",
             "4 tbsp chopped fresh flatleaf parsley",
@@ -39,7 +32,19 @@
             "squeeze lemon juice",
             "3 tbsp olive oil",
             "pinch sugar"
+        ],
+        "For the sea bass": [
+            "1 x 1.5kg/3lb 5oz sea bass",
+            "bunch fresh thyme",
+            "4 free-range egg whites",
+            "300g/11oz sea salt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "15",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the sea bass, preheat the oven to 200C/400F/Gas 6.",
@@ -53,8 +58,9 @@
         "Pour a little dressing over the salad and mix until well combined.",
         "Spoon the salad onto a serving plate and serve alongside the fish."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salt-crusted sea bass with runner bean salad",
     "videos": "[]"
 }

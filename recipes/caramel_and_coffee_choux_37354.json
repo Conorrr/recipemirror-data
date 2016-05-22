@@ -1,30 +1,40 @@
 {
-    "title": "Caramel and coffee choux buns",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/caramel_and_coffee_choux_37354_16x9.jpg"
-    ],
-    "description": "These decadent, creamy \u00e9clairs mix rich toffee with aromatic coffee for an elegant sugar hit. Equipment and preparation: for this recipe you will need a piping bag fitted with a 1cm/\u00bdin plain nozzle.",
     "author": {
         "tom_kerridge": "Tom Kerridge"
     },
-    "show": {
-        "b03mzc66": "Food & Drink"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "French",
+    "description": "These decadent, creamy \u00e9clairs mix rich toffee with aromatic coffee for an elegant sugar hit. Equipment and preparation: for this recipe you will need a piping bag fitted with a 1cm/\u00bdin plain nozzle.",
+    "dishes": [
+        "bun",
+        "caramel",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "profiteroles",
+        "sauce",
+        "stir-fries",
+        "toffee"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/caramel_and_coffee_choux_37354_16x9.jpg"
     ],
     "ingredients": {
         "For the choux pastry": [
             "75g/2\u00beoz butter, diced",
             "100g/3\u00bdoz plain flour",
             "3 free-range eggs"
+        ],
+        "For the coffee whipped cream": [
+            "300ml/10\u00bdfl oz double cream",
+            "75g/2\u00bdoz icing sugar",
+            "70ml/2\u00bdfl oz coffee liqueur"
         ],
         "For the filling": [
             "280ml/9\u00befl oz milk",
@@ -33,11 +43,6 @@
             "2 tbsp instant coffee granules",
             "30g/1oz plain flour",
             "1 x 397g/14oz tin caramel condensed milk"
-        ],
-        "For the coffee whipped cream": [
-            "300ml/10\u00bdfl oz double cream",
-            "75g/2\u00bdoz icing sugar",
-            "70ml/2\u00bdfl oz coffee liqueur"
         ],
         "For the glaze": [
             "200g/7oz soft light brown sugar",
@@ -50,6 +55,12 @@
             "80g/3oz caster sugar",
             "80g/3oz pecans"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b03mzc66": "Food & Drink"
     },
     "steps": [
         "Preheat the oven to 220C/200C Fan/Gas 7 and line a large baking tray with baking parchment.",
@@ -70,8 +81,9 @@
         "Scrape the sugared pecans onto a baking tray lined with baking paper, then set aside to cool and harden. Once hardened, roughly chop the sugared nuts.",
         "To assemble the choux buns, cut the choux buns in half horizontally and spread some of the caramel filling mixture and then the coffee whipped cream over the bases. Sprinkle over a few of the sugared pecans, then top with the glazed part of the choux buns. Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Caramel and coffee choux buns",
     "videos": "[]"
 }

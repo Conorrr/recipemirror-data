@@ -1,24 +1,20 @@
 {
-    "title": "French martini",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/frenchmartini_91740_16x9.jpg"
-    ],
-    "description": "Mix together vodka, raspberry liqueur and pineapple juice for this delicious cocktail.",
     "author": {
         "andy_pearson": "Andy Pearson"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Mix together vodka, raspberry liqueur and pineapple juice for this delicious cocktail.",
+    "dishes": [
+        "vodka_cocktail"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/frenchmartini_91740_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -27,12 +23,19 @@
             "35ml/1\u00bdfl oz fresh pineapple juice"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Place the vodka, raspberry liqueur, pineapple juice into a cocktail shaker with some ice and shake vigorously.",
         "Strain the mixture into a Martini glass and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "French martini",
     "videos": "[]"
 }

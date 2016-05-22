@@ -1,29 +1,33 @@
 {
-    "title": "Brunch platter",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bruschetta",
+        "jam",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
         
     ],
     "ingredients": {
         "For the bruschetta": [
             "2 slices ready-made soda farl",
             "2 tbsp olive oil",
+            "salt and freshly ground black pepper"
+        ],
+        "For the poached egg": [
+            "500ml/18fl oz boiling water",
+            "50ml/2fl oz white wine vinegar",
             "salt and freshly ground black pepper"
         ],
         "For the poached kipper": [
@@ -40,12 +44,13 @@
             "1 tsp wholegrain mustard",
             "\u00bd tsp white wine vinegar",
             "50ml/2fl oz double cream"
-        ],
-        "For the poached egg": [
-            "500ml/18fl oz boiling water",
-            "50ml/2fl oz white wine vinegar",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -58,8 +63,9 @@
         "To make the poached egg, place the water and vinegar in a saucepan and heat to maintain a gentle simmer. Swirl the water with a spoon to create a whirlpool effect. Gently add the egg and poach for three minutes, or until cooked to your liking. Remove with a slotted spoon and carefully rinse with hot water.",
         "To serve, place the two slices of bruschetta onto a warm plate, place the poached egg on one slice and the poached kipper on the other. Spoon the sauce over both."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Brunch platter",
     "videos": "[]"
 }

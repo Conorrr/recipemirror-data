@@ -1,26 +1,32 @@
 {
-    "title": "Brandy snaps with chilli and passion fruit cream",
-    "cookTime": "less than 10 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "merrilees_parker": "Merrilees Parker"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "brandy_snaps",
+        "icing",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "using_piping_bags",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the passion fruit cream": [
+            "250ml/9fl oz double cream",
+            "pinch of hot chilli powder",
+            "2 passion fruits, halved and pulp scooped out",
+            "2 tbsp icing sugar"
+        ],
         "default": [
             "100g/4oz unsalted butter",
             "100g/4oz caster sugar",
@@ -29,13 +35,13 @@
             "\u00bd tsp ground ginger",
             "1 tbsp lime juice",
             "one lime, zest only"
-        ],
-        "For the passion fruit cream": [
-            "250ml/9fl oz double cream",
-            "pinch of hot chilli powder",
-            "2 passion fruits, halved and pulp scooped out",
-            "2 tbsp icing sugar"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -50,9 +56,9 @@
         "To serve, pipe each snap with the chilli and passion fruit cream and then place three onto each serving plate.",
         "Serve immediately."
     ],
-    "howTos": [
-        "using_piping_bags",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Brandy snaps with chilli and passion fruit cream",
     "videos": "[]"
 }

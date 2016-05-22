@@ -1,26 +1,35 @@
 {
-    "title": "Steamed ginger fish served with egg-fried rice",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "14",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/steamedgingerfishser_79921_16x9.jpg"
-    ],
-    "description": "Lightly steaming the fish allows all the flavours to shine in this easy Chinese fried rice recipe. Each serving provides 253kcal, 25g protein, 2g carbohydrate (of which 1.5g sugars), 16g fat (of which 3.5g saturates), 0.1g fibre and 3.9g salt.",
     "author": {
         "ken_hom": "Ken Hom"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Chinese",
+    "description": "Lightly steaming the fish allows all the flavours to shine in this easy Chinese fried rice recipe. Each serving provides 253kcal, 25g protein, 2g carbohydrate (of which 1.5g sugars), 16g fat (of which 3.5g saturates), 0.1g fibre and 3.9g salt.",
+    "dishes": [
+        "fried_rice",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/steamedgingerfishser_79921_16x9.jpg"
+    ],
     "ingredients": {
+        "For the egg-fried rice": [
+            "2 large free-range eggs, lightly beaten",
+            "2 tsp sesame oil",
+            "1 tsp salt",
+            "2 tbsp groundnut oil",
+            "enough long grain rice to fill a glass measuring jug to 400ml/14fl oz, steamed and cooled completely",
+            "\u00bc tsp freshly ground black pepper",
+            "2 tbsp finely chopped spring onions"
+        ],
         "For the steamed ginger fish": [
             "4 thick white fish fillets with skin, such as cod, or coley, weighing about 115g/4oz each",
             "1 tsp coarse salt",
@@ -32,16 +41,13 @@
             "small handful fresh basil leaves, shredded",
             "1 tbsp peanut or groundnut oil",
             "1 tbsp olive oil"
-        ],
-        "For the egg-fried rice": [
-            "2 large free-range eggs, lightly beaten",
-            "2 tsp sesame oil",
-            "1 tsp salt",
-            "2 tbsp groundnut oil",
-            "enough long grain rice to fill a glass measuring jug to 400ml/14fl oz, steamed and cooled completely",
-            "\u00bc tsp freshly ground black pepper",
-            "2 tbsp finely chopped spring onions"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "14",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the steamed ginger fish, pat the fish dry with kitchen paper and rub all over with the salt. Place the fish on a heatproof plate and scatter evenly with the ginger, orange zest and lemon zest.",
@@ -56,8 +62,9 @@
         "Add the remaining salt and the freshly ground black pepper and stir-fry for two more minutes, then add the spring onions.",
         "Stir several times, turn on to a plate and serve at once."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Steamed ginger fish served with egg-fried rice",
     "videos": "[]"
 }

@@ -1,39 +1,48 @@
 {
-    "title": "Lemon cheescake with chocolate and ginger sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "cheesecake",
+        "crumble",
+        "icing",
+        "jam",
+        "macaroon",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "100g/3\u00bdoz ready mademacaroons, crumbled",
-            "\u00bd tub ricotta",
-            "zest and juice of half a lemon",
-            "1 tsp icing sugar"
-        ],
         "For the sauce": [
             "200ml double cream",
             "50g/1\u00beoz chocolate",
             "small piece root ginger, peeled and grated",
             "\u00bd orange, sliced",
             "fresh mint leaves, to garnish"
+        ],
+        "default": [
+            "100g/3\u00bdoz ready mademacaroons, crumbled",
+            "\u00bd tub ricotta",
+            "zest and juice of half a lemon",
+            "1 tsp icing sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Using a fiveiinch chefs' ring, press the crushed macaroons into the bottom to make a base.",
@@ -41,8 +50,9 @@
         "To make the sauce, melt together the cream and chocolate in a small saucepan over a low heat. Once the chocolate has melted, stir in the ginger.",
         "Remove the chefs' ring and serve the cheesecake with orange slices, chocolate sauce and mint leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lemon cheescake with chocolate and ginger sauce",
     "videos": "[]"
 }

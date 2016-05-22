@@ -1,26 +1,40 @@
 {
-    "title": "Fish, chips, mushy peas and tartare sauce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 2",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "James' own version of traditional fish and chips with crisp beer batter and all the trimmings.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "James' own version of traditional fish and chips with crisp beer batter and all the trimmings.",
+    "dishes": [
+        "bun",
+        "chips",
+        "fish_and_chips",
+        "jam",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the fish and chips": [
+            "vegetable oil, for deep frying",
+            "15g/\u00bdoz fresh yeast",
+            "pinch sugar",
+            "300ml/10\u00bdfl oz beer",
+            "1 tsp cider vinegar",
+            "200g/7oz plain flour",
+            "pinch salt",
+            "1 whole fillet of cod, cut in two",
+            "300g/10\u00bdoz chipping potatoes, peeled and cut unto 2cm/\u00bdin sticks",
+            "\u00bd lemon, cut into wedges, for serving"
+        ],
         "For the mushy peas": [
             "225g/8oz dried marrowfat peas",
             "1 tsp bicarbonate of soda",
@@ -38,19 +52,13 @@
             "1 small bunch fresh dill, chopped",
             "2 tbsp chopped fresh flatleaf parsley",
             "\u00bd lemon, juice only"
-        ],
-        "For the fish and chips": [
-            "vegetable oil, for deep frying",
-            "15g/\u00bdoz fresh yeast",
-            "pinch sugar",
-            "300ml/10\u00bdfl oz beer",
-            "1 tsp cider vinegar",
-            "200g/7oz plain flour",
-            "pinch salt",
-            "1 whole fillet of cod, cut in two",
-            "300g/10\u00bdoz chipping potatoes, peeled and cut unto 2cm/\u00bdin sticks",
-            "\u00bd lemon, cut into wedges, for serving"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "2",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the mushy peas, soak the peas for at least four hours in a large bowl with three times their volume of water and the bicarbonate of soda, or, if you have the time, overnight.",
@@ -64,8 +72,9 @@
         "Add the potatoes to the deep-fat fryer and fry for 3-4 minutes, or until golden-brown and crisp. Remove from the pan with a slotted spoon and set aside to drain on kitchen paper. Season with a little salt.",
         "Serve the fish and chips with the tartare sauce and mushy peas."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fish, chips, mushy peas and tartare sauce",
     "videos": "[]"
 }

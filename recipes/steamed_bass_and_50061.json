@@ -1,26 +1,33 @@
 {
-    "title": "Steamed bass and tomatoes with sardine and tomato ketchup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Try making your own sardine-flavoured ketchup for this delicate steamed fish and tomato dinner for two.",
     "author": {
         "nathan_outlaw": "Nathan Outlaw"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Try making your own sardine-flavoured ketchup for this delicate steamed fish and tomato dinner for two.",
+    "dishes": [
+        "ketchup",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the fish": [
+            "2 ripe plum tomatoes, peeled",
+            "1 garlic clove, chopped",
+            "1 rosemary sprig, leaves only, chopped",
+            "1 tsp caster sugar",
+            "sea salt and freshly ground black pepper",
+            "2 bass fillets, about 200g/7oz each, pin-boned",
+            "large handful of rocket leaves, to serve"
+        ],
         "For the ketchup": [
             "dash olive oil",
             "2 red onions, chopped",
@@ -31,16 +38,13 @@
             "1 rosemary sprig, leaves only, chopped",
             "200ml/7fl oz red wine vinegar",
             "2 x 120g/4oz tins good-quality sardines in tomato sauce"
-        ],
-        "For the fish": [
-            "2 ripe plum tomatoes, peeled",
-            "1 garlic clove, chopped",
-            "1 rosemary sprig, leaves only, chopped",
-            "1 tsp caster sugar",
-            "sea salt and freshly ground black pepper",
-            "2 bass fillets, about 200g/7oz each, pin-boned",
-            "large handful of rocket leaves, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "First make the ketchup. Heat a large pan over a medium heat and add a drizzle of olive oil. When hot, add the onions and garlic and cook for two minutes until the onions start to turn translucent.",
@@ -52,8 +56,9 @@
         "Season the bass fillets, oil them all over and then lay them skin side up, on the parchment in the steamer with the tomatoes. Steam for six more minutes until cooked through.",
         "To serve, lift the fish and tomatoes on the parchment from the steamer. Using a spatula, carefully transfer them to warm plates. Drizzle over all the cooking juices from the parchment and serve, with peppery rocket leaves and the ketchup on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steamed bass and tomatoes with sardine and tomato ketchup",
     "videos": "[]"
 }

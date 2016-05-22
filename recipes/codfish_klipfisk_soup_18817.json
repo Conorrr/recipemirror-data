@@ -1,24 +1,26 @@
 {
-    "title": "Codfish (klippfisk) soup",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 6 - 8",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/codfish_klipfisk_soup_18817_16x9.jpg"
-    ],
-    "description": "This hearty Scandinavian fish soup recipe is a great way to get that authentic taste with simple, cheap ingredients.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b01dl8gl": "Hairy Bikers' Bakeation"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Nordic",
+    "description": "This hearty Scandinavian fish soup recipe is a great way to get that authentic taste with simple, cheap ingredients.",
+    "dishes": [
+        "bread",
+        "broth",
+        "crumble",
+        "pie",
+        "soup",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/codfish_klipfisk_soup_18817_16x9.jpg"
     ],
     "ingredients": {
         "For the stock": [
@@ -41,6 +43,12 @@
             "rosemary sprigs, to garnish"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "Serves 6 - 8",
+    "show": {
+        "b01dl8gl": "Hairy Bikers' Bakeation"
+    },
     "steps": [
         "Add all the stock ingredients to a pan and let simmer for 20 minutes.",
         "Strain, reserving the fish meat, carrots, onions and garlic but discarding everything else.",
@@ -50,8 +58,9 @@
         "To serve, divide the broth between the bowls, add a portion of crumbled klippfisk to each bowl and decorate with a sprig of rosemary.",
         "Serve with bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Codfish (klippfisk) soup",
     "videos": "[]"
 }

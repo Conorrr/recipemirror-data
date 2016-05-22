@@ -1,24 +1,24 @@
 {
-    "title": "Salmon, fennel and pea risotto",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/salmon_fennel_and_pea_78832_16x9.jpg"
-    ],
-    "description": "Risotto is such a quick and easy dish: the creamy rice is complemented here by the salmon and peas. Be careful not to overcook it, though, or it will be stodgy.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b06z8bw3": "Mary Berry's Foolproof Cooking"
-    },
-    "tips": [
-        "It is important to add the stock when it is hot. If you add cold stock the mixture will take too long to boil and the rice will be overcooked. It is important to serve risotto as soon as it is cooked, as it doesn\u2019t keep well on the heat \u2013 it becomes soggy."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "Risotto is such a quick and easy dish: the creamy rice is complemented here by the salmon and peas. Be careful not to overcook it, though, or it will be stodgy.",
+    "dishes": [
+        "risotto",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/salmon_fennel_and_pea_78832_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -38,6 +38,12 @@
             "50g/2oz pea shoots, to ganish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4-6",
+    "show": {
+        "b06z8bw3": "Mary Berry's Foolproof Cooking"
+    },
     "steps": [
         "Pour the stock into a saucepan and keep warm over a low heat.",
         "Pour the oil into a large frying pan over a medium-high heat. Add the fennel and fry for about 4 minutes, or until softened, but not browned, stirring often. Add the garlic and rice and fry for a minute, stirring constantly, until the grains of rice are coated in the oil.",
@@ -45,8 +51,9 @@
         "Add the petits pois and lemon juice. Ladle in some of the remaining stock and keep stirring for a couple of minutes. Add the salmon slices, cr\u00e8me fra\u00eeche, tarragon and Parmesan. Stir and continue to cook until the salmon is done to your liking.",
         "Season to taste with salt and pepper and serve immediately, sprinkled with extra parmesan and garnished with pea shoots."
     ],
-    "howTos": [
-        
+    "tips": [
+        "It is important to add the stock when it is hot. If you add cold stock the mixture will take too long to boil and the rice will be overcooked. It is important to serve risotto as soon as it is cooked, as it doesn\u2019t keep well on the heat \u2013 it becomes soggy."
     ],
+    "title": "Salmon, fennel and pea risotto",
     "videos": "[]"
 }

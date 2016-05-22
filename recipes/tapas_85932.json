@@ -1,32 +1,29 @@
 {
-    "title": "Tapas platter",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the spiced almonds": [
-            "1 tbsp vegetable oil",
-            "50g/2oz whole almonds, out of their shells",
-            "1 tsp sea salt",
-            "1 tsp smoked paprika",
-            "1 tsp chilli flakes"
+        "For the almond-stuffed olives": [
+            "10 large green olives, stones removed",
+            "10 whole almonds, out of their shells",
+            "1 tbsp olive oil"
         ],
         "For the deep-fried squid": [
             "500ml/18fl oz vegetable oil, for deep frying",
@@ -39,18 +36,26 @@
             "1 tbsp balsamic vinegar",
             "1 tbsp olive oil"
         ],
-        "For the almond-stuffed olives": [
-            "10 large green olives, stones removed",
-            "10 whole almonds, out of their shells",
-            "1 tbsp olive oil"
-        ],
         "For the roasted pepper": [
             "\u00bd red pepper, seeds removed",
             "1 tbsp olive oil",
             "1 garlic clove, finely sliced",
             "1 tsp fresh thyme leaves",
             "salt and freshly ground black pepper"
+        ],
+        "For the spiced almonds": [
+            "1 tbsp vegetable oil",
+            "50g/2oz whole almonds, out of their shells",
+            "1 tsp sea salt",
+            "1 tsp smoked paprika",
+            "1 tsp chilli flakes"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -64,8 +69,9 @@
         "Transfer to the oven and roast for ten minutes, or until softened and lightly charred at the edges. Remove from the oven, cut into slices and place into a small bowl.",
         "To serve, place all of the bowls of tapas onto a large platter."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tapas platter",
     "videos": "[]"
 }

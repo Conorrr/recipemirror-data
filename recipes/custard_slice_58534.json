@@ -1,32 +1,30 @@
 {
-    "title": "Custard slice",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 8 slices",
-    "recommendations": "16",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/custard_slice_58534_16x9.jpg"
-    ],
-    "description": "A real teatime indulgence, this custard slice recipe will certainly bring back memories. Our own great British p\u00e2tisserie!",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b01q9tbm": "The Great Comic Relief Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "A real teatime indulgence, this custard slice recipe will certainly bring back memories. Our own great British p\u00e2tisserie!",
+    "dishes": [
+        "bread",
+        "custard",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "patisserie",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/custard_slice_58534_16x9.jpg"
+    ],
     "ingredients": {
-        "For the rough puff pastry": [
-            "225g/8oz plain flour, plus extra for dusting",
-            "\u00bd tsp salt",
-            "200g/7oz butter, chilled and cut into 1cm/\u00bdin cubes",
-            "140-160ml/5-5\u00bdfl oz water"
-        ],
         "For the cr\u00e8me p\u00e2tissi\u00e8re": [
             "500ml/18fl oz milk",
             "1 vanilla pod, split down the middle and seeds scraped out",
@@ -39,7 +37,19 @@
             "200g/7oz icing sugar",
             "5 tsp water",
             "50g/2oz dark chocolate, melted"
+        ],
+        "For the rough puff pastry": [
+            "225g/8oz plain flour, plus extra for dusting",
+            "\u00bd tsp salt",
+            "200g/7oz butter, chilled and cut into 1cm/\u00bdin cubes",
+            "140-160ml/5-5\u00bdfl oz water"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "16",
+    "serves": "Makes 8 slices",
+    "show": {
+        "b01q9tbm": "The Great Comic Relief Bake Off"
     },
     "steps": [
         "In a large bowl mix the flour and salt together. Rub in a third of the butter until the mixture resembles fine breadcrumbs. Then roughly rub in the remaining butter, leaving large lumps.",
@@ -69,8 +79,9 @@
         "Cut the finished vanilla slice into eight pieces.",
         "Using the foil carefully lift the portioned vanilla slices out of the tray and place onto a serving platter."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Custard slice",
     "videos": "[]"
 }

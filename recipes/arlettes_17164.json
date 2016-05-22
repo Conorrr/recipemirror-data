@@ -1,42 +1,51 @@
 {
-    "title": "Arlettes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 8 biscuits",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/arlettes_17164_16x9.jpg"
-    ],
-    "description": "These light puff pastry biscuits are flavoured with a touch of cinnamon - wonderful served with a coffee or ice cream.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "These light puff pastry biscuits are flavoured with a touch of cinnamon - wonderful served with a coffee or ice cream.",
+    "dishes": [
+        "biscuit",
+        "bread",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sandwich"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/arlettes_17164_16x9.jpg"
+    ],
     "ingredients": {
+        "For the butter layer": [
+            "125g/4\u00bdoz unsalted butter, at room temperature",
+            "25g/1oz strong white bread flour",
+            "25g/1oz plain flour"
+        ],
         "For the dough": [
             "60g/2\u00bcoz strong white bread flour, plus extra for dusting",
             "60g/2\u00bcoz plain flour",
             "1 tsp salt",
             "40g/1\u00bdoz unsalted butter, melted"
         ],
-        "For the butter layer": [
-            "125g/4\u00bdoz unsalted butter, at room temperature",
-            "25g/1oz strong white bread flour",
-            "25g/1oz plain flour"
-        ],
         "For the filling": [
             "50g/1\u00beoz granulated sugar",
             "2 tsp ground cinnamon",
             "icing sugar, for dusting"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "5",
+    "serves": "Makes 8 biscuits",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Put the flours, salt, butter and 50ml/2fl oz cold water in a bowl and gently mix to form a dough.",
@@ -50,8 +59,9 @@
         "Preheat the oven to 200C/180C Fan/Gas 6. Line 2 baking trays lines with silicon sheets or non-stick baking paper.",
         "Trim the ends of the roll and cut into 8 x 1cm/\u00bdin thick slices. Dust the work surface heavily with icing sugar and roll each piece of dough out very thinly, turning to coat in the sugar and to prevent sticking. Place the biscuits on the prepared trays and bake for 5 minutes. Remove from the oven, carefully turn the biscuits and cook for a further 3-4 minutes, or until golden-brown. Transfer to a wire rack to cool."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Arlettes",
     "videos": "[]"
 }

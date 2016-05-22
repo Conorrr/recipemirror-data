@@ -1,26 +1,42 @@
 {
-    "title": "Boeuf bourguignon with baguette dumplings",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4-6",
-    "recommendations": "48",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/boeuf_bourguignon_with_17690_16x9.jpg"
-    ],
-    "description": "Each region in France uses their own local red wine for this dish, so you don\u2019t need to use a bottle of Burgundy. Dumplings made from leftover baguettes make a great alternative to potatoes, as well as soaking up the juices from the stew.",
     "author": {
         "rachel_khoo": "Rachel Khoo"
     },
-    "show": {
-        "b01dy7yt": "The Little Paris Kitchen: Cooking with Rachel Khoo"
-    },
-    "tips": [
-        "Make the stew the day before to give the flavours time to develop. Add the mushrooms before gently reheating (no boiling). The dumplings can be kept in an airtight container in the fridge for 2 hours."
+    "cookTime": "over 2 hours",
+    "cusine": "French",
+    "description": "Each region in France uses their own local red wine for this dish, so you don\u2019t need to use a bottle of Burgundy. Dumplings made from leftover baguettes make a great alternative to potatoes, as well as soaking up the juices from the stew.",
+    "dishes": [
+        "baguette",
+        "beef_bourguignon",
+        "bread",
+        "bun",
+        "caramel",
+        "casserole",
+        "oven-baked_dishes",
+        "pie",
+        "stew",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/boeuf_bourguignon_with_17690_16x9.jpg"
+    ],
     "ingredients": {
+        "For the dumplings": [
+            "200g/7oz stale baguette or other bread (crust included)",
+            "handful chopped parsley",
+            "250ml/9oz milk",
+            "pinch of nutmeg",
+            "salt and freshly ground black pepper",
+            "1 free-range egg",
+            "1 tbsp plain flour",
+            "butter, for frying"
+        ],
         "default": [
             "900g/2lb beef shin or stewing beef, cut into 6 large chunks",
             "2 tbsp plain flour",
@@ -40,17 +56,13 @@
             "1 tsp salt",
             "10 chestnut mushrooms",
             "parsley leaves, chopped, to garnish"
-        ],
-        "For the dumplings": [
-            "200g/7oz stale baguette or other bread (crust included)",
-            "handful chopped parsley",
-            "250ml/9oz milk",
-            "pinch of nutmeg",
-            "salt and freshly ground black pepper",
-            "1 free-range egg",
-            "1 tbsp plain flour",
-            "butter, for frying"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "48",
+    "serves": "Serves 4-6",
+    "show": {
+        "b01dy7yt": "The Little Paris Kitchen: Cooking with Rachel Khoo"
     },
     "steps": [
         "Preheat the oven to 150C/300F/Gas 2.",
@@ -62,8 +74,9 @@
         "Meanwhile, heat a knob of butter in a large frying pan and fry the dumplings on a medium heat for five minutes or until golden-brown and crisp, then drain.",
         "Garnish the stew with parsley and serve with the dumplings."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Make the stew the day before to give the flavours time to develop. Add the mushrooms before gently reheating (no boiling). The dumplings can be kept in an airtight container in the fridge for 2 hours."
     ],
+    "title": "Boeuf bourguignon with baguette dumplings",
     "videos": "[]"
 }

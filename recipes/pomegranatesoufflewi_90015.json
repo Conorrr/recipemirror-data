@@ -1,26 +1,29 @@
 {
-    "title": "Pomegranate souffl\u00e9 with orange yoghurt",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "richard_phillips": "Richard Phillips"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "souffle",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the orange yoghurt": [
+            "4 tbsp Greek-style yoghurt",
+            "\u00bd orange, zest and juice only",
+            "fresh mint sprig, to garnish"
+        ],
         "For the souffl\u00e9": [
             "butter, for greasing",
             "\u00bd pomegranate, seeds only",
@@ -28,12 +31,13 @@
             "1 tsp cornflour",
             "3 free-range eggs, whites only",
             "2 tbsp caster sugar"
-        ],
-        "For the orange yoghurt": [
-            "4 tbsp Greek-style yoghurt",
-            "\u00bd orange, zest and juice only",
-            "fresh mint sprig, to garnish"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Lightly butter the insides of two ramekins.",
@@ -43,8 +47,9 @@
         "For the orange yoghurt, combine all of the yoghurt ingredients in a bowl and mix well.",
         "Serve the souffl\u00e9s immediately alongside a small bowl of the orange yoghurt, garnished with fresh mint."
     ],
-    "howTos": [
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Pomegranate souffl\u00e9 with orange yoghurt",
     "videos": "[]"
 }

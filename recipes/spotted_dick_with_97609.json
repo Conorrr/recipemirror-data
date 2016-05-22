@@ -1,26 +1,37 @@
 {
-    "title": "Spotted dick with custard and a blackberry sauce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Cr\u00e8me de cassis adds a grown-up touch to this school dinner favourite. Equipment and preparation: You will need six 6cm/2in pudding moulds.",
     "author": {
         "john_burton_race": "John Burton Race"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Cr\u00e8me de cassis adds a grown-up touch to this school dinner favourite. Equipment and preparation: You will need six 6cm/2in pudding moulds.",
+    "dishes": [
+        "custard",
+        "sauce",
+        "sponge_pudding",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the blackberry sauce": [
+            "50ml/1\u00befl oz cr\u00e8me de cassis",
+            "75g/2\u00bdoz caster sugar",
+            "250g/9oz blackberries"
+        ],
+        "For the custard": [
+            "200ml/7fl oz double cream",
+            "200ml/7fl oz full-fat milk",
+            "1 vanilla pod, seeds removed",
+            "6 free-range egg yolks",
+            "75g/2\u00bdoz caster sugar"
+        ],
         "For the spotted dick": [
             "25g/1oz unsalted butter, melted",
             "60g/2oz sultanas",
@@ -32,19 +43,13 @@
             "75g/2\u00bdoz caster sugar",
             "1 lemon, zest only",
             "200ml/7fl oz full-fat milk"
-        ],
-        "For the custard": [
-            "200ml/7fl oz double cream",
-            "200ml/7fl oz full-fat milk",
-            "1 vanilla pod, seeds removed",
-            "6 free-range egg yolks",
-            "75g/2\u00bdoz caster sugar"
-        ],
-        "For the blackberry sauce": [
-            "50ml/1\u00befl oz cr\u00e8me de cassis",
-            "75g/2\u00bdoz caster sugar",
-            "250g/9oz blackberries"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "For the spotted dick, grease six 6cm/2in pudding moulds with the melted butter.",
@@ -58,8 +63,9 @@
         "For the blackberry sauce, pour the cr\u00e8me de cassis into a medium saucepan and add the sugar and blackberries. Heat for five minutes then pass through a sieve. Keep the liquid and discard the fruit.",
         "To serve, carefully decant the puddings and place in serving bowls. Pour the custard around the pudding and drizzle a little of the blackberry sauce over."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spotted dick with custard and a blackberry sauce",
     "videos": "[]"
 }

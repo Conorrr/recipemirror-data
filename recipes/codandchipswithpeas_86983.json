@@ -1,33 +1,26 @@
 {
-    "title": "Cod and chips with peas",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b007zn94": "Take on the Takeaway"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "chips",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the peas": [
-            "1 tbsp olive oil",
-            "\u00bd onion, peeled and chopped",
-            "\u00bd red or green chilli, finely chopped",
-            "140g/5oz pancetta cubes or streaky bacon, chopped",
-            "200g/7oz frozen peas, defrosted"
-        ],
         "For the chips": [
             "500g/1lb 2oz potatoes, peeled and cut into chips",
             "1 litre/1\u00be pints vegetable oil, for deep-frying",
@@ -42,7 +35,20 @@
             "175-200ml/6\u00bc-7\u00bcfl oz soda water",
             "2 x 175g/5oz cod or hoki fillets",
             "lemon wedges, to serve"
+        ],
+        "For the peas": [
+            "1 tbsp olive oil",
+            "\u00bd onion, peeled and chopped",
+            "\u00bd red or green chilli, finely chopped",
+            "140g/5oz pancetta cubes or streaky bacon, chopped",
+            "200g/7oz frozen peas, defrosted"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b007zn94": "Take on the Takeaway"
     },
     "steps": [
         "For the peas, heat the oil in a frying pan over a medium heat and fry the onion for 1-2 minutes. Add the chilli and stir well.",
@@ -58,8 +64,9 @@
         "When golden-brown and crisp, remove the fish from the oil with a slotted spoon and drain on kitchen paper. Sprinkle with salt, to taste.",
         "To serve, place the fish onto plates with the chips and peas and lemon wedges."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cod and chips with peas",
     "videos": "[]"
 }

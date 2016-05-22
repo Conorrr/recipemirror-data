@@ -1,24 +1,21 @@
 {
-    "title": "The perfect cuppa",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -26,6 +23,12 @@
             "milk (optional)",
             "sugar (optional)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        
     },
     "steps": [
         "Empty the kettle of any previously boiled water and fill with fresh (preferably filtered) water. Bring the kettle to the boil.",
@@ -37,8 +40,9 @@
         "When you add the milk depends on whether you're a MIF (milk-in-first) or TIF (tea-in-first) person, or maybe you prefer it black, with sugar, a slice of lemon or a sprig of mint.",
         "Sit back and enjoy"
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "The perfect cuppa",
     "videos": "[]"
 }

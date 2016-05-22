@@ -1,24 +1,27 @@
 {
-    "title": "Three cheese pizza with a rocket and parmesan salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6-8",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Italian cheeses are the star of this vegetarian pizza recipe. The recipe makes between six and eight pizzas, depending on how large you make them.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "Italian cheeses are the star of this vegetarian pizza recipe. The recipe makes between six and eight pizzas, depending on how large you make them.",
+    "dishes": [
+        "bun",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "pizza",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading_bread_with_oil"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the pizza base": [
@@ -29,6 +32,12 @@
             "14g/\u00bdoz dried yeast",
             "4 tbsp extra virgin olive oil"
         ],
+        "For the rocket and parmesan salad": [
+            "2 bunches rocket",
+            "75g/2\u00bdoz parmesan cheese, shaved (or a similar vegetarian hard cheese)",
+            "3 tbsp olive oil",
+            "1 tbsp balsamic vinegar"
+        ],
         "For the topping": [
             "2 x 400g/14oz tins San Marzano tomatoes",
             "200g/7oz mozzarella cheese",
@@ -37,13 +46,13 @@
             "3 tbsp olive oil",
             "sea salt and freshly ground black pepper",
             "handful basil leaves"
-        ],
-        "For the rocket and parmesan salad": [
-            "2 bunches rocket",
-            "75g/2\u00bdoz parmesan cheese, shaved (or a similar vegetarian hard cheese)",
-            "3 tbsp olive oil",
-            "1 tbsp balsamic vinegar"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "1",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 450F/220C/Gas 7.",
@@ -57,8 +66,9 @@
         "For the rocket and parmesan salad, place the rocket in a bowl. Pour the oil and balsamic vinegar into a small bowl and whisk. Toss the rocket in the dressing and mix in the parmesan just before serving.",
         "To serve, scatter the basil leaves over the pizza and drizzle with a little more olive oil. Serve with the salad."
     ],
-    "howTos": [
-        "kneading_bread_with_oil"
+    "tips": [
+        
     ],
+    "title": "Three cheese pizza with a rocket and parmesan salad",
     "videos": "[]"
 }

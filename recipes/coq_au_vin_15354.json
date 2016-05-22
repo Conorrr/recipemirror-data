@@ -1,24 +1,27 @@
 {
-    "title": "Coq au vin",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "134",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/coq_au_vin_15354_16x9.jpg"
-    ],
-    "description": "Simon Hopkinson\u2019s recipe for coq au vin emphasises the rustic charm and comforting flavour of classic French food.",
     "author": {
         "simon_hopkinson": "Simon Hopkinson"
     },
-    "show": {
-        "b012gg69": "The Good Cook"
-    },
-    "tips": [
-        "A good coq au vin tastes infinitely better re-heated the next day. This also allows for any fat that has collected on the surface to be easily removed, having solidified in the fridge."
+    "cookTime": "1 to 2 hours",
+    "cusine": "French",
+    "description": "Simon Hopkinson\u2019s recipe for coq au vin emphasises the rustic charm and comforting flavour of classic French food.",
+    "dishes": [
+        "bread",
+        "casserole",
+        "coq_au_vin",
+        "jelly",
+        "oven-baked_dishes",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/coq_au_vin_15354_16x9.jpg"
     ],
     "ingredients": {
         "For the marinade": [
@@ -48,6 +51,12 @@
             "boiled or steamed potatoes, to serve"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "134",
+    "serves": "Serves 4",
+    "show": {
+        "b012gg69": "The Good Cook"
+    },
     "steps": [
         "Place the marinade ingredients into a casserole dish and bring to the boil. Allow the volume of liquid to reduce by one-third and strain into a clean, non-reactive bowl and set aside to cool. Place the chicken pieces into the marinade, cover and leave to chill in the fridge for at least 5-6 hours or, preferably, overnight.",
         "Warm the olive oil in the casserole dish and gently fry the pancetta until golden-brown. Remove with a slotted spoon and reserve.",
@@ -56,8 +65,9 @@
         "Heat 2.5cm/1in depth of vegetable oil in a heavy-based frying pan. (CAUTION: hot oil can be dangerous. Do not leave unattended.) Shallow fry the bread triangles for 2-3 minutes on each side, or until golden-brown. Remove with a slotted spoon. Finally, dip one edge of the fried bread into the hot coq au vin sauce, then into the parsley.",
         "Serve the coq au vin with simply boiled or steamed potatoes and with the bread triangles."
     ],
-    "howTos": [
-        
+    "tips": [
+        "A good coq au vin tastes infinitely better re-heated the next day. This also allows for any fat that has collected on the surface to be easily removed, having solidified in the fridge."
     ],
+    "title": "Coq au vin",
     "videos": "[]"
 }

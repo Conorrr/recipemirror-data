@@ -1,26 +1,31 @@
 {
-    "title": "Pan fried halibut with truffle poached egg, hollandaise and cavalo nero",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Fish simply fried, a hollandaise sauce, and eggs infused with the flavour of truffles.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Fish simply fried, a hollandaise sauce, and eggs infused with the flavour of truffles.",
+    "dishes": [
+        "gratin",
+        "jam",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the hollandaise": [
+            "125g/4\u00bdoz butter, melted",
+            "2 tsp lemon juice",
+            "2 tsp white wine vinegar",
+            "2 free-range eggs, yolks only",
+            "salt and freshly ground black pepper"
+        ],
         "default": [
             "4 free-range eggs",
             "1 truffle",
@@ -31,14 +36,13 @@
             "1 tbsp light olive oil",
             "2 tbsp white wine vinegar",
             "350g/13oz cavalo nero, picked"
-        ],
-        "For the hollandaise": [
-            "125g/4\u00bdoz butter, melted",
-            "2 tsp lemon juice",
-            "2 tsp white wine vinegar",
-            "2 free-range eggs, yolks only",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Place the whole eggs, unbroken, with the truffle and basmati into a bowl and leave for at least 24 hours for the truffle to infuse through the shells into the eggs. (The basmati is to absorb any moisture. It\u2019s not cooked in this recipe, but can be kept and cooked later.)",
@@ -53,8 +57,9 @@
         "With the motor running, add the hot lemon and vinegar. Then slowly add the melted butter until it is all incorporated. Remove from the processor and season with a little salt and black pepper.",
         "To serve, lift the skin off of the halibut and discard. Divide the cavalo nero between four plates and top with a fillet of halibut. Place the poached eggs on top, then spoon the hollandaise over and finish with a grating of fresh truffle."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pan fried halibut with truffle poached egg, hollandaise and cavalo nero",
     "videos": "[]"
 }

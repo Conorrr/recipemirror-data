@@ -1,24 +1,23 @@
 {
-    "title": "Spotted dick with banana",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "custard",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,6 +33,12 @@
             "custard, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "In a large bowl, mix together the flour, baking powder, suet, sugar, currants and orange zest.",
         "Stir in the banana pieces and gradually pour in the milk to make a dough.",
@@ -41,8 +46,9 @@
         "Place the pudding into a steamer, cover and steam for an hour.",
         "To serve, remove the pudding from the steamer and cut into slices. Place into serving bowls and pour over some custard."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Spotted dick with banana",
     "videos": "[]"
 }

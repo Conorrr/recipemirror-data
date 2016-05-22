@@ -1,29 +1,25 @@
 {
-    "title": "Picnic crudite loaf",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/picniccruditeloaf_91686_16x9.jpg"
-    ],
-    "description": "",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b00lpbxs": "What to Eat Now"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "bread",
+        "crudites",
+        "jam",
+        "mayonnaise"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/picniccruditeloaf_91686_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "1 stale crusty white farmhouse loaf"
-        ],
         "For the mayonnaise": [
             "2 large free-range egg yolks",
             "1 heaped tsp Dijon mustard",
@@ -36,15 +32,25 @@
             "4 free-range eggs, hard-boiled",
             "assorted vegetables (such as radishes, baby carrots, cherry tomatoes, celery sticks and",
             "cucumber), washed, trimmed and cut into batons"
+        ],
+        "default": [
+            "1 stale crusty white farmhouse loaf"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 2",
+    "show": {
+        "b00lpbxs": "What to Eat Now"
     },
     "steps": [
         "Slice off the top of the loaf and set aside. Place the loaf upright onto a work surface and make deep incisions in the crumb, leaving a 2.5cm/1in border of bread around the edges. Hollow out the loaf using your hands (the crumb can be used in another recipe).",
         "For the mayonnaise, blend the egg yolks, mustard, sugar and white wine vinegar or lemon juice in a food processor until smooth. Gradually add the sunflower oil in a thin stream, whisking continuously until the mixture is smooth and well combined and has thickened. Season, to taste, with salt and freshly ground black pepper.",
         "To serve, spoon the mayonnaise into a small sterilised jam jar and fasten tightly. Place the jar inside the hollowed-out loaf of bread. Add the hard-boiled eggs and vegetable batons. Wrap pinches of salt and freshly ground black pepper in individual sachets of aluminium foil and add them to the hollowed-out loaf. Cover the loaf with the reserved top slice of bread, or 'lid'. Wrap in aluminium foil or secure with string and carry with you on your picnic."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Picnic crudite loaf",
     "videos": "[]"
 }

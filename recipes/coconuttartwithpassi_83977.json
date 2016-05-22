@@ -1,26 +1,32 @@
 {
-    "title": "Coconut tart with passion fruit cream",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the passion fruit cream": [
+            "250g/9oz mascarpone",
+            "50ml/2fl oz double cream",
+            "2 tbsp icing sugar",
+            "3 passion fruit, sliced in half and pulp removed"
+        ],
         "For the tart": [
             "2 free-range eggs",
             "2 lemons, juice and zest",
@@ -28,13 +34,13 @@
             "375ml/13fl oz double cream",
             "300g/11oz desiccated coconut",
             "25cm/10in sweetened shortcrust pastry tart shell, blind baked (you can use ready-made)"
-        ],
-        "For the passion fruit cream": [
-            "250g/9oz mascarpone",
-            "50ml/2fl oz double cream",
-            "2 tbsp icing sugar",
-            "3 passion fruit, sliced in half and pulp removed"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 160C/320F/Gas 2.",
@@ -46,8 +52,9 @@
         "Whip until it begins to thicken, then add the passion fruit pulp and beat until firm.",
         "To serve, simply cut the coconut tart into wedges and place on a serving plate with a spoonful of the passion fruit cream."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Coconut tart with passion fruit cream",
     "videos": "[]"
 }

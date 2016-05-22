@@ -1,23 +1,19 @@
 {
-    "title": "Cooking a whole salmon",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 12",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "A classic dish good at buffets and for large number of guests. Can be prepared in advance.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A classic dish good at buffets and for large number of guests. Can be prepared in advance.",
+    "dishes": [
+        "oven-baked_dishes"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "chopping_vegetables"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -30,6 +26,12 @@
             "2 tbsp vegetable oil"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 12",
+    "show": {
+        
+    },
     "steps": [
         "Heat the oven to 190C/375F/Gas 5.",
         "Take 2 large sheets of foil and place on top of each other in a roasting tin. Spread the oil on the foil and place the salmon on top.",
@@ -37,8 +39,9 @@
         "Bake the fish for 50-60 minutes.",
         "Serve hot or cold. If you want to serve it cold, allow the fish to cool in the parcel and then gently peel off the skin and garnish with thinly sliced cucumber and watercress."
     ],
-    "howTos": [
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Cooking a whole salmon",
     "videos": "[]"
 }

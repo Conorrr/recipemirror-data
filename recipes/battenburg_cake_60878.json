@@ -1,24 +1,28 @@
 {
-    "title": "Battenberg cake",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 1 cake",
-    "recommendations": "13",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/battenburg_cake_60878_16x9.jpg"
-    ],
-    "description": "Battenberg cake is a true classic for afternoon tea. The Hairy Bikers' recipe makes it foolproof.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Battenberg cake is a true classic for afternoon tea. The Hairy Bikers' recipe makes it foolproof.",
+    "dishes": [
+        "cake",
+        "icing",
+        "jam",
+        "marzipan",
+        "oven-baked_dishes",
+        "sandwich",
+        "sauce",
+        "upside-down_cake"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/battenburg_cake_60878_16x9.jpg"
     ],
     "ingredients": {
         "For the cake": [
@@ -34,6 +38,12 @@
             "500g/1lb 2oz ready-made marzipan",
             "2\u20133 tbsp icing sugar, for rolling."
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "13",
+    "serves": "Makes 1 cake",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
     },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5.",
@@ -54,8 +64,9 @@
         "Wrap the marzipan around the cake, pressing it gently onto the surface of the sponges, and press the edges together to make a firm join.",
         "Turn back over with the seam underneath, trim a thin slice off each end and place on a serving plate."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Battenberg cake",
     "videos": "[]"
 }

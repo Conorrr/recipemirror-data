@@ -1,26 +1,39 @@
 {
-    "title": "Smoked duck tatin",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "blini",
+        "caramel",
+        "chutney",
+        "oven-baked_dishes",
+        "pastry",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "1 tbsp Dijon mustard",
+            "1 lemon, juice only",
+            "150ml/5fl oz extra virgin olive oil",
+            "salt and freshly ground black pepper"
+        ],
+        "To serve": [
+            "micro leaf salad",
+            "plum chutney"
+        ],
         "default": [
             "15g/\u00bdoz butter",
             "1 tbsp vegetable oil",
@@ -32,17 +45,13 @@
             "flour, for dusting",
             "2 x smoked duck breasts, sliced into thick strips",
             "1 free-range egg, beaten"
-        ],
-        "For the dressing": [
-            "1 tbsp Dijon mustard",
-            "1 lemon, juice only",
-            "150ml/5fl oz extra virgin olive oil",
-            "salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "micro leaf salad",
-            "plum chutney"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -56,8 +65,9 @@
         "Meanwhile, for the dressing, in a bowl, whisk together the mustard, lemon juice and olive oil until well combined. Season, to taste, with salt and freshly ground black pepper.",
         "To serve, cover each smoked duck tatin with a warm serving plate, then invert the pan, turning the smoked duck tatin out onto the plate (the filling should become the topping). Place a handful of the microleaf salad alongside and drizzle over the dressing. Spoon a dollop of plum chutney alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Smoked duck tatin",
     "videos": "[]"
 }

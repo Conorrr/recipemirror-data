@@ -1,26 +1,30 @@
 {
-    "title": "Beef stroganoff with matchstick potatoes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "55",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beefstroganoffwithma_71568_16x9.jpg"
-    ],
-    "description": "Rick Stein cooks up a classic Russian beef stroganoff recipe, and reveals his incredibly moreish matchstick potatoes.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b006xkb4": "Rick Stein's Food Heroes"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "East_European",
+    "description": "Rick Stein cooks up a classic Russian beef stroganoff recipe, and reveals his incredibly moreish matchstick potatoes.",
+    "dishes": [
+        "oven-baked_dishes",
+        "salad",
+        "stir-fries",
+        "stroganoff"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "julienne"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beefstroganoffwithma_71568_16x9.jpg"
+    ],
     "ingredients": {
+        "For the matchstick potatoes": [
+            "450g/1lb floury potatoes, such as Maris Piper, peeled",
+            "sunflower oil, for deep-frying"
+        ],
         "default": [
             "675g/1\u00bd lb beef fillet, preferably cut from the tail end",
             "65g/2\u00bdoz unsalted butter",
@@ -33,11 +37,13 @@
             "small handful of parsley leaves, finely chopped",
             "salt",
             "freshly ground black pepper"
-        ],
-        "For the matchstick potatoes": [
-            "450g/1lb floury potatoes, such as Maris Piper, peeled",
-            "sunflower oil, for deep-frying"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "55",
+    "serves": "Serves 4",
+    "show": {
+        "b006xkb4": "Rick Stein's Food Heroes"
     },
     "steps": [
         "Cut the steak into slices 1cm/0.5in thick, then cut each slice across the grain into strips 1cm/0.5in wide.",
@@ -53,8 +59,9 @@
         "Return the steak to the pan and heat very gently for one minute - the beef should not be cooked any further.",
         "Stir in the lemon juice and parsley and serve with the matchstick potatoes."
     ],
-    "howTos": [
-        "julienne"
+    "tips": [
+        
     ],
+    "title": "Beef stroganoff with matchstick potatoes",
     "videos": "[]"
 }

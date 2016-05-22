@@ -1,26 +1,37 @@
 {
-    "title": "Mincemeat trifle",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 12",
-    "recommendations": "36",
-    "images": [
-        
-    ],
-    "description": "This is a truly special trifle that everyone will love. Making the sponge base and lemon curd means you can add your favourite festive flavours like mincemeat or clementine. The results are worth the effort. Make a day ahead if you prefer.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b01s72gt": "Nigel Slater's Simple Cooking"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "This is a truly special trifle that everyone will love. Making the sponge base and lemon curd means you can add your favourite festive flavours like mincemeat or clementine. The results are worth the effort. Make a day ahead if you prefer.",
+    "dishes": [
+        "cake",
+        "custard",
+        "mincemeat",
+        "oven-baked_dishes",
+        "pie",
+        "slow-cooked_dishes",
+        "stir-fries",
+        "trifle"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the curd": [
+            "5 lemons, zest and juice",
+            "1 orange, zest and juice",
+            "150g/5\u00bdoz unsalted butter, cut into cubes",
+            "300g/10\u00bdoz sugar",
+            "4 eggs and 2 egg yolks"
+        ],
         "For the mincemeat sponge": [
             "250g/9oz butter",
             "250g/9oz caster sugar",
@@ -30,13 +41,6 @@
             "organic or unwaxed orange, grated zest and juice",
             "100g/3\u00bdoz good quality mincemeat"
         ],
-        "For the curd": [
-            "5 lemons, zest and juice",
-            "1 orange, zest and juice",
-            "150g/5\u00bdoz unsalted butter, cut into cubes",
-            "300g/10\u00bdoz sugar",
-            "4 eggs and 2 egg yolks"
-        ],
         "To serve": [
             "2 tbsp Marsala or dry sherry",
             "400ml/14fl oz ready-made custard",
@@ -44,6 +48,12 @@
             "20 physalis (Cape gooseberries)",
             "handful pistachios, shelled and chopped"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "36",
+    "serves": "Serves 12",
+    "show": {
+        "b01s72gt": "Nigel Slater's Simple Cooking"
     },
     "steps": [
         "You will need a shallow 23cm/9in cake tin, the base lined with baking parchment or greaseproof paper. Preheat the oven to 180C/350F/Gas 4.",
@@ -55,8 +65,9 @@
         "Break the mincemeat sponge into pieces and put them in the bottom of a serving dish. Sprinkle with a little sweet wine or Marsala or dry sherry. Pour over the custard then place in the fridge, covered.",
         "When the curd is cool, pour it over the custard and chill for an hour. Whip the cream, spoon on top, then decorate the top of the trifle with orange zest and physalis and a scattering of chopped pistachios."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mincemeat trifle",
     "videos": "[p00mrfrc:p00mrfrf]"
 }

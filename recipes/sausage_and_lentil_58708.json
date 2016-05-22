@@ -1,26 +1,34 @@
 {
-    "title": "Sausage and lentil cassoulet",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "This slow cooked French stew is made easier by using shop-bought confit duck legs to save you time without losing any flavour.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "This slow cooked French stew is made easier by using shop-bought confit duck legs to save you time without losing any flavour.",
+    "dishes": [
+        "cassoulet",
+        "jam",
+        "sauce",
+        "sausage",
+        "slow-cooked_dishes",
+        "stew",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pomme pur\u00e9e": [
+            "300g/10oz King Edward potatoes, peeled and cut into chunks",
+            "50g/1\u00beoz butter",
+            "110ml/3\u00befl oz double cream"
+        ],
         "For the sausage and lentil cassoulet": [
             "1 tbsp butter",
             "1 tbsp olive oil",
@@ -42,12 +50,13 @@
             "150g/5\u00bdoz smoked duck, shredded",
             "2 tbsp good sherry vinegar",
             "2 tbsp chopped fresh parsley"
-        ],
-        "For the pomme pur\u00e9e": [
-            "300g/10oz King Edward potatoes, peeled and cut into chunks",
-            "50g/1\u00beoz butter",
-            "110ml/3\u00befl oz double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the sausage and lentil cassoulet, first fry the sausages in the butter and oil, until browned.",
@@ -57,8 +66,9 @@
         "Push the potato through a potato ricer into a saucepan. (Alternatively, mash with a potato masher, but the finish will not be as smooth.) Return to the heat, then add the butter and cream and beat to a smooth pur\u00e9e. Season, to taste, with salt and freshly ground black pepper. Place in a piping bag and set aside.",
         "To serve, pipe the pomme pur\u00e9e into shallow bowls and pour some sausage and lentil cassoulet alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sausage and lentil cassoulet",
     "videos": "[]"
 }

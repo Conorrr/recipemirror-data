@@ -1,26 +1,37 @@
 {
-    "title": "Sheftalia with Greek salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b007zn94": "Take on the Takeaway"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Greek",
+    "description": "",
+    "dishes": [
+        "bun",
+        "hummus",
+        "pickle",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Greek salad": [
+            "\u00bd cucumber, peeled, cut into 2cm/1in chunks",
+            "4 medium ripe tomatoes, cut into quarters",
+            "\u00bd medium red onion, peeled, thinly sliced",
+            "small bunch fresh flatleaf parsley, roughly chopped",
+            "3 tbsp extra virgin olive oil",
+            "1 tbsp balsamic vinegar",
+            "100g/3\u00bdoz feta cheese, cut into cubes",
+            "60g/2oz Kalamata olives",
+            "\u00bd tsp dried oregano"
+        ],
         "For the hummus": [
             "1 x 400g/14oz can chickpeas, rinsed and drained",
             "1 garlic clove, peeled and finely chopped",
@@ -43,18 +54,13 @@
             "6 Kalamata olives, stones removed, finely chopped",
             "2 pickled chillies, finely chopped, or 1 fresh green chilli, finely chopped",
             "\u00bd medium red onion, peeled and finely chopped"
-        ],
-        "For the Greek salad": [
-            "\u00bd cucumber, peeled, cut into 2cm/1in chunks",
-            "4 medium ripe tomatoes, cut into quarters",
-            "\u00bd medium red onion, peeled, thinly sliced",
-            "small bunch fresh flatleaf parsley, roughly chopped",
-            "3 tbsp extra virgin olive oil",
-            "1 tbsp balsamic vinegar",
-            "100g/3\u00bdoz feta cheese, cut into cubes",
-            "60g/2oz Kalamata olives",
-            "\u00bd tsp dried oregano"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 2",
+    "show": {
+        "b007zn94": "Take on the Takeaway"
     },
     "steps": [
         "For the hummus, place the chickpeas into the bowl of a food processor and blend until they form a rough paste (or you can mash the chickpeas with a potato masher).",
@@ -68,8 +74,9 @@
         "For the Greek salad, place the cucumber, tomato, red onion and parsley into a clean bowl. Drizzle with the olive oil and balsamic vinegar, add the feta and olives and gently mix together. Sprinkle with oregano.",
         "Place three sheftalia onto two plates. Place some Greek salad alongside, add a dollop of hummus sprinkled with paprika and serve"
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Sheftalia with Greek salad",
     "videos": "[]"
 }

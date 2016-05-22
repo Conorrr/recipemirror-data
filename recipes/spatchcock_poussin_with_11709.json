@@ -1,33 +1,26 @@
 {
-    "title": "Spatchcock poussin with couscous salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Mixed herbs, chopped chilli, lemon\u2013flecked couscous salad is the perfect side dish for rosemary and garlic-marinated spring chicken.",
     "author": {
         "tom_kerridge": "Tom Kerridge"
     },
-    "show": {
-        "b0424667": "Spring Kitchen with Tom Kerridge"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Mixed herbs, chopped chilli, lemon\u2013flecked couscous salad is the perfect side dish for rosemary and garlic-marinated spring chicken.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_make_couscous",
+        "spatchcocking"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the spatchcock poussin": [
-            "2 poussin",
-            "2 garlic cloves, sliced",
-            "1 tbsp chopped rosemary leaves",
-            "1 lemon, zest and juice",
-            "50ml/1\u00befl oz olive oil"
-        ],
         "For the couscous salad": [
             "pinch of a stock cube",
             "20ml/\u00befl oz olive oil",
@@ -38,7 +31,20 @@
             "1 tsp shredded mint",
             "1 red chilli, finely diced",
             "1 lemon, zest only"
+        ],
+        "For the spatchcock poussin": [
+            "2 poussin",
+            "2 garlic cloves, sliced",
+            "1 tbsp chopped rosemary leaves",
+            "1 lemon, zest and juice",
+            "50ml/1\u00befl oz olive oil"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b0424667": "Spring Kitchen with Tom Kerridge"
     },
     "steps": [
         "For the spatchcock poussin, preheat the oven to 230C/450F/Gas 8.",
@@ -55,9 +61,9 @@
         "Fluff up the couscous with a fork, then add the pepper, herbs, chilli, zest and salt and pepper, to taste.",
         "Place the couscous in a serving bowl and then put the quail and any meat juices on top to serve."
     ],
-    "howTos": [
-        "how_to_make_couscous",
-        "spatchcocking"
+    "tips": [
+        
     ],
+    "title": "Spatchcock poussin with couscous salad",
     "videos": "[]"
 }

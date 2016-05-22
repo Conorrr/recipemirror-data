@@ -1,26 +1,36 @@
 {
-    "title": "Bakewell tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1",
-    "recommendations": "26",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bakewelltart_89618_16x9.jpg"
-    ],
-    "description": "A true British classic, Bakewell tart is best served slightly warm with a dollop of lightly whipped cream.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00d6g4f": "The Hairy Bakers"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "A true British classic, Bakewell tart is best served slightly warm with a dollop of lightly whipped cream.",
+    "dishes": [
+        "bakewell_tart",
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry",
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/bakewelltart_89618_16x9.jpg"
+    ],
     "ingredients": {
+        "For the filling": [
+            "400g/14oz ground almonds",
+            "175g/6oz caster sugar",
+            "8 free-range eggs, beaten",
+            "\u00bd tsp almond essence",
+            "3 tbsp raspberry jam",
+            "50g/2oz flaked almonds"
+        ],
         "For the pastry": [
             "425g/15oz plain flour, plus extra for dusting",
             "1 free-range egg, beaten",
@@ -29,15 +39,13 @@
             "100g/3\u00bdoz caster sugar",
             "\u00bd tsp salt",
             "50g/2oz ground almonds"
-        ],
-        "For the filling": [
-            "400g/14oz ground almonds",
-            "175g/6oz caster sugar",
-            "8 free-range eggs, beaten",
-            "\u00bd tsp almond essence",
-            "3 tbsp raspberry jam",
-            "50g/2oz flaked almonds"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "26",
+    "serves": "Makes 1",
+    "show": {
+        "b00d6g4f": "The Hairy Bakers"
     },
     "steps": [
         "For the pastry, place the flour, salt, sugar, butter and almonds into a food processor and pulse until the mixture resembles breadcrumbs.",
@@ -56,9 +64,9 @@
         "Top with flaked almonds, then bake in the oven for 25-30 minutes, or until the filling is baked through and golden-brown all over.",
         "Remove from the oven and allow to cool. Serve warm or cold."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Bakewell tart",
     "videos": "[]"
 }

@@ -1,24 +1,24 @@
 {
-    "title": "B\u00e9chamel sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "bechamel_sauce",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,6 +32,12 @@
             "grated nutmeg (optional)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Bring the milk just to the boil with the onion pierced with the bay leaf and cloves, and the peppercorns.",
         "Remove from the heat and leave to infuse for 20 minutes before straining.",
@@ -40,8 +46,9 @@
         "Cook for 10-15 minutes to ensure the flour is cooked through.",
         "Sprinkle with grated nutmeg, if desired, and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "B\u00e9chamel sauce",
     "videos": "[]"
 }

@@ -1,34 +1,25 @@
 {
-    "title": "Fish finger butty",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bun",
+        "mayonnaise",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "600g/1lb 5oz assorted cooked fish (salmon, whiting, pollack)",
-            "salt and freshly ground black pepper",
-            "100g/3\u00bdoz plain flour",
-            "2 free-range eggs",
-            "100g/3\u00bdoz polenta",
-            "vegetable oil, for shallow frying"
-        ],
         "For the tartare sauce": [
             "200ml/7fl oz ready-made mayonnaise",
             "1 tbsp English mustard",
@@ -39,7 +30,21 @@
             "4 burger buns",
             "handful rocket",
             "4 lemon wedges"
+        ],
+        "default": [
+            "600g/1lb 5oz assorted cooked fish (salmon, whiting, pollack)",
+            "salt and freshly ground black pepper",
+            "100g/3\u00bdoz plain flour",
+            "2 free-range eggs",
+            "100g/3\u00bdoz polenta",
+            "vegetable oil, for shallow frying"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Break up the cooked fish with a fork in a bowl. Season with salt and freshly ground black pepper.",
@@ -51,8 +56,9 @@
         "To serve, place a spoonful of tartare sauce onto each bun, then add a little rocket.",
         "Top each with three fish fingers and a squeeze of lemon."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fish finger butty",
     "videos": "[]"
 }

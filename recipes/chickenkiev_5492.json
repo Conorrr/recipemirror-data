@@ -1,28 +1,31 @@
 {
-    "title": "Chicken Kiev",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "Chicken supremes are chicken breasts that include part of the wingbone"
+    "cookTime": "10 to 30 mins",
+    "cusine": "East_European",
+    "description": "",
+    "dishes": [
+        "bread",
+        "chicken_kiev",
+        "prepare-ahead_desserts"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "making_herb_butter"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 x 225g/8oz chicken supr\u00eames (chicken breasts with wingbone attached), skinned"
+        "For the Kiev coating": [
+            "50g/2oz plain flour",
+            "4 eggs, beaten",
+            "175g/6oz natural breadcrumbs",
+            "25g/1oz parmesan cheese, grated",
+            "Vegetable oil, for frying"
         ],
         "For the garlic herb butter": [
             "45-60g/3-4 tbsp freshly chopped flat leaf parsley",
@@ -33,13 +36,15 @@
             "Salt and freshly ground black pepper",
             "\u00be tsp English mustard"
         ],
-        "For the Kiev coating": [
-            "50g/2oz plain flour",
-            "4 eggs, beaten",
-            "175g/6oz natural breadcrumbs",
-            "25g/1oz parmesan cheese, grated",
-            "Vegetable oil, for frying"
+        "default": [
+            "4 x 225g/8oz chicken supr\u00eames (chicken breasts with wingbone attached), skinned"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "7",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "To prepare the garlic herb butter: place the herbs in a bowl and add the softened butter. To crush the garlic sprinkle a little rock salt onto a chopping board. Using the edge of your knife and using a paddling motion crush the garlic into a smooth paste. Add to the butter mixture. Add the mustard and pepper and mix together with a fork.",
@@ -52,8 +57,9 @@
         "Heat the oil in a large pan or a deep fat fryer to 180C/350F/Gas4. Add the chicken breasts and fry until golden for 8-10 minutes and drain onto kitchen paper.",
         "Serve immediately with herbed rice."
     ],
-    "howTos": [
-        "making_herb_butter"
+    "tips": [
+        "Chicken supremes are chicken breasts that include part of the wingbone"
     ],
+    "title": "Chicken Kiev",
     "videos": "[]"
 }

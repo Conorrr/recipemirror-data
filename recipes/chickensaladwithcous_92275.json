@@ -1,24 +1,21 @@
 {
-    "title": "Chicken salad with couscous and oranges",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "20",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickensaladwithcous_92275_16x9.jpg"
-    ],
-    "description": "Use up leftover roast chicken in this simple and healthy chicken salad.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b00vt10m": "Nigel Slater's Simple Suppers"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Use up leftover roast chicken in this simple and healthy chicken salad.",
+    "dishes": [
+        "chicken_salad",
+        "salad"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "how_to_make_couscous"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickensaladwithcous_92275_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -33,14 +30,21 @@
             "handful pea shoots"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "20",
+    "serves": "Serves 2",
+    "show": {
+        "b00vt10m": "Nigel Slater's Simple Suppers"
+    },
     "steps": [
         "Put the couscous in a bowl and pour over some boiling water (it should cover the grains by a couple of centimetres or so). Leave for about 15 minutes, until the couscous has absorbed the liquid.",
         "In a separate mixing bowl, whisk together the lemon juice and the orange juice with the olive oil and season well with salt and freshly ground black pepper, adding more olive oil if desired. Pour the dressing over the cooked couscous and let it soak the dressing up for about 10 minutes.",
         "Meanwhile, peel the remaining orange by cutting the ends off, placing it on a chopping board and cutting down the sides with a sharp knife to remove the skin and pith. Cut the orange into good-sized chunks. Add the orange chunks, chicken and herbs to the couscous and mix gently. Don't over-mix; it's about a lightness of touch.",
         "Divide the pea shoots between two plates or shallow dishes and then gently top each with the chicken couscous salad."
     ],
-    "howTos": [
-        "how_to_make_couscous"
+    "tips": [
+        
     ],
+    "title": "Chicken salad with couscous and oranges",
     "videos": "[]"
 }

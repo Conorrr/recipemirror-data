@@ -1,38 +1,25 @@
 {
-    "title": "Braised beef",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "anton_mosimann": "Anton Mosimann"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "de-glazing_pans"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "800g/1\u00be lb beef topside or round shoulder",
-            "20ml/\u00befl oz oil",
-            "100g/3\u00bdoz mirepoix - see below",
-            "60g/2oz bacon trimmings, blanched",
-            "1 garlic clove, with skin on",
-            "200g/7oz fresh tomatoes, cut in quarters",
-            "salt, pepper",
-            "500ml/17fl oz red wine",
-            "500ml/17fl oz brown stock",
-            "a little cornflour"
-        ],
         "For the garnish": [
             "carrots, baby leek, pearl onions",
             "mange tout, blanched",
@@ -45,7 +32,25 @@
             "1 small onion",
             "1 stick celery",
             "1 tbsp tomato pur\u00e9e"
+        ],
+        "default": [
+            "800g/1\u00be lb beef topside or round shoulder",
+            "20ml/\u00befl oz oil",
+            "100g/3\u00bdoz mirepoix - see below",
+            "60g/2oz bacon trimmings, blanched",
+            "1 garlic clove, with skin on",
+            "200g/7oz fresh tomatoes, cut in quarters",
+            "salt, pepper",
+            "500ml/17fl oz red wine",
+            "500ml/17fl oz brown stock",
+            "a little cornflour"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Season the meat with salt and pepper.",
@@ -59,8 +64,9 @@
         "Place the meat on a serving dish. Pour a small quantity of sauce over the carved meat before serving.",
         "Garnish with the blanched carrots, baby leek, pearl onions, mange tout, button mushrooms fried in a little butter with the remaining bacon."
     ],
-    "howTos": [
-        "de-glazing_pans"
+    "tips": [
+        
     ],
+    "title": "Braised beef",
     "videos": "[]"
 }

@@ -1,26 +1,34 @@
 {
-    "title": "Spotted dick and custard",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "17",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spotteddickandcustar_87835_16x9.jpg"
-    ],
-    "description": "Recreate the best of nursery puddings from school dinner days with this traditional steamed pudding.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Recreate the best of nursery puddings from school dinner days with this traditional steamed pudding.",
+    "dishes": [
+        "custard",
+        "jam",
+        "pie",
+        "sauce",
+        "sponge_pudding",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spotteddickandcustar_87835_16x9.jpg"
+    ],
     "ingredients": {
+        "For the custard": [
+            "200ml/7fl oz milk",
+            "200ml/7fl oz double cream",
+            "6 free-range egg yolks",
+            "75g/3oz caster sugar"
+        ],
         "For the spotted dick": [
             "300g/10oz plain flour",
             "10g/2 tsp baking powder",
@@ -30,13 +38,13 @@
             "1 lemon, zest only",
             "200ml/7fl oz milk",
             "butter, for greasing"
-        ],
-        "For the custard": [
-            "200ml/7fl oz milk",
-            "200ml/7fl oz double cream",
-            "6 free-range egg yolks",
-            "75g/3oz caster sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "17",
+    "serves": "Serves 6",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the spotted dick, place the flour, baking powder, shredded suet, caster sugar, currants and lemon zest into a bowl and mix to combine.",
@@ -50,8 +58,9 @@
         "Pour the hot milk onto the eggs, a little at a time, and stir well. Pour the mixture back into the pan and cook over a low heat, stirring with a wooden spatula, until just thickened.",
         "To serve, slice a wedge of spotted dick for each person and place onto each of six plates. Pour over the custard and serve at once."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Spotted dick and custard",
     "videos": "[]"
 }

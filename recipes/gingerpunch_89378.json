@@ -1,24 +1,22 @@
 {
-    "title": "Ginger punch",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "wayne_collins": "Wayne Collins"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "jam",
+        "pie",
+        "punch"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,14 +30,21 @@
             "2 fresh pineapple leaves, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Place the pineapple into a cocktail shaker and mash (muddle) with the end of a rolling pin.",
         "Add the ginger and mash well again.",
         "Add the pineapple juice, falernum syrup, rum, lime juice, vanilla syrup and a handful of ice. Shake well and strain into a glass.",
         "Garnish with two fresh pineapple leaves and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Ginger punch",
     "videos": "[]"
 }

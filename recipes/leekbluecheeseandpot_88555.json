@@ -1,24 +1,22 @@
 {
-    "title": "Leek, blue cheese and potato soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "crumble",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,14 +30,21 @@
             "85g/3oz Lanark Blue cheese, or other blue cheese, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil and butter in a pan and gently fry the onion and garlic for a couple of minutes, until softened.",
         "Add the potatoes and leeks and continue to fry for another 3-4 minutes.",
         "Add the stock and bring to a simmer. Simmer for 10-12 minutes, or until the potatoes are tender.",
         "Serve in a bowl, with the blue cheese crumbled over the top."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Leek, blue cheese and potato soup",
     "videos": "[]"
 }

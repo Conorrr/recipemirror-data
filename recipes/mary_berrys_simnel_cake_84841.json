@@ -1,26 +1,40 @@
 {
-    "title": "Mary Berry\u2019s simnel cake",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 10",
-    "recommendations": "22",
-    "images": [
-        
-    ],
-    "description": "Decorate this traditional Easter cake with crystallised primroses or other edible spring flowers to make it look extra special.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Decorate this traditional Easter cake with crystallised primroses or other edible spring flowers to make it look extra special.",
+    "dishes": [
+        "cake",
+        "jam",
+        "marzipan",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "simnel_cake",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the filling and topping": [
+            "450g/1lb golden marzipan",
+            "2 tbsp apricot jam",
+            "1 large free-range egg, beaten, to glaze"
+        ],
+        "To decorate": [
+            "1 free-range egg white",
+            "organic primroses (or alternatively other edible spring flowers)",
+            "handful caster sugar"
+        ],
         "default": [
             "100g/4oz red or natural glac\u00e9 cherries",
             "225g/8oz softened butter",
@@ -32,17 +46,13 @@
             "50g/2oz chopped candied peel",
             "2 lemons, zest only",
             "2 level tsp ground mixed spice"
-        ],
-        "For the filling and topping": [
-            "450g/1lb golden marzipan",
-            "2 tbsp apricot jam",
-            "1 large free-range egg, beaten, to glaze"
-        ],
-        "To decorate": [
-            "1 free-range egg white",
-            "organic primroses (or alternatively other edible spring flowers)",
-            "handful caster sugar"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "22",
+    "serves": "Serves 10",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 150C/300F/Gas 2. Grease a 20cm/8in deep round cake tin and then line the base and sides with baking parchment.",
@@ -56,8 +66,9 @@
         "Cover the flowers in caster sugar until all the egg white is evenly coated, and leave to dry completely. You can either just lie them carefully on non-stick parchment, or, to help keep the flowers\u2019 shape, you can stretch non-stick paper over a plastic box or bowl, securing it in place with string or a rubber band, and then pierce several holes in the paper using a skewer. Place the stems of the crystallised flowers through the holes, allowing the paper to hold and support the flowers in a more natural position as they dry and harden. You will need to make the crystallised flowers at least a day in advance.",
         "Decorate the cake by arranging the crystallised primroses on top and tying a ribbon around the middle."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mary Berry\u2019s simnel cake",
     "videos": "[]"
 }

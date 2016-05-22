@@ -1,23 +1,29 @@
 {
-    "title": "Melton Mowbray pork pie",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4-6",
-    "recommendations": "14",
-    "images": [
-        
-    ],
-    "description": "Have a crack at making the gold standard of pork pies - it's surprisingly easy and very, very impressive.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
-    },
-    "tips": [
-        "The pastry is best made the day before and kept in the fridge wrapped in cling film. Bring to room temperature before rolling out."
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Have a crack at making the gold standard of pork pies - it's surprisingly easy and very, very impressive.",
+    "dishes": [
+        "chutney",
+        "jam",
+        "jelly",
+        "oven-baked_dishes",
+        "pastry",
+        "piccalilli",
+        "pie",
+        "pork_pie",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "kneading",
+        "how_to_shape_hot_water_pastry_for_a_raised_pie"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -29,6 +35,14 @@
             "salt and freshly ground black pepper",
             "1 free-range egg, beaten, for brushing"
         ],
+        "For the pie filling": [
+            "400g/14oz shoulder of pork, finely chopped",
+            "55g/2oz pork belly, skin removed, minced",
+            "55g/2oz lean bacon, finely chopped",
+            "\u00bd tsp ground allspice",
+            "\u00bd tsp freshly grated nutmeg",
+            "salt and freshly ground black pepper"
+        ],
         "For the pork jelly": [
             "900g/2lb pork bones",
             "2 pig's trotters",
@@ -38,17 +52,15 @@
             "1 bouquet garni (bay, thyme, parsley; tied together with string)",
             "\u00bd tbsp black peppercorns"
         ],
-        "For the pie filling": [
-            "400g/14oz shoulder of pork, finely chopped",
-            "55g/2oz pork belly, skin removed, minced",
-            "55g/2oz lean bacon, finely chopped",
-            "\u00bd tsp ground allspice",
-            "\u00bd tsp freshly grated nutmeg",
-            "salt and freshly ground black pepper"
-        ],
         "To serve": [
             "piccalilli or chutney"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "14",
+    "serves": "Serves 4-6",
+    "show": {
+        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
     },
     "steps": [
         "For the pastry, place the lard, milk and water into a small pan and gently heat until the lard has melted.",
@@ -66,9 +78,9 @@
         "Remove the pie from the oven and set aside to cool. Cut two small holes in the top of the pork pie and pour in the pork jelly mixture (you may need to heat it through gently to loosen the mixture for pouring). Chill in the fridge until the jelly is set.",
         "To serve, cut the pie into slices and serve with piccalilli or chutney."
     ],
-    "howTos": [
-        "kneading",
-        "how_to_shape_hot_water_pastry_for_a_raised_pie"
+    "tips": [
+        "The pastry is best made the day before and kept in the fridge wrapped in cling film. Bring to room temperature before rolling out."
     ],
+    "title": "Melton Mowbray pork pie",
     "videos": "[]"
 }

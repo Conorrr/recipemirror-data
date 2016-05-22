@@ -1,36 +1,37 @@
 {
-    "title": "Roast chicken with with boulang\u00e8re potatoes",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "4",
-    "recommendations": "20",
-    "images": [
-        
-    ],
-    "description": "Boulang\u00e8re potatoes are a lighter version of dauphinoise and delicious served with roast chicken and a simple salad.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Boulang\u00e8re potatoes are a lighter version of dauphinoise and delicious served with roast chicken and a simple salad.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "roast_chicken",
+        "salad",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "testing_cooked_poultry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the roast chicken": [
-            "1kg/2lb 2oz free-range or organic chicken",
-            "5 sprigs thyme",
-            "40g butter"
-        ],
         "For the boulang\u00e8re potatoes": [
             "6 potatoes, peeled, sliced thinly",
             "4 onions, peeled, sliced thinly",
             "salt and freshly ground black pepper",
             "450ml/16fl oz chicken stock"
+        ],
+        "For the roast chicken": [
+            "1kg/2lb 2oz free-range or organic chicken",
+            "5 sprigs thyme",
+            "40g butter"
         ],
         "For the salad": [
             "\u00bd shallot, peeled, finely diced",
@@ -41,6 +42,12 @@
             "2 Little Gem lettuces, leaves separated"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "20",
+    "serves": "4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "For the roast chicken, rub the butter and thyme leaves onto the skin of the chicken.",
@@ -50,8 +57,9 @@
         "Mix the Little Gem lettuce and salad dressing together in a bowl until well combined.",
         "To serve, carve the chicken into thick slices and place some onto each of four serving plates. Spoon the boulang\u00e8re potatoes and salad alongside."
     ],
-    "howTos": [
-        "testing_cooked_poultry"
+    "tips": [
+        
     ],
+    "title": "Roast chicken with with boulang\u00e8re potatoes",
     "videos": "[]"
 }

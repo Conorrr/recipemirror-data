@@ -1,26 +1,39 @@
 {
-    "title": "Dark chocolate and fresh fig tarts",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Fresh figs and dark chocolate make a wonderfully rich and succulent dessert. Served with raspberry sauce and white chocolate ice-cream.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Fresh figs and dark chocolate make a wonderfully rich and succulent dessert. Served with raspberry sauce and white chocolate ice-cream.",
+    "dishes": [
+        "bread",
+        "chocolate_tart",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading",
+        "trimming_pastry_case",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the filling": [
+            "275g/10oz dark chocolate, min 70% cocoa solids",
+            "3 medium free-range eggs",
+            "40g/1\u00bd oz caster sugar",
+            "60ml/2\u00bd fl oz double cream",
+            "8 fresh figs"
+        ],
         "For the pastry": [
             "110g/4oz unsalted butter, plus extra for greasing",
             "225g/8oz plain flour, plus extra for flouring",
@@ -29,13 +42,6 @@
             "2 tbsp ground almonds",
             "1 free-range egg, lightly beaten",
             "2-3 tsp cold water"
-        ],
-        "For the filling": [
-            "275g/10oz dark chocolate, min 70% cocoa solids",
-            "3 medium free-range eggs",
-            "40g/1\u00bd oz caster sugar",
-            "60ml/2\u00bd fl oz double cream",
-            "8 fresh figs"
         ],
         "For the sauce": [
             "250g/9oz raspberries",
@@ -46,6 +52,12 @@
             "ready-made white chocolate ice cream",
             "fresh mint sprigs, to garnish"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the pastry, place the butter, flour, salt, caster sugar and ground almonds into a food processor and blend until the mixture resembles fine breadcrumbs.",
@@ -66,10 +78,9 @@
         "Meanwhile, for the raspberry sauce, place the raspberries, sugar and lemon juice into a food processor and blend until smooth, then pass the mixture through a sieve to remove the raspberry pips.",
         "To serve, place a spoonful of raspberry sauce in the centre of four serving plates. Place a warm fig and chocolate tart on top of the sauce with a scoop of white chocolate ice cream and a sprig of mint, to garnish."
     ],
-    "howTos": [
-        "kneading",
-        "trimming_pastry_case",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Dark chocolate and fresh fig tarts",
     "videos": "[]"
 }

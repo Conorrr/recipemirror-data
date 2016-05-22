@@ -1,29 +1,24 @@
 {
-    "title": "Salt beef and horseradish mash",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "12",
-    "images": [
-        
-    ],
-    "description": "Salt beef has a wonderfully unique flavour and is perfect paired with horseradish mash.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Salt beef has a wonderfully unique flavour and is perfect paired with horseradish mash.",
+    "dishes": [
+        "salted_beef",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2kg/4lb 6\u00bdoz beef brisket joint, tied"
-        ],
         "For the brine": [
             "500g/1lb 2oz demerara sugar",
             "1.5kg/3lb 5oz sea salt",
@@ -32,6 +27,14 @@
             "4 cloves",
             "4 bay leaves",
             "sprig fresh thyme"
+        ],
+        "For the horseradish mash": [
+            "500g/17\u00bdoz potatoes, peeled, chopped",
+            "150g/5\u00bcoz butter",
+            "1 tbsp creamed horseradish",
+            "1 tbsp chopped fresh chives",
+            "salt and freshly ground black pepper",
+            "gherkins, to serve"
         ],
         "For the vegetables": [
             "2 carrots, peeled, chopped",
@@ -42,14 +45,15 @@
             "handful fresh parsley",
             "handful fresh thyme"
         ],
-        "For the horseradish mash": [
-            "500g/17\u00bdoz potatoes, peeled, chopped",
-            "150g/5\u00bcoz butter",
-            "1 tbsp creamed horseradish",
-            "1 tbsp chopped fresh chives",
-            "salt and freshly ground black pepper",
-            "gherkins, to serve"
+        "default": [
+            "2kg/4lb 6\u00bdoz beef brisket joint, tied"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Serves 8",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the brine, place all of the brine ingredients into a large saucepan and cover with 5 litres/8\u00be pints of water. Bring the mixture to the boil and cook for 2-3 minutes. Remove the pan from the heat and set aside to cool completely.",
@@ -59,8 +63,9 @@
         "Mash the potatoes until smooth using a potato masher or ricer, then beat in the butter. Stir in the horseradish and chives and season, to taste, with salt and freshly ground black pepper.",
         "To serve, carve the beef into thick slices and serve with the horseradish mash, vegetables and gherkins."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salt beef and horseradish mash",
     "videos": "[]"
 }

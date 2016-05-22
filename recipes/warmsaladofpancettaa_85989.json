@@ -1,26 +1,31 @@
 {
-    "title": "Warm salad of pancetta, avocado and roasted red pepper",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the croutons": [
+            "2 slices rustic white bread, roughly torn into bite-sized pieces",
+            "1 tbsp olive oil",
+            "salt and freshly ground black pepper"
+        ],
         "For the roasted red pepper": [
             "\u00bd red pepper, seeds removed, quartered",
             "olive oil, for drizzling"
@@ -31,12 +36,13 @@
             "2 tsp balsamic vinegar",
             "1 tbsp olive oil",
             "salt and freshly ground black pepper"
-        ],
-        "For the croutons": [
-            "2 slices rustic white bread, roughly torn into bite-sized pieces",
-            "1 tbsp olive oil",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -47,8 +53,9 @@
         "Spread the bread pieces out on a baking sheet, transfer to the oven and bake for five minutes, or until golden-brown and crisp.",
         "To serve, sprinkle the croutons over the salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Warm salad of pancetta, avocado and roasted red pepper",
     "videos": "[]"
 }

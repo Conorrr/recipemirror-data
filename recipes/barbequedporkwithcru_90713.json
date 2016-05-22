@@ -1,26 +1,30 @@
 {
-    "title": "Pork tenderloin with crushed potatoes and mustard sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the mustard sauce": [
+            "100ml/3\u00bdfl oz double cream",
+            "1 tsp Dijon mustard",
+            "1 tbsp lemon juice"
+        ],
         "For the pork": [
             "85g/3oz pork tenderloin",
             "2 sprigs fresh rosemary",
@@ -33,12 +37,13 @@
             "15g/\u00bdoz butter",
             "2 tbsp chopped fresh chives",
             "salt and freshly ground black pepper"
-        ],
-        "For the mustard sauce": [
-            "100ml/3\u00bdfl oz double cream",
-            "1 tsp Dijon mustard",
-            "1 tbsp lemon juice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -48,8 +53,9 @@
         "For the sauce, place the cream into a small pan and simmer for 4-5 minutes, or until reduced by about a third in volume, then stir in the mustard and lemon juice.",
         "To serve, spoon the crushed potatoes onto a serving plate. Thickly slice the pork and arrange on top of the potatoes, then spoon the sauce around the edges of the plate."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pork tenderloin with crushed potatoes and mustard sauce",
     "videos": "[]"
 }

@@ -1,24 +1,24 @@
 {
-    "title": "Mini pitta bread pizzas",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "ketchup",
+        "oven-baked_dishes",
+        "pizza",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "chiffonade"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,14 +34,21 @@
             "1 handful iceberg lettuce, shredded, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "Heat the olive oil in a pan and fry the onion and garlic for 2-3 minutes, or until softened. Stir in the tomato and ketchup and simmer for 3-4 minutes, or until reduced slightly.",
         "Spread the tomato mixture onto one side of the pitta halves, arrange the pepper strips on top and lay over the cheese. Transfer to a baking sheet and bake in the oven for 3-4 minutes, or until the cheese starts to melt.",
         "Serve the pitta bread pizzas on a serving plate alongside the shredded iceberg lettuce."
     ],
-    "howTos": [
-        "chiffonade"
+    "tips": [
+        
     ],
+    "title": "Mini pitta bread pizzas",
     "videos": "[]"
 }

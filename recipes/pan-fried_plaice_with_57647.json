@@ -1,26 +1,33 @@
 {
-    "title": "Pan-fried plaice with crab and samphire",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "Pan-fried plaice fillets served with white crab meat and herbs and a delicious sauce made with the brown crab meat.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Pan-fried plaice fillets served with white crab meat and herbs and a delicious sauce made with the brown crab meat.",
+    "dishes": [
+        "jam",
+        "mayonnaise",
+        "quenelle",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the brown crab": [
+            "25g/1oz butter",
+            "1 shallot, finely diced",
+            "1 garlic clove, finely diced",
+            "75g/3oz brown crab meat, passed through a fine sieve",
+            "75ml/2\u00bdfl oz white wine",
+            "3 tbsp mayonnaise"
+        ],
         "For the plaice": [
             "4 large plaice fillets, skinned and pin boned",
             "salt, to season the fish",
@@ -37,15 +44,13 @@
             "2 hard-boiled eggs, finely chopped",
             "3-4 tbsp extra virgin olive oil",
             "\u00bd lemon, juice only, to taste"
-        ],
-        "For the brown crab": [
-            "25g/1oz butter",
-            "1 shallot, finely diced",
-            "1 garlic clove, finely diced",
-            "75g/3oz brown crab meat, passed through a fine sieve",
-            "75ml/2\u00bdfl oz white wine",
-            "3 tbsp mayonnaise"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Season the plaice with a little salt then dust with the flour.",
@@ -62,8 +67,9 @@
         "To serve, pile some samphire onto the centre of each serving plate then top with a plaice fillet.",
         "Form a quenelle of the white crab meat and set on top of the plaice. Drizzle the brown crab sauce around the edge of the dish."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pan-fried plaice with crab and samphire",
     "videos": "[]"
 }

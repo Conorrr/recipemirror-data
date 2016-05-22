@@ -1,23 +1,27 @@
 {
-    "title": "Spinach, chorizo and artichoke pizza with a baby leaf spinach salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 4 pizzas",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Combine the wonderful flavours of chorizo and artichoke to make a truly delicious homemade pizza.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "Combine the wonderful flavours of chorizo and artichoke to make a truly delicious homemade pizza.",
+    "dishes": [
+        "bun",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "pizza",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -27,6 +31,14 @@
             "7g sachet dried fast action yeast",
             "1 tbsp olive oil",
             "300ml/10\u00bdoz warm water"
+        ],
+        "For the salad": [
+            "25g/1oz baby leaf spinach",
+            "2 little gem lettuce, separated into leaves",
+            "70g/2\u00bdoz cherry tomatoes, halved",
+            "3 tbsp olive oil",
+            "1 tbsp sherry vinegar",
+            "1 tbsp red wine vinegar"
         ],
         "For the topping": [
             "2 tbsp olive oil",
@@ -40,15 +52,13 @@
             "350g/12\u00bcoz buffalo mozzarella, thickly sliced",
             "15g/\u00bdoz fresh baby spinach",
             "salt and freshly ground black pepper"
-        ],
-        "For the salad": [
-            "25g/1oz baby leaf spinach",
-            "2 little gem lettuce, separated into leaves",
-            "70g/2\u00bdoz cherry tomatoes, halved",
-            "3 tbsp olive oil",
-            "1 tbsp sherry vinegar",
-            "1 tbsp red wine vinegar"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Makes 4 pizzas",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the dough, place the flour, salt and yeast into a large bowl and stir to combine.",
@@ -67,8 +77,9 @@
         "In a separate small bowl mix together the oil, sherry and red wine vinegar then pour the dressing over the salad.",
         "To serve, place each pizza on a warm plate with the salad on the side."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Spinach, chorizo and artichoke pizza with a baby leaf spinach salad",
     "videos": "[]"
 }

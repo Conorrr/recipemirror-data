@@ -1,24 +1,21 @@
 {
-    "title": "Red Leicester souffl\u00e9",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "souffle"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -27,6 +24,12 @@
             "1 tbsp olive oil",
             "1 tsp paprika, for dusting"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat oven to 200C/400F/Gas 6.",
@@ -37,8 +40,9 @@
         "Cook in the oven for 10-12 minutes until risen and golden.",
         "To serve the souffl\u00e9, place it on a white plate and dust with paprika."
     ],
-    "howTos": [
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Red Leicester souffl\u00e9",
     "videos": "[]"
 }

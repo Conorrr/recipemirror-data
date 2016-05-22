@@ -1,26 +1,36 @@
 {
-    "title": "Toffee apple doughnuts",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 12 doughnuts",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Homemade doughnuts filled with a cinnamon-flavoured apple pur\u00e9e and topped with salted caramel. Equipment and preparation: for this recipe you will need a freestanding mixer with a dough hook attachment",
     "author": {
         "richard": "Richard Burr"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "American",
+    "description": "Homemade doughnuts filled with a cinnamon-flavoured apple pur\u00e9e and topped with salted caramel. Equipment and preparation: for this recipe you will need a freestanding mixer with a dough hook attachment",
+    "dishes": [
+        "bread",
+        "caramel",
+        "doughnuts",
+        "pie",
+        "sauce",
+        "toffee"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the apple filling": [
+            "3 Granny Smith apples, peeled, cored, chopped",
+            "40g/1\u00bdoz caster sugar",
+            "\u00bd tbsp cornflour",
+            "25g/1oz unsalted butter",
+            "\u00bc tsp ground ginger",
+            "1 tsp ground cinnamon"
+        ],
         "For the dough": [
             "6 tbsp full-fat milk",
             "1 tsp dried yeast",
@@ -30,14 +40,6 @@
             "50g/1\u00beoz unsalted butter, melted, plus extra for greasing",
             "1 large free-range egg",
             "vegetable oil, for deep frying"
-        ],
-        "For the apple filling": [
-            "3 Granny Smith apples, peeled, cored, chopped",
-            "40g/1\u00bdoz caster sugar",
-            "\u00bd tbsp cornflour",
-            "25g/1oz unsalted butter",
-            "\u00bc tsp ground ginger",
-            "1 tsp ground cinnamon"
         ],
         "For the salted caramel": [
             "100g/3\u00bdoz caster sugar",
@@ -49,6 +51,12 @@
             "1 tbsp ground cinnamon",
             "50g/1\u00beoz caster sugar"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "1",
+    "serves": "Makes 12 doughnuts",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the dough, warm the milk and put 50ml/1\u00befl of it into a small bowl with the yeast and half a teaspoon of sugar. Set aside for 15 minutes to allow the yeast to reconstitute.",
@@ -70,8 +78,9 @@
         "Dip one half of the filled doughnuts in the cinnamon sugar. Dip the other side into the cooled salted caramel. If the caramel is too hard, heat it very gently to loosen, but do not allow it to get so hot that it can\u2019t be handled safely.",
         "Set the doughnuts aside to allow the caramel to settle before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Toffee apple doughnuts",
     "videos": "[]"
 }

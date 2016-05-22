@@ -1,30 +1,26 @@
 {
-    "title": "Piri-piri chicken",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "2-4",
-    "recommendations": "43",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/piripirichicken_72310_16x9.jpg"
-    ],
-    "description": "AWT's easy Portuguese piri-piri chicken recipe is perfect for the barbecue - and ready in 30 minutes.",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "p0077hxk": "Saturday Brunch"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "AWT's easy Portuguese piri-piri chicken recipe is perfect for the barbecue - and ready in 30 minutes.",
+    "dishes": [
+        "chips",
+        "oven-baked_dishes",
+        "piri-piri",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "spatchcocking"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/piripirichicken_72310_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "1 whole chicken (about 1kg/2lb 3oz), spatchcocked",
-            "salt and freshly ground black pepper"
-        ],
         "For the piri-piri sauce": [
             "6-12 fresh red chillies, depending on how hot you want it",
             "1 tbsp garlic, blanched and chopped",
@@ -37,7 +33,17 @@
         "To serve": [
             "chips",
             "salad"
+        ],
+        "default": [
+            "1 whole chicken (about 1kg/2lb 3oz), spatchcocked",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "43",
+    "serves": "2-4",
+    "show": {
+        "p0077hxk": "Saturday Brunch"
     },
     "steps": [
         "To make the piri-piri sauce, preheat the oven to 180C/350F/Gas 4. Place the chillies on a roasting tray and roast them for 10 minutes.",
@@ -49,8 +55,9 @@
         "Transfer the griddled chicken to a roasting tray and roast in the oven for 30 minutes, until cooked through. Alternatively, place the chicken on a medium heat barbecue, covered, for 10-15 minutes on both sides or until cooked through, basting regularly with the remaining piri-piri sauce.",
         "Serve with chips and salad."
     ],
-    "howTos": [
-        "spatchcocking"
+    "tips": [
+        
     ],
+    "title": "Piri-piri chicken",
     "videos": "[]"
 }

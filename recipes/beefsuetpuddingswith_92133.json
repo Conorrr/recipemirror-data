@@ -1,23 +1,29 @@
 {
-    "title": "Beef suet puddings with cauliflower cheese and kidneys cooked in sherry",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bun",
+        "pastry",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "making_pastry_lids",
+        "de-glazing_pans",
+        "kneading",
+        "steaming_puddings",
+        "sealing_steamed_puddings"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -34,19 +40,11 @@
             "2 tsp Worcestershire sauce",
             "2 tsp brandy"
         ],
-        "For the suet puddings": [
-            "butter, for greasing",
-            "375g/13oz self-raising flour, plus extra for dusting",
-            "200g/7oz beef suet",
-            "1 tsp dried thyme",
-            "pinch dried sage",
-            "1 tsp sea salt",
-            "110-150ml/4-5fl oz cold water",
-            "1 free-range egg yolk, plus 1 egg, beaten, for egg wash"
-        ],
-        "For the parmentier potatoes": [
-            "2 large potatoes, unpeeled",
-            "50g/2oz butter"
+        "For the cauliflower cheese pur\u00e9e": [
+            "1 head cauliflower, core removed, broken into florets",
+            "2 tbsp double cream",
+            "salt and freshly ground black pepper",
+            "150g/5oz Lincolnshire Poacher cheese, grated"
         ],
         "For the kidneys": [
             "2 tbsp olive oil",
@@ -61,17 +59,31 @@
             "salt and freshly ground black pepper",
             "2 tbsp chopped fresh flatleaf parsley"
         ],
-        "For the cauliflower cheese pur\u00e9e": [
-            "1 head cauliflower, core removed, broken into florets",
-            "2 tbsp double cream",
-            "salt and freshly ground black pepper",
-            "150g/5oz Lincolnshire Poacher cheese, grated"
+        "For the parmentier potatoes": [
+            "2 large potatoes, unpeeled",
+            "50g/2oz butter"
         ],
         "For the peas": [
             "500g/1lb 2oz frozen peas",
             "1 tsp dried oregano",
             "knob of butter"
+        ],
+        "For the suet puddings": [
+            "butter, for greasing",
+            "375g/13oz self-raising flour, plus extra for dusting",
+            "200g/7oz beef suet",
+            "1 tsp dried thyme",
+            "pinch dried sage",
+            "1 tsp sea salt",
+            "110-150ml/4-5fl oz cold water",
+            "1 free-range egg yolk, plus 1 egg, beaten, for egg wash"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 8",
+    "show": {
+        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
     },
     "steps": [
         "For the beef, heat the oil in a heavy-based pan over a medium heat. Add the bacon and fry for 6-8 minutes, or until crisp and golden-brown.",
@@ -110,12 +122,9 @@
         "Strain the sauce through a fine sieve. Add a knob of butter to the strained liquid and stir until melted.",
         "To serve, unwrap one beef suet pudding and turn it out of its mould and onto a serving plate. Spoon some of the kidneys alongside. Press a portion of the crushed peas into a chefs' ring and remove the ring. Spoon the cauliflower cheese pur\u00e9e and parmentier potatoes alongside. Drizzle over the red wine sauce."
     ],
-    "howTos": [
-        "making_pastry_lids",
-        "de-glazing_pans",
-        "kneading",
-        "steaming_puddings",
-        "sealing_steamed_puddings"
+    "tips": [
+        
     ],
+    "title": "Beef suet puddings with cauliflower cheese and kidneys cooked in sherry",
     "videos": "[]"
 }

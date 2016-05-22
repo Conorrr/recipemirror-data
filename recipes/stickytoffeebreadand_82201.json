@@ -1,36 +1,31 @@
 {
-    "title": "Sticky toffee bread and butter pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b0071y6r": "Great British Menu"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "bread_and_butter_pudding",
+        "caramel",
+        "custard",
+        "icing",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries",
+        "toffee"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "200g//7oz stoned Medjool dates",
-            "\u00bd tsp bicarbonate of soda",
-            "75g/3oz butter, softened, plus extra for greasing",
-            "6 slices of white bread, crusts removed",
-            "6 free-range egg yolks",
-            "1 vanilla pod, split lengthways and seeds scraped out",
-            "75g/3oz caster sugar",
-            "500ml/17fl oz double cream"
-        ],
         "For the sauce": [
             "100g/3\u00bdoz butter",
             "100ml/3\u00bdfl oz golden syrup",
@@ -49,7 +44,23 @@
             "50g/2oz strawberries, hulled and quartered",
             "demerera sugar, to glaze",
             "icing sugar, to dust"
+        ],
+        "default": [
+            "200g//7oz stoned Medjool dates",
+            "\u00bd tsp bicarbonate of soda",
+            "75g/3oz butter, softened, plus extra for greasing",
+            "6 slices of white bread, crusts removed",
+            "6 free-range egg yolks",
+            "1 vanilla pod, split lengthways and seeds scraped out",
+            "75g/3oz caster sugar",
+            "500ml/17fl oz double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b0071y6r": "Great British Menu"
     },
     "steps": [
         "Preheat the oven to 170C/325F/Gas 3.",
@@ -62,8 +73,9 @@
         "Sprinkle the top of the pudding evenly with demerera sugar and caramelise under a hot grill.",
         "Serve a portion of pudding with the sauce and arrange the fruits and a little coulis around the edge. Dust with icing sugar, to finish."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sticky toffee bread and butter pudding",
     "videos": "[]"
 }

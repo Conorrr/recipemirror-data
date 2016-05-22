@@ -1,34 +1,26 @@
 {
-    "title": "Veggie bean fajitas",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fajitas_8651_16x9.jpg"
-    ],
-    "description": "Veggie fajitas are a fun way to feed the family and making your own is much cheaper than buying the boxed kits.",
     "author": {
         "ed_baines": "Ed Baines"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Mexican",
+    "description": "Veggie fajitas are a fun way to feed the family and making your own is much cheaper than buying the boxed kits.",
+    "dishes": [
+        "bun",
+        "salsa",
+        "stock",
+        "wraps"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fajitas_8651_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "2 tbsp vegetable oil",
-            "1 onion, chopped",
-            "1 red chilli, seeds removed and chopped",
-            "1 garlic clove, chopped",
-            "2 x 110g tins kidney beans, washed and drained",
-            "vegetable stock or water"
-        ],
         "For the simple salsa": [
             "4 tomatoes, seeds removed and chopped",
             "\u00bd red onion, chopped",
@@ -38,7 +30,21 @@
         "To serve": [
             "1 packet of wheat tortillas",
             "250ml/9fl oz plain yoghurt or soured cream"
+        ],
+        "default": [
+            "2 tbsp vegetable oil",
+            "1 onion, chopped",
+            "1 red chilli, seeds removed and chopped",
+            "1 garlic clove, chopped",
+            "2 x 110g tins kidney beans, washed and drained",
+            "vegetable stock or water"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "p0077hsg": "Housecall"
     },
     "steps": [
         "For the filling, add the oil to a pan and cook the onion, chilli and garlic until softened. Add the beans and cook for a further 10 minutes, stirring occasionally. Add a little vegetable stock, about half a small glass, cook the beans until the mixture is smooth and not runny.",
@@ -47,8 +53,9 @@
         "Just before you are ready to eat, add the remaining coriander and a squeeze of lime juice to the beans.",
         "Warm each tortilla through in a pan and put on a plate, spoon over some of the filling, add a spoonful of the yoghurt and a little salsa. Roll up and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Veggie bean fajitas",
     "videos": "[]"
 }

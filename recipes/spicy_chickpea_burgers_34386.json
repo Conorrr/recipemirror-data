@@ -1,34 +1,26 @@
 {
-    "title": "Spicy chickpea burgers with mango salsa",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "A simple veggie burger with a nice kick of spice. Serve with a zesty mango salsa for a snack that's full of flavour. Each serving provides 450kcal, 16g protein, 67g carbohydrate (of which 9g sugars), 11g fat (of which 1.5g saturates), 7.5g fibre and 1.3g salt.",
     "author": {
         "shelina_permalloo": "Shelina Permalloo"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Turkish_and_Middle_Eastern",
+    "description": "A simple veggie burger with a nice kick of spice. Serve with a zesty mango salsa for a snack that's full of flavour. Each serving provides 450kcal, 16g protein, 67g carbohydrate (of which 9g sugars), 11g fat (of which 1.5g saturates), 7.5g fibre and 1.3g salt.",
+    "dishes": [
+        "beef_burger",
+        "bread",
+        "curry",
+        "salsa"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "400g tin chickpeas in water",
-            "2 free-range eggs",
-            "2 tsp curry powder",
-            "100g/3\u00bdoz breadcrumbs",
-            "2 tbsp vegetable oil",
-            "salt and pepper"
-        ],
         "For the mango salsa": [
             "1 mango",
             "1 spring onion",
@@ -38,7 +30,21 @@
         ],
         "To serve": [
             "4 wholemeal pittas"
+        ],
+        "default": [
+            "400g tin chickpeas in water",
+            "2 free-range eggs",
+            "2 tsp curry powder",
+            "100g/3\u00bdoz breadcrumbs",
+            "2 tbsp vegetable oil",
+            "salt and pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Drain the chickpeas and tip them into a bowl. Crack in the eggs. Add the curry powder and breadcrumbs, season with salt and pepper, then mash together using a potato masher or fork until you have a rough paste.",
@@ -46,8 +52,9 @@
         "In the meantime, stone, peel and dice the mango and put it into a small mixing bowl. Thinly slice the spring onion and add it to the bowl. Add the dried mint and chilli flakes and season with salt and pepper.",
         "Preheat the grill to high. Slice the pittas in half and lightly toast them. Serve the burgers with the pittas and salsa."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spicy chickpea burgers with mango salsa",
     "videos": "[p02t7685:p02t768c]"
 }

@@ -1,26 +1,30 @@
 {
-    "title": "Mackerel with asparagus and grapefruit",
-    "cookTime": "less than 10 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Zingy citrus cuts through the oiliness of fresh mackerel in this elegant dish. Equipment and preparation: for this recipe you will need a food processor.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Zingy citrus cuts through the oiliness of fresh mackerel in this elegant dish. Equipment and preparation: for this recipe you will need a food processor.",
+    "dishes": [
+        "bun",
+        "jam",
+        "mayonnaise",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_cook_asparagus"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the grapefruit dressing": [
+            "3 tbsp olive oil",
+            "1 white grapefruit, segmented, juice reserved",
+            "1 tsp Dijon mustard"
+        ],
         "For the grapefruit mayonnaise": [
             "2 egg yolks",
             "1 tbsp white wine vinegar",
@@ -28,11 +32,6 @@
             "200ml/7fl oz grapeseed oil",
             "1 pink grapefruit, zest finely grated and fruit segmented, juice reserved",
             "150g/5\u00bdoz white crab meat"
-        ],
-        "For the grapefruit dressing": [
-            "3 tbsp olive oil",
-            "1 white grapefruit, segmented, juice reserved",
-            "1 tsp Dijon mustard"
         ],
         "For the mackerel and asparagus": [
             "2 whole mackerel, filleted and pin-boned",
@@ -43,6 +42,12 @@
             "a few watercress leaves, to garnish"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "For the mayonnaise, put the egg yolks in a food processor and blend. Add the vinegar and mustard and blend again. Slowly add the oil, until you have a thick mayonnaise. Stir in the half of the grapefruit zest and the crab, reserve the remaining grapefruit zest for the dressing.",
         "For the grapefruit dressing, mix the oil with reserved juices from the grapefruit and the reserved grapefuit zest. Add the mustard and whisk.",
@@ -50,8 +55,9 @@
         "Bring a large pot of water to the boil and blanch the asparagus for 1-2 minutes. Put the iced water into a bowl, then plunge the asparagus into the water. Heat a griddle pan or frying pan and add the butter. Cook the asparagus in the pan for 1-2 minutes, until coloured.",
         "Put the asparagus and mackerel on serving plates and top with a spoonful of the mayonnaise. Dot the grapefruit and pomelo segments around the plate and drizzle with the dressing. Garnish with the watercress and serve."
     ],
-    "howTos": [
-        "how_to_cook_asparagus"
+    "tips": [
+        
     ],
+    "title": "Mackerel with asparagus and grapefruit",
     "videos": "[]"
 }

@@ -1,36 +1,38 @@
 {
-    "title": "Lancashire hotpot with braised red cabbage",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Serve with braised salsify.",
     "author": {
         "marcus_wareing": "Marcus Wareing"
     },
-    "show": {
-        "b0071y6r": "Great British Menu"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Serve with braised salsify.",
+    "dishes": [
+        "casserole",
+        "hotpot",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the lamb stock": [
-            "1 large carrot, cut into 3 pieces",
-            "1 onion, cut into quarters",
-            "2 cloves garlic",
-            "sprig rosemary",
-            "sprig thyme",
+        "For the braised red cabbage": [
+            "1 small red cabbage, cored and sliced",
+            "1 red onion, finely chopped",
+            "150g/5\u00bdoz unsalted butter",
+            "200ml/7fl oz red wine vinegar",
+            "50g/2oz clear honey",
+            "100g/3\u00bdoz demerara sugar",
             "1 bay leaf",
-            "pinch rock salt",
-            "1 tbsp tomato pur\u00e9e",
-            "2 litres/3\u00bd pints water"
+            "sprig thyme",
+            "salt"
         ],
         "For the lamb": [
             "1 middle neck of lamb with bones, about 1kg/2\u00bclb",
@@ -45,17 +47,23 @@
             "3 Maris Piper potatoes, very thinly sliced",
             "unsalted butter"
         ],
-        "For the braised red cabbage": [
-            "1 small red cabbage, cored and sliced",
-            "1 red onion, finely chopped",
-            "150g/5\u00bdoz unsalted butter",
-            "200ml/7fl oz red wine vinegar",
-            "50g/2oz clear honey",
-            "100g/3\u00bdoz demerara sugar",
-            "1 bay leaf",
+        "For the lamb stock": [
+            "1 large carrot, cut into 3 pieces",
+            "1 onion, cut into quarters",
+            "2 cloves garlic",
+            "sprig rosemary",
             "sprig thyme",
-            "salt"
+            "1 bay leaf",
+            "pinch rock salt",
+            "1 tbsp tomato pur\u00e9e",
+            "2 litres/3\u00bd pints water"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b0071y6r": "Great British Menu"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -69,8 +77,9 @@
         "Meanwhile, make the red cabbage. Mix together all of the ingredients. Put into a roasting tray and cover with foil. Place in the oven and cook for about 1\u00bd hours, stirring regularly, until most of the liquid has evaporated.",
         "Serve the hot pot from the casserole onto warm plates with the cabbage."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lancashire hotpot with braised red cabbage",
     "videos": "[]"
 }

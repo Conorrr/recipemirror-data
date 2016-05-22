@@ -1,37 +1,26 @@
 {
-    "title": "Chicken livers wrapped in a spiced omelette with a fennel and onion salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "An Indian-style omelette served with a fresh salad. Take care when cooking the chicken livers - it's essential they are properly cooked through, but will taste bitter if overcooked.",
     "author": {
         "cyrus_todiwala": "Cyrus Todiwala"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "An Indian-style omelette served with a fresh salad. Take care when cooking the chicken livers - it's essential they are properly cooked through, but will taste bitter if overcooked.",
+    "dishes": [
+        "omelette",
+        "pie",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the fennel and red onion salad": [
-            "1 small fennel, thinly sliced",
-            "1 red onion, thinly sliced",
-            "12-15 fresh mint leaves, finely shredded",
-            "1 green chilli, finely chopped",
-            "1 tomato, cut into four and sliced",
-            "\u00bd lime, juice only",
-            "1 tsp cider vinegar",
-            "salt, to taste",
-            "1 mango, peeled, stone removed, flesh chopped"
-        ],
         "For the chicken livers": [
             "225g/8oz chicken livers, trimmed",
             "1 x 2.5cm/1in piece fresh ginger, peeled and finely chopped",
@@ -46,6 +35,17 @@
             "1 tbsp chopped fresh mint",
             "salt, to taste"
         ],
+        "For the fennel and red onion salad": [
+            "1 small fennel, thinly sliced",
+            "1 red onion, thinly sliced",
+            "12-15 fresh mint leaves, finely shredded",
+            "1 green chilli, finely chopped",
+            "1 tomato, cut into four and sliced",
+            "\u00bd lime, juice only",
+            "1 tsp cider vinegar",
+            "salt, to taste",
+            "1 mango, peeled, stone removed, flesh chopped"
+        ],
         "For the spiced omelette": [
             "4 medium free-range eggs",
             "1 medium red onion, finely chopped",
@@ -57,6 +57,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "For the fennel and red onion salad, mix all of the ingredients together and set aside until ready to serve.",
         "Clean the chicken livers, taking care to remove all the membranes. Cut them into small pieces and put in a bowl.",
@@ -67,8 +73,9 @@
         "Heat two small frying pans and add a tablespoon of oil to each. When the oil is hot, add half the egg mixture to each pan. Cook until browned on one side and cooked through. Remove from the heat. Divide the liver mixture between the two omelettes, sprinkle the sliced onion on top and garnish with the reserved coriander and mint. Roll up the omelettes.",
         "Cut the omelettes into two and serve with the salad alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken livers wrapped in a spiced omelette with a fennel and onion salad",
     "videos": "[]"
 }

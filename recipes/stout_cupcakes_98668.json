@@ -1,26 +1,32 @@
 {
-    "title": "Guinness cupcakes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 12 muffins",
-    "recommendations": "32",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/stout_cupcakes_98668_16x9.jpg"
-    ],
-    "description": "This beetroot and Guinness cupcake recipe is deliciously moist. Perfect for celebrating St. Patrick\u2019s Day.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This beetroot and Guinness cupcake recipe is deliciously moist. Perfect for celebrating St. Patrick\u2019s Day.",
+    "dishes": [
+        "cupcakes",
+        "icing",
+        "muffins",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/stout_cupcakes_98668_16x9.jpg"
+    ],
     "ingredients": {
+        "For the cream cheese icing": [
+            "200g/7oz unsalted butter, softened",
+            "200g/7oz full-fat cream cheese",
+            "1 vanilla pod, seeds scraped out.",
+            "450g/1lb icing sugar"
+        ],
         "default": [
             "75g/2\u00beoz cocoa powder",
             "175g/6oz plain flour",
@@ -30,13 +36,13 @@
             "225g/8oz cooked beetroot (no added vinegar)",
             "100ml/3\u00bdfl oz Irish stout",
             "100ml/3\u00bdfl oz corn oil"
-        ],
-        "For the cream cheese icing": [
-            "200g/7oz unsalted butter, softened",
-            "200g/7oz full-fat cream cheese",
-            "1 vanilla pod, seeds scraped out.",
-            "450g/1lb icing sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "32",
+    "serves": "Makes 12 muffins",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Line a 12-hole muffin tin with paper cases.",
@@ -47,8 +53,9 @@
         "For the cream cheese icing, beat the butter, cream cheese and vanilla together in a bowl until smooth; then slowly beat in the icing sugar.",
         "Spread the icing onto the muffins with a knife or spoon the icing into a piping bag fitted with a 1cm/\u00bdin star nozzle and pipe the icing onto the muffins."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Guinness cupcakes",
     "videos": "[]"
 }

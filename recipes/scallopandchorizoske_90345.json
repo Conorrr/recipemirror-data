@@ -1,26 +1,30 @@
 {
-    "title": "Scallop and chorizo skewers",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "pie",
+        "sauce",
+        "seafood",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the scallops": [
+            "8 scallops, roe removed",
+            "salt and freshly ground black pepper",
+            "8 peas"
+        ],
         "default": [
             "100ml/3\u00bdfl oz olive oil",
             "8 pieces cooking chorizo, cut into rounds the same size as the scallops",
@@ -28,12 +32,13 @@
             "1 orange or lemon, zest and juice",
             "1 tsp Tabasco sauce",
             "1 tbsp chopped fresh parsley"
-        ],
-        "For the scallops": [
-            "8 scallops, roe removed",
-            "salt and freshly ground black pepper",
-            "8 peas"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Heat one tablespoon of the olive oil in a pan and add the chorizo slices. Fry for 1-2 minutes on each side, until crisp and golden-brown.",
@@ -44,8 +49,9 @@
         "To serve, thread a piece of chorizo onto a cocktail stick, followed by one scallop and one pea. Repeat with all of the chorizo pieces, scallops and peas.",
         "Place the skewers onto a plate, drizzle with the pan juices and serve."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Scallop and chorizo skewers",
     "videos": "[]"
 }

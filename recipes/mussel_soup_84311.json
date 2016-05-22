@@ -1,23 +1,24 @@
 {
-    "title": "Mussel soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "A warming soup for a cold day, this easy blend of mussels, fennel and cream is served with toasted garlicky bread.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A warming soup for a cold day, this easy blend of mussels, fennel and cream is served with toasted garlicky bread.",
+    "dishes": [
+        "bread",
+        "fish_soup",
+        "jam",
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "cleaning_mussels"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -38,6 +39,12 @@
             "1 garlic clove, halved"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "Clean the mussels by thoroughly scrubbing them under plenty of running water, pulling away and discarding the 'beards', the seaweed-like stringy threads. Discard any broken mussels, and any mussels that don't close tightly when you tap them.",
         "Place the mussels in a saucepan, add the white wine and cook for 3-4 minutes.",
@@ -47,8 +54,9 @@
         "Cook for a further 3-4 minutes until warmed through, then blend with a stick blender until smooth.",
         "Heat a large griddle pan and drizzle the sliced bread with oil and rub with the halved clove of garlic. Toast the bread on the griddle for 2-3 minutes."
     ],
-    "howTos": [
-        "cleaning_mussels"
+    "tips": [
+        
     ],
+    "title": "Mussel soup",
     "videos": "[]"
 }

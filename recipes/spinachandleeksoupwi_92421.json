@@ -1,26 +1,32 @@
 {
-    "title": "Spinach and leek soup with a soft poached egg and a cheese croute",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cheese cro\u00fbte": [
+            "1 slice white bread",
+            "55g/2oz cheddar, grated",
+            "1 poached egg, to serve"
+        ],
         "For the soup": [
             "2 tbsp olive oil",
             "\u00bc onion, peeled, chopped",
@@ -30,12 +36,13 @@
             "2 handfuls spinach",
             "\u00bd tsp freshly grated nutmeg",
             "salt and freshly ground black pepper"
-        ],
-        "For the cheese cro\u00fbte": [
-            "1 slice white bread",
-            "55g/2oz cheddar, grated",
-            "1 poached egg, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -46,8 +53,9 @@
         "Meanwhile, for the cheese cro\u00fbte, bake the bread on a baking tray in the oven for 3-4 minutes. Top with the grated cheddar and return to the oven for a further 3-4 minutes, or until the cheese is melted and golden-brown. Cut in half.",
         "To serve, pour the soup into a bowl, float the two cro\u00fbtes on top and float the poached egg in the centre between the cro\u00fbtes."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Spinach and leek soup with a soft poached egg and a cheese croute",
     "videos": "[]"
 }

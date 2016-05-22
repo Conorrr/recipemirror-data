@@ -1,37 +1,40 @@
 {
-    "title": "Pot-roasted chicken with green chutney and zesty salad",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "This dish brings bags of flavour to the traditional roast chicken. Served with a spicy green chutney and zesty salad of green beans and peas it is perfect for impressing at a dinner party. For this dish you will need a blender to make the chutney.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "This dish brings bags of flavour to the traditional roast chicken. Served with a spicy green chutney and zesty salad of green beans and peas it is perfect for impressing at a dinner party. For this dish you will need a blender to make the chutney.",
+    "dishes": [
+        "bun",
+        "chutney",
+        "curry",
+        "jam",
+        "oven-baked_dishes",
+        "roast_chicken",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "testing_cooked_poultry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pot roasted chicken": [
-            "2 tbsp freshly grated ginger",
-            "2 garlic cloves, chopped",
-            "1 tbsp ground cumin",
-            "20 curry leaves",
-            "2 tbsp vegetable oil",
-            "1.5kg/3lb 5oz whole chicken",
-            "1 large cinnamon stick",
-            "1 bay leaf",
-            "2 star anise",
-            "3 cardamom pods"
+        "For the beans and peas salad": [
+            "100g/3\u00bdoz French beans",
+            "100g/3\u00bdoz broad beans, podded",
+            "100g/3\u00bdoz frozen peas",
+            "small handful fresh mint leaves",
+            "small handful fresh coriander leaves",
+            "1 red onion, finely sliced",
+            "2 tbsp olive oil",
+            "1 lemon, juice only",
+            "salt and freshly ground black pepper"
         ],
         "For the green chutney": [
             "small bunch of fresh coriander",
@@ -43,17 +46,24 @@
             "1tsp sugar",
             "200g/7oz natural yoghurt"
         ],
-        "For the beans and peas salad": [
-            "100g/3\u00bdoz French beans",
-            "100g/3\u00bdoz broad beans, podded",
-            "100g/3\u00bdoz frozen peas",
-            "small handful fresh mint leaves",
-            "small handful fresh coriander leaves",
-            "1 red onion, finely sliced",
-            "2 tbsp olive oil",
-            "1 lemon, juice only",
-            "salt and freshly ground black pepper"
+        "For the pot roasted chicken": [
+            "2 tbsp freshly grated ginger",
+            "2 garlic cloves, chopped",
+            "1 tbsp ground cumin",
+            "20 curry leaves",
+            "2 tbsp vegetable oil",
+            "1.5kg/3lb 5oz whole chicken",
+            "1 large cinnamon stick",
+            "1 bay leaf",
+            "2 star anise",
+            "3 cardamom pods"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 190C/170C (fan)/Gas 5",
@@ -66,8 +76,9 @@
         "For the salad, bring a large saucepan of salted water to the boil. Blanch the French beans, broad beans and peas. Drain and place in a large glass bowl. Add the fresh herbs and onion and toss together. Dress with a the olive oil, lemon juice and salt and pepper.",
         "Put the chicken and sauce in a serving bowl and serve with the salad and chutney."
     ],
-    "howTos": [
-        "testing_cooked_poultry"
+    "tips": [
+        
     ],
+    "title": "Pot-roasted chicken with green chutney and zesty salad",
     "videos": "[]"
 }

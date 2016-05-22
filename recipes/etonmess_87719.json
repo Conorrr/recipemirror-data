@@ -1,24 +1,23 @@
 {
-    "title": "Eton mess",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "eton_mess",
+        "icing",
+        "jam",
+        "meringue"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "whipping_cream"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,6 +29,12 @@
             "icing sugar, to dust"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place the rhubarb, caster sugar and vanilla pod into a small heavy-based pan over a low heat.",
         "Cook gently for 8-10 minutes, until the rhubarb is tender but still holding its shape.",
@@ -37,8 +42,9 @@
         "Meanwhile, whip the cream until soft peaks form when the whisk is removed, then carefully fold in the crushed meringue nest.",
         "To serve, spoon the cold rhubarb into a tall serving glass and top with the cream and meringue mixture. Dust with icing sugar and serve."
     ],
-    "howTos": [
-        "whipping_cream"
+    "tips": [
+        
     ],
+    "title": "Eton mess",
     "videos": "[]"
 }

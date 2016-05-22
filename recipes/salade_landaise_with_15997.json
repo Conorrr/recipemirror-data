@@ -1,39 +1,30 @@
 {
-    "title": "Salade landaise with romaine lettuce and bleu d\u2019Auvergne",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This spectacular salad combines fatty duck with clean salad flavours and some snazzy dressings. If you want to make one thing from here, try the spicy pecans with a salad of your choice. This recipe makes more of the dressings than you may need. Any extra will keep in the fridge for a few days.",
     "author": {
         "eric_chavot": "Eric Chavot"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "French",
+    "description": "This spectacular salad combines fatty duck with clean salad flavours and some snazzy dressings. If you want to make one thing from here, try the spicy pecans with a salad of your choice. This recipe makes more of the dressings than you may need. Any extra will keep in the fridge for a few days.",
+    "dishes": [
+        "baguette",
+        "caramel",
+        "crumble",
+        "ham",
+        "mayonnaise",
+        "oven-baked_dishes",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the salt marinade": [
-            "150g/5\u00bdoz sea salt",
-            "7g crushed black peppercorns",
-            "18g garlic, peeled and chopped",
-            "5g fresh thyme leaves",
-            "37g/1oz caster sugar",
-            "1g pink salt"
-        ],
-        "For the confit duck legs": [
-            "2 duck legs, skin on, bone in",
-            "375g/13oz duck fat",
-            "150g/5\u00bdoz cooked chestnuts, halved"
-        ],
         "For the blue cheese dressing": [
             "3g garlic, peeled and crushed",
             "70g/ 2\u00bdoz fourme d\u2019Ambert cheese",
@@ -43,6 +34,24 @@
             "40g /1\u00bdoz mayonnaise",
             "dash Worcestershire sauce",
             "dash tabasco"
+        ],
+        "For the confit duck legs": [
+            "2 duck legs, skin on, bone in",
+            "375g/13oz duck fat",
+            "150g/5\u00bdoz cooked chestnuts, halved"
+        ],
+        "For the cr\u00e8me fra\u00eeche dressing": [
+            "150g/5\u00bdoz mayonnaise",
+            "50g/1\u00beoz cr\u00e8me fra\u00eeche",
+            "1 lemon, zest and juice",
+            "dash tabasco"
+        ],
+        "For the duck breast": [
+            "1 duck breast"
+        ],
+        "For the honey dressing": [
+            "25g/1oz honey",
+            "50ml/2fl oz red wine vinegar"
         ],
         "For the house dressing": [
             "30g/1oz French dressing",
@@ -56,16 +65,6 @@
             "1 tsp chopped basil",
             "1 tsp chopped thyme leaves"
         ],
-        "For the cr\u00e8me fra\u00eeche dressing": [
-            "150g/5\u00bdoz mayonnaise",
-            "50g/1\u00beoz cr\u00e8me fra\u00eeche",
-            "1 lemon, zest and juice",
-            "dash tabasco"
-        ],
-        "For the honey dressing": [
-            "25g/1oz honey",
-            "50ml/2fl oz red wine vinegar"
-        ],
         "For the remoulade": [
             "\u00bd celeriac, peeled and julienned",
             "\u00bd Granny Smith, cored and julienned",
@@ -73,6 +72,26 @@
             "1 tbsp blue cheese dressing (from above)",
             "1 tbsp house dressing (from above)",
             "1 tbsp cr\u00e8me fra\u00eeche dressing (from above)"
+        ],
+        "For the salade landaise": [
+            "1 romaine (cos) lettuce, cut in half",
+            "salt and pepper",
+            "100g/3\u00bdoz crumbled bleu d\u2019Auvergne (or other French blue cheese)",
+            "1 tbsp chopped chives",
+            "1 baguette, diced and fried to make croutons",
+            "50g/1\u00beoz green grapes, sliced in half",
+            "50g/1\u00beoz black grapes, sliced in half",
+            "50g/1\u00beoz semi-dried grapes",
+            "8 slices duck ham",
+            "pinch espelette pepper, or French ground chilli pepper"
+        ],
+        "For the salt marinade": [
+            "150g/5\u00bdoz sea salt",
+            "7g crushed black peppercorns",
+            "18g garlic, peeled and chopped",
+            "5g fresh thyme leaves",
+            "37g/1oz caster sugar",
+            "1g pink salt"
         ],
         "For the spice mix": [
             "2 star anise",
@@ -87,22 +106,13 @@
             "2 pinches cayenne pepper",
             "300g/11oz pecans",
             "50g/1\u00beoz egg white, beaten until frothy"
-        ],
-        "For the duck breast": [
-            "1 duck breast"
-        ],
-        "For the salade landaise": [
-            "1 romaine (cos) lettuce, cut in half",
-            "salt and pepper",
-            "100g/3\u00bdoz crumbled bleu d\u2019Auvergne (or other French blue cheese)",
-            "1 tbsp chopped chives",
-            "1 baguette, diced and fried to make croutons",
-            "50g/1\u00beoz green grapes, sliced in half",
-            "50g/1\u00beoz black grapes, sliced in half",
-            "50g/1\u00beoz semi-dried grapes",
-            "8 slices duck ham",
-            "pinch espelette pepper, or French ground chilli pepper"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "First make the salt marinade. Mix all the ingredients together thoroughly and store in an airtight container. You will need 60g/2oz of the salt rub per kilo of meat.",
@@ -127,8 +137,9 @@
         "Season the lettuce with salt and pepper, drizzle with blue cheese dressing and house dressing. Dot over the top with the blue cheese, chives, croutons, fresh grapes, dried grapes. Roll up the duck ham and place on top.",
         "Take the chestnuts from the pan that has been in the oven and dress them in the house dressing. Add them on top of the salad. Season the salad with the espelette pepper. Place the confit leg and sliced duck breast on the end of the board."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salade landaise with romaine lettuce and bleu d\u2019Auvergne",
     "videos": "[]"
 }

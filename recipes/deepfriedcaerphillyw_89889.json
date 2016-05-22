@@ -1,36 +1,24 @@
 {
-    "title": "Deep-fried Caerphilly with pineapple chutney",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "chutney",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "200ml/7fl oz vegetable oil, to deep fry",
-            "100g/3\u00bdoz fresh breadcrumbs",
-            "100g/3\u00bdoz polenta",
-            "1 lime, zest only",
-            "1 tsp celery salt",
-            "pinch freshly ground black pepper",
-            "4 x 125g/4oz wedges Caerphilly",
-            "2 free-range eggs, beaten"
-        ],
         "For the pineapple chutney": [
             "2 tsp vegetable oil",
             "1 red onion, sliced",
@@ -42,7 +30,23 @@
         ],
         "To serve": [
             "mixed salad leaves"
+        ],
+        "default": [
+            "200ml/7fl oz vegetable oil, to deep fry",
+            "100g/3\u00bdoz fresh breadcrumbs",
+            "100g/3\u00bdoz polenta",
+            "1 lime, zest only",
+            "1 tsp celery salt",
+            "pinch freshly ground black pepper",
+            "4 x 125g/4oz wedges Caerphilly",
+            "2 free-range eggs, beaten"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Heat the oil in a deep heavy-based pan until a breadcrumb sizzles and turns brown when dropped into it. (CAUTION: hot oil can be dangerous. Do not leave unattended.)",
@@ -54,8 +58,9 @@
         "Add the pineapple, lime juice, cider vinegar and sugar and bring to the boil. Reduce the heat and simmer for 15 minutes, then remove from the heat and leave to cool.",
         "To serve, place a wedge of cheese onto each plate with a spoonful of pineapple chutney and some mixed salad leaves alongside."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Deep-fried Caerphilly with pineapple chutney",
     "videos": "[]"
 }

@@ -1,43 +1,48 @@
 {
-    "title": "Blue cheese and honey bruschetta",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1-2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "bruschetta",
+        "crumble"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "1 tbsp chopped fresh parsley",
+            "1 tbsp chopped fresh chives"
+        ],
         "default": [
             "3 tbsp olive oil",
             "3 slices white bread",
             "85g/3oz Lanark Blue cheese, or other blue cheese",
             "3 tsp clear honey"
-        ],
-        "To serve": [
-            "1 tbsp chopped fresh parsley",
-            "1 tbsp chopped fresh chives"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1-2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat a griddle pan until hot. Drizzle the oil over the slices of bread and griddle on both sides until golden-brown. Remove from the pan and place onto a serving plate.",
         "Crumble the cheese over each slice of bread and drizzle over the honey. Serve garnished with chopped parsley and chives."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Blue cheese and honey bruschetta",
     "videos": "[]"
 }

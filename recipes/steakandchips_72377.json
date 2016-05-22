@@ -1,26 +1,31 @@
 {
-    "title": "Steak and chips",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "p0077hxk": "Saturday Brunch"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "chips",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chips": [
+            "450g/1lb potatoes, such as Desir\u00e9e or King Edward",
+            "2 litres/3 pints 10fl oz sunflower or vegetable oil"
+        ],
         "default": [
             "450g/1lb rump or sirloin steak in one piece, 4cm/1\u00bein thick",
             "1 tbsp white peppercorns, crushed",
@@ -35,11 +40,13 @@
             "1 tsp Dijon mustard",
             "3 tbsp double cream",
             "salt"
-        ],
-        "For the chips": [
-            "450g/1lb potatoes, such as Desir\u00e9e or King Edward",
-            "2 litres/3 pints 10fl oz sunflower or vegetable oil"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "p0077hxk": "Saturday Brunch"
     },
     "steps": [
         "Make sure the steak is dry before you begin. Using your hands, press the black and white peppercorns into both sides of the steak. If you have time, cover with foil/clingfilm and leave for the pepper flavour to infuse into the steak for 2-3 hours.",
@@ -54,8 +61,9 @@
         "Slice the steak on the diagonal and add to the sauce. Stir to combine the meat juices with the pepper sauce, and to warm the meat through. Do not re-boil.",
         "Serve with the chips."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steak and chips",
     "videos": "[]"
 }

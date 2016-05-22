@@ -1,26 +1,32 @@
 {
-    "title": "Duck burger and chips",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "This is a burger like no other: a melting scoop of Vacherin cheese encased in minced duck meat and served in a brioche bun with girolle mushrooms. Delish. Equipment and preparation: You will need a mincer for this recipe (alternatively, ask your butcher to mince the duck meat).",
     "author": {
         "michel_roux_jr": "Michel Roux Jr."
     },
-    "show": {
-        "b03mzc66": "Food & Drink"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This is a burger like no other: a melting scoop of Vacherin cheese encased in minced duck meat and served in a brioche bun with girolle mushrooms. Delish. Equipment and preparation: You will need a mincer for this recipe (alternatively, ask your butcher to mince the duck meat).",
+    "dishes": [
+        "beef_burger",
+        "brioche",
+        "bun",
+        "caramel",
+        "chips",
+        "oven-baked_dishes",
+        "roux"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chips": [
+            "vegetable oil, for deep frying",
+            "2 King Edward potatoes, cleaned and chipped"
+        ],
         "For the duck burger": [
             "2 large duck breasts",
             "2 tbsp Vacherin cheese, scooped from the middle",
@@ -28,11 +34,13 @@
             "1 tbsp butter",
             "250g/9oz girolle mushrooms, cleaned",
             "2 brioche buns"
-        ],
-        "For the chips": [
-            "vegetable oil, for deep frying",
-            "2 King Edward potatoes, cleaned and chipped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 2",
+    "show": {
+        "b03mzc66": "Food & Drink"
     },
     "steps": [
         "For the duck burger, roughly remove about two-thirds of the fat from each duck breast and then chop them into chunks and pass through a mincer. Season the meat well and form into two balls using your hands.",
@@ -46,8 +54,9 @@
         "When you are ready to eat, add the chips to the hot oil and cook for 2-3 minutes, or until golden-brown and crisp. Remove and drain on a plate lined with kitchen paper.",
         "Serve the duck burgers with the shallots and mushrooms in a brioche bun."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Duck burger and chips",
     "videos": "[p0157hy4:p0157hyd]"
 }

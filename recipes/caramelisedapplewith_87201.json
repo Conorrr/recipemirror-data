@@ -1,24 +1,21 @@
 {
-    "title": "Caramelised apple with fried egg",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "jam"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -27,14 +24,21 @@
             "1 free-range egg"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the butter in a non-stick frying pan. Add the apple slices and fry on both sides until golden and caramelised.",
         "Transfer to a serving plate.",
         "In the same pan, fry the egg, adding extra butter if needed.",
         "Serve the fried egg on top of the apple slices."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Caramelised apple with fried egg",
     "videos": "[]"
 }

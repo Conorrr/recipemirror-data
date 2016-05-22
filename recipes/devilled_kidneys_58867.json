@@ -1,24 +1,24 @@
 {
-    "title": "Devilled kidneys",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "9",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/devilled_kidneys_58867_16x9.jpg"
-    ],
-    "description": "The Hairy Bikers' recipe for this classic British breakfast dish is simple and delicious. Serve for supper too.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "The Hairy Bikers' recipe for this classic British breakfast dish is simple and delicious. Serve for supper too.",
+    "dishes": [
+        "bread",
+        "bun",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/devilled_kidneys_58867_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,6 +35,12 @@
             "sea salt and freshly ground pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 4",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
+    },
     "steps": [
         "Rinse the kidneys under cold running water and pat them dry with kitchen paper. Using scissors, carefully cut the white cores out of the kidneys and discard them, then cut the kidneys into chunky pieces.",
         "Tip the flour into a freezer bag and season well with salt and pepper. Add the kidneys and toss them until well coated with the flour.",
@@ -44,8 +50,9 @@
         "Reduce the heat and simmer gently for 15 minutes, or until the kidneys are tender and the sauce is thickened, stirring occasionally. Add a little more Worcestershire sauce to taste if you like.",
         "While the kidneys are cooking, toast the bread on both sides, then spread with butter and put on four small plates. Spoon the kidneys and sauce over the buttered toast and scatter with freshly chopped parsley (if using). Serve immediately while piping hot."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Devilled kidneys",
     "videos": "[]"
 }

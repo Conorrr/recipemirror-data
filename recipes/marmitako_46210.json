@@ -1,26 +1,39 @@
 {
-    "title": "Marmitako (Basque fish stew)",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This wonderful Basque fish stew has a name that translates as \u2018from the pot\u2019. A traditional fisherman\u2019s meal, here made with bonito, but you can also use tuna.",
     "author": {
         "nieves_barragn": "Nieves Barrag\u00e1n"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Spanish",
+    "description": "This wonderful Basque fish stew has a name that translates as \u2018from the pot\u2019. A traditional fisherman\u2019s meal, here made with bonito, but you can also use tuna.",
+    "dishes": [
+        "bun",
+        "caramel",
+        "fish_soup",
+        "salad",
+        "sauce",
+        "soup",
+        "stew",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the baby gem salad": [
+            "150ml/5fl oz extra virgin olive oil",
+            "50ml/2fl oz Moscatel vinegar",
+            "1 shallot, very finely chopped",
+            "small bunch of chives, finely chopped",
+            "3 sweet Basque piquillo peppers (from a jar), cut into strips",
+            "2 heads of Little Gem, leaves only",
+            "salt and freshly ground black pepper"
+        ],
         "For the fumet (fish stock)": [
             "head and bones of the bonito (see below), or you can use hake or cod head and bones (you can get these from the fishmonger)",
             "2 tbsp olive oil",
@@ -45,16 +58,13 @@
             "75ml/2\u00bdfl oz extra virgin olive oil",
             "2kg/4lb 8oz bonito (if you can\u2019t get hold of one, use 1kg/2lb 4oz of fresh tuna) cut into large chunks",
             "bunch of parsley, roughly chopped"
-        ],
-        "For the baby gem salad": [
-            "150ml/5fl oz extra virgin olive oil",
-            "50ml/2fl oz Moscatel vinegar",
-            "1 shallot, very finely chopped",
-            "small bunch of chives, finely chopped",
-            "3 sweet Basque piquillo peppers (from a jar), cut into strips",
-            "2 heads of Little Gem, leaves only",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the fish stock, clean the gills of the fish, ensure that there is no blood whatsoever. Heat the olive oil in a large pan. Gently cook the vegetables, add the fish head and bones, 3 litres/5\u00bc pints of water and a bay leaf. Heat the stock so it is steaming, but do not boil, for 20 minutes. Pass through a sieve and set aside.",
@@ -66,8 +76,9 @@
         "To serve, place a few leaves on a plate and drizzle with the dressing. Place some more leaves on top and drizzle again and so on, so that the leaves remain crisp. Season with salt and pepper.",
         "Serve the marmitako in bowls with the salad alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Marmitako (Basque fish stew)",
     "videos": "[]"
 }

@@ -1,24 +1,25 @@
 {
-    "title": "Chicken, red wine and garlic casserole",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_red_wine_and_88480_16x9.jpg"
-    ],
-    "description": "My version of coq au vin, this is just the dish for serving on a cold day.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b06z8bw3": "Mary Berry's Foolproof Cooking"
-    },
-    "tips": [
-        "This dish can be made up to 3 days ahead, if covered and kept in the fridge."
+    "cookTime": "30 mins to 1 hour",
+    "description": "My version of coq au vin, this is just the dish for serving on a cold day.",
+    "dishes": [
+        "bun",
+        "casserole",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chicken_red_wine_and_88480_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -38,6 +39,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b06z8bw3": "Mary Berry's Foolproof Cooking"
+    },
     "steps": [
         "Put the shallots in a large bowl with the garlic, herbs and wine. Mix, then add the chicken breasts, season with salt and black pepper and marinate for at least 1 hour. When you\u2019re ready to cook, preheat the oven to 160C/140C Fan/Gas 3.",
         "Sit a colander over a large saucepan and strain the marinated chicken, reserving the shallots, bay leaves and thyme. Dab the chicken with kitchen paper to dry it.",
@@ -47,8 +54,9 @@
         "Add the hot wine sauce and tomato pur\u00e9e to the frying pan or casserole dish with the sugar, reserved bay leaves, thyme, salt and black pepper and bring to a boil. Stir until thickened and add the browned chicken. Bring back to the boil, cover with a lid and bake for 20\u201325 minutes, or until cooked through.",
         "Meanwhile, melt the remaining butter in a medium pan and fry the mushrooms over a medium heat for 5\u201310 minutes, or until just cooked. Add to the chicken casserole just before serving. Remove the bay leaves and thyme from the casserole and serve the casserole hot with mashed potato and shredded cabbage."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This dish can be made up to 3 days ahead, if covered and kept in the fridge."
     ],
+    "title": "Chicken, red wine and garlic casserole",
     "videos": "[]"
 }

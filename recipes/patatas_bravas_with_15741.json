@@ -1,26 +1,32 @@
 {
-    "title": "Patatas bravas with crispy John Dory",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "12",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/patatas_bravas_with_15741_16x9.jpg"
-    ],
-    "description": "Combine an easy patatas bravas recipe with crispy-fried John Dory for a delicious Mediterranean supper.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Combine an easy patatas bravas recipe with crispy-fried John Dory for a delicious Mediterranean supper.",
+    "dishes": [
+        "bread",
+        "chips",
+        "fish_and_chips",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/patatas_bravas_with_15741_16x9.jpg"
+    ],
     "ingredients": {
+        "For the crispy John Dory": [
+            "6 x John Dory fillets",
+            "flour for dredging, seasoned with celery salt, white pepper and smoked paprika",
+            "vegetable oil, for deep frying"
+        ],
         "For the patatas bravas": [
             "3 tbsp olive oil",
             "600g/1lb 5oz potatoes, such as Maris Piper, Desiree, King Edward, peeled and cut into 2.5cm/1in cubes",
@@ -29,14 +35,15 @@
             "3 red chillies, seeds removed, finely chopped",
             "4 garlic cloves, crushed"
         ],
-        "For the crispy John Dory": [
-            "6 x John Dory fillets",
-            "flour for dredging, seasoned with celery salt, white pepper and smoked paprika",
-            "vegetable oil, for deep frying"
-        ],
         "To serve": [
             "chopped fresh parsley"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 225C/450F/Gas 7.",
@@ -46,8 +53,9 @@
         "Fill a deep-fat fryer or a large, deep, heavy-bottomed pan two-thirds full with vegetable oil. Heat the oil to 180C/350F, or until a breadcrumb sizzles. (CAUTION: Hot oil can be dangerous. Don't leave unattended) Fry the fish fillets for two minutes, or until crisp and golden-brown. Remove from the pan with a slotted spoon and set aside to drain on kitchen paper.",
         "Divide the potatoes among six individual serving plates, sprinkle with the chopped parsley and serve with a piece of fish on top of each."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Patatas bravas with crispy John Dory",
     "videos": "[]"
 }

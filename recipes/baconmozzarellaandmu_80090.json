@@ -1,32 +1,25 @@
 {
-    "title": "Bacon, mozzarella, and mushroom pizza",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pizza",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "150g/5\u00bdoz plain flour",
-            "50ml/2fl oz water",
-            "2 tbsp olive oil",
-            "pinch salt"
-        ],
         "For the tomato sauce": [
             "1 tin plum tomatoes",
             "3 tbsp olive oil",
@@ -39,7 +32,19 @@
             "50g/1\u00beoz crispy fried bacon lardons",
             "50g/1\u00beoz smoked mozzarella ripped",
             "50g/1\u00beoz marinated mushrooms"
+        ],
+        "default": [
+            "150g/5\u00bdoz plain flour",
+            "50ml/2fl oz water",
+            "2 tbsp olive oil",
+            "pinch salt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -51,8 +56,9 @@
         "Spread some of the tomato sauce on the pizza. Sprinkle over the bacon, mushrooms and cheese, and season with salt and freshly ground black pepper.",
         "Bake in the oven for five minutes until the cheese has melted."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Bacon, mozzarella, and mushroom pizza",
     "videos": "[]"
 }

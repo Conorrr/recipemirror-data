@@ -1,26 +1,42 @@
 {
-    "title": "Cold poached chicken steeped in a tomato and smoked garlic dressing with asparagus and new potato",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Tasty poached chicken with a herby tomato and garlic dressing is served with a simple-to-make potato salad. Serve with pesto or sun-dried tomato bread for a summer weekend lunch party.",
     "author": {
         "rob_kirby": "Rob Kirby"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Tasty poached chicken with a herby tomato and garlic dressing is served with a simple-to-make potato salad. Serve with pesto or sun-dried tomato bread for a summer weekend lunch party.",
+    "dishes": [
+        "bread",
+        "bun",
+        "ketchup",
+        "mayonnaise",
+        "pesto",
+        "salad",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "folding",
+        "chopping_vegetables"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For decoration": [
+            "vine cherry tomatoes fried in olive oil and balsamic vinegar",
+            "deep fried basil leaves"
+        ],
+        "For the salad": [
+            "500g/1lb 2oz new potatoes",
+            "225g/8oz asparagus, trimmed",
+            "4 shallots",
+            "\u00bd bunch fresh chives, snipped",
+            "150ml/\u00bc pint mayonnaise"
+        ],
         "default": [
             "4 x corn-fed chicken breasts, wing bone trimmed and skinned",
             "500ml/17fl oz chicken stock",
@@ -34,18 +50,13 @@
             "\u00bd lemon, juice only",
             "6 drops Worcestershire sauce",
             "salt and freshly ground black pepper"
-        ],
-        "For the salad": [
-            "500g/1lb 2oz new potatoes",
-            "225g/8oz asparagus, trimmed",
-            "4 shallots",
-            "\u00bd bunch fresh chives, snipped",
-            "150ml/\u00bc pint mayonnaise"
-        ],
-        "For decoration": [
-            "vine cherry tomatoes fried in olive oil and balsamic vinegar",
-            "deep fried basil leaves"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Heat the stock in a deep frying pan and gently poach the chicken for 10-15 minutes. Place in a bowl.",
@@ -59,9 +70,9 @@
         "Remove the chicken from the dressing and put on a large serving plate or bowl. Pour over the dressing and spoon the potato and asparagus salad on to the plate.",
         "Finish with fried vine cherry tomatoes and basil leaves and serve."
     ],
-    "howTos": [
-        "folding",
-        "chopping_vegetables"
+    "tips": [
+        
     ],
+    "title": "Cold poached chicken steeped in a tomato and smoked garlic dressing with asparagus and new potato",
     "videos": "[]"
 }

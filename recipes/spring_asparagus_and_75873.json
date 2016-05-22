@@ -1,24 +1,23 @@
 {
-    "title": "Spring asparagus and poached egg",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Here's a fresh simple way to enjoy seasonal asparagus with poached egg. Makes a lovely light spring meal or starter.",
     "author": {
         "tom_kitchin": "Tom Kitchin"
     },
-    "show": {
-        "b0424667": "Spring Kitchen with Tom Kerridge"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Here's a fresh simple way to enjoy seasonal asparagus with poached egg. Makes a lovely light spring meal or starter.",
+    "dishes": [
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,6 +31,12 @@
             "dash sherry vinegar or dash balsamic vinegar"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b0424667": "Spring Kitchen with Tom Kerridge"
+    },
     "steps": [
         "Place the asparagus in a large bowl of iced water to freshen and bring out the colour.",
         "Bring a large pan of water to the boil and add the white wine vinegar.",
@@ -42,8 +47,9 @@
         "Finely slice the reserved raw asparagus spears lengthways.",
         "Serve the cooked asparagus and poached eggs in shallow bowls with a little of the sauce, and garnish with the slices of raw asparagus."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Spring asparagus and poached egg",
     "videos": "[]"
 }

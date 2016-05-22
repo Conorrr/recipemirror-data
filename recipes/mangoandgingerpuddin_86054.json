@@ -1,26 +1,30 @@
 {
-    "title": "Mango and ginger pudding",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1-2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "cake",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the icing": [
+            "2 tbsp icing sugar, plus extra to dust",
+            "2 tsp water"
+        ],
         "For the pudding": [
             "85g/3oz butter, plus extra for greasing",
             "85g/3oz soft brown sugar",
@@ -30,11 +34,13 @@
             "2 tbsp milk",
             "2.5cm/1in piece root ginger, peeled and grated",
             "\u00bd mango, peeled, stone removed, chopped"
-        ],
-        "For the icing": [
-            "2 tbsp icing sugar, plus extra to dust",
-            "2 tsp water"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1-2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -45,8 +51,9 @@
         "For the icing, place the icing sugar and water into a small bowl and mix well until smooth.",
         "To serve, drizzle the icing over the pudding and dust with extra icing sugar."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mango and ginger pudding",
     "videos": "[]"
 }

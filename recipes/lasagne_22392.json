@@ -1,26 +1,35 @@
 {
-    "title": "How to make lasagne",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6-8",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "Today can be lasagne-making day and, while you\u2019re at it, make a double or triple batch of sauce as a freezer standby.",
     "author": {
         "allegra_mcevedy": "Allegra McEvedy"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "You can freeze the lasagne once cooked, or allow the unbaked lasagne to cool completely and freeze unbaked. Just thaw the lasagne in the fridge overnight before baking, and make sure your tin can survive both high and low temperatures. Use within one month of freezing."
+    "cookTime": "1 to 2 hours",
+    "cusine": "Italian",
+    "description": "Today can be lasagne-making day and, while you\u2019re at it, make a double or triple batch of sauce as a freezer standby.",
+    "dishes": [
+        "casserole",
+        "lasagne",
+        "oven-baked_dishes",
+        "salad",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the b\u00e9chamel sauce": [
+            "75g/2\u00bdoz unsalted butter",
+            "75g/2\u00bdoz plain flour",
+            "1 litre/1\u00be pint full-fat milk",
+            "\u00bc tsp freshly grated nutmeg"
+        ],
         "For the sauce": [
             "olive oil",
             "1 onion, finely chopped",
@@ -35,17 +44,17 @@
             "400-500ml/14-18fl oz beef stock",
             "sea salt and freshly ground black pepper"
         ],
-        "For the b\u00e9chamel sauce": [
-            "75g/2\u00bdoz unsalted butter",
-            "75g/2\u00bdoz plain flour",
-            "1 litre/1\u00be pint full-fat milk",
-            "\u00bc tsp freshly grated nutmeg"
-        ],
         "To assemble": [
             "250-300g/9-10\u00bdoz dried lasagne sheets that don\u2019t require soaking",
             "150g/5\u00bdoz parmesan, to serve",
             "extra virgin olive oil, for drizzling"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "9",
+    "serves": "Serves 6-8",
+    "show": {
+        
     },
     "steps": [
         "For the sauce, heat a heavy-based saucepan or casserole over a medium-high heat. Once hot, add a glug of oil and then add the onion, carrot, celery and bay leaf and cook for 5-6 minutes, or until softened. Add the garlic and continue to cook for two minutes.",
@@ -56,8 +65,9 @@
         "Repeat the process to create a further two layers. Finish with a final layer of lasagne sheets and the remaining b\u00e9chamel, making sure that all the lasagne sheets are completely covered. Sprinkle over the remaining parmesan.",
         "Drizzle with a little extra virgin olive oil, put onto a baking tray and place in the preheated oven to bake for 30-40 minutes, or until golden-brown and bubbling. Serve in hearty wedges with a crisp green salad."
     ],
-    "howTos": [
-        
+    "tips": [
+        "You can freeze the lasagne once cooked, or allow the unbaked lasagne to cool completely and freeze unbaked. Just thaw the lasagne in the fridge overnight before baking, and make sure your tin can survive both high and low temperatures. Use within one month of freezing."
     ],
+    "title": "How to make lasagne",
     "videos": "[p018g1sh:p018g1sn]"
 }

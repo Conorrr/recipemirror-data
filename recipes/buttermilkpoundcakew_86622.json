@@ -1,24 +1,23 @@
 {
-    "title": "Buttermilk pound cake with Pimms-soaked fruits",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/buttermilkpoundcakew_86622_16x9.jpg"
-    ],
-    "description": "A recipe for Pimms that will last beyond the summer. This easy pound cake enjoys a side order of boozy berries.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "A recipe for Pimms that will last beyond the summer. This easy pound cake enjoys a side order of boozy berries.",
+    "dishes": [
+        "cake",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "greasing_and_lining",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/buttermilkpoundcakew_86622_16x9.jpg"
     ],
     "ingredients": {
         "For the Pimms-soaked fruits": [
@@ -43,6 +42,12 @@
             "clotted cream, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "For the Pimms-soaked fruits, place the Pimms, vanilla pod and sugar into a pan and bring to the boil. Boil for 6-8 minutes, or until reduced to make a syrup.",
         "Remove from the heat and allow to cool slightly. Place the fruit in a bowl then pour the syrup over the fruit.",
@@ -54,9 +59,9 @@
         "Transfer to the oven and bake for about 1\u00bdhours, or until golden-brown and a skewer inserted into the cake comes out clean. Allow to cool slightly in the tin, then turn out onto a cooling rack to cool completely.",
         "To serve, cut the cake into wedges and serve with a dollop of clotted cream and a spoonful of the Pimms-soaked fruits."
     ],
-    "howTos": [
-        "greasing_and_lining",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Buttermilk pound cake with Pimms-soaked fruits",
     "videos": "[]"
 }

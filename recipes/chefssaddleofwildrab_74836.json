@@ -1,30 +1,28 @@
 {
-    "title": "Chef's saddle of wild rabbit with a spinach pur\u00e9e",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "richard_corrigan": "Richard Corrigan"
     },
-    "show": {
-        "p0077hpp": "Full on Food"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "ham",
+        "pie",
+        "prepare-ahead_desserts",
+        "stir-fries",
+        "stock",
+        "stuffing"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the stuffing": [
-            "100g/3\u00bdoz black pudding",
-            "about 30ml/1\u00bcfl oz double cream"
-        ],
         "For the rabbit": [
             "2 slices of Serrano ham",
             "1 saddle of rabbit, boned, plus the kidneys",
@@ -41,7 +39,17 @@
             "200g/7\u00bc oz fresh spinach, stalks, removed and discarded",
             "spalsh of light stock or water",
             "4 tbsp cream"
+        ],
+        "For the stuffing": [
+            "100g/3\u00bdoz black pudding",
+            "about 30ml/1\u00bcfl oz double cream"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "p0077hpp": "Full on Food"
     },
     "steps": [
         "Prepare a stuffing for the rabbit by remove the skin from the black pudding from its skin and putting it in a food processor with the cream. Blend until soft and spoonable.",
@@ -55,8 +63,9 @@
         "Slice the rabbit into six pieces. Place three rounds on each plate with a spoon of the spinach pur\u00e9e.",
         "Scatter over the carrot, celery and kidneys and finish with a drizzle of the pan juices."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chef's saddle of wild rabbit with a spinach pur\u00e9e",
     "videos": "[]"
 }

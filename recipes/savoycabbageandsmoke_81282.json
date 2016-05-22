@@ -1,26 +1,29 @@
 {
-    "title": "Savoy cabbage and smoked bacon soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the parsley oil": [
+            "2 tbsp fresh parsley, finely chopped",
+            "2 tbsp olive oil",
+            "salt and freshly ground black pepper"
+        ],
         "For the soup": [
             "1 tbsp olive oil",
             "1 clove garlic, chopped",
@@ -28,12 +31,13 @@
             "3 rashers bacon, finely chopped",
             "\u00bd Savoy cabbage, shredded",
             "500ml/18fl oz hot chicken stock"
-        ],
-        "For the parsley oil": [
-            "2 tbsp fresh parsley, finely chopped",
-            "2 tbsp olive oil",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "To make the soup, heat the olive oil in a saucepan over a medium heat. Add the garlic and leeks and fry 2-3 minutes.",
@@ -44,8 +48,9 @@
         "To make the parsley oil, place the chopped parsley and the olive oil in a bowl and season, to taste, with salt and freshly ground black pepper.",
         "To serve, pour the soup into a warm bowl and drizzle with the parsley oil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Savoy cabbage and smoked bacon soup",
     "videos": "[]"
 }

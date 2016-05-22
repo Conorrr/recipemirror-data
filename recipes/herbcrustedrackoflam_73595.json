@@ -1,26 +1,39 @@
 {
-    "title": "Herb-crusted rack of lamb with roast butternut squash with lemon and mustard",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "bun",
+        "ciabatta",
+        "jam",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the butternut squash": [
+            "2 butternut squash (about 650g/1lb 7oz each)",
+            "2 garlic cloves, crushed",
+            "2 lemons, zest and juice only",
+            "1 tbsp olive oil",
+            "100g/3\u00bdoz butter, 70g/2\u00bdoz melted and the rest chilled",
+            "1 sprig fresh thyme, leaves only",
+            "2-3 tbsp course-grained mustard",
+            "5 tbsp double cream",
+            "sea salt and freshly ground black pepper"
+        ],
         "For the herb crust": [
             "200g/7\u00bcoz ciabatta, roughly torn",
             "40g/1\u00bdoz lemon rind, grated",
@@ -36,18 +49,13 @@
             "vegetable oil, for frying",
             "2 tsp Dijon mustard",
             "sea salt and freshly ground black pepper"
-        ],
-        "For the butternut squash": [
-            "2 butternut squash (about 650g/1lb 7oz each)",
-            "2 garlic cloves, crushed",
-            "2 lemons, zest and juice only",
-            "1 tbsp olive oil",
-            "100g/3\u00bdoz butter, 70g/2\u00bdoz melted and the rest chilled",
-            "1 sprig fresh thyme, leaves only",
-            "2-3 tbsp course-grained mustard",
-            "5 tbsp double cream",
-            "sea salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Firstly, make the herb crust. Preheat the oven to 120/C248F/Gas 1. Lay the ciabatta, lemon rind, capers, anchovies, onions and olives on a baking sheet, and place them in the oven to dry out for two hours.",
@@ -60,8 +68,9 @@
         "Scoop the roasted squash into a food processor or blender with the remaining butter, mustard, cream and seasoning. Blend to a smooth pur\u00e9e and serve.",
         "To serve, cut the lamb racks into cutlets. On each plate, arrange a few cutlets on a bed of butternut squash mixture."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Herb-crusted rack of lamb with roast butternut squash with lemon and mustard",
     "videos": "[]"
 }

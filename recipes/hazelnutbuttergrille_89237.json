@@ -1,26 +1,32 @@
 {
-    "title": "Hazelnut butter grilled scallops with salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "7",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/hazelnutbuttergrille_89237_16x9.jpg"
-    ],
-    "description": "These scallops, delicately flavoured with fresh herbs, lemon zest and rich hazelnuts, take less than ten minutes to cook.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "These scallops, delicately flavoured with fresh herbs, lemon zest and rich hazelnuts, take less than ten minutes to cook.",
+    "dishes": [
+        "jam",
+        "salad",
+        "seafood",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/hazelnutbuttergrille_89237_16x9.jpg"
+    ],
     "ingredients": {
+        "For the salad": [
+            "\u00bd tbsp wholegrain mustard",
+            "\u00bd tbsp good quality white wine vinegar",
+            "1\u00bd tbsp good quality rapeseed oil",
+            "1 Little Gem lettuce, leaves separated",
+            "1 punnet pea shoots"
+        ],
         "For the scallops": [
             "1 tsp olive oil",
             "1 shallot, peeled, finely sliced",
@@ -31,14 +37,13 @@
             "45g/1\u00bdoz hazelnuts, finely chopped",
             "salt and freshly ground black pepper",
             "6 scallops, cleaned"
-        ],
-        "For the salad": [
-            "\u00bd tbsp wholegrain mustard",
-            "\u00bd tbsp good quality white wine vinegar",
-            "1\u00bd tbsp good quality rapeseed oil",
-            "1 Little Gem lettuce, leaves separated",
-            "1 punnet pea shoots"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the scallops, heat a frying pan until warm, add the olive oil and shallot and fry gently until softened but not coloured.",
@@ -48,8 +53,9 @@
         "For the salad, whisk the mustard, vinegar and oil together in a bowl. Place the lettuce leaves and pea shoots into a bowl, drizzle over the dressing and stir to coat.",
         "To serve, place three scallops onto each of 2 serving plates and serve with a pile of salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Hazelnut butter grilled scallops with salad",
     "videos": "[]"
 }

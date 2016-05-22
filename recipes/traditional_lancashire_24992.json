@@ -1,26 +1,41 @@
 {
-    "title": "Lamb hotpot with cauliflower cheese",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "23",
-    "images": [
-        
-    ],
-    "description": "Hotpot is the perfect dish for hearty appetites on a cold winter day - keep the cooking low and slow to ensure tender lamb.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Hotpot is the perfect dish for hearty appetites on a cold winter day - keep the cooking low and slow to ensure tender lamb.",
+    "dishes": [
+        "casserole",
+        "hotpot",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "browning_meat",
+        "making_bechamel_sauce"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cauliflower cheese": [
+            "1 large cauliflower, cut into florets",
+            "50g/1\u00beoz butter, plus extra for greasing",
+            "50g/1\u00beoz plain flour",
+            "450ml/16fl oz milk",
+            "2 free-range egg yolks",
+            "1 tsp English mustard",
+            "200g/7oz Lincolnshire Poacher (or strong cheddar) cheese, grated"
+        ],
         "default": [
             "1.5kg/3lb 5oz lamb neck fillet, cut into 2.5cm/1in pieces",
             "sea salt and freshly ground black pepper",
@@ -38,16 +53,13 @@
             "2 sprigs fresh thyme",
             "1.5kg/3lb 5oz floury potatoes, peeled and cut into 5mm/ 1/4in thick slices",
             "50g/1\u00beoz unsalted butter, melted"
-        ],
-        "For the cauliflower cheese": [
-            "1 large cauliflower, cut into florets",
-            "50g/1\u00beoz butter, plus extra for greasing",
-            "50g/1\u00beoz plain flour",
-            "450ml/16fl oz milk",
-            "2 free-range egg yolks",
-            "1 tsp English mustard",
-            "200g/7oz Lincolnshire Poacher (or strong cheddar) cheese, grated"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "23",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 180C/160C Fan/Gas 4. Season the lamb with sea salt and pepper.",
@@ -61,9 +73,9 @@
         "Place the butter and flour in a saucepan and heat to melt the butter. Cook, stirring for 1-2 minutes until lightly golden-brown. Remove the pan from the heat and gradually whisk in the milk to form a smooth sauce. Return the sauce to the heat and simmer for 2-3 minutes. Remove from the heat and beat in the egg yolks and mustard and half the cheese. Season with salt and pepper then pour over the cauliflower and top with the remaining cheese. Place under the grill and cook until golden-brown.",
         "Place spoonfuls of the hotpot and cauliflower cheese on warmed plates and serve."
     ],
-    "howTos": [
-        "browning_meat",
-        "making_bechamel_sauce"
+    "tips": [
+        
     ],
+    "title": "Lamb hotpot with cauliflower cheese",
     "videos": "[]"
 }

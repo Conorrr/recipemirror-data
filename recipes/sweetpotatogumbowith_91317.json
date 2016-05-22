@@ -1,24 +1,27 @@
 {
-    "title": "Sweet potato gumbo with cornbread muffins",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sweetpotatogumbowith_91317_16x9.jpg"
-    ],
-    "description": "A vegetarian take on the gumbo that combines authentic okra with trendy sweet potato. Serve with sweet cornbread muffins.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "A vegetarian take on the gumbo that combines authentic okra with trendy sweet potato. Serve with sweet cornbread muffins.",
+    "dishes": [
+        "cornbread",
+        "muffins",
+        "oven-baked_dishes",
+        "stew",
+        "stir-fries",
+        "stock",
+        "veggie_stew"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "chiffonade"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/sweetpotatogumbowith_91317_16x9.jpg"
     ],
     "ingredients": {
         "For the cornbread muffins": [
@@ -51,6 +54,12 @@
             "100g/3\u00bdoz butter, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "For the cornbread muffins, preheat the oven to 180C/350F/Gas 4.",
         "In a bowl, mix together the polenta, baking powder, bicarbonate of soda and flour until well combined.",
@@ -62,8 +71,9 @@
         "Add the sweet potato cubes and shredded cabbage and continue to cook for 12-15 minutes, or until the sweet potato is tender.",
         "To serve, spoon the gumbo into the centre of each of six serving plates. Butter the cornbread muffins and place one or two alongside each serving."
     ],
-    "howTos": [
-        "chiffonade"
+    "tips": [
+        
     ],
+    "title": "Sweet potato gumbo with cornbread muffins",
     "videos": "[]"
 }

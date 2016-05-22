@@ -1,26 +1,31 @@
 {
-    "title": "Seafood chowder",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "14",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "darina_allen": "Darina Allen"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "Remember that the fish will continue to cook in the heat of the chowder so make sure it is not overcooked."
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "chowder",
+        "sauce",
+        "seafood",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "freshly chopped parsley and chives",
+            "crusty bread and butter"
+        ],
         "default": [
             "1 tbsp olive or sunflower oil",
             "110g/4oz streaky bacon, rind removed, cut into 5mm/\u00bc in dice",
@@ -36,11 +41,13 @@
             "700g/1\u00bd lb haddock, monkfish, cod or other firm white fish (or a mixture), free of bones and skin",
             "150ml/\u00bc pint single cream",
             "450g/1lb mixed cooked shellfish - mussels, clams, scallops, shrimps or prawns and the cooking liquor."
-        ],
-        "To serve": [
-            "freshly chopped parsley and chives",
-            "crusty bread and butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "14",
+    "serves": "Serves 6",
+    "show": {
+        
     },
     "steps": [
         "Heat the oil in a stainless-steel saucepan and brown the bacon well until it is crisp and golden.",
@@ -52,8 +59,9 @@
         "Taste, correct the seasoning and sprinkle with freshly chopped parsley and chives.",
         "Serve in a deep dish with plenty of bread and butter."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Remember that the fish will continue to cook in the heat of the chowder so make sure it is not overcooked."
     ],
+    "title": "Seafood chowder",
     "videos": "[]"
 }

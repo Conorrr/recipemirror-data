@@ -1,29 +1,38 @@
 {
-    "title": "Chicken Thai red curry",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4-6",
-    "recommendations": "13",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenandbambooshoo_90183_16x9.jpg"
-    ],
-    "description": "Making your own Thai red curry paste takes time, but you'll be astonished at the difference. Leftover paste will keep in the fridge for about three weeks.",
     "author": {
         "madhur_jaffrey": "Madhur Jaffrey"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "Making your own Thai red curry paste takes time, but you'll be astonished at the difference. Leftover paste will keep in the fridge for about three weeks.",
+    "dishes": [
+        "curry",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries",
+        "thai_chicken_curry"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickenandbambooshoo_90183_16x9.jpg"
+    ],
     "ingredients": {
-        "For the tamarind paste (for use in the curry)": [
-            "30-55g/1-2oz dried tamarind pulp, from a block",
-            "hot water, to cover"
+        "For the curry": [
+            "450g/1lb boned and skinned chicken breasts",
+            "2 tbsp vegetable or groundnut oil",
+            "400ml/14fl oz can of coconut milk, left undisturbed for three hours or more",
+            "5 tbsp red curry paste",
+            "140g/5oz sliced bamboo shoots from a can, drained and rinsed",
+            "4 fresh kaffir lime leaves or 1 tsp lemon zest",
+            "2 tbsp fish sauce, or to taste",
+            "1 tsp thick tamarind paste or lemon juice",
+            "1 tsp palm sugar or brown sugar",
+            "15-20 fresh Thai (holy) basil leaves or ordinary basil leaves"
         ],
         "For the red curry paste": [
             "10-12 dried, hot red chillies (of the long, cayenne variety)",
@@ -39,18 +48,16 @@
             "\u00bd tsp ground coriander",
             "2 tbsp bright red paprika"
         ],
-        "For the curry": [
-            "450g/1lb boned and skinned chicken breasts",
-            "2 tbsp vegetable or groundnut oil",
-            "400ml/14fl oz can of coconut milk, left undisturbed for three hours or more",
-            "5 tbsp red curry paste",
-            "140g/5oz sliced bamboo shoots from a can, drained and rinsed",
-            "4 fresh kaffir lime leaves or 1 tsp lemon zest",
-            "2 tbsp fish sauce, or to taste",
-            "1 tsp thick tamarind paste or lemon juice",
-            "1 tsp palm sugar or brown sugar",
-            "15-20 fresh Thai (holy) basil leaves or ordinary basil leaves"
+        "For the tamarind paste (for use in the curry)": [
+            "30-55g/1-2oz dried tamarind pulp, from a block",
+            "hot water, to cover"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "13",
+    "serves": "Serves 4-6",
+    "show": {
+        
     },
     "steps": [
         "If using tamarind paste, a couple of hours before you want to make the curry (or preferably the night before), place the tamarind pulp into a small bowl. Add hot or boiling water to cover (if the pulp is very dry, use boiling water). Soak the tamarind until it's very soft and pliable, for a few hours or preferably overnight.",
@@ -65,8 +72,9 @@
         "Stir together well and bring to a simmer. The chicken should turn white and cook through by the time the first bubbles begin to appear. Simmer on a low heat for a further minute or two.",
         "Just before serving, sprinkle the basil leaves over the curry, stir gently and remove from the heat. Serve with jasmine rice."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Chicken Thai red curry",
     "videos": "[]"
 }

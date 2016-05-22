@@ -1,24 +1,21 @@
 {
-    "title": "Vanilla ice cream",
-    "cookTime": "less than 10 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "51",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/vanillaicecream_4616_16x9.jpg"
-    ],
-    "description": "This easy recipe for creamy vanilla ice cream doesn't require an in ice cream maker.",
     "author": {
         "lee_cox": "Lee Cox"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "Due to the absence of milk in this recipe, the ice cream does not crystallise in the freezer bowl. So there's no need to stir it. Ideal for anyone without an ice cream maker."
+    "cookTime": "less than 10 mins",
+    "description": "This easy recipe for creamy vanilla ice cream doesn't require an in ice cream maker.",
+    "dishes": [
+        "ice_cream",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "de-seeding_vanilla_pods"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/vanillaicecream_4616_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -28,13 +25,20 @@
             "3 egg yolks"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "51",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Halve the vanilla pods lengthways and scrape out the seeds. Add the pods to the cream and bring to the boil, then add the sugar and stir until the sugar has dissolved.",
         "Meanwhile, whisk the egg yolks in a large bowl then slowly whisk in the hot cream mixture.",
         "Pour the mixture through a fine sieve into another bowl and whisk in the vanilla seeds. Pour the mixture into a freezer-proof container and freeze for 2-3 hours, or until set."
     ],
-    "howTos": [
-        "de-seeding_vanilla_pods"
+    "tips": [
+        "Due to the absence of milk in this recipe, the ice cream does not crystallise in the freezer bowl. So there's no need to stir it. Ideal for anyone without an ice cream maker."
     ],
+    "title": "Vanilla ice cream",
     "videos": "[]"
 }

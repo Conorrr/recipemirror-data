@@ -1,40 +1,29 @@
 {
-    "title": "Salmon coulibiac with roasted vegetables",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4-6",
-    "recommendations": "16",
-    "images": [
-        
-    ],
-    "description": "James Martin's salmon in puff pastry with spinach is a real dinner party showstopper served with rich beurre blanc.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "East_European",
+    "description": "James Martin's salmon in puff pastry with spinach is a real dinner party showstopper served with rich beurre blanc.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "salmon_en_croute",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the salmon coulibiac": [
-            "900g/2lb readymade all-butter puff pastry",
-            "1.2kg/2lb 12oz whole salmon fillet",
-            "300ml/7fl oz double cream",
-            "5 tbsp chives, finely chopped",
-            "500g/1lb 2oz spinach, blanched in boiling water for one minute, refreshed in cold water and squeezed dry",
-            "1 free-range egg, beaten"
-        ],
-        "For the roasted vegetables": [
-            "2 red onions, peeled and cut into wedges",
-            "3 large carrots, peeled and cut into chunks",
-            "3 large parsnips, peeled and cut into chunks",
-            "3 tbsp olive oil"
-        ],
         "For the beurre blanc": [
             "2 shallots, peeled, finely sliced",
             "1 tbsp white wine vinegar",
@@ -42,7 +31,27 @@
             "225g/8oz butter, cut into cubes",
             "salt and freshly ground black pepper",
             "4 tbsp chopped chives"
+        ],
+        "For the roasted vegetables": [
+            "2 red onions, peeled and cut into wedges",
+            "3 large carrots, peeled and cut into chunks",
+            "3 large parsnips, peeled and cut into chunks",
+            "3 tbsp olive oil"
+        ],
+        "For the salmon coulibiac": [
+            "900g/2lb readymade all-butter puff pastry",
+            "1.2kg/2lb 12oz whole salmon fillet",
+            "300ml/7fl oz double cream",
+            "5 tbsp chives, finely chopped",
+            "500g/1lb 2oz spinach, blanched in boiling water for one minute, refreshed in cold water and squeezed dry",
+            "1 free-range egg, beaten"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "16",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 210C/425F/Gas7. Line a baking tray with silicone or baking parchment.",
@@ -62,8 +71,9 @@
         "To serve, carve the salmon into thick slices and place onto a plate.",
         "Pile the vegetables alongside and finish with a drizzle of beurre blanc."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salmon coulibiac with roasted vegetables",
     "videos": "[]"
 }

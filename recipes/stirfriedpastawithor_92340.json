@@ -1,26 +1,31 @@
 {
-    "title": "Stir-fried pasta with orange and curry",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Ken Hom mixes things up with his stir-fried pasta, with delicious results!",
     "author": {
         "ken_hom": "Ken Hom"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Ken Hom mixes things up with his stir-fried pasta, with delicious results!",
+    "dishes": [
+        "curry",
+        "pasta",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "1 handful chopped fresh basil leaves",
+            "1 handful chopped fresh chives"
+        ],
         "default": [
             "3 tbsp olive oil",
             "3 tbsp finely chopped garlic",
@@ -38,11 +43,13 @@
             "1 tsp salt",
             "\u00bd tsp freshly ground black pepper",
             "450g/1lb dried Italian pasta, such as farfalle, cooked according to packet instructions, drained"
-        ],
-        "To serve": [
-            "1 handful chopped fresh basil leaves",
-            "1 handful chopped fresh chives"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Heat the oil in a lidded wok (or saucepan) over a high heat until smoking. Add the garlic, ginger, onion and orange zest and stir-fry for 1-2 minutes.",
@@ -52,8 +59,9 @@
         "Add the drained pasta to the sauce and mix well until coated and warmed through.",
         "To serve, divide the stir-fried pasta equally among four serving plates and sprinkle over the chopped basil and chives."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Stir-fried pasta with orange and curry",
     "videos": "[]"
 }

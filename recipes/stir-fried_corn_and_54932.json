@@ -1,24 +1,21 @@
 {
-    "title": "Stir-fried corn and chilli",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/stir-fried_corn_and_54932_16x9.jpg"
-    ],
-    "description": "Use the kernels from fresh sweetcorn - or else frozen corn to save time - for this simple side dish. You could replace the red chillies with chopped bell pepper to make this more suitable for young kids.",
     "author": {
         "ken_hom": "Ken Hom"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Use the kernels from fresh sweetcorn - or else frozen corn to save time - for this simple side dish. You could replace the red chillies with chopped bell pepper to make this more suitable for young kids.",
+    "dishes": [
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/stir-fried_corn_and_54932_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -30,12 +27,19 @@
             "50ml/1\u00befl oz vegetarian or chicken stock"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "If the corn is fresh, cut the kernels off the cob. If using frozen corn, blanch the frozen corn for five seconds in a pan of boiling water and drain.",
         "Heat a wok or large saut\u00e9 pan until hot. Add the oil, salt, corn, and chilies and stir-fry for one minute. Add the pepper, sugar, and chicken stock, and continue to cook for three minutes. Serve at once."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Stir-fried corn and chilli",
     "videos": "[]"
 }

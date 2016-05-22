@@ -1,26 +1,29 @@
 {
-    "title": "Butternut squash and ginger sponge pudding with orange cream sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "segmenting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the orange cream sauce": [
+            "142ml/5fl oz double cream",
+            "30g/1oz caster sugar",
+            "\u00bd orange, peeled and segmented"
+        ],
         "For the sponge": [
             "140g/5oz butternut squash, peeled and chopped",
             "pinch dried ground ginger",
@@ -30,12 +33,13 @@
             "2 free-range eggs",
             "1 tbsp baking powder",
             "1 tbsp clear honey"
-        ],
-        "For the orange cream sauce": [
-            "142ml/5fl oz double cream",
-            "30g/1oz caster sugar",
-            "\u00bd orange, peeled and segmented"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the sponge, place the squash into a small heatproof bowl with the ground ginger and a splash of water. Cover with cling film and cook in the microwave on the highest setting for 4 minutes.",
@@ -44,8 +48,9 @@
         "For the orange cream sauce, heat the cream in a saucepan and add the sugar. Stir until the sugar has dissolved, then add the orange segments.",
         "To serve, turn the pudding out onto a plate and pour over the orange cream sauce."
     ],
-    "howTos": [
-        "segmenting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Butternut squash and ginger sponge pudding with orange cream sauce",
     "videos": "[]"
 }

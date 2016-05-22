@@ -1,24 +1,25 @@
 {
-    "title": "Flaounes",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 12",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pauls_flaounas_89782_16x9.jpg"
-    ],
-    "description": "This Cypriot cheese-filled pastry uses ground mahlepi (a Greek spice made from the ground stone of the St Lucie cherry) in the dough, giving a hint of almond flavour. Delicious with a filling of pecorino romano, halloumi and sultanas.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "Not all halloumi is vegetarian so check the label if you are cooking for vegetarians."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Greek",
+    "description": "This Cypriot cheese-filled pastry uses ground mahlepi (a Greek spice made from the ground stone of the St Lucie cherry) in the dough, giving a hint of almond flavour. Delicious with a filling of pecorino romano, halloumi and sultanas.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "pasty",
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pauls_flaounas_89782_16x9.jpg"
     ],
     "ingredients": {
         "For the filling": [
@@ -33,6 +34,11 @@
             "4 tbsp milk",
             "1 tsp baking powder"
         ],
+        "For the glaze": [
+            "200g/7oz sesame seeds",
+            "dash of white wine vinegar",
+            "3 free-range egg yolks, lightly beaten"
+        ],
         "For the pastry": [
             "750g/1lb 10oz strong plain flour, plus extra for flouring",
             "1 tsp mastic powder (a plant resin used in baking, available from specialist stores online)",
@@ -42,12 +48,13 @@
             "7g instant yeast",
             "60g/2\u00bcoz unsalted butter, softened",
             "450ml/16fl oz full-fat milk"
-        ],
-        "For the glaze": [
-            "200g/7oz sesame seeds",
-            "dash of white wine vinegar",
-            "3 free-range egg yolks, lightly beaten"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "4",
+    "serves": "Makes 12",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the filling, grate the pecorino romana and halloumi into a large bowl. In a separate bowl, mix the plain flour, semolina, yeast, dried mint and sultanas together. Beat the eggs and milk together in a jug.",
@@ -60,8 +67,9 @@
         "To finish the filling, add the baking powder to the filling mixture and divide the filling into 12. Place one portion of filling into the centre of each dough circle and fold in 3 sides to make a rounded triangle shape, leaving a gap in centre with the filling exposed.",
         "Place the flaounes on the baking trays, brush the tops with the beaten egg yolk and bake for 15 minutes. Reduce the oven temperature to 180C/160C Fan/Gas 4 and bake for a further 15 minutes, or until golden-brown and puffed up. Serve hot or cold."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Not all halloumi is vegetarian so check the label if you are cooking for vegetarians."
     ],
+    "title": "Flaounes",
     "videos": "[]"
 }

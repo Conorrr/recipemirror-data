@@ -1,26 +1,27 @@
 {
-    "title": "Lemon and artichoke soup",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ross_burden": "Ross Burden"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "olive oil, to drizzle"
+        ],
         "default": [
             "200ml/8fl oz boiling water",
             "\u00bd chicken stock cube",
@@ -30,18 +31,22 @@
             "5 Jerusalem artichokes, peeled and finely diced",
             "4 parsley stems, chopped",
             "salt and freshly ground black pepper, to taste"
-        ],
-        "To serve": [
-            "olive oil, to drizzle"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Add all of the ingredients to a saucepan and simmer for eight minutes, until the Jerusalem artichokes have softened.",
         "Place into a food processor and blend until smooth.",
         "To serve, pour into bowls and drizzle with a little olive oil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lemon and artichoke soup",
     "videos": "[]"
 }

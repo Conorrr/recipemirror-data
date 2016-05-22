@@ -1,32 +1,29 @@
 {
-    "title": "Spicy lamb with couscous and spicy apricot chutney",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "chutney",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the lamb": [
-            "1 lamb steak, cut into cubes",
-            "1 tbsp olive oil",
-            "\u00bd tsp coriander seeds",
-            "\u00bd tsp cumin seeds",
-            "\u00bd tsp dried chilli flakes",
+        "For the apricot chutney": [
+            "50g/1\u00bdoz butter",
+            "25g/1oz caster sugar",
+            "\u00bd tsp white wine vinegar",
+            "1 apricot, stone removed, chopped",
             "salt and freshly ground black pepper"
         ],
         "For the couscous": [
@@ -36,13 +33,20 @@
             "125g/4\u00bdoz couscous, cooked according to packet instructions",
             "salt and freshly ground black pepper"
         ],
-        "For the apricot chutney": [
-            "50g/1\u00bdoz butter",
-            "25g/1oz caster sugar",
-            "\u00bd tsp white wine vinegar",
-            "1 apricot, stone removed, chopped",
+        "For the lamb": [
+            "1 lamb steak, cut into cubes",
+            "1 tbsp olive oil",
+            "\u00bd tsp coriander seeds",
+            "\u00bd tsp cumin seeds",
+            "\u00bd tsp dried chilli flakes",
             "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the lamb, place the lamb and oil into a bowl and mix well.",
@@ -53,8 +57,9 @@
         "Add the rest of the butter and stir to create a thick pur\u00e9e.",
         "To serve, place the couscous onto a plate, top with the chargrilled lamb and drizzle over the apricot sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spicy lamb with couscous and spicy apricot chutney",
     "videos": "[]"
 }

@@ -1,32 +1,27 @@
 {
-    "title": "Classic chicken Caesar salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "caesar_salad",
+        "mayonnaise",
+        "oven-baked_dishes",
+        "salad",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the salad": [
-            "2 x chicken breasts, skin and knuckle bone still attached",
-            "salt and freshly ground black pepper",
-            "1 tbsp olive oil",
-            "150ml/5fl oz chicken stock"
-        ],
         "For the croutons": [
             "200g/7oz white bread, cut into small cubes",
             "pinch salt",
@@ -42,11 +37,23 @@
             "1 garlic clove, crushed",
             "50ml/2fl oz olive oil"
         ],
+        "For the salad": [
+            "2 x chicken breasts, skin and knuckle bone still attached",
+            "salt and freshly ground black pepper",
+            "1 tbsp olive oil",
+            "150ml/5fl oz chicken stock"
+        ],
         "To serve": [
             "1 cos lettuce, torn up",
             "12 anchovies (stored in vinegar)",
             "50g/2oz parmesan shavings"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -65,8 +72,9 @@
         "Carve each chicken breast into thick slices and place half of the chicken over each bowl of salad.",
         "Sprinkle with parmesan shavings and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Classic chicken Caesar salad",
     "videos": "[]"
 }

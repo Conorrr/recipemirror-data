@@ -1,24 +1,23 @@
 {
-    "title": "Carol's bran muffins",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 20-24",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "NB: If you don't want to make 24 muffins, half of the batter mixture can be stored in the fridge in an airtight container covered with cling film for up to three days.",
     "author": {
         "allegra_mcevedy": "Allegra McEvedy"
     },
-    "show": {
-        "b00m1c34": "Economy Gastronomy"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "NB: If you don't want to make 24 muffins, half of the batter mixture can be stored in the fridge in an airtight container covered with cling film for up to three days.",
+    "dishes": [
+        "muffins",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "creaming"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -35,6 +34,12 @@
             "220g/\u00bd lb raisins or sultanas"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Makes 20-24",
+    "show": {
+        "b00m1c34": "Economy Gastronomy"
+    },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5.",
         "Pour half of the bran sticks into a large mixing bowl. Pour over 200ml/7fl oz boiling water. Set aside until the bran sticks have softened and absorbed most of the water and the water has cooled.",
@@ -46,8 +51,9 @@
         "Place one paper muffin case or one large square of greaseproof paper into each well of a 24-hole muffin tin. Divide the muffin batter equally among the muffin cases.",
         "Transfer the muffins to the oven and bake for 25-30 minutes, or until risen, golden-brown and cooked through. (NB: The muffins are cooked through when a skewer inserted into the centre comes out clean.)"
     ],
-    "howTos": [
-        "creaming"
+    "tips": [
+        
     ],
+    "title": "Carol's bran muffins",
     "videos": "[]"
 }

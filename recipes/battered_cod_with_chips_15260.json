@@ -1,26 +1,38 @@
 {
-    "title": "Battered cod with chips and homemade tomato ketchup",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Cod in beer batter with chips and one-pan homemade ketchup.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Cod in beer batter with chips and one-pan homemade ketchup.",
+    "dishes": [
+        "chips",
+        "fish_and_chips",
+        "jam",
+        "ketchup",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the fish and chips": [
+            "400g/14oz floury potatoes, peeled and cut into thick batons 6cm/2\u00bdin long and dried on kitchen paper",
+            "15g/2/3oz fresh yeast",
+            "pinch sugar",
+            "200ml/7floz beer",
+            "1 tsp cider vinegar",
+            "200g/7oz plain flour",
+            "pinch salt",
+            "4 x 175g/6oz cod fillet, skinned and pin bones removed"
+        ],
         "For the tomato ketchup": [
             "250ml/9floz red wine vinegar",
             "1 bay leaf",
@@ -34,17 +46,13 @@
             "Tabasco sauce, to taste",
             "2 tbsp tomato pur\u00e9e",
             "1-2 tbsp cornflour"
-        ],
-        "For the fish and chips": [
-            "400g/14oz floury potatoes, peeled and cut into thick batons 6cm/2\u00bdin long and dried on kitchen paper",
-            "15g/2/3oz fresh yeast",
-            "pinch sugar",
-            "200ml/7floz beer",
-            "1 tsp cider vinegar",
-            "200g/7oz plain flour",
-            "pinch salt",
-            "4 x 175g/6oz cod fillet, skinned and pin bones removed"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the tomato ketchup, place the vinegar, bay leaf, spices and sugar in a heavy-based pan and bring to a simmer.",
@@ -64,8 +72,9 @@
         "Place the semi cooked chips back into the fat fryer in batches and cook for another 2-3 minutes until golden-brown and crisp.",
         "To serve, pile the chips onto the plate and place the cod alongside. Serve with a dollop of tomato ketchup."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Battered cod with chips and homemade tomato ketchup",
     "videos": "[]"
 }

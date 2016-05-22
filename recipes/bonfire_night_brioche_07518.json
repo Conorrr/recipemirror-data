@@ -1,24 +1,28 @@
 {
-    "title": "Bonfire night brioche",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 12",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Warm buttery brioche, laced with homemade fudge and butterscotch, topped with creamy frosting.",
     "author": {
         "cathryn_dresser": "Cathryn Dresser"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Warm buttery brioche, laced with homemade fudge and butterscotch, topped with creamy frosting.",
+    "dishes": [
+        "bread",
+        "brioche",
+        "bun",
+        "fudge",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the brioche": [
@@ -42,18 +46,24 @@
             "pinch cream of tartar",
             "50g/1\u00beoz salted butter"
         ],
+        "For the cream cheese frosting": [
+            "125g/4\u00bdoz unsalted butter, softened",
+            "125g/4\u00bdoz full fat cream cheese",
+            "275g/9\u00beoz icing sugar"
+        ],
         "For the fudge": [
             "75ml/2\u00bdfl oz full-fat milk",
             "30g/1oz unsalted butter",
             "2 tsp vanilla paste",
             "225g/8oz caster sugar",
             "pinch salt"
-        ],
-        "For the cream cheese frosting": [
-            "125g/4\u00bdoz unsalted butter, softened",
-            "125g/4\u00bdoz full fat cream cheese",
-            "275g/9\u00beoz icing sugar"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 12",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the brioche, heat the milk to 37C/99F, pour it into a measuring jug and add the sachet of yeast. Cover with cling film and set aside for 10 minutes.",
@@ -68,8 +78,9 @@
         "Put the brioche in the preheated oven for five minutes, then reduce the temperature to 180C/350F/Gas 4 and bake for a further 25 minutes, or until it is golden-brown and sounds hollow when tapped underneath. Transfer to a cooling rack.",
         "When the loaf is cool, remove from the tin and spread the cream cheese icing on the top of each bun. Allow the icing to set a little before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Bonfire night brioche",
     "videos": "[]"
 }

@@ -1,24 +1,23 @@
 {
-    "title": "Rum-flavoured pineapple upside-down cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/rumflavouredpineappl_86353_16x9.jpg"
-    ],
-    "description": "This tropical pineapple upside-down cake recipe doesn't feel retro, and who cares when it's loaded with tasty rum.",
     "author": {
         "neneh_cherry_and_andi_oliver": "Neneh Cherry and Andi Oliver"
     },
-    "show": {
-        "b00728t5": "Neneh and Andi Dish It Up"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This tropical pineapple upside-down cake recipe doesn't feel retro, and who cares when it's loaded with tasty rum.",
+    "dishes": [
+        "cake",
+        "oven-baked_dishes",
+        "stir-fries",
+        "upside-down_cake"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/rumflavouredpineappl_86353_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -34,6 +33,12 @@
             "3 tbsp good-quality dark rum"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 6-8",
+    "show": {
+        "b00728t5": "Neneh and Andi Dish It Up"
+    },
     "steps": [
         "Preheat the oven to 175C/350F/Gas 3.",
         "Line the bottom and the sides of a large ovenproof dish or cake tin with the pineapple rings (cut the pineapple rings in half to line the sides).",
@@ -44,8 +49,9 @@
         "Pour the mixture into the ovenproof dish over the pineapples. Bake in the oven for 40-50 minutes until risen and golden brown and a skewer inserted comes out clean.",
         "Leave the cake to cool on a wire rack. When it is cooled, cut into slices to serve."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Rum-flavoured pineapple upside-down cake",
     "videos": "[]"
 }

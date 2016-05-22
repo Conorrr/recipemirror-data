@@ -1,30 +1,28 @@
 {
-    "title": "Eton mess torte",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8-10",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "Take your Eton mess to the next level with this easy, but impressive recipe.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Take your Eton mess to the next level with this easy, but impressive recipe.",
+    "dishes": [
+        "caramel",
+        "eton_mess",
+        "icing",
+        "jam",
+        "meringue",
+        "oven-baked_dishes",
+        "torte"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "whisking_egg_whites"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the meringue": [
-            "8 free-range egg whites",
-            "400g/14oz white caster sugar"
-        ],
         "For the filling": [
             "400g/14oz strawberries, 300g/11oz roughly chopped, the rest whole",
             "2 tbsp icing sugar",
@@ -32,7 +30,17 @@
             "1 vanilla pod, split and seeds scraped out",
             "150g/5oz caster sugar",
             "2 tbsp water"
+        ],
+        "For the meringue": [
+            "8 free-range egg whites",
+            "400g/14oz white caster sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 8-10",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the meringue, preheat the oven to 100C/200F/Gas \u00be. Line three baking trays with greaseproof paper.",
@@ -47,8 +55,9 @@
         "Carefully dip the whole strawberries into the caramel and place onto a plate. (Caution: the caramel will be very hot.)",
         "To assemble the torte, place a meringue circle onto a serving plate. Spoon on some of the cream mixture and spread it out to cover the meringue. Repeat with another meringue dish and layer of cream, finishing with the remaining meringue circle. Drizzle the remaining liquid caramel over the top of the meringue and decorate with the caramel-dipped strawberries."
     ],
-    "howTos": [
-        "whisking_egg_whites"
+    "tips": [
+        
     ],
+    "title": "Eton mess torte",
     "videos": "[]"
 }

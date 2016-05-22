@@ -1,33 +1,31 @@
 {
-    "title": "Marinated salmon gravalax",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "aggi_sverrisson": "Aggi Sverrisson"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "bread",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "25g/1oz caster sugar",
-            "25g/1oz fine salt",
-            "2 lemons, peel removed with a peeler, then finely sliced into julienne",
-            "\u00bd filleted side of salmon, weighing about 500g/1lb 2oz, skinned and pin boned",
-            "300ml/11fl oz olive oil",
-            "10g chopped fresh dill"
+        "For the cucumber salad": [
+            "1 cucumber",
+            "1 tsp wine vinegar",
+            "salt, to taste",
+            "2 tbsp olive oil",
+            "1 tsp wholegrain mustard",
+            "5g/\u00bcoz chopped fresh dill"
         ],
         "For the mustard sauce": [
             "200g/7\u00bc Greek-style yoghurt",
@@ -37,21 +35,27 @@
             "1 tsp lemon juice",
             "freshly grated horseradish, to taste"
         ],
-        "For the cucumber salad": [
-            "1 cucumber",
-            "1 tsp wine vinegar",
-            "salt, to taste",
-            "2 tbsp olive oil",
-            "1 tsp wholegrain mustard",
-            "5g/\u00bcoz chopped fresh dill"
-        ],
         "For the rye cro\u00fbtons": [
             "2 slices rye bread",
             "olive oil, to taste",
             "pinch salt",
             "2 tbsp chopped fresh dill",
             "1-2 tbsp mixed micro leaves"
+        ],
+        "default": [
+            "25g/1oz caster sugar",
+            "25g/1oz fine salt",
+            "2 lemons, peel removed with a peeler, then finely sliced into julienne",
+            "\u00bd filleted side of salmon, weighing about 500g/1lb 2oz, skinned and pin boned",
+            "300ml/11fl oz olive oil",
+            "10g chopped fresh dill"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Mix the sugar, salt and lemon peel together in a small bowl.",
@@ -68,8 +72,9 @@
         "Heat a frying pan and fry the rye bread until browned all over. Remove from the heat and transfer to a plate to cool slightly before breaking up into rustic cro\u00fbtons. Sprinkle with the chopped dill.",
         "Sprinkle the chopped dill over the salmon and serve it with the rye cro\u00fbtons, mustard sauce, cucumber salad and mixed micro leaves to garnish."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Marinated salmon gravalax",
     "videos": "[]"
 }

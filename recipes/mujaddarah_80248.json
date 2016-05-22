@@ -1,26 +1,29 @@
 {
-    "title": "Mujaddarah",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "roberta_sawalha___julia_sawalha": "Roberta Sawalha / Julia Sawalha"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the caramelised onions": [
+            "300ml/10\u00bd fl oz sunflower oil",
+            "4 large onions, halved and sliced into very thin rounds",
+            "large handful chopped fresh coriander"
+        ],
         "default": [
             "175g/6oz white basmati rice",
             "175g/6oz small brown lentils",
@@ -29,12 +32,13 @@
             "1 tsp ground allspice",
             "salt, to taste",
             "1 tsp freshly ground black pepper"
-        ],
-        "For the caramelised onions": [
-            "300ml/10\u00bd fl oz sunflower oil",
-            "4 large onions, halved and sliced into very thin rounds",
-            "large handful chopped fresh coriander"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b00701fw": "A Taste of My Life"
     },
     "steps": [
         "Wash the rice very well in several changes of cold water, until the water runs clear. Place in a saucepan, then cover with warm water. Add salt, to taste, and bring to the boil and simmer for 10-12 minutes.",
@@ -43,8 +47,9 @@
         "Melt butter in a saucepan and add the spices. Stir in the drained lentils and rice and a third of the fried onions. Gently toss them all together. Pour enough water into the saucepan to cover the rice and lentils by about 0.5cm/\u00bcinch and season to taste with salt and freshly ground black pepper. Cover the top with some damp baking parchment cut to the shape of the pan or some foil so it touches the surface.",
         "Put a lid on the pan and bring to the boil over a high heat. After five minutes turn down the heat to low, then cook for a further five minutes. All the water should now have been absorbed and the rice grains will be standing on end. Serve covered with the remaining fried onions and sprinkled with the chopped coriander."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mujaddarah",
     "videos": "[]"
 }

@@ -1,26 +1,30 @@
 {
-    "title": "Green coconut fish curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "26",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/greencoconutfishcurr_86736_16x9.jpg"
-    ],
-    "description": "The whole spices and whole green chillies add flavour but are not overly hot so this is mild enough for the children.",
     "author": {
         "anjum_anand": "Anjum Anand"
     },
-    "show": {
-        "b007szxr": "Indian Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "The whole spices and whole green chillies add flavour but are not overly hot so this is mild enough for the children.",
+    "dishes": [
+        "curry",
+        "fish_curry",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/greencoconutfishcurr_86736_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "2-3 tsp lemon juice",
+            "50g/2oz fresh coriander leaves and stalks, chopped"
+        ],
         "default": [
             "2 tbsp vegetable oil",
             "\u00bd tsp brown mustard seeds",
@@ -39,11 +43,13 @@
             "\u00bd-1 tsp freshly ground black pepper",
             "\u00be tsp garam masala",
             "500g/1lb 2oz salmon or firm white fish fillets, cut into large pieces"
-        ],
-        "To serve": [
-            "2-3 tsp lemon juice",
-            "50g/2oz fresh coriander leaves and stalks, chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "26",
+    "serves": "Serves 4-6",
+    "show": {
+        "b007szxr": "Indian Food Made Easy"
     },
     "steps": [
         "Heat the oil in a non-stick pan, add the mustard seeds, cloves, cardamom pods and cinnamon stick and stir fry for 20 seconds (be careful, the seeds might pop). Add half of the chopped onion and fry for 4-5 minutes until soft.",
@@ -52,8 +58,9 @@
         "Add the remaining coconut milk, the water, the currry leaves, black pepper and garam masala and the fish and leave to cook undisturbed for about 3-5 minutes, until the fish is opaque and cooked through.",
         "To serve, stir in the lemon juice and coriander. Taste and adjust the seasoning if necessary, then pour into bowls and serve with rice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Green coconut fish curry",
     "videos": "[]"
 }

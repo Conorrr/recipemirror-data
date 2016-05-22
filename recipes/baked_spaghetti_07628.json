@@ -1,23 +1,20 @@
 {
-    "title": "Baked spaghetti",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This oven-baked take on spaghetti al pomodoro is quick, easy and made from storecupboard ingredients.",
     "author": {
         "kate_morris_and_sally_brown": "Kate Morris and Sally Brown"
     },
-    "show": {
-        "b00w1ddl": "I Can Cook"
-    },
-    "tips": [
-        "This dish can be frozen for up to one month."
+    "cookTime": "10 to 30 mins",
+    "description": "This oven-baked take on spaghetti al pomodoro is quick, easy and made from storecupboard ingredients.",
+    "dishes": [
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -34,6 +31,12 @@
             "grated cheese, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b00w1ddl": "I Can Cook"
+    },
     "steps": [
         "Preheat the oven to 220C/450F/Gas 7.",
         "Place the spring onions, sun-dried tomatoes, bacon and olives into a lidded ovenproof dish.",
@@ -41,8 +44,9 @@
         "Cover the ovenproof dish with the lid and transfer to the oven for 25 minutes, or until the spaghetti is cooked through.",
         "Set aside to cool slightly, then serve sprinkled with a little grated cheese."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This dish can be frozen for up to one month."
     ],
+    "title": "Baked spaghetti",
     "videos": "[]"
 }

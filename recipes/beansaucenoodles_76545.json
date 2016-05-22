@@ -1,24 +1,23 @@
 {
-    "title": "Pork noodles with bean sauce",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beansaucenoodles_76545_16x9.jpg"
-    ],
-    "description": "This pork mince stir-fry cooks in minutes and you can use either yellow bean or black bean sauce.",
     "author": {
         "ken_hom": "Ken Hom"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        "You can save time by using straight to wok noodles."
+    "cookTime": "less than 10 mins",
+    "cusine": "Chinese",
+    "description": "This pork mince stir-fry cooks in minutes and you can use either yellow bean or black bean sauce.",
+    "dishes": [
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beansaucenoodles_76545_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,6 +35,12 @@
             "2 tsp sugar"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "For the sauce, heat a wok or large frying-pan over high heat until hot. Add the oil. When it is very hot and slightly smoking, add the garlic, ginger and spring onions. Stir-fry for 15 seconds, then add the minced pork.",
         "Stir well to break up all the pieces and continue to stir-fry for about 2 minutes, or more, until the pork loses its pink colour. Add the remaining ingredients, except the noodles, stirring all the time. Bring the mixture to the boil, turn the heat down to low and simmer for 5 minutes, adding a little water if it looks too dry.",
@@ -43,8 +48,9 @@
         "Tip the noodles into a large serving bowl and pour the hot sauce over the top.",
         "Sprinkle spring onions on top, mix everything together well and serve immediately."
     ],
-    "howTos": [
-        
+    "tips": [
+        "You can save time by using straight to wok noodles."
     ],
+    "title": "Pork noodles with bean sauce",
     "videos": "[]"
 }

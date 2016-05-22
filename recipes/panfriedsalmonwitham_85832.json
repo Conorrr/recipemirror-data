@@ -1,41 +1,33 @@
 {
-    "title": "Pan-fried salmon with a medley of roasted vegetables, French fries and champ sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "champ",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the French fries": [
+            "500ml/18fl oz vegetable oil",
+            "1 potato, peeled and cut into thin sticks"
+        ],
         "For the salmon": [
             "150g/5\u00bdoz salmon fillet",
             "1 tbsp olive oil",
             "salt and freshly ground black pepper"
-        ],
-        "For the vegetables": [
-            "\u00bd cauliflower, cut into florets, blanched",
-            "\u00bd red pepper, thinly sliced",
-            "2 spring onions",
-            "1 tbsp olive oil",
-            "salt and freshly ground black pepper"
-        ],
-        "For the French fries": [
-            "500ml/18fl oz vegetable oil",
-            "1 potato, peeled and cut into thin sticks"
         ],
         "For the sauce": [
             "25g/1oz unsalted butter",
@@ -44,7 +36,20 @@
             "1 tbsp whole milk",
             "1 small potato, peeled, diced, boiled and drained",
             "salt and freshly ground black pepper"
+        ],
+        "For the vegetables": [
+            "\u00bd cauliflower, cut into florets, blanched",
+            "\u00bd red pepper, thinly sliced",
+            "2 spring onions",
+            "1 tbsp olive oil",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -58,8 +63,9 @@
         "Add the cooked potato and season, to taste, with salt and freshly ground black pepper. Transfer to a food processor. Allow to cool for a few minutes, then blend until smooth.",
         "To serve, pour the sauce onto a warmed plate and place the salmon on top. Place the roasted vegetables around the edge of the plate and serve the French fries in a bowl alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pan-fried salmon with a medley of roasted vegetables, French fries and champ sauce",
     "videos": "[]"
 }

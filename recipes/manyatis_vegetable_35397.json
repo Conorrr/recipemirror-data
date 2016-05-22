@@ -1,24 +1,23 @@
 {
-    "title": "Vegetable chilli with peanut butter cabbage and sadza",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Sadza is Zimbabwe\u2019s staple dish, traditionally made with white cornmeal. Polenta is just another name for cornmeal and could easily be substituted here. The vegetable chilli is just as good served cold.",
     "author": {
         "zimwomen_association": "Zimwomen Association"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "African",
+    "description": "Sadza is Zimbabwe\u2019s staple dish, traditionally made with white cornmeal. Polenta is just another name for cornmeal and could easily be substituted here. The vegetable chilli is just as good served cold.",
+    "dishes": [
+        "stew",
+        "stir-fries",
+        "veggie_chilli"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the chilli": [
@@ -33,15 +32,21 @@
             "3\u20134 chillies, seeds removed and flesh chopped",
             "salt and freshly ground black pepper"
         ],
-        "For the sadza": [
-            "375g/13oz white cornmeal (mealie meal)"
-        ],
         "For the peanut butter cabbage": [
             "\u00bd small cabbage (or any seasonally vegetable), shredded",
             "1 small onion, chopped",
             "1 tomato, chopped",
             "4 tbsp peanut butter"
+        ],
+        "For the sadza": [
+            "375g/13oz white cornmeal (mealie meal)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
     },
     "steps": [
         "For the chilli, heat the oil in a large pan and gently fry the onion until soft but not brown.",
@@ -51,8 +56,9 @@
         "For the peanut butter cabbage, pour about 125ml/4fl oz of water into a pan and bring to the boil. Add the cabbage and cook until slightly softened but still crunchy.",
         "Add the onion and tomato then stir in the peanut butter, adding more water if the mixture seems too thick. Season with salt and freshly ground black pepper. Serve with the sadza and vegetable chilli."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Vegetable chilli with peanut butter cabbage and sadza",
     "videos": "[]"
 }

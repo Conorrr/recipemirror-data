@@ -1,26 +1,37 @@
 {
-    "title": "Seared salmon with spinach, roasted tomatoes and pesto dressing",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pesto",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pesto": [
+            "75g/3oz pine nuts",
+            "3 tbsp olive oil",
+            "\u00bd tsp salt",
+            "2 large handfuls fresh basil leaves",
+            "1 clove garlic, chopped"
+        ],
+        "For the roasted tomatoes": [
+            "2 tbsp olive oil",
+            "6 cherry tomatoes",
+            "salt and freshly ground black pepper"
+        ],
         "For the salmon": [
             "1 tbsp olive oil",
             "100g/3\u00bdoz salmon fillet, skin on"
@@ -29,19 +40,13 @@
             "25g/1oz butter",
             "100g/3\u00bdoz spinach leaves",
             "salt and freshly ground black pepper"
-        ],
-        "For the roasted tomatoes": [
-            "2 tbsp olive oil",
-            "6 cherry tomatoes",
-            "salt and freshly ground black pepper"
-        ],
-        "For the pesto": [
-            "75g/3oz pine nuts",
-            "3 tbsp olive oil",
-            "\u00bd tsp salt",
-            "2 large handfuls fresh basil leaves",
-            "1 clove garlic, chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -51,8 +56,9 @@
         "For the pesto, place all of the pesto ingredients into a food processor and blend to a smooth paste.",
         "To serve, pile the wilted spinach onto a serving plate and top with the seared salmon. Spoon the roasted cherry tomatoes alongside, then drizzle over the pesto dressing. Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Seared salmon with spinach, roasted tomatoes and pesto dressing",
     "videos": "[]"
 }

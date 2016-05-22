@@ -1,26 +1,49 @@
 {
-    "title": "Fillet of John Dory with black rice, langoustine claws, sweetcorn and tarragon",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "An elegant dish of fried fish, a crispy langoustine beignet and black rice, served with a rich sauce.",
     "author": {
         "phil_howard": "Phil Howard"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "An elegant dish of fried fish, a crispy langoustine beignet and black rice, served with a rich sauce.",
+    "dishes": [
+        "bread",
+        "casserole",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the John Dory": [
+            "4 x 550g/1lb 4oz John Dory fish, filleted and cut into 8 110g/4oz portions (ask your fishmonger to do this and give you the heads)",
+            "4 tbsp grapeseed oil",
+            "salt and freshly ground black pepper",
+            "40g/1\u00bdoz butter"
+        ],
+        "For the black rice": [
+            "250g/9oz black rice",
+            "800ml/1\u2153 pint chicken stock",
+            "salt and freshly ground black pepper",
+            "1 corn on the cob",
+            "25g/1oz unsalted butter",
+            "1 small white onion, diced",
+            "2 field mushrooms, peeled and diced"
+        ],
+        "For the langoustine claw beignet": [
+            "8 large langoustine claws (or 8 peeled, raw prawn tails), meat removed from shell",
+            "75g/2\u00bdoz plain flour",
+            "1 free-range egg, beaten",
+            "100g/3\u00bdoz panko breadcrumbs"
+        ],
         "For the sauce": [
             "John Dory heads (from below), gills and eyeballs removed",
             "8 chicken drumsticks",
@@ -42,21 +65,6 @@
             "salt",
             "250ml/9fl oz whipping cream"
         ],
-        "For the black rice": [
-            "250g/9oz black rice",
-            "800ml/1\u2153 pint chicken stock",
-            "salt and freshly ground black pepper",
-            "1 corn on the cob",
-            "25g/1oz unsalted butter",
-            "1 small white onion, diced",
-            "2 field mushrooms, peeled and diced"
-        ],
-        "For the langoustine claw beignet": [
-            "8 large langoustine claws (or 8 peeled, raw prawn tails), meat removed from shell",
-            "75g/2\u00bdoz plain flour",
-            "1 free-range egg, beaten",
-            "100g/3\u00bdoz panko breadcrumbs"
-        ],
         "To serve": [
             "20g/\u00beoz unsalted butter",
             "125g/4\u00bdoz cooked langoustine claw meat, chopped (alternatively use cooked white crab meat)",
@@ -66,13 +74,13 @@
             "230ml/8fl oz black rice cooking liquor (reserved from above)",
             "salt and freshly ground black pepper",
             "3g lecithin powder"
-        ],
-        "For the John Dory": [
-            "4 x 550g/1lb 4oz John Dory fish, filleted and cut into 8 110g/4oz portions (ask your fishmonger to do this and give you the heads)",
-            "4 tbsp grapeseed oil",
-            "salt and freshly ground black pepper",
-            "40g/1\u00bdoz butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the sauce, using a meat cleaver, chop the John Dory heads in half and the chicken drumsticks into three pieces.",
@@ -105,8 +113,9 @@
         "Reheat 230ml/8fl oz of the reserved black rice cooking liquor. Season with salt and freshly ground black pepper, add the lecithin and blend with a hand blender \u2013 it should froth up but will only do this if the liquid is hot but not boiling.",
         "Place four small spoonfuls of shallot pur\u00e9e on each plate. In the centre of each plate, put a small heap of black rice mix and sit a fillet of John Dory on top. Spoon a generous tablespoon of sauce over the fish and surround it with the black rice froth. Garnish with a beignet and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fillet of John Dory with black rice, langoustine claws, sweetcorn and tarragon",
     "videos": "[]"
 }

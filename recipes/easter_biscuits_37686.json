@@ -1,24 +1,23 @@
 {
-    "title": "Easter biscuits",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes about 30 biscuits",
-    "recommendations": "32",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/easter_biscuits_37686_16x9.jpg"
-    ],
-    "description": "Make Easter biscuits the Mary Berry way: use half of the dough to make traditional fruited Easter biscuits, and half to make iced Easter biscuits in funky shapes.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Make Easter biscuits the Mary Berry way: use half of the dough to make traditional fruited Easter biscuits, and half to make iced Easter biscuits in funky shapes.",
+    "dishes": [
+        "biscuit",
+        "bun",
+        "icing",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "using_piping_bags"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/easter_biscuits_37686_16x9.jpg"
     ],
     "ingredients": {
         "For the dough": [
@@ -30,16 +29,22 @@
             "1 level tsp ground cinnamon",
             "2-4 tbsp milk"
         ],
-        "For the traditional currant biscuits": [
-            "100g/4oz currants",
-            "a little caster sugar, for sprinkling"
-        ],
         "For the iced biscuits": [
             "1-2 tsp lemon juice",
             "250g/9oz icing sugar",
             "about 2 tbsp cold water",
             "different coloured food colouring"
+        ],
+        "For the traditional currant biscuits": [
+            "100g/4oz currants",
+            "a little caster sugar, for sprinkling"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "32",
+    "serves": "Makes about 30 biscuits",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Lightly grease two baking trays lined with baking parchment.",
@@ -54,8 +59,9 @@
         "Divide the icing into separate bowls and mix in food colourings of your choice into the separate bowls of icing, until you achieve the desired shade.",
         "Spoon a little icing into a piping bag and pipe your decorations onto the biscuits. For a smooth finish, you can pipe the outline of your design in the firmer icing, then slacken it down a bit by mixing in a little more water, giving the icing more of a runny consistency, and use this to fill in the designs."
     ],
-    "howTos": [
-        "using_piping_bags"
+    "tips": [
+        
     ],
+    "title": "Easter biscuits",
     "videos": "[]"
 }

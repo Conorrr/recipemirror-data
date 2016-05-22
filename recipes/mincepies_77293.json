@@ -1,26 +1,33 @@
 {
-    "title": "Gluten-free mince pies",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 12",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "These speciality mince pies are perfect for those who suffer from wheat, gluten and nut allergies, and can be dairy, soya and egg-free.",
     "author": {
         "michelle_berriedale-johnson": "Michelle Berriedale-Johnson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "These speciality mince pies are perfect for those who suffer from wheat, gluten and nut allergies, and can be dairy, soya and egg-free.",
+    "dishes": [
+        "mince_pies",
+        "oven-baked_dishes",
+        "pastry",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pastry": [
+            "375g/13oz gluten-free and wheat-free flour with xanthan gum OR 200g/7oz chickpea (gram) flour with 175g/6oz rice flour",
+            "150g/5oz butter OR dairy-free margarine",
+            "1 egg (optional)"
+        ],
+        "To serve": [
+            "caster sugar"
+        ],
         "default": [
             "100g/3\u00bdoz raisins",
             "100g/3\u00bdoz sultanas",
@@ -35,15 +42,13 @@
             "1 lemon, cut into small pieces but not peeled",
             "1 orange, cut into small pieces but not peeled",
             "120ml/4fl oz brandy or whisky"
-        ],
-        "For the pastry": [
-            "375g/13oz gluten-free and wheat-free flour with xanthan gum OR 200g/7oz chickpea (gram) flour with 175g/6oz rice flour",
-            "150g/5oz butter OR dairy-free margarine",
-            "1 egg (optional)"
-        ],
-        "To serve": [
-            "caster sugar"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "6",
+    "serves": "Serves 12",
+    "show": {
+        
     },
     "steps": [
         "Mix all the dried fruits with the spices and suet if you are using it.",
@@ -62,8 +67,9 @@
         "Remove from the oven and sprinkle with sugar if desired. Cool slightly before carefully lifting them out of the tins (running a sharp knife round the edges to loosen them helps) and cooling on a rack.",
         "When cold store in an airtight tin. Serve warm or cold."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Gluten-free mince pies",
     "videos": "[]"
 }

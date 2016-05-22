@@ -1,29 +1,35 @@
 {
-    "title": "Oyster po'boys",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "The beauty of this recipe is that the cornmeal crust not only gives a fab texture and flavour but it 'seals' the oyster before so it cooks lightly in its own juices and none of the fat is absorbed from deep frying.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "The beauty of this recipe is that the cornmeal crust not only gives a fab texture and flavour but it 'seals' the oyster before so it cooks lightly in its own juices and none of the fat is absorbed from deep frying.",
+    "dishes": [
+        "bread",
+        "mayonnaise",
+        "sauce",
+        "seafood"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "18 freshly shucked oysters, or more if you like",
-            "grapeseed oil or vegetable oil, for deep frying"
+        "For the cornmeal crust": [
+            "225g/8oz cornmeal",
+            "1 tbsp ground cumin",
+            "1 tsp ground fennel",
+            "1 tsp cayenne pepper",
+            "salt and freshly ground black pepper"
+        ],
+        "For the egg wash": [
+            "2 eggs",
+            "285ml/\u00bdpint milk"
         ],
         "For the remoulade": [
             "1 small jar mayonnaise, or make your own",
@@ -38,22 +44,21 @@
             "\u00bd tsp cayenne pepper",
             "1 tbsp horseradish sauce"
         ],
-        "For the cornmeal crust": [
-            "225g/8oz cornmeal",
-            "1 tbsp ground cumin",
-            "1 tsp ground fennel",
-            "1 tsp cayenne pepper",
-            "salt and freshly ground black pepper"
-        ],
-        "For the egg wash": [
-            "2 eggs",
-            "285ml/\u00bdpint milk"
-        ],
         "To serve": [
             "French stick, warmed",
             "butter",
             "crisp lettuce, such as cos, torn"
+        ],
+        "default": [
+            "18 freshly shucked oysters, or more if you like",
+            "grapeseed oil or vegetable oil, for deep frying"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        
     },
     "steps": [
         "To make the remoulade mix all the ingredients together. Taste and adjust any of the ingredients you think necessary.",
@@ -65,8 +70,9 @@
         "Take a freshly warmed French stick, split down the middle and butter. Top with a layer of lettuce then drizzle over the remoulade sauce. Add the deep-fried oysters and cover with the other half of the French loaf.",
         "Eat at once."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Oyster po'boys",
     "videos": "[]"
 }

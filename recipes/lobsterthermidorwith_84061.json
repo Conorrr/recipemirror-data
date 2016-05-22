@@ -1,23 +1,24 @@
 {
-    "title": "Lobster thermidor with chips",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "",
+    "dishes": [
+        "chips",
+        "jam",
+        "sauce",
+        "seafood",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "picking_lobster"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -40,6 +41,12 @@
             "20g/\u00beoz parmesan cheese, grated"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "2",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "Heat vegetable oil in a deep-fat fryer to 140C/275F (CAUTION: Hot oil is very dangerous. Do not leave unattended).",
         "For the chips, slice the potatoes into 1.5cm/\u00bdin thick long chips.",
@@ -57,8 +64,9 @@
         "Place onto a tray and under the pre-heated grill for 3-4 minutes until golden brown.",
         "To serve, place half the lobster onto a serving plate and serve alongside the chips."
     ],
-    "howTos": [
-        "picking_lobster"
+    "tips": [
+        
     ],
+    "title": "Lobster thermidor with chips",
     "videos": "[]"
 }

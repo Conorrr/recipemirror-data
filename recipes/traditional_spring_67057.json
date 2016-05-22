@@ -1,52 +1,53 @@
 {
-    "title": "Traditional spring wedding cake",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 100",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/traditional_spring_67057_16x9.jpg"
-    ],
-    "description": "Make your own wedding cake with our step-by-step recipe. Equipment and preparation: For this recipe you will need a 15cm/6in, 23cm/9in and 30cm/12in round cake tin, thin cake boards of respective sizes, and 38cm/15in, 35cm/14in and 23cm/9in thick cake boards. You will also need eight dowelling rods and eight cake pillars and sugar paste flower moulds. All of these are available from specialist cake shops. Plus you will need a 3m/9ft 10in x 1.5cm/\u215din white satin ribbon.",
     "author": {
         "miranda_gore-browne": "Miranda Gore Brown"
     },
-    "show": {
-        "b010n3q1": "The Great British Wedding Cake"
-    },
-    "tips": [
-        "The cakes can be covered with marzipan up to one month ahead - they can then be iced three days in advance."
+    "cookTime": "over 2 hours",
+    "description": "Make your own wedding cake with our step-by-step recipe. Equipment and preparation: For this recipe you will need a 15cm/6in, 23cm/9in and 30cm/12in round cake tin, thin cake boards of respective sizes, and 38cm/15in, 35cm/14in and 23cm/9in thick cake boards. You will also need eight dowelling rods and eight cake pillars and sugar paste flower moulds. All of these are available from specialist cake shops. Plus you will need a 3m/9ft 10in x 1.5cm/\u215din white satin ribbon.",
+    "dishes": [
+        "cake",
+        "icing",
+        "jam",
+        "marzipan",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "upside-down_cake",
+        "wedding_cake"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "assemble_wedding_cake",
+        "marzipan_fruit_cake"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/traditional_spring_67057_16x9.jpg"
+    ],
     "ingredients": {
-        "For the sugar flowers": [
-            "1kg/2lb 4 oz white sugar paste icing",
-            "500g/1lb 2oz yellow sugar paste icing",
-            "edible glue"
-        ],
-        "For the 30cm/12in tier": [
-            "550g/1lb 4oz butter",
-            "225g/8oz soft brown sugar",
-            "150g/5\u00bdoz caster sugar",
-            "12 free-range eggs, lightly beaten",
-            "475g/1lb 1oz plain flour",
-            "475g/1lb 1oz ground almonds",
-            "2 tbsp cocoa powder",
-            "1 tsp ground nutmeg",
-            "1 tsp mixed spice",
-            "1 tsp salt",
-            "2 oranges, zest only",
-            "2 lemons, zest only",
-            "2 tsp vanilla essence",
-            "475g/1lb 1oz currants",
-            "450g/1lb glac\u00e9 cherries",
-            "350g/12oz sultanas",
-            "225g/8oz dried cranberries",
-            "450g/1lb dried apricots, chopped",
-            "225g/8oz blanched whole almonds, roughly chopped (optional)",
-            "350ml/12fl oz brandy"
+        "For the 15cm/6in tier": [
+            "115g/4oz currants",
+            "100g/3\u00bdoz glac\u00e9 cherries",
+            "85g/3oz sultanas",
+            "60g/2oz dried cranberries",
+            "110g/4oz dried apricots, chopped",
+            "50g/2oz blanched whole almonds, roughly chopped (optional)",
+            "85ml/3fl oz brandy",
+            "125g/4\u00bdoz butter",
+            "50g/2oz soft brown sugar",
+            "75g/2\u00beoz caster sugar",
+            "3 free-range eggs, lightly beaten",
+            "115g/4oz plain flour",
+            "115g/4oz ground almonds",
+            "\u00bd tbsp cocoa powder",
+            "\u00bc tsp ground nutmeg",
+            "\u00bc tsp mixed spice",
+            "\u00bc tsp salt",
+            "\u00bd orange, zest only",
+            "\u00bd lemon, zest only",
+            "\u00bd tsp vanilla essence"
         ],
         "For the 23cm/9in tier": [
             "225g/8oz currants",
@@ -70,27 +71,32 @@
             "1 lemon, zest only",
             "1 tsp vanilla essence"
         ],
-        "For the 15cm/6in tier": [
-            "115g/4oz currants",
-            "100g/3\u00bdoz glac\u00e9 cherries",
-            "85g/3oz sultanas",
-            "60g/2oz dried cranberries",
-            "110g/4oz dried apricots, chopped",
-            "50g/2oz blanched whole almonds, roughly chopped (optional)",
-            "85ml/3fl oz brandy",
-            "125g/4\u00bdoz butter",
-            "50g/2oz soft brown sugar",
-            "75g/2\u00beoz caster sugar",
-            "3 free-range eggs, lightly beaten",
-            "115g/4oz plain flour",
-            "115g/4oz ground almonds",
-            "\u00bd tbsp cocoa powder",
-            "\u00bc tsp ground nutmeg",
-            "\u00bc tsp mixed spice",
-            "\u00bc tsp salt",
-            "\u00bd orange, zest only",
-            "\u00bd lemon, zest only",
-            "\u00bd tsp vanilla essence"
+        "For the 30cm/12in tier": [
+            "550g/1lb 4oz butter",
+            "225g/8oz soft brown sugar",
+            "150g/5\u00bdoz caster sugar",
+            "12 free-range eggs, lightly beaten",
+            "475g/1lb 1oz plain flour",
+            "475g/1lb 1oz ground almonds",
+            "2 tbsp cocoa powder",
+            "1 tsp ground nutmeg",
+            "1 tsp mixed spice",
+            "1 tsp salt",
+            "2 oranges, zest only",
+            "2 lemons, zest only",
+            "2 tsp vanilla essence",
+            "475g/1lb 1oz currants",
+            "450g/1lb glac\u00e9 cherries",
+            "350g/12oz sultanas",
+            "225g/8oz dried cranberries",
+            "450g/1lb dried apricots, chopped",
+            "225g/8oz blanched whole almonds, roughly chopped (optional)",
+            "350ml/12fl oz brandy"
+        ],
+        "For the sugar flowers": [
+            "1kg/2lb 4 oz white sugar paste icing",
+            "500g/1lb 2oz yellow sugar paste icing",
+            "edible glue"
         ],
         "To ice the cakes": [
             "1 x 340g/12oz jar apricot jam",
@@ -98,6 +104,12 @@
             "3.5kg/7lb 11oz marzipan",
             "5.15kg/11lb 6oz ready-to-roll white icing"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "5",
+    "serves": "Serves 100",
+    "show": {
+        "b010n3q1": "The Great British Wedding Cake"
     },
     "steps": [
         "For the sugar flowers, knead the yellow sugar paste until soft and pliable and roll it out until it is 5mm/\u00bcin thick. Press the sugar paste into the flower moulds, then remove and set aside to dry. Repeat with the white sugar paste. (The flowers can be made up to a month in advance and stored in an airtight container.)",
@@ -119,9 +131,9 @@
         "To cover the 38cm/15in thick cake board, knead 750g/1lb 10oz of the icing until soft and pliable and roll it out until it is 5mm/\u00bcin thick and large enough to cover the cake board. Spread a little glue over the board, then carefully lift the icing onto the cake board, smoothing it until flat. Trim the edges. Apply a thin line of glue around the edge of the cake board and carefully stick the ribbon around the cake, tying it in a bow at the front.",
         "If you\u2019re transporting the cakes to a venue, it\u2019s best to transport them separately and assemble the cake at the venue. To assemble the cakes, first stick the 30cm/12in cake to the icing-covered 38cm/15in cake board: add a little glue to the middle of the 35cm/14in cake board, then position the 30cm/12in cake in the middle. Place four of the pillars on top of the largest cake, positioning each one over a dowelling rod. Top with the 23cm/9in cake, then position the remaining four pillars on top and finish with the 15cm/6in cake. Using the edible glue, arrange the sugar flowers on the top of the cake and around the side of the 23cm/9in and 30cm/12in cake."
     ],
-    "howTos": [
-        "assemble_wedding_cake",
-        "marzipan_fruit_cake"
+    "tips": [
+        "The cakes can be covered with marzipan up to one month ahead - they can then be iced three days in advance."
     ],
+    "title": "Traditional spring wedding cake",
     "videos": "[]"
 }

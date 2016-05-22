@@ -1,26 +1,31 @@
 {
-    "title": "Spiced soy roast chicken",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "31",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spiced_soy_roast_chicken_28095_16x9.jpg"
-    ],
-    "description": "Roast chicken with a delicate hint of Chinese herbs and spices, soy and whiskey.",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Roast chicken with a delicate hint of Chinese herbs and spices, soy and whiskey.",
+    "dishes": [
+        "oven-baked_dishes",
+        "roast_chicken",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/spiced_soy_roast_chicken_28095_16x9.jpg"
+    ],
     "ingredients": {
+        "For the basting sauce": [
+            "4 tbsp soy sauce",
+            "2 tbsp Irish Whiskey",
+            "2 tbsp chilli sauce",
+            "2 tbsp honey",
+            "pinch chilli flakes"
+        ],
         "For the brine": [
             "75g/2\u00bdoz salt",
             "60g/2\u00bcoz sugar"
@@ -34,13 +39,6 @@
             "2 spring onions, roughly chopped",
             "4 tbsp vegetable oil"
         ],
-        "For the basting sauce": [
-            "4 tbsp soy sauce",
-            "2 tbsp Irish Whiskey",
-            "2 tbsp chilli sauce",
-            "2 tbsp honey",
-            "pinch chilli flakes"
-        ],
         "For the medley of vegetables": [
             "100g/4oz carrots, sliced",
             "100g/4oz green beans, topped and tailed",
@@ -51,6 +49,12 @@
             "2 tbsp fresh root ginger, finely chopped or grated",
             "2 tbsp light soy sauce"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "31",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Dissolve the salt and sugar in 1 litre/1\u00be pints water, to make the brine. Add the chicken to the brine and leave for 1 \u2013 2 hours. Drain and pat dry.",
@@ -64,8 +68,9 @@
         "Melt the butter with the ginger and soy, either in the microwave or a small saucepan. Drizzle over the vegetables, toss lightly.",
         "Once rested, joint the chicken by removing the legs and breasts. Cut each in half and arrange on a serving platter and serve with the pan juices and the vegetables."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spiced soy roast chicken",
     "videos": "[]"
 }

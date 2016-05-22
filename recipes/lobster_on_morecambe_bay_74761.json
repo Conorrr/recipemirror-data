@@ -1,26 +1,31 @@
 {
-    "title": "Lobster on Morecambe Bay shrimp hash",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Serve up some decadence with lobster and Morecambe Bay shrimp. The perfect dish to impress.",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Serve up some decadence with lobster and Morecambe Bay shrimp. The perfect dish to impress.",
+    "dishes": [
+        "oven-baked_dishes",
+        "salad",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "picking_lobster"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the hash": [
+            "450g/1lb freshly cooked new potatoes",
+            "25g/1oz butter",
+            "salt and freshly ground black pepper"
+        ],
         "For the lobster and Morecambe Bay shrimp": [
             "175g/6oz butter",
             "2 shallots, finely chopped",
@@ -32,11 +37,6 @@
             "2 tbsp chopped fresh parsley",
             "4 cooked lobsters"
         ],
-        "For the hash": [
-            "450g/1lb freshly cooked new potatoes",
-            "25g/1oz butter",
-            "salt and freshly ground black pepper"
-        ],
         "For the salad": [
             "1 tsp Dijon mustard",
             "1 tbsp white wine vinegar",
@@ -45,6 +45,12 @@
             "\u00bc cucumber, diced",
             "2 Little Gem lettuce, chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 200C/180C Fan/Gas 6.",
@@ -56,8 +62,9 @@
         "For the salad, mix the mustard, vinegar and oil in a small bowl to make a dressing. Mix the tomato, cucumber and lettuce in bowl. Before serving pour the dressing over the salad.",
         "To serve, place the potato hash on the plate, top with the lobster and spoon over the sauce. Serve the salad alongside."
     ],
-    "howTos": [
-        "picking_lobster"
+    "tips": [
+        
     ],
+    "title": "Lobster on Morecambe Bay shrimp hash",
     "videos": "[]"
 }

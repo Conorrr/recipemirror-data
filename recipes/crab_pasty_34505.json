@@ -1,29 +1,26 @@
 {
-    "title": "Crab pasties",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "These posh pasties with homemade onion relish make an impressive summery lunch; all they need is a green salad.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "These posh pasties with homemade onion relish make an impressive summery lunch; all they need is a green salad.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "pasty",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "250g/9oz ready-rolled puff pastry"
-        ],
         "For the filling": [
             "1 red onion, finely chopped",
             "1 red chilli, finely chopped",
@@ -41,7 +38,16 @@
             "125ml/4\u00bdfl oz cider vinegar",
             "1 garlic clove, crushed",
             "2 lime leaves"
+        ],
+        "default": [
+            "250g/9oz ready-rolled puff pastry"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -52,8 +58,9 @@
         "For the relish, heat the baby onions, sugar, mustard powder, cider vinegar, garlic and lime leaves in a saucepan until boiling. Reduce the heat to a simmer and cook for 30-40 minutes, stirring occasionally, or until thickened.",
         "Serve the relish with the crab pasties."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Crab pasties",
     "videos": "[]"
 }

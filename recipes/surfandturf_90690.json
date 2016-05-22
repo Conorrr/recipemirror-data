@@ -1,32 +1,23 @@
 {
-    "title": "Surf and turf",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the steak": [
-            "1 tbsp olive oil",
-            "85g/3oz beef fillet steak",
-            "salt and freshly ground black pepper",
-            "15g/\u00bdoz butter"
-        ],
         "For the prawns": [
             "3 raw tiger prawns, shelled and deveined, heads and tails left on",
             "1 tbsp olive oil"
@@ -34,7 +25,19 @@
         "For the roasted tomato": [
             "1 vine tomato, halved",
             "1 tbsp olive oil"
+        ],
+        "For the steak": [
+            "1 tbsp olive oil",
+            "85g/3oz beef fillet steak",
+            "salt and freshly ground black pepper",
+            "15g/\u00bdoz butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -43,8 +46,9 @@
         "For the tomato, drizzle the cut sides of the tomato with the oil, place on a baking tray and roast in the oven for 10-12 minutes, or until tender.",
         "To serve, place the steak on a serving plate and arrange the prawns and roasted tomato alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Surf and turf",
     "videos": "[]"
 }

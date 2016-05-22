@@ -1,26 +1,31 @@
 {
-    "title": "Pancakes with crushed nuts and hot chocolate sauce",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "pancake",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chocolate sauce": [
+            "5 tbsp double cream",
+            "4 tbsp chocolate and hazelnut spread",
+            "2 tbsp orange liqueur",
+            "1 tsp chopped satsuma zest",
+            "2 tbsp chopped pistachios, to serve"
+        ],
         "For the pancakes": [
             "110g/4oz self-raising flour",
             "1 tsp baking powder",
@@ -28,14 +33,13 @@
             "150ml/\u00bc pint milk",
             "1 tbsp sultanas",
             "1 tbsp vegetable oil"
-        ],
-        "For the chocolate sauce": [
-            "5 tbsp double cream",
-            "4 tbsp chocolate and hazelnut spread",
-            "2 tbsp orange liqueur",
-            "1 tsp chopped satsuma zest",
-            "2 tbsp chopped pistachios, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the pancakes, place the flour, baking powder, eggs and milk into a large bowl and whisk together to make a smooth batter. Add the sultanas and stir.",
@@ -43,8 +47,9 @@
         "For the chocolate sauce, place the cream, chocolate and hazelnut spread, orange liqueur and satsuma zest in a small pan and heat gently, stirring frequently, until smooth and well combined.",
         "To serve, place the pancakes onto serving plates, drizzle over the sauce and sprinkle over the pistachio nuts."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Pancakes with crushed nuts and hot chocolate sauce",
     "videos": "[]"
 }

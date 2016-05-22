@@ -1,24 +1,24 @@
 {
-    "title": "Marmalade cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Get the kids in the kitchen with this simple cake recipe that uses mostly storecupboard ingredients.",
     "author": {
         "kate_morris_and_sally_brown": "Kate Morris and Sally Brown"
     },
-    "show": {
-        "b00w1ddl": "I Can Cook"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Get the kids in the kitchen with this simple cake recipe that uses mostly storecupboard ingredients.",
+    "dishes": [
+        "bread",
+        "cake",
+        "marmalade",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,6 +34,12 @@
             "1 tbsp demerara sugar"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "",
+    "show": {
+        "b00w1ddl": "I Can Cook"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease and line a loaf tin.",
         "Put the flour and butter into bowl and rub together until the mixture resembles breadcrumbs. Stir in the caster sugar and mixed spice.",
@@ -41,8 +47,9 @@
         "Stir the marmalade mixture into the flour mixture, then spoon into the loaf tin. Sprinkle over the demerara sugar.",
         "Bake for 30-35 minutes, or until risen and golden-brown and a cake tester inserted into the middle comes out clean."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Marmalade cake",
     "videos": "[]"
 }

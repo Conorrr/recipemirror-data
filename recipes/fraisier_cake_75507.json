@@ -1,33 +1,30 @@
 {
-    "title": "Fraisier cake",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 x 23cm/9in cake",
-    "recommendations": "31",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fraisier_cake_75507_16x9.jpg"
-    ],
-    "description": "An incredibly pretty French cake filled with delicious strawberries and cr\u00e8me p\u00e2tissi\u00e8re. Tricky to achieve but certain to impress.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        "You can keep the cake for a couple of days, but if you slice the decorative strawberries on top then they will immediately start to bleed and discolour the marzipan, so best to keep the decorative strawberries whole."
+    "cookTime": "over 2 hours",
+    "cusine": "French",
+    "description": "An incredibly pretty French cake filled with delicious strawberries and cr\u00e8me p\u00e2tissi\u00e8re. Tricky to achieve but certain to impress.",
+    "dishes": [
+        "cake",
+        "custard",
+        "gateau",
+        "icing",
+        "marzipan",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_pipe_chocolate_decorations"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fraisier_cake_75507_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "125g/4\u00bdoz caster sugar",
-            "4 free-range eggs",
-            "2 lemons, zest only, finely grated",
-            "125g/4\u00bdoz self-raising flour, plus extra for flouring",
-            "50g/1\u00beoz unsalted butter, melted and cooled slightly, plus extra for greasing"
-        ],
         "For the cr\u00e8me p\u00e2tissi\u00e8re": [
             "600ml/20fl oz milk",
             "vanilla pod",
@@ -45,7 +42,20 @@
             "200g/7oz marzipan",
             "200g/7oz dark chocolate, for decoration",
             "600g/1lb 5oz medium sized strawberries"
+        ],
+        "default": [
+            "125g/4\u00bdoz caster sugar",
+            "4 free-range eggs",
+            "2 lemons, zest only, finely grated",
+            "125g/4\u00bdoz self-raising flour, plus extra for flouring",
+            "50g/1\u00beoz unsalted butter, melted and cooled slightly, plus extra for greasing"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "31",
+    "serves": "Makes 1 x 23cm/9in cake",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -83,8 +93,9 @@
         "Very carefully release the spring tin/loose bottom and remove the cake from the tin and from the acetate or cling film.",
         "Place onto a serving plate and decorate with reserved strawberries, chocolate decoration and a dusting of icing sugar. Serve chilled."
     ],
-    "howTos": [
-        "how_to_pipe_chocolate_decorations"
+    "tips": [
+        "You can keep the cake for a couple of days, but if you slice the decorative strawberries on top then they will immediately start to bleed and discolour the marzipan, so best to keep the decorative strawberries whole."
     ],
+    "title": "Fraisier cake",
     "videos": "[]"
 }

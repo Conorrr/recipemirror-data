@@ -1,26 +1,33 @@
 {
-    "title": "Pear pain au chocolat",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 12 pastries",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "It's time to show off your baking chops with a trayful of warm chocolate pastries. Equipment and preparation: for this recipe you will need a freestanding mixer with a dough hook.",
     "author": {
         "richard": "Richard Burr"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "It's time to show off your baking chops with a trayful of warm chocolate pastries. Equipment and preparation: for this recipe you will need a freestanding mixer with a dough hook.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "patisserie",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pear and chocolate filling": [
+            "4 pears, peeled and roughly chopped",
+            "2 tbsp caster sugar",
+            "75g/2\u00bdoz dark chocolate, chopped into small pieces",
+            "1 large free-range egg, beaten with 2 tbsp milk"
+        ],
         "default": [
             "20g/\u00beoz dried yeast",
             "435g/15\u00bdoz strong white flour, plus extra for dusting",
@@ -28,13 +35,13 @@
             "75g/2\u00bdoz caster sugar",
             "3 tbsp melted butter, plus 230g/8oz unsalted butter, softened",
             "1\u00bd tsp salt"
-        ],
-        "For the pear and chocolate filling": [
-            "4 pears, peeled and roughly chopped",
-            "2 tbsp caster sugar",
-            "75g/2\u00bdoz dark chocolate, chopped into small pieces",
-            "1 large free-range egg, beaten with 2 tbsp milk"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "1",
+    "serves": "Makes 12 pastries",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Stir together the yeast and 125ml/4fl oz lukewarm water in the bowl of a freestanding mixer, fitted with a dough hook. Allow the yeast to dissolve for five minutes.",
@@ -50,8 +57,9 @@
         "Brush the pastries with the beaten egg and milk mixture and place in the oven for 12-14 minutes, or until golden-brown.",
         "Transfer to a wire rack to cool slightly, then eat warm."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pear pain au chocolat",
     "videos": "[]"
 }

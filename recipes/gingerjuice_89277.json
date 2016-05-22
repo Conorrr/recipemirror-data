@@ -1,24 +1,22 @@
 {
-    "title": "Ginger 'juice'",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ching-he_huang": "Ching-He Huang"
     },
-    "show": {
-        "b00cjxzp": "Chinese Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Chinese",
+    "description": "",
+    "dishes": [
+        "pie",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -27,11 +25,18 @@
             "3cm/1\u00bdin cube rock sugar or 2-3 tbsp soft brown sugar"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 2",
+    "show": {
+        "b00cjxzp": "Chinese Food Made Easy"
+    },
     "steps": [
         "Heat the water in a small saucepan and add the ginger pieces. Bring to the boil, add the rock sugar and reduce the heat to a simmer. Simmer for five minutes, then strain into a cup and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Ginger 'juice'",
     "videos": "[]"
 }

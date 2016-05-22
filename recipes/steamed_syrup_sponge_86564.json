@@ -1,26 +1,30 @@
 {
-    "title": "Steamed syrup sponge pudding",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "12",
-    "images": [
-        
-    ],
-    "description": "Try the Hairy Bikers\u2019 recipe for a classic steamed syrup sponge, simple to make and guaranteed to impress.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        "Be really careful not to let the pan boil dry, but avoid removing the lid of the pan during the first 20 minutes of cooking time if you can, as this can create a flat, heavy sponge."
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Try the Hairy Bikers\u2019 recipe for a classic steamed syrup sponge, simple to make and guaranteed to impress.",
+    "dishes": [
+        "custard",
+        "sauce",
+        "sponge_pudding"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "steaming_puddings",
+        "sealing_steamed_puddings"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "4-5 tbsp golden syrup",
+            "custard"
+        ],
         "default": [
             "175g/6oz butter, softened, plus extra for greasing",
             "100g/3\u00bdoz golden syrup",
@@ -28,11 +32,13 @@
             "1 lemon, zest only",
             "3 free-range eggs, lightly beaten",
             "175g/6oz self-raising flour"
-        ],
-        "To serve": [
-            "4-5 tbsp golden syrup",
-            "custard"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Serves 6",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
     },
     "steps": [
         "Generously butter the inside of a 1.2litre/2 pint pudding basin, and cut a circle about two times larger than the pudding basin diameter, of baking parchment and and aluminium foil",
@@ -46,9 +52,9 @@
         "Cut the string from the basin and discard the aluminium foil and paper. Run a cutlery knife around the edge of the pudding to loosen the sides, carefully invert onto a deep plate and remove the basin.",
         "To serve, spoon the extra syrup over the pudding, cut into generous wedges and serve with custard."
     ],
-    "howTos": [
-        "steaming_puddings",
-        "sealing_steamed_puddings"
+    "tips": [
+        "Be really careful not to let the pan boil dry, but avoid removing the lid of the pan during the first 20 minutes of cooking time if you can, as this can create a flat, heavy sponge."
     ],
+    "title": "Steamed syrup sponge pudding",
     "videos": "[]"
 }

@@ -1,36 +1,29 @@
 {
-    "title": "Game terrine",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 6-8",
-    "recommendations": "9",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/gameterrine_14230_16x9.jpg"
-    ],
-    "description": "Use whatever game you can get for this tasty recipe. It requires a little work, but the results are well worth the effort.",
     "author": {
         "hugh_fearnley-whittingstall": "Hugh Fearnley-Whittingstall"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Use whatever game you can get for this tasty recipe. It requires a little work, but the results are well worth the effort.",
+    "dishes": [
+        "bread",
+        "chutney",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "sausage",
+        "terrine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/gameterrine_14230_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "selection of lean game meat, about 1kg/2\u00bclb in all, which could include:",
-            "breasts of pheasant (hung about 5 days)",
-            "breasts of pigeon",
-            "breasts of duck or other wild fowl",
-            "saddle and hindquarters of 1 rabbit, boned",
-            "saddle and hindquarters of hare, boned",
-            "lean strips of venison (from the leg or fillet)",
-            "oil or fat, for frying"
-        ],
         "For the forcemeat": [
             "500g/1lb2oz sausage meat",
             "livers from all the game, finely chopped",
@@ -46,7 +39,23 @@
         ],
         "To line the dish": [
             "300g/10\u00bdoz streaky bacon, flattened with the back of a knife"
+        ],
+        "default": [
+            "selection of lean game meat, about 1kg/2\u00bclb in all, which could include:",
+            "breasts of pheasant (hung about 5 days)",
+            "breasts of pigeon",
+            "breasts of duck or other wild fowl",
+            "saddle and hindquarters of 1 rabbit, boned",
+            "saddle and hindquarters of hare, boned",
+            "lean strips of venison (from the leg or fillet)",
+            "oil or fat, for frying"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "9",
+    "serves": "Serves 6-8",
+    "show": {
+        
     },
     "steps": [
         "In a large mixing bowl combine the sausage meat and the chopped livers from the game.",
@@ -59,8 +68,9 @@
         "For the best possible texture and easy slicing, your terrine should be pressed as it cools. Find a piece of wood or plastic that fits snugly inside the terrine dish and weigh it down with a brick or two. (Another similar size dish or loaf tin with a brick inside often does the trick, but wrap it in cling film if you're using a tin.) Leave the terrine until completely cold for several hours or overnight.",
         "To serve the terrine, slice it thickly with a very sharp knife, put on a plate with a small salad of lightly dressed green leaves and a blob of good fruit chutney. Serve with hot toast."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Game terrine",
     "videos": "[]"
 }

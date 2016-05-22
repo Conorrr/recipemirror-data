@@ -1,26 +1,35 @@
 {
-    "title": "Blueberry steamed sponge pudding",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This steamed pudding is comforting and so simple. What\u2019s more, it\u2019s finished with proper custard.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b04xycrx": "James Martin: Home Comforts"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "This steamed pudding is comforting and so simple. What\u2019s more, it\u2019s finished with proper custard.",
+    "dishes": [
+        "custard",
+        "jam",
+        "pie",
+        "sauce",
+        "sponge_pudding",
+        "upside-down_cake"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the custard": [
+            "250ml/9fl oz full-fat milk",
+            "250ml/9fl oz double cream",
+            "1 vanilla pod, split in half lengthways, seeds scraped out using a sharp knife",
+            "110g/3\u00beoz caster sugar",
+            "6 egg yolks"
+        ],
         "For the pudding": [
             "175g/6oz unsalted butter, softened, plus extra for greasing",
             "150g/5\u00bdoz golden syrup",
@@ -30,14 +39,13 @@
             "175g/6oz self-raising flour",
             "1 tsp baking powder",
             "pinch salt"
-        ],
-        "For the custard": [
-            "250ml/9fl oz full-fat milk",
-            "250ml/9fl oz double cream",
-            "1 vanilla pod, split in half lengthways, seeds scraped out using a sharp knife",
-            "110g/3\u00beoz caster sugar",
-            "6 egg yolks"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 6-8",
+    "show": {
+        "b04xycrx": "James Martin: Home Comforts"
     },
     "steps": [
         "For the pudding, grease a 1.2-litre/2 pint heatproof pudding dish with butter. Pour the golden syrup into the bottom and scatter in the blueberries.",
@@ -52,8 +60,9 @@
         "Strain the custard into a clean pan and warm through very gently.",
         "When the pudding has cooked, lift it out of the pan using the string handle. Unwrap the pudding and discard the foil and baking parchment. Turn the pudding out onto a serving plate, then cut into wedges and serve with the custard."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Blueberry steamed sponge pudding",
     "videos": "[p02gs421:p02gs42q]"
 }

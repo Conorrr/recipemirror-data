@@ -1,24 +1,25 @@
 {
-    "title": "Rich Christmas pudding",
-    "cookTime": "over 2 hours",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6-8",
-    "recommendations": "22",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/richchristmaspudding_8935_16x9.jpg"
-    ],
-    "description": "Make this pudding ahead on Stir-up Sunday. Feed it with booze regularly for the flavours to develop.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        "If you are making this as a dairy-free recipe, take care to ensure the breadcrumbs are dairy free. Although many breads contain dairy, free-from options are widely available - just check the label."
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Make this pudding ahead on Stir-up Sunday. Feed it with booze regularly for the flavours to develop.",
+    "dishes": [
+        "bread",
+        "christmas_pudding",
+        "custard",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "sealing_steamed_puddings"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/richchristmaspudding_8935_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -40,6 +41,12 @@
             "150ml/5fl oz brandy or rum"
         ]
     },
+    "prepTime": "1-2 hours",
+    "recommendations": "22",
+    "serves": "Serves 6-8",
+    "show": {
+        
+    },
     "steps": [
         "Lightly grease 4x600ml/1 pint or 2x1.2 litre/2 pint pudding basins.",
         "Mix together all the dry ingredients.",
@@ -49,8 +56,9 @@
         "Cool. Change the baking parchment and foil covers for fresh ones and tie up as before. Store in a cool cupboard until Christmas Day.",
         "To serve, steam for 2 hours and serve with brandy butter, rum sauce, cream or homemade custard."
     ],
-    "howTos": [
-        "sealing_steamed_puddings"
+    "tips": [
+        "If you are making this as a dairy-free recipe, take care to ensure the breadcrumbs are dairy free. Although many breads contain dairy, free-from options are widely available - just check the label."
     ],
+    "title": "Rich Christmas pudding",
     "videos": "[]"
 }

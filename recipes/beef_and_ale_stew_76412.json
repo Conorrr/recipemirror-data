@@ -1,23 +1,26 @@
 {
-    "title": "Beef and ale stew",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "8",
-    "images": [
-        
-    ],
-    "description": "This hearty, slow-cooked stew is easy to throw together and creates very little washing up.",
     "author": {
         "angela_hartnett": "Angela Hartnett"
     },
-    "show": {
-        "b016pbs9": "Great British Food Revival"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "This hearty, slow-cooked stew is easy to throw together and creates very little washing up.",
+    "dishes": [
+        "beef_stew",
+        "bread",
+        "casserole",
+        "pie",
+        "slow-cooked_dishes",
+        "stew",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -36,6 +39,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 4",
+    "show": {
+        "b016pbs9": "Great British Food Revival"
+    },
     "steps": [
         "Heat the oil in a large, heavy-based casserole over a medium-high heat. Add the onions, carrots and celery and fry for 4-5 minutes, or until softened but not browned.",
         "Add the plum tomatoes, crushed black peppercorns, bay leaves and thyme and continue to cook, stirring regularly, for 3-4 minutes.",
@@ -43,8 +52,9 @@
         "Add the beef to the vegetable mixture, then pour in the pale ale and bring the mixture to the boil. Reduce the heat until the mixture is simmering and simmer gently for 3 hours, stirring every 20-30 minutes, until the beef is tender enough to be cut with a spoon.",
         "Serve the beef and ale stew either in bowls with thick slices of fresh bread, or on plates with mashed potato and green vegetables."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef and ale stew",
     "videos": "[]"
 }

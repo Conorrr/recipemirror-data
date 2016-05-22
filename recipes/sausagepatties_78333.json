@@ -1,38 +1,41 @@
 {
-    "title": "Sausage patties",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "sausage"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "3 sausages",
-            "1 lime, juice only",
-            "1 handful fresh coriander, chopped",
-            "50g/1\u00beoz, plain flour, to dust"
-        ],
         "For the fig jam": [
             "\u00bd onion, finely chopped",
             "2 figs, sliced",
             "50g/1\u00beoz brown sugar",
             "25ml/1 fl oz white wine vinegar"
+        ],
+        "default": [
+            "3 sausages",
+            "1 lime, juice only",
+            "1 handful fresh coriander, chopped",
+            "50g/1\u00beoz, plain flour, to dust"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Mix the sausage meat, the lime juice and chopped coriander in a bowl.",
@@ -42,8 +45,9 @@
         "Cook for eight minutes on a low heat until soft and syrupy.",
         "To serve, place the patties on a plate with the fig jam on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sausage patties",
     "videos": "[]"
 }

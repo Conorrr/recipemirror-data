@@ -1,24 +1,25 @@
 {
-    "title": "Chocolate cake (Schokogugelhupf)",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 10",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "You\u2019ll need a gugelhupf or ring-shaped cake tin for this Viennese cake, which is served with afternoon coffee in the wonderful caf\u00e9s of that city. We made it by the side of a mountain road on the Grossglockner, the highest peak in Austria, where it tasted even more amazing.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b01dl8gl": "Hairy Bikers' Bakeation"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "You\u2019ll need a gugelhupf or ring-shaped cake tin for this Viennese cake, which is served with afternoon coffee in the wonderful caf\u00e9s of that city. We made it by the side of a mountain road on the Grossglockner, the highest peak in Austria, where it tasted even more amazing.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "icing",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "melting_chocolate"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the cake": [
@@ -38,6 +39,12 @@
             "sugar crystals (optional)"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "7",
+    "serves": "Serves 10",
+    "show": {
+        "b01dl8gl": "Hairy Bikers' Bakeation"
+    },
     "steps": [
         "For the cake, grease the cake tin with the two teaspoons of butter. Sprinkle the tablespoon of almonds into the tin and shake until the inside of the tin is completely coated with a light dusting of almonds.",
         "Melt the chocolate in a heatproof bowl set over a pan of simmering water. Remove the bowl from the heat and stir the chocolate until smooth, then leave to cool for at least 15 minutes.",
@@ -49,8 +56,9 @@
         "Slowly drizzle the icing over the cake and allow it to slide slowly down the sides. If the icing moves too quickly or doesn\u2019t cover the cake properly, let it cool for a few more minutes and then try again. Work slowly to get the best coverage. Leave the iced cake to stand for 10 minutes, then scatter with the almonds and sugar crystals if using.",
         "Set aside for an hour or so until the icing is set before serving."
     ],
-    "howTos": [
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "Chocolate cake (Schokogugelhupf)",
     "videos": "[]"
 }

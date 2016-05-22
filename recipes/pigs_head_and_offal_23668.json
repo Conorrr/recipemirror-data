@@ -1,23 +1,25 @@
 {
-    "title": "Pig's head and offal ravioli with smoked aubergine pur\u00e9e and peperonata",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This is nose-to-tail eating at its best: homemade pasta stuffed with rich, slow-cooked meat and Italian vegetables.",
     "author": {
         "angela_hartnett": "Angela Hartnett"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "Cook the pig's head and offal the day before you make the rest of this recipe."
+    "cookTime": "over 2 hours",
+    "cusine": "Italian",
+    "description": "This is nose-to-tail eating at its best: homemade pasta stuffed with rich, slow-cooked meat and Italian vegetables.",
+    "dishes": [
+        "pasta",
+        "pastry",
+        "ravioli",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "making_pasta_dough",
+        "rolling_pasta_dough"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -26,6 +28,12 @@
             "2 tbsp black peppercorns, crushed",
             "250ml/8\u00bcfl oz white wine vinegar",
             "2 cinnamon sticks"
+        ],
+        "For the peperonata": [
+            "1 onion, peeled, sliced",
+            "1 red pepper, de-seeded, sliced",
+            "1 yellow pepper, de-seeded, sliced",
+            "2 garlic cloves, peeled, crushed"
         ],
         "For the pig\u2019s head and offal": [
             "1 pig\u2019s head (available from good butchers), hairs scorched off using a chefs\u2019 blow torch",
@@ -48,12 +56,6 @@
             "1 small red onion, peeled, finely diced",
             "small handful parsley or basil, shredded",
             "1 free-range egg, beaten, for egg wash"
-        ],
-        "For the peperonata": [
-            "1 onion, peeled, sliced",
-            "1 red pepper, de-seeded, sliced",
-            "1 yellow pepper, de-seeded, sliced",
-            "2 garlic cloves, peeled, crushed"
         ],
         "For the smoked aubergine pur\u00e9e": [
             "6 aubergines",
@@ -81,6 +83,12 @@
             "salt and freshly ground black pepper",
             "vegetable oil, for deep-frying"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "1",
+    "serves": "Serves 6",
+    "show": {
+        
     },
     "steps": [
         "For the brine, place the salt, pepper, white wine vinegar and cinnamon sticks into a large pan of cold water (use a pan that's deep enough to cover the pig's head).",
@@ -111,9 +119,9 @@
         "For the vinaigrette, whisk all of the vinaigrette ingredients together until well combined. Spoon three-quarters of the vinaigrette into the bowl containing the vegetables \u00e0 la Gr\u00e8cque, add the basil and mix until the vegetables are coated in the vinaigrette.",
         "To serve, spoon some of the aubergine pur\u00e9e into the centre of each of six serving plates and drag the spoon to create a swirl. Place a large spoonful of the peperonata into the centre of each plate. Arrange the ravioli on top. Spoon the vegetables \u00e0 la Gr\u00e8cque alongside, then drizzle the ravioli with the remaining vinaigrette. Garnish with some of the deep-fried pig\u2019s ears."
     ],
-    "howTos": [
-        "making_pasta_dough",
-        "rolling_pasta_dough"
+    "tips": [
+        "Cook the pig's head and offal the day before you make the rest of this recipe."
     ],
+    "title": "Pig's head and offal ravioli with smoked aubergine pur\u00e9e and peperonata",
     "videos": "[]"
 }

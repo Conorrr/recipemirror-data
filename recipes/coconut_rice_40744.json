@@ -1,24 +1,22 @@
 {
-    "title": "Coconut rice",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Coconut rice goes well with cooking from the Caribbean to southeast-Asia. It\u2019s particularly good with any Thai green curry.",
     "author": {
         "jeremy_pang": "Jeremy Pang"
     },
-    "show": {
-        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Coconut rice goes well with cooking from the Caribbean to southeast-Asia. It\u2019s particularly good with any Thai green curry.",
+    "dishes": [
+        "curry",
+        "sauce",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,6 +28,12 @@
             "pepper, to taste"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
+    },
     "steps": [
         "Wash the rice well under cold running water to remove any excess starch and transfer to a saucepan which has a tight-fitting lid.",
         "Mix the coconut milk and stock together and pour it over the washed rice.",
@@ -37,8 +41,9 @@
         "Once vigorously boiling, change to a low heat, cover with the lid and allow to simmer for 10 minutes, or until the water level is the same as the top of the rice.",
         "At this point, turn the heat completely off and allow to rest for a further 10 minutes, keeping the lid on at all times. Use a wooden spoon to fluff up the rice before serving. Add salt, sugar and pepper to taste."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Coconut rice",
     "videos": "[]"
 }

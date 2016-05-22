@@ -1,26 +1,31 @@
 {
-    "title": "Mary Berry's classic fruit cake",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 8",
-    "recommendations": "35",
-    "images": [
-        
-    ],
-    "description": "This is the perfect cake for Christmas, birthdays and all special occasions \u2013 it's a winner.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "You need to start preparing this cake the night before you want to bake it as the dried fruits need to be soaked in brandy so that they become plump. You can vary the fruit if you like, but make the total weight the same as in the recipe."
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "This is the perfect cake for Christmas, birthdays and all special occasions \u2013 it's a winner.",
+    "dishes": [
+        "cake",
+        "fruit_cake",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To finish": [
+            "whole blanched almonds",
+            "glac\u00e9 cherries, rinsed, dried and halved"
+        ],
         "default": [
             "350g/12oz currants",
             "225g/8oz sultanas",
@@ -39,11 +44,13 @@
             "1 tbsp black treacle",
             "1 lemon, grated zest only",
             "1 orange, grated zest only"
-        ],
-        "To finish": [
-            "whole blanched almonds",
-            "glac\u00e9 cherries, rinsed, dried and halved"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "35",
+    "serves": "Serves 8",
+    "show": {
+        
     },
     "steps": [
         "Put the currants, sultanas, raisins, rinsed, dried and quartered cherries, snipped apricots and chopped mixed peel in a large bowl. Stir in the brandy, cover the bowl and leave in a cool place overnight.",
@@ -53,8 +60,9 @@
         "Spoon the mixture into the prepared cake tin and spread out evenly with the back of a spoon. Decorate the top with the whole blanched almonds and glac\u00e9 cherries, pushing them lightly into the top of the cake mixture. Cover the top of the cake loosely with a double layer of greaseproof paper. Bake in the pre-heated oven for about 4\u00bc-4 \u00be hours, or until the cake feels firm to the touch and a skewer inserted into the centre comes out clean. Allow the cake to cool in the tin.",
         "When cool, pierce the cake at intervals with a fine skewer and 'feed' with a little splash of brandy. Once the cake is completely cold, leave the lining paper on the cake, wrap in a double layer of greaseproof paper and again in foil. Store in a cool, dry place for up to three months, feeding at intervals with more brandy."
     ],
-    "howTos": [
-        
+    "tips": [
+        "You need to start preparing this cake the night before you want to bake it as the dried fruits need to be soaked in brandy so that they become plump. You can vary the fruit if you like, but make the total weight the same as in the recipe."
     ],
+    "title": "Mary Berry's classic fruit cake",
     "videos": "[]"
 }

@@ -1,24 +1,24 @@
 {
-    "title": "Caramel yoghurt",
-    "cookTime": "no cooking required",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "jill_dupleix": "Jill Dupleix"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "muffins",
+        "pie",
+        "stir-fries",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -26,12 +26,19 @@
             "3 tbsp soft dark brown sugar"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Scatter the sugar over the top of the yoghurt in a large shallow bowl, cover and chill for 3 hours or more, until the sugar melts into a caramel syrup.",
         "Stir well and serve with warm muffins, poached fruits, pies and tarts."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Caramel yoghurt",
     "videos": "[]"
 }

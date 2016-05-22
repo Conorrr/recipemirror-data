@@ -1,26 +1,32 @@
 {
-    "title": "Baked salmon served with seafood and pesto potato",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "bun",
+        "oven-baked_dishes",
+        "pesto",
+        "sauce",
+        "seafood"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the new potatoes": [
+            "1kg/2\u00bclb new potatoes",
+            "3 tbsp pesto sauce",
+            "salt and freshly ground black pepper to taste"
+        ],
         "default": [
             "1.5kg/3lb 5oz fresh salmon, cleaned",
             "4 unwaxed lemons, quartered",
@@ -33,12 +39,13 @@
             "2 glasses dry white wine",
             "8 tbsp extra virgin olive oil",
             "salt and freshly ground black pepper to taste"
-        ],
-        "For the new potatoes": [
-            "1kg/2\u00bclb new potatoes",
-            "3 tbsp pesto sauce",
-            "salt and freshly ground black pepper to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -51,8 +58,9 @@
         "In a large bowl mix the pesto sauce and potatoes together.",
         "Season with salt and freshly ground black pepper and serve immediately with the salmon."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Baked salmon served with seafood and pesto potato",
     "videos": "[]"
 }

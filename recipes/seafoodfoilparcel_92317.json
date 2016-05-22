@@ -1,23 +1,20 @@
 {
-    "title": "Seafood parcel",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "phil_vickery": "Phil Vickery"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "seafood"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -31,6 +28,12 @@
             "6-8 mussels, cleaned, debearded (discard any that do not close tightly when tapped)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "Place two layers of tin foil in a frying pan over a high heat. Add the wine, garlic, shallots and tomato and heat until simmering.",
@@ -38,8 +41,9 @@
         "Cook the parcel in the oven for 8-10 minutes. Open up the parcel and discard any mussels that haven't opened.",
         "Serve the foil parcel on a plate."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Seafood parcel",
     "videos": "[]"
 }

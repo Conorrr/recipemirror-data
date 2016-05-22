@@ -1,24 +1,22 @@
 {
-    "title": "Spaghetti with artichokes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1 (multiply accordingly)",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Delicious instant dish.",
     "author": {
         "the_vegetarian_society": "The Vegetarian Society"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "Delicious instant dish.",
+    "dishes": [
+        "pasta",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -26,12 +24,19 @@
             "1 jar artichokes in oil, chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1 (multiply accordingly)",
+    "show": {
+        
+    },
     "steps": [
         "Cook spaghetti following the instructions on the packet and drain well.",
         "Drain a jar of artichokes in oil, chop, then stir into the pasta."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spaghetti with artichokes",
     "videos": "[]"
 }

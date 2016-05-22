@@ -1,24 +1,27 @@
 {
-    "title": "Raspberry chocolate cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 10-12",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This fancy cake is made up of two layers of chocolate cake, filled with raspberry jam and covered with chocolate ganache. The sides are layered with cream and fenced with chocolate shards. Equipment and preparation: To make the chocolate decorations, you will need a small balloon, a balm-infused tissue and a plastic scraper (you can make one from a plastic tub lid), two sheets of acetate, a confectioner's thermometer and a cold marble slab.",
     "author": {
         "robert_smart": "Robert Smart"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This fancy cake is made up of two layers of chocolate cake, filled with raspberry jam and covered with chocolate ganache. The sides are layered with cream and fenced with chocolate shards. Equipment and preparation: To make the chocolate decorations, you will need a small balloon, a balm-infused tissue and a plastic scraper (you can make one from a plastic tub lid), two sheets of acetate, a confectioner's thermometer and a cold marble slab.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "folding",
+        "melting_chocolate"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the cake": [
@@ -30,25 +33,31 @@
             "150g/5\u00bdoz ground almonds",
             "1 tsp vanilla extract"
         ],
+        "For the chocolate decorations": [
+            "600g/1lb 5oz dark chocolate (around 40% cocoa solids), chopped finely",
+            "600g/1lb 5oz white chocolate (around 40% cocoa solids), chopped finely"
+        ],
         "For the chocolate glaze": [
             "150g/5\u00bdoz dark chocolate (at least 70% cocoa solids), chopped",
             "150g/5\u00bdoz double cream",
             "50g/1\u00beoz unsalted butter"
-        ],
-        "For the syrup": [
-            "80g/3oz caster sugar",
-            "50g/1\u00beoz glucose syrup",
-            "60g/2\u00bcoz black raspberry liqueur, such as Chambord"
         ],
         "For the filling": [
             "250g/9oz raspberry conserve",
             "600ml/20fl oz double cream, whipped until firm peaks form when the whisk is removed",
             "500g/1lb 2oz fresh raspberries"
         ],
-        "For the chocolate decorations": [
-            "600g/1lb 5oz dark chocolate (around 40% cocoa solids), chopped finely",
-            "600g/1lb 5oz white chocolate (around 40% cocoa solids), chopped finely"
+        "For the syrup": [
+            "80g/3oz caster sugar",
+            "50g/1\u00beoz glucose syrup",
+            "60g/2\u00bcoz black raspberry liqueur, such as Chambord"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "Serves 10-12",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 150C/170C (fan)/Gas 3. Grease and line the bottom and sides of 2 x 23cm/9in cake tins, with butter and baking parchment. Ensure the lining paper on the sides comes to 3cm/1\u00bdin above the rim of the tin.",
@@ -81,9 +90,9 @@
         "Whip the remaining cream until stiff and spread around the sides of the cake. Stick the shards to the whipped cream to form an alternating white and dark chocolate vertical stripe pattern. The shards should overlap slightly so that the cream doesn't show when assembly is complete.",
         "Place the chocolate bowl on top of the cake and fill it with fresh raspberries and with a few chocolate curls sticking out."
     ],
-    "howTos": [
-        "folding",
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "Raspberry chocolate cake",
     "videos": "[]"
 }

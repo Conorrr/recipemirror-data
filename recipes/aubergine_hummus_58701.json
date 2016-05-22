@@ -1,24 +1,21 @@
 {
-    "title": "Aubergine hummus",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 3",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Garlicky roasted aubergine makes a wonderful smoky addition to hummus dip.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Garlicky roasted aubergine makes a wonderful smoky addition to hummus dip.",
+    "dishes": [
+        "hummus",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,6 +25,12 @@
             "400g/14oz can chickpeas, drained",
             "3 sprigs rosemary"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 3",
+    "show": {
+        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
     },
     "steps": [
         "Set the oven to 200C/400F/Gas 6.",
@@ -39,8 +42,9 @@
         "Return the blended mix back to the pan and add the rest of the aubergines and warm through for a minute.",
         "Serve hot."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Aubergine hummus",
     "videos": "[]"
 }

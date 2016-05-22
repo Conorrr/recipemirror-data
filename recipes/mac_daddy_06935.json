@@ -1,24 +1,21 @@
 {
-    "title": "Mac daddy",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mac_daddy_06935_16x9.jpg"
-    ],
-    "description": "A variation on the classic whisky mac, this cocktail is a great one for kicking off your Burns night supper.",
     "author": {
         "wayne_collins": "Wayne Collins"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "A variation on the classic whisky mac, this cocktail is a great one for kicking off your Burns night supper.",
+    "dishes": [
+        "stir-fries",
+        "whisky_cocktail"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mac_daddy_06935_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -29,12 +26,19 @@
             "lemon zest, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Place all the ingredients into a cocktail shaker with a handful of ice and stir to mix.",
         "Strain into a whiskey tumbler over ice, garnish with lemon zest and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mac daddy",
     "videos": "[]"
 }

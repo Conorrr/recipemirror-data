@@ -1,24 +1,21 @@
 {
-    "title": "Super green dream drink",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Cucumber, apple and ginger drink is really refreshing and a change from boring old squash. Serve with lots of ice.",
     "author": {
         "neil_strawson_and_richard_hunt": "Neil Strawson and Richard Hunt"
     },
-    "show": {
-        "b01ncdlj": "I Can Cook on the Go"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Cucumber, apple and ginger drink is really refreshing and a change from boring old squash. Serve with lots of ice.",
+    "dishes": [
+        "non-alcoholic_cocktail",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,14 +25,21 @@
             "\u00bd lime, juice only"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b01ncdlj": "I Can Cook on the Go"
+    },
     "steps": [
         "Grate the cucumber into a bowl, making sure you catch all the juice.",
         "Stir in the ginger, apple juice and lime juice.",
         "Seive the mixture into a jug, pressing down on the pulp to extract as much juice as possible.",
         "Pour into two tall glasses."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Super green dream drink",
     "videos": "[]"
 }

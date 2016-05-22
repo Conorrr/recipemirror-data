@@ -1,40 +1,27 @@
 {
-    "title": "The Ulster fry",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Irish",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "sausage",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "folding",
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the soda bread": [
-            "450g/1lb plain white flour",
-            "1 tsp bicarbonate of soda",
-            "1 tsp cream of tartar",
-            "1 tsp sea salt",
-            "1 tsp sugar",
-            "300ml/10\u00bdfl oz buttermilk"
-        ],
-        "For the potato farls": [
-            "2 tbsp butter, plus extra to serve",
-            "1 kg/2lb 3oz mashed potatoes",
-            "125g/4\u00bdoz plain flour, plus extra for dusting",
-            "salt, to taste"
-        ],
         "For the fry-up": [
             "8 beef or pork sausages",
             "4 ripe tomatoes, cut in half",
@@ -44,7 +31,27 @@
             "8 slices ready-made black pudding",
             "8 rashers smoked bacon",
             "8 free-range eggs"
+        ],
+        "For the potato farls": [
+            "2 tbsp butter, plus extra to serve",
+            "1 kg/2lb 3oz mashed potatoes",
+            "125g/4\u00bdoz plain flour, plus extra for dusting",
+            "salt, to taste"
+        ],
+        "For the soda bread": [
+            "450g/1lb plain white flour",
+            "1 tsp bicarbonate of soda",
+            "1 tsp cream of tartar",
+            "1 tsp sea salt",
+            "1 tsp sugar",
+            "300ml/10\u00bdfl oz buttermilk"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
     },
     "steps": [
         "For the soda bread, preheat the oven to 180C/350F/Gas 4.",
@@ -63,9 +70,9 @@
         "Meanwhile, heat the remaining two tablespoons of olive oil in a separate frying pan over a high heat. When the oil is hot, crack in the eggs, in batches if necessary, and fry for 1-2 minutes, or until the yolk has just set.",
         "To serve, place two potato farls on one side of each serving plate. Divide the sausages, black pudding, bacon, tomato halves, mushrooms and fried eggs among the serving plates, alongside the potato farls. Slice the soda bread, spread with butter and serve alongside."
     ],
-    "howTos": [
-        "folding",
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "The Ulster fry",
     "videos": "[]"
 }

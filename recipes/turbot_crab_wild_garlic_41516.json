@@ -1,37 +1,28 @@
 {
-    "title": "Turbot, crab, wild garlic and leeks",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A restaurant-style meal from chef Paul Ainsworth.",
     "author": {
         "paul_ainsworth": "Paul Ainsworth"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "A restaurant-style meal from chef Paul Ainsworth.",
+    "dishes": [
+        "bun",
+        "mayonnaise",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the garlic oil": [
-            "100g/3\u00bdoz picked wild garlic leaves",
-            "500ml/18fl oz vegetable oil"
-        ],
-        "For the oyster wild garlic mayonnaise": [
-            "1 oyster",
-            "1 egg yolk",
-            "300ml/10fl oz garlic oil (from above)",
-            "lemon juice",
-            "salt and pepper"
-        ],
         "For the crab": [
             "60g/2\u00bcoz salt",
             "50ml/2fl oz white wine",
@@ -45,14 +36,6 @@
             "1-star anise",
             "small bunch thyme",
             "2kg/4lb 8oz fresh, whole crab"
-        ],
-        "For the leeks": [
-            "12g/\u00bdoz salt",
-            "250g/9oz unsalted butter",
-            "1 tbsp picked thyme",
-            "2 garlic cloves, thinly chopped",
-            "9 turns of a pepper mill",
-            "650g/1lb 7oz leeks, light green and white parts only, cut into 1.5cm/\u00bdin dice"
         ],
         "For the crab bisque": [
             "2 tbsp olive oil",
@@ -76,6 +59,25 @@
             "butter, to taste",
             "lemon juice, to taste"
         ],
+        "For the garlic oil": [
+            "100g/3\u00bdoz picked wild garlic leaves",
+            "500ml/18fl oz vegetable oil"
+        ],
+        "For the leeks": [
+            "12g/\u00bdoz salt",
+            "250g/9oz unsalted butter",
+            "1 tbsp picked thyme",
+            "2 garlic cloves, thinly chopped",
+            "9 turns of a pepper mill",
+            "650g/1lb 7oz leeks, light green and white parts only, cut into 1.5cm/\u00bdin dice"
+        ],
+        "For the oyster wild garlic mayonnaise": [
+            "1 oyster",
+            "1 egg yolk",
+            "300ml/10fl oz garlic oil (from above)",
+            "lemon juice",
+            "salt and pepper"
+        ],
         "For the turbot": [
             "1 whole turbot, cleaned and portion into tranches on the bone (250g per serving)",
             "olive oil",
@@ -91,6 +93,12 @@
             "wild garlic flowers"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "For the garlic oil, heat the vegetable oil to 80C. Pour over the garlic leaves in a blender and blend on highest speed for 30 seconds. Pour into an ice bain-marie and chill. Hang in a chinois lined with paper towels so no particles can get through. Leave overnight. The oil should have all gone through and be clear.",
         "For the oyster wild garlic mayonnaise, it is important to have all your ingredients chilled and chill the bowl of your food processor too. Place the oyster and egg yolk in the food processor and begin to blend. When smooth add a splash of lemon juice and a pinch of salt, slowly begin to add the garlic oil, let it emulsify then slowly drizzle the oil in until the mayonnaise is thick. Adjust the seasoning with lemon juice and salt to taste. Set aside in the fridge.",
@@ -105,8 +113,9 @@
         "Finish the crab and leeks off with a salad of crispy seaweed, oyster leafs, fennel tops, piped dollops of oyster wild garlic mayonnaise, wild garlic flowers and garlic oil.",
         "Place you cooked turbot into the centre of the plate (this is your show stopper). Finish with a swirl of garlic oil around the fish then pour the hot bisque sauce through the oil, finish with extra sauce on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Turbot, crab, wild garlic and leeks",
     "videos": "[]"
 }

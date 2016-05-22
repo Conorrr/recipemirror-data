@@ -1,23 +1,26 @@
 {
-    "title": "Fish, chips and curry sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Dover sole in a crisp beer batter, served with homemade chips and curry sauce.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Dover sole in a crisp beer batter, served with homemade chips and curry sauce.",
+    "dishes": [
+        "chips",
+        "curry",
+        "fish_and_chips",
+        "jam",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "how_to_cook_chips"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -45,6 +48,12 @@
             "\u00bd lemon, cut into wedges, for serving"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "For the curry sauce, heat a large frying pan until hot, add the butter, onion and chillies and cook for 10 minutes, or until golden-brown and softened.",
         "Add the plain flour and curry powder and cook for a couple of minutes.",
@@ -56,8 +65,9 @@
         "Add the potatoes to the deep-fat fryer and fry for 3-4 minutes, or until golden-brown and crisp. Remove from the pan with a slotted spoon and set aside to drain on kitchen paper. Season with a little salt.",
         "Serve the fish and chips on serving plates with the curry sauce in a jug. Pour the sauce over the fish and chips just before serving."
     ],
-    "howTos": [
-        "how_to_cook_chips"
+    "tips": [
+        
     ],
+    "title": "Fish, chips and curry sauce",
     "videos": "[]"
 }

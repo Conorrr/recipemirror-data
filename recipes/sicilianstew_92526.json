@@ -1,26 +1,33 @@
 {
-    "title": "Sicilian-style stew",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "bread",
+        "casserole",
+        "pie",
+        "stew",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "chopped fresh mint leaves",
+            "chopped fresh parsley leaves",
+            "salt and freshly ground black pepper",
+            "crusty bread"
+        ],
         "default": [
             "2 tsp olive oil",
             "1 large chicken, cut into serving pieces",
@@ -37,13 +44,13 @@
             "1 tsp dried chilli flakes",
             "75ml/3fl oz white wine",
             "8 ripe plum tomatoes, roughly chopped"
-        ],
-        "To serve": [
-            "chopped fresh mint leaves",
-            "chopped fresh parsley leaves",
-            "salt and freshly ground black pepper",
-            "crusty bread"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Heat the oil in a large casserole over a medium heat. Add the chicken pieces and fry for 4-5 minutes, turning regularly, or until browned on all sides. Remove from the casserole and set aside.",
@@ -53,8 +60,9 @@
         "Just before serving, sprinkle over the chopped herbs and season, to taste, with salt and freshly ground black pepper.",
         "Serve in bowls with crusty bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sicilian-style stew",
     "videos": "[]"
 }

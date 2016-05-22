@@ -1,26 +1,32 @@
 {
-    "title": "Slow-braised octopus with potato salad and anchovy dressing",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This dish takes some time but the oven does most of the work for you.",
     "author": {
         "matt_tebbutt": "Matt Tebbutt"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "This dish takes some time but the oven does most of the work for you.",
+    "dishes": [
+        "casserole",
+        "oven-baked_dishes",
+        "salad",
+        "sauce",
+        "seafood",
+        "slow-cooked_dishes"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the anchovy dressing": [
+            "12 anchovies, marinated in red wine for 30 minutes",
+            "4 garlic cloves, chopped",
+            "3-4 tbsp olive oil"
+        ],
         "For the octopus": [
             "150-200ml/5-7fl oz olive oil",
             "1 whole octopus (about 1\u00bdkg/3lb 5oz), cleaned and left whole, peak and eyes removed",
@@ -38,12 +44,13 @@
             "1 red head chicory, leaves shredded",
             "1 white head chicory, leaves shredded",
             "salt and pepper"
-        ],
-        "For the anchovy dressing": [
-            "12 anchovies, marinated in red wine for 30 minutes",
-            "4 garlic cloves, chopped",
-            "3-4 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 140C/120C Fan/Gas 1.",
@@ -53,8 +60,9 @@
         "For the dressing, heat a small frying pan and add a little oil and the anchovies. Cook until they dissolve and then add the remaining ingredients and whisk. Just before serving add the dressing to the salad and mix.",
         "Serve the braised octopus with the salad alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Slow-braised octopus with potato salad and anchovy dressing",
     "videos": "[]"
 }

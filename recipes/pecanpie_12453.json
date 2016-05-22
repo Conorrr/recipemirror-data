@@ -1,32 +1,25 @@
 {
-    "title": "Pecan pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6-8",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sweet pastry": [
-            "225g/8oz plain flour",
-            "110g/4oz caster sugar",
-            "110g/4oz butter",
-            "4 egg yolks"
-        ],
         "For the pecan filling": [
             "3 eggs",
             "110g/4oz sugar",
@@ -36,7 +29,19 @@
             "a pinch of salt",
             "a few drops vanilla extract",
             "175g/6oz pecan halves"
+        ],
+        "For the sweet pastry": [
+            "225g/8oz plain flour",
+            "110g/4oz caster sugar",
+            "110g/4oz butter",
+            "4 egg yolks"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "6",
+    "serves": "Serves 6-8",
+    "show": {
+        
     },
     "steps": [
         "Make the pastry by putting all the ingredients into a food processor and whizzing until you get a dough.",
@@ -46,8 +51,9 @@
         "Pour the mixture into the pastry case and bake for 10 minutes and then reduce the oven heat to 180C/350F/Gas 4 and bake for another 30 minutes or until the top of the pie is golden. Check if it s cooked through by inserting a skewer, it s done if it comes out clean.",
         "Turn out of the tin when slightly cooled and serve warm or cold with vanilla ice cream or a spoonful of cr\u00e8me fraiche."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pecan pie",
     "videos": "[]"
 }

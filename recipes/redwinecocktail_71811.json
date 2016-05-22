@@ -1,24 +1,22 @@
 {
-    "title": "Red berry punch",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "kitty_johnson": "Kitty Johnson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "lemonade",
+        "punch"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,14 +30,21 @@
             "ice"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Mash half of the raspberries with the sugar, torn mint leaves, and squeeze of half a lemon.",
         "Pour into the bottom of a jug.",
         "Pour in the cranberry juice, red wine, and some ice.",
         "Top with lemonade, raspberries, a few slices of lemon, and mint leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Red berry punch",
     "videos": "[]"
 }

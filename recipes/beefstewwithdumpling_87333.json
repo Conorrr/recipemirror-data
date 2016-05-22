@@ -1,24 +1,29 @@
 {
-    "title": "Beef stew with dumplings",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "145",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beefstewwithdumpling_87333_16x9.jpg"
-    ],
-    "description": "For the coldest wintry evenings, tuck into a rich beef stew with fluffy dumplings to warm you right down to your toes.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "For the coldest wintry evenings, tuck into a rich beef stew with fluffy dumplings to warm you right down to your toes.",
+    "dishes": [
+        "beef_stew",
+        "casserole",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beefstewwithdumpling_87333_16x9.jpg"
     ],
     "ingredients": {
         "For the beef stew": [
@@ -53,6 +58,12 @@
             "1 tbsp chopped flatleaf parsley"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "145",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "For the beef stew, heat the oil and butter in an ovenproof casserole and fry the beef until browned on all sides.",
@@ -66,8 +77,9 @@
         "After two hours, remove the lid from the stew and place the balls on top of the stew. Cover, return to the oven and cook for a further 20 minutes, or until the dumplings have swollen and are tender. (If you prefer your dumplings with a golden top, leave the lid off when returning to the oven.)",
         "To serve, place a spoonful of mashed potato onto each of four serving plates and top with the stew and dumplings. Sprinkle with chopped parsley."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef stew with dumplings",
     "videos": "[]"
 }

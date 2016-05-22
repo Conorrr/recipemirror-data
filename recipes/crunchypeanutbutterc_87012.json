@@ -1,24 +1,24 @@
 {
-    "title": "Peanut butter cookies",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 8",
-    "recommendations": "101",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/crunchypeanutbutterc_87012_16x9.jpg"
-    ],
-    "description": "Paul Rankin's easy recipe for soft, buttery cookies takes less than half an hour.",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Paul Rankin's easy recipe for soft, buttery cookies takes less than half an hour.",
+    "dishes": [
+        "biscuit",
+        "cookies",
+        "icing",
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/crunchypeanutbutterc_87012_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -30,6 +30,12 @@
             "icing sugar, for dusting"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "101",
+    "serves": "Makes 8",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "Place the flour, sugar, peanut butter, egg yolk and butter into a large bowl and mix together until combined to a smooth dough.",
@@ -39,8 +45,9 @@
         "Transfer the cookies to a wire rack and allow to cool for ten minutes.",
         "To serve, place on a serving plate and dust with icing sugar."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Peanut butter cookies",
     "videos": "[]"
 }

@@ -1,26 +1,32 @@
 {
-    "title": "Banana and chocolate chip loaf",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "80",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/banana_and_chocolate_74784_16x9.jpg"
-    ],
-    "description": "This is such an easy cake to make and an ideal way to use overly ripe bananas.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b03qgyqf": "The Great Sport Relief Bake Off"
-    },
-    "tips": [
-        "The quantities for this cake can easily be doubled - bake in a 900g/2lb loaf tin for 55 minutes. Optional extras: add 50g chopped pecans or walnuts if you like."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "This is such an easy cake to make and an ideal way to use overly ripe bananas.",
+    "dishes": [
+        "banana_bread",
+        "bread",
+        "cake",
+        "chips",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/banana_and_chocolate_74784_16x9.jpg"
+    ],
     "ingredients": {
+        "To decorate": [
+            "50g/2oz dark chocolate"
+        ],
         "default": [
             "1 ripe banana (peeled weight 100g/4oz)",
             "1 tbsp milk",
@@ -31,10 +37,13 @@
             "\u00bd tsp baking powder",
             "1 free-range egg",
             "50g/2oz dark chocolate chips"
-        ],
-        "To decorate": [
-            "50g/2oz dark chocolate"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "80",
+    "serves": "Serves 6-8",
+    "show": {
+        "b03qgyqf": "The Great Sport Relief Bake Off"
     },
     "steps": [
         "Preheat the oven 160C/325F/Gas 3. Grease and line a 450g/1lb loaf tin with non-stick baking parchment.",
@@ -46,8 +55,9 @@
         "Melt the chocolate in the bowl over a pan of simmering water (ensuring that the bowl does not touch the water). Stir regularly, until almost completely melted, then remove from the heat. The heat of the bowl will melt any remaining lumps.",
         "Spoon the melted chocolate into a piping bag and pipe zig-zags across the top of the loaf. Set aside for the chocolate to set. Slice and serve."
     ],
-    "howTos": [
-        
+    "tips": [
+        "The quantities for this cake can easily be doubled - bake in a 900g/2lb loaf tin for 55 minutes. Optional extras: add 50g chopped pecans or walnuts if you like."
     ],
+    "title": "Banana and chocolate chip loaf",
     "videos": "[]"
 }

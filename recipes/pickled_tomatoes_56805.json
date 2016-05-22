@@ -1,32 +1,22 @@
 {
-    "title": "Pickled tomatoes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 litre/1\u00be pint",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Savour the taste of summery cherry tomatoes by packing them into a jar with garlic, herbs and spices and a sweet and vinegary pickling liquid. Equipment and preparation: you will need a 1 litre/1\u00be pint pickling jar with a screw top lid (or several smaller jars with lids).",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Savour the taste of summery cherry tomatoes by packing them into a jar with garlic, herbs and spices and a sweet and vinegary pickling liquid. Equipment and preparation: you will need a 1 litre/1\u00be pint pickling jar with a screw top lid (or several smaller jars with lids).",
+    "dishes": [
+        "pickle"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pickling liquid": [
-            "250ml/9fl oz malt vinegar",
-            "250ml/9fl oz red wine vinegar",
-            "5 tbsp golden caster sugar",
-            "3 tbsp sea salt"
-        ],
         "For the pickle": [
             "20 assorted cherry or small tomatoes",
             "4 garlic cloves",
@@ -34,7 +24,19 @@
             "1 bay leaf",
             "1 tbsp coriander seeds",
             "1 tbsp black peppercorns"
+        ],
+        "For the pickling liquid": [
+            "250ml/9fl oz malt vinegar",
+            "250ml/9fl oz red wine vinegar",
+            "5 tbsp golden caster sugar",
+            "3 tbsp sea salt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Makes 1 litre/1\u00be pint",
+    "show": {
+        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
     },
     "steps": [
         "For the pickling liquid, in a pan bring all of the pickling liquid ingredients to the boil and leave to simmer on a low heat.",
@@ -45,8 +47,9 @@
         "The pickle will keep for up to a year.",
         "Keep refrigerated once opened and finish within two weeks."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pickled tomatoes",
     "videos": "[]"
 }

@@ -1,26 +1,35 @@
 {
-    "title": "Blue cheese and pancetta tray loaf",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4-6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Blue cheese, caramelised onions, pancetta and rosemary are a winning combination in this fabulous focaccia-style loaf.",
     "author": {
         "bill_granger": "Bill Granger"
     },
-    "show": {
-        "b03lsr84": "Christmas Kitchen with James Martin"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Blue cheese, caramelised onions, pancetta and rosemary are a winning combination in this fabulous focaccia-style loaf.",
+    "dishes": [
+        "bread",
+        "caramel",
+        "crumble",
+        "focaccia",
+        "jam",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the caramelised onions": [
+            "2 tbsp olive oil",
+            "3 large onions, sliced",
+            "1 tbsp thyme leaves",
+            "1 tsp caster sugar",
+            "1 tbsp balsamic vinegar",
+            "salt and pepper"
+        ],
         "default": [
             "600g/1lb 5oz strong white flour, plus extra for flouring",
             "1 tsp sea salt, plus extra for the topping",
@@ -31,15 +40,13 @@
             "2-3 tsbp rosemary leaves, plus extra for serving",
             "extra virgin olive oil, to drizzle",
             "125g/4\u00bdoz blue cheese, crumbled"
-        ],
-        "For the caramelised onions": [
-            "2 tbsp olive oil",
-            "3 large onions, sliced",
-            "1 tbsp thyme leaves",
-            "1 tsp caster sugar",
-            "1 tbsp balsamic vinegar",
-            "salt and pepper"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 4-6",
+    "show": {
+        "b03lsr84": "Christmas Kitchen with James Martin"
     },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
@@ -55,8 +62,9 @@
         "Remove the tray and sprinkle with blue cheese, pancetta and rosemary. Bake for an extra two minutes or until the cheese begins to melt.",
         "Dress with extra rosemary and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Blue cheese and pancetta tray loaf",
     "videos": "[]"
 }

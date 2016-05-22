@@ -1,24 +1,23 @@
 {
-    "title": "Roasted vegetable picnic loaf",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Serves 6",
-    "recommendations": "9",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/roasted_vegetable_picnic_46310_16x9.jpg"
-    ],
-    "description": "A bread loaf is packed with sweet roasted vegetables, mozzarella and fresh basil to make a delicious addition to a picnic, or serve in slices at home with crisp croutons for contrast.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b01rhdgt": "Paul Hollywood's Bread"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A bread loaf is packed with sweet roasted vegetables, mozzarella and fresh basil to make a delicious addition to a picnic, or serve in slices at home with crisp croutons for contrast.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pesto",
+        "sandwich"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/roasted_vegetable_picnic_46310_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,6 +35,12 @@
             "3 tbsp ready-made pesto"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "9",
+    "serves": "Serves 6",
+    "show": {
+        "b01rhdgt": "Paul Hollywood's Bread"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Place all the chopped vegetables in a bowl and drizzle with half the oil and season with salt and pepper.",
         "Toss to coat all the vegetables in the oil. Scatter the vegetables in a single layer on a baking tray and roast until the vegetables are softened, about 15 minutes. You may need to do this in two batches.",
@@ -47,8 +52,9 @@
         "Take the hollowed out loaf and spread the pesto over the base. Begin layering the vegetables starting with the red pepper, then the aubergine, the mozzarella, the yellow pepper and finally the courgette, adding a little ripped basil between the layers. Repeat the layers until the loaf is full. Put the lid on, wrap tightly with cling film and place in the fridge overnight.",
         "Slice the loaf and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roasted vegetable picnic loaf",
     "videos": "[]"
 }

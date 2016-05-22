@@ -1,40 +1,45 @@
 {
-    "title": "Fruity kebabs",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/kazimas_fruity_kebabs_62555_16x9.jpg"
-    ],
-    "description": "Get on your way to five-a-day with one of these fruity kebabs. This is a great dessert to dish up if you are new to cooking. Equipment and preparation: for this recipe you will need 8 wooden skewers.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "Get on your way to five-a-day with one of these fruity kebabs. This is a great dessert to dish up if you are new to cooking. Equipment and preparation: for this recipe you will need 8 wooden skewers.",
+    "dishes": [
+        "kebab",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/kazimas_fruity_kebabs_62555_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "8 strawberries, washed",
-            "2 kiwi fruits",
-            "2 bananas",
-            "1 mango",
-            "16 grapes, washed"
-        ],
         "For the chocolate sauce": [
             "50g/1\u00beoz good-quality dark chocolate (at least 70% cocoa solids)",
             "25g/1oz butter",
             "125ml/4fl oz double cream",
             "1 tsp orange zest",
             "1 tbsp orange juice"
+        ],
+        "default": [
+            "8 strawberries, washed",
+            "2 kiwi fruits",
+            "2 bananas",
+            "1 mango",
+            "16 grapes, washed"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Start by preparing the fruit, for the strawberries remove the stalk and cut in half if they are big.",
@@ -47,8 +52,9 @@
         "Heat all the remaining ingredients in a small saucepan until evenly combined. Do not let the cream boil. Remove from the heat and stir through the melted chocolate. Stir until well combined and the sauce is smooth and glossy.",
         "Pour the chocolate sauce into a small bowl and serve as a dipping sauce for the kebabs."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fruity kebabs",
     "videos": "[]"
 }

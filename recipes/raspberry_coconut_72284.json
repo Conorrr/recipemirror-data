@@ -1,38 +1,41 @@
 {
-    "title": "Raspberry coconut squares",
-    "cookTime": "no cooking required",
-    "prepTime": "overnight",
-    "serves": "Makes 16 squares",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/raspberry_coconut_72284_16x9.jpg"
-    ],
-    "description": "This easy no-bake coconut sweetmeat would be great to make with young children, and they taste great, too.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "This easy no-bake coconut sweetmeat would be great to make with young children, and they taste great, too.",
+    "dishes": [
+        "cake",
+        "icing"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/raspberry_coconut_72284_16x9.jpg"
+    ],
     "ingredients": {
-        "For the white layer": [
-            "225g/8oz icing sugar, sifted",
-            "100g/3\u00bdoz mascarpone",
-            "1 vanilla pod, split lengthways, seeds scraped out",
-            "150g/5oz desiccated coconut"
-        ],
         "For the raspberry layer": [
             "50g/2oz raspberries",
             "225g/8oz icing sugar, sifted",
             "50g/2oz mascarpone",
             "200g/7oz desiccated coconut"
+        ],
+        "For the white layer": [
+            "225g/8oz icing sugar, sifted",
+            "100g/3\u00bdoz mascarpone",
+            "1 vanilla pod, split lengthways, seeds scraped out",
+            "150g/5oz desiccated coconut"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "3",
+    "serves": "Makes 16 squares",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Grease and line an 18cm/7in square cake tin.",
@@ -42,8 +45,9 @@
         "Mix in the rest of the icing sugar along with the desiccated coconut. Press carefully on top of the white layer.",
         "Chill the cake in the fridge overnight. Cut into squares to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Raspberry coconut squares",
     "videos": "[]"
 }

@@ -1,24 +1,20 @@
 {
-    "title": "Classic Margarita",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/classicmargarita_84327_16x9.jpg"
-    ],
-    "description": "Andy Pearson shows you how to mix the perfect margarita cocktail.",
     "author": {
         "andy_pearson": "Andy Pearson"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Andy Pearson shows you how to mix the perfect margarita cocktail.",
+    "dishes": [
+        "margarita"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/classicmargarita_84327_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -29,14 +25,21 @@
             "lime wedge, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Pour the Tequila, Cointreau and lime juice into a cocktail shaker.",
         "Add a handful of ice cubes and shake vigorously for 10-15 seconds.",
         "Strain into a Martini glass with half the rim damped with water, then dipped in salt.",
         "Add a lime wedge on the rim by way of garnish."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Classic Margarita",
     "videos": "[]"
 }

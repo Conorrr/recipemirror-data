@@ -1,23 +1,20 @@
 {
-    "title": "Steak sandwich",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "richard_phillips": "Richard Phillips"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "baguette",
+        "sandwich"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -33,6 +30,12 @@
             "1 tbsp butter"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Drizzle one side of the baguette slices with one tablespoon of the olive oil and place oiled-side down in a hot griddle pan until toasted. Rub the toasted side with the garlic.",
         "Heat another tablespoon of oil in a non-stick frying pan and fry the steak for 4-6 minutes on each side, or until cooked to your liking. Set aside to rest in a warm place for a few minutes.",
@@ -40,8 +43,9 @@
         "Add the mustard and cream and simmer for 2-3 minutes, until slightly thickened. Season, to taste, with salt and freshly ground black pepper and whisk in the butter.",
         "To serve, place the steak between the baguette slices on a plate with a spoonful of the onions."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steak sandwich",
     "videos": "[]"
 }

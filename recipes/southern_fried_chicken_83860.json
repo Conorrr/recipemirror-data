@@ -1,23 +1,25 @@
 {
-    "title": "Southern fried chicken with garlic butter, fried potatoes and bread",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "Soul food of the highest order \u2013 spiced fried chicken drumsticks with soft white bread and garlicky butter fried potatoes.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "American",
+    "description": "Soul food of the highest order \u2013 spiced fried chicken drumsticks with soft white bread and garlicky butter fried potatoes.",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "kneading",
+        "knocking_back"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -27,6 +29,14 @@
             "300ml warm water",
             "1 tbsp olive oil",
             "5g dried yeast"
+        ],
+        "For the garlic butter and potatoes": [
+            "150g/5oz butter",
+            "1 tbsp olive oil",
+            "4 garlic cloves, finely chopped",
+            "3 tbsp roughly chopped flat leaf parsley",
+            "3 potatoes, peeled and thinly sliced",
+            "squeeze of lemon juice"
         ],
         "For the southern fried chicken": [
             "8 chicken drumsticks, skin removed",
@@ -39,15 +49,13 @@
             "1\u00bd tsp dried oregano",
             "2 tsp cracked black pepper",
             "1 tsp sea salt flakes"
-        ],
-        "For the garlic butter and potatoes": [
-            "150g/5oz butter",
-            "1 tbsp olive oil",
-            "4 garlic cloves, finely chopped",
-            "3 tbsp roughly chopped flat leaf parsley",
-            "3 potatoes, peeled and thinly sliced",
-            "squeeze of lemon juice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the bread, place all the ingredients into a bowl and mix well with your hands to form a soft dough, then tip out onto a lightly floured work surface and knead until the dough is very elastic. (Alternatively place into a kitchen mixer fitted with a dough hook and mix until soft and elastic.)",
@@ -72,9 +80,9 @@
         "Stir in the flat leaf parsley and season well with salt and black pepper and a squeeze of lemon.",
         "Place a couple of drumsticks onto each serving plate, pile some fried potato alongside then drizzle the garlic butter over the top. Serve with a chunk of bread."
     ],
-    "howTos": [
-        "kneading",
-        "knocking_back"
+    "tips": [
+        
     ],
+    "title": "Southern fried chicken with garlic butter, fried potatoes and bread",
     "videos": "[]"
 }

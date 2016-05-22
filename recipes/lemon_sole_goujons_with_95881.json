@@ -1,34 +1,37 @@
 {
-    "title": "Lemon sole goujons with watercress and tartare sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Posh fried fish is the order of the day with this easy recipe for beer-battered perfection.",
     "author": {
         "angela_hartnett": "Angela Hartnett"
     },
-    "show": {
-        "b016pbs9": "Great British Food Revival"
-    },
-    "tips": [
-        "When fried, the batter will be crisper if no salt is added and it is not refrigerated."
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Posh fried fish is the order of the day with this easy recipe for beer-battered perfection.",
+    "dishes": [
+        "bread",
+        "bun",
+        "goujons",
+        "mayonnaise",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            
-        ],
         "For the batter": [
             "250g/9oz plain flour",
             "60g/2\u00beoz cornflour",
             "300ml/10\u00bdfl oz sparkling ale",
             "300ml/10\u00bdfl oz soda water"
+        ],
+        "For the fish": [
+            "vegetable oil, for deep-fat frying",
+            "6 medium fillets of lemon sole, cut into strips",
+            "plain flour, for dusting fish"
         ],
         "For the tartare sauce": [
             "100g/3\u00bdoz ready-made mayonnaise",
@@ -37,14 +40,18 @@
             "1 tbsp chopped flatleaf parsley",
             "salt and freshly ground black pepper, to taste"
         ],
-        "For the fish": [
-            "vegetable oil, for deep-fat frying",
-            "6 medium fillets of lemon sole, cut into strips",
-            "plain flour, for dusting fish"
-        ],
         "To serve": [
             "large bunch fresh watercress"
+        ],
+        "default": [
+            
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 2",
+    "show": {
+        "b016pbs9": "Great British Food Revival"
     },
     "steps": [
         "For the batter, sift the plain flour and cornflour together into a bowl.",
@@ -55,8 +62,9 @@
         "Dip the floured lemon sole strips into the batter, then gently lower them into the hot oil and fry until crisp and golden-brown. Remove from the pan using a slotted spoon and set aside to drain on kitchen paper.",
         "To serve, place a few lemon sole goujons onto each of four serving plates. Spoon a dollop of tartare sauce alongside each portion. Garnish with a handful of watercress leaves."
     ],
-    "howTos": [
-        
+    "tips": [
+        "When fried, the batter will be crisper if no salt is added and it is not refrigerated."
     ],
+    "title": "Lemon sole goujons with watercress and tartare sauce",
     "videos": "[]"
 }

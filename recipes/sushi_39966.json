@@ -1,33 +1,26 @@
 {
-    "title": "Sushi",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Sushi means vinegared rice - it is not a reference to the raw fish. Whoever thought of combining it with raw fish, pickled ginger and wasabi in all of its wonderful varied forms is a genius. Equipment: You will need a sushi-making rolling mat.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Japanese",
+    "description": "Sushi means vinegared rice - it is not a reference to the raw fish. Whoever thought of combining it with raw fish, pickled ginger and wasabi in all of its wonderful varied forms is a genius. Equipment: You will need a sushi-making rolling mat.",
+    "dishes": [
+        "pickle",
+        "pie",
+        "sauce",
+        "sushi"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the rice": [
-            "200ml/7fl oz rice wine vinegar",
-            "4 tbsp sugar",
-            "4 tsp salt",
-            "3cm/1\u00bcin piece of kombu seaweed (optional)",
-            "750g/1lb 9oz sushi rice"
-        ],
         "For the nigiri sushi and maki rolls": [
             "selection of fish, such as tuna, salmon, white fish such as brill or sea bass",
             "raw king prawns, shell on",
@@ -37,11 +30,24 @@
             "cucumber",
             "avocado"
         ],
+        "For the rice": [
+            "200ml/7fl oz rice wine vinegar",
+            "4 tbsp sugar",
+            "4 tsp salt",
+            "3cm/1\u00bcin piece of kombu seaweed (optional)",
+            "750g/1lb 9oz sushi rice"
+        ],
         "To serve": [
             "pickled ginger",
             "wasabi",
             "soy sauce"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "First make your sushi vinegar - you can buy this ready-made, but it is easy to make your own. Warm the vinegar in a pan, then add the sugar and salt and let it dissolve. Leave to cool and you have the wonderful sweet savoury dressing for the rice. Set aside.",
@@ -59,8 +65,9 @@
         "Unroll and using a knife with a damp blade cut into bite-sized pieces.",
         "Serve the nigiri and maki rolls with pickled ginger, wasabi and soy sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sushi",
     "videos": "[p017gxgc:p017gxgl]"
 }

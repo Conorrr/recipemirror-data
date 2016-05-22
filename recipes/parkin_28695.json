@@ -1,24 +1,22 @@
 {
-    "title": "Parkin",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 48",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Parkin is traditionally eaten on Bonfire Night and this makes enough for a big party. Serve it cut into squares by itself or with custard.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b013y0nz": "Hairy Bikers' Meals on Wheels"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Parkin is traditionally eaten on Bonfire Night and this makes enough for a big party. Serve it cut into squares by itself or with custard.",
+    "dishes": [
+        "custard",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,6 +31,12 @@
             "800ml/1 pint 8fl oz milk"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 48",
+    "show": {
+        "b013y0nz": "Hairy Bikers' Meals on Wheels"
+    },
     "steps": [
         "Preheat the oven to 150C/300F/Gas 2.",
         "Grease and line six square 22cm/8in tins.",
@@ -42,8 +46,9 @@
         "Gradually pour the butter and syrup into the flour and mix, then add the egg and milk mixture and beat until the mixture is smooth. Pour into the lined tins.",
         "Place in the oven for one hour or until a skewer comes out clean when inserted into the centre of the parkin."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Parkin",
     "videos": "[]"
 }

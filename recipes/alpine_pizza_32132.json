@@ -1,24 +1,24 @@
 {
-    "title": "Alpine pizza",
-    "cookTime": "less than 10 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 2 large pizzas",
-    "recommendations": "31",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/alpine_pizza_32132_16x9.jpg"
-    ],
-    "description": "Nothing beats making your own pizza dough. Here it\u2019s topped with gruy\u00e8re and salami for a delicious Alpine taste.",
     "author": {
         "antonio_carluccio_and_gennaro_contaldo": "Antonio Carluccio and Gennaro Contaldo"
     },
-    "show": {
-        "b01gk0b2": "Two Greedy Italians"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Italian",
+    "description": "Nothing beats making your own pizza dough. Here it\u2019s topped with gruy\u00e8re and salami for a delicious Alpine taste.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pie",
+        "pizza"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/alpine_pizza_32132_16x9.jpg"
     ],
     "ingredients": {
         "For the dough": [
@@ -37,6 +37,12 @@
             "marjoram leaves, to finish"
         ]
     },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "31",
+    "serves": "Makes 2 large pizzas",
+    "show": {
+        "b01gk0b2": "Two Greedy Italians"
+    },
     "steps": [
         "For the pizza dough, combine the flour, salt and yeast in a large bowl. Gradually add the water, mixing well with your hands to obtain a dough. If you find the dough too sticky, simply add a little more flour. Shape into a ball, cover with a cloth and leave to rest for five minutes.",
         "Knead the dough for about 10 minutes and split it in half. Sprinkle some flour on a clean kitchen cloth and place the pieces of dough on it. Cover with a slightly damp cloth and leave to rise for at least 30 minutes in a warm place.",
@@ -45,8 +51,9 @@
         "Once the dough has risen, sprinkle some flour on a clean work surface and spread one dough ball into a circle about 30cm/12in in diameter, making it as thin as possible (without tearing it), with the border slightly thicker. Repeat with the other dough ball. Sprinkle two flat baking trays with breadcrumbs or semolina and place the pizza bases on them.",
         "Spread the cr\u00e8me fra\u00eeche mixture over each base. Top with the onions and salami. Bake in the hot oven for 10 minutes. Remove from the oven, sprinkle with the marjoram and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Alpine pizza",
     "videos": "[]"
 }

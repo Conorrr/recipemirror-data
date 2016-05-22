@@ -1,24 +1,24 @@
 {
-    "title": "Rustic Bakewell tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 12 slices",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This rough Bakewell tart is enclosed in pastry, giving a really rustic feel (and no worries about even edges).",
     "author": {
         "allegra_mcevedy": "Allegra McEvedy"
     },
-    "show": {
-        "b00m1c34": "Economy Gastronomy"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "This rough Bakewell tart is enclosed in pastry, giving a really rustic feel (and no worries about even edges).",
+    "dishes": [
+        "bakewell_tart",
+        "jam",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,6 +34,12 @@
             "1-2 tbsp flaked or whole almonds"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Makes 12 slices",
+    "show": {
+        "b00m1c34": "Economy Gastronomy"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
         "In a mixing bowl, blend together the ground almonds, butter and sugar using a wooden spoon.",
@@ -48,8 +54,9 @@
         "When the Bakewell tart is cooked, reduce the oven temperature to 160C/310F/Gas 3 and continue to cook the Bakewell tart for a further 10 minutes.",
         "Remove the tart from the oven and set aside to cool slightly before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Rustic Bakewell tart",
     "videos": "[]"
 }

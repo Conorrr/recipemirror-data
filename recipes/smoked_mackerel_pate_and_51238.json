@@ -1,24 +1,23 @@
 {
-    "title": "Smoked mackerel pate and cucumber sandwich",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/smoked_mackerel_pate_and_51238_16x9.jpg"
-    ],
-    "description": "The refreshing crunch of cucumber and a dollop of cooling yoghurt are the ideal foils for the rich, smokey fish.",
     "author": {
         "jackie_kearney": "Jackie Kearney"
     },
-    "show": {
-        "b006t1k5": "MasterChef"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "British",
+    "description": "The refreshing crunch of cucumber and a dollop of cooling yoghurt are the ideal foils for the rich, smokey fish.",
+    "dishes": [
+        "bread",
+        "pate",
+        "sandwich"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/smoked_mackerel_pate_and_51238_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,14 +31,21 @@
             "\u00bd cucumber, peeled, seeds removed, finely sliced"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006t1k5": "MasterChef"
+    },
     "steps": [
         "Flake the mackerel fillets into the bowl of a food processor. Add the yoghurt, horseradish and lemon juice and season with salt and freshly ground black pepper. Pulse gently to a rough paste.",
         "Butter the bread, remove the crusts and cut into neat squares.",
         "Arrange a single layer of sliced cucumber onto half of the buttered bread. Spread the mackerel p\u00e2t\u00e9 on top and sandwich with the remaining bread.",
         "To serve, cut the sandwiches into triangles."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Smoked mackerel pate and cucumber sandwich",
     "videos": "[]"
 }

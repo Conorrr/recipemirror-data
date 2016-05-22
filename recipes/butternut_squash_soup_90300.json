@@ -1,26 +1,33 @@
 {
-    "title": "Butternut squash soup with crisps",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 3-4",
-    "recommendations": "89",
-    "images": [
-        
-    ],
-    "description": "Nothing gets wasted here: the crisps that go with this easy soup are made with rosemary-speckled squash peelings.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b01nd35k": "Nigel Slater's Dish of the Day"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Nothing gets wasted here: the crisps that go with this easy soup are made with rosemary-speckled squash peelings.",
+    "dishes": [
+        "caramel",
+        "casserole",
+        "oven-baked_dishes",
+        "soup",
+        "stock",
+        "vegetable_soup"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the crisps": [
+            "reserved butternut squash peelings",
+            "drizzle olive oil",
+            "few drops sherry vinegar",
+            "2 tbsp finely chopped rosemary"
+        ],
         "default": [
             "1 butternut squash",
             "2 tbsp olive oil",
@@ -29,13 +36,13 @@
             "600ml/20fl oz vegetable stock, plus additional stock to loosen soup if desired",
             "1 heaped tsp hot smoked paprika",
             "salt and freshly ground black pepper"
-        ],
-        "For the crisps": [
-            "reserved butternut squash peelings",
-            "drizzle olive oil",
-            "few drops sherry vinegar",
-            "2 tbsp finely chopped rosemary"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "89",
+    "serves": "Serves 3-4",
+    "show": {
+        "b01nd35k": "Nigel Slater's Dish of the Day"
     },
     "steps": [
         "Peel the butternut squash and reserve the long strips of skin.",
@@ -48,8 +55,9 @@
         "Remove the crisps from the oven and place on kitchen paper to absorb any excess oil.",
         "Serve the soup with the skin crisps."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Butternut squash soup with crisps",
     "videos": "[p011gtf6:p011gtfc]"
 }

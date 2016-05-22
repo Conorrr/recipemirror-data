@@ -1,26 +1,38 @@
 {
-    "title": "Butter chicken with butter rice",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "11",
-    "images": [
-        
-    ],
-    "description": "We all know how much James loves his butter and this mild curry is a tribute to his favourite ingredient. Speed up the cooking time by buying passata for the sauce instead of fresh tomatoes.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Indian",
+    "description": "We all know how much James loves his butter and this mild curry is a tribute to his favourite ingredient. Speed up the cooking time by buying passata for the sauce instead of fresh tomatoes.",
+    "dishes": [
+        "chicken_curry",
+        "curry",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the butter rice": [
+            "2 tbsp vegetable oil",
+            "1 onion, thinly sliced",
+            "3 green cardamom pods, crushed",
+            "1 cinnamon stick, broken in half",
+            "4 cloves",
+            "400g/14oz basmati rice",
+            "100g/3\u00bdoz unsalted butter, diced"
+        ],
         "For the marinade": [
             "800g/1lb 12oz boned, skinless chicken thighs, cut into two",
             "120g/4oz Greek yoghurt",
@@ -48,16 +60,13 @@
             "salt and pepper",
             "1 tbsp sugar",
             "2 tbsp chopped fresh coriander, to garnish"
-        ],
-        "For the butter rice": [
-            "2 tbsp vegetable oil",
-            "1 onion, thinly sliced",
-            "3 green cardamom pods, crushed",
-            "1 cinnamon stick, broken in half",
-            "4 cloves",
-            "400g/14oz basmati rice",
-            "100g/3\u00bdoz unsalted butter, diced"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "11",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
@@ -72,8 +81,9 @@
         "Just before serving fork through the butter.",
         "Serve the butter chicken on a bed of rice and garnish with the coriander."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Butter chicken with butter rice",
     "videos": "[]"
 }

@@ -1,42 +1,45 @@
 {
-    "title": "Tequila sunrise",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "andy_pearson": "Andy Pearson"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "tequila_cocktail"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "orange slice",
+            "1 maraschino cherry"
+        ],
         "default": [
             "50ml/2fl oz tequila",
             "fresh orange juice, to top up",
             "1 tbsp grenadine"
-        ],
-        "To serve": [
-            "orange slice",
-            "1 maraschino cherry"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Pour the tequila into a highball glass filled with ice and top up with fresh orange juice. Pour the grenadine in down the side of the glass so that it sinks to the bottom.",
         "To serve, garnish with an orange slice and a maraschino cherry."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tequila sunrise",
     "videos": "[]"
 }

@@ -1,26 +1,39 @@
 {
-    "title": "Seared swordfish steaks with salmoriglio and tomato and pepper salad",
-    "cookTime": "less than 10 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "pie",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the salad": [
+            "500g/1lb 2oz ripe and juicy tomatoes, skinned, seeds removed, chopped",
+            "2 red peppers, roasted, peeled, seeds and stalk removed, cut into strips",
+            "1 small red onion, finely chopped",
+            "60g/2\u00bdoz preserved lemon, rinsed, flesh removed and discarded, skin chopped into small pieces",
+            "2 tbsp chopped fresh coriander"
+        ],
+        "For the salad dressing": [
+            "1\u00bd tbsp lemon juice",
+            "3 tbsp extra virgin olive oil",
+            "1 medium-hot red chilli, seeds removed, finely chopped",
+            "1 garlic clove, finely chopped",
+            "salt and freshly ground black pepper"
+        ],
         "For the salmoriglio": [
             "6 tbsp extra virgin olive oil",
             "3 tbsp water",
@@ -36,21 +49,13 @@
             "olive oil",
             "peperoncini or crushed dried chillies",
             "salt and freshly ground black pepper"
-        ],
-        "For the salad dressing": [
-            "1\u00bd tbsp lemon juice",
-            "3 tbsp extra virgin olive oil",
-            "1 medium-hot red chilli, seeds removed, finely chopped",
-            "1 garlic clove, finely chopped",
-            "salt and freshly ground black pepper"
-        ],
-        "For the salad": [
-            "500g/1lb 2oz ripe and juicy tomatoes, skinned, seeds removed, chopped",
-            "2 red peppers, roasted, peeled, seeds and stalk removed, cut into strips",
-            "1 small red onion, finely chopped",
-            "60g/2\u00bdoz preserved lemon, rinsed, flesh removed and discarded, skin chopped into small pieces",
-            "2 tbsp chopped fresh coriander"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat a griddle pan until very hot, or preheat the barbecue, allowing the flames to die down (approximately 40 minutes).",
@@ -65,8 +70,9 @@
         "Top each pile of tomatoes with a little of the sliced roasted peppers, followed by some red onion and a sprinkle of preserved lemon pieces.",
         "Drizzle the dressing over the tomato salad and sprinkle over the chopped coriander."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Seared swordfish steaks with salmoriglio and tomato and pepper salad",
     "videos": "[]"
 }

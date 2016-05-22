@@ -1,26 +1,37 @@
 {
-    "title": "Liver, mash and onion rings",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "gravy",
+        "jam",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the gravy": [
+            "50g/1\u00beoz unsalted butter",
+            "2 shallots, sliced",
+            "2 tsp fresh thyme leaves",
+            "100ml/3\u00bdfl oz red wine",
+            "300ml/10 fl oz beef jus or stock",
+            "2 tbsp sherry vinegar",
+            "2 tbsp fresh chervil leaves"
+        ],
         "For the liver and mash": [
             "2kg/4lb 8oz potatoes, quartered",
             "200g/7oz butter",
@@ -35,16 +46,13 @@
             "200g/7oz plain flour",
             "2 small onions, finely sliced into rings",
             "100g/3\u00bdoz baby capers, drained"
-        ],
-        "For the gravy": [
-            "50g/1\u00beoz unsalted butter",
-            "2 shallots, sliced",
-            "2 tsp fresh thyme leaves",
-            "100ml/3\u00bdfl oz red wine",
-            "300ml/10 fl oz beef jus or stock",
-            "2 tbsp sherry vinegar",
-            "2 tbsp fresh chervil leaves"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Boil the potatoes in salted water for 15 minutes, or until tender. Drain and place back into the saucepan over the heat to remove excess moisture. Mash the potatoes.",
@@ -60,8 +68,9 @@
         "Heat the remaining butter in frying pan over a medium heat. When the butter is foaming, add the liver and fry for 1-2 minutes on each side, or until golden-brown on both sides.",
         "Place the mash onto serving plates and liver alongside. Pour over the gravy and top with the onion rings and capers."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Liver, mash and onion rings",
     "videos": "[]"
 }

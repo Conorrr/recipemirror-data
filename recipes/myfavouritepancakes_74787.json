@@ -1,24 +1,22 @@
 {
-    "title": "My favourite pancakes",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "annabel_karmel": "Annabel Karmel"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "pancake",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,6 +32,12 @@
             "maple syrup"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Makes 4",
+    "show": {
+        
+    },
     "steps": [
         "Sift the flour and salt into a mixing bowl. Then make a well in the centre of the flour.",
         "Break the eggs into the well. Whisk the eggs and flour together. Next mix together the water and milk in a separate bowl or jug.",
@@ -43,8 +47,9 @@
         "Cook the pancake for about one minute. Use a spatula to loosen it, then flip it over! Cook the second side for 30 seconds. Repeat with the remaining batter until batter is used up. Keep pancakes warm in the meantime.",
         "Fill the pancakes with fresh fruit and plenty of maple syrup."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "My favourite pancakes",
     "videos": "[]"
 }

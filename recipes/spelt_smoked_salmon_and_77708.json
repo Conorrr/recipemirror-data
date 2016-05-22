@@ -1,33 +1,29 @@
 {
-    "title": "Spelt, smoked salmon and spinach tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A wholesome tart with a creamy salmon and spinach filling. Try substituting the spinach with asparagus when it's in season.",
     "author": {
         "trine_hahnemann": "Trine Hahnemann"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A wholesome tart with a creamy salmon and spinach filling. Try substituting the spinach with asparagus when it's in season.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "quiche",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry",
+        "lining_tin_with_pastry",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "50g/1\u00beoz plain white flour, plus extra for dusting",
-            "150g/5\u00bdoz wholegrain spelt flour",
-            "1 tsp sea salt",
-            "75g/2\u00bdoz butter, chopped, plus extra for greasing",
-            "75g/2\u00bdoz quark or fromage frais"
-        ],
         "For the filling": [
             "250g/9oz baby spinach leaves",
             "1 shallot, finely chopped",
@@ -45,7 +41,20 @@
             "2 pomegranates, seeds removed",
             "1 lime, juice only",
             "3 tbsp rapeseed oil"
+        ],
+        "For the pastry": [
+            "50g/1\u00beoz plain white flour, plus extra for dusting",
+            "150g/5\u00bdoz wholegrain spelt flour",
+            "1 tsp sea salt",
+            "75g/2\u00bdoz butter, chopped, plus extra for greasing",
+            "75g/2\u00bdoz quark or fromage frais"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6 and grease a 28cm/11in pie dish with butter.",
@@ -59,10 +68,9 @@
         "For the kale and pomegranate salad, put the kale in a large bowl with the pomegranate seeds. In a small bowl, whisk together the lime juice, oil, salt and pepper to make a dressing. Pour the dressing over the salad and mix.",
         "Serve the warm tart in slices with the salad alongside."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry",
-        "lining_tin_with_pastry",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Spelt, smoked salmon and spinach tart",
     "videos": "[]"
 }

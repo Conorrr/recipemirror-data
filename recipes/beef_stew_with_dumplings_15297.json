@@ -1,24 +1,25 @@
 {
-    "title": "Beef stew with dumplings",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beef_stew_with_dumplings_15297_16x9.jpg"
-    ],
-    "description": "This hearty one-pot dish boasts melt-in-the-mouth beef, chunky vegetables and dumplings to soak up the juices.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b05y38pk": "Nigel Slater: Eating Together"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "This hearty one-pot dish boasts melt-in-the-mouth beef, chunky vegetables and dumplings to soak up the juices.",
+    "dishes": [
+        "beef_stew",
+        "casserole",
+        "sauce",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/beef_stew_with_dumplings_15297_16x9.jpg"
     ],
     "ingredients": {
         "For the beef stew": [
@@ -34,13 +35,6 @@
             "2 bay leaves",
             "salt and freshly ground black pepper"
         ],
-        "For the suet dumplings": [
-            "125g/4\u00bdoz plain flour",
-            "65g/2\u00bcoz shredded suet",
-            "1 tsp baking powder",
-            "1 tsp salt",
-            "4-5 tbsp cold water, to mix"
-        ],
         "For the herby oat dumplings": [
             "70g/2\u00bdoz fine oatmeal",
             "70g/2\u00bdoz plain flour",
@@ -51,7 +45,20 @@
             "2 tsp fresh thyme leaves",
             "80g/2\u00beoz chilled butter",
             "4-5 tbsp cold water, to mix"
+        ],
+        "For the suet dumplings": [
+            "125g/4\u00bdoz plain flour",
+            "65g/2\u00bcoz shredded suet",
+            "1 tsp baking powder",
+            "1 tsp salt",
+            "4-5 tbsp cold water, to mix"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b05y38pk": "Nigel Slater: Eating Together"
     },
     "steps": [
         "For the beef stew, heat the oil in a large, lidded casserole over a medium heat. Fry the chuck steak for 3-4 minutes, until browned on all sides. Remove from the pan and set aside.",
@@ -62,8 +69,9 @@
         "For the herby oat dumplings, combine the oatmeal, flour, baking powder, salt and herbs in a mixing bowl until well combined. Grate the chilled butter into the bowl and mix again. Bring the dough together with your fingers, gradually adding enough water, as before, to make a wet dough. Shape the dough into plum-sized balls.",
         "When the stew has been simmering for an hour, season it again with salt and pepper, if necessary. Put the dumplings on top of the stew, cover the casserole with the lid, and cook for a further 15-20 minutes, or until the dumplings have proudly puffed up. Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beef stew with dumplings",
     "videos": "[]"
 }

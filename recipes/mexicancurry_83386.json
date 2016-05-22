@@ -1,34 +1,23 @@
 {
-    "title": "Mexican curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ainsley_harriott": "Ainsley Harriott"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "curry",
+        "oven-baked_dishes"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the tortilla": [
-            "1 soft flour tortilla",
-            "1 tbsp olive oil",
-            "salt and freshly ground black pepper",
-            "pinch paprika",
-            "coriander leaf, to garnish",
-            "2 tbsp Greek yoghurt, to garnish"
-        ],
         "For the curry": [
             "1 tbsp olive oil",
             "1 clove garlic, roughly chopped",
@@ -44,7 +33,21 @@
             "50g/2oz Greek yoghurt",
             "\u00bd lime, juice only",
             "salt and freshly ground black pepper"
+        ],
+        "For the tortilla": [
+            "1 soft flour tortilla",
+            "1 tbsp olive oil",
+            "salt and freshly ground black pepper",
+            "pinch paprika",
+            "coriander leaf, to garnish",
+            "2 tbsp Greek yoghurt, to garnish"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -56,8 +59,9 @@
         "Add the peppers, herbs, cream, yoghurt and lime juice and bring to a simmer. Simmer for three minutes then season with salt and freshly ground black pepper.",
         "To serve, place the tortilla on a warm plate, pour over the curry, spoon over the yoghurt, and garnish with paprika and coriander."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mexican curry",
     "videos": "[]"
 }

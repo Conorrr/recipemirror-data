@@ -1,24 +1,28 @@
 {
-    "title": "Macaroon wedding tower",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 30",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/macaroon_wedding_tower_64304_16x9.jpg"
-    ],
-    "description": "This impressive macaroon tower makes a chic alternative to a traditional wedding cake. This recipe makes enough macaroons to cover a 50cm x 23cm/20in x 9in foam cone for a macaroon tower.",
     "author": {
         "edward_kimber": "Edward Kimber"
     },
-    "show": {
-        "b010n3q1": "The Great British Wedding Cake"
-    },
-    "tips": [
-        "The macaroons can be assembled and stored in the fridge for up to five days. The macaroon shells can also be frozen."
+    "cookTime": "1 to 2 hours",
+    "description": "This impressive macaroon tower makes a chic alternative to a traditional wedding cake. This recipe makes enough macaroons to cover a 50cm x 23cm/20in x 9in foam cone for a macaroon tower.",
+    "dishes": [
+        "cake",
+        "icing",
+        "jam",
+        "macaroon",
+        "oven-baked_dishes",
+        "sandwich",
+        "sauce",
+        "stir-fries",
+        "wedding_cake"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/macaroon_wedding_tower_64304_16x9.jpg"
     ],
     "ingredients": {
         "For the chestnut macaroons": [
@@ -36,6 +40,12 @@
             "100g/3\u00bdoz unsalted butter, softened at room temperature",
             "400g/14oz roasted skinned hazelnuts, chopped"
         ],
+        "For the raspberry ganache filling": [
+            "240ml/9fl oz double cream",
+            "220g/8oz dark chocolate, finely chopped",
+            "50g/2oz unsalted butter, softened at room temperature",
+            "150g/5\u00bdoz raspberry jam"
+        ],
         "For the raspberry macaroons": [
             "340g/12oz icing sugar",
             "320g/11\u00bdoz ground almonds",
@@ -43,13 +53,13 @@
             "100ml/3\u00bdfl oz water",
             "320g/11\u00bdoz granulated sugar",
             "2 tsp powdered raspberry food colouring"
-        ],
-        "For the raspberry ganache filling": [
-            "240ml/9fl oz double cream",
-            "220g/8oz dark chocolate, finely chopped",
-            "50g/2oz unsalted butter, softened at room temperature",
-            "150g/5\u00bdoz raspberry jam"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 30",
+    "show": {
+        "b010n3q1": "The Great British Wedding Cake"
     },
     "steps": [
         "Preheat the oven to 150C/300F/Gas 2.",
@@ -77,8 +87,9 @@
         "Pipe a small amount of ganache onto half of the macaroons and sandwich together with the remaining macaroons.",
         "To create the macaroon tower, cover the foam cone with craft paper. Insert toothpicks all over the foam cone in a regular pattern, with 1cm/\u00bdin of each toothpick sticking out. Carefully push the macaroons onto the toothpicks until the entire cone is covered."
     ],
-    "howTos": [
-        
+    "tips": [
+        "The macaroons can be assembled and stored in the fridge for up to five days. The macaroon shells can also be frozen."
     ],
+    "title": "Macaroon wedding tower",
     "videos": "[]"
 }

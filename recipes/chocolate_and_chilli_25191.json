@@ -1,30 +1,30 @@
 {
-    "title": "Chocolate and chilli buns",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 12",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Chocolate and chilli make a surprisingly good match in these quirky buns. Try spreading them with unsalted butter.",
     "author": {
         "mary_anne_boerman": "Mary-Anne Boermans"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "Chocolate and chilli make a surprisingly good match in these quirky buns. Try spreading them with unsalted butter.",
+    "dishes": [
+        "bread",
+        "bun",
+        "chips",
+        "custard",
+        "oven-baked_dishes",
+        "roux",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the roux": [
-            "2 tbsp strong white bread flour",
-            "150ml/5fl oz water"
-        ],
         "For the dough": [
             "275g/9\u00beoz strong white bread flour",
             "2 tbsp custard powder",
@@ -43,7 +43,17 @@
             "1 free-range egg, beaten",
             "1 tbsp water",
             "2 large fresh red chillies, seeds removed and sliced"
+        ],
+        "For the roux": [
+            "2 tbsp strong white bread flour",
+            "150ml/5fl oz water"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "2",
+    "serves": "Makes 12",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "To make the roux, mix the flour and water in a small saucepan. Cook over a low to medium heat until it starts to thicken, then continue to cook for one more minute, then remove from the heat. Cover the paste with cling film and leave until it has cooled to room temperature.",
@@ -52,8 +62,9 @@
         "Turn the dough onto a floured board, knock it back then knead in the chocolate chips and divide into 12 portions. Form the dough into balls, place on a greased baking sheet and set aside to rise for 20 minutes.",
         "Preheat the oven to 190C/375F/Gas 5. To glaze the buns, mix the egg with the water, brush onto the buns and scatter over the sliced chillies. Bake in the oven for about 12 minutes."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Chocolate and chilli buns",
     "videos": "[]"
 }

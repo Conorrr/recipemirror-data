@@ -1,24 +1,29 @@
 {
-    "title": "Chilli beef rendang",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chilli_beef_rendang_47873_16x9.jpg"
-    ],
-    "description": "The list of ingredients may be long, but this much-loved South-East Asian curry is simple to prepare.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b04xycrx": "James Martin: Home Comforts"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "The list of ingredients may be long, but this much-loved South-East Asian curry is simple to prepare.",
+    "dishes": [
+        "casserole",
+        "curry",
+        "jam",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chilli_beef_rendang_47873_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -46,6 +51,12 @@
             "boiled jasmine rice, to serve"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b04xycrx": "James Martin: Home Comforts"
+    },
     "steps": [
         "Blend the shallots, ginger, lemongrass, lime leaves, garlic, red chillies and 5 tablespoons water to a paste in a food processor. Scoop the mixture out into a large bowl and add the beef, mixing well until the meat is coated in the paste. Cover and set aside to marinate for at least 2 hours, and preferably overnight in the fridge.",
         "Put the dried chillies into a bowl and cover with boiling water from the kettle. Set aside for 30 minutes to soften.",
@@ -56,8 +67,9 @@
         "Remove the lid and stir the curry, then simmer for a further 15-20 minutes, or until the sauce has thickened. Stir in the lime juice and season, to taste, with salt and freshly ground black pepper.",
         "Serve the beef rendang with jasmine rice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chilli beef rendang",
     "videos": "[]"
 }

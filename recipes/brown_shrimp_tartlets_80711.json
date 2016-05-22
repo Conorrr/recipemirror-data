@@ -1,30 +1,26 @@
 {
-    "title": "Brown shrimp tartlets",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 8",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "The poshest quiche ever - sweet brown shrimps with samphire and blue cheese, encased in crisp filo pastry.",
     "author": {
         "galton_blackiston": "Galton Blackiston"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "The poshest quiche ever - sweet brown shrimps with samphire and blue cheese, encased in crisp filo pastry.",
+    "dishes": [
+        "bun",
+        "oven-baked_dishes",
+        "pastry",
+        "quiche",
+        "tarts"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "4 sheets filo pastry",
-            "50g/1\u00beoz clarified butter"
-        ],
         "For the filling": [
             "3 free-range eggs",
             "2 free-range egg yolks",
@@ -36,7 +32,17 @@
             "few sprigs samphire",
             "100g/3\u00bdoz peeled brown shrimps",
             "40g/1\u00bdoz blue cheese, freshly grated"
+        ],
+        "For the pastry": [
+            "4 sheets filo pastry",
+            "50g/1\u00beoz clarified butter"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 8",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Butter the holes of a muffin tin (This recipe makes eight tarts, so you may need to bake them in batches).",
@@ -48,8 +54,9 @@
         "Divide the samphire and spring onion mix between the pastry cases. Top with some shrimps and the blue cheese, then pour the egg mixture over to fill the cases.",
         "Place the tarts on a baking tray in the centre of the preheated oven. Cook for approximately 20 minutes, or until the filling is just set. Leave to cool for a few minutes before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Brown shrimp tartlets",
     "videos": "[]"
 }

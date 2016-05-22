@@ -1,34 +1,28 @@
 {
-    "title": "Chocolate custard tarts",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 12",
-    "recommendations": "13",
-    "images": [
-        
-    ],
-    "description": "Homemade puff pastry encasing a rich custard filling with a swirl of dark chocolate in the middle \u2013 Paul Hollywood takes custard tarts to another level.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Homemade puff pastry encasing a rich custard filling with a swirl of dark chocolate in the middle \u2013 Paul Hollywood takes custard tarts to another level.",
+    "dishes": [
+        "custard",
+        "custard_tart",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "sandwich",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "melting_chocolate"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the puff pastry": [
-            "150g/5\u00bdoz strong white flour",
-            "150g/5\u00bdoz plain flour",
-            "2 free-range medium eggs",
-            "100ml/3\u00bdfl oz cold water",
-            "250g/9oz unsalted butter",
-            "pinch of salt"
-        ],
         "For the custard filling": [
             "90g/3\u00bdoz caster sugar",
             "3 free-range egg yolks",
@@ -40,7 +34,21 @@
             "unsalted butter, for greasing",
             "100g/3\u00bdoz dark chocolate",
             "100ml/3\u00bdfl oz double cream"
+        ],
+        "For the puff pastry": [
+            "150g/5\u00bdoz strong white flour",
+            "150g/5\u00bdoz plain flour",
+            "2 free-range medium eggs",
+            "100ml/3\u00bdfl oz cold water",
+            "250g/9oz unsalted butter",
+            "pinch of salt"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "13",
+    "serves": "Makes 12",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the puff pastry, put the flours, eggs and water in a large bowl and gently mix everything to a stiff dough. Transfer the dough to a lightly floured surface and knead it well for 10 minutes. The dough should feel tight but elastic so the kneading will take a bit of effort. When the dough is smooth, shape it into a ball and put it in a plastic bag in the fridge to chill, for at least 30 minutes, but you can leave it overnight at this stage.",
@@ -60,8 +68,9 @@
         "Place the tarts back into the preheated oven and bake for a further 10 minutes.",
         "Cool and dust with icing sugar to serve."
     ],
-    "howTos": [
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "Chocolate custard tarts",
     "videos": "[]"
 }

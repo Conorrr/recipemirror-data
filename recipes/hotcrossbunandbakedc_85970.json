@@ -1,24 +1,24 @@
 {
-    "title": "Hot cross bun bread and butter pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/hotcrossbunandbakedc_85970_16x9.jpg"
-    ],
-    "description": "If you're stuck with less than fresh hot cross buns, soak them in gorgeous eggy custard for an Easter monday pud.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "If you're stuck with less than fresh hot cross buns, soak them in gorgeous eggy custard for an Easter monday pud.",
+    "dishes": [
+        "bread",
+        "bun",
+        "custard",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/hotcrossbunandbakedc_85970_16x9.jpg"
     ],
     "ingredients": {
         "For the custard": [
@@ -35,6 +35,12 @@
             "25g/1oz demerara sugar"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "For the custard, whisk the egg yolks, whole eggs and sugar together in a bowl.",
         "Place the milk, cream and the vanilla pod and seeds into a pan over a low heat and slowly bring to a simmer. Remove from the heat and remove the vanilla pod.",
@@ -48,8 +54,9 @@
         "Carefully place the pudding and bain-marie into the oven and bake for 20-30 minutes, or until the custard has set. Remove the foil for the final five minutes of cooking to brown the top.",
         "Serve the pudding with cream or mascarpone."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Hot cross bun bread and butter pudding",
     "videos": "[]"
 }

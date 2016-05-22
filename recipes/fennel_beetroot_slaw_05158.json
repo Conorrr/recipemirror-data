@@ -1,24 +1,21 @@
 {
-    "title": "Fennel beetroot slaw",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fennel_beetroot_slaw_05158_16x9.jpg"
-    ],
-    "description": "This easy peasy crunchy coleslaw makes a great side dish with roast meat, packed with fennel, red cabbage, beetroot and spring onions. Each serving provides 120kcal, 5g protein, 10g carbohydrate (of which 10g sugars), 5g fat (of which 3g saturates), 8g fibre and 0.1g salt.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "This easy peasy crunchy coleslaw makes a great side dish with roast meat, packed with fennel, red cabbage, beetroot and spring onions. Each serving provides 120kcal, 5g protein, 10g carbohydrate (of which 10g sugars), 5g fat (of which 3g saturates), 8g fibre and 0.1g salt.",
+    "dishes": [
+        "coleslaw",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/fennel_beetroot_slaw_05158_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -30,12 +27,19 @@
             "3 tbsp nigella seeds"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
+    },
     "steps": [
         "Combine all the vegetables in a bowl with the soured cream and nigella seeds.",
         "Stir and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Fennel beetroot slaw",
     "videos": "[]"
 }

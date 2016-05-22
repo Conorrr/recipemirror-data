@@ -1,33 +1,27 @@
 {
-    "title": "Mushroom pancake mamon",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "jean-christophe_novelli": "Jean-Christophe Novelli"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "pancake"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pancakes (makes 6)": [
-            "1 free-range egg",
-            "1 free-range egg yolk",
-            "110g/4oz flour",
-            "300ml/10\u00bdfl oz milk",
-            "1 tbsp sunflower oil (for pancake mix)",
-            "extra sunflower oil (for cooking)"
+        "For the blue cheese glaze": [
+            "200g/7oz Stilton",
+            "25g/1oz unsalted butter",
+            "2 free-range egg yolks",
+            "salt and freshly ground black pepper"
         ],
         "For the filling (makes 2)": [
             "olive oil",
@@ -36,15 +30,23 @@
             "sprig fresh thyme",
             "200g/7oz field mushrooms, halved and sliced"
         ],
-        "For the blue cheese glaze": [
-            "200g/7oz Stilton",
-            "25g/1oz unsalted butter",
-            "2 free-range egg yolks",
-            "salt and freshly ground black pepper"
+        "For the pancakes (makes 6)": [
+            "1 free-range egg",
+            "1 free-range egg yolk",
+            "110g/4oz flour",
+            "300ml/10\u00bdfl oz milk",
+            "1 tbsp sunflower oil (for pancake mix)",
+            "extra sunflower oil (for cooking)"
         ],
         "To finish": [
             "2 tbsp double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the pancakes, place the egg and egg yolk and flour into a bowl and mix together to form a paste.",
@@ -60,8 +62,9 @@
         "Spoon the Stilton glaze over the pancakes, and place under the hot grill to cook until the blue cheese glaze is melted and golden brown.",
         "Serve in the dish at the table."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mushroom pancake mamon",
     "videos": "[]"
 }

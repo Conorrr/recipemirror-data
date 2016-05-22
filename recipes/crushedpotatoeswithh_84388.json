@@ -1,26 +1,32 @@
 {
-    "title": "Crushed potatoes with hot smoked salmon, poached egg and hollandaise",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "jam",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the hollandaise": [
+            "2 free-range egg yolks",
+            "3 tbsp white wine vinegar",
+            "110g/4oz butter, melted",
+            "salt and freshly ground black pepper",
+            "2 tsp lumpfish roe"
+        ],
         "default": [
             "100g/3\u00bdoz new potatoes, cooked hot",
             "1 tsp wholegrain mustard",
@@ -30,14 +36,13 @@
             "100g/3\u00bdoz baby spinach leaves",
             "1 free-range egg, for poaching",
             "1 tbsp white wine vinegar"
-        ],
-        "For the hollandaise": [
-            "2 free-range egg yolks",
-            "3 tbsp white wine vinegar",
-            "110g/4oz butter, melted",
-            "salt and freshly ground black pepper",
-            "2 tsp lumpfish roe"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "In a clean bowl, crush the potatoes with the back of a wooden spoon until mashed.",
@@ -51,8 +56,9 @@
         "Place the spinach into the centre of a serving plate. Place the chefs' ring with potato and spinach on top, then carefully remove the ring. Place the poached egg on top and spoon over the lumpfish hollandaise.",
         "Serve immediately."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Crushed potatoes with hot smoked salmon, poached egg and hollandaise",
     "videos": "[]"
 }

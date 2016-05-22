@@ -1,26 +1,34 @@
 {
-    "title": "Braised pork cheeks with polenta and squid",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "jun_tanaka": "Jun Tanaka"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce",
+        "slow-cooked_dishes",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "de-glazing_pans"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the polenta": [
+            "500ml/17\u00bdfl oz milk",
+            "500ml/17\u00bdfl oz chicken stock",
+            "175g/6oz quick-cook polenta",
+            "25g/1oz grated parmesan",
+            "25g/1oz unsalted butter",
+            "salt and freshly ground black pepper"
+        ],
         "For the pork cheeks": [
             "12 pork cheeks, fat and sinew removed",
             "2 tbsp olive oil",
@@ -41,14 +49,6 @@
             "1 tbsp soy sauce",
             "1 litre/1\u00bept chicken stock"
         ],
-        "For the polenta": [
-            "500ml/17\u00bdfl oz milk",
-            "500ml/17\u00bdfl oz chicken stock",
-            "175g/6oz quick-cook polenta",
-            "25g/1oz grated parmesan",
-            "25g/1oz unsalted butter",
-            "salt and freshly ground black pepper"
-        ],
         "To serve": [
             "25g/1oz butter",
             "200g/7oz curly kale",
@@ -57,6 +57,12 @@
             "1 lemon, juice only",
             "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -73,8 +79,9 @@
         "To serve, heat the butter in a frying pan and fry the kale for 4-5 minutes, or until wilted and tender. Heat the olive oil in a frying pan and fry the squid for 1-2 minutes, or until just cooked. Season, to taste, with lemon juice and salt and freshly ground black pepper.",
         "Spoon some polenta onto each of 4 serving plates, top with the pork cheeks and squid and spoon the kale alongside."
     ],
-    "howTos": [
-        "de-glazing_pans"
+    "tips": [
+        
     ],
+    "title": "Braised pork cheeks with polenta and squid",
     "videos": "[]"
 }

@@ -1,24 +1,23 @@
 {
-    "title": "Pea soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,14 +31,21 @@
             "mint leaf, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil in a saucepan over a medium heat. Add the onion and garlic and fry for 3-4 minutes, until softened.",
         "Add the frozen peas and chicken stock and bring to the boil. Reduce the heat and simmer for ten minutes.",
         "Add the cream and use a hand blender to liquidise the soup.",
         "Season, to taste, with salt and freshly ground black pepper and serve in a warm bowl, garnished with a mint leaf."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pea soup",
     "videos": "[]"
 }

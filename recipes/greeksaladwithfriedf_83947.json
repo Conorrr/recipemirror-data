@@ -1,26 +1,32 @@
 {
-    "title": "Greek salad with fried feta cheese",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Greek",
+    "description": "",
+    "dishes": [
+        "pie",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the fried feta": [
+            "25g/1oz flour",
+            "2 tsp sesame seeds",
+            "1 free-range egg",
+            "110g/4oz feta cheese, sliced into 2 pieces",
+            "4 tbsp olive oil, to fry",
+            "squeeze of lemon juice"
+        ],
         "For the salad": [
             "1 roasted red pepper from a jar, sliced",
             "\u00bc cucumber, sliced",
@@ -30,15 +36,13 @@
             "handful olives, pitted",
             "\u00bd lemon, juice only",
             "sea salt and freshly ground black pepper"
-        ],
-        "For the fried feta": [
-            "25g/1oz flour",
-            "2 tsp sesame seeds",
-            "1 free-range egg",
-            "110g/4oz feta cheese, sliced into 2 pieces",
-            "4 tbsp olive oil, to fry",
-            "squeeze of lemon juice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "To make the salad, mix together all of the ingredients, season to taste with salt and freshly ground black pepper and set aside.",
@@ -46,8 +50,9 @@
         "Heat the oil in a deep frying pan and add the feta. Fry for two to three minutes, turning once, until golden on both sides. Remove and drain on kitchen paper.",
         "Place the fried feta on top of the salad with a squeeze of lemon juice and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Greek salad with fried feta cheese",
     "videos": "[]"
 }

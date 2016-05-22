@@ -1,26 +1,32 @@
 {
-    "title": "Red rice with spicy chicken",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chicken": [
+            "\u00bd tsp cayenne pepper",
+            "1 tsp paprika",
+            "1 tbsp olive oil",
+            "\u00bd lemon, juice only",
+            "\u00bd tsp dried chilli flakes",
+            "100g/3\u00bdoz chicken breast"
+        ],
         "For the red rice": [
             "1 tbsp olive oil",
             "1 clove garlic, finely sliced",
@@ -31,18 +37,16 @@
             "150g/5\u00bdoz rice, cooked according to packet instructions",
             "salt and freshly ground black pepper"
         ],
-        "For the chicken": [
-            "\u00bd tsp cayenne pepper",
-            "1 tsp paprika",
-            "1 tbsp olive oil",
-            "\u00bd lemon, juice only",
-            "\u00bd tsp dried chilli flakes",
-            "100g/3\u00bdoz chicken breast"
-        ],
         "To serve": [
             "2 tbsp grated Manchego cheese",
             "25g/1oz Greek yoghurt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -55,8 +59,9 @@
         "Remove the chicken from the oven and slice the chicken into bite-sized pieces.",
         "To serve, place the chicken on a warm plate with the red rice alongside. Garnish the red rice with the grated Manchego, garnish the chicken with the Greek yoghurt."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Red rice with spicy chicken",
     "videos": "[]"
 }

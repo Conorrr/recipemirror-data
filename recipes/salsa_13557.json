@@ -1,24 +1,22 @@
 {
-    "title": "Salsa",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "Mexican",
+    "description": "",
+    "dishes": [
+        "bun",
+        "salsa"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,13 +29,20 @@
             "1 lemon, zest and juice (or 2 limes)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 8",
+    "show": {
+        
+    },
     "steps": [
         "Chop the tomatoes and fruit into the same sized chunks - about \u00bdcm/\u00bcin.",
         "Mix in a large bowl with the rest of the ingredients.",
         "Leave to stand for 30 minutes to let all the flavours merge."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salsa",
     "videos": "[]"
 }

@@ -1,30 +1,25 @@
 {
-    "title": "Baked haddock with crushed peas and chive butter sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "150g/5\u00bdoz undyed smoked haddock",
-            "1 tbsp olive oil"
-        ],
         "For the peas": [
             "200ml/7fl oz hot chicken stock",
             "1 clove garlic",
@@ -39,7 +34,17 @@
             "1 tbsp chives, chopped",
             "salt and freshly ground black pepper",
             "chervil, to garnish"
+        ],
+        "default": [
+            "150g/5\u00bdoz undyed smoked haddock",
+            "1 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -50,8 +55,9 @@
         "Stir through the chives and season with salt and freshly ground black pepper.",
         "To serve, place the haddock on a plate with the peas to one side. Drizzle the sauce on the fish and garnish with the chervil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Baked haddock with crushed peas and chive butter sauce",
     "videos": "[]"
 }

@@ -1,26 +1,29 @@
 {
-    "title": "Cider and apple cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "Cider-soaked fruit and a sweet syrup adds extra umph to this moist tea cake.",
     "author": {
         "susie_dunkerton": "Susie Dunkerton"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Cider-soaked fruit and a sweet syrup adds extra umph to this moist tea cake.",
+    "dishes": [
+        "cake",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the cider syrup": [
+            "100ml/3\u00bdfl oz of medium dry cider",
+            "75g/2\u00bdoz granulated sugar"
+        ],
         "default": [
             "50g/1\u00bdoz sultanas",
             "150ml/5fl oz medium dry cider",
@@ -33,11 +36,13 @@
             "1 tsp ground coriander",
             "pinch salt",
             "1 crisp dessert apple, peel on, cut into cubes"
-        ],
-        "For the cider syrup": [
-            "100ml/3\u00bdfl oz of medium dry cider",
-            "75g/2\u00bdoz granulated sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 6-8",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
     },
     "steps": [
         "Soak the sultanas in 50ml/2fl oz of the cider until plump (about an hour, or you can do it overnight).",
@@ -49,8 +54,9 @@
         "For the cider syrup, in a saucepan bring the cider and granulated sugar to the boil, and when all the sugar has dissolved leave the syrup to cool.",
         "Remove the cake from the tin and place on serving dish. Using a skewer prick the cake all over evenly. Slowly pour the cider syrup over the cake, then serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cider and apple cake",
     "videos": "[]"
 }

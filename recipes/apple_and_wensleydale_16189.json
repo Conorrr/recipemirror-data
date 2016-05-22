@@ -1,40 +1,49 @@
 {
-    "title": "Apple and Wensleydale pie",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/apple_and_wensleydale_16189_16x9.jpg"
-    ],
-    "description": "There\u2019s a saying in Yorkshire that \u2018apple pie without cheese is like a kiss without a squeeze\u2019. I couldn\u2019t agree more \u2013 tangy, salty cheese and sweet apple go beautifully together. I like to use a mixture of cooking and eating apples in this pie, in order to create a varied, interesting texture.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b03hcv64": "Paul Hollywood's Pies & Puds"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "There\u2019s a saying in Yorkshire that \u2018apple pie without cheese is like a kiss without a squeeze\u2019. I couldn\u2019t agree more \u2013 tangy, salty cheese and sweet apple go beautifully together. I like to use a mixture of cooking and eating apples in this pie, in order to create a varied, interesting texture.",
+    "dishes": [
+        "apple_pie",
+        "bread",
+        "crumble",
+        "oven-baked_dishes",
+        "pastry",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "lining_tin_with_pastry",
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/apple_and_wensleydale_16189_16x9.jpg"
+    ],
     "ingredients": {
-        "For the shortcrust pastry": [
-            "350g/12oz plain flour",
-            "175g/6oz cold unsalted butter, cut into roughly 1cm cubes, plus extra for greasing"
-        ],
         "For the filling": [
             "500g/1lb 2oz cooking apples",
             "500g/1lb 2oz eating apples",
             "100g/3\u00bdoz caster sugar",
             "125g/4\u00bdoz Wensleydale cheese, crumbled"
         ],
+        "For the shortcrust pastry": [
+            "350g/12oz plain flour",
+            "175g/6oz cold unsalted butter, cut into roughly 1cm cubes, plus extra for greasing"
+        ],
         "To finish": [
             "a little milk",
             "about 1 tbsp caster sugar"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "3",
+    "serves": "Serves 6",
+    "show": {
+        "b03hcv64": "Paul Hollywood's Pies & Puds"
     },
     "steps": [
         "To make the pastry, put the flour in a bowl. Add the butter and rub it in lightly with your fingertips until the mixture resembles fine breadcrumbs. Alternatively, do this in a food processor or a mixer and then transfer to a bowl.",
@@ -46,9 +55,9 @@
         "Roll out the remaining pastry to make a lid. Brush the edges of the pastry in the tin with milk then put the pastry lid on top. Seal the edges with your fingertips and trim off the excess pastry neatly. Brush the pastry with milk and sprinkle over a little sugar. Make two slits in the top to allow steam to escape.",
         "Bake for 30-35 minutes, or until the crust is golden-brown. Leave for at least 15 minutes before slicing. The pie is delicious hot or cold and needs no accompaniment."
     ],
-    "howTos": [
-        "lining_tin_with_pastry",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Apple and Wensleydale pie",
     "videos": "[]"
 }

@@ -1,24 +1,27 @@
 {
-    "title": "Minestrone",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "12",
-    "images": [
-        
-    ],
-    "description": "This classic Italian soup made with cannellini beans and broken up spaghetti makes a comforting and budget-friendly supper. Feel free to stir in extra vegetables, depending on what you have in the fridge. This is designed to be a low cost recipe.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b036x3pv": "Great British Budget Menu"
-    },
-    "tips": [
-        "In May 2013 this recipe was costed at \u00a33.53 at Asda, \u00a33.48 at Tesco and \u00a33.82 at Sainsbury\u2019s. This recipe is designed to be made in conjunction with a low-cost store-cupboard."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "This classic Italian soup made with cannellini beans and broken up spaghetti makes a comforting and budget-friendly supper. Feel free to stir in extra vegetables, depending on what you have in the fridge. This is designed to be a low cost recipe.",
+    "dishes": [
+        "jam",
+        "pasta",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock",
+        "vegetable_soup"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -36,6 +39,12 @@
             "salt and pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Serves 4",
+    "show": {
+        "b036x3pv": "Great British Budget Menu"
+    },
     "steps": [
         "Heat the olive oil in a large lidded saucepan over a medium heat. Add the onion, carrots and celery, season with a little salt and pepper and cook for about 10 minutes, stirring occasionally until the vegetables have softened.",
         "Add the garlic and fry for another minute. Stir in the tomato pur\u00e9e and cook for a further three minutes.",
@@ -43,8 +52,9 @@
         "Add the beans and pasta and cook for a further 10 minutes, or until the pasta is cooked. Add the cabbage and cook for another two minutes. If the soup is too thick, add some hot water to reach your preferred consistency.",
         "Season to taste with salt and pepper before serving."
     ],
-    "howTos": [
-        
+    "tips": [
+        "In May 2013 this recipe was costed at \u00a33.53 at Asda, \u00a33.48 at Tesco and \u00a33.82 at Sainsbury\u2019s. This recipe is designed to be made in conjunction with a low-cost store-cupboard."
     ],
+    "title": "Minestrone",
     "videos": "[]"
 }

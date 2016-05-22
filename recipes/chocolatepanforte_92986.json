@@ -1,24 +1,23 @@
 {
-    "title": "Chocolate panforte",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "cake",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -38,6 +37,12 @@
             "hot chocolate sauce and fresh cream, to serve (optional)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Preheat the oven to 150C/300F/Gas 2.",
         "Grease a 20cm/8in springform cake tin with butter, then line it with a large sheet of rice paper (or greaseproof paper), leaving enough excess to be able to wrap around the top of the cake.",
@@ -47,8 +52,9 @@
         "Pour the melted honey and sugar mixture over the nut mixture and mix quickly until well combined. Spoon into the prepared cake tin immediately, then fold the excess lining over the top of the cake.",
         "Transfer the cake to the oven and cook for 35-40 minutes, or until a skewer inserted into the centre of the cake comes out clean. Set aside to cool before serving. Serve slices of the cake with hot chocolate sauce or fresh cream."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Chocolate panforte",
     "videos": "[]"
 }

@@ -1,23 +1,25 @@
 {
-    "title": "Paella",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Spanish",
+    "description": "",
+    "dishes": [
+        "bread",
+        "paella",
+        "pie",
+        "salad",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -35,6 +37,12 @@
             "110g/4oz broad beans, fresh or frozen"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "In a paella pan, heat the olive oil and fry the chicken pieces for 1-2 minutes.",
         "Add the prawns, then stir; add the mussels and stir again, then add the garlic and tomatoes. Fry for a couple more minutes.",
@@ -43,8 +51,9 @@
         "Finally add the small cherry tomatoes and broad beans and season and simmer for 20 minutes.",
         "Serve with a rocket salad and crusty bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Paella",
     "videos": "[]"
 }

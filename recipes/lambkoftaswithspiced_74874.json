@@ -1,39 +1,25 @@
 {
-    "title": "Lamb koftas with spiced yoghurt",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 40",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Turkish_and_Middle_Eastern",
+    "description": "",
+    "dishes": [
+        "lamb_kofta",
+        "oven-baked_dishes",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "75g/3oz bulgar wheat",
-            "2 tbsp olive oil",
-            "1 chilli, finely chopped",
-            "1 medium onion, finely chopped",
-            "\u00bd tsp ground coriander",
-            "\u00bd tsp ground cumin",
-            "500g/1lb 2oz lean leg of lamb, all visible fat removed, cubed",
-            "1 egg",
-            "40g/1\u00bd oz pine kernels, finely chopped",
-            "2 tsp mint, chopped",
-            "3 tsp parsley, chopped"
-        ],
         "For the spiced yoghurt": [
             "2 chillies, seeded and finely chopped",
             "1 tsp fresh mint leaves, chopped",
@@ -46,7 +32,26 @@
         ],
         "To serve": [
             "mixed salad leaves"
+        ],
+        "default": [
+            "75g/3oz bulgar wheat",
+            "2 tbsp olive oil",
+            "1 chilli, finely chopped",
+            "1 medium onion, finely chopped",
+            "\u00bd tsp ground coriander",
+            "\u00bd tsp ground cumin",
+            "500g/1lb 2oz lean leg of lamb, all visible fat removed, cubed",
+            "1 egg",
+            "40g/1\u00bd oz pine kernels, finely chopped",
+            "2 tsp mint, chopped",
+            "3 tsp parsley, chopped"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes 40",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "First, make the spiced yoghurt. Combine all the yoghurt ingredients in a large bowl. Leave for an hour to allow the flavours to develop.",
@@ -59,8 +64,9 @@
         "When cooked, drain the koftas on absorbent kitchen paper and keep warm in the oven.",
         "Serve with spiced yoghurt dip and salad leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb koftas with spiced yoghurt",
     "videos": "[]"
 }

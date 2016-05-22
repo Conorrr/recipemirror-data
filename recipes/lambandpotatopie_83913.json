@@ -1,23 +1,25 @@
 {
-    "title": "Lamb and potato pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "alan_bennett": "Alan Bennett"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "",
+    "dishes": [
+        "casserole",
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -34,6 +36,12 @@
             "beaten egg, to glaze"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 4-6",
+    "show": {
+        "b00701fw": "A Taste of My Life"
+    },
     "steps": [
         "Dust the meat with flour to lightly coat.",
         "Heat enough vegetable oil in a large saucepan to fill the base, and fry the onion and meat until lightly browned. Season with salt and pepper.",
@@ -45,8 +53,9 @@
         "Brush with beaten egg and bake for about 40 minutes, until the pastry is golden brown.",
         "Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb and potato pie",
     "videos": "[]"
 }

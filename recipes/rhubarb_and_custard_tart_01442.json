@@ -1,31 +1,29 @@
 {
-    "title": "Rhubarb and custard tart",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 8",
-    "recommendations": "13",
-    "images": [
-        
-    ],
-    "description": "A great make-ahead dessert, this luscious rhubarb tart pairs delicate forced rhubarb with creamy vanilla custard.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "A great make-ahead dessert, this luscious rhubarb tart pairs delicate forced rhubarb with creamy vanilla custard.",
+    "dishes": [
+        "bread",
+        "custard",
+        "custard_tart",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "250g/9oz plain flour, plus extra for rolling",
-            "150g/5\u00bdoz cold butter, cut into cubes",
-            "1 medium free-range egg, beaten with 1 tbsp cold water"
-        ],
         "For the filling": [
             "3 medium free-range eggs",
             "2 medium free-range egg yolks",
@@ -34,10 +32,21 @@
             "300ml/10fl oz double cream, plus extra to pour",
             "1 vanilla pod, split lengthways and seeds scraped out"
         ],
+        "For the pastry": [
+            "250g/9oz plain flour, plus extra for rolling",
+            "150g/5\u00bdoz cold butter, cut into cubes",
+            "1 medium free-range egg, beaten with 1 tbsp cold water"
+        ],
         "For the rhubarb topping": [
             "65g/2\u00bcoz caster sugar, plus extra to taste",
             "400-500g/14oz-17oz rhubarb (preferably forced rhubarb), trimmed"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "13",
+    "serves": "Serves 8",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "Place a deep 23cm/9in loose-based fluted tart tin onto a baking tray. (It needs to be around 4mm deep.)",
@@ -56,8 +65,9 @@
         "Remove the rhubarb from the pan and tip into in a large heatproof bowl. Add a little extra sugar, to taste, if needed, and leave to cool. Chill in the fridge until needed.",
         "Just before serving, slowly release the tart from the tin. Transfer to a serving plate or board. Spoon the rhubarb on top of the tart and serve immediately, with extra cream for pouring if you like."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry"
+    "tips": [
+        
     ],
+    "title": "Rhubarb and custard tart",
     "videos": "[p016zpg8:p016zpgf]"
 }

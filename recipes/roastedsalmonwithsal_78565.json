@@ -1,33 +1,29 @@
 {
-    "title": "Roasted salmon with salsa verde, new potatoes and warm green bean salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "15",
-    "images": [
-        
-    ],
-    "description": "Roasted salmon with salty, tangy, herby salsa verde is one of the best flavour combinations. Full stop.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "Roasted salmon with salty, tangy, herby salsa verde is one of the best flavour combinations. Full stop.",
+    "dishes": [
+        "bun",
+        "charlotte",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "salsa",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the salsa verde": [
-            "15g flatleaf parsley leaves, chopped",
-            "5g mint leaves, chopped",
-            "3 tbsp capers",
-            "6 anchovy fillets in olive oil, drained",
-            "1 clove garlic, crushed"
-        ],
         "For the roasted salmon": [
             "4 large vine-ripened tomatoes, each cut into 8 slices",
             "1 2.5kg/5\u00bdlb to 2.75kg/6lb salmon, scaled and filleted OR 2 1kg/1\u00bclb salmon fillets",
@@ -38,6 +34,13 @@
             "3 tablespoons olive oil",
             "10 tablespoons water",
             "salt and freshly ground black pepper"
+        ],
+        "For the salsa verde": [
+            "15g flatleaf parsley leaves, chopped",
+            "5g mint leaves, chopped",
+            "3 tbsp capers",
+            "6 anchovy fillets in olive oil, drained",
+            "1 clove garlic, crushed"
         ],
         "For the steamed potatoes": [
             "1.8kg/4lb of uniform-sized slightly waxy potatoes, such as Charlotte",
@@ -52,6 +55,12 @@
             "1 bunch spring onions, trimmed and thinly sliced",
             "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "15",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
@@ -74,8 +83,9 @@
         "Drain the beans well and return them to the pan. Toss with the spring onions and mustard dressing. Pile into a serving bowl and serve warm.",
         "To serve, cut the salmon across into portion-sized pieces. Serve with some of the cooking juices, spooned over, some of the roasted tomatoes, with bean salad and steamed potatoes to the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roasted salmon with salsa verde, new potatoes and warm green bean salad",
     "videos": "[]"
 }

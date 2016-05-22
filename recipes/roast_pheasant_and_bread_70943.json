@@ -1,38 +1,28 @@
 {
-    "title": "Roast pheasant and bread sauce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "8",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/roast_pheasant_and_bread_70943_16x9.jpg"
-    ],
-    "description": "Try to order your pheasants from a butcher that has hung them for a minimum of 6-7 days. Look for a rich, soft and fruity wine to serve - say a Pinot Noir from the C\u00f4te de Nuits, or one of the very good wines from Oregon.",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b036zkh2": "Raymond Blanc: How to Cook Well"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Try to order your pheasants from a butcher that has hung them for a minimum of 6-7 days. Look for a rich, soft and fruity wine to serve - say a Pinot Noir from the C\u00f4te de Nuits, or one of the very good wines from Oregon.",
+    "dishes": [
+        "bread",
+        "caramel",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/roast_pheasant_and_bread_70943_16x9.jpg"
+    ],
     "ingredients": {
-        "For the roasted pheasant": [
-            "2 pheasants (800-900g/1lb 12oz-2lb each), oven-ready, preferably hen pheasants",
-            "50ml/2fl oz rapeseed oil (or other non-scented oil)",
-            "20g/\u00beoz unsalted butter (optional)",
-            "sea salt and freshly ground black pepper"
-        ],
-        "For the pheasant jus": [
-            "100ml/3\u00bdfl oz red wine",
-            "50ml/1\u00befl oz ruby port",
-            "2 crushed juniper berries",
-            "1 sprig fresh thyme"
-        ],
         "For the bread sauce": [
             "10g/\u00bcoz unsalted butter",
             "50g/1\u00beoz white onion, finely chopped",
@@ -43,7 +33,25 @@
             "10g/\u00bcoz small bacon lardons",
             "150ml/5fl oz full-fat milk",
             "1 slice white bread, broken into pieces"
+        ],
+        "For the pheasant jus": [
+            "100ml/3\u00bdfl oz red wine",
+            "50ml/1\u00befl oz ruby port",
+            "2 crushed juniper berries",
+            "1 sprig fresh thyme"
+        ],
+        "For the roasted pheasant": [
+            "2 pheasants (800-900g/1lb 12oz-2lb each), oven-ready, preferably hen pheasants",
+            "50ml/2fl oz rapeseed oil (or other non-scented oil)",
+            "20g/\u00beoz unsalted butter (optional)",
+            "sea salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "8",
+    "serves": "Serves 4",
+    "show": {
+        "b036zkh2": "Raymond Blanc: How to Cook Well"
     },
     "steps": [
         "For the roasted pheasant, preheat the oven to 190C/375F/Gas 5.",
@@ -53,8 +61,9 @@
         "For the bread sauce, in a small saucepan on a low heat gently heat the butter and fry the onion with the herbs, crushed cloves and salt for two minutes, or until soft. Add the bacon lardons and continue to cook uncovered for one minute. Add the milk, bring to a simmer and stir in the pieces of bread until the sauce is smooth. Taste and adjust the seasoning.",
         "To serve, carve the pheasant and serve it over a mound of bread sauce with the jus poured over."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roast pheasant and bread sauce",
     "videos": "[]"
 }

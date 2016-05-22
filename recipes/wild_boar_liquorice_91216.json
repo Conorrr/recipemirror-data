@@ -1,26 +1,35 @@
 {
-    "title": "Wild boar liquorice",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "overnight",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Fillets of wild boar are marinated in liquorice, bergamont and spices for a dinner with a difference.",
     "author": {
         "francesco_mazzei": "Francesco Mazzei"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Fillets of wild boar are marinated in liquorice, bergamont and spices for a dinner with a difference.",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "5g butter",
+            "10ml liquorice liqueur",
+            "50ml/2fl oz chicken stock"
+        ],
+        "For the turnip tops": [
+            "300g/10\u00bdoz turnip tops, washed",
+            "salt",
+            "50ml/2fl oz olive oil",
+            "1 garlic clove, finely chopped"
+        ],
         "For the wild boar liquorice": [
             "2 wild boar fillets, about 300g/10\u00bdoz each",
             "\u00bd orange, zest and juice only",
@@ -37,18 +46,13 @@
             "1 red chilli, finely chopped",
             "\u00bd tsp salt",
             "250ml/9fl oz olive oil"
-        ],
-        "For the turnip tops": [
-            "300g/10\u00bdoz turnip tops, washed",
-            "salt",
-            "50ml/2fl oz olive oil",
-            "1 garlic clove, finely chopped"
-        ],
-        "For the sauce": [
-            "5g butter",
-            "10ml liquorice liqueur",
-            "50ml/2fl oz chicken stock"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the wild boar liquorice, mix all the ingredients in a large bowl or container. Cover and marinate overnight in the refrigerator.",
@@ -59,8 +63,9 @@
         "For the sauce, remove the fat from the frying pan and add the butter. Once melted, add the liquorice liqueur and chicken stock. Simmer for a couple of minutes until hot and slightly thickened.",
         "To serve, divide the wild boar and turnip tops between two serving plates. Pour the sauce over."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Wild boar liquorice",
     "videos": "[]"
 }

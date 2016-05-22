@@ -1,24 +1,23 @@
 {
-    "title": "Soda bread",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 loaf",
-    "recommendations": "6",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/soda_bread_33805_16x9.jpg"
-    ],
-    "description": "Soda bread is a great recipe to try with kids. This version gets a healthy boost from linseeds and yoghurt.",
     "author": {
         "kate_morris_and_sally_brown": "Kate Morris and Sally Brown"
     },
-    "show": {
-        "b00w1ddl": "I Can Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Soda bread is a great recipe to try with kids. This version gets a healthy boost from linseeds and yoghurt.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "soda_bread",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/soda_bread_33805_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -32,6 +31,12 @@
             "175ml/6fl oz natural yoghurt"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Makes 1 loaf",
+    "show": {
+        "b00w1ddl": "I Can Cook"
+    },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7. Line a baking tray with greaseproof paper.",
         "Stir all of the ingredients, except the yoghurt, together in a bowl. Add most of the yoghurt and mix together to a soft dough. Add a little extra yoghurt if the dough is dry.",
@@ -39,8 +44,9 @@
         "Shape into round loaf and put on the baking tray. Flatten slightly with your hand then mark a deep X on the top using a knife. Make sure to cut almost all the way to the bottom of the dough, so that the middle of the bread cooks all the way through.",
         "Bake in the oven for 20-25 minutes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Soda bread",
     "videos": "[]"
 }

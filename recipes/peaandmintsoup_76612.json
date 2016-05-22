@@ -1,24 +1,22 @@
 {
-    "title": "Pea and mint soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,6 +30,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the oil in a saucepan and saut\u00e9 the onion and garlic for 2-3 minutes, to soften.",
         "Pour in the stock and bring to the boil. Add the mint and peas. Reduce the heat and simmer gently for 8-10 minutes.",
@@ -39,8 +43,9 @@
         "Return to the pan to warm through and add the cream, salt and freshly ground black pepper.",
         "Ladle into soup bowls to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pea and mint soup",
     "videos": "[]"
 }

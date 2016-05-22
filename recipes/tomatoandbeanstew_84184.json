@@ -1,24 +1,22 @@
 {
-    "title": "Tomato and bean stew",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "sauce",
+        "stew"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,13 +30,20 @@
             "1 tbsp chopped fresh parsley"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Melt the butter in a saucepan over a medium heat. Add the spring onions, and sau\u00e9 for one minute.",
         "Add the beans, tomatoes, garlic and sweetcorn, bring to the boil, and reduce then simmer for 5-6 minutes to reduce. Season, to taste, with salt and freshly ground black pepper.",
         "To serve, add the parsley to the stew and pour into a warmed bowl."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tomato and bean stew",
     "videos": "[]"
 }

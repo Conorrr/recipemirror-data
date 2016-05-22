@@ -1,26 +1,29 @@
 {
-    "title": "Dulce de leche brownies",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "13",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/dulce_de_leche_brownies_81814_16x9.jpg"
-    ],
-    "description": "Try a deliciously different recipe for brownies and swirl in dulce de leche for marbled decadence.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Try a deliciously different recipe for brownies and swirl in dulce de leche for marbled decadence.",
+    "dishes": [
+        "cake",
+        "chocolate_brownies",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/dulce_de_leche_brownies_81814_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "chocolate sauce",
+            "double cream"
+        ],
         "default": [
             "125g/4\u00bdoz condensed milk",
             "150g/5\u00bdoz dark chocolate",
@@ -29,11 +32,13 @@
             "3 free-range eggs",
             "200g/7oz caster sugar",
             "140g/5oz plain flour"
-        ],
-        "To serve": [
-            "chocolate sauce",
-            "double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "13",
+    "serves": "Serves 6-8",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "To make the dulche de leche, fill a saucepan with water and boil the tin of condensed milk for four hours. Take care to ensure the water does not boil down completely. Carefully remove the tin from the water and set aside to cool.",
@@ -44,8 +49,9 @@
         "Place the cake into the oven and bake for 30-40 minutes, or until cooked through. Test by pushing a skewer into the centre of the cake. If the skewer comes out clean, the cake is ready. Set aside to cool.",
         "Cut the cake into 7.5-10cm/3-4in squares and serve with chocolate sauce and cream."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Dulce de leche brownies",
     "videos": "[]"
 }

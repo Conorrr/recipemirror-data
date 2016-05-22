@@ -1,37 +1,27 @@
 {
-    "title": "Thai jungle curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Get all the ingredients cut and prepared for this authentic curry and then it\u2019s just a matter of mixing together the chilli paste and getting it all in the pan.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b03vp3tt": "The Hairy Bikers' Asian Adventure"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "Get all the ingredients cut and prepared for this authentic curry and then it\u2019s just a matter of mixing together the chilli paste and getting it all in the pan.",
+    "dishes": [
+        "curry",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the jungle curry paste": [
-            "6 Thai shallots, finely chopped",
-            "3 large garlic cloves, finely chopped",
-            "thumb-sized piece galangal, coarsely grated",
-            "5 Thai green chillies, finely chopped",
-            "12cm/5in stalk lemongrass, outer leaves removed and white part thinly sliced",
-            "6 coriander roots, washed and chopped",
-            "\u00bd tsp shrimp paste",
-            "3 kaffir lime leaves, finely chopped",
-            "1 tsp white peppercorns, crushed"
-        ],
         "For the curry": [
             "3 tbsp vegetable oil",
             "500g/1lb 2oz pork tenderloin, chopped",
@@ -48,7 +38,24 @@
             "7 Chinese long beans, cut into 2.5cm/1in slices, alternatively use French beans",
             "1 large handful holy basil, torn",
             "steamed or boiled rice, to serve"
+        ],
+        "For the jungle curry paste": [
+            "6 Thai shallots, finely chopped",
+            "3 large garlic cloves, finely chopped",
+            "thumb-sized piece galangal, coarsely grated",
+            "5 Thai green chillies, finely chopped",
+            "12cm/5in stalk lemongrass, outer leaves removed and white part thinly sliced",
+            "6 coriander roots, washed and chopped",
+            "\u00bd tsp shrimp paste",
+            "3 kaffir lime leaves, finely chopped",
+            "1 tsp white peppercorns, crushed"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b03vp3tt": "The Hairy Bikers' Asian Adventure"
     },
     "steps": [
         "For the paste, either place all the ingredients in a small blender with two tablespoons of water and blend, or finely chop and grind in a pestle and mortar.",
@@ -58,8 +65,9 @@
         "Cook for a further 10 minutes, or until the butternut squash and green aubergines are just about cooked.",
         "Finally add the chopped long beans and simmer for four minutes. Stir through the holy basil just before serving. Serve with steamed or boiled rice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Thai jungle curry",
     "videos": "[p01sgwgh:p01sgwgt]"
 }

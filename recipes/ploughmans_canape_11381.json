@@ -1,31 +1,29 @@
 {
-    "title": "Ploughman's canap\u00e9",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 12",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Make the pastry cases ahead of time and use everyday ingredients to create a tasty party nibble in minutes.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b018nq5b": "The Hairy Bikers' Christmas Party"
-    },
-    "tips": [
-        "Once cool, the pastry cases can be stored in an airtight container for up to three days."
+    "cookTime": "10 to 30 mins",
+    "description": "Make the pastry cases ahead of time and use everyday ingredients to create a tasty party nibble in minutes.",
+    "dishes": [
+        "bread",
+        "canape",
+        "chutney",
+        "mayonnaise",
+        "oven-baked_dishes",
+        "pastry",
+        "pickle",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "150g/5\u00bdoz plain flour",
-            "100g/3\u00bdoz cold butter, cut into cubes",
-            "1 free-range egg, beaten"
-        ],
         "For the filling": [
             "1 apple, cored, thinly sliced",
             "2 tsp lemon juice",
@@ -36,7 +34,18 @@
             "6 cherry tomatoes, halved",
             "4 tbsp pickle or chutney",
             "chopped celery leaves to garnish"
+        ],
+        "For the pastry": [
+            "150g/5\u00bdoz plain flour",
+            "100g/3\u00bdoz cold butter, cut into cubes",
+            "1 free-range egg, beaten"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "3",
+    "serves": "Makes 12",
+    "show": {
+        "b018nq5b": "The Hairy Bikers' Christmas Party"
     },
     "steps": [
         "For the pastry pulse the flour and butter in a food processor until the mixture resembles fine breadcrumbs. With the motor running, add the beaten egg and blend until the mixture starts to come together in a ball. Shape the dough into a ball and flatten slightly.",
@@ -49,8 +58,9 @@
         "Spoon a little mayonnaise into each pastry case and arrange small pieces of apple, cheese, celery, spring onion and tomato on top.",
         "Add half a teaspoon of pickle or chutney and garnish with a few celery leaves."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Once cool, the pastry cases can be stored in an airtight container for up to three days."
     ],
+    "title": "Ploughman's canap\u00e9",
     "videos": "[]"
 }

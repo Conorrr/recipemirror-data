@@ -1,24 +1,23 @@
 {
-    "title": "Courgette and potato soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,13 +31,20 @@
             "handful each fresh chives and parsley, chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Heat the butter in a small saucepan, add the courgette, garlic and onion and fry over a gentle heat for four minutes.",
         "Add the potato and stock, season, to taste, with salt and freshly ground black pepper and bring to the boil. Simmer for ten minutes, or until the potato is tender.",
         "Stir in the herbs, pour into a bowl and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Courgette and potato soup",
     "videos": "[]"
 }

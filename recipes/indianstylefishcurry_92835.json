@@ -1,26 +1,29 @@
 {
-    "title": "Indian-style fish curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "9",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "curry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "basmati rice, cooked according to packet instructions",
+            "handful fresh coriander leaves"
+        ],
         "default": [
             "1 tsp fine sea salt",
             "1 tsp ground turmeric",
@@ -36,11 +39,13 @@
             "1 tsp garam masala",
             "200g/7oz creamed coconut, grated",
             "1-2 tbsp water (as necessary)"
-        ],
-        "To serve": [
-            "basmati rice, cooked according to packet instructions",
-            "handful fresh coriander leaves"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "9",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Sprinkle the salt and ground turmeric onto a plate. Dredge the pieces of fish in the mixture until completely coated.",
@@ -52,8 +57,9 @@
         "Add the fried fish pieces to the sauce and cook until heated through.",
         "To serve, spoon the rice onto four serving plates. Spoon the fish curry on top of the rice, then garnish with the coriander."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Indian-style fish curry",
     "videos": "[]"
 }

@@ -1,24 +1,25 @@
 {
-    "title": "Pain au lait",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Makes 12 buns",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This sweet, buttery bun is really quite simple and looks gorgeous dotted with nibbed sugar.",
     "author": {
         "richard": "Richard Burr"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "French",
+    "description": "This sweet, buttery bun is really quite simple and looks gorgeous dotted with nibbed sugar.",
+    "dishes": [
+        "bread",
+        "bun",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,6 +34,12 @@
             "nibbed sugar (pearl sugar), for sprinkling"
         ]
     },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Makes 12 buns",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
+    },
     "steps": [
         "In a small bowl, mix the milk and yeast together, and set aside for five minutes.",
         "In a large bowl, mix the flours, sugar and salt until thoroughly combined.",
@@ -45,8 +52,9 @@
         "Cover the dough with cling film and allow to rise for 30 minutes.",
         "Brush each of the buns with egg and, using scissors, snip a zig-zag shape onto the top. Sprinkle with nibbed sugar and bake for 10-12 minutes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pain au lait",
     "videos": "[]"
 }

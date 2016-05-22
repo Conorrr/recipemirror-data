@@ -1,24 +1,26 @@
 {
-    "title": "Pizza dough base",
-    "cookTime": "no cooking required",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 6 x 8 inch pizza bases",
-    "recommendations": "99",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pizzadoughbase_70980_16x9.jpg"
-    ],
-    "description": "Make your own pizza with this authentic Italian recipe - it uses '00' flour to give the base a lighter, crisper texture.",
     "author": {
         "silvana_franco": "Silvana Franco"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        "You can freeze the dough after step 3. Divide into 6 balls and wrap each one in cling film. Defrost overnight in the fridge before proceeding with the recipe."
+    "cookTime": "no cooking required",
+    "cusine": "Italian",
+    "description": "Make your own pizza with this authentic Italian recipe - it uses '00' flour to give the base a lighter, crisper texture.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pizza",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading",
+        "how_to_shape_pizza_dough",
+        "knocking_back"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pizzadoughbase_70980_16x9.jpg"
     ],
     "ingredients": {
         "For the dough": [
@@ -30,6 +32,12 @@
             "325ml/11fl oz warm water"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "99",
+    "serves": "Makes 6 x 8 inch pizza bases",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Make the dough: mix the flour, yeast and salt together in a large mixing bowl and stir in the olive oil and milk. Gradually add the water, mixing well to form a soft dough.",
         "Turn the dough out on to a floured work surface and knead for about five minutes, until smooth and elastic. Transfer to a clean bowl, cover with a damp tea towel and leave to rise for about 1\u00bd hours, until doubled in size.",
@@ -39,10 +47,9 @@
         "Spread a little passata (or homemade tomato sauce) over each pizza base and top with your favourite toppings.",
         "Bake the pizzas in the oven until the bases are crisp and golden-brown around the edges and any cheese on the topping has melted."
     ],
-    "howTos": [
-        "kneading",
-        "how_to_shape_pizza_dough",
-        "knocking_back"
+    "tips": [
+        "You can freeze the dough after step 3. Divide into 6 balls and wrap each one in cling film. Defrost overnight in the fridge before proceeding with the recipe."
     ],
+    "title": "Pizza dough base",
     "videos": "[]"
 }

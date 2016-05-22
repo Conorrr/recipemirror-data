@@ -1,26 +1,33 @@
 {
-    "title": "Lemon drizzle cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 12",
-    "recommendations": "136",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemon_cake_29430_16x9.jpg"
-    ],
-    "description": "This lemon drizzle loaf cake is a French teatime favourite that Raymond Blanc has served at his restaurant for the past 25 years. Equipment and preparation: You will need a 26cm x 9cm x 8cm/10in x 3\u00bdin x 3in loaf tin.",
     "author": {
         "raymond_blanc": "Raymond Blanc"
     },
-    "show": {
-        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
-    },
-    "tips": [
-        "The cake can be made one day in advance as the glaze will prevent it from drying out. You can substitute lemon with other citrus fruits \u2013 try orange or grapefruit, and use marmalade or lemon curd in place of the apricot jam. Add texture to the cake by adding raisins, sultanas, currants or chocolate chips. You could also sprinkle the cake with a little rum (or orange-flavoured liqueur if you have used orange in the mixture) when you take it out of the oven to make it more moist."
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "French",
+    "description": "This lemon drizzle loaf cake is a French teatime favourite that Raymond Blanc has served at his restaurant for the past 25 years. Equipment and preparation: You will need a 26cm x 9cm x 8cm/10in x 3\u00bdin x 3in loaf tin.",
+    "dishes": [
+        "cake",
+        "chips",
+        "icing",
+        "jam",
+        "lemon_cake",
+        "marmalade",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "greasing_and_lining"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemon_cake_29430_16x9.jpg"
+    ],
     "ingredients": {
+        "For the apricot jam glaze": [
+            "3 tbsp apricot jam, warmed in a small saucepan"
+        ],
         "For the cake": [
             "5 free-range eggs",
             "300g/11oz caster sugar",
@@ -32,13 +39,16 @@
             "240g/8\u00bdoz plain flour",
             "\u00bd tsp baking powder"
         ],
-        "For the apricot jam glaze": [
-            "3 tbsp apricot jam, warmed in a small saucepan"
-        ],
         "For the lemon glaze": [
             "1 lemon, zest and juice",
             "150g/5oz icing sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "136",
+    "serves": "Serves 12",
+    "show": {
+        "b00yk23k": "Raymond Blanc's Kitchen Secrets"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -54,8 +64,9 @@
         "Place the glazed cake in the oven on a baking tray, turn off the heat and leave for 3-5 minutes to dry the glaze and turn it translucent.",
         "Remove the cake from the oven and leave to cool to room temperature before serving."
     ],
-    "howTos": [
-        "greasing_and_lining"
+    "tips": [
+        "The cake can be made one day in advance as the glaze will prevent it from drying out. You can substitute lemon with other citrus fruits \u2013 try orange or grapefruit, and use marmalade or lemon curd in place of the apricot jam. Add texture to the cake by adding raisins, sultanas, currants or chocolate chips. You could also sprinkle the cake with a little rum (or orange-flavoured liqueur if you have used orange in the mixture) when you take it out of the oven to make it more moist."
     ],
+    "title": "Lemon drizzle cake",
     "videos": "[]"
 }

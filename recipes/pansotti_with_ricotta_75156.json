@@ -1,36 +1,36 @@
 {
-    "title": "Pansotti with ricotta and fennel and walnut sauce",
-    "cookTime": "less than 10 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "These beautiful filled pasta half moons can be made ahead and kept in the refrigerator for up to two days.",
     "author": {
         "theo_randall": "Theo Randall"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        "You will only need half the quantity of pasta dough, however, it will keep in the fridge for a couple of days."
+    "cookTime": "less than 10 mins",
+    "cusine": "Italian",
+    "description": "These beautiful filled pasta half moons can be made ahead and kept in the refrigerator for up to two days.",
+    "dishes": [
+        "pasta",
+        "pastry",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "rolling_pasta_dough"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pansotti filling": [
+            "200g/7oz ricotta (preferably sheep\u2019s milk ricotta)",
+            "2 tbsp chopped feathery fennel tops",
+            "sea salt and freshly ground black pepper"
+        ],
         "For the pasta dough": [
             "250g/9oz plain \u201800\u2019 flour",
             "50g/2oz fine semolina, plus extra for dusting",
             "2 large free-range eggs (preferably organic)",
             "3 large free-range egg yolks (preferably organic)"
-        ],
-        "For the pansotti filling": [
-            "200g/7oz ricotta (preferably sheep\u2019s milk ricotta)",
-            "2 tbsp chopped feathery fennel tops",
-            "sea salt and freshly ground black pepper"
         ],
         "For the walnut sauce": [
             "\u00bd garlic clove",
@@ -42,6 +42,12 @@
             "1 tbsp chopped parsley",
             "50g/2oz unsalted butter"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the pasta, place the flour and eggs and egg yolks into a food processor and process for one minute until the dough comes together.",
@@ -58,8 +64,9 @@
         "Meanwhile, melt the butter in a large frying pan. Drain the pasta, add to the frying pan and mix to coat in the butter.",
         "Add a generous spoonful of the walnut sauce and stir the pasta to coat. Add a good grinding of black pepper and serve, with extra walnut sauce if desired."
     ],
-    "howTos": [
-        "rolling_pasta_dough"
+    "tips": [
+        "You will only need half the quantity of pasta dough, however, it will keep in the fridge for a couple of days."
     ],
+    "title": "Pansotti with ricotta and fennel and walnut sauce",
     "videos": "[]"
 }

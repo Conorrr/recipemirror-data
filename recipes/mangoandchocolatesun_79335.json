@@ -1,24 +1,21 @@
 {
-    "title": "Mango and chocolate sundae",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ross_burden": "Ross Burden"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,13 +25,20 @@
             "sprig of mint, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place a bowl over a saucepan of simmering water. Add the chocolate and cream and stir until melted.",
         "Pour half of the chocolate sauce into a glass. Place some of the mango into the glass and top with the rest of the mixture.",
         "Decorate with a sprig of mint and place into the fridge to set for 15 minutes before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mango and chocolate sundae",
     "videos": "[]"
 }

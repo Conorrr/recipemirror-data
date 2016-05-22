@@ -1,35 +1,25 @@
 {
-    "title": "Roasted seabass with Italian salsa",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "salsa",
+        "stuffing"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 fresh whole un-cleaned seabass",
-            "6 unwaxed lemons",
-            "4 tbsp flatleaf parsley",
-            "8 tbsp Italian extra virgin olive oil",
-            "5 tbsp dry white wine",
-            "8 tinned anchovy fillets, chopped",
-            "salt and freshly ground black pepper"
-        ],
         "For the salsa": [
             "a few cherry tomatoes, chopped",
             "small red onion, chopped",
@@ -38,7 +28,22 @@
             "roasted artichoke in olive oil, chopped",
             "handful black olives, chopped",
             "basil vinaigrette (made by blending fresh basil leaves, olive oil and vinegar)"
+        ],
+        "default": [
+            "4 fresh whole un-cleaned seabass",
+            "6 unwaxed lemons",
+            "4 tbsp flatleaf parsley",
+            "8 tbsp Italian extra virgin olive oil",
+            "5 tbsp dry white wine",
+            "8 tinned anchovy fillets, chopped",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Ask your fishmonger to de-bone the seabass, but to leave them whole (or do it yourself).",
@@ -51,8 +56,9 @@
         "Place the fish onto a serving plate and re-stuff with the salsa.",
         "Serve immediately with a glass of Italian dry white wine, if you like."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roasted seabass with Italian salsa",
     "videos": "[]"
 }

@@ -1,39 +1,28 @@
 {
-    "title": "Kofta hara masala (Indian meatballs in a green sauce)",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "reza_mahammad": "Reza Mahammad"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "bun",
+        "lamb_kofta",
+        "meatballs",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the koftas": [
-            "500g/1 lb minced lamb",
-            "2 or 3 spring onions, finely chopped",
-            "2 green chillies, finely chopped",
-            "1 tbsp fresh coriander, chopped",
-            "1 tsp ground allspice",
-            "1 tsp ground cinnamon",
-            "1 tsp garam masala",
-            "1 tsp freshly ground black pepper",
-            "1 tsp garlic paste",
-            "1 tsp ginger paste",
-            "salt to taste"
-        ],
         "For the green sauce": [
             "75ml/2\u00bdfl oz vegetable oil",
             "2 large onions, finely sliced",
@@ -52,11 +41,18 @@
             "salt to taste",
             "800ml/2 pints hot water"
         ],
-        "To garnish": [
-            "handful toasted flaked almonds",
-            "1 tbsp fried onions (reserved from onions fried for green sauce)",
-            "2 tbsp single cream",
-            "1 tbsp freshly chopped mint"
+        "For the koftas": [
+            "500g/1 lb minced lamb",
+            "2 or 3 spring onions, finely chopped",
+            "2 green chillies, finely chopped",
+            "1 tbsp fresh coriander, chopped",
+            "1 tsp ground allspice",
+            "1 tsp ground cinnamon",
+            "1 tsp garam masala",
+            "1 tsp freshly ground black pepper",
+            "1 tsp garlic paste",
+            "1 tsp ginger paste",
+            "salt to taste"
         ],
         "For the lemon and ginger rice": [
             "400g/14oz basmati rice",
@@ -66,7 +62,19 @@
             "1 tsp ghee (clarified butter)",
             "800ml/1 pint 9fl oz water",
             "pinch turmeric"
+        ],
+        "To garnish": [
+            "handful toasted flaked almonds",
+            "1 tbsp fried onions (reserved from onions fried for green sauce)",
+            "2 tbsp single cream",
+            "1 tbsp freshly chopped mint"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "To make the koftas, mix all the kofta ingredients together in a mixing bowl and combine thoroughly.",
@@ -82,8 +90,9 @@
         "After 10 minutes remove from heat.",
         "To serve, garnish the koftas with the reserved fried onions, toasted flaked almonds, cream and fresh mint and serve with the lemon and ginger rice."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Kofta hara masala (Indian meatballs in a green sauce)",
     "videos": "[]"
 }

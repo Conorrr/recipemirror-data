@@ -1,24 +1,22 @@
 {
-    "title": "Chocolate coated fruits",
-    "cookTime": "less than 10 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 8",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "p0077j91": "Fresh Food"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,6 +26,12 @@
             "200g/7oz block of quality dark chocolate (70% cocoa solids if possible), broken into pieces"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "1",
+    "serves": "Serves 8",
+    "show": {
+        "p0077j91": "Fresh Food"
+    },
     "steps": [
         "Line a baking sheet or tray with greaseproof paper.",
         "Heat some water to boiling point in a saucepan.",
@@ -36,8 +40,9 @@
         "Hold onto these papery skins and onto the stalks of the fruit, and dip each piece of fruit into the melted chocolate. Place them on the greaseproof paper and leave to set in a cool place for 2 hours.",
         "Serve with after-dinner coffee."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chocolate coated fruits",
     "videos": "[]"
 }

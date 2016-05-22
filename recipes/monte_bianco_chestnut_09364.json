@@ -1,31 +1,64 @@
 {
-    "title": "Monte Bianco: chestnut, chocolate and coffee dacquoise",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 8",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "A spectacular cake with layers of chestnut and coffee mousses sandwiched with almond meringue, topped with hazelnut meringues, chocolate shards and praline. Equipment and preparation: You will need a 20cm/8in wide ring mould, at least 8cm deep, a chocolate transfer sheet (or plain acetate sheet) and a chef\u2019s blowtorch.",
     "author": {
         "danny_bryden": "Danny Bryden"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "French",
+    "description": "A spectacular cake with layers of chestnut and coffee mousses sandwiched with almond meringue, topped with hazelnut meringues, chocolate shards and praline. Equipment and preparation: You will need a 20cm/8in wide ring mould, at least 8cm deep, a chocolate transfer sheet (or plain acetate sheet) and a chef\u2019s blowtorch.",
+    "dishes": [
+        "cake",
+        "caramel",
+        "crumble",
+        "custard",
+        "icing",
+        "meringue",
+        "mousse",
+        "oven-baked_dishes",
+        "pie",
+        "praline",
+        "sandwich",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the brown sugar and hazelnut meringues": [
+            "2 free-range eggs, whites only",
+            "pinch cream of tartar",
+            "120g/4\u00bdoz light brown sugar",
+            "50g/2oz hazelnuts, finely chopped",
+            "\u00bd tsp cornflour"
+        ],
+        "For the chestnut glaze": [
+            "30g/1\u00bcoz caster sugar",
+            "5g leaf gelatine, soaked in cold water for five minutes",
+            "120g/4\u00bdoz chestnut spread"
+        ],
         "For the chestnut mousse (you will not need all the mousse)": [
             "500g/1lb 2 oz tin sweetened chestnut pur\u00e9e",
             "7g leaf gelatine, soaked in cold water for five minutes",
             "30ml/1fl oz dark rum",
             "300ml/10fl oz double cream"
+        ],
+        "For the chocolate decoration": [
+            "250g/9oz dark chocolate, chopped",
+            "chocolate transfer sheets (optional)"
+        ],
+        "For the chocolate mousse (you will not need all the chocolate mousse)": [
+            "200g/7oz dark chocolate bittersweet (around 70% cocoa solids), chopped",
+            "100ml/3\u00bdfl oz milk",
+            "2 free-range eggs, yolks only",
+            "20g/\u00beoz caster sugar",
+            "360ml/12fl oz whipping cream",
+            "30ml/1fl oz hazelnut liqueur"
         ],
         "For the coffee mousseline cream (you will not need all the mousseline cream)": [
             "6 free-range eggs, 4 whole, 2 yolks only",
@@ -46,35 +79,17 @@
             "20g/\u00beoz plain flour, sifted",
             "40g/1\u00bdoz hazelnuts, finely chopped"
         ],
-        "For the brown sugar and hazelnut meringues": [
-            "2 free-range eggs, whites only",
-            "pinch cream of tartar",
-            "120g/4\u00bdoz light brown sugar",
-            "50g/2oz hazelnuts, finely chopped",
-            "\u00bd tsp cornflour"
-        ],
-        "For the chestnut glaze": [
-            "30g/1\u00bcoz caster sugar",
-            "5g leaf gelatine, soaked in cold water for five minutes",
-            "120g/4\u00bdoz chestnut spread"
-        ],
-        "For the chocolate decoration": [
-            "250g/9oz dark chocolate, chopped",
-            "chocolate transfer sheets (optional)"
-        ],
         "For the praline": [
             "75g/2\u00bdoz hazelnuts",
             "75g/2\u00bdoz almonds",
             "125g/4\u00bdoz caster sugar"
-        ],
-        "For the chocolate mousse (you will not need all the chocolate mousse)": [
-            "200g/7oz dark chocolate bittersweet (around 70% cocoa solids), chopped",
-            "100ml/3\u00bdfl oz milk",
-            "2 free-range eggs, yolks only",
-            "20g/\u00beoz caster sugar",
-            "360ml/12fl oz whipping cream",
-            "30ml/1fl oz hazelnut liqueur"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "2",
+    "serves": "Serves 8",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the chestnut mousse, heat the chestnut pur\u00e9e and four tablespoons of water in a pan and bring to a simmer. Drain the gelatine leaves and squeeze out any excess water, then stir into the chestnut mixture until dissolved.",
@@ -101,8 +116,9 @@
         "To assemble the dacquoise, place the ring mould onto the presentation plate, to use as a guide. Place one circle of meringue into the cake ring and cover with a 2cm/in layer of chocolate mousse. Reserve any leftover mousse for patching up when the ring is removed. Place a second meringue layer on the top and chill in the fridge for 20 minutes. Remove from the fridge and spread over a 2cm/1in layer of coffee mousseline cream onto the meringue to a similar depth, cover with a third meringue layer and chill again for 20 minutes. Remove from the fridge and spread over a 2cm/1in layer of chestnut mousse. Top with the final meringue layer, but inverted so the surface is flat. Reserve any leftover mousse to smooth out any imperfections when the ring is removed.",
         "If the chestnut glaze has set, warm it gently in a saucepan to a pouring consistency. Spoon the chestnut glaze over the top to just cover and then chill in the fridge until just before serving. To release the ring mould, run a lighted blowtorch around the outside of the mould. Gently ease the ring mould off, patch any holes and chill again. Decorate with the chocolate triangles around the sides, brown sugar and hazelnut meringues piled in the centre and chocolate curls and praline around the edges."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Monte Bianco: chestnut, chocolate and coffee dacquoise",
     "videos": "[]"
 }

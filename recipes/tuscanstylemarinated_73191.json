@@ -1,36 +1,24 @@
 {
-    "title": "Tuscan-style marinated chicken breasts",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gennaro_contaldo": "Gennaro Contaldo"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "4 chicken breasts",
-            "1.5 litres/52\u00befl oz of white wine",
-            "250ml/8\u00befl oz cider vinegar",
-            "1.5 litres/52\u00befl oz of water",
-            "4 tbsp sultanas",
-            "2 tbsp pine kernels",
-            "1 lemon, zest only, cut into strips",
-            "1 tsp salt"
-        ],
         "For the marinade": [
             "\u00bd litre/17\u00bdfl oz olive oil",
             "10 tbsp balsamic vinegar",
@@ -40,7 +28,23 @@
         ],
         "To serve": [
             "green salad"
+        ],
+        "default": [
+            "4 chicken breasts",
+            "1.5 litres/52\u00befl oz of white wine",
+            "250ml/8\u00befl oz cider vinegar",
+            "1.5 litres/52\u00befl oz of water",
+            "4 tbsp sultanas",
+            "2 tbsp pine kernels",
+            "1 lemon, zest only, cut into strips",
+            "1 tsp salt"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "To make the marinade, place all the marinade ingredients in a large bowl and set aside.",
@@ -50,8 +54,9 @@
         "Leave in a fridge to marinate for 12 hours, then remove the chicken breasts, lemon, sultanas and pine kernels.",
         "Slice the chicken and serve with a tossed green salad which has been garnished with the lemon, sultanas and pine kernels."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Tuscan-style marinated chicken breasts",
     "videos": "[]"
 }

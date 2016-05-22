@@ -1,24 +1,24 @@
 {
-    "title": "Chocolate banana cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8-10",
-    "recommendations": "47",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_banana_cake_06955_16x9.jpg"
-    ],
-    "description": "Adding chocolate to a classic banana bread recipe will make it a firm family favourite.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Adding chocolate to a classic banana bread recipe will make it a firm family favourite.",
+    "dishes": [
+        "banana_bread",
+        "bread",
+        "cake",
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chocolate_banana_cake_06955_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,6 +35,12 @@
             "50g/2oz toasted chopped hazelnuts"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "47",
+    "serves": "Serves 8-10",
+    "show": {
+        
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease and line a loaf tin.",
         "Sift the plain flour, cocoa powder, baking powder, bicarbonate of soda, salt and sugar into a large bowl and mix until well combined.",
@@ -42,8 +48,9 @@
         "Fold the banana mixture into the flour mixture until just combined. Fold in the chocolate and nuts and spoon the mixture into the loaf tin.",
         "Bake for 50-60 minutes, or until the cake is risen and a skewer inserted in the centre comes out clean. Remove the cake from the oven, cool on a wire rack for 10 minutes, then remove the cake from the tin. Serve in slices."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chocolate banana cake",
     "videos": "[]"
 }

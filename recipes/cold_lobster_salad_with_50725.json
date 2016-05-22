@@ -1,26 +1,30 @@
 {
-    "title": "Cold lobster salad with tarragon vinaigrette",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "An easy way to cook with lobster - perfect for beginners who want to indulge in a little luxury.",
     "author": {
         "john_burton_race": "John Burton Race"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        "The lobster cream and vinaigrette can be made up to a day ahead."
+    "cookTime": "1 to 2 hours",
+    "description": "An easy way to cook with lobster - perfect for beginners who want to indulge in a little luxury.",
+    "dishes": [
+        "salad",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "picking_lobster"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the salad": [
+            "8 cooked new potatoes, cooled and peeled",
+            "4 Baby Gem leaves",
+            "a mix of cress or micro leaves",
+            "2 tomatoes, peeled and seeds removed, diced"
+        ],
         "default": [
             "1 tsp Dijon mustard",
             "1 lemon, juice only",
@@ -36,13 +40,13 @@
             "150ml/5fl oz white wine",
             "300ml/10fl oz chicken stock or water",
             "200ml/7fl oz cream"
-        ],
-        "For the salad": [
-            "8 cooked new potatoes, cooled and peeled",
-            "4 Baby Gem leaves",
-            "a mix of cress or micro leaves",
-            "2 tomatoes, peeled and seeds removed, diced"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "To make the vinaigrette, whisk the mustard and lemon juice in a bowl. Gradually whisk in 6 tablespoons of the olive oil. Add the tarragon and garlic clove and leave to infuse. Season, to taste, with salt and freshly ground black pepper.",
@@ -53,8 +57,9 @@
         "Slice the new potatoes into thin rounds. Arrange the rounds in a chefs\u2019 ring onto each serving plate to create a circular base. Remove the chefs\u2019 ring.",
         "Place a Baby Gem leaf onto the potatoes. Lightly dress the lobster meat with a little of the tarragon vinaigrette, then spoon into the Baby Gem. Place a small handful of mixed cress on top of the lobster. Place the diced tomato around the edge of the plate then dress with a little of the cold lobster cream."
     ],
-    "howTos": [
-        "picking_lobster"
+    "tips": [
+        "The lobster cream and vinaigrette can be made up to a day ahead."
     ],
+    "title": "Cold lobster salad with tarragon vinaigrette",
     "videos": "[]"
 }

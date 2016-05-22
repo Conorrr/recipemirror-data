@@ -1,24 +1,28 @@
 {
-    "title": "Hearty party hotpot",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "38",
-    "images": [
-        
-    ],
-    "description": "This delicious casserole was inspired by Mr Slater Senior who used to cook a similar version every Christmas. This one\u2019s full of winter veg and mushrooms, but it\u2019s equally as tasty with a few bits of turkey or ham thrown in too. Each serving provides 268kcal, 6g protein, 38g carbohydrate (of which 18g sugars), 7g fat (of which 3g saturates), 10g fibre and 1.2g salt.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b01s72gt": "Nigel Slater's Simple Cooking"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This delicious casserole was inspired by Mr Slater Senior who used to cook a similar version every Christmas. This one\u2019s full of winter veg and mushrooms, but it\u2019s equally as tasty with a few bits of turkey or ham thrown in too. Each serving provides 268kcal, 6g protein, 38g carbohydrate (of which 18g sugars), 7g fat (of which 3g saturates), 10g fibre and 1.2g salt.",
+    "dishes": [
+        "casserole",
+        "ham",
+        "hotpot",
+        "jelly",
+        "sauce",
+        "stew",
+        "stir-fries",
+        "stock",
+        "veggie_stew"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -43,6 +47,12 @@
             "1 pomegranate, seeds only, white pith removed"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "38",
+    "serves": "Serves 4",
+    "show": {
+        "b01s72gt": "Nigel Slater's Simple Cooking"
+    },
     "steps": [
         "Roughly chop the onions and slowly soften in a casserole with a little butter. Meanwhile pick a sprig of rosemary into a mortar and pestle with a pinch of salt and the juniper berries. Give them a good bashing then add to the onions.",
         "Now chop the carrot, swede and parsnip into hearty sized chunks, they are going to be the body of the stew, and add to the onions.",
@@ -50,8 +60,9 @@
         "Quarter the chestnut mushrooms; then add them to the pot along with a handful of dried porcini. This will give the stew a woody depth. Now for the finishing touches to the sauce add a spoonful of wholegrain mustard and redcurrant jelly, and let simmer for a further 20 minutes.",
         "Finally serve with a scattering of pomegranate seeds over each helping."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Hearty party hotpot",
     "videos": "[p00mrg57:p00mrg59]"
 }

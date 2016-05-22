@@ -1,34 +1,28 @@
 {
-    "title": "Classic pasty with green salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Makes 4 pasties",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Cornish pasties need a special pastry that can hold its shape for all that lovely, hearty filling.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Cornish pasties need a special pastry that can hold its shape for all that lovely, hearty filling.",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "pasty",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "125g/4\u00bdoz lard",
-            "25g/1oz butter",
-            "500g/1lb 2oz strong bread flour",
-            "1 tsp salt",
-            "175g/6oz cold water",
-            "1 free-range egg, lightly beaten"
-        ],
         "For the filling": [
             "450/1lb good quality beef, such as skirt",
             "450g/1lb potato",
@@ -36,6 +30,14 @@
             "200g/7oz onion",
             "salt and freshly ground black pepper to taste",
             "40g/1\u00bdoz clotted cream or butter (optional)"
+        ],
+        "For the pastry": [
+            "125g/4\u00bdoz lard",
+            "25g/1oz butter",
+            "500g/1lb 2oz strong bread flour",
+            "1 tsp salt",
+            "175g/6oz cold water",
+            "1 free-range egg, lightly beaten"
         ],
         "For the salad": [
             "2 heads little gem, leaves separated",
@@ -47,6 +49,12 @@
             "3 tbsp olive oil",
             "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "5",
+    "serves": "Makes 4 pasties",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the pastry, rub the lard, butter and salt lightly into the flour until it resembles breadcrumbs.",
@@ -63,8 +71,9 @@
         "Toss the salad leaves with the dressing.",
         "Serve the pasty with a pile of salad alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Classic pasty with green salad",
     "videos": "[]"
 }

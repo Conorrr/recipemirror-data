@@ -1,26 +1,31 @@
 {
-    "title": "Koli ishtew (chicken stew)",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "27",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/koliishtewchickenste_87479_16x9.jpg"
-    ],
-    "description": "This delicious spicy chicken dish is packed with fresh Indian flavours such as mace, curry leaves and other spices.",
     "author": {
         "atul_kochhar": "Atul Kochhar"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "This delicious spicy chicken dish is packed with fresh Indian flavours such as mace, curry leaves and other spices.",
+    "dishes": [
+        "chicken_curry",
+        "curry",
+        "pie",
+        "stew"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/koliishtewchickenste_87479_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "steamed rice",
+            "chopped celery leaves",
+            "shiso cress (or punnet cress if unavailable)"
+        ],
         "default": [
             "3 tbsp vegetable oil",
             "2 boneless chicken breast, cut into four pieces, dusted with little flour, salt, freshly ground black pepper and ground cinnamon",
@@ -40,12 +45,13 @@
             "\u00bc tsp ground cinnamon",
             "400ml/14fl oz coconut milk",
             "10-12 baby plum or cherry tomatoes"
-        ],
-        "To serve": [
-            "steamed rice",
-            "chopped celery leaves",
-            "shiso cress (or punnet cress if unavailable)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "27",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Heat one tablespoon of the vegetable oil in a large pan over a low heat. When the oil is hot, add the chicken breast pieces and fry gently, but do not allow to colour. When the chicken pieces are almost cooked through, remove from the pan and set aside until required.",
@@ -56,8 +62,9 @@
         "Add the cooked chicken pieces and the tomatoes and simmer for 3-4 minutes, or until the chicken is completely cooked through (no pink should remain when the chicken is cut into).",
         "To serve, place a spoonful of steamed rice onto each plate and then place a spoonful of the chicken stew alongside. Garnish with celery and shisho cress."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Koli ishtew (chicken stew)",
     "videos": "[]"
 }

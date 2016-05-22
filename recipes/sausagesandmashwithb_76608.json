@@ -1,26 +1,30 @@
 {
-    "title": "Sausages and mash with blackberry sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "sausage",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the sauce": [
+            "55g/2oz blackberries",
+            "140ml/5fl oz red wine",
+            "30ml/1fl oz beef or vegetable stock"
+        ],
         "default": [
             "1 large potato, peeled and chopped",
             "1 tbsp chopped chives",
@@ -28,12 +32,13 @@
             "4 tbsp double cream",
             "2 tbsp unsalted butter",
             "2 venison sausages"
-        ],
-        "For the sauce": [
-            "55g/2oz blackberries",
-            "140ml/5fl oz red wine",
-            "30ml/1fl oz beef or vegetable stock"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Bring a pan of salted water to the boil. Cook the potato for 8-10 minutes or until tender.",
@@ -42,8 +47,9 @@
         "For the sauce, blend the blackberries, red wine and stock in a mini-food processor until smooth. Transfer to a pan and reduce until thickened.",
         "To serve, transfer the sausages and mash to a serving plate. Drizzle the sauce over to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sausages and mash with blackberry sauce",
     "videos": "[]"
 }

@@ -1,26 +1,32 @@
 {
-    "title": "How to make fish fingers",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Home-made fish fingers have more fish, more flavour and more crunch than shop bought. Well worth the extra effort.",
     "author": {
         "mitch_tonks": "Mitch Tonks"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Home-made fish fingers have more fish, more flavour and more crunch than shop bought. Well worth the extra effort.",
+    "dishes": [
+        "bread",
+        "mayonnaise",
+        "oven-baked_dishes",
+        "pie",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the quick tartare sauce": [
+            "100g/3\u00bdoz mayonnaise",
+            "3 gherkins, finely chopped",
+            "50g/2oz capers",
+            "1 tbsp finely chopped parsley"
+        ],
         "default": [
             "500g/1lb 2oz sustainable white fish, such as pollock or coley",
             "pinch salt",
@@ -31,13 +37,13 @@
             "1 lemon, zest and juice only",
             "salt and freshly ground black pepper",
             "2 tbsp olive oil, plus extra for greasing"
-        ],
-        "For the quick tartare sauce": [
-            "100g/3\u00bdoz mayonnaise",
-            "3 gherkins, finely chopped",
-            "50g/2oz capers",
-            "1 tbsp finely chopped parsley"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Cut the fish into strips down the fillet, following the natural lines of the fish. The strips should be approximately 2cm/1in wide and 6-8cm/3-4in long. Sprinkle some salt onto the fish.",
@@ -50,8 +56,9 @@
         "Meanwhile make the tartare sauce by mixing all the ingredients together in a small bowl, and set aside until needed.",
         "Once cooked, squeeze a little lemon juice over the fish fingers. Serve with a generous helping of tartare sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "How to make fish fingers",
     "videos": "[p00yp7p8:p00yp7pb]"
 }

@@ -1,28 +1,33 @@
 {
-    "title": "Chocolate orange sponge cake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10-12",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "Ingrid decorated this chocolate and orange layer cake using a stencil of Paul Hollywood\u2019s face, but you can use a stencil of your own choosing or just leave off the fondant layer.",
     "author": {
         "ingrid_oliver": "Ingrid Oliver"
     },
-    "show": {
-        "b01q9tbm": "The Great Comic Relief Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Ingrid decorated this chocolate and orange layer cake using a stencil of Paul Hollywood\u2019s face, but you can use a stencil of your own choosing or just leave off the fondant layer.",
+    "dishes": [
+        "cake",
+        "chocolate_cake",
+        "icing",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "greasing_and_lining",
+        "icing_cake_ganache",
+        "testing_to_see_if_a_cake_is_cooked"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            
+        "For the chocolate ganache icing": [
+            "200ml/7fl oz double cream",
+            "200g/7oz dark chocolate (at least 70% cocoa solids), chopped"
         ],
         "For the chocolate sponge": [
             "140g/5oz butter, plus extra for greasing",
@@ -35,6 +40,14 @@
             "1 tbsp golden syrup",
             "4 free-range eggs"
         ],
+        "For the decoration": [
+            "400g/1lb ready to roll chocolate flavoured fondant icing",
+            "edible gold glitter"
+        ],
+        "For the orange cream filling": [
+            "300ml/10fl oz whipping cream",
+            "2 oranges, zest only"
+        ],
         "For the orange sponge": [
             "250g/9oz flour",
             "1\u00bd tsp baking powder",
@@ -44,18 +57,15 @@
             "4 free-range eggs",
             "2 oranges, zest and juice"
         ],
-        "For the chocolate ganache icing": [
-            "200ml/7fl oz double cream",
-            "200g/7oz dark chocolate (at least 70% cocoa solids), chopped"
-        ],
-        "For the orange cream filling": [
-            "300ml/10fl oz whipping cream",
-            "2 oranges, zest only"
-        ],
-        "For the decoration": [
-            "400g/1lb ready to roll chocolate flavoured fondant icing",
-            "edible gold glitter"
+        "default": [
+            
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 10-12",
+    "show": {
+        "b01q9tbm": "The Great Comic Relief Bake Off"
     },
     "steps": [
         "Preheat the oven to 160C/325F/Gas 3.",
@@ -79,10 +89,9 @@
         "Spoon the ganache over the cake, smoothing with a palette knife until the cake is completely covered.",
         "Roll out the chocolate fondant icing to a thickness of 2mm. Using the cake tin as a guide, cut out a 23cm/9in circle. Place carefully on top of the cake. Place the stencil on top of the fondant and sprinkle over the gold lustre dust. Remove the stencil to reveal your pattern."
     ],
-    "howTos": [
-        "greasing_and_lining",
-        "icing_cake_ganache",
-        "testing_to_see_if_a_cake_is_cooked"
+    "tips": [
+        
     ],
+    "title": "Chocolate orange sponge cake",
     "videos": "[]"
 }

@@ -1,24 +1,24 @@
 {
-    "title": "A\u00efoli",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p007b4jc": "Stately Suppers"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "cusine": "French",
+    "description": "",
+    "dishes": [
+        "baguette",
+        "jam",
+        "mayonnaise",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,12 +31,19 @@
             "saffron, optional"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "p007b4jc": "Stately Suppers"
+    },
     "steps": [
         "Blend all ingredients, except the olive oil, in a food processor. Pour the oil into the blender in a steady stream, until it forms a thick sauce. The mixture, once blended, should be vibrant and yellow in colour. To vary the flavour, add a little mustard or some saffron. If you'd like your mayonnaise runnier, add a couple of tablespoons of hot water.",
         "Serve with baguette slices and/or a selection of raw vegetables, such as celery, carrot sticks, cucumber sticks, radishes, strips of fennel, strips of pepper, cherry tomatoes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "A\u00efoli",
     "videos": "[]"
 }

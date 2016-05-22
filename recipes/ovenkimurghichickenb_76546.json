@@ -1,36 +1,29 @@
 {
-    "title": "Oven ki murghi (chicken baked with green chillies and onions)",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "24",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/ovenkimurghichickenb_76546_16x9.jpg"
-    ],
-    "description": "To accompany the dish, a simple rice dish and a vegetable or a salad would suffice. But if you're entertaining serve stir-fried cauliflower with ginger, garlic and green chillies and a bowl of rice with mushrooms as side dishes.",
     "author": {
         "madhur_jaffrey": "Madhur Jaffrey"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "To accompany the dish, a simple rice dish and a vegetable or a salad would suffice. But if you're entertaining serve stir-fried cauliflower with ginger, garlic and green chillies and a bowl of rice with mushrooms as side dishes.",
+    "dishes": [
+        "chicken_curry",
+        "curry",
+        "oven-baked_dishes",
+        "pie",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/ovenkimurghichickenb_76546_16x9.jpg"
+    ],
     "ingredients": {
-        "For the sauce": [
-            "2 tbsp tomato pur\u00e9e",
-            "1 tbsp Dijon mustard",
-            "1 tsp ground cumin",
-            "1 tsp garam masala",
-            "1 tbsp lemon juice",
-            "\u00bd tsp salt",
-            "\u00bc tsp chilli powder",
-            "100ml/3\u00bdfl oz single cream"
-        ],
         "For the curry": [
             "4 boned, skinned chicken breasts (weighing approximately 560g/1 lb 4oz in total)",
             "salt and freshly ground black pepper, to taste",
@@ -44,7 +37,23 @@
             "\u00bd tsp black or yellow mustard seeds",
             "1 clove garlic, finely chopped",
             "cooked basmati rice, to serve"
+        ],
+        "For the sauce": [
+            "2 tbsp tomato pur\u00e9e",
+            "1 tbsp Dijon mustard",
+            "1 tsp ground cumin",
+            "1 tsp garam masala",
+            "1 tbsp lemon juice",
+            "\u00bd tsp salt",
+            "\u00bc tsp chilli powder",
+            "100ml/3\u00bdfl oz single cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "24",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -63,8 +72,9 @@
         "Place the ovenproof dish, uncovered, in the oven and bake for 25 minutes.",
         "Serve immediately with basmati rice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Oven ki murghi (chicken baked with green chillies and onions)",
     "videos": "[]"
 }

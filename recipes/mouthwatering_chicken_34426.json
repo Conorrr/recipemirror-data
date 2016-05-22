@@ -1,26 +1,33 @@
 {
-    "title": "Mouthwatering chicken",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "A healthy, filling dish of tender steamed chicken with a spicy sauce, brown rice and stir-fried broccoli. Equipment and preparation: for this recipe you will need a steaming basket or rack.",
     "author": {
         "ching-he_huang": "Ching-He Huang"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Chinese",
+    "description": "A healthy, filling dish of tender steamed chicken with a spicy sauce, brown rice and stir-fried broccoli. Equipment and preparation: for this recipe you will need a steaming basket or rack.",
+    "dishes": [
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the dressing": [
+            "2 tbsp vegetable oil",
+            "\u00bd tsp ground Sichuan pepper",
+            "\u00bd tsp crushed dried chilli flakes",
+            "1 tbsp light soy sauce",
+            "1 tbsp rice vinegar",
+            "1 tbsp toasted sesame oil"
+        ],
         "For the mouthwatering chicken": [
             "2\u00bdcm/1in piece fresh root ginger, peeled and grated",
             "2 tbsp mirin",
@@ -29,14 +36,6 @@
             "\u00bd tsp crushed dried chilli flakes",
             "400g/14oz free-range chicken thighs or drumsticks",
             "110g/4oz spring onions, two finely sliced and the remainder sliced into 2\u00bdcm/1in pieces"
-        ],
-        "For the dressing": [
-            "2 tbsp vegetable oil",
-            "\u00bd tsp ground Sichuan pepper",
-            "\u00bd tsp crushed dried chilli flakes",
-            "1 tbsp light soy sauce",
-            "1 tbsp rice vinegar",
-            "1 tbsp toasted sesame oil"
         ],
         "For the stir-fried broccoli": [
             "2 tbsp flavourless oil, such as vegetable oil",
@@ -53,6 +52,12 @@
             "50g/1\u00beoz sesame seeds, toasted"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "In a bowl, mix the grated ginger, mirin, ground Sichuan pepper, ground sea salt and crushed dried chillies together. Rub the mixture all over the chicken.",
         "Put the 2\u00bdcm/1in pieces of spring onion in a shallow heatproof dish. Lay the chicken thighs (or drumsticks) on top.",
@@ -64,8 +69,9 @@
         "For the stir-fried broccoli, heat a wok, once hot, add the oil. Add the shallot, garlic and shrimp and cook for 1-2 minutes. Add the broccoli and cook for a further 2-3 minutes. Add the remaining ingredients and cook for a further 1-2 minutes.",
         "To serve, scatter the finely sliced spring onions over the chicken. Serve the rice in four bowls and garnish them with some toasted sesame seeds. Put the remaining reserved cooking juices from the chicken in a small bowl, serve them on the side, to use to moisten and flavour rice. Serve the broccoli alongside the chicken."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mouthwatering chicken",
     "videos": "[]"
 }

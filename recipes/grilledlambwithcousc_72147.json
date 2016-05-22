@@ -1,26 +1,44 @@
 {
-    "title": "Grilled lamb with couscous and yoghurt dressing",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ed_baines": "Ed Baines"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the couscous": [
+            "85g/3oz couscous",
+            "60g/2\u00bcoz pine nuts, toasted",
+            "2 handfuls of seedless raisins",
+            "a small bunch of flatleaf parsley, chopped",
+            "2 lemons, juice of both and zest of 1 only",
+            "8 tbsp olive oil",
+            "a pinch of ground cumin"
+        ],
+        "For the tzatsiki": [
+            "\u00bd cucumber",
+            "1 clove garlic",
+            "salt",
+            "a bunch of mint, chopped",
+            "\u00bd lemon, juice only",
+            "1 tbsp olive oil",
+            "250ml/9fl oz Greek yoghurt"
+        ],
         "default": [
             "4 lamb neck fillets (about 100g/4oz each)",
             "2 tbsp olive oil",
@@ -35,25 +53,13 @@
             "a good pinch of dried oregano",
             "\u00bd lemon, juice only",
             "2 handfuls of green beans"
-        ],
-        "For the tzatsiki": [
-            "\u00bd cucumber",
-            "1 clove garlic",
-            "salt",
-            "a bunch of mint, chopped",
-            "\u00bd lemon, juice only",
-            "1 tbsp olive oil",
-            "250ml/9fl oz Greek yoghurt"
-        ],
-        "For the couscous": [
-            "85g/3oz couscous",
-            "60g/2\u00bcoz pine nuts, toasted",
-            "2 handfuls of seedless raisins",
-            "a small bunch of flatleaf parsley, chopped",
-            "2 lemons, juice of both and zest of 1 only",
-            "8 tbsp olive oil",
-            "a pinch of ground cumin"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "To make the tzatsiki, chop the cucumber into small cubes, place in a sieve and allow to drain. Smash the garlic into a paste with the flat of a knife.",
@@ -67,8 +73,9 @@
         "While the couscous soaks, cook the green beans in boiling salted water for 4-5 minutes until just tender. Drain well.",
         "Slice each lamb fillet into pieces and place over the couscous and green beans. Spoon over the lamb juices and finish with a big dollop of tzatsiki. Serve."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Grilled lamb with couscous and yoghurt dressing",
     "videos": "[]"
 }

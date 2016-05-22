@@ -1,26 +1,32 @@
 {
-    "title": "Steamed sponge pudding with custard",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "custard",
+        "jam",
+        "sauce",
+        "sponge_pudding"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the custard": [
+            "4 free-range egg yolks",
+            "40g/1\u00bdoz caster sugar",
+            "150ml/5fl oz milk",
+            "150ml/5fl oz double cream",
+            "1 vanilla pod, split"
+        ],
         "For the sponge": [
             "100g/4oz self-raising flour",
             "100g/4oz caster sugar",
@@ -29,14 +35,13 @@
             "25ml/1fl oz milk",
             "4 tbsp honey",
             "1 tsp ground ginger"
-        ],
-        "For the custard": [
-            "4 free-range egg yolks",
-            "40g/1\u00bdoz caster sugar",
-            "150ml/5fl oz milk",
-            "150ml/5fl oz double cream",
-            "1 vanilla pod, split"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "To make the sponge puddings grease and lightly flour four ramekins.",
@@ -54,8 +59,9 @@
         "Remove the bowl from the heat.",
         "To serve, turn out the sponge onto a plate and spoon over the custard."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steamed sponge pudding with custard",
     "videos": "[]"
 }

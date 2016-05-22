@@ -1,24 +1,22 @@
 {
-    "title": "Chocolate hazelnut pudding",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ed_baines": "Ed Baines"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "icing",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "melting_chocolate",
+        "segmenting_citrus_fruit"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +29,12 @@
             "fresh orange segments (optional)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Melt the chocolate with the cream in a small pan then leave to cool for a few minutes.",
         "Whisk together the egg yolks and icing sugar.",
@@ -38,9 +42,9 @@
         "Stir in the brandy and hazelnuts.",
         "Serve in a bowl or glass and top with the orange segments, if you like."
     ],
-    "howTos": [
-        "melting_chocolate",
-        "segmenting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Chocolate hazelnut pudding",
     "videos": "[]"
 }

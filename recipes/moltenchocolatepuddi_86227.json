@@ -1,24 +1,21 @@
 {
-    "title": "Molten chocolate pudding",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "folding"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,6 +27,12 @@
             "1 tbsp cocoa powder, plus extra for dusting",
             "mascarpone, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "Preheat the oven to 180C/365F/Gas 4.",
@@ -43,8 +46,9 @@
         "Loosen the puddings and very carefully turn each out onto plates.",
         "Dust the puddings with cocoa powder and serve with a dollop of mascarpone on top."
     ],
-    "howTos": [
-        "folding"
+    "tips": [
+        
     ],
+    "title": "Molten chocolate pudding",
     "videos": "[]"
 }

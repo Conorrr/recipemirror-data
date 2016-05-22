@@ -1,29 +1,26 @@
 {
-    "title": "Globe artichoke salad",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves up to 6",
-    "recommendations": "3",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/globeartichokesalad_90217_16x9.jpg"
-    ],
-    "description": "This fresh, seasonal salad takes a little time but is worth every minute of it. Perfect as a summer party side dish.",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This fresh, seasonal salad takes a little time but is worth every minute of it. Perfect as a summer party side dish.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "prepare-ahead_desserts",
+        "salad"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "preparing_artichokes",
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/globeartichokesalad_90217_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "1 large globe artichoke per person"
-        ],
         "For the cooking liquid": [
             "1 tbsp olive oil",
             "3 shallots",
@@ -32,11 +29,6 @@
             "4 plum tomatoes, roughly chopped",
             "375ml/13fl oz dry white wine",
             "285ml/\u00bd pint water"
-        ],
-        "For the mushrooms": [
-            "100g/3\u00bd oz mixed mushrooms, such as shiitake and oyster",
-            "1 tbsp olive oil",
-            "1-2 garlic cloves, finely chopped"
         ],
         "For the dressing": [
             "1 lemon, zest and juice only",
@@ -47,10 +39,24 @@
             "pinch of rock salt",
             "2 cloves garlic"
         ],
+        "For the mushrooms": [
+            "100g/3\u00bd oz mixed mushrooms, such as shiitake and oyster",
+            "1 tbsp olive oil",
+            "1-2 garlic cloves, finely chopped"
+        ],
         "For the salad": [
             "5-6 cherry tomatoes, halved, drizzled with olive oil, sprinkled with garlic and thyme and cooked for one hour 30 minutes in a low oven, or 8-10 mi-cuit or sun-blushed tomatoes",
             "selection of lettuce leaves such as Little Gem, rocket and lamb's lettuce"
+        ],
+        "default": [
+            "1 large globe artichoke per person"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "3",
+    "serves": "Serves up to 6",
+    "show": {
+        
     },
     "steps": [
         "For the cooking liquid, heat the olive oil in a large heavy-bottomed pan. Roughly chop the shallots and add them to the pan. Chop the garlic head in half across the cloves and add both halves to the pan, unpeeled, along with the thyme sprigs.",
@@ -68,9 +74,9 @@
         "Slowly add the olive oil and whisk constantly until thoroughly mixed. Add the grated parmesan and the salt and pepper and whisk to blend. Finely chop the garlic, add to the dressing and whisk to blend.",
         "To assemble the salad, place the lettuce leaves in a bowl. Add the mushrooms, tomatoes, artichokes and enough lemon dressing to coat well. Mix thoroughly and serve."
     ],
-    "howTos": [
-        "preparing_artichokes",
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Globe artichoke salad",
     "videos": "[]"
 }

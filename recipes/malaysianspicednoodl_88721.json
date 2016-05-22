@@ -1,26 +1,40 @@
 {
-    "title": "Malaysian-spiced noodles with tofu",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "27",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/malaysianspicednoodl_88721_16x9.jpg"
-    ],
-    "description": "Aromatic, rich and spicy - proof, if you ever needed it, that vegetarian food is anything but bland. This meal provides 712 kcal, 18g protein, 81g carbohydrate (of which 4g sugars), 34g fat (of which 17g saturates), 1g fibre and 3g salt per portion.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Thai_and_South-East_Asian",
+    "description": "Aromatic, rich and spicy - proof, if you ever needed it, that vegetarian food is anything but bland. This meal provides 712 kcal, 18g protein, 81g carbohydrate (of which 4g sugars), 34g fat (of which 17g saturates), 1g fibre and 3g salt per portion.",
+    "dishes": [
+        "bread",
+        "curry",
+        "noodle_soup",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/malaysianspicednoodl_88721_16x9.jpg"
+    ],
     "ingredients": {
+        "For the noodles": [
+            "vegetable oil, for deep-frying, plus 1 tbsp for frying",
+            "150g/5oz fresh tofu, cut to 2.5cm/1in squares, dried on kitchen paper",
+            "20 oyster mushrooms, finely sliced",
+            "8 sugar snap peas or mange tout, blanched, cut in half lengthways",
+            "400g/14oz ready-made udon noodles, cooked according to packet instructions"
+        ],
+        "For the sauce": [
+            "400ml/14fl oz can coconut milk",
+            "250ml/9fl oz vegetable stock"
+        ],
         "For the spice paste": [
             "25g/1oz fresh ginger, peeled",
             "2 lemongrass stalks",
@@ -31,22 +45,17 @@
             "pinch of salt",
             "2-3 tbsp vegetable oil"
         ],
-        "For the sauce": [
-            "400ml/14fl oz can coconut milk",
-            "250ml/9fl oz vegetable stock"
-        ],
-        "For the noodles": [
-            "vegetable oil, for deep-frying, plus 1 tbsp for frying",
-            "150g/5oz fresh tofu, cut to 2.5cm/1in squares, dried on kitchen paper",
-            "20 oyster mushrooms, finely sliced",
-            "8 sugar snap peas or mange tout, blanched, cut in half lengthways",
-            "400g/14oz ready-made udon noodles, cooked according to packet instructions"
-        ],
         "To serve": [
             "fresh coriander leaves",
             "lime wedges",
             "crushed peanuts"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "27",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "For the spice paste, place all of the spice paste ingredients, except the vegetable oil, into a food processor and blend to a pulp.",
@@ -60,8 +69,9 @@
         "Add the sugar snap peas (or mange tout), deep-fried tofu and udon noodles to the sauce and stir well to combine.",
         "To serve, spoon to the curry into serving bowls and garnish each with fresh coriander leaves, lime wedges and crushed peanuts, to taste."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Malaysian-spiced noodles with tofu",
     "videos": "[]"
 }

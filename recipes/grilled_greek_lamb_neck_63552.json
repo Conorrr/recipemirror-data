@@ -1,26 +1,31 @@
 {
-    "title": "Grilled Greek lamb neck fillet with watermelon, orange and red onion",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Greek flavours of mint, yoghurt, watermelon and honey combine to make a magnificently Mediterranean lamb dish, served with a mint-flecked feta cream.",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Greek",
+    "description": "Greek flavours of mint, yoghurt, watermelon and honey combine to make a magnificently Mediterranean lamb dish, served with a mint-flecked feta cream.",
+    "dishes": [
+        "bun",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the feta cream": [
+            "200g/7oz soft feta",
+            "150g/5\u00bdoz Greek yoghurt",
+            "1 garlic clove, roughly chopped",
+            "\u00bd bunch mint, leaves only",
+            "salt and pepper"
+        ],
         "For the lamb": [
             "100ml/3\u00bdfl oz extra virgin olive oil",
             "1 tsp dried mint",
@@ -35,14 +40,13 @@
             "2 naval oranges, segmented",
             "1 red onion, finely sliced",
             "\u00bd bunch mint, leaves only"
-        ],
-        "For the feta cream": [
-            "200g/7oz soft feta",
-            "150g/5\u00bdoz Greek yoghurt",
-            "1 garlic clove, roughly chopped",
-            "\u00bd bunch mint, leaves only",
-            "salt and pepper"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "For the lamb, mix together the oil, herbs, lemon zest and juice, garlic and chilli flakes. Reserve half of the marinade in a separate bowl. Rub the lamb all over with the remainder, place the lamb in a bowl in the fridge and allow to marinade for at least one hour, ideally overnight.",
@@ -52,8 +56,9 @@
         "Heat a griddle pan, season the lamb fillets and cook them to your liking, turning regularly (6-7 minutes for medium rare). Set aside, in a warm place, to rest.",
         "Drizzle some feta cream over the watermelon, slice the lamb thinly and arrange it over the melon. Scatter with mint leaves and drizzle with the lemon-chilli dressing."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Grilled Greek lamb neck fillet with watermelon, orange and red onion",
     "videos": "[]"
 }

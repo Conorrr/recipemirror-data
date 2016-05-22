@@ -1,26 +1,31 @@
 {
-    "title": "Kerala king prawn and coconut curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "47",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/keralakingprawnandco_75325_16x9.jpg"
-    ],
-    "description": "This quick prawn curry is the perfect blend of spicy, fresh and creamy. And it takes minutes to make.",
     "author": {
         "merrilees_parker": "Merrilees Parker"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "This quick prawn curry is the perfect blend of spicy, fresh and creamy. And it takes minutes to make.",
+    "dishes": [
+        "bun",
+        "curry",
+        "pie",
+        "prawn_curry",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/keralakingprawnandco_75325_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "plain boiled rice or chapattis, to serve"
+        ],
         "default": [
             "500g/1lb 2oz raw tiger prawns, shells off and de-veined",
             "1 tbsp fresh lemon juice",
@@ -35,10 +40,13 @@
             "small bunch fresh coriander",
             "175ml/6 fl oz coconut cream",
             "salt"
-        ],
-        "To serve": [
-            "plain boiled rice or chapattis, to serve"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "47",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Toss the prawns with the lemon juice in a shallow non-metallic dish and leave to marinate while you make the sauce. Heat a heavy-based pan with two tablespoons of the oil and then add the onion. Cook for 2-3 minutes until softened but not coloured, then add the turmeric, cardamom pods and chilli powder. Cook for 1-2 minutes until fragrant, stirring constantly.",
@@ -47,8 +55,9 @@
         "Stir into pan with the onion and spice mixture until well combined, then bring to the boil. Reduce the heat and simmer gently for 1-2 minutes, then stir in the marinated prawns and season with salt. Continue to simmer for 1-2 minutes until the prawns are just cooked through and tender, stirring constantly.",
         "Garnish the curry with the reserved coriander sprigs and serve with rice or chapattis."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Kerala king prawn and coconut curry",
     "videos": "[]"
 }

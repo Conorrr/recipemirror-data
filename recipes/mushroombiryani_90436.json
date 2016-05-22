@@ -1,32 +1,43 @@
 {
-    "title": "Mushroom biryani with omelette topping",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "biryani",
+        "omelette",
+        "oven-baked_dishes",
+        "pie",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the omelettes": [
-            "2 free-range eggs",
-            "1 tbsp double cream",
-            "1 tbsp chopped fresh coriander",
-            "salt and freshly ground black pepper",
-            "1 tsp vegetable oil"
+        "For the biryani": [
+            "1 tbsp vegetable oil",
+            "\u00bd onion, sliced",
+            "250g/9oz basmati rice, washed and soaked for 30 minutes, then drained",
+            "2 bay leaves",
+            "400ml/14fl oz vegetable stock",
+            "1 tbsp rose water",
+            "1 lemon, juice only",
+            "1 tbsp chopped fresh mint"
+        ],
+        "For the chilli paste": [
+            "2 red chillies, chopped",
+            "2 garlic cloves, crushed",
+            "2.5cm/1in fresh ginger, grated and squeezed through muslin, juice only",
+            "pinch ground turmeric",
+            "1 tsp garam masala"
         ],
         "For the marinated mushrooms": [
             "1 garlic clove, crushed to a paste",
@@ -40,23 +51,19 @@
             "1 tbsp vegetable oil",
             "300g/10\u00bd mushrooms"
         ],
-        "For the chilli paste": [
-            "2 red chillies, chopped",
-            "2 garlic cloves, crushed",
-            "2.5cm/1in fresh ginger, grated and squeezed through muslin, juice only",
-            "pinch ground turmeric",
-            "1 tsp garam masala"
-        ],
-        "For the biryani": [
-            "1 tbsp vegetable oil",
-            "\u00bd onion, sliced",
-            "250g/9oz basmati rice, washed and soaked for 30 minutes, then drained",
-            "2 bay leaves",
-            "400ml/14fl oz vegetable stock",
-            "1 tbsp rose water",
-            "1 lemon, juice only",
-            "1 tbsp chopped fresh mint"
+        "For the omelettes": [
+            "2 free-range eggs",
+            "1 tbsp double cream",
+            "1 tbsp chopped fresh coriander",
+            "salt and freshly ground black pepper",
+            "1 tsp vegetable oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the omelettes, mix the eggs, cream and coriander together in a bowl and season well with salt and freshly ground black pepper.",
@@ -76,8 +83,9 @@
         "Cover each ring with aluminium foil and bake in the oven for 30 minutes.",
         "To serve, place an omelette on top of each biryani stack."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mushroom biryani with omelette topping",
     "videos": "[]"
 }

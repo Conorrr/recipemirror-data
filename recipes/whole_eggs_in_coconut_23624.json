@@ -1,26 +1,28 @@
 {
-    "title": "Whole eggs in coconut masala (egg molee)",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "26",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/whole_eggs_in_coconut_23624_16x9.jpg"
-    ],
-    "description": "This is a nice, simple, inexpensive coconut masala made with whole eggs that are quickly fried before being finished off in the curry.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b033rhzh": "Rick Stein's India"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "This is a nice, simple, inexpensive coconut masala made with whole eggs that are quickly fried before being finished off in the curry.",
+    "dishes": [
+        "curry",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/whole_eggs_in_coconut_23624_16x9.jpg"
+    ],
     "ingredients": {
+        "To serve": [
+            "boiled basmati rice"
+        ],
         "default": [
             "3 tbsp mustard oil or vegetable oil",
             "6 free-range eggs, hard-boiled, peeled and left whole",
@@ -34,17 +36,21 @@
             "1 tsp sugar",
             "handful of coriander leaves, chopped",
             "\u00bd tsp garam masala"
-        ],
-        "To serve": [
-            "boiled basmati rice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "26",
+    "serves": "Serves 4",
+    "show": {
+        "b033rhzh": "Rick Stein's India"
     },
     "steps": [
         "Heat the oil in a heavy-based saucepan or karahi over a medium heat, add the whole eggs and fry for 1\u20132 minutes, or until lightly coloured, then add the turmeric and chilli powder and cook for another 30 seconds. Stir in the coconut milk and bring to a simmer.",
         "Add the onions, ginger, chillies and salt, and simmer for five minutes, or until the coconut milk has reduced in volume by half and the onions are just softened, adding a splash of water if it becomes too thick. Stir in the sugar and coriander and sprinkle with garam masala. Halve the eggs, and serve with rice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Whole eggs in coconut masala (egg molee)",
     "videos": "[]"
 }

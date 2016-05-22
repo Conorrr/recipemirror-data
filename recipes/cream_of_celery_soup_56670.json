@@ -1,35 +1,28 @@
 {
-    "title": "Cream of celery soup with poached egg and soda bread",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "This light, healthy soup with quick homemade bread is perfect for winter evenings to beat the post-Christmas bulge.",
     "author": {
         "tom_kerridge": "Tom Kerridge"
     },
-    "show": {
-        "b03mzc66": "Food & Drink"
-    },
-    "tips": [
-        "Try to use the freshest possible eggs when poaching, as the whites will stay firmer during cooking."
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "This light, healthy soup with quick homemade bread is perfect for winter evenings to beat the post-Christmas bulge.",
+    "dishes": [
+        "bread",
+        "bun",
+        "oven-baked_dishes",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the soda bread": [
-            "45g/1\u00beoz butter, softened, plus extra for greasing and to serve",
-            "340g/12oz wholemeal flour",
-            "340g/12oz strong white bread flour, plus extra for dusting",
-            "2 tsp bicarbonate of soda",
-            "1\u00bd tsp salt",
-            "1 tsp cracked black peppercorns",
-            "625ml/1 pint 1fl oz buttermilk"
-        ],
         "For the celery soup": [
             "1 tbsp rapeseed oil",
             "1 onion, sliced",
@@ -45,7 +38,22 @@
             "6 free-range eggs",
             "drizzle rapeseed oil",
             "celery salt, to taste"
+        ],
+        "For the soda bread": [
+            "45g/1\u00beoz butter, softened, plus extra for greasing and to serve",
+            "340g/12oz wholemeal flour",
+            "340g/12oz strong white bread flour, plus extra for dusting",
+            "2 tsp bicarbonate of soda",
+            "1\u00bd tsp salt",
+            "1 tsp cracked black peppercorns",
+            "625ml/1 pint 1fl oz buttermilk"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "10",
+    "serves": "Serves 4-6",
+    "show": {
+        "b03mzc66": "Food & Drink"
     },
     "steps": [
         "Preheat the oven to 190C/170C Fan/Gas 5.",
@@ -63,8 +71,9 @@
         "Just before serving, finely chop the reserved celery leaves. Drizzle the eggs with a little rapeseed oil, sprinkle over the celery salt, then garnish with the chopped celery leaves.",
         "To serve, divide the celery soup among four serving bowls and float one poached egg on top of each portion. Serve with slices of buttered soda bread."
     ],
-    "howTos": [
-        
+    "tips": [
+        "Try to use the freshest possible eggs when poaching, as the whites will stay firmer during cooking."
     ],
+    "title": "Cream of celery soup with poached egg and soda bread",
     "videos": "[]"
 }

@@ -1,24 +1,21 @@
 {
-    "title": "Tapenade",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "ciabatta",
+        "tapenade"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -29,13 +26,20 @@
             "ciabatta, sliced, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place the garlic cloves, olives, olive oil and parsley in a mini food processor and blend until smooth.",
         "Heat a grill pan until hot and chargrill the ciabatta slices on both sides.",
         "Transfer tapenade to a serving bowl and serve with the chargrilled ciabatta slices."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Tapenade",
     "videos": "[]"
 }

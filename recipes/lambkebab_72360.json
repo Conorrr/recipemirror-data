@@ -1,23 +1,21 @@
 {
-    "title": "Lamb kebab",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2-4",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "These tasty lamb kebabs are made with lamb fillet strips for an authentic Greek-style kebab.",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "p0077hxk": "Saturday Brunch"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Greek",
+    "description": "These tasty lamb kebabs are made with lamb fillet strips for an authentic Greek-style kebab.",
+    "dishes": [
+        "bread",
+        "kebab"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -36,6 +34,12 @@
             "3 spring onions, sliced"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 2-4",
+    "show": {
+        "p0077hxk": "Saturday Brunch"
+    },
     "steps": [
         "Toss the lamb with the onion in a mixing bowl.",
         "Mash the garlic with a little salt. Add the mashed garlic, one teaspoon of black pepper, cumin, cayenne and olive oil to the sliced lamb and toss well.",
@@ -45,8 +49,9 @@
         "Meanwhile, warm the pitta breads. Slice along the pitta breads to form four pockets.",
         "Fill the pitta pockets with the freshly cooked lamb, lemon juice, yoghurt, oregano and spring onions and serve at once."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb kebab",
     "videos": "[]"
 }

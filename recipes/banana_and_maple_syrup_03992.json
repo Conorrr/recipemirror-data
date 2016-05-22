@@ -1,24 +1,25 @@
 {
-    "title": "Banana and maple syrup cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6-8",
-    "recommendations": "7",
-    "images": [
-        
-    ],
-    "description": "This delicious cake is the perfect way to use up over-ripe bananas, and makes a moreish teatime treat.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b04xycrx": "James Martin: Home Comforts"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "This delicious cake is the perfect way to use up over-ripe bananas, and makes a moreish teatime treat.",
+    "dishes": [
+        "cake",
+        "jam",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "creaming",
+        "testing_to_see_if_a_cake_is_cooked"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -34,6 +35,12 @@
             "200ml/7fl oz double cream"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 6-8",
+    "show": {
+        "b04xycrx": "James Martin: Home Comforts"
+    },
     "steps": [
         "Preheat the oven to 170C/150 Fan/Gas 3. Grease a 23cm/9in springform cake tin with butter. Add a tablespoon of flour to the tin and tip the tin this way and that until the base and sides are coated with flour. Shake out any excess flour.",
         "Blend the bananas in a food processor until roughly chopped, then add 75ml/2\u00befl oz of the maple syrup and blend to a smooth paste. Pour in up to 50ml/2fl oz of milk and blend again to obtain a smoother consistency, if necessary.",
@@ -44,9 +51,9 @@
         "Meanwhile, bring the cream and remaining maple syrup to the boil in a saucepan. Continue to boil for 3-5 minutes, or until the mixture has thickened slightly, then set aside until completely cooled.",
         "Before serving, spread the maple-syrup glaze over the top of the cake, allowing it to drizzle down the sides slightly. Set aside for 10 minutes, then cut into slices and serve."
     ],
-    "howTos": [
-        "creaming",
-        "testing_to_see_if_a_cake_is_cooked"
+    "tips": [
+        
     ],
+    "title": "Banana and maple syrup cake",
     "videos": "[p02gg1jg:p02gg1jt]"
 }

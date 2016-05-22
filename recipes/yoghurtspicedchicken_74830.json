@@ -1,29 +1,26 @@
 {
-    "title": "Yoghurt-spiced chicken skewers",
-    "cookTime": "less than 10 mins",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 2-4",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/yoghurtspicedchicken_74830_16x9.jpg"
-    ],
-    "description": "This healthy, flavourful recipe is a doddle to make - try it with our simple couscous salad or herby tabbouleh.",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Indian",
+    "description": "This healthy, flavourful recipe is a doddle to make - try it with our simple couscous salad or herby tabbouleh.",
+    "dishes": [
+        "jam",
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/yoghurtspicedchicken_74830_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "2 chicken breasts"
-        ],
         "For the marinade": [
             "280ml/10fl oz natural yoghurt",
             "1 tsp ground cumin",
@@ -41,7 +38,16 @@
             "220ml/8fl oz white wine vinegar",
             "4 tbsp caster sugar",
             "\u00bd tsp dried chilli flakes"
+        ],
+        "default": [
+            "2 chicken breasts"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "5",
+    "serves": "Serves 2-4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the marinade, mix all the ingredients together.",
@@ -52,8 +58,9 @@
         "For the jam, place all the ingredients into a saucepan and bring to the boil.",
         "Reduce the heat and simmer for up to an hour until jam-like. Cool and serve with the chicken skewers."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Yoghurt-spiced chicken skewers",
     "videos": "[]"
 }

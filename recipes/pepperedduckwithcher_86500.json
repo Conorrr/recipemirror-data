@@ -1,31 +1,23 @@
 {
-    "title": "Peppered duck with cherries, lovage and elderflower dressing",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lawrence_keogh": "Lawrence Keogh"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "scoring_skin"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 duck breasts",
-            "4tsp black peppercorns",
-            "1 tbsp vegetable oil"
-        ],
         "For the dressing": [
             "125g/5oz cherries, stones removed",
             "50ml/2fl oz elderflower cordial",
@@ -38,7 +30,18 @@
             "25g/1oz lovage leaves or celery leaves",
             "25g/1oz fresh elderflower petals",
             "\u00bd punnet mustard cress"
+        ],
+        "default": [
+            "2 duck breasts",
+            "4tsp black peppercorns",
+            "1 tbsp vegetable oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Trim the duck breast and remove any excess sinew. Score the skin lightly with a sharp knife.",
@@ -54,8 +57,9 @@
         "To serve, place the lettuce leaves, lovage and cress into a bowl and add a little of the dressing.",
         "Cut the duck breasts into thin slices. Layer the salad and duck onto a plate. Spoon some more dressing around the outside of the salad and finish off with a sprinkling of the elderflower petals."
     ],
-    "howTos": [
-        "scoring_skin"
+    "tips": [
+        
     ],
+    "title": "Peppered duck with cherries, lovage and elderflower dressing",
     "videos": "[]"
 }

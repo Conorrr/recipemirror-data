@@ -1,32 +1,24 @@
 {
-    "title": "Tuna steaks with salsa verde and new potatoes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "prepare-ahead_desserts",
+        "salsa",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 x 250g/9oz fresh tuna steaks",
-            "5 tbsp Italian olive oil",
-            "salt and freshly ground black pepper, to taste",
-            "2 handfuls of new potatoes, par-boiled until al dente then cooled"
-        ],
         "For the salsa verde": [
             "4 anchovy fillets",
             "1 tbsp capers, roughly chopped",
@@ -36,7 +28,19 @@
             "2 tbsp flatleaf parsley, chopped",
             "1 tbsp basil, chopped",
             "salt and freshly ground black pepper"
+        ],
+        "default": [
+            "2 x 250g/9oz fresh tuna steaks",
+            "5 tbsp Italian olive oil",
+            "salt and freshly ground black pepper, to taste",
+            "2 handfuls of new potatoes, par-boiled until al dente then cooled"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Marinate the tuna steaks in the olive oil, salt and pepper for at least two hours before cooking.",
@@ -49,8 +53,9 @@
         "Crush the potatoes with a fork and combine with half the salsa verde.",
         "Serve the potatoes on the side of the plate and pour over the rest of the salsa verde. Serve with the tuna."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Tuna steaks with salsa verde and new potatoes",
     "videos": "[]"
 }

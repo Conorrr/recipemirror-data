@@ -1,24 +1,23 @@
 {
-    "title": "Courgette and broccoli quiche",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/courgette_and_broccoli_22292_16x9.jpg"
-    ],
-    "description": "An inexpensive veggie quiche that\u2019s perfect for summer suppers and a great way to use up leftover vegetables.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b01cbwfm": "Operation Hospital Food with James Martin"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "An inexpensive veggie quiche that\u2019s perfect for summer suppers and a great way to use up leftover vegetables.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "quiche"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "how_to_blind_bake_pastry"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/courgette_and_broccoli_22292_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -31,6 +30,12 @@
             "180ml/6fl oz milk",
             "50g/1\u00beoz cheddar, grated"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4",
+    "show": {
+        "b01cbwfm": "Operation Hospital Food with James Martin"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -45,8 +50,9 @@
         "Bake in the oven for 40-45 minutes, or until golden-brown, bubbling and just set.",
         "Set aside to cool slightly before serving."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry"
+    "tips": [
+        
     ],
+    "title": "Courgette and broccoli quiche",
     "videos": "[]"
 }

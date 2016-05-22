@@ -1,24 +1,28 @@
 {
-    "title": "Chocolate mint cake",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 12",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "This showstopper of a cake - layers of rich cake with mint buttercream and chocolate leaves - is really worth the effort.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "This showstopper of a cake - layers of rich cake with mint buttercream and chocolate leaves - is really worth the effort.",
+    "dishes": [
+        "bun",
+        "cake",
+        "chocolate_cake",
+        "meringue",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sandwich",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the cake": [
@@ -36,14 +40,6 @@
             "1 tsp bicarbonate of soda",
             "\u00bd tsp salt"
         ],
-        "For the mint meringue buttercream": [
-            "125g/4\u00bdoz sugar",
-            "80ml/2\u00befl oz water",
-            "3 free-range egg whites, at room temperature",
-            "\u00bd tsp cream of tartar",
-            "150g/5fl oz unsalted butter, softened",
-            "\u00bd tsp peppermint extract"
-        ],
         "For the chocolate ganache": [
             "225g/8oz dark chocolate, minimum 70% cocoa solids, broken into pieces",
             "175ml/6\u00bcfl oz whipping cream",
@@ -53,7 +49,21 @@
             "2 large bunches fresh mint leaves",
             "75g/3oz white chocolate, melted",
             "75g/3oz dark chocolate, minimum 70% cocoa solids, melted"
+        ],
+        "For the mint meringue buttercream": [
+            "125g/4\u00bdoz sugar",
+            "80ml/2\u00befl oz water",
+            "3 free-range egg whites, at room temperature",
+            "\u00bd tsp cream of tartar",
+            "150g/5fl oz unsalted butter, softened",
+            "\u00bd tsp peppermint extract"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 12",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 170C/325F/Gas 3. Grease and line three 20cm/8in sandwich tins.",
@@ -68,8 +78,9 @@
         "For the chocolate leaves, paint half of the mint leaves with white chocolate and the other half with dark chocolate using a pastry brush. Prop the painted leaves against something (such as the handle of a wooden spoon) to create slightly curved leaves. Chill in the fridge for 10 minutes, or until set. Use tweezers to peel the chocolate leaf from the mint leaf and discard the mint leaf.",
         "To ice the cake, place one cake onto a serving plate and top with half of the mint filling. Add the second cake and top with the remaining filling; finish with the final cake. Ice the top and sides of the cake with the chocolate ganache and decorate with the chocolate leaves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chocolate mint cake",
     "videos": "[]"
 }

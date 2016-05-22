@@ -1,40 +1,32 @@
 {
-    "title": "Blackberry meringue parfait",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "overnight",
-    "serves": "Serves 8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Pair sweet meringue with tart blackberrys for a wonderful dessert.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Pair sweet meringue with tart blackberrys for a wonderful dessert.",
+    "dishes": [
+        "cake",
+        "crumble",
+        "custard",
+        "jam",
+        "meringue",
+        "oven-baked_dishes",
+        "parfait",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "how_to_make_italian_meringue",
+        "using_piping_bags",
+        "whipping_cream"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the meringue base": [
-            "3 free-range egg whites",
-            "225g/8oz caster sugar",
-            "1\u00bd tsp cornflour",
-            "1 tsp white wine vinegar"
-        ],
-        "For the blackberry parfait": [
-            "450g/1lb blackberries",
-            "150ml/5fl oz ready-made vanilla custard",
-            "\u00bd lemon, juice only",
-            "350ml/13fl oz double cream, whipped until firm peaks form when the whisk is removed",
-            "3 free-range egg whites",
-            "225g/8oz caster sugar"
-        ],
         "For the Italian meringue topping": [
             "175g/6oz caster sugar",
             "75ml/3fl oz cold water",
@@ -45,7 +37,27 @@
             "25g/1oz butter",
             "200g/7oz blackberries",
             "3 tbsp blackberry liqueur"
+        ],
+        "For the blackberry parfait": [
+            "450g/1lb blackberries",
+            "150ml/5fl oz ready-made vanilla custard",
+            "\u00bd lemon, juice only",
+            "350ml/13fl oz double cream, whipped until firm peaks form when the whisk is removed",
+            "3 free-range egg whites",
+            "225g/8oz caster sugar"
+        ],
+        "For the meringue base": [
+            "3 free-range egg whites",
+            "225g/8oz caster sugar",
+            "1\u00bd tsp cornflour",
+            "1 tsp white wine vinegar"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 8",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the meringue base, preheat the oven to 140C/275F/Gas 1. Line a baking tray with baking parchment.",
@@ -62,11 +74,9 @@
         "For the blackberries, fry the butter and blackberries in a non-reactive frying pan over a high heat for 1-2 minutes, or until just softened. Add the blackberry liqueur. Carefully set the liqueur alight with a kitchen match. Allow the flames to flare up and die down, then continue to cook for a further minute.",
         "To serve, crumble some of the crisp meringue base into the centre of each of eight plates. Using a hot knife, cut eight slices of blackberry parfait and place one on top of each serving of meringue. Pipe some Italian meringue onto the top of the parfait. Using a cooks' blow torch, brown the tops of the meringue. Spoon some warm blackberries alongside and serve immediately."
     ],
-    "howTos": [
-        "folding",
-        "how_to_make_italian_meringue",
-        "using_piping_bags",
-        "whipping_cream"
+    "tips": [
+        
     ],
+    "title": "Blackberry meringue parfait",
     "videos": "[]"
 }

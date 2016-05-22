@@ -1,35 +1,31 @@
 {
-    "title": "Hand-raised chicken and bacon pie",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 2 pies",
-    "recommendations": "21",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/hand-raised_chicken_and_12433_16x9.jpg"
-    ],
-    "description": "Paul Hollywood's delicious pies have a rich golden pastry and are made in the traditional way.",
     "author": {
         "paul_hollywood": "Paul Hollywood"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Paul Hollywood's delicious pies have a rich golden pastry and are made in the traditional way.",
+    "dishes": [
+        "chicken_pie",
+        "jam",
+        "jelly",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_shape_hot_water_pastry_for_a_raised_pie"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/hand-raised_chicken_and_12433_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "200g/7oz plain flour",
-            "40g/1\u00bdoz strong flour",
-            "50g/1\u00beoz butter",
-            "130ml/4\u00bcfl oz boiling water",
-            "1 tsp salt",
-            "60g/2\u00bcoz lard",
-            "1 free-range egg, beaten, for egg wash"
-        ],
         "For the filling": [
             "300g/10\u00bdoz chicken breast and thigh meat, cut into chunks",
             "300g/10\u00bdoz smoked back bacon rashers",
@@ -39,7 +35,22 @@
             "2 leaves gelatine",
             "\u00bc pint hot water",
             "1 chicken stock cube"
+        ],
+        "default": [
+            "200g/7oz plain flour",
+            "40g/1\u00bdoz strong flour",
+            "50g/1\u00beoz butter",
+            "130ml/4\u00bcfl oz boiling water",
+            "1 tsp salt",
+            "60g/2\u00bcoz lard",
+            "1 free-range egg, beaten, for egg wash"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "21",
+    "serves": "Makes 2 pies",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -62,8 +73,9 @@
         "Carefully pour the stock into the slit on the pie lid, to fill in any spaces inside the pie with (what will be) chicken stock jelly. This must be done when the pie is hot, if done when cold the jelly will just sit on the top and not soak into every nook and cranny.",
         "Leave to set overnight before eating."
     ],
-    "howTos": [
-        "how_to_shape_hot_water_pastry_for_a_raised_pie"
+    "tips": [
+        
     ],
+    "title": "Hand-raised chicken and bacon pie",
     "videos": "[]"
 }

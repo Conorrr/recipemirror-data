@@ -1,26 +1,42 @@
 {
-    "title": "Madras chicken curry with pilau rice",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4-6",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Marinating the chicken for 24 hours is the key to this curry. Serve with James' fluffy pilau rice to make it extra special.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Indian",
+    "description": "Marinating the chicken for 24 hours is the key to this curry. Serve with James' fluffy pilau rice to make it extra special.",
+    "dishes": [
+        "chicken_curry",
+        "curry",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "testing_cooked_poultry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the curry": [
+            "1 tbsp vegetable oil",
+            "1 onion, finely chopped",
+            "2 garlic cloves, finely chopped",
+            "2 red chillies, deseeded and finely chopped",
+            "2cm/1in piece fresh root ginger, chopped",
+            "10 curry leaves",
+            "2 tsp tamarind paste",
+            "1 x 400g/14oz tin tomatoes",
+            "300ml/10\u00bdfl oz chicken stock",
+            "2 tbsp fresh coriander"
+        ],
         "For the marinade": [
             "2 tbsp coriander seeds",
             "2 tbsp fenugreek seeds",
@@ -36,18 +52,6 @@
             "2 tbsp vegetable oil",
             "1 whole chicken"
         ],
-        "For the curry": [
-            "1 tbsp vegetable oil",
-            "1 onion, finely chopped",
-            "2 garlic cloves, finely chopped",
-            "2 red chillies, deseeded and finely chopped",
-            "2cm/1in piece fresh root ginger, chopped",
-            "10 curry leaves",
-            "2 tsp tamarind paste",
-            "1 x 400g/14oz tin tomatoes",
-            "300ml/10\u00bdfl oz chicken stock",
-            "2 tbsp fresh coriander"
-        ],
         "For the pilau rice": [
             "2 tbsp vegetable oil",
             "1 onion, thinly sliced",
@@ -56,6 +60,12 @@
             "4 cloves",
             "400g/14oz basmati rice"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "5",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the marinade, heat a small frying pan, once hot add the coriander seeds, fenugreek seeds, mustard seeds, cumin seeds, fennel seeds, black peppercorns, cinnamon stick, cloves and cardamom seeds. Once they start to pop add them to a spice grinder or pestle and mortar and blend until you have a fine powder.",
@@ -68,8 +78,9 @@
         "Stir in the cardamom, cinnamon and cloves. Add the rice and stir to coat in the onion spice mix. Add 600ml/20fl oz water and bring to the boil, reduce the heat to low and cover with a lid. Cook for 15 minutes then turn off the heat, leaving the lid on, and leave to steam for another 15 minutes.",
         "To serve, place the curry in shallow serving bowls and sprinkle over the chopped coriander. Serve the rice in a separate bowl."
     ],
-    "howTos": [
-        "testing_cooked_poultry"
+    "tips": [
+        
     ],
+    "title": "Madras chicken curry with pilau rice",
     "videos": "[]"
 }

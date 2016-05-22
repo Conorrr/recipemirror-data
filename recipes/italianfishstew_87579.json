@@ -1,23 +1,25 @@
 {
-    "title": "Italian fish stew",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "theo_randall": "Theo Randall"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "broth",
+        "pie",
+        "sauce",
+        "seafood",
+        "stew",
+        "stock"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -43,6 +45,12 @@
             "2 tbsp finely chopped flatleaf parsley"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 2",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
+    },
     "steps": [
         "Heat a deep-sided frying pan until hot and add a tablespoon of olive oil. Add the carrot, onion, fennel, two of the chopped garlic cloves, the chilli flakes and fennel seeds and fry gently for 2-3 minutes.",
         "Drain the mushrooms and squeeze out any excess liquid, then roughly chop. The soaking liquid can be used in another dish.",
@@ -55,8 +63,9 @@
         "Add the fish broth and saffron potatoes and bring to the boil. Reduce the heat and simmer for a few minutes, then add the cooked lobster, if using, and continue to simmer until heated through.",
         "In a bowl, mix the chopped parsley with the remaining chopped garlic. Sprinkle the mixture over the top of the stew and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Italian fish stew",
     "videos": "[]"
 }

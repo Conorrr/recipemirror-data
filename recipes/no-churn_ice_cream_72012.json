@@ -1,47 +1,51 @@
 {
-    "title": "No-churn ice cream",
-    "cookTime": "no cooking required",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 6",
-    "recommendations": "110",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/no-churn_ice_cream_72012_16x9.jpg"
-    ],
-    "description": "Try Mary Berry\u2019s recipe for an easy, no-churn homemade ice cream with plenty of flavour variations to chose from.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b016pbs9": "Great British Food Revival"
-    },
-    "tips": [
-        "I like to use this ice cream in my Knickerbocker glory. I make it in a classic tall Sundae glass, using three scoops of ice cream layered with crushed fresh pineapple, raspberry pur\u00e9e and whipped cream decorated with fresh raspberries of cherries."
+    "cookTime": "no cooking required",
+    "description": "Try Mary Berry\u2019s recipe for an easy, no-churn homemade ice cream with plenty of flavour variations to chose from.",
+    "dishes": [
+        "ice_cream",
+        "meringue"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "whipping_cream",
+        "whisking_egg_whites"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/no-churn_ice_cream_72012_16x9.jpg"
+    ],
     "ingredients": {
-        "default": [
-            "4 free-range eggs, separated",
-            "100g/3\u00bdoz caster sugar",
-            "300ml/\u00bdpint double cream"
-        ],
-        "Vanilla flavour": [
-            "1 tsp vanilla extract"
-        ],
-        "Ginger flavour": [
-            "100g/3\u00bdoz stem ginger, chopped, plus 4 tbsp syrup from the jar"
-        ],
         "Coffee and brandy flavour": [
             "2-3 tbsp coffee essence",
             "2 tbsp brandy"
+        ],
+        "Ginger flavour": [
+            "100g/3\u00bdoz stem ginger, chopped, plus 4 tbsp syrup from the jar"
         ],
         "Raspberry flavour": [
             "150ml/5fl oz sieved raspberry pur\u00e9e (you could also use strawberry)"
         ],
         "Rum and raisin flavour": [
             "100g/3\u00bdoz raisins soaked in 4 tbsp rum for 2 hours"
+        ],
+        "Vanilla flavour": [
+            "1 tsp vanilla extract"
+        ],
+        "default": [
+            "4 free-range eggs, separated",
+            "100g/3\u00bdoz caster sugar",
+            "300ml/\u00bdpint double cream"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "110",
+    "serves": "Serves 6",
+    "show": {
+        "b016pbs9": "Great British Food Revival"
     },
     "steps": [
         "Whisk the egg whites in a large bowl until stiff peaks form when the whisk is removed.",
@@ -50,9 +54,9 @@
         "Fold the cream, egg yolks and your chosen flavouring (see ingredients list) into the meringue mixture until well combined.",
         "Pour into a plastic container and freeze for at least two hours."
     ],
-    "howTos": [
-        "whipping_cream",
-        "whisking_egg_whites"
+    "tips": [
+        "I like to use this ice cream in my Knickerbocker glory. I make it in a classic tall Sundae glass, using three scoops of ice cream layered with crushed fresh pineapple, raspberry pur\u00e9e and whipped cream decorated with fresh raspberries of cherries."
     ],
+    "title": "No-churn ice cream",
     "videos": "[]"
 }

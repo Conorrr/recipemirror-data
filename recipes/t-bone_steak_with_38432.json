@@ -1,45 +1,26 @@
 {
-    "title": "T-bone steak with bearnaise sauce and a green salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This cut of steak is quite expensive, so if you decide to treat yourself you might as well go the whole hog and serve it with some smart trimmings. Equipment and preparation: for this recipe you will need a blender and deep-fat fryer.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This cut of steak is quite expensive, so if you decide to treat yourself you might as well go the whole hog and serve it with some smart trimmings. Equipment and preparation: for this recipe you will need a blender and deep-fat fryer.",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_cook_steak"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the dressing": [
-            "2 tbsp French dressing",
-            "2 tbsp honey",
-            "2 tbsp white balsamic vinegar",
-            "500ml/18fl oz vegetable oil",
-            "5g finely chopped shallot",
-            "\u00bd garlic clove, sliced",
-            "1 tsp chopped fresh basil",
-            "1 tsp chopped fresh thyme leaves",
-            "1 tsp chopped chives",
-            "1 tsp chopped fresh parsley leaves"
-        ],
-        "For the deep-fried onion rings": [
-            "1 tsp fresh yeast",
-            "400ml/14fl oz beer",
-            "200g/7oz plain flour",
-            "vegetable oil, for deep-frying",
-            "2 small onions, finely sliced into rings"
-        ],
         "For the T-bone steak": [
             "2 x T-bone steaks",
             "4 tbsp rapeseed oil"
@@ -54,6 +35,25 @@
             "\u00bd lemon, juice only",
             "1 tbsp chopped tarragon leaves"
         ],
+        "For the deep-fried onion rings": [
+            "1 tsp fresh yeast",
+            "400ml/14fl oz beer",
+            "200g/7oz plain flour",
+            "vegetable oil, for deep-frying",
+            "2 small onions, finely sliced into rings"
+        ],
+        "For the dressing": [
+            "2 tbsp French dressing",
+            "2 tbsp honey",
+            "2 tbsp white balsamic vinegar",
+            "500ml/18fl oz vegetable oil",
+            "5g finely chopped shallot",
+            "\u00bd garlic clove, sliced",
+            "1 tsp chopped fresh basil",
+            "1 tsp chopped fresh thyme leaves",
+            "1 tsp chopped chives",
+            "1 tsp chopped fresh parsley leaves"
+        ],
         "For the green salad": [
             "sea salt and freshly ground black pepper",
             "25g/1oz baby spinach leaves",
@@ -61,6 +61,12 @@
             "\u00bd head broccoli, florets finely sliced",
             "100g/3\u00bdoz French green beans, cooked"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the dressing, place all the dressing ingredients in a food processor and blend until smooth. Set aside.",
@@ -74,8 +80,9 @@
         "To serve, place the green salad ingredients in a bowl. Add the dressing and toss to coat.",
         "Season the steak with salt and pepper. Cut the steak into slices and place on serving plates alongside the salad and a pile of onion rings. Put the sauce into a jug ready to serve at the table."
     ],
-    "howTos": [
-        "how_to_cook_steak"
+    "tips": [
+        
     ],
+    "title": "T-bone steak with bearnaise sauce and a green salad",
     "videos": "[]"
 }

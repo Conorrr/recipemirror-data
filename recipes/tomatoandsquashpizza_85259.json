@@ -1,24 +1,23 @@
 {
-    "title": "Tomato and squash pizza",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1-2",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "pizza",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the pizza dough": [
@@ -44,6 +43,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1-2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Preheat the oven to 230C/450F/Gas 8.",
         "For the pizza dough, place the flour, salt and olive oil into a large bowl and mix well. Add enough warm water to make a soft but not sticky dough.",
@@ -53,8 +58,9 @@
         "Transfer the pizza to the oven and bake for 10-12 minutes, or until the base is crisp and cooked through.",
         "To serve, place the pizza onto a serving plate."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Tomato and squash pizza",
     "videos": "[]"
 }

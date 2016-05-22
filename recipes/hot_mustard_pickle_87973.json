@@ -1,24 +1,27 @@
 {
-    "title": "Hot mustard pickle",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "overnight",
-    "serves": "Makes 5 jars",
-    "recommendations": "25",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/hot_mustard_pickle_87973_16x9.jpg"
-    ],
-    "description": "Transform a glut of vegetables into a delicious homemade pickle.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Transform a glut of vegetables into a delicious homemade pickle.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pickle",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "upside-down_cake"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/hot_mustard_pickle_87973_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -37,6 +40,12 @@
             "250g/9oz granulated sugar"
         ]
     },
+    "prepTime": "overnight",
+    "recommendations": "25",
+    "serves": "Makes 5 jars",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
+    },
     "steps": [
         "Sterilise the jam jars - first wash the jars in soapy water and rinse in clean warm water. Preheat the oven to 140C/275F/Gas 1. Dry the jars, upside down, on a rack for 30 minutes.",
         "Put the vegetables in a non-metallic mixing bowl, sprinkling with the salt and mix until well combined. Cover with a plate and leave to stand for 24 hours.",
@@ -46,8 +55,9 @@
         "Stir the cornflour mixture into the pan with the vegetables until well combined. Cook for a further 8-10 minutes, stirring regularly until the vegetables are tender but crisp and the sauce has thickened.",
         "Put the pickle into the jam jars, ensuring that all the vegetables are evenly distributed, and leave to cool. Cover with glass or plastic coated metal lids and seal. Label and store in a cool, dark place for at least a month before eating."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Hot mustard pickle",
     "videos": "[]"
 }

@@ -1,32 +1,35 @@
 {
-    "title": "Chiffon pie",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Chiffon pie is an American classic of sweet pastry filled with a light mousse-like filling. This version uses a raspberry and blueberry filling topped with whipped cream.",
     "author": {
         "brendan_lynch": "Brendan Lynch"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "American",
+    "description": "Chiffon pie is an American classic of sweet pastry filled with a light mousse-like filling. This version uses a raspberry and blueberry filling topped with whipped cream.",
+    "dishes": [
+        "bread",
+        "icing",
+        "jam",
+        "mousse",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "250g/10oz plain flour",
-            "pinch salt",
-            "100g/3\u00bdoz butter, plus extra for greasing",
-            "2 medium free-range eggs, lightly beaten",
-            "100g/3\u00bdoz icing sugar"
+        "For the blueberry coulis": [
+            "150g/6oz blueberries",
+            "50g/2oz caster sugar",
+            "1 tbsp cornflour"
         ],
         "For the blueberry jam": [
             "650g/1lb 7oz blueberries, reserving 30 blueberries for decoration",
@@ -37,6 +40,18 @@
             "1 x 8g sachet pectin",
             "2\u00bd tbsp cornflour"
         ],
+        "For the chantilly cream": [
+            "850ml/1\u00bd pints of double cream, very cold - straight from the fridge",
+            "80g/3\u00bcoz icing sugar",
+            "2 tsp vanilla extract"
+        ],
+        "For the pastry": [
+            "250g/10oz plain flour",
+            "pinch salt",
+            "100g/3\u00bdoz butter, plus extra for greasing",
+            "2 medium free-range eggs, lightly beaten",
+            "100g/3\u00bdoz icing sugar"
+        ],
         "For the raspberry chiffon filling": [
             "650g/1lb 7oz raspberries, reserving 20 raspberries for decoration",
             "150g/6oz caster sugar",
@@ -44,21 +59,17 @@
             "1\u00bd sachets powdered gelatine, soaked in 5 tbsp cold water",
             "100ml/3\u00bdfl oz double cream, whipped to soft peaks"
         ],
-        "For the chantilly cream": [
-            "850ml/1\u00bd pints of double cream, very cold - straight from the fridge",
-            "80g/3\u00bcoz icing sugar",
-            "2 tsp vanilla extract"
-        ],
         "For the raspberry coulis": [
             "150g/6oz raspberries",
             "50g/2oz caster sugar",
             "1 tbsp cornflour"
-        ],
-        "For the blueberry coulis": [
-            "150g/6oz blueberries",
-            "50g/2oz caster sugar",
-            "1 tbsp cornflour"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 10",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the pastry, sift the flour and salt into a mixing bowl. Rub the butter into the flour until the mixture resembles breadcrumbs. Add the lightly beaten eggs a little at a time, mixing until the dough just comes together (you may not need all the eggs). Knead lightly until it forms a smooth ball, then wrap in cling film and place in fridge for 45 minutes.",
@@ -76,8 +87,9 @@
         "Transfer the raspberry coulis to a piping bag fitted with a small plain nozzle, and pipe a swirl of coulis onto half the rosettes. Repeat the process with the blueberry coulis on the remaining rosettes.",
         "Place a blueberry or raspberry onto each rosette with the matching coulis. Chill until ready to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chiffon pie",
     "videos": "[]"
 }

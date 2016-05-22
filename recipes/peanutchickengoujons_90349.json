@@ -1,32 +1,29 @@
 {
-    "title": "Peanut chicken goujons with chilli pak choi and lime and coriander dressing",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "maria_elia": "Maria Elia"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "goujons",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the peanut chicken": [
-            "55g/2oz peanuts, shelled",
-            "\u00bd chicken breast, skin removed, sliced into strips",
-            "3 tbsp plain flour",
-            "1 free-range egg, beaten",
-            "2 tbsp vegetable oil"
+        "For the dressing": [
+            "2 limes, juice only",
+            "2 tbsp brown sugar",
+            "2 tbsp soy sauce",
+            "\u00bd red chilli, chopped",
+            "2 tbsp chopped fresh coriander"
         ],
         "For the pak choi": [
             "2 pak choi, split in half lengthways",
@@ -36,13 +33,19 @@
             "2 tbsp soy sauce",
             "\u00bd lime, juice only"
         ],
-        "For the dressing": [
-            "2 limes, juice only",
-            "2 tbsp brown sugar",
-            "2 tbsp soy sauce",
-            "\u00bd red chilli, chopped",
-            "2 tbsp chopped fresh coriander"
+        "For the peanut chicken": [
+            "55g/2oz peanuts, shelled",
+            "\u00bd chicken breast, skin removed, sliced into strips",
+            "3 tbsp plain flour",
+            "1 free-range egg, beaten",
+            "2 tbsp vegetable oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the peanut chicken, place the peanuts into a food processor and pulse to crumbs. Tip onto a large plate.",
@@ -51,8 +54,9 @@
         "For the dressing, combine all of the dressing ingredients together in a bowl and mix well.",
         "Serve the pak choi alongside the peanut chicken, with the dressing spooned around the edges of the plate."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Peanut chicken goujons with chilli pak choi and lime and coriander dressing",
     "videos": "[]"
 }

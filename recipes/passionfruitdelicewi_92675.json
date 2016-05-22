@@ -1,35 +1,36 @@
 {
-    "title": "Passion fruit delice with autumn berries",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "",
+    "dishes": [
+        "cake",
+        "custard",
+        "jam",
+        "meringue",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "folding",
+        "skimming_stock"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sugar syrup": [
-            "370g/13\u00bcoz caster sugar",
-            "325ml/11\u00bdfl oz water",
-            "30g/1\u00bcoz liquid glucose"
-        ],
         "For the Italian meringue": [
             "170g/6oz caster sugar",
             "5 tbsp water",
             "3 free-range egg whites"
+        ],
+        "For the glaze": [
+            "50ml/1\u00befl oz sugar syrup (see above)",
+            "5 passion fruit, pulp only",
+            "3 gelatine leaves, soaked in cold water for 15 minutes, drained"
         ],
         "For the passion fruit delice": [
             "16 passion fruit, pulp only",
@@ -43,16 +44,22 @@
             "400ml/14fl oz double cream, whipped until soft peaks form when the whisk is removed",
             "\u00bd ready-made round sponge flan base, cut in half horizontally to form two thinner cakes (second cake reserved for another recipe)"
         ],
-        "For the glaze": [
-            "50ml/1\u00befl oz sugar syrup (see above)",
-            "5 passion fruit, pulp only",
-            "3 gelatine leaves, soaked in cold water for 15 minutes, drained"
+        "For the sugar syrup": [
+            "370g/13\u00bcoz caster sugar",
+            "325ml/11\u00bdfl oz water",
+            "30g/1\u00bcoz liquid glucose"
         ],
         "To serve": [
             "200g/7\u00bcoz fresh blackberries",
             "200g/7\u00bcoz fresh redcurrants",
             "1 passion fruit, inner pulp only"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the sugar syrup, place all the syrup ingredients into a pan and bring to the boil, stirring occasionally with a wooden spoon. Boil for 2-3 minutes, skimming the surface if necessary. Pass the syrup through a fine sieve and set aside until completely cooled.",
@@ -70,9 +77,9 @@
         "To serve, remove the tart ring by heating the outside of the ring with a blowtorch for a few seconds, then slide the ring upwards, rotating it slightly.",
         "Place a slice of delice onto a serving plate and garnish with redcurrants, blackberries, and passionfruit pulp."
     ],
-    "howTos": [
-        "folding",
-        "skimming_stock"
+    "tips": [
+        
     ],
+    "title": "Passion fruit delice with autumn berries",
     "videos": "[]"
 }

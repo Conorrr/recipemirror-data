@@ -1,24 +1,22 @@
 {
-    "title": "Sumo fries",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "chips",
+        "jam",
+        "oven-baked_dishes"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,14 +26,21 @@
             "1 sprig fresh thyme"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        
+    },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
         "Heat the oil in an ovenproof pan. Add the potatoes, garlic and thyme and saut\u00e9 for eight minutes, to colour golden brown on all sides.",
         "Transfer to the oven for five minutes, or until cooked through.",
         "Remove from the oven and serve with a sprinkling of salt."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sumo fries",
     "videos": "[]"
 }

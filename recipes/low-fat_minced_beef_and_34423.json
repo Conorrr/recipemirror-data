@@ -1,26 +1,37 @@
 {
-    "title": "Low-fat minced beef and potato pies",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 6",
-    "recommendations": "126",
-    "images": [
-        
-    ],
-    "description": "As you all know, we love our pies and we hated the idea of giving them up while we\u2019re trying to lose weight. Fortunately, we got this idea for a low-fat \u2018pastry\u2019 cases from our clever friend Justine and meat pies are back on the menu. You\u2019ll need some small individual foil pie dishes. Each pie provides 335 kcal, 13.5g protein, 59g carbohydrate (of which 6g sugars), 5g fat (of which 2g saturates), 3g fibre and 1g salt.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "p00vq8c6": "Hairy Dieters: How to Love Food and Lose Weight"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "As you all know, we love our pies and we hated the idea of giving them up while we\u2019re trying to lose weight. Fortunately, we got this idea for a low-fat \u2018pastry\u2019 cases from our clever friend Justine and meat pies are back on the menu. You\u2019ll need some small individual foil pie dishes. Each pie provides 335 kcal, 13.5g protein, 59g carbohydrate (of which 6g sugars), 5g fat (of which 2g saturates), 3g fibre and 1g salt.",
+    "dishes": [
+        "ketchup",
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "pizza",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "how_to_brown_mince"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pastry": [
+            "2 x 145g/5\u00bcoz packets pizza base mix",
+            "about 200ml/7fl oz lukewarm water",
+            "plain flour, for kneading and rolling",
+            "1\u20132 tbsp semi-skimmed milk"
+        ],
         "default": [
             "1 medium onion, finely diced",
             "2 small carrots, peeled and diced",
@@ -36,13 +47,13 @@
             "200g/7oz floury potatoes, preferably King Edwards or Maris Pipers, peeled and cut into 1.5cm/\u00bein cubes",
             "300ml/\u00bd pint beef stock, made with 1 beef stock cube",
             "75g/3oz frozen peas"
-        ],
-        "For the pastry": [
-            "2 x 145g/5\u00bcoz packets pizza base mix",
-            "about 200ml/7fl oz lukewarm water",
-            "plain flour, for kneading and rolling",
-            "1\u20132 tbsp semi-skimmed milk"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "126",
+    "serves": "Serves 6",
+    "show": {
+        "p00vq8c6": "Hairy Dieters: How to Love Food and Lose Weight"
     },
     "steps": [
         "Put the onion, carrots, celery and beef together in a large non-stick saucepan and dry-fry over a high heat for 2\u20133 minutes, until the beef is no longer pink. Keep stirring with a couple of wooden spoons to break up the mince.",
@@ -65,8 +76,9 @@
         "Put them back in the oven for a further 15 minutes or until the pies are pale golden brown and the filling is piping hot.",
         "Remove the pies from the oven and leave to stand for five minutes before removing the foil, then tuck in!"
     ],
-    "howTos": [
-        "how_to_brown_mince"
+    "tips": [
+        
     ],
+    "title": "Low-fat minced beef and potato pies",
     "videos": "[p00xfhdk:p00xfhdm]"
 }

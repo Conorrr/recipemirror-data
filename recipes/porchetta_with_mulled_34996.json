@@ -1,30 +1,35 @@
 {
-    "title": "Porchetta with mulled apple comp\u00f4te and bread pudding",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Pork and apple is an unbeatable match. The bread pudding makes an excellent alternative to potatoes.",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b04gtx26": "A Taste of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Pork and apple is an unbeatable match. The bread pudding makes an excellent alternative to potatoes.",
+    "dishes": [
+        "bread",
+        "compote",
+        "oven-baked_dishes",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "3kg/6lb 8oz rolled and stuffed pork loin",
-            "2-3 tbsp olive oil",
-            "sea salt and freshly ground black pepper"
+        "For the bread pudding": [
+            "85g/3oz butter, plus extra for greasing",
+            "1 onion, finely chopped",
+            "1 garlic clove, crushed",
+            "20 slices white bread, crust left on, diced",
+            "2 tbsp chopped sage",
+            "1 tbsp chopped parsley",
+            "2 free-range eggs, beaten",
+            "140ml/\u00bc pint chicken stock"
         ],
         "For the comp\u00f4te": [
             "1 cinnamon stick",
@@ -35,16 +40,17 @@
             "4 tbsp runny honey",
             "2 tbsp cider brandy"
         ],
-        "For the bread pudding": [
-            "85g/3oz butter, plus extra for greasing",
-            "1 onion, finely chopped",
-            "1 garlic clove, crushed",
-            "20 slices white bread, crust left on, diced",
-            "2 tbsp chopped sage",
-            "1 tbsp chopped parsley",
-            "2 free-range eggs, beaten",
-            "140ml/\u00bc pint chicken stock"
+        "default": [
+            "3kg/6lb 8oz rolled and stuffed pork loin",
+            "2-3 tbsp olive oil",
+            "sea salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4-6",
+    "show": {
+        "b04gtx26": "A Taste of Britain"
     },
     "steps": [
         "Preheat the oven to 220C/435F/Gas 7.",
@@ -59,8 +65,9 @@
         "Grease an ovenproof dish, pour in the mixture and bake for 25-30 minutes, until crisp and golden-brown on top.",
         "Serve slices of pork alongside the bread pudding, with a good helping of comp\u00f4te on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Porchetta with mulled apple comp\u00f4te and bread pudding",
     "videos": "[]"
 }

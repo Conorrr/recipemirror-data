@@ -1,23 +1,25 @@
 {
-    "title": "Summery fish pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "There\u2019s no need to poach the fish in this easy version of a comfort food classic.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "There\u2019s no need to poach the fish in this easy version of a comfort food classic.",
+    "dishes": [
+        "fish_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "roux",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -28,6 +30,10 @@
             "1 lemon, juice, zest of \u00bd lemon",
             "salt and freshly ground black pepper",
             "3 tbsp chopped fresh chives"
+        ],
+        "For the pastry": [
+            "500g/1lb 1oz ready-made puff pastry",
+            "1 egg, beaten"
         ],
         "For the sauce": [
             "50g/2oz butter",
@@ -41,11 +47,13 @@
             "12 boiled quails\u2019 eggs, peeled, halved",
             "100g/3\u00bdoz asparagus spears, woody ends trimmed, cut into 5cm/2in lengths",
             "75g/3oz podded fresh peas"
-        ],
-        "For the pastry": [
-            "500g/1lb 1oz ready-made puff pastry",
-            "1 egg, beaten"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -57,8 +65,9 @@
         "Brush the tpastry with beaten egg. Stick the fish shapes and letters onto the pie with a little more beaten egg.",
         "Cut a steam hole in the top of the pie and cook for 10 minutes. Reduce the oven to 170C/325F/Gas 3 and bake for a further 20 minutes, or until the pastry is risen and golden-brown and the pie filling is bubbling."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Summery fish pie",
     "videos": "[]"
 }

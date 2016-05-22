@@ -1,24 +1,25 @@
 {
-    "title": "Spiced roasted pineapple with coconut rum ice cream",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Michel Roux serves up an exotic dessert of roasted pineapple that's the ideal finish to a spicy Asian dinner.",
     "author": {
         "michel_roux": "Michel Roux"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Michel Roux serves up an exotic dessert of roasted pineapple that's the ideal finish to a spicy Asian dinner.",
+    "dishes": [
+        "custard",
+        "ice_cream",
+        "oven-baked_dishes",
+        "roux",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the ice cream": [
@@ -30,6 +31,11 @@
             "100ml/3\u00bdfl oz double cream",
             "75ml/3fl oz dark rum"
         ],
+        "For the pineapple": [
+            "1 x 1.8kg/4lb ripe pineapple",
+            "16 cloves",
+            "50ml/2fl oz groundnut oil"
+        ],
         "For the syrup": [
             "1 litre/1\u00be pints water",
             "400g/14oz light brown sugar",
@@ -37,12 +43,13 @@
             "16 dried Sichuan peppercorns, crushed",
             "1 tsp quatre \u00e9pices",
             "6 star anise"
-        ],
-        "For the pineapple": [
-            "1 x 1.8kg/4lb ripe pineapple",
-            "16 cloves",
-            "50ml/2fl oz groundnut oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the ice cream, heat the milk, coconut milk and two-thirds of the sugar in a heavy-based saucepan and slowly bring to the boil.",
@@ -65,8 +72,9 @@
         "To serve, slice the pineapple into 1cm/\u00bdin slices.",
         "Arrange in a serving dish, retaining the star anise for decoration, and serve the ice cream alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spiced roasted pineapple with coconut rum ice cream",
     "videos": "[]"
 }

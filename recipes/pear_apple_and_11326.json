@@ -1,24 +1,24 @@
 {
-    "title": "Pear, apple and blackberry crumble with hazelnut ice cream",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This delicious autumnal crumble sings the praises of hazelnuts: roasted hazelnuts add crunch to the topping, while hazelnut syrup makes a lovely base for ice cream. Equipment: You will need an ice cream machine.",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This delicious autumnal crumble sings the praises of hazelnuts: roasted hazelnuts add crunch to the topping, while hazelnut syrup makes a lovely base for ice cream. Equipment: You will need an ice cream machine.",
+    "dishes": [
+        "bread",
+        "crumble",
+        "oven-baked_dishes",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the fruit": [
@@ -28,6 +28,13 @@
             "100g/3\u00bdoz sugar (or to taste)",
             "150g/5\u00bdz frozen blackberries"
         ],
+        "For the ice cream": [
+            "500ml/18fl oz milk",
+            "500ml/18fl oz double cream",
+            "7 free-range egg yolks",
+            "30g/1oz caster sugar",
+            "2 tbsp hazelnut syrup"
+        ],
         "For the topping": [
             "250g/9oz unsalted butter",
             "500g/1lb 2oz plain flour",
@@ -35,14 +42,13 @@
             "125g/4\u00bdoz caster sugar",
             "125g/4\u00bdoz roasted hazelnuts, skinned, roughly chopped",
             "1 orange, zest only"
-        ],
-        "For the ice cream": [
-            "500ml/18fl oz milk",
-            "500ml/18fl oz double cream",
-            "7 free-range egg yolks",
-            "30g/1oz caster sugar",
-            "2 tbsp hazelnut syrup"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "",
+    "serves": "Serves 8",
+    "show": {
+        "b01rycym": "Chefs: Put Your Menu Where Your Mouth Is"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -55,8 +61,9 @@
         "Stir in the hazelnut syrup and then add the mixture to an ice cream machine. Churn according to manufacturer\u2019s instructions until frozen.",
         "Serve the apple, pear and blackberry crumble with a scoop of hazelnut ice cream."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pear, apple and blackberry crumble with hazelnut ice cream",
     "videos": "[]"
 }

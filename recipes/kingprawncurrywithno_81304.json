@@ -1,31 +1,23 @@
 {
-    "title": "King prawn curry with noodles",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "curry",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the noodles": [
-            "100g/3\u00bdoz rice noodles",
-            "1 tbsp olive oil",
-            "salt and freshly ground black pepper"
-        ],
         "For the curry": [
             "1 tbsp vegetable oil",
             "1 clove garlic, finely chopped",
@@ -37,7 +29,18 @@
             "\u00bd lime, juice only",
             "1 tbsp chopped basil",
             "1 tsp chopped coriander, to garnish"
+        ],
+        "For the noodles": [
+            "100g/3\u00bdoz rice noodles",
+            "1 tbsp olive oil",
+            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Place the rice noodles in a large bowl and cover with boiling water. Leave for 5 minutes to cook, then drain and toss with the olive oil. Season with salt and freshly ground black pepper.",
@@ -46,8 +49,9 @@
         "Add the king prawns and cook for 5 minutes, then add the lime juice, the cooked noodles and the chopped basil and stir together.",
         "Serve on a large warm plate and sprinkle with chopped coriander."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "King prawn curry with noodles",
     "videos": "[]"
 }

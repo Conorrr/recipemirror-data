@@ -1,24 +1,22 @@
 {
-    "title": "Onion bhaji",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "54",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/onionbhaji_85976_16x9.jpg"
-    ],
-    "description": "Homemade onion bhajis are well worth the effort, they're great as a starter for an Indian feast.",
     "author": {
         "alex_kingston": "Alex Kingston"
     },
-    "show": {
-        "b00701fw": "A Taste of My Life"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "Indian",
+    "description": "Homemade onion bhajis are well worth the effort, they're great as a starter for an Indian feast.",
+    "dishes": [
+        "bhaji",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/onionbhaji_85976_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -30,6 +28,12 @@
             "3 tbsp vegetable oil, plus extra if required"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "54",
+    "serves": "Serves 4-6",
+    "show": {
+        "b00701fw": "A Taste of My Life"
+    },
     "steps": [
         "Beat the eggs in a bowl.",
         "Add the onion rings and mix well.",
@@ -38,8 +42,9 @@
         "Turn the bhaji over and fry for a further 30 seconds, until crisp and golden-brown all over. Remove and drain on kitchen paper.",
         "Repeat with the remaining bhaji mixture, replenishing the oil in the pan if it runs low and allowing it to heat up again after a new addition."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Onion bhaji",
     "videos": "[]"
 }

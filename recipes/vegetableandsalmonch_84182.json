@@ -1,26 +1,26 @@
 {
-    "title": "Vegetable and salmon bake",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1-2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "fresh chives, trimmed"
+        ],
         "default": [
             "142ml/5fl oz double cream",
             "\u00bd potato, chopped",
@@ -28,10 +28,13 @@
             "55g/2oz cheddar cheese, grated, plus extra for sprinkling",
             "2 free-range egg yolks, beaten",
             "55g/2oz salmon, skin removed, chopped"
-        ],
-        "To serve": [
-            "fresh chives, trimmed"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1-2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7",
@@ -40,8 +43,9 @@
         "Add the salmon and pour into an ovenproof dish. Top with extra cheese and place into the oven to bake for ten minutes, or until golden and cooked through.",
         "To serve, place the chives on top of the dish."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Vegetable and salmon bake",
     "videos": "[]"
 }

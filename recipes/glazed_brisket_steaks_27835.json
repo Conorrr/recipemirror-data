@@ -1,34 +1,30 @@
 {
-    "title": "Glazed brisket steaks with broccoli salad",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 8",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "A slow cook makes meltingly tender brisket. Here it\u2019s sliced and grilled or barbecued, with a mustard glaze, and served with salad.",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b04gtx26": "A Taste of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "A slow cook makes meltingly tender brisket. Here it\u2019s sliced and grilled or barbecued, with a mustard glaze, and served with salad.",
+    "dishes": [
+        "bun",
+        "pie",
+        "salad",
+        "sauce",
+        "slow-cooked_dishes"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 x 2kg/4lb 8oz piece flat brisket",
-            "2 large carrots, sliced",
-            "2 large onions, sliced",
-            "bunch fresh parsley stalks",
-            "12 peppercorns",
-            "1 bay leaf",
-            "2 tbsp oil"
+        "For the dressing": [
+            "1 tbsp wholegrain mustard",
+            "2 tbsp sherry vinegar",
+            "8 tbsp rapeseed oil"
         ],
         "For the marinade": [
             "4 tbsp sweet sherry",
@@ -39,16 +35,26 @@
             "2 tbsp groundnut oil",
             "Tabasco, to taste"
         ],
-        "For the dressing": [
-            "1 tbsp wholegrain mustard",
-            "2 tbsp sherry vinegar",
-            "8 tbsp rapeseed oil"
-        ],
         "For the salad": [
             "500g/1lb 2oz Tenderstem broccoli, cut into florets",
             "2 heads Little Gem Lettuce",
             "sea salt"
+        ],
+        "default": [
+            "1 x 2kg/4lb 8oz piece flat brisket",
+            "2 large carrots, sliced",
+            "2 large onions, sliced",
+            "bunch fresh parsley stalks",
+            "12 peppercorns",
+            "1 bay leaf",
+            "2 tbsp oil"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "2",
+    "serves": "Serves 8",
+    "show": {
+        "b04gtx26": "A Taste of Britain"
     },
     "steps": [
         "Put the brisket in a large pot with the carrots and onions.",
@@ -64,8 +70,9 @@
         "For the salad, blanch the broccoli in boiling salted water, then drain and refresh in cold water.",
         "Separate the outer leaves of the Little Gems, toss them in the dressing and lay them on serving plates, then repeat with the hearts. Toss the broccoli in the dressing and lay on top of the leaves. Place the meat on top and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Glazed brisket steaks with broccoli salad",
     "videos": "[]"
 }

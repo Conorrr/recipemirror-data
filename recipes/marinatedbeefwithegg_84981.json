@@ -1,34 +1,23 @@
 {
-    "title": "Marinated beef with egg-fried rice",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "zesting_citrus_fruit"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the marinated beef": [
-            "100g/3\u00bdoz rump steak, cut into thin slices",
-            "1 tbsp soy sauce",
-            "1 tsp sesame oil",
-            "\u00bd lime, zest and juice",
-            "salt and freshly ground black pepper",
-            "1 tbsp olive oil"
-        ],
         "For the egg-fried rice": [
             "1 tbsp vegetable oil",
             "2 free-range eggs, beaten",
@@ -36,7 +25,21 @@
             "35g/1\u00bcoz fresh or frozen (defrosted) peas",
             "1 tsp sesame oil",
             "1 tbsp soy sauce, to serve"
+        ],
+        "For the marinated beef": [
+            "100g/3\u00bdoz rump steak, cut into thin slices",
+            "1 tbsp soy sauce",
+            "1 tsp sesame oil",
+            "\u00bd lime, zest and juice",
+            "salt and freshly ground black pepper",
+            "1 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the marinated beef, place the beef into a bowl along with the soy sauce, sesame oil and lime zest and juice and season with salt and freshly ground black pepper. Leave to marinate for at least five minutes, ideally 30 minutes.",
@@ -45,8 +48,9 @@
         "Add the cooked rice, peas and sesame oil to the wok, stir well and cook for 2-3 minutes.",
         "To serve, transfer the rice to a bowl, top with the beef and drizzle over the soy sauce."
     ],
-    "howTos": [
-        "zesting_citrus_fruit"
+    "tips": [
+        
     ],
+    "title": "Marinated beef with egg-fried rice",
     "videos": "[]"
 }

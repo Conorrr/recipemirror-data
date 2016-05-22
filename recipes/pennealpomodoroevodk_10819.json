@@ -1,24 +1,23 @@
 {
-    "title": "Pasta with tomato and vodka sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "Called Penne al Pomodoro e Vodka in Italian, this recipe adds vodka near the end of cooking to give the flavour a little kick.",
     "author": {
         "anna_venturi": "Anna Venturi"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "Called Penne al Pomodoro e Vodka in Italian, this recipe adds vodka near the end of cooking to give the flavour a little kick.",
+    "dishes": [
+        "pasta",
+        "pasta_sauce",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -35,6 +34,12 @@
             "3 tbsp freshly grated parmesan"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "To make the tomato sauce, heat the olive oil in a small saucepan. Add the chopped garlic and fry gently until golden.",
         "Add the jar of tomato passata and season with salt and pepper. Add several fresh basil leaves and cook gently for about 10 minutes.",
@@ -42,8 +47,9 @@
         "Meanwhile, in a large frying pan melt the butter, add the crushed pepper and the drained pasta. Toss well, making sure that all the pasta is well coated with butter. Keep the heat high and toss the pasta with a spatula, while adding the tomato sauce and the cream. Add the glass of vodka, toss again and turn the heat off; if the vodka evaporates, you will loose the taste of it.",
         "Sprinkle with parmesan and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pasta with tomato and vodka sauce",
     "videos": "[]"
 }

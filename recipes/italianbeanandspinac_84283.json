@@ -1,31 +1,25 @@
 {
-    "title": "Spicy beans on toast",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/italianbeanandspinac_84283_16x9.jpg"
-    ],
-    "description": "Looking for something a bit different for brunch this weekend? Try beans on toast with a spicy Italian twist.",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        
-    },
-    "tips": [
-        "This is a great recipe for using up bread that is going stale."
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "Looking for something a bit different for brunch this weekend? Try beans on toast with a spicy Italian twist.",
+    "dishes": [
+        "baguette",
+        "bread",
+        "ciabatta"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/italianbeanandspinac_84283_16x9.jpg"
+    ],
     "ingredients": {
-        "For the toast": [
-            "2 diagonal slices ciabatta or baguette",
-            "2 tbsp olive oil",
-            "1 garlic clove"
-        ],
         "For the spicy beans and spinach": [
             "1 tbsp olive oil",
             "1 tsp dried chilli flakes",
@@ -35,7 +29,18 @@
             "55g/2oz kidney beans from a tin, rinsed and drained",
             "1 tsp chopped parsley, to garnish, optional",
             "salt and freshly ground black pepper"
+        ],
+        "For the toast": [
+            "2 diagonal slices ciabatta or baguette",
+            "2 tbsp olive oil",
+            "1 garlic clove"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        
     },
     "steps": [
         "Rub the bread with the olive oil and season with salt and pepper. Heat a frying pan until smoking and chargrill the bread for 1 minute on each side until crisp and golden-brown. Rub the clove of garlic on both sides of each toasted ciabatta slice and set aside in a warm place.",
@@ -43,8 +48,9 @@
         "Add the spinach and beans and cook until the spinach has wilted and the beans are warmed through. Drain out any excess moisture and season with salt and pepper.",
         "Put the toast on a plate, spoon over the beans and spinach mixture, then sprinkle over the parsley and serve."
     ],
-    "howTos": [
-        
+    "tips": [
+        "This is a great recipe for using up bread that is going stale."
     ],
+    "title": "Spicy beans on toast",
     "videos": "[]"
 }

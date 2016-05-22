@@ -1,31 +1,22 @@
 {
-    "title": "Beetroot with green sauce",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b00lpbxs": "What to Eat Now"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "",
+    "dishes": [
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 medium raw beetroot",
-            "olive oil",
-            "large-flaked sea salt"
-        ],
         "For the green sauce": [
             "handful fresh mint, finely chopped",
             "handful fresh parsley, finely chopped",
@@ -36,7 +27,18 @@
             "\u00bd tsp Dijon mustard",
             "4 tbsp olive oil",
             "\u00bd lemon, juice only"
+        ],
+        "default": [
+            "2 medium raw beetroot",
+            "olive oil",
+            "large-flaked sea salt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b00lpbxs": "What to Eat Now"
     },
     "steps": [
         "Put the beetroot into a large pan and cover with water. Bring to the boil, then reduce the heat and simmer for 40 minutes, or until tender. Drain and set aside until just cool enough to handle, then carefully rub off the beetroot skins. Discard the skins.",
@@ -46,8 +48,9 @@
         "Chop each beetroot into eight equal wedges and place into a bowl. Sprinkle with a little salt and drizzle with the green sauce.",
         "Serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Beetroot with green sauce",
     "videos": "[]"
 }

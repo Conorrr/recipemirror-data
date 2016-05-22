@@ -1,29 +1,26 @@
 {
-    "title": "Chilli-stuffed chicken with tomato salsa and crushed potatoes",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "tony_tobin": "Tony Tobin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pie",
+        "salsa",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "500ml/18fl oz vegetable oil, for deep frying"
-        ],
         "For herby butter": [
             "55g/2oz unsalted butter, softened",
             "\u00bd red chilli, chopped",
@@ -36,6 +33,12 @@
             "2 whole free-range eggs, beaten",
             "100g/3\u00bdoz white breadcrumbs"
         ],
+        "For the crushed potatoes": [
+            "\u00bd sweet potato, peeled, chopped and boiled until tender",
+            "25g/1oz unsalted butter",
+            "1 tbsp olive oil",
+            "salt and freshly ground black pepper"
+        ],
         "For the tomato salsa": [
             "2 tbsp tomato, chopped",
             "1 tbsp onion, chopped",
@@ -44,12 +47,15 @@
             "1 tbsp olive oil",
             "\u00bd lime, juice only"
         ],
-        "For the crushed potatoes": [
-            "\u00bd sweet potato, peeled, chopped and boiled until tender",
-            "25g/1oz unsalted butter",
-            "1 tbsp olive oil",
-            "salt and freshly ground black pepper"
+        "default": [
+            "500ml/18fl oz vegetable oil, for deep frying"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6.",
@@ -63,8 +69,9 @@
         "For the potatoes, add the butter and olive oil to the cooked sweet potatoes, season, to taste, with salt and freshly ground black pepper and mash to your prefered consistency.",
         "To serve, spoon the mash onto a plate with the chicken placed alongside, then spoon around some of the salsa."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chilli-stuffed chicken with tomato salsa and crushed potatoes",
     "videos": "[]"
 }

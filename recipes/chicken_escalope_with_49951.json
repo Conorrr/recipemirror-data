@@ -1,26 +1,38 @@
 {
-    "title": "Chicken escalope with tomato and artichoke salad",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Roasted tomatoes and artichokes add great flavour to this simple salad served with chicken fried in breadcrumbs.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Roasted tomatoes and artichokes add great flavour to this simple salad served with chicken fried in breadcrumbs.",
+    "dishes": [
+        "bread",
+        "ham",
+        "jam",
+        "oven-baked_dishes",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the chicken escalope": [
+            "60g/2\u00bcoz Japanese panko breadcrumbs",
+            "25g/1oz parmesan cheese, freshly grated",
+            "1 lemon, zest only",
+            "4 chicken breasts, boneless and skinless",
+            "8 slices Parma ham",
+            "75g/2\u00bdoz plain flour",
+            "salt and black pepper",
+            "2 free-range eggs, beaten",
+            "2 tbsp olive oil",
+            "50g/1\u00beoz butter"
+        ],
         "For the tomato and artichoke salad": [
             "6 heritage tomatoes, halved widthways",
             "4 tbsp olive oil",
@@ -34,19 +46,13 @@
             "1 tbsp red wine vinegar",
             "3 tbsp olive oil",
             "1 lemon, cut into wedges to serve"
-        ],
-        "For the chicken escalope": [
-            "60g/2\u00bcoz Japanese panko breadcrumbs",
-            "25g/1oz parmesan cheese, freshly grated",
-            "1 lemon, zest only",
-            "4 chicken breasts, boneless and skinless",
-            "8 slices Parma ham",
-            "75g/2\u00bdoz plain flour",
-            "salt and black pepper",
-            "2 free-range eggs, beaten",
-            "2 tbsp olive oil",
-            "50g/1\u00beoz butter"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the tomato and artichoke salad, preheat the oven to 150C/300F/Gas 2 (or its lowest setting).",
@@ -63,8 +69,9 @@
         "In a small bowl combine the vinegars and olive oil. Season with salt and pepper and whisk to combine. Pour the dressing over the salad, add any oil from the artichoke too, and toss to coat.",
         "To serve, place the chicken escalope on a serving plate with the salad next to it and a wedge of lemon."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken escalope with tomato and artichoke salad",
     "videos": "[]"
 }

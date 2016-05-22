@@ -1,24 +1,25 @@
 {
-    "title": "Penne with peas and beans",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/penne_with_peas_and_44307_16x9.jpg"
-    ],
-    "description": "This creamy pasta dish is perfect for a meat free Monday. Add peas and broad beans to help you on your way to five a day. With a GI of 53 this meal is high protein, low GI provides 559 kcal per portion.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Italian",
+    "description": "This creamy pasta dish is perfect for a meat free Monday. Add peas and broad beans to help you on your way to five a day. With a GI of 53 this meal is high protein, low GI provides 559 kcal per portion.",
+    "dishes": [
+        "bun",
+        "pasta",
+        "sauce",
+        "stir-fries",
+        "whole_wheat_pasta"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/penne_with_peas_and_44307_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -33,13 +34,20 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Cook the penne in a large saucepan of boiling water for 10-12 minutes, or until al dente.",
         "Meanwhile, heat the oil in a large frying pan over a medium-low heat, add the spring onions and fry for 1-2 minutes or until softened. Stir in the mascarpone, lemon juice, peas, broad beans and basil. Season with salt and freshly ground black pepper and stir for 1-2 minutes or until bubbling.",
         "Drain the penne, reserving a little of the cooking water. Stir the pasta into the peas and beans. Add a little of the pasta cooking water, if needed, to loosen the mixture. Garnish with basil and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Penne with peas and beans",
     "videos": "[]"
 }

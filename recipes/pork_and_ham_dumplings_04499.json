@@ -1,26 +1,34 @@
 {
-    "title": "Pork dumplings with red wine sauce",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Serve these dumplings either with the beetroot sauce suggested, or you could use a shop-bought relish.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "Serve these dumplings either with the beetroot sauce suggested, or you could use a shop-bought relish.",
+    "dishes": [
+        "bread",
+        "ham",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the red wine sauce": [
+            "1 tbsp vegetable oil",
+            "1 onion, sliced",
+            "200g/7oz cooked beetroot, plus extra to garnish",
+            "200ml/7fl oz red wine",
+            "75ml/2\u00befl oz chicken stock",
+            "sprig fresh thyme",
+            "1 tbsp butter"
+        ],
         "default": [
             "2 free-range eggs",
             "125ml/4\u00bdfl oz full-fat milk",
@@ -30,16 +38,13 @@
             "1 tbsp vegetable oil",
             "1 tbsp butter",
             "6 thick slices black pudding"
-        ],
-        "For the red wine sauce": [
-            "1 tbsp vegetable oil",
-            "1 onion, sliced",
-            "200g/7oz cooked beetroot, plus extra to garnish",
-            "200ml/7fl oz red wine",
-            "75ml/2\u00befl oz chicken stock",
-            "sprig fresh thyme",
-            "1 tbsp butter"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the dumplings, beat the eggs and milk together in a bowl. Add the chopped ham and pork, breadcrumbs and parmesan, mix until well combined and mould into six small balls.",
@@ -50,8 +55,9 @@
         "Bring the mixture to the boil and cook for 20 minutes, then blend with a hand-held blender to a pur\u00e9e. Pass the sauce through a fine sieve, then return to the pan and heat until the volume of the liquid has reduced by half. Whisk in the butter.",
         "To serve, place a spoonful of sauce onto serving plates, top with a slice of black pudding followed by a dumpling."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pork dumplings with red wine sauce",
     "videos": "[]"
 }

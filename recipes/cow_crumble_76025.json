@@ -1,26 +1,36 @@
 {
-    "title": "Cow crumble",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "12",
-    "images": [
-        
-    ],
-    "description": "Savoury crumbles are a great way of using up leftover stew. In this version the \u2018crumble\u2019 crust is made from grated potatoes and parsnips and is cooked with a bone standing upright in the middle to enrich the meat.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Savoury crumbles are a great way of using up leftover stew. In this version the \u2018crumble\u2019 crust is made from grated potatoes and parsnips and is cooked with a bone standing upright in the middle to enrich the meat.",
+    "dishes": [
+        "caramel",
+        "crumble",
+        "oven-baked_dishes",
+        "pie",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "browning_meat",
+        "de-glazing_pans"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the crust": [
+            "2 large potatoes",
+            "4 large parsnips, peeled",
+            "125g/4\u00bdoz butter",
+            "2 tbsp black mustard seeds"
+        ],
         "default": [
             "6 tbsp olive oil",
             "2kg/4lb 8oz cubed beef (mixture of chuck, skirt and shin)",
@@ -33,13 +43,13 @@
             "8 sprigs thyme",
             "2 bay leaves",
             "20cm/8in piece beef shin bone"
-        ],
-        "For the crust": [
-            "2 large potatoes",
-            "4 large parsnips, peeled",
-            "125g/4\u00bdoz butter",
-            "2 tbsp black mustard seeds"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "12",
+    "serves": "Serves 8",
+    "show": {
+        "p01k6r1s": "Nigel and Adam's Farm Kitchen"
     },
     "steps": [
         "Preheat the oven to 160C/325F/Gas 3.",
@@ -57,9 +67,9 @@
         "Make a little gap in the middle of the crust and poke the bone into it, so that it stands upright.",
         "Cover in foil and bake for two hours, removing the foil after one hour so to allow the crust to go crisp."
     ],
-    "howTos": [
-        "browning_meat",
-        "de-glazing_pans"
+    "tips": [
+        
     ],
+    "title": "Cow crumble",
     "videos": "[]"
 }

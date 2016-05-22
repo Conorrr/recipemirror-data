@@ -1,32 +1,29 @@
 {
-    "title": "Roast chicken",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Try this classic roast chicken recipe with a fricass\u00e9e of spring vegetables for a fresh, no-fuss Sunday lunch.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b04xycrx": "James Martin: Home Comforts"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "French",
+    "description": "Try this classic roast chicken recipe with a fricass\u00e9e of spring vegetables for a fresh, no-fuss Sunday lunch.",
+    "dishes": [
+        "fricassee",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "roast_chicken",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the roast chicken": [
-            "1 onion, roughly chopped",
-            "2 carrots, roughly chopped",
-            "1.5kg/3lb 5oz whole chicken",
-            "2 tbsp rapeseed oil"
-        ],
         "For the fricass\u00e9e": [
             "75g/2\u00beoz butter",
             "150g/5oz asparagus, cut into 3cm/1\u00bcin pieces",
@@ -34,7 +31,19 @@
             "1 shallot, finely sliced into rings",
             "1 tbsp chopped fresh marjoram",
             "salt and freshly ground black pepper"
+        ],
+        "For the roast chicken": [
+            "1 onion, roughly chopped",
+            "2 carrots, roughly chopped",
+            "1.5kg/3lb 5oz whole chicken",
+            "2 tbsp rapeseed oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4-6",
+    "show": {
+        "b04xycrx": "James Martin: Home Comforts"
     },
     "steps": [
         "Preheat the oven to 200C/180C Fan/Gas 6.",
@@ -45,8 +54,9 @@
         "Drain the vegetables, if necessary, and return to the pan. Stir in the remaining butter and season, to taste, with salt and freshly ground black pepper.",
         "To serve, carve the meat and place it on serving plates. Spoon the fricass\u00e9e alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roast chicken",
     "videos": "[p02ffxtv:p02ffxv5]"
 }

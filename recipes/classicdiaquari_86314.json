@@ -1,24 +1,20 @@
 {
-    "title": "Classic Daiquiri",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "andy_pearson": "Andy Pearson"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "rum_cocktail"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,12 +24,19 @@
             "1 wedge lime"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Place the rum, lime juice and sugar syrup into a cocktail shaker and shake well to combine.",
         "Pour into a Martini glass and serve garnished with a wedge of lime."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Classic Daiquiri",
     "videos": "[]"
 }

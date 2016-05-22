@@ -1,26 +1,29 @@
 {
-    "title": "Bread and lemon curd pudding",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "caramel",
+        "icing",
+        "jam"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "caramelising_sugar"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "100ml/4fl oz cream",
+            "55g/2oz redcurrants"
+        ],
         "default": [
             "\u00bd loaf bread, sliced",
             "20g/\u00bdoz butter",
@@ -30,11 +33,13 @@
             "2 tbsp caster sugar",
             "\u00bd tsp grated nutmeg",
             "1 vanilla pod, split and seeds removed"
-        ],
-        "To serve": [
-            "100ml/4fl oz cream",
-            "55g/2oz redcurrants"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Cut the bread slices into triangles.",
@@ -47,8 +52,9 @@
         "Place the redcurrants and cream in a bowl and mix together.",
         "Spoon out the redcurrant cream onto plates and serve with the bread and lemon curd pudding."
     ],
-    "howTos": [
-        "caramelising_sugar"
+    "tips": [
+        
     ],
+    "title": "Bread and lemon curd pudding",
     "videos": "[]"
 }

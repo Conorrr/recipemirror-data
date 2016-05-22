@@ -1,30 +1,25 @@
 {
-    "title": "Cauliflower cheese",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "14",
-    "images": [
-        
-    ],
-    "description": "Roasting the cauliflower rather than boiling it will intensify the flavour and lend a delicious sweetness to the dish. Adding mustard to the sauce adds a depth of flavour that means the recipe needs less cheese than normal.",
     "author": {
         "sophie_wright": "Sophie Wright"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Roasting the cauliflower rather than boiling it will intensify the flavour and lend a delicious sweetness to the dish. Adding mustard to the sauce adds a depth of flavour that means the recipe needs less cheese than normal.",
+    "dishes": [
+        "cauliflower_cheese",
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1 large head cauliflower, cut into florets",
-            "sea salt and freshly ground black pepper"
-        ],
         "For the sauce": [
             "20g/\u00beoz unsalted butter",
             "20g/\u00beoz plain flour",
@@ -33,7 +28,17 @@
             "40g/1\u00bdoz mature cheddar, finely grated",
             "2 tsp Dijon mustard",
             "15g/\u00bdoz parmesan, or similar vegetarian hard cheese, finely grated"
+        ],
+        "default": [
+            "1 large head cauliflower, cut into florets",
+            "sea salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "14",
+    "serves": "Serves 4",
+    "show": {
+        
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Put the cauliflower into an ovenproof dish and season with a pinch of salt and pepper. Roast for 20 minutes, or until tender and starting to brown.",
@@ -41,8 +46,9 @@
         "Add the nutmeg. Turn down the heat and add the mustard and cheddar cheese. Taste and add a little pepper to taste.",
         "Put the roasted cauliflower into the sauce and mix to coat. Put back into the roasting dish, sprinkle over the parmesan and return to the oven for 10-15 minutes, or until the cheese is golden-brown and the sauce is bubbling."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cauliflower cheese",
     "videos": "[p018g28g:p018g28j]"
 }

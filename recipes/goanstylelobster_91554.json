@@ -1,33 +1,25 @@
 {
-    "title": "Goan-style lobster",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "atul_kochhar": "Atul Kochhar"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "",
+    "dishes": [
+        "salad",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "picking_lobster"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the spice paste": [
-            "200g/7oz fresh coconut, shell removed, flesh finely grated",
-            "2 dried red chillies",
-            "2 tbsp coriander seeds",
-            "1 tbsp black peppercorns",
-            "4 cloves"
-        ],
         "For the lobsters": [
             "3 tbsp vegetable oil",
             "2 onions, peeled, sliced",
@@ -41,9 +33,22 @@
             "2 tbsp butter",
             "4 x 500g/1lb 2oz cooked lobsters, shells cracked and meat removed"
         ],
+        "For the spice paste": [
+            "200g/7oz fresh coconut, shell removed, flesh finely grated",
+            "2 dried red chillies",
+            "2 tbsp coriander seeds",
+            "1 tbsp black peppercorns",
+            "4 cloves"
+        ],
         "To serve": [
             "boiled rice or green salad"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the spice paste, toast the grated coconut in a dry frying pan over a medium heat for 3-4 minutes, or until lightly browned, then tip onto a plate and set aside to cool.",
@@ -54,8 +59,9 @@
         "Heat the remaining vegetable oil in a non-stick frying pan and fry the lobster meat for 3-4 minutes, or until golden-brown all over. Add the butter to the pan and, when melted, spoon over the lobster to form a light glaze.",
         "To serve, spoon some of the sauce into four shallow serving bowls and divide the lobster meat equally among them. Serve with a bowl of boiled rice or green salad."
     ],
-    "howTos": [
-        "picking_lobster"
+    "tips": [
+        
     ],
+    "title": "Goan-style lobster",
     "videos": "[]"
 }

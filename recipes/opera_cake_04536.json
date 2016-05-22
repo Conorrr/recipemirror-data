@@ -1,39 +1,31 @@
 {
-    "title": "Opera cake",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "4",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/opera_cake_04536_16x9.jpg"
-    ],
-    "description": "A joconde sponge is a decorative almond-flavored sponge cake made in layers. Op\u00e9ra g\u00e2teau is an elaborate version of it, here made with kirsch syrup and a chocolate ganache. Equipment and preparation: You will need a 33x23cm/13x9in Swiss roll tin and a free-standing food mixer.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "French",
+    "description": "A joconde sponge is a decorative almond-flavored sponge cake made in layers. Op\u00e9ra g\u00e2teau is an elaborate version of it, here made with kirsch syrup and a chocolate ganache. Equipment and preparation: You will need a 33x23cm/13x9in Swiss roll tin and a free-standing food mixer.",
+    "dishes": [
+        "cake",
+        "gateau",
+        "icing",
+        "jam",
+        "meringue",
+        "mousse",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/opera_cake_04536_16x9.jpg"
+    ],
     "ingredients": {
-        "For the kirsch syrup": [
-            "100g/3\u00bdfl oz caster sugar",
-            "3 tbsp kirsch"
-        ],
-        "For the joconde sponge": [
-            "3 free-range eggs whites",
-            "15g/\u00bdoz caster sugar",
-            "100g/3\u00bdoz ground almonds",
-            "100g/3\u00bdoz icing sugar",
-            "3 free-range eggs",
-            "30g/1oz plain four, sifted",
-            "30g/1oz unsalted butter, melted"
-        ],
         "For the chocolate ganache": [
             "100ml/3\u00bdfl oz double cream",
             "100ml/3\u00bdfl oz dark chocolate, 36 per cent cocoa solids, broken into small pieces"
@@ -44,10 +36,29 @@
             "225g/8oz unsalted butter, cubed and softened",
             "2 tsp vanilla paste"
         ],
+        "For the joconde sponge": [
+            "3 free-range eggs whites",
+            "15g/\u00bdoz caster sugar",
+            "100g/3\u00bdoz ground almonds",
+            "100g/3\u00bdoz icing sugar",
+            "3 free-range eggs",
+            "30g/1oz plain four, sifted",
+            "30g/1oz unsalted butter, melted"
+        ],
+        "For the kirsch syrup": [
+            "100g/3\u00bdfl oz caster sugar",
+            "3 tbsp kirsch"
+        ],
         "To decorate": [
             "40 small raspberries",
             "200g/7oz seedless raspberry jam, sieved"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 8",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the kirsch syrup, tip the sugar into a small pan. Pour over 200ml/7fl oz water and cook over a medium heat until the sugar has dissolved. Bring to the boil and simmer for 4-5 minutes, or until the syrup has reduced by half. Remove from the heat, add the kirsch, stir and leave to cool completely.",
@@ -61,8 +72,9 @@
         "Top with a third sponge and brush with another one-quarter of the kirsch syrup. Spread over another third of the cr\u00e8me au beurre and top with the final sponge. Brush with the remaining kirsch syrup and spread with the remaining cr\u00e8me au beurre.",
         "Arrange the raspberries over the top in rows and brush over the melted jam to glaze. Refrigerate the opera cake for two hours to set the layers and make it easier to trim. Trim the edges using a sharp knife to reveal the layers."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Opera cake",
     "videos": "[]"
 }

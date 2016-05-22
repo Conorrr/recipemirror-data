@@ -1,32 +1,35 @@
 {
-    "title": "Black Forest g\u00e2teau with chocolate peppermint shards",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 8-10",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "",
+    "dishes": [
+        "black_forest_gateau",
+        "bread",
+        "cake",
+        "gateau",
+        "jam",
+        "oven-baked_dishes",
+        "sandwich",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "folding",
+        "greasing_and_lining"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sponge": [
-            "butter, for greasing",
-            "9 free-range eggs",
-            "255g/9oz caster sugar",
-            "200g/7\u00bdoz self-raising flour, sifted",
-            "40g/1\u00bdoz cocoa powder"
+        "For the chocolate shards": [
+            "300g/10\u00bdoz dark chocolate",
+            "\u00bd tsp peppermint essence",
+            "110g/4oz demerara sugar",
+            "50g/2oz toasted flaked almonds, to serve"
         ],
         "For the filling and topping": [
             "1 x 340g/12oz (drained weight) jar cherries, drained, juice reserved",
@@ -34,12 +37,19 @@
             "2 tbsp arrowroot",
             "750ml/1\u00bc pint double cream, whipped"
         ],
-        "For the chocolate shards": [
-            "300g/10\u00bdoz dark chocolate",
-            "\u00bd tsp peppermint essence",
-            "110g/4oz demerara sugar",
-            "50g/2oz toasted flaked almonds, to serve"
+        "For the sponge": [
+            "butter, for greasing",
+            "9 free-range eggs",
+            "255g/9oz caster sugar",
+            "200g/7\u00bdoz self-raising flour, sifted",
+            "40g/1\u00bdoz cocoa powder"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "2",
+    "serves": "Serves 8-10",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Grease and line a deep 26cm/10\u00bdin springform cake tin.",
@@ -50,9 +60,9 @@
         "When the chocolate is set, break it into large shards and stick around the edge of the cake, using a little whipped cream on the back to hold the shards in place.",
         "To serve, top with the remaining cherries and the almonds."
     ],
-    "howTos": [
-        "folding",
-        "greasing_and_lining"
+    "tips": [
+        
     ],
+    "title": "Black Forest g\u00e2teau with chocolate peppermint shards",
     "videos": "[]"
 }

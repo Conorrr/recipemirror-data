@@ -1,24 +1,23 @@
 {
-    "title": "Mixed vegetable curry",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "16",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mixedvegetablecurry_90225_16x9.jpg"
-    ],
-    "description": "This creamy curry is low-fat, packed with vegetables and on the table in less than half an hour.",
     "author": {
         "madhur_jaffrey": "Madhur Jaffrey"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "This creamy curry is low-fat, packed with vegetables and on the table in less than half an hour.",
+    "dishes": [
+        "curry",
+        "stir-fries",
+        "vegetable_curry"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "chopping_chillies"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/mixedvegetablecurry_90225_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -36,6 +35,12 @@
             "2 tbsp roughly chopped fresh coriander leaves"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "16",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Place the aubergine, carrots, green beans and potato in a medium-sized pan. Add 250ml/8fl oz water.",
         "Bring to the boil, add the peas, then cover, turn the heat to medium and cook for four minutes or until the vegetables are just tender.",
@@ -44,8 +49,9 @@
         "Add the tomatoes, yoghurt and garam masala. Stir gently to mix well. Bring to the boil, reduce the heat and simmer gently for 2-3 minutes or until the potatoes are cooked through.",
         "To serve, place the vegetable curry into a serving dish and garnish with the fresh coriander."
     ],
-    "howTos": [
-        "chopping_chillies"
+    "tips": [
+        
     ],
+    "title": "Mixed vegetable curry",
     "videos": "[]"
 }

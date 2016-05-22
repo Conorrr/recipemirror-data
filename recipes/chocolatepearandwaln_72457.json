@@ -1,24 +1,24 @@
 {
-    "title": "Chocolate, pear and walnut tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Chocolate and walnut filling (think Brownies) with poached pears in a shortcrust pastry tart.",
     "author": {
         "antony_worrall_thompson": "Antony Worrall Thompson"
     },
-    "show": {
-        "p0077hxk": "Saturday Brunch"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Chocolate and walnut filling (think Brownies) with poached pears in a shortcrust pastry tart.",
+    "dishes": [
+        "chocolate_tart",
+        "oven-baked_dishes",
+        "pastry",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "melting_chocolate"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -36,6 +36,12 @@
             "100g/3\u00bdoz walnuts, chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 8",
+    "show": {
+        "p0077hxk": "Saturday Brunch"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Roll out the pastry and use it to line a 9in/23cm fluted flan tin. Bake blind for ten minutes and allow to cool.",
         "Put the pears into a pan with the water, 50g/1\u00beoz of the sugar, the cloves and the lemon rind. Bring to the boil, cover, lower the heat and simmer for ten minutes. Remove the pears from the liquid and allow to cool. Discard the liquid.",
@@ -46,8 +52,9 @@
         "Pour the chocolate and nut mixture into the flan case.",
         "Bake for 25-30 minutes until the filling is set."
     ],
-    "howTos": [
-        "melting_chocolate"
+    "tips": [
+        
     ],
+    "title": "Chocolate, pear and walnut tart",
     "videos": "[]"
 }

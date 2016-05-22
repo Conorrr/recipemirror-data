@@ -1,26 +1,35 @@
 {
-    "title": "Sweet and sour salmon with mussels and clams",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Mediterranean flavours of fennel, black olives and capers are cooked in a sweet and sour sauce that works brilliantly with salmon fillets, garlicky mussels and clams. What a treat!",
     "author": {
         "gennaro_contaldo": "Gennaro Contaldo"
     },
-    "show": {
-        "b03lsr84": "Christmas Kitchen with James Martin"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Mediterranean flavours of fennel, black olives and capers are cooked in a sweet and sour sauce that works brilliantly with salmon fillets, garlicky mussels and clams. What a treat!",
+    "dishes": [
+        "caramel",
+        "jam",
+        "sauce",
+        "seafood"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the mussels and clams": [
+            "250g/9oz mussels, beards removed, washed under cold running water",
+            "250g/9oz clams, washed under cold running water",
+            "3 tbsp olive oil",
+            "1 garlic clove, thinly sliced",
+            "\u00bd red chilli, chopped",
+            "1 tbsp finely chopped fresh parsley",
+            "150ml/5fl oz white wine",
+            "salt and freshly ground black pepper"
+        ],
         "For the sweet and sour salmon": [
             "1 fennel bulb, cut into quarters",
             "1 red pepper, cut into thick slices",
@@ -34,17 +43,13 @@
             "5 tbsp white wine vinegar",
             "4 x 200g/7oz salmon fillets, skin on, pin boned",
             "4 sprigs fresh thyme"
-        ],
-        "For the mussels and clams": [
-            "250g/9oz mussels, beards removed, washed under cold running water",
-            "250g/9oz clams, washed under cold running water",
-            "3 tbsp olive oil",
-            "1 garlic clove, thinly sliced",
-            "\u00bd red chilli, chopped",
-            "1 tbsp finely chopped fresh parsley",
-            "150ml/5fl oz white wine",
-            "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b03lsr84": "Christmas Kitchen with James Martin"
     },
     "steps": [
         "Blanch the fennel, pepper and carrots in a large pan of boiling water for three minutes. Remove, drain and set aside.",
@@ -56,8 +61,9 @@
         "Bring the shellfish cooking liquid to a boil then simmer until reduced to a sauce consistency.",
         "To serve, arrange the vegetables on serving plates with the salmon on top skin-side up. Place the shellfish around and pour over the reduced cooking liquid. Finish with a drizzle of olive oil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sweet and sour salmon with mussels and clams",
     "videos": "[]"
 }

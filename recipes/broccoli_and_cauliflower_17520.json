@@ -1,34 +1,26 @@
 {
-    "title": "Broccoli and cauliflower cheese bake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "4",
-    "images": [
-        
-    ],
-    "description": "A crowd-pleasing dish, enhanced by the addition of brioche crumbs and delicious Lincolnshire poacher cheese.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "A crowd-pleasing dish, enhanced by the addition of brioche crumbs and delicious Lincolnshire poacher cheese.",
+    "dishes": [
+        "brioche",
+        "jam",
+        "oven-baked_dishes",
+        "salad",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the cheese sauce": [
-            "50g/1\u00beoz unsalted butter",
-            "50g/1\u00beoz plain flour",
-            "450ml/16fl oz whole milk",
-            "1 tsp English mustard",
-            "1 tsp Worcestershire sauce",
-            "200g/7oz cheddar, grated"
-        ],
         "For the bake": [
             "50g/1\u00beoz unsalted butter",
             "2 leeks, sliced",
@@ -36,6 +28,14 @@
             "200g/7oz broccoli, cut into florets",
             "200g/7oz cauliflower, cut into florets",
             "150g/5\u00bdoz Lincolnshire poacher cheese, grated"
+        ],
+        "For the cheese sauce": [
+            "50g/1\u00beoz unsalted butter",
+            "50g/1\u00beoz plain flour",
+            "450ml/16fl oz whole milk",
+            "1 tsp English mustard",
+            "1 tsp Worcestershire sauce",
+            "200g/7oz cheddar, grated"
         ],
         "For the dressing": [
             "3 tbsp olive oil",
@@ -50,6 +50,12 @@
             "150g/5\u00bdoz romanesco broccoli, cut into florets, boiled until just tender"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "4",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Pre-heat the oven to 180C/350F/Gas 4.",
         "For the cheese sauce, melt the butter in a large pan, add the flour and cook for 2-3 minutes.",
@@ -63,8 +69,9 @@
         "To serve, place the baby gem leaves in a bowl, pour the dressing over and mix to combine.",
         "Spoon the bake onto a serving plate and serve the broccoli alongside and the salad in a small bowl."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Broccoli and cauliflower cheese bake",
     "videos": "[]"
 }

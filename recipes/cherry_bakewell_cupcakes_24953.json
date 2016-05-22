@@ -1,24 +1,25 @@
 {
-    "title": "Cherry Bakewell cupcakes",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 12",
-    "recommendations": "48",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cherry_bakewell_cupcakes_24953_16x9.jpg"
-    ],
-    "description": "If you like Bakewell tarts, you\u2019ll love these cute cupcakes.",
     "author": {
         "holly_bell": "Holly Bell"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "If you like Bakewell tarts, you\u2019ll love these cute cupcakes.",
+    "dishes": [
+        "cake",
+        "cupcakes",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/cherry_bakewell_cupcakes_24953_16x9.jpg"
     ],
     "ingredients": {
         "For the cupcakes": [
@@ -37,6 +38,12 @@
             "12 un-dyed glac\u00e9 cherries"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "48",
+    "serves": "Makes 12",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4. Line a 12-hole muffin tin with paper cases.",
         "For the cupcakes, cream the margarine in a bowl until light and fluffy. Add the remaining ingredients, except the raspberry jam, and mix until well combined.",
@@ -45,8 +52,9 @@
         "Using an apple corer, carefully remove the middle of the cupcakes. Fill the holes with the raspberry jam.",
         "Carefully spoon the icing onto the top of each cake until the icing reaches the sides of the cake case and top with a cherry."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cherry Bakewell cupcakes",
     "videos": "[]"
 }

@@ -1,26 +1,35 @@
 {
-    "title": "Glazed ham with redcurrant and citrus jelly",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1 ham",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "This makes a fine ploughman's lunch. The jelly will keep for weeks in an airtight jar and would also go really well with cheese.",
     "author": {
         "matt_tebbutt": "Matt Tebbutt"
     },
-    "show": {
-        "b016pbs9": "Great British Food Revival"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "This makes a fine ploughman's lunch. The jelly will keep for weeks in an airtight jar and would also go really well with cheese.",
+    "dishes": [
+        "bread",
+        "ham",
+        "jelly",
+        "oven-baked_dishes",
+        "salad"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the ham": [
+            "150g/51/2oz runny honey",
+            "100g/31/2oz demerera sugar",
+            "leaves from 2 sprigs fresh thyme",
+            "50ml/2fl oz redcurrant juice",
+            "1/2 tsp English mustard",
+            "1 cooked corner of ham"
+        ],
         "For the jelly": [
             "1kg/2lb 4oz redcurrants",
             "preserving sugar",
@@ -31,15 +40,13 @@
             "2 cloves",
             "1 cinnamon stick",
             "pinch ground ginger"
-        ],
-        "For the ham": [
-            "150g/51/2oz runny honey",
-            "100g/31/2oz demerera sugar",
-            "leaves from 2 sprigs fresh thyme",
-            "50ml/2fl oz redcurrant juice",
-            "1/2 tsp English mustard",
-            "1 cooked corner of ham"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Makes 1 ham",
+    "show": {
+        "b016pbs9": "Great British Food Revival"
     },
     "steps": [
         "For the jelly, place the redcurrants into a pan with a little water, bring to a simmer and cook until the fruit bursts. Tip into a jelly bag and strain overnight into a large bowl.",
@@ -48,8 +55,9 @@
         "For the ham, mix together the honey, sugar, thyme, redcurrant juice and mustard to make the glaze. Slash the surface of the ham in a diamond pattern and rub in the glaze. Place the ham in a roasting tin and roast for 40-50 minutes, basting from time to time.",
         "Allow the ham to cool to room temperature then cut into slices. Serve with the jelly, chunks of bread and a celery, apple and fresh parsley salad."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Glazed ham with redcurrant and citrus jelly",
     "videos": "[]"
 }

@@ -1,26 +1,33 @@
 {
-    "title": "Salt and pepper chilli squid with pak choi",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This speedy and spicy dish is perfect for a quick supper.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "This speedy and spicy dish is perfect for a quick supper.",
+    "dishes": [
+        "jam",
+        "seafood",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pak choi": [
+            "4 heads pak choi, roughly chopped",
+            "1 tsp vegetable oil",
+            "2 garlic cloves, finely sliced",
+            "1 red chilli, finely sliced",
+            "2 tbsp finely sliced ginger",
+            "2 spring onions, finely sliced",
+            "2 tbsp toasted sesame oil"
+        ],
         "For the squid": [
             "\u00bd tsp black peppercorns",
             "\u00bd tsp Sichuan peppercorns",
@@ -30,16 +37,13 @@
             "1 red chilli, thinly sliced",
             "3 spring onions, sliced",
             "1 lime, quartered, for garnish"
-        ],
-        "For the pak choi": [
-            "4 heads pak choi, roughly chopped",
-            "1 tsp vegetable oil",
-            "2 garlic cloves, finely sliced",
-            "1 red chilli, finely sliced",
-            "2 tbsp finely sliced ginger",
-            "2 spring onions, finely sliced",
-            "2 tbsp toasted sesame oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Heat a frying pan until smoking, then add the black peppercorns and Sichuan peppercorns and dry fry for a few seconds, shaking the pan frequently, until the peppercorns darken slightly and become aromatic.",
@@ -50,8 +54,9 @@
         "Heat a frying pan until smoking, then add the vegetable oil, followed by the garlic, chilli, ginger and spring onions. Stir fry for one minute, then add the pak choi and sesame oil and mix well to combine.",
         "To serve, pile the pak choi onto the centre of a serving plate and top with the squid. Serve garnished with a wedge of lime."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Salt and pepper chilli squid with pak choi",
     "videos": "[]"
 }

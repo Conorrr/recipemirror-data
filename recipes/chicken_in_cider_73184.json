@@ -1,23 +1,20 @@
 {
-    "title": "Chicken in cider",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2-3",
-    "recommendations": "32",
-    "images": [
-        
-    ],
-    "description": "A warming meal of juicy chicken thighs fried with bacon, apples and cider. Try it with mashed potato.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b01nd35k": "Nigel Slater's Dish of the Day"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A warming meal of juicy chicken thighs fried with bacon, apples and cider. Try it with mashed potato.",
+    "dishes": [
+        "casserole",
+        "pie"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -32,6 +29,12 @@
             "mashed potato, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "32",
+    "serves": "Serves 2-3",
+    "show": {
+        "b01nd35k": "Nigel Slater's Dish of the Day"
+    },
     "steps": [
         "Place the butter in a heavy-based, lidded casserole over a medium heat.",
         "Add the sliced onion and allow to soften for one minute.",
@@ -41,8 +44,9 @@
         "Pour in the cider and season with a pinch of salt. Cover with a lid and simmer for 10-15 minutes, or until the chicken juices run clear.",
         "Serve immediately, taking the pot to the table and allowing people to help themselves."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken in cider",
     "videos": "[p010sc6m:p010sc6s]"
 }

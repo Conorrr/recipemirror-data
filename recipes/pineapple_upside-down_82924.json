@@ -1,26 +1,34 @@
 {
-    "title": "Pineapple upside-down cake",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Agave nectar and a maple syrup custard enhance and enrich natural pineapple sweetness in this cake. Who needs refined sugar? For this recipe you will need a deep 30x20cm/12x8in baking tin.",
     "author": {
         "alvin": "Alvin"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Agave nectar and a maple syrup custard enhance and enrich natural pineapple sweetness in this cake. Who needs refined sugar? For this recipe you will need a deep 30x20cm/12x8in baking tin.",
+    "dishes": [
+        "cake",
+        "custard",
+        "oven-baked_dishes",
+        "sauce",
+        "upside-down_cake"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "testing_to_see_if_a_cake_is_cooked"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the maple syrup custard sauce": [
+            "500ml/18fl oz full-fat milk",
+            "60g/2\u00bcoz maple syrup",
+            "1 tsp vanilla extract",
+            "1 vanilla pod, seeds only",
+            "6 medium free-range egg yolks",
+            "15g/\u00bdoz cornflour"
+        ],
         "For the pineapple upside-down cake": [
             "200g/7oz agave nectar (light and mild), plus 4 tbsp for the base and to drizzle",
             "1 x 425g tin pineapple slices in fruit juice, drained and patted dry with kitchen roll",
@@ -29,15 +37,13 @@
             "\u00bc tsp fine table salt",
             "300g/10\u00bdoz unsalted butter, melted and cooled",
             "5 large free-range eggs, lightly beaten"
-        ],
-        "For the maple syrup custard sauce": [
-            "500ml/18fl oz full-fat milk",
-            "60g/2\u00bcoz maple syrup",
-            "1 tsp vanilla extract",
-            "1 vanilla pod, seeds only",
-            "6 medium free-range egg yolks",
-            "15g/\u00bdoz cornflour"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 8",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the cake, preheat the oven to 170C/150C Fan/Gas 3. Grease a deep 30x20cm/12x8in baking tin and line the base and sides with baking parchment. Set aside.",
@@ -50,8 +56,9 @@
         "Pour the remaining milk over the eggs, then pour the mixture back into the pan and return to a medium heat, stirring constantly until it thickens and covers the back of the spoon. Remove from the heat and transfer to a jug, cover with cling film to prevent the skin from forming.",
         "Serve slices of the cake with the custard poured over."
     ],
-    "howTos": [
-        "testing_to_see_if_a_cake_is_cooked"
+    "tips": [
+        
     ],
+    "title": "Pineapple upside-down cake",
     "videos": "[]"
 }

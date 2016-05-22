@@ -1,26 +1,30 @@
 {
-    "title": "Cheese galette with balsamic gravy",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "lesley_waters": "Lesley Waters"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "crumble",
+        "gravy",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the balsamic sauce": [
+            "100ml/3\u00bdfl oz red wine",
+            "55ml/2fl oz balsamic vinegar"
+        ],
         "For the cheese galette": [
             "300g/10oz plain flour",
             "2 tsp baking powder",
@@ -30,11 +34,13 @@
         "For the topping": [
             "150g/5\u00bdoz blue cheese",
             "2 tbsp white wine"
-        ],
-        "For the balsamic sauce": [
-            "100ml/3\u00bdfl oz red wine",
-            "55ml/2fl oz balsamic vinegar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Preheat oven to 200C/400F/Gas 6.",
@@ -47,8 +53,9 @@
         "Meanwhile, for the balsamic sauce, place the red wine and balsamic vinegar in a saucepan over a medium heat. Bring to the boil then simmer until the sauce becomes thick and glossy.",
         "To serve, pour the balsamic sauce around the cheese galette."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cheese galette with balsamic gravy",
     "videos": "[]"
 }

@@ -1,24 +1,26 @@
 {
-    "title": "Pea and pancetta soup",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pea_and_pancetta_soup_82240_16x9.jpg"
-    ],
-    "description": "Nigel Slater jazzes up traditional pea and ham soup with posh pancetta for a quick meal that's ready in next to no time. Each serving provides 242kcal, 21g protein, 14.5g carbohydrate (of which 3.5g sugars), 10g fat (of which 4 6 saturates), 5g fibre and 1.6g salt.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b05y38pk": "Nigel Slater: Eating Together"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "British",
+    "description": "Nigel Slater jazzes up traditional pea and ham soup with posh pancetta for a quick meal that's ready in next to no time. Each serving provides 242kcal, 21g protein, 14.5g carbohydrate (of which 3.5g sugars), 10g fat (of which 4 6 saturates), 5g fibre and 1.6g salt.",
+    "dishes": [
+        "ham",
+        "pie",
+        "sauce",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pea_and_pancetta_soup_82240_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -29,14 +31,21 @@
             "4 very thin slices pancetta (cut on the thinnest possible setting)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b05y38pk": "Nigel Slater: Eating Together"
+    },
     "steps": [
         "Heat the chicken stock in a saucepan until it is simmering. Add the peas and simmer for 2 minutes, or until just tender. Stir in the tarragon and salt.",
         "Transfer the mixture to a food processor and blend for a few short blasts to a rough-textured soup. Return the soup to the saucepan and keep warm over a low heat.",
         "Using a pair of tongs, heat each slice of pancetta over the gas flame of your hob for a few seconds until it crisps up. (Alternatively, preheat your grill to its highest setting, lay the slices of pancetta onto a baking tray and grill for 1-2 minutes, or until crisp.)",
         "To serve, ladle the soup into bowls. Break the crisp pancetta into pieces and sprinkle on top of the soup."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pea and pancetta soup",
     "videos": "[]"
 }

@@ -1,32 +1,28 @@
 {
-    "title": "Steak sandwich with Stilton butter and sweet potato crisps",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bread",
+        "chips",
+        "ciabatta",
+        "crumble",
+        "pie",
+        "sandwich",
+        "sauce"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the steak sandwich": [
-            "2 tbsp olive oil",
-            "150g/5\u00bdoz rump steak",
-            "salt and freshly ground black pepper",
-            "2 slices ciabatta"
-        ],
         "For the Stilton butter": [
             "30g/1oz Stilton, crumbled",
             "30g/1oz butter, softened",
@@ -35,11 +31,23 @@
             "\u00bd lemon, juice only",
             "salt and freshly ground black pepper"
         ],
+        "For the steak sandwich": [
+            "2 tbsp olive oil",
+            "150g/5\u00bdoz rump steak",
+            "salt and freshly ground black pepper",
+            "2 slices ciabatta"
+        ],
         "For the sweet potato crisps": [
             "300ml/\u00bd pint vegetable oil, for deep frying",
             "\u00bd sweet potato, peeled and thinly sliced",
             "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the steak sandwich, heat half of the olive oil in a frying pan. Season the steak with salt and freshly ground black pepper and fry for 3-4 minutes on each side, or until cooked to your liking. Remove from the pan and set aside to rest in a warm place.",
@@ -49,8 +57,9 @@
         "Carefully place the sweet potato slices into the hot oil and deep fry until crisp and golden-brown. Remove from the oil with a slotted spoon, drain on kitchen paper and season with salt and freshly ground black pepper.",
         "To serve, place one slice of ciabatta onto a serving plate and top with the steak and the Stilton butter, then the remaining piece of ciabatta. Serve the sweet potato chips alongside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Steak sandwich with Stilton butter and sweet potato crisps",
     "videos": "[]"
 }

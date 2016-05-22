@@ -1,24 +1,30 @@
 {
-    "title": "Braised steak with gravy",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "97",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/braised_steak_with_gravy_24508_16x9.jpg"
-    ],
-    "description": "Braising steak is slow to cook but quick to prepare in this rich, traditional dish from The Hairy Bikers.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "Braising steak is slow to cook but quick to prepare in this rich, traditional dish from The Hairy Bikers.",
+    "dishes": [
+        "beef_stew",
+        "casserole",
+        "chips",
+        "gravy",
+        "oven-baked_dishes",
+        "prepare-ahead_desserts",
+        "slow-cooked_dishes",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/braised_steak_with_gravy_24508_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -35,6 +41,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "97",
+    "serves": "Serves 4",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
+    },
     "steps": [
         "Preheat the oven to 170C/325F/Gas 3.",
         "Trim off any hard fat from the beef and season on both sides with salt and lots of freshly ground black pepper.",
@@ -48,8 +60,9 @@
         "Place the casserole over a medium-high heat and simmer for 2-3 minutes, or until the gravy reduces and becomes thickened and glossy, stirring regularly.",
         "Transfer the steaks to four warmed plates and spoon over the gravy. Serve with chips."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Braised steak with gravy",
     "videos": "[]"
 }

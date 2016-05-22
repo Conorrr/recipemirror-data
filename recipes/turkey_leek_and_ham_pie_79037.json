@@ -1,24 +1,27 @@
 {
-    "title": "Turkey, leek and ham pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "30",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/turkey_leek_and_ham_pie_79037_16x9.jpg"
-    ],
-    "description": "A great way to use up the Christmas turkey. Make the filling in advance then add the pastry top and bake just before serving.",
     "author": {
         "angela_hartnett": "Angela Hartnett"
     },
-    "show": {
-        "b016pbs9": "Great British Food Revival"
-    },
-    "tips": [
-        "For a thicker pie filling, mix equal amounts of cornflour and water in a small bowl and stir this into the filling to thicken."
+    "cookTime": "30 mins to 1 hour",
+    "description": "A great way to use up the Christmas turkey. Make the filling in advance then add the pastry top and bake just before serving.",
+    "dishes": [
+        "ham",
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/turkey_leek_and_ham_pie_79037_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -40,12 +43,19 @@
             "2 tbsp parmesan, finely grated"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "30",
+    "serves": "Serves 4",
+    "show": {
+        "b016pbs9": "Great British Food Revival"
+    },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Heat a large pan over a medium heat. Add a knob of butter and gently cook the onion until soft but not brown. Add the carrots and leek and continue cooking for five minutes until the carrots begin to soften. Cover with the cream and stock and simmer until the sauce starts to thicken. Add the turkey, ham, mushrooms, cayenne and herbs then season to taste with salt and freshly ground black pepper and remove the pan from the heat.",
         "Pour the filling into a ceramic pie dish. Roll out the pastry to make a lid for the pie and strips to line the rim of the dish. Press the strips onto the rim, moistening them with a little water, then press down the lid firmly and brush with the beaten egg. Sprinkle with the parmesan and cook in the oven for 20 minutes until the pastry is golden-brown."
     ],
-    "howTos": [
-        
+    "tips": [
+        "For a thicker pie filling, mix equal amounts of cornflour and water in a small bowl and stir this into the filling to thicken."
     ],
+    "title": "Turkey, leek and ham pie",
     "videos": "[]"
 }

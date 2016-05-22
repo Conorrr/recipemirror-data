@@ -1,24 +1,23 @@
 {
-    "title": "Pasta and bean soup (Pasta e fagioli)",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "34",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pastaefagioli_92269_16x9.jpg"
-    ],
-    "description": "A warming bowl of this hearty, healthy soup recipe is filling enough for dinner.",
     "author": {
         "allegra_mcevedy": "Allegra McEvedy"
     },
-    "show": {
-        "b00m1c34": "Economy Gastronomy"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "A warming bowl of this hearty, healthy soup recipe is filling enough for dinner.",
+    "dishes": [
+        "pasta",
+        "soup",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pastaefagioli_92269_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -37,6 +36,12 @@
             "1 large or 2 small very ripe tomatoes, finely chopped"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "34",
+    "serves": "Serves 4",
+    "show": {
+        "b00m1c34": "Economy Gastronomy"
+    },
     "steps": [
         "Heat 60ml/2\u00bcfl oz of the oil in a heavy-based pan over a medium heat. Add the onion, garlic and chilli flakes and fry for 2-3 minutes, or until softened.",
         "Add all of the mixed vegetables (except the peas, if using) and the dried mixed herbs to the pan. Season, to taste, with salt and freshly ground black pepper. Fry for 2-3 minutes, or until the vegetables have softened.",
@@ -45,8 +50,9 @@
         "Meanwhile, in a bowl, mix together the parmesan, chopped tomatoes and the remaining 30ml/1fl oz of olive oil until well combined.",
         "To serve, spoon the pasta e fagioli into four serving bowls. Spoon over the parmesan and tomato mixture. Season, to taste, with freshly ground black pepper. Drizzle a splash of olive oil over each serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pasta and bean soup (Pasta e fagioli)",
     "videos": "[]"
 }

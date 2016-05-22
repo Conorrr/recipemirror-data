@@ -1,30 +1,26 @@
 {
-    "title": "Apple, pork and cheddar burger with chips",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "brian_turner": "Brian Turner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "bun",
+        "chips",
+        "crumble",
+        "sauce",
+        "sausage"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the chips": [
-            "2 tbsp olive oil",
-            "150g/5\u00bdoz potato (about 1 large potato), peeled and cut lengthways into thin chips"
-        ],
         "For the burger": [
             "2 sausages, skins removed",
             "30g/1oz cheddar, crumbled",
@@ -35,10 +31,20 @@
             "\u00bc tsp Worcestershire sauce",
             "1 tbsp olive oil"
         ],
+        "For the chips": [
+            "2 tbsp olive oil",
+            "150g/5\u00bdoz potato (about 1 large potato), peeled and cut lengthways into thin chips"
+        ],
         "To serve": [
             "30g/1oz cheddar, sliced",
             "small bunch chives, chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the chips, heat the oil in a non-stick frying pan and fry the chips for 15 minutes or until golden and cooked through.",
@@ -46,8 +52,9 @@
         "Heat the oil in a non-stick frying pan and fry for 4-5 minutes on each side or until cooked through.",
         "To serve, top the burger with the sliced cheddar. Serve on a plate with the chips and garnish with the chives."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Apple, pork and cheddar burger with chips",
     "videos": "[]"
 }

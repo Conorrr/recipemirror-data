@@ -1,44 +1,47 @@
 {
-    "title": "Pisco sour",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "A delicious recipe for a pisco sour cocktail, with brandy, lemon juice, egg white and sugar",
     "author": {
         "andy_pearson": "Andy Pearson"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "A delicious recipe for a pisco sour cocktail, with brandy, lemon juice, egg white and sugar",
+    "dishes": [
+        "cocktails"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the garnish": [
+            "1 cherry, stem attached",
+            "1 lemon slice"
+        ],
         "default": [
             "50ml/1\u00befl oz pisco (grape brandy)",
             "50ml/1\u00befl oz lime juice",
             "25ml/1fl oz sugar syrup",
             "1 dash bitters",
             "\u00bd free-range egg white"
-        ],
-        "For the garnish": [
-            "1 cherry, stem attached",
-            "1 lemon slice"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        
     },
     "steps": [
         "Place all of the ingredients except the cherry and lemon slice into a cocktail shaker and shake.",
         "Strain into a rocks glass and garnish with a fresh cherry on the stem and a lemon slice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pisco sour",
     "videos": "[]"
 }

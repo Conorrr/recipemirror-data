@@ -1,26 +1,28 @@
 {
-    "title": "Pistachio-crusted monkfish with crushed potatoes and sauce vierge",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the crushed potatoes": [
+            "100g/3\u00bdoz new potatoes, cut in half",
+            "25g/1oz butter",
+            "1 tbsp chopped fresh chives"
+        ],
         "For the pistachio-crusted monkfish": [
             "55g/2oz unsalted pistachio nuts, shells removed",
             "1 tbsp plain flour",
@@ -30,11 +32,6 @@
             "25g/1oz butter",
             "1 tbsp olive oil"
         ],
-        "For the crushed potatoes": [
-            "100g/3\u00bdoz new potatoes, cut in half",
-            "25g/1oz butter",
-            "1 tbsp chopped fresh chives"
-        ],
         "For the sauce vierge": [
             "6 ripe cherry tomatoes",
             "5 tbsp olive oil",
@@ -42,6 +39,12 @@
             "\u00bd lemon, juice only",
             "salt and freshly ground black pepper"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the monkfish, crush the pistachio nuts in a pestle and mortar. Place the crushed pistachios into a bowl with the flour, sesame seeds, salt and freshly ground black pepper and mix well.",
@@ -51,8 +54,9 @@
         "For the sauce vierge, heat all the ingredients in a pan until the tomatoes begin to break down.",
         "To serve, cut the monkfish in half. Place the potatoes onto a serving plate, top with the monkfish and drizzle over the sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pistachio-crusted monkfish with crushed potatoes and sauce vierge",
     "videos": "[]"
 }

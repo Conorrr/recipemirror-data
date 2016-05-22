@@ -1,24 +1,21 @@
 {
-    "title": "Lemon posset",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "biscuit",
+        "jam"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,12 +27,19 @@
             "mint leaf, to garnish"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "In a small bowl mix together the whipped cream and lemon curd.",
         "Layer a glass with the strawberries, biscuits and almonds. Spoon in the lemon curd and cream mixture and garnish with the mint sprig."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lemon posset",
     "videos": "[]"
 }

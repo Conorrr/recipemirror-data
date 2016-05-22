@@ -1,26 +1,32 @@
 {
-    "title": "Estonian lamb shanks",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "This warming Estonian dish delivers meltingly tender lamb and has wonderful hints of citrus flavours.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b069hr3q": "The Hairy Bikers' Northern Exposure"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "East_European",
+    "description": "This warming Estonian dish delivers meltingly tender lamb and has wonderful hints of citrus flavours.",
+    "dishes": [
+        "bun",
+        "casserole",
+        "gnocchi",
+        "oven-baked_dishes",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "400g/14oz ready-made gnocchi, cooked according to packet instructions (optional)"
+        ],
         "default": [
             "4 small lamb shanks",
             "2 tbsp plain flour",
@@ -37,10 +43,13 @@
             "1 orange, juice only",
             "2 tbsp soured cream",
             "salt and freshly ground black pepper"
-        ],
-        "To serve": [
-            "400g/14oz ready-made gnocchi, cooked according to packet instructions (optional)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b069hr3q": "The Hairy Bikers' Northern Exposure"
     },
     "steps": [
         "Preheat the oven to 180C/160C Fan/Gas 4.",
@@ -50,8 +59,9 @@
         "De-glaze the frying pan used to brown the lamb with a little stock and add to the casserole dish, then pour in the remaining stock and bring to the boil. Add the orange juice and season with salt and pepper. Cover and transfer to the oven. Cook for an hour and half, then remove the lid and cook for a further 30 minutes.",
         "Return the casserole to the hob and remove the lamb shanks, parsley sprigs and bay leaves. Add the sour cream and stir until well combined. Finely chop the leaves from the remaining parsley and stir in. Return the shanks to the casserole and serve with the gnocchi."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Estonian lamb shanks",
     "videos": "[p031llq0:p031llq7]"
 }

@@ -1,26 +1,40 @@
 {
-    "title": "Gala picnic pie",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 12 slices",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "Serve this impressive-looking loaf-shaped pie, studded with quails\u2019 eggs, in slices with salad and pickles. Keep any leftover pie in the fridge to snaffle later.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b019g1qg": "Hairy Bikers' Best of British"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Serve this impressive-looking loaf-shaped pie, studded with quails\u2019 eggs, in slices with salad and pickles. Keep any leftover pie in the fridge to snaffle later.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "pasty",
+        "pickle",
+        "pie",
+        "salad",
+        "sauce",
+        "sausage",
+        "terrine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the pastry": [
+            "225g/8oz plain flour, plus extra for rolling",
+            "\u00bd tsp freshly ground black pepper",
+            "25g/1oz cold butter, cut into cubes, plus extra for greasing the terrine",
+            "75g/2\u00bdoz cold lard, cut into cubes",
+            "1 tsp flaked sea salt",
+            "1 medium free-range egg, beaten, to glaze"
+        ],
         "default": [
             "12 quails\u2019 eggs",
             "4 pork sausages (about 250g/9oz)",
@@ -30,15 +44,13 @@
             "\u00bd tsp ground mace",
             "freshly ground black pepper",
             "1 tbsp plain flour, for dusting"
-        ],
-        "For the pastry": [
-            "225g/8oz plain flour, plus extra for rolling",
-            "\u00bd tsp freshly ground black pepper",
-            "25g/1oz cold butter, cut into cubes, plus extra for greasing the terrine",
-            "75g/2\u00bdoz cold lard, cut into cubes",
-            "1 tsp flaked sea salt",
-            "1 medium free-range egg, beaten, to glaze"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Makes 12 slices",
+    "show": {
+        "b019g1qg": "Hairy Bikers' Best of British"
     },
     "steps": [
         "Half-fill a saucepan with cold water and bring to the boil. Carefully add the quails\u2019 eggs to the boiling water and boil for 2\u00bd minutes. Drain the eggs through a sieve and rinse under running water until completely cold. Leave until the filling is made.",
@@ -51,8 +63,9 @@
         "Brush one of the long pastry edges lightly with beaten egg and bring both sides to in the middle to encase the filling. (You may need to use the baking parchment to help you lift the pasty.) Press the all edges very firmly together to seal and trim the top neatly with a sharp set of kitchen scissors, leaving 1cm/\u00bdin or so for the crest. Crimp the top edge into a wiggly line on top of the pie.",
         "Brush the pastry parcel evenly with beaten egg and bake for 15 minutes. Take out of the oven and brush with more beaten egg. The beaten egg will also help mend any cracks, if you have any. Return to the oven for a further 15 minutes or until the pie is golden-brown and the pastry and filling are completely cooked. Leave to cool."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Gala picnic pie",
     "videos": "[p017qpcc:p017qpcp]"
 }

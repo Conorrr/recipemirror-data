@@ -1,26 +1,35 @@
 {
-    "title": "Turbot with new potatoes and a Champagne sauce",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Add a touch of luxury to your supper with buttery turbot and a cheeky Champagne sauce.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Add a touch of luxury to your supper with buttery turbot and a cheeky Champagne sauce.",
+    "dishes": [
+        "champ",
+        "jam",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Champagne sauce": [
+            "50g/1\u00beoz butter",
+            "2 medium shallots, finely sliced",
+            "150ml/5fl oz dry white wine",
+            "150ml/5fl oz fish stock",
+            "150ml/5fl oz double cream",
+            "110ml/3\u00befl oz Champagne",
+            "2 tbsp chopped chives"
+        ],
         "For the new potatoes, beans and peas": [
             "150g/5\u00bdoz new potatoes, cut into quarters",
             "150g/5\u00bdoz broccoli, cut into small florets",
@@ -35,18 +44,15 @@
             "75g/2\u00beoz butter",
             "4 x 200g/7oz turbot fillet, pin-boned, skin on"
         ],
-        "For the Champagne sauce": [
-            "50g/1\u00beoz butter",
-            "2 medium shallots, finely sliced",
-            "150ml/5fl oz dry white wine",
-            "150ml/5fl oz fish stock",
-            "150ml/5fl oz double cream",
-            "110ml/3\u00befl oz Champagne",
-            "2 tbsp chopped chives"
-        ],
         "To serve": [
             "sprigs of fresh chervil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Bring a pan of salted water to the boil and cook the potatoes for 10-15 minutes. Drain and set aside.",
@@ -58,8 +64,9 @@
         "Just before serving, return the sauce to the heat and warm until just simmering, then add the champagne and chives and stir through.",
         "Place the vegetables in the centre of a serving bowl and top with the fish. Pour over the Champagne sauce and garnish with chervil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Turbot with new potatoes and a Champagne sauce",
     "videos": "[]"
 }

@@ -1,24 +1,24 @@
 {
-    "title": "Chicken soup and dumplings",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 6",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickensoupanddumpli_93484_16x9.jpg"
-    ],
-    "description": "Known as 'Jewish penicillin', chicken soup is the ultimate comfort food - make a pot when you feel a cold coming on.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Known as 'Jewish penicillin', chicken soup is the ultimate comfort food - make a pot when you feel a cold coming on.",
+    "dishes": [
+        "broth",
+        "chicken_soup",
+        "sauce",
+        "soup",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/chickensoupanddumpli_93484_16x9.jpg"
     ],
     "ingredients": {
         "For the chicken soup": [
@@ -39,6 +39,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 6",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "For the chicken soup, place all the soup ingredients into a large saucepan, cover with cold water and bring to the boil. Reduce the heat and simmer for 1 hour.",
         "Remove the chicken and set aside to cool slightly. Remove the meat from the chicken and slice into chunks.",
@@ -47,8 +53,9 @@
         "Using oiled hands, roll the dumpling mixture into small balls, approximately 2.5cm/1in in diameter. Meanwhile, heat the chicken stock until simmering and cook the dumplings for 30 minutes.",
         "To serve, reheat the chicken broth, if necessary, and place some cooked chicken into the bottom of each of 6 serving bowls, pour the chicken broth on top and add a few dumplings."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chicken soup and dumplings",
     "videos": "[]"
 }

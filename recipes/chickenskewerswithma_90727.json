@@ -1,34 +1,24 @@
 {
-    "title": "Chicken skewers with mango salsa",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "",
+    "dishes": [
+        "curry",
+        "pie",
+        "salsa"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "testing_cooked_poultry"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the skewers": [
-            "1 tsp chilli powder",
-            "1 tsp ground turmeric",
-            "1 tsp curry powder",
-            "3 tbsp double cream",
-            "1 chicken breast, cut into strips",
-            "\u00bd green pepper, seeds removed, cut into pieces"
-        ],
         "For the mango salsa": [
             "1 tomato, chopped",
             "\u00bc onion, finely chopped",
@@ -36,7 +26,21 @@
             "\u00bc mango, peeled, stone removed, chopped",
             "2 tbsp chopped fresh mint",
             "2 tbsp chopped fresh coriander"
+        ],
+        "For the skewers": [
+            "1 tsp chilli powder",
+            "1 tsp ground turmeric",
+            "1 tsp curry powder",
+            "3 tbsp double cream",
+            "1 chicken breast, cut into strips",
+            "\u00bd green pepper, seeds removed, cut into pieces"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Soak two wooden skewers in cold water for 10-15 minutes, then drain and set aside.",
@@ -46,8 +50,9 @@
         "For the salsa, combine all of the salsa ingredients together in a small bowl.",
         "Serve the chicken skewers alongside a bowl of the salsa for dipping."
     ],
-    "howTos": [
-        "testing_cooked_poultry"
+    "tips": [
+        
     ],
+    "title": "Chicken skewers with mango salsa",
     "videos": "[]"
 }

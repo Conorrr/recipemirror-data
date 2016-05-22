@@ -1,26 +1,39 @@
 {
-    "title": "Raspberry topped sponge cakes",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 12 mini cakes or 1 large cake",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "This recipe makes 12 mini cakes which are perfect for special occasions or afternoon tea, but if you prefer you can make one large cake instead. Equipment and preparation: for this recipe you will need a 12 cup mini sandwich tin, a blender and a piping bag.",
     "author": {
         "galton_blackiston": "Galton Blackiston"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "This recipe makes 12 mini cakes which are perfect for special occasions or afternoon tea, but if you prefer you can make one large cake instead. Equipment and preparation: for this recipe you will need a 12 cup mini sandwich tin, a blender and a piping bag.",
+    "dishes": [
+        "cake",
+        "caramel",
+        "oven-baked_dishes",
+        "praline",
+        "sandwich",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the ganache": [
+            "250g/9oz good-quality chocolate (minimum 70% cocoa solids)",
+            "125g/4\u00bdoz butter",
+            "250ml/9fl oz double cream, whipped until stiff"
+        ],
+        "For the praline": [
+            "250g/9oz caster sugar",
+            "150g/5\u00bdoz whole roasted hazelnuts"
+        ],
+        "To decorate": [
+            "\u00bd punnet raspberries"
+        ],
         "default": [
             "250g/9oz soft unsalted butter",
             "250g/9oz caster sugar",
@@ -29,19 +42,13 @@
             "1 drop vanilla paste",
             "250g/9oz self-raising flour, sifted",
             "\u00bd pint double cream, whipped"
-        ],
-        "For the praline": [
-            "250g/9oz caster sugar",
-            "150g/5\u00bdoz whole roasted hazelnuts"
-        ],
-        "For the ganache": [
-            "250g/9oz good-quality chocolate (minimum 70% cocoa solids)",
-            "125g/4\u00bdoz butter",
-            "250ml/9fl oz double cream, whipped until stiff"
-        ],
-        "To decorate": [
-            "\u00bd punnet raspberries"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Makes 12 mini cakes or 1 large cake",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -55,8 +62,9 @@
         "Coat the mini cakes in the crushed praline and then pipe the remaining ganache on top in a neat mound.",
         "Decorate the tops of the cakes with raspberries and the caramel-coated hazelnuts."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Raspberry topped sponge cakes",
     "videos": "[]"
 }

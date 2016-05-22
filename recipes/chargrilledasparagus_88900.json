@@ -1,24 +1,21 @@
 {
-    "title": "Chargrilled asparagus with a fried egg and hollandaise sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nick_nairn": "Nick Nairn"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "mayonnaise",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the asparagus": [
@@ -37,13 +34,20 @@
             "1 tbsp chopped fresh chives"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "For the asparagus, drizzle the asparagus with the olive oil and heat a griddle pan until very hot. Place the asparagus into the griddle pan and season well with salt and freshly ground black pepper. Cook, turning frequently for 5-6 minutes, until tender and striped with griddle marks.",
         "For the hollandaise, blend the egg yolks, mustard and lemon juice together in a jug with a hand-held blender. With the blender still running, gradually pour in the melted butter, until the hollandaise reaches the consistency of a loose mayonnaise.",
         "Serve the asparagus lined up on a plate with the fried or poached egg placed on top. Spoon the hollandaise around the side and garnish with chopped chives."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Chargrilled asparagus with a fried egg and hollandaise sauce",
     "videos": "[]"
 }

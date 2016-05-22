@@ -1,24 +1,26 @@
 {
-    "title": "Focaccia",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 8-10",
-    "recommendations": "10",
-    "images": [
-        
-    ],
-    "description": "Make rosemary-topped focaccia the traditional way, kneading and knocking back the dough by hand.",
     "author": {
         "katie_and_giancarlo_caldesi": "Katie and Giancarlo Caldesi"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "Make rosemary-topped focaccia the traditional way, kneading and knocking back the dough by hand.",
+    "dishes": [
+        "bread",
+        "focaccia",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "prepare-ahead_desserts"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "kneading",
+        "knocking_back"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -31,6 +33,12 @@
             "medium coarse sea salt",
             "2 sprigs rosemary, torn into small pieces"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "10",
+    "serves": "Serves 8-10",
+    "show": {
+        
     },
     "steps": [
         "Pour a little of the tepid water into a small bowl. Add the yeast and blend using your fingers. Leave the yeast for five minutes to soften and dissolve.",
@@ -45,9 +53,9 @@
         "Create a dimpled effect by repeatedly pushing your fingertips gently into the surface of the dough. Drizzle a generous amount of extra virgin olive oil evenly over the dough. Sprinkle over the sea salt and push the small pieces of rosemary into the dough.",
         "Bake for 25-35 minutes or until the top is crusty and cooked through to the base. Serve."
     ],
-    "howTos": [
-        "kneading",
-        "knocking_back"
+    "tips": [
+        
     ],
+    "title": "Focaccia",
     "videos": "[]"
 }

@@ -1,24 +1,21 @@
 {
-    "title": "Baked pear",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "oven-baked_dishes",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -28,14 +25,21 @@
             "55g/2oz Stilton"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Preheat the oven to 220C/425F/Gas 7.",
         "Stuff the pear with the Stilton and place onto a baking sheet. Place in the oven and bake for 8-10 minutes, or until the Stilton has melted.",
         "Place the cranberry sauce and cream in a small pan over a low heat for 2-3 minutes.",
         "To serve, place the baked pear on a serving plate and pour the cranberry sauce over."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Baked pear",
     "videos": "[]"
 }

@@ -1,26 +1,40 @@
 {
-    "title": "Venison pie with red onion marmalade",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6-8",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "caramel",
+        "jam",
+        "jelly",
+        "marmalade",
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "prepare-ahead_desserts",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "kneading"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the jelly": [
+            "12g leaf gelatine",
+            "500ml/18fl oz chicken stock",
+            "1 bay leaf",
+            "10 peppercorns"
+        ],
         "For the pastry": [
             "450g/1lb plain flour",
             "1 tsp salt",
@@ -41,12 +55,6 @@
             "salt and freshly ground black pepper",
             "450g/1lb venison steak, thinly sliced"
         ],
-        "For the jelly": [
-            "12g leaf gelatine",
-            "500ml/18fl oz chicken stock",
-            "1 bay leaf",
-            "10 peppercorns"
-        ],
         "For the red onion marmalade": [
             "50g/2oz butter",
             "500g/1lb 2oz red onion, finely sliced",
@@ -56,6 +64,12 @@
             "150ml/5fl oz red wine",
             "75ml/3fl oz good red wine vinegar"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Serves 6-8",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the pastry, place the flour and salt into a bowl and make a well in the centre.",
@@ -78,8 +92,9 @@
         "Add the sugar and thyme, and cook slowly over a low heat for 20 minutes, or until soft and caramelised. Turn the heat up and add the red wine and red wine vinegar. Bring to a simmer and cook for a further 10-15 minutes until the liquid has evaporated. Season with salt and freshly ground black pepper. Leave to cool.",
         "To serve, slice the pie and serve it with the onion marmalade."
     ],
-    "howTos": [
-        "kneading"
+    "tips": [
+        
     ],
+    "title": "Venison pie with red onion marmalade",
     "videos": "[]"
 }

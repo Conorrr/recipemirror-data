@@ -1,40 +1,47 @@
 {
-    "title": "Treacle tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6",
-    "recommendations": "18",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/treacletart_67656_16x9.jpg"
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "p0077hsg": "Housecall"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "kneading",
+        "rubbing_in"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/treacletart_67656_16x9.jpg"
+    ],
     "ingredients": {
-        "For the pastry": [
-            "225g/8oz plain flour, plus extra for dusting",
-            "110g/4oz butter, chilled, diced",
-            "1 medium free-range egg, lightly beaten"
-        ],
         "For the filling": [
             "450g/1lb golden syrup",
             "85g/3oz fresh breadcrumbs",
             "generous pinch ground ginger",
             "1 lemon, zest, finely grated and 2 tbsp of the juice"
         ],
+        "For the pastry": [
+            "225g/8oz plain flour, plus extra for dusting",
+            "110g/4oz butter, chilled, diced",
+            "1 medium free-range egg, lightly beaten"
+        ],
         "To serve": [
             "clotted cream or double cream"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "18",
+    "serves": "Serves 6",
+    "show": {
+        "p0077hsg": "Housecall"
     },
     "steps": [
         "In a bowl, rub the butter into the flour with your fingers until it resembles fine breadcrumbs.",
@@ -44,9 +51,9 @@
         "Line the pastry with parchment paper and weigh down with rice or ceramic baking beans. Bake the pastry blind for 10-15 minutes, remove the paper and rice or beans and return the pastry case to the oven for a few minutes more, until light golden-brown.",
         "For the filling, mix together the filling ingredients in a bowl and pour into the pastry case. Return to the oven and bake for about 30 minutes. Serve hot or cold with clotted cream or double cream."
     ],
-    "howTos": [
-        "kneading",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Treacle tart",
     "videos": "[]"
 }

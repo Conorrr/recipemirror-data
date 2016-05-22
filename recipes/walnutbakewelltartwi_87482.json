@@ -1,26 +1,33 @@
 {
-    "title": "Walnut Bakewell tart with roasted medlars",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 10-12",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "A wintry twist on the classic Bakewell with rich walnuts and unusual medlars.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "A wintry twist on the classic Bakewell with rich walnuts and unusual medlars.",
+    "dishes": [
+        "bakewell_tart",
+        "bread",
+        "jam",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "whipping_cream"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the roasted medlars": [
+            "50g/2oz butter",
+            "400g/14oz medlars",
+            "75g/3oz caster sugar",
+            "1 cinnamon stick"
+        ],
         "For the walnut Bakewell tart": [
             "1 packet ready-made sweet shortcrust pastry, rolled out to 0.5cm/\u00bcin thick",
             "175g/6oz butter",
@@ -31,13 +38,13 @@
             "300g/11oz damson jam",
             "12 walnut halves",
             "250ml/9fl oz double cream"
-        ],
-        "For the roasted medlars": [
-            "50g/2oz butter",
-            "400g/14oz medlars",
-            "75g/3oz caster sugar",
-            "1 cinnamon stick"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 10-12",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5.",
@@ -55,8 +62,9 @@
         "Add the sugar and cinnamon stick, then transfer the pan to the oven and roast for 10-15 minutes, or until the medlars are soft and the skins have split.",
         "To serve, cut the tart into slices and place onto serving plates with a spoonful of damson cream and some roasted medlars."
     ],
-    "howTos": [
-        "whipping_cream"
+    "tips": [
+        
     ],
+    "title": "Walnut Bakewell tart with roasted medlars",
     "videos": "[]"
 }

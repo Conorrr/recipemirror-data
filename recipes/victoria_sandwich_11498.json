@@ -1,24 +1,27 @@
 {
-    "title": "Victoria sandwich shortbread",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 24 shortbread",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "David Mitchell recreates the classic 'Victoria Sandwich' with shortbread. Hopefully there won't be a peep out of Paul and Mary!",
     "author": {
         "david_mitchell": "David Mitchell"
     },
-    "show": {
-        "b052sjd8": "Series 2"
-    },
-    "tips": [
-        "To check the jam is set, put a saucer in the freezer. When you think the jam is ready, remove from the heat and put a little jam on the cold saucer. Leave to cool for a few minutes. If it wrinkles when you push it then it's ready; if not return it to the heat for a few minutes and test again."
+    "cookTime": "1 to 2 hours",
+    "cusine": "British",
+    "description": "David Mitchell recreates the classic 'Victoria Sandwich' with shortbread. Hopefully there won't be a peep out of Paul and Mary!",
+    "dishes": [
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "sandwich",
+        "sauce",
+        "shortbread",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "creaming"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the shortbread": [
@@ -28,20 +31,26 @@
             "420g/15oz plain flour, plus extra for dusting",
             "210g/7\u00bdoz cornflour or rice flour"
         ],
+        "For the strawberry jam": [
+            "1kg/2lb 4oz small strawberries, hulled",
+            "850g/1lb 14oz jam or preserving sugar",
+            "1 lemon, juice only"
+        ],
         "For the vanilla buttercream": [
             "230g/8\u00bcoz unsalted butter, softened",
             "4 tbsp milk",
             "2 tsp vanilla extract",
             "450g/1lb icing sugar"
         ],
-        "For the strawberry jam": [
-            "1kg/2lb 4oz small strawberries, hulled",
-            "850g/1lb 14oz jam or preserving sugar",
-            "1 lemon, juice only"
-        ],
         "To decorate": [
             "30 strawberries, hulled, thinly sliced"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes 24 shortbread",
+    "show": {
+        "b052sjd8": "Series 2"
     },
     "steps": [
         "Preheat the oven to 170C/160C Fan/Gas 3. Grease two baking trays and line with parchment.",
@@ -53,8 +62,9 @@
         "For the jam, set aside a small handful of strawberries and mash the rest to a rough pulp. Pour the pulp into a wide, heavy-bottomed pan. Add the jam sugar and lemon juice and bring to the boil. Add the remaining strawberries and boil for about 5 minutes, see the tip section for how to check if the jam has set. Remove from the heat and skim off the pink scum. Leave to cool.",
         "Put a layer of cream, then a layer of jam onto a shortbread and use another round to make a \u2018sandwich\u2019. Fan the sliced strawberries on top. Repeat the process with the remaining shortbread, buttercream, jam and strawberries to make 24 sandwiches."
     ],
-    "howTos": [
-        "creaming"
+    "tips": [
+        "To check the jam is set, put a saucer in the freezer. When you think the jam is ready, remove from the heat and put a little jam on the cold saucer. Leave to cool for a few minutes. If it wrinkles when you push it then it's ready; if not return it to the heat for a few minutes and test again."
     ],
+    "title": "Victoria sandwich shortbread",
     "videos": "[]"
 }

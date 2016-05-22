@@ -1,31 +1,30 @@
 {
-    "title": "Mushroom biryani",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "Spice up a vegetarian dinner party with this delicious recipe for mushroom biryani. Equipment and preparation: You\u2019ll need 4 x 10cm/4in chef\u2019s rings greased with butter.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "Spice up a vegetarian dinner party with this delicious recipe for mushroom biryani. Equipment and preparation: You\u2019ll need 4 x 10cm/4in chef\u2019s rings greased with butter.",
+    "dishes": [
+        "biryani",
+        "curry",
+        "omelette",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the omelettes": [
-            "3 free-range eggs",
-            "1 tbsp chopped fresh coriander",
-            "knob of butter"
-        ],
         "For the marinade": [
             "vegetable oil, to fry",
             "500g/1lb 2oz brown cap and button mushrooms",
@@ -36,6 +35,11 @@
             "20g/\u00beoz ground cumin",
             "salt, to taste",
             "1 litre/1\u00be pints natural yoghurt"
+        ],
+        "For the omelettes": [
+            "3 free-range eggs",
+            "1 tbsp chopped fresh coriander",
+            "knob of butter"
         ],
         "For the paste": [
             "2 red chillies",
@@ -60,6 +64,12 @@
             "200ml/7fl oz medium curry sauce, warmed"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
         "For the omelette, whisk the eggs in a bowl with the chopped coriander. Melt the butter in a saucepan and fry the eggs until golden-brown on each side. Remove the omelette from the frying pan and roll it up into a cigar shape. Slice thinly and set aside.",
@@ -71,8 +81,9 @@
         "Place the chefs' rings onto a baking tray. Put a bay leaf in the middle of each ring and add a layer of rice. Place a layer of mushrooms on top and finish with a final layer of rice. Cover the ring with aluminium foil and cook in the oven for 10 minutes.",
         "Once cooked, squeeze some lime juice over the rice. Cover with the omelette and drizzle a little of the warmed curry sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mushroom biryani",
     "videos": "[]"
 }

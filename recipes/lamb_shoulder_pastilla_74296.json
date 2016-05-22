@@ -1,26 +1,49 @@
 {
-    "title": "Lamb shoulder pastilla, baked beetroot, salsa verde, ewes\u2019 milk curd",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Meltingly tender, aromatic slow-cooked lamb, wrapped in pastry and served with a sharp salsa verde. Equipment and Preparation: You will need a mandoline for cutting the potato.",
     "author": {
         "paul_ainsworth": "Paul Ainsworth"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Meltingly tender, aromatic slow-cooked lamb, wrapped in pastry and served with a sharp salsa verde. Equipment and Preparation: You will need a mandoline for cutting the potato.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pastry",
+        "salsa",
+        "sauce",
+        "sausage",
+        "slow-cooked_dishes",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the baked beetroot": [
+            "200ml/7fl oz sherry",
+            "4 small fresh beetroot, peeled",
+            "rock salt and cracked white pepper",
+            "olive oil",
+            "10g/\u00bcoz fresh thyme leaves",
+            "10g/\u00bcoz chopped rosemary"
+        ],
+        "For the confit of lamb": [
+            "1.5kg/3lb 5oz duck fat",
+            "3 large sprigs thyme",
+            "3 large sprigs rosemary",
+            "1 bay leaf",
+            "\u00bd head of garlic"
+        ],
+        "For the ewes\u2019 milk curd": [
+            "100g/4oz ewes' milk curd, at room temperature",
+            "lemon juice, to taste",
+            "pinch cracked black pepper",
+            "salt, to taste"
+        ],
         "For the lamb brine and shoulder": [
             "50g/2oz demerara sugar",
             "150g/5oz fine salt",
@@ -32,20 +55,17 @@
             "1 lemon, peel only",
             "1kg/2lb 4oz boneless lamb shoulder"
         ],
-        "For the confit of lamb": [
-            "1.5kg/3lb 5oz duck fat",
-            "3 large sprigs thyme",
-            "3 large sprigs rosemary",
-            "1 bay leaf",
-            "\u00bd head of garlic"
-        ],
-        "For the baked beetroot": [
-            "200ml/7fl oz sherry",
-            "4 small fresh beetroot, peeled",
-            "rock salt and cracked white pepper",
-            "olive oil",
-            "10g/\u00bcoz fresh thyme leaves",
-            "10g/\u00bcoz chopped rosemary"
+        "For the pastilla": [
+            "50g/2oz chopped mint",
+            "250ml/9floz reduced lamb sauce",
+            "salt and freshly ground black pepper",
+            "sherry vinegar, to taste",
+            "25g/1oz salsa verde (from above)",
+            "2 large roasting potatoes (such as Maris piper or Lovers), peeled",
+            "250g/9oz clarified butter",
+            "8 sheets filo pastry",
+            "vegetable oil, for deep frying",
+            "pinch ground cumin"
         ],
         "For the salsa verde": [
             "175g/6oz picked mint",
@@ -60,28 +80,16 @@
             "10g/\u00bdoz capers, drained",
             "sherry vinegar"
         ],
-        "For the ewes\u2019 milk curd": [
-            "100g/4oz ewes' milk curd, at room temperature",
-            "lemon juice, to taste",
-            "pinch cracked black pepper",
-            "salt, to taste"
-        ],
-        "For the pastilla": [
-            "50g/2oz chopped mint",
-            "250ml/9floz reduced lamb sauce",
-            "salt and freshly ground black pepper",
-            "sherry vinegar, to taste",
-            "25g/1oz salsa verde (from above)",
-            "2 large roasting potatoes (such as Maris piper or Lovers), peeled",
-            "250g/9oz clarified butter",
-            "8 sheets filo pastry",
-            "vegetable oil, for deep frying",
-            "pinch ground cumin"
-        ],
         "To serve": [
             "drizzle olive oil",
             "1 punnet pea shoots"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the lamb brine, mix all the ingredients except the lamb together in a saucepan with 2 litres/3\u00bd pints of water and bring to a simmer, just to dissolve the sugar and salt.",
@@ -124,8 +132,9 @@
         "Place a spoonful of the salsa verde on the plate.",
         "Place the pastille on the plate, drizzle with a little more olive oil and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lamb shoulder pastilla, baked beetroot, salsa verde, ewes\u2019 milk curd",
     "videos": "[]"
 }

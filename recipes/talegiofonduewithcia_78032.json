@@ -1,26 +1,30 @@
 {
-    "title": "Taleggio fondue with ciabatta",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_rankin": "Paul Rankin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "ciabatta",
+        "fondue",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the ciabatta": [
+            "5 slices ciabatta",
+            "1 tbsp olive oil",
+            "2 tbsp chervil, chopped",
+            "2 tbsp parsley, chopped"
+        ],
         "default": [
             "50ml/2fl oz white wine",
             "100g/3\u00bdoz Taleggio cheese, grated",
@@ -29,13 +33,13 @@
             "3 cooked artichoke hearts",
             "5 sun-blushed tomatoes",
             "2tbsp parsley, chopped"
-        ],
-        "For the ciabatta": [
-            "5 slices ciabatta",
-            "1 tbsp olive oil",
-            "2 tbsp chervil, chopped",
-            "2 tbsp parsley, chopped"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Heat the wine, cheese, cream and nutmeg in a medium saucepan.",
@@ -44,8 +48,9 @@
         "Drizzle the ciabatta slices with the olive oil and season well. Place in the pan and char grill for one minute on each side.",
         "To serve, pour the fondue into a bowl and serve the ciabatta slices aside."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Taleggio fondue with ciabatta",
     "videos": "[]"
 }

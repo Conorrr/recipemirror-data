@@ -1,35 +1,41 @@
 {
-    "title": "Passion fruit delice with tuiles",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 8",
-    "recommendations": "5",
-    "images": [
-        
-    ],
-    "description": "What a showstopper - the intense passion fruit flavour of this layered mousse cake will knock your socks off.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "What a showstopper - the intense passion fruit flavour of this layered mousse cake will knock your socks off.",
+    "dishes": [
+        "cake",
+        "custard",
+        "icing",
+        "jam",
+        "meringue",
+        "mousse",
+        "oven-baked_dishes",
+        "pie",
+        "stir-fries"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sugar syrup": [
-            "125g/4\u00bdoz caster sugar",
-            "110g/4fl oz water",
-            "10g/\u00bdoz glucose syrup"
-        ],
         "For the Italian meringue": [
             "175g/6oz caster sugar",
             "5 tbsp water",
             "3 free-range egg whites"
+        ],
+        "For the glaze": [
+            "50ml/2fl oz sugar syrup (see above)",
+            "50ml/2fl oz passion fruit pur\u00e9e",
+            "2 gelatine leaves, soaked in cold water for 15 minutes, drained",
+            "4 passion fruit",
+            "12g/\u00bdoz powdered milk"
         ],
         "For the passion fruit delice": [
             "300ml/10fl oz passion fruit pur\u00e9e",
@@ -42,20 +48,24 @@
             "20ml/\u00befl oz passion fruit liqueur",
             "400ml/14fl oz double cream, whipped until soft peaks form when the whisk is removed"
         ],
+        "For the sugar syrup": [
+            "125g/4\u00bdoz caster sugar",
+            "110g/4fl oz water",
+            "10g/\u00bdoz glucose syrup"
+        ],
         "For the tuiles": [
             "100g/3\u00bdoz unsalted butter",
             "100g/3\u00bdoz icing sugar",
             "1 tbsp clear honey",
             "3 free-range egg whites",
             "100g/3\u00bdoz plain flour"
-        ],
-        "For the glaze": [
-            "50ml/2fl oz sugar syrup (see above)",
-            "50ml/2fl oz passion fruit pur\u00e9e",
-            "2 gelatine leaves, soaked in cold water for 15 minutes, drained",
-            "4 passion fruit",
-            "12g/\u00bdoz powdered milk"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "5",
+    "serves": "Serves 8",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the sugar syrup, place all the ingredients into a pan and slowly bring to the boil, stirring occasionally with a wooden spoon.",
@@ -84,8 +94,9 @@
         "For the glaze, place the sugar syrup and the passion fruit pulp into a pan and heat gently, then remove from the heat, stir in the drained gelatine and set aside to cool. Once cool, remove the delice from the freezer and spread the glaze over the top of the passion fruit filling. Transfer to the fridge to chill again before serving.",
         "To serve, remove the flan ring by heating the outside of the ring with a blowtorch for a few seconds, then slide the ring upwards, rotating it slightly. Spoon the remaining passion fruit seeds into the centre of the delice. Place the tuiles upright around the edge of the delice to form a ring. Cut into slices to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Passion fruit delice with tuiles",
     "videos": "[]"
 }

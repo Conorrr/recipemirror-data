@@ -1,26 +1,36 @@
 {
-    "title": "Beef stew and dumplings with Vichy carrots",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "Bring a bit of cheer to a cold, drab day by dishing up this simple, hearty stew with dumplings and buttered carrots.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Bring a bit of cheer to a cold, drab day by dishing up this simple, hearty stew with dumplings and buttered carrots.",
+    "dishes": [
+        "beef_stew",
+        "casserole",
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "browning_meat"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the Vichy carrots": [
+            "4 medium carrots, peeled and left whole",
+            "50g/1\u00beoz unsalted butter",
+            "1 tbsp sugar"
+        ],
         "For the beef stew": [
             "2 tbsp olive oil",
             "25g/1oz unsalted butter",
@@ -40,12 +50,13 @@
             "1 tsp baking powder",
             "pinch salt",
             "60g/2\u00bcoz suet"
-        ],
-        "For the Vichy carrots": [
-            "4 medium carrots, peeled and left whole",
-            "50g/1\u00beoz unsalted butter",
-            "1 tbsp sugar"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "Serves 4-6",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Preheat the oven to 180C/350F/Gas 4.",
@@ -59,8 +70,9 @@
         "Cover with a lid or cartouche (a circle of greaseproof paper arranged so that it covers the top of the carrots) and cook gently for 4-5 minutes, or until the carrots are tender. Season with salt and black pepper.",
         "To serve, place a spoonful of the stew onto a plate and place one whole carrot and a dumpling next to it."
     ],
-    "howTos": [
-        "browning_meat"
+    "tips": [
+        
     ],
+    "title": "Beef stew and dumplings with Vichy carrots",
     "videos": "[]"
 }

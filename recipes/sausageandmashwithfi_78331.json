@@ -1,33 +1,31 @@
 {
-    "title": "Sausage and mash with fig jam",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "gravy",
+        "jam",
+        "sauce",
+        "sausage",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "2 sausages",
-            "\u00bd sweet potato",
-            "salt and freshly ground black pepper",
-            "25g/1oz butter",
-            "30ml/1\u00bcfl oz double cream",
-            "1 tbsp Dijon mustard"
+        "For the fig jam": [
+            "\u00bd onion, chopped",
+            "2 figs, sliced",
+            "50g/1\u00beoz brown sugar",
+            "25ml/1fl oz white wine vinegar"
         ],
         "For the gravy": [
             "\u00bd onion, sliced",
@@ -35,12 +33,20 @@
             "200ml/7\u00bcfl oz beef stock",
             "4 tbsp red wine"
         ],
-        "For the fig jam": [
-            "\u00bd onion, chopped",
-            "2 figs, sliced",
-            "50g/1\u00beoz brown sugar",
-            "25ml/1fl oz white wine vinegar"
+        "default": [
+            "2 sausages",
+            "\u00bd sweet potato",
+            "salt and freshly ground black pepper",
+            "25g/1oz butter",
+            "30ml/1\u00bcfl oz double cream",
+            "1 tbsp Dijon mustard"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Place the sausages in a pan on a medium heat. Cook for ten minutes until golden and cooked through.",
@@ -52,8 +58,9 @@
         "Cook for eight minutes on a low heat until soft and syrupy.",
         "To serve, place the mash in the middle of a plate. Top with the sausages. Pour over the gravy and serve the fig jam on the side."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sausage and mash with fig jam",
     "videos": "[]"
 }

@@ -1,23 +1,27 @@
 {
-    "title": "Tomato and anchovy pizza",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 2",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "valentine_warner": "Valentine Warner"
     },
-    "show": {
-        "b00lpbxs": "What to Eat Now"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Italian",
+    "description": "",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pasta",
+        "pie",
+        "pizza",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
+        
+    ],
+    "howTos": [
+        "kneading",
+        "knocking_back"
+    ],
+    "images": [
         
     ],
     "ingredients": {
@@ -41,6 +45,12 @@
             "extra virgin olive oil, for drizzling"
         ]
     },
+    "prepTime": "over 2 hours",
+    "recommendations": "2",
+    "serves": "Serves 2",
+    "show": {
+        "b00lpbxs": "What to Eat Now"
+    },
     "steps": [
         "For the pizza dough, pour the water into a large bowl and gently stir in the sugar and yeast. Set aside for 10 minutes, or until the water has a thick beige foam floating on top.",
         "Add half of the flour and stir gently with a wooden spoon until incorporated into the water.",
@@ -62,9 +72,9 @@
         "Continue to simmer the sauce for 15-20 minutes, or until the tomatoes have broken down and the sauce has thickened. Remove from the heat and set aside to cool slightly.",
         "When the sauce has cooled, spread a thin layer over the pizza bases (the remaining sauce can be frozen and cooked with pasta). Arrange the anchovy fillets in a clock formation on top of the pizza. Sprinkle over the dried oregano and drizzle over the olive oil. Serve immediately."
     ],
-    "howTos": [
-        "kneading",
-        "knocking_back"
+    "tips": [
+        
     ],
+    "title": "Tomato and anchovy pizza",
     "videos": "[]"
 }

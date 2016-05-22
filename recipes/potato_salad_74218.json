@@ -1,24 +1,27 @@
 {
-    "title": "Potato salad",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "",
-    "recommendations": "3",
-    "images": [
-        
-    ],
-    "description": "An American-style potato salad that packs a tangy punch. Try it with a traditional meatloaf, or any cold meats.",
     "author": {
         "nancy_davis": "Nancy Davis"
     },
-    "show": {
-        "b00x84dj": "The Hairy Bikers: Mums Know Best"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "American",
+    "description": "An American-style potato salad that packs a tangy punch. Try it with a traditional meatloaf, or any cold meats.",
+    "dishes": [
+        "mayonnaise",
+        "pickle",
+        "pie",
+        "potato_salad",
+        "punch",
+        "salad",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -33,13 +36,20 @@
             "1 free-range egg, hard-boiled (optional)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "3",
+    "serves": "",
+    "show": {
+        "b00x84dj": "The Hairy Bikers: Mums Know Best"
+    },
     "steps": [
         "Cut each potato into eight pieces and cook in boiling salted water until tender. Drain and set aside to cool slightly.",
         "Mix the milk, mustard, vinegar, pickle juice and sugar together in a small bowl to make a dressing.",
         "When the potatoes have cooled, pour over enough dressing to coat the potatoes. Add mayonnaise to taste and stir in the chopped pickle and egg, if using. Chill in the fridge for a couple of hours before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Potato salad",
     "videos": "[]"
 }

@@ -1,33 +1,26 @@
 {
-    "title": "Easy Bakewell tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 8",
-    "recommendations": "17",
-    "images": [
-        
-    ],
-    "description": "A sure-fire hit with tea lovers everywhere, this version of the traditional Bakewell tart uses cherry jam instead of raspberry.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "A sure-fire hit with tea lovers everywhere, this version of the traditional Bakewell tart uses cherry jam instead of raspberry.",
+    "dishes": [
+        "bakewell_tart",
+        "jam",
+        "oven-baked_dishes",
+        "pastry"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the pastry": [
-            "300g/10\u00bdoz plain flour, plus extra for dusting",
-            "125g/4\u00bdoz unsalted butter",
-            "30g/1oz sugar",
-            "1 free-range egg, plus 1 extra, beaten, to glaze",
-            "2 tbsp milk, to bind (if needed)"
-        ],
         "For the filling": [
             "225g/8oz butter, softened",
             "225g/8oz sugar",
@@ -37,7 +30,20 @@
             "50g/2oz plain flour",
             "jar cherry jam",
             "flaked almonds, for sprinkling"
+        ],
+        "For the pastry": [
+            "300g/10\u00bdoz plain flour, plus extra for dusting",
+            "125g/4\u00bdoz unsalted butter",
+            "30g/1oz sugar",
+            "1 free-range egg, plus 1 extra, beaten, to glaze",
+            "2 tbsp milk, to bind (if needed)"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "17",
+    "serves": "Serves 8",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the pastry, place the flour, butter, sugar and egg into a food processor and pulse to combine. If necessary, add a little milk to help bring the mixture together.",
@@ -52,8 +58,9 @@
         "Spread the filling mixture over the jam and sprinkle over the flaked almonds.",
         "Transfer to the oven and bake for 20 minutes, or until set and golden-brown. Allow to cool in the tin before serving in slices."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Easy Bakewell tart",
     "videos": "[]"
 }

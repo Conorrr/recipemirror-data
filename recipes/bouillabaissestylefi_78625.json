@@ -1,33 +1,28 @@
 {
-    "title": "Mussel, haddock and salmon stew",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "paul_merrett": "Paul Merrett"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bread",
+        "curry",
+        "sauce",
+        "stew",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "1litre/2 pints fish stock",
-            "1kg/2lb 3\u00beoz mussels, scrubbed and de-bearded",
-            "pinch saffron",
-            "\u00bc tsp curry powder",
-            "500ml/1pint double cream"
-        ],
         "For the stew": [
             "250g/9oz smoked haddock, cut into 1.5cm cubes",
             "200g/7oz salmon, cut into 1.5cm cubes",
@@ -39,7 +34,20 @@
         ],
         "To serve": [
             "4 slices country bread, griddled"
+        ],
+        "default": [
+            "1litre/2 pints fish stock",
+            "1kg/2lb 3\u00beoz mussels, scrubbed and de-bearded",
+            "pinch saffron",
+            "\u00bc tsp curry powder",
+            "500ml/1pint double cream"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "Bring the stock to the boil, then add the mussels and cook for 3-4 minutes until the mussels are open. Discard any mussels that do not open.",
@@ -52,8 +60,9 @@
         "Season with salt and freshly ground black pepper.",
         "Serve with the griddled bread."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Mussel, haddock and salmon stew",
     "videos": "[]"
 }

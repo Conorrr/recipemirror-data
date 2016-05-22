@@ -1,33 +1,27 @@
 {
-    "title": "Rich lamb stew with aubergine pur\u00e9e (Hunkar begendi)",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This stew is spicy with a fair bit of tomato in it and cooked until the sauce is thick and unctuous, but what makes it special is the aubergine pur\u00e9e.",
     "author": {
         "rick_stein": "Rick Stein"
     },
-    "show": {
-        "b0667qf6": "Rick Stein: From Venice to Istanbul"
-    },
-    "tips": [
-        "I have had the dish many times in Turkey and sometimes the pur\u00e9e has been put through a food processor and becomes rather too smooth; for me it has to be mashed with a fork, and if there are flecks of the charred skin in it, I don\u2019t mind."
+    "cookTime": "1 to 2 hours",
+    "cusine": "Turkish_and_Middle_Eastern",
+    "description": "This stew is spicy with a fair bit of tomato in it and cooked until the sauce is thick and unctuous, but what makes it special is the aubergine pur\u00e9e.",
+    "dishes": [
+        "casserole",
+        "oven-baked_dishes",
+        "roux",
+        "sauce",
+        "stew"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the red pepper paste": [
-            "660g/1lb 7oz red peppers",
-            "50g/1\u00beoz tomato pur\u00e9e",
-            "\u00bd tsp salt",
-            "1 tsp cayenne pepper",
-            "2 tbsp olive oil"
-        ],
         "For the aubergine pur\u00e9e": [
             "4 medium aubergines",
             "30g/1oz butter",
@@ -52,7 +46,20 @@
             "freshly ground black pepper, to taste",
             "200ml/7fl oz hot water",
             "chopped flatleaf parsley, to serve"
+        ],
+        "For the red pepper paste": [
+            "660g/1lb 7oz red peppers",
+            "50g/1\u00beoz tomato pur\u00e9e",
+            "\u00bd tsp salt",
+            "1 tsp cayenne pepper",
+            "2 tbsp olive oil"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4",
+    "show": {
+        "b0667qf6": "Rick Stein: From Venice to Istanbul"
     },
     "steps": [
         "Preheat the oven to 220C/200C Fan/Gas 7.",
@@ -65,8 +72,9 @@
         "When the lamb is tender, check the sauce; it should be rich and thick. If it\u2019s too runny, remove the lamb and reduce the liquid a little, then return the meat to the pan and warm through.",
         "Serve the stew on top of the aubergine pur\u00e9e, scattered with parsley."
     ],
-    "howTos": [
-        
+    "tips": [
+        "I have had the dish many times in Turkey and sometimes the pur\u00e9e has been put through a food processor and becomes rather too smooth; for me it has to be mashed with a fork, and if there are flecks of the charred skin in it, I don\u2019t mind."
     ],
+    "title": "Rich lamb stew with aubergine pur\u00e9e (Hunkar begendi)",
     "videos": "[]"
 }

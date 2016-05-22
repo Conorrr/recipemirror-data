@@ -1,26 +1,35 @@
 {
-    "title": "Sesame salmon with tempura salmon and yuzu mayonnaise",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "Japanese flavours of sesame, soy and yuzu create a lovely balance of salty and sharp, coupled with rich salmon.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Japanese flavours of sesame, soy and yuzu create a lovely balance of salty and sharp, coupled with rich salmon.",
+    "dishes": [
+        "bread",
+        "jam",
+        "mayonnaise",
+        "pie",
+        "salad",
+        "sauce",
+        "tempura"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the yuzu mayonnaise": [
+            "3 free-range egg yolks",
+            "1 tbsp white wine vinegar",
+            "1 tbsp Dijon mustard",
+            "500ml/18fl oz rapeseed or light olive oil",
+            "1-2 tsp yuzu juice, to taste"
+        ],
         "default": [
             "vegetable oil, for deep-frying",
             "500g/1lb 2oz salmon fillet, pin boned and skinned",
@@ -37,14 +46,13 @@
             "125ml/4 fl oz sparkling water",
             "salt, to season",
             "2 tbsp mixed cress leaves"
-        ],
-        "For the yuzu mayonnaise": [
-            "3 free-range egg yolks",
-            "1 tbsp white wine vinegar",
-            "1 tbsp Dijon mustard",
-            "500ml/18fl oz rapeseed or light olive oil",
-            "1-2 tsp yuzu juice, to taste"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "Heat a deep fat fryer to 190C/375F, alternatively heat vegetable oil in a deep-sided, heavy based pan until a breadcrumb sizzles and turns golden brown when dropped in. (CAUTION: hot oil can be dangerous. Do not leave unattended.)",
@@ -60,8 +68,9 @@
         "Lower the salmon pieces into the fryer, a few at a time, and cook for about 2-3 minutes, until crisp and golden-brown. Once cooked, drain the tempura salmon onto kitchen paper and season with salt.",
         "To serve, drizzle the yuzu mayonnaise over the salad. Place a few pieces of tempura salmon on top then garnish with the cress."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Sesame salmon with tempura salmon and yuzu mayonnaise",
     "videos": "[]"
 }

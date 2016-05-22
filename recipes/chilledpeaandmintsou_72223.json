@@ -1,26 +1,29 @@
 {
-    "title": "Chilled pea and mint soup",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 2",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "A classic refreshing chilled soup with the fresh flavours of summer. Allow plenty of time to get the soup really cold.",
     "author": {
         
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "A classic refreshing chilled soup with the fresh flavours of summer. Allow plenty of time to get the soup really cold.",
+    "dishes": [
+        "chilled_soup",
+        "soup",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "4 tbsp lightly thickened double cream",
+            "Fresh mint sprigs"
+        ],
         "default": [
             "1 tbsp olive oil",
             "6 large spring onions, washed and sliced",
@@ -32,11 +35,13 @@
             "Large handful of freshly chopped mint",
             "Salt",
             "Freshly ground white pepper"
-        ],
-        "To serve": [
-            "4 tbsp lightly thickened double cream",
-            "Fresh mint sprigs"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "2",
+    "serves": "Serves 2",
+    "show": {
+        
     },
     "steps": [
         "Heat the oil in a large pan. Add the spring onions, garlic, and bacon and gently cook for 5-7 minutes or until the spring onions are soft but not brown.",
@@ -45,8 +50,9 @@
         "Blend the soup mixture in a liquidiser or hand blender until smooth. Season to taste. If using a liquidiser do not overfill your container and cool the soup mixture slightly before blending. Pour into a large bowl and allow to cool. Cover and chill for four hours or overnight.",
         "To serve, spoon the soup into chilled soup bowls. Spoon a tablespoon of the cream into the soup and top with a sprig of mint before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Chilled pea and mint soup",
     "videos": "[]"
 }

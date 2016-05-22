@@ -1,26 +1,35 @@
 {
-    "title": "Passion fruit tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "1-2 hours",
-    "serves": "Serves 8-10",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "",
+    "dishes": [
+        "bread",
+        "icing",
+        "oven-baked_dishes",
+        "pastry",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "trimming_pastry_case"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the filling": [
+            "550g/1lb 3\u00bdoz caster sugar",
+            "150ml/5fl oz water",
+            "12 passion fruit, sieved to collect pulp and juice only",
+            "9 free-range eggs",
+            "300ml/10\u00bdfl oz double cream",
+            "icing sugar, to serve"
+        ],
         "For the pastry": [
             "225g/8oz plain flour, plus extra for dusting",
             "75g/3oz cold unsalted butter, cut into cubes",
@@ -29,15 +38,13 @@
             "50ml/2fl oz whole milk",
             "2 free-range egg yolks",
             "1 egg, beaten, for egg wash"
-        ],
-        "For the filling": [
-            "550g/1lb 3\u00bdoz caster sugar",
-            "150ml/5fl oz water",
-            "12 passion fruit, sieved to collect pulp and juice only",
-            "9 free-range eggs",
-            "300ml/10\u00bdfl oz double cream",
-            "icing sugar, to serve"
         ]
+    },
+    "prepTime": "1-2 hours",
+    "recommendations": "",
+    "serves": "Serves 8-10",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "To make the pastry, place the flour, butter, salt and icing sugar into a food processor and pulse until it begins to look like breadcrumbs.",
@@ -53,8 +60,9 @@
         "Pour the egg and cream mixture into the cooked tart case, then transfer to the oven on the middle shelf to bake for about 40 minutes, or until the filling has almost set. It should still be a little bit wobbly, but will carry on cooking after it is removed from the oven and will set.",
         "To serve, dust the tart with icing sugar and drizzle with a spoonful of the remaining sauce."
     ],
-    "howTos": [
-        "trimming_pastry_case"
+    "tips": [
+        
     ],
+    "title": "Passion fruit tart",
     "videos": "[]"
 }

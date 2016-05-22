@@ -1,24 +1,22 @@
 {
-    "title": "Roasted red pepper bruschetta",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Makes 4 small slices",
-    "recommendations": "1",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/roastedredpepperbrus_81864_16x9.jpg"
-    ],
-    "description": "If taking this dish on a picnic, mix the topping ingredients together and pack in a separate container from the baguette slices. Assemble when ready to eat.",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "description": "If taking this dish on a picnic, mix the topping ingredients together and pack in a separate container from the baguette slices. Assemble when ready to eat.",
+    "dishes": [
+        "baguette",
+        "bread",
+        "bruschetta"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/roastedredpepperbrus_81864_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -29,13 +27,20 @@
             "2 tsp sesame seeds"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Makes 4 small slices",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
+    },
     "steps": [
         "Place the red pepper directly onto a gas flame and chargrill until black blisters form on all sides. Put into a plastic bag, seal well and leave for two minutes.",
         "Remove the pepper from the bag, peel and slice. Put the red pepper slices onto the griddled bread, add the chopped anchovies, pine nuts and sesame seeds.",
         "Serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Roasted red pepper bruschetta",
     "videos": "[]"
 }

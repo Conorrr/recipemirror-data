@@ -1,26 +1,29 @@
 {
-    "title": "Honey-roasted spicy leg of lamb",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "overnight",
-    "serves": "Serves 5-6",
-    "recommendations": "14",
-    "images": [
-        
-    ],
-    "description": "This leg of lamb is slightly spicy, lemony, and at first bite, a little sweet. Honey and lemon is a fantastic combination and the spices just add to it. As with all roast lamb, it needs time to marinate properly and takes time to cook.",
     "author": {
         "anjum_anand": "Anjum Anand"
     },
-    "show": {
-        "b007szxr": "Indian Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "cusine": "Indian",
+    "description": "This leg of lamb is slightly spicy, lemony, and at first bite, a little sweet. Honey and lemon is a fantastic combination and the spices just add to it. As with all roast lamb, it needs time to marinate properly and takes time to cook.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the honey rub": [
+            "100g/3\u00bdoz almonds, blanched",
+            "100ml/3\u00bdfl oz Greek yoghurt",
+            "1\u00bd tbsp honey"
+        ],
         "For the lamb": [
             "2.2kg/41b 13\u00bdoz leg of lamb"
         ],
@@ -36,12 +39,13 @@
             "1 tbsp garam masala",
             "\u00bdtsp freshly ground black pepper",
             "2 tbsp water"
-        ],
-        "For the honey rub": [
-            "100g/3\u00bdoz almonds, blanched",
-            "100ml/3\u00bdfl oz Greek yoghurt",
-            "1\u00bd tbsp honey"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "14",
+    "serves": "Serves 5-6",
+    "show": {
+        "b007szxr": "Indian Food Made Easy"
     },
     "steps": [
         "Blend together all the ingredients for the marinade in a blender or food processor.",
@@ -51,8 +55,9 @@
         "Scatter over the remaining almonds and drizzle over the remaining honey and roast for another ten minutes. Check if the meat is cooked using a meat thermometer. The temperature should be 130-150C. The higher the temperature the more well cooked the meat will be.",
         "Remove the lamb from the oven. Cover it with foil and allow to rest for 15 minutes. Pour out the juices, spoon off any excess fat, and serve it on the side. Serve the lamb with roasted potatoes and a vegetable of your choice."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Honey-roasted spicy leg of lamb",
     "videos": "[]"
 }

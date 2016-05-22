@@ -1,26 +1,38 @@
 {
-    "title": "Authentic lamb tagine",
-    "cookTime": "over 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "This mouth-watering tagine is sprinkled with sesame-coated dried fruit and almonds for an extra flourish of flavour. Equipment and preparation: for this recipe, you will need a tagine. Alternatively, use a deep, heavy-based, lidded casserole.",
     "author": {
         "zoubida_boutarfas": "Zoubida Boutarfas"
     },
-    "show": {
-        "b05y38pk": "Nigel Slater: Eating Together"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "North_African",
+    "description": "This mouth-watering tagine is sprinkled with sesame-coated dried fruit and almonds for an extra flourish of flavour. Equipment and preparation: for this recipe, you will need a tagine. Alternatively, use a deep, heavy-based, lidded casserole.",
+    "dishes": [
+        "bun",
+        "casserole",
+        "lamb_tagine",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "tagine"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "For the garnish": [
+            "250g/9oz dried apricots",
+            "250g/9oz dried prunes",
+            "4 tbsp caster sugar",
+            "1\u00bd tsp ground cinnamon",
+            "2 tbsp vegetable oil",
+            "250g/9oz blanched almonds",
+            "3 tbsp toasted sesame seeds"
+        ],
         "For the tagine": [
             "2 tbsp olive oil",
             "1 x 1kg/2lb 4oz leg of lamb, cut through the bone into 4 pieces",
@@ -34,16 +46,13 @@
             "small bunch fresh coriander",
             "small bunch fresh parsley",
             "2 cinnamon sticks"
-        ],
-        "For the garnish": [
-            "250g/9oz dried apricots",
-            "250g/9oz dried prunes",
-            "4 tbsp caster sugar",
-            "1\u00bd tsp ground cinnamon",
-            "2 tbsp vegetable oil",
-            "250g/9oz blanched almonds",
-            "3 tbsp toasted sesame seeds"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "2",
+    "serves": "Serves 4-6",
+    "show": {
+        "b05y38pk": "Nigel Slater: Eating Together"
     },
     "steps": [
         "For the tagine, heat the oil in a medium-sized tagine, or a deep, heavy-based, lidded casserole. Add the lamb leg and fry for 2-3 minutes, turning regularly.",
@@ -56,8 +65,9 @@
         "Just before serving, reheat the spiced prunes and apricots. Sprinkle a plate with the toasted sesame seeds, then roll the prunes and apricots in the seeds until coated.",
         "To serve, remove the herb bouquet and cinnamon sticks from the tagine and discard. Pile the tagine into bowls and garnish with the fried almonds and sesame-coated prunes and apricots."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Authentic lamb tagine",
     "videos": "[]"
 }

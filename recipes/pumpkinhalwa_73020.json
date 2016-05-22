@@ -1,24 +1,21 @@
 {
-    "title": "Pumpkin halwa",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pumpkinhalwa_73020_16x9.jpg"
-    ],
-    "description": "Pumpkin halwa is a very popular Indian sweet dish usually made for special occasions.",
     "author": {
         "sejal_sukhadwala": "Sejal Sukhadwala"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Indian",
+    "description": "Pumpkin halwa is a very popular Indian sweet dish usually made for special occasions.",
+    "dishes": [
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/pumpkinhalwa_73020_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -33,6 +30,12 @@
             "silver leaf, chirongi nuts and watermelon seeds (available in Indian grocers), and red rose petals to garnish (optional)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        
+    },
     "steps": [
         "Trim, peel and finely grate the vegetables.",
         "Combine them with milk, cardamom and sultanas in a large non-stick frying pan.",
@@ -42,8 +45,9 @@
         "Spread halwa out in a shallow pan to cool; garnish.",
         "When cool, cut into squares and serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Pumpkin halwa",
     "videos": "[]"
 }

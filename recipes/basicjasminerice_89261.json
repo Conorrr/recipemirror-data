@@ -1,24 +1,21 @@
 {
-    "title": "Basic jasmine rice",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "ching-he_huang": "Ching-He Huang"
     },
-    "show": {
-        "b00cjxzp": "Chinese Food Made Easy"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "cusine": "Chinese",
+    "description": "",
+    "dishes": [
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -26,12 +23,19 @@
             "600ml/1 pint boiling water"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b00cjxzp": "Chinese Food Made Easy"
+    },
     "steps": [
         "Place the rice into a heavy-based saucepan and add the boiling water. Bring to the boil and then cover with a tight-fitting lid and reduce to a low heat. Simmer for 15-20 minutes, or until all of the water has been absorbed and the rice is tender.",
         "Uncover the pan and remove from the heat. Fluff up the rice grains with a fork and serve immediately."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Basic jasmine rice",
     "videos": "[]"
 }

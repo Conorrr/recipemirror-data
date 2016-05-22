@@ -1,38 +1,33 @@
 {
-    "title": "Venison cooked in a spiced salt crust with caramelized chicory",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Venison is very lean and cooking it in a salt crust keeps it beautifully moist. Perfect for a romantic dinner \u00e1 deux.",
     "author": {
         "jun_tanaka": "Jun Tanaka"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "1 to 2 hours",
+    "description": "Venison is very lean and cooking it in a salt crust keeps it beautifully moist. Perfect for a romantic dinner \u00e1 deux.",
+    "dishes": [
+        "caramel",
+        "oven-baked_dishes",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "browning_meat"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the venison sauce": [
-            "olive oil, for frying",
-            "200g/7oz trimmings from venison loin (below)",
-            "2 carrots, chopped",
-            "1 onion, chopped",
-            "2 garlic cloves, chopped",
-            "2 sprigs fresh thyme",
-            "2 juniper berries",
-            "1 tsp black peppercorns",
-            "350ml/12fl oz red wine",
-            "100ml/3\u00bdfl oz port",
-            "1litre/1\u00be pint beef stock"
+        "For the caramelized chicory": [
+            "25g/1oz butter",
+            "2 heads red chicory, cut in quarters lengthways",
+            "15g/\u00bdoz sugar",
+            "1 orange, juice only",
+            "\u00bd lemon, juice only",
+            "150ml/5fl oz chicken stock",
+            "few mint leaves, sliced into very thin strips"
         ],
         "For the venison in a spiced salt crust": [
             "10g/\u2153oz ground black pepper",
@@ -45,15 +40,25 @@
             "oil, for frying",
             "400g/14oz venison loin"
         ],
-        "For the caramelized chicory": [
-            "25g/1oz butter",
-            "2 heads red chicory, cut in quarters lengthways",
-            "15g/\u00bdoz sugar",
-            "1 orange, juice only",
-            "\u00bd lemon, juice only",
-            "150ml/5fl oz chicken stock",
-            "few mint leaves, sliced into very thin strips"
+        "For the venison sauce": [
+            "olive oil, for frying",
+            "200g/7oz trimmings from venison loin (below)",
+            "2 carrots, chopped",
+            "1 onion, chopped",
+            "2 garlic cloves, chopped",
+            "2 sprigs fresh thyme",
+            "2 juniper berries",
+            "1 tsp black peppercorns",
+            "350ml/12fl oz red wine",
+            "100ml/3\u00bdfl oz port",
+            "1litre/1\u00be pint beef stock"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
     },
     "steps": [
         "For the venison sauce, heat a little olive oil in a large saucepan and fry the venison trimmings until brown all over. Add the carrots and onion and fry gently for two minutes, or until the onions are soft and translucent. Add the garlic, thyme, juniper berries, black pepper, red wine and port. Simmer for five minutes then add the beef stock.",
@@ -66,8 +71,9 @@
         "For the caramelized chicory, melt the butter in a frying pan. Add the chicory and season to taste with salt and pepper. Sprinkle over the sugar and cook for two minutes. Pour in the orange and lemon juices and the chicken stock. Simmer for five minutes before finishing with chopped mint.",
         "To serve, place the chicory on serving plates. Crack open the salt crust, wipe the venison with kitchen paper and carve. Place a few slices next to the chicory and spoon over the sauce."
     ],
-    "howTos": [
-        "browning_meat"
+    "tips": [
+        
     ],
+    "title": "Venison cooked in a spiced salt crust with caramelized chicory",
     "videos": "[]"
 }

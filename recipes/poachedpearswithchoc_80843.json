@@ -1,39 +1,42 @@
 {
-    "title": "Poached pears with chocolate sauce",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "james_tanner": "James Tanner"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "",
+    "dishes": [
+        "jam",
+        "sauce"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "default": [
-            "255ml/9fl oz white wine",
-            "1 vanilla pod, seeds scraped out",
-            "50ml/2fl oz cherry juice from a tin of cherries",
-            "1 pear, peeled"
-        ],
         "For the chocolate sauce": [
             "100g/3\u00bdoz dark chocolate",
             "150ml/5\u00bdfl oz double cream"
         ],
         "To garnish": [
             "1 tbsp sesame seeds"
+        ],
+        "default": [
+            "255ml/9fl oz white wine",
+            "1 vanilla pod, seeds scraped out",
+            "50ml/2fl oz cherry juice from a tin of cherries",
+            "1 pear, peeled"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "For the poached pears, place the wine, vanilla seeds and cherry juice into a pan over a medium heat and bring to a simmer.",
@@ -41,8 +44,9 @@
         "For the chocolate sauce, place the chocolate and double cream into a heat-safe bowl, placed over a saucepan of just simmering water. Heat, stirring occasionally until the chocolate has completely melted into the cream.",
         "To serve, place the poached pear onto a plate and spoon over the chocolate sauce. Sprinkle with the sesame seeds to finish."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Poached pears with chocolate sauce",
     "videos": "[]"
 }

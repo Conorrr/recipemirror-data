@@ -1,24 +1,20 @@
 {
-    "title": "Breakfast smoothie",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 2",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "merrilees_parker": "Merrilees Parker"
     },
-    "show": {
-        "p0077hpp": "Full on Food"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "smoothie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -32,13 +28,20 @@
             "maple syrup to taste"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 2",
+    "show": {
+        "p0077hpp": "Full on Food"
+    },
     "steps": [
         "Place the peaches or nectarines into a juicer and extract the juice. Pour the juice into a blender with the remaining ingredients except the maple syrup and blend.",
         "Taste the smoothie for sweetness, adding a little maple syrup if necessary.",
         "Serve immediately in tall glasses."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Breakfast smoothie",
     "videos": "[]"
 }

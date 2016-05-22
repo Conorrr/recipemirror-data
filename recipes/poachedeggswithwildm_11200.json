@@ -1,24 +1,23 @@
 {
-    "title": "Poached eggs with wild mushrooms on toast",
-    "cookTime": "10 to 30 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Perfect as a brunch dish. For great flavour try and use the freshest best eggs you can find. Enjoy all the different flavours from the mushrooms with the sweetness of the brioche.",
     "author": {
         "curtis_stone": "Curtis Stone"
     },
-    "show": {
-        "b006v5y2": "Saturday Kitchen"
-    },
-    "tips": [
-        
+    "cookTime": "10 to 30 mins",
+    "description": "Perfect as a brunch dish. For great flavour try and use the freshest best eggs you can find. Enjoy all the different flavours from the mushrooms with the sweetness of the brioche.",
+    "dishes": [
+        "brioche",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "poaching_eggs"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -37,6 +36,12 @@
             "salt and freshly ground black pepper"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v5y2": "Saturday Kitchen"
+    },
     "steps": [
         "Melt the butter in a pan. Add sliced brioche and colour on each side for approximately 1 minute. Remove and keep warm.",
         "Add white wine vinegar to the water and boil stir water to create a whirlpool effect.",
@@ -45,8 +50,9 @@
         "Now add the cleaned mushrooms and cook over a moderate heat, season and drain (mushrooms contain a lot of water).",
         "Serve the mushrooms on the sliced brioche, top with the poached eggs and sprinkle with the chopped parsley."
     ],
-    "howTos": [
-        "poaching_eggs"
+    "tips": [
+        
     ],
+    "title": "Poached eggs with wild mushrooms on toast",
     "videos": "[]"
 }

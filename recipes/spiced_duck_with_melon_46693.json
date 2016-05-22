@@ -1,36 +1,40 @@
 {
-    "title": "Spiced duck with melon, curly kale and duck jus",
-    "cookTime": "over 2 hours",
-    "prepTime": "overnight",
-    "serves": "",
-    "recommendations": "2",
-    "images": [
-        
-    ],
-    "description": "It takes time but this recipe mainly looks after itself and is a surprisingly simple way to create an impressive main.",
     "author": {
         "james_martin": "James Martin"
     },
-    "show": {
-        "b007x02v": "Saturday Kitchen Best Bites"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "It takes time but this recipe mainly looks after itself and is a surprisingly simple way to create an impressive main.",
+    "dishes": [
+        "jam",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the melon foie gras": [
-            "1 piel de sapo melon, peeled, seeds removed and cut into slices",
-            "olive oil, for frying"
-        ],
         "For the duck jus": [
             "1 duck carcass, cut into pieces",
             "1 carrot, cut into chunks",
             "2 sticks celery, cut into chunks",
             "1 onion, peeled and cut into chunks",
             "500ml/1lb 2oz good-quality beef stock"
+        ],
+        "For the melon foie gras": [
+            "1 piel de sapo melon, peeled, seeds removed and cut into slices",
+            "olive oil, for frying"
+        ],
+        "For the mint oil": [
+            "10g/\u2153oz fresh mint",
+            "100ml/3\u00bdfl oz olive oil"
         ],
         "For the spiced duck": [
             "2 star anise",
@@ -40,11 +44,13 @@
             "2 duck breasts, trimmed and skin scored",
             "50g/1\u00beoz unsalted butter",
             "110g/3\u00beoz curly kale, stalks discarded, chopped"
-        ],
-        "For the mint oil": [
-            "10g/\u2153oz fresh mint",
-            "100ml/3\u00bdfl oz olive oil"
         ]
+    },
+    "prepTime": "overnight",
+    "recommendations": "2",
+    "serves": "",
+    "show": {
+        "b007x02v": "Saturday Kitchen Best Bites"
     },
     "steps": [
         "For the melon foie gras, place the melon in a vacuum pack plastic bag and seal. Leave in the fridge for 48 hours.",
@@ -61,8 +67,9 @@
         "For the mint oil, blend the mint and oil in a blender and until smooth, then pass through a sieve.",
         "To serve, slice the duck breasts and place on a serving plate along with the kale and melon. Pour the duck jus around the plate along with a drizzle of mint oil."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Spiced duck with melon, curly kale and duck jus",
     "videos": "[]"
 }

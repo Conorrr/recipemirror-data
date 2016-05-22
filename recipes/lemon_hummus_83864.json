@@ -1,24 +1,20 @@
 {
-    "title": "Lemon hummus",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 8 as part of a sharing platter",
-    "recommendations": "7",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemon_hummus_83864_16x9.jpg"
-    ],
-    "description": "If you like the traditional sesame seed flavour of hummus, simply add three tablespoons of tahini paste to the mixture. You could also add four tablespoons chopped fresh coriander leaves for an aromatic flavour. This hummus provides 139 kcal, 5g protein, 10g carbohydrate (of which 0.6g sugars), 9g fat (of which 1.5g saturates), 3.5g fibre and 0.5g salt per portion.",
     "author": {
         "mary_berry": "Mary Berry"
     },
-    "show": {
-        "p01s4q10": "Mary Berry Cooks"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "If you like the traditional sesame seed flavour of hummus, simply add three tablespoons of tahini paste to the mixture. You could also add four tablespoons chopped fresh coriander leaves for an aromatic flavour. This hummus provides 139 kcal, 5g protein, 10g carbohydrate (of which 0.6g sugars), 9g fat (of which 1.5g saturates), 3.5g fibre and 0.5g salt per portion.",
+    "dishes": [
+        "hummus"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/lemon_hummus_83864_16x9.jpg"
     ],
     "ingredients": {
         "default": [
@@ -31,12 +27,19 @@
             "plenty of ground black pepper and salt"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "7",
+    "serves": "Serves 8 as part of a sharing platter",
+    "show": {
+        "p01s4q10": "Mary Berry Cooks"
+    },
     "steps": [
         "Place all the ingredients in a food processor with two tablespoons of hot water and blend until smooth.",
         "Season, to taste, and serve chilled."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Lemon hummus",
     "videos": "[]"
 }

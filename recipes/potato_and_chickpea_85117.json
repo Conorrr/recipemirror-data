@@ -1,26 +1,42 @@
 {
-    "title": "Potato and chickpea dhansak with mini puri",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/potato_and_chickpea_85117_16x9.jpg"
-    ],
-    "description": "A tin of chickpeas goes a long way in this flavourful veggie curry.",
     "author": {
         "simon_rimmer": "Simon Rimmer"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "Indian",
+    "description": "A tin of chickpeas goes a long way in this flavourful veggie curry.",
+    "dishes": [
+        "bread",
+        "caramel",
+        "curry",
+        "pie",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/potato_and_chickpea_85117_16x9.jpg"
+    ],
     "ingredients": {
+        "For the dhansak": [
+            "1 tbsp vegetable oil",
+            "1 onion, diced",
+            "4 cloves garlic, pur\u00e9ed",
+            "1 red chilli",
+            "2.5cm/1in piece root ginger, grated",
+            "1x 400g/14oz tin chopped tomatoes",
+            "6 tomatoes, chopped",
+            "150g/5\u00bdoz red lentils, soaked",
+            "400g/14oz potatoes, peeled, cubed (approx 4-5cm/1\u00bd-2in) and blanched",
+            "1x 400g/14oz tin chickpeas",
+            "1 lime, juice only",
+            "handful coriander leaves"
+        ],
         "For the mini puri": [
             "250g/9oz chapatti flour",
             "125ml/4floz warm water",
@@ -37,23 +53,15 @@
             "1 tsp fenugreek seeds",
             "pinch chilli flakes"
         ],
-        "For the dhansak": [
-            "1 tbsp vegetable oil",
-            "1 onion, diced",
-            "4 cloves garlic, pur\u00e9ed",
-            "1 red chilli",
-            "2.5cm/1in piece root ginger, grated",
-            "1x 400g/14oz tin chopped tomatoes",
-            "6 tomatoes, chopped",
-            "150g/5\u00bdoz red lentils, soaked",
-            "400g/14oz potatoes, peeled, cubed (approx 4-5cm/1\u00bd-2in) and blanched",
-            "1x 400g/14oz tin chickpeas",
-            "1 lime, juice only",
-            "handful coriander leaves"
-        ],
         "To serve": [
             "Greek yoghurt"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 4",
+    "show": {
+        "b006v85g": "Something for the Weekend"
     },
     "steps": [
         "For the puris, mix the chapatti flour, water, coriander and salt together in a bowl to form a dough. Cover the dough in cling film and chill in the fridge for 20 minutes.",
@@ -67,8 +75,9 @@
         "Deep-fry each puri for 1 minute, turning once until puffed up and golden-brown. Remove from the oil with a slotted spoon and drain on kitchen paper.",
         "To serve, place some Greek yoghurt on each serving plate and slide a spoon through it to create a smear. Place two puris on one side of the line of yoghurt, overlapping it slightly. Put a line of curry running down the other side of the yoghurt. Lay two more puris on top of at either end."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Potato and chickpea dhansak with mini puri",
     "videos": "[]"
 }

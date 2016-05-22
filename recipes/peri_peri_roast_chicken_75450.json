@@ -1,24 +1,29 @@
 {
-    "title": "Peri peri roast chicken",
-    "cookTime": "1 to 2 hours",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "30",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/peri_peri_roast_chicken_75450_16x9.jpg"
-    ],
-    "description": "A spicy and different way to cook a roast chicken, this can be as hot as you like. Just increase the quantities of chilli and Tabasco sauce.",
     "author": {
         "lorraine_pascale": "Lorraine Pascale"
     },
-    "show": {
-        "b01m28pp": "Lorraine's Fast, Fresh and Easy Food"
-    },
-    "tips": [
-        "A 1.5-1.8Kg (3Lb 6oz \u2013 4Lb) chicken would be about enough to serve four people but I have given the recipe using a bigger bird so that it gives some leftover chicken for sandwiches the next day. If you use a different size to the one below then work out the cooking time based on 20 minutes per 450g (1Lb) plus 20 minutes. Regardless what size bird you use, cover it after 1 hour and add the onions and potatoes about 45 minutes before the end of cooking time. To speed up the process, use some good sharp scissors to snip the chicken along the backbone to splay it out and cook flat."
+    "cookTime": "1 to 2 hours",
+    "cusine": "Portuguese",
+    "description": "A spicy and different way to cook a roast chicken, this can be as hot as you like. Just increase the quantities of chilli and Tabasco sauce.",
+    "dishes": [
+        "oven-baked_dishes",
+        "pie",
+        "piri-piri",
+        "prepare-ahead_desserts",
+        "salad",
+        "sandwich",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
+    ],
+    "howTos": [
+        "carving_poultry"
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/peri_peri_roast_chicken_75450_16x9.jpg"
     ],
     "ingredients": {
         "For the chicken": [
@@ -39,16 +44,22 @@
             "1 tsp caster sugar (optional)",
             "1 lime, zest and juice"
         ],
-        "For the vegetables": [
-            "3 red onions",
-            "500g/1lb 2oz baby new potatoes"
-        ],
         "For the salad": [
             "1 lime, juice only",
             "1 tsp caster sugar (or a squidge of honey)",
             "3 tbsp extra virgin olive oil",
             "130g/4\u00bdoz crispy salad leaves"
+        ],
+        "For the vegetables": [
+            "3 red onions",
+            "500g/1lb 2oz baby new potatoes"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "30",
+    "serves": "Serves 4-6",
+    "show": {
+        "b01m28pp": "Lorraine's Fast, Fresh and Easy Food"
     },
     "steps": [
         "Preheat the oven to 200C/400F/Gas 6. Sit the chicken in a large roasting tin and season well with salt and pepper and a drizzle of oil. Place in the oven and cook for about an hour.",
@@ -59,8 +70,9 @@
         "Meanwhile, prepare the salad. Squeeze the lime juice into a mug or small bowl and add the sugar (or honey), extra virgin olive oil and a little salt and pepper. Give it a good whisk up. Tip the salad leaves into a large salad serving bowl, pour the dressing over and toss the leaves about.",
         "Returning to the chicken, pour any juices on the plate into the sauce before carving the meat. Arrange on serving plates with the roasted onions and potatoes. Serve with the dressed salad and the sauce in a small jug."
     ],
-    "howTos": [
-        "carving_poultry"
+    "tips": [
+        "A 1.5-1.8Kg (3Lb 6oz \u2013 4Lb) chicken would be about enough to serve four people but I have given the recipe using a bigger bird so that it gives some leftover chicken for sandwiches the next day. If you use a different size to the one below then work out the cooking time based on 20 minutes per 450g (1Lb) plus 20 minutes. Regardless what size bird you use, cover it after 1 hour and add the onions and potatoes about 45 minutes before the end of cooking time. To speed up the process, use some good sharp scissors to snip the chicken along the backbone to splay it out and cook flat."
     ],
+    "title": "Peri peri roast chicken",
     "videos": "[]"
 }

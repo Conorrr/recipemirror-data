@@ -1,24 +1,28 @@
 {
-    "title": "Neopolitan 'ice cream' sandwich petits fours",
-    "cookTime": "over 2 hours",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Makes 12",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "Inspired by childhood holidays by the seaside, these dainty petits fours require patience and a steady hand but are well worth the effort.",
     "author": {
         "holly_bell": "Holly Bell"
     },
-    "show": {
-        "b013pqnm": "The Great British Bake Off"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "description": "Inspired by childhood holidays by the seaside, these dainty petits fours require patience and a steady hand but are well worth the effort.",
+    "dishes": [
+        "cake",
+        "icing",
+        "meringue",
+        "oven-baked_dishes",
+        "petit_fours",
+        "pie",
+        "sandwich",
+        "sauce",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "For the Italian meringue buttercream": [
@@ -26,27 +30,6 @@
             "150g/5\u00bdoz caster sugar",
             "50ml/2fl oz cold water",
             "250g/9oz unsalted butter, at room temperature"
-        ],
-        "For the pink sponge": [
-            "3 free-range eggs",
-            "plain flour",
-            "caster sugar",
-            "margarine",
-            "a dot of red food colouring"
-        ],
-        "For the vanilla sponge": [
-            "3 free-range eggs",
-            "plain flour",
-            "caster sugar",
-            "margarine",
-            "seeds from 1 vanilla pod"
-        ],
-        "For the chocolate sponge": [
-            "3 free-range eggs",
-            "plain flour",
-            "caster sugar",
-            "margarine",
-            "2 tbsp cocoa"
         ],
         "For the brandy snap \u2018flakes\u2019": [
             "50g/1\u00beoz caster sugar",
@@ -58,14 +41,41 @@
             "1 lemon, zest only",
             "100g/3\u00bdoz milk chocolate, melted"
         ],
+        "For the chocolate sponge": [
+            "3 free-range eggs",
+            "plain flour",
+            "caster sugar",
+            "margarine",
+            "2 tbsp cocoa"
+        ],
         "For the ganache": [
             "100ml/3\u00bdfl oz double cream",
             "100g/3\u00bdoz good quality milk chocolate, broken into pieces"
         ],
+        "For the pink sponge": [
+            "3 free-range eggs",
+            "plain flour",
+            "caster sugar",
+            "margarine",
+            "a dot of red food colouring"
+        ],
         "For the raspberry sauce": [
             "100g/3\u00bdoz raspberries",
             "100g/3\u00bdoz icing sugar"
+        ],
+        "For the vanilla sponge": [
+            "3 free-range eggs",
+            "plain flour",
+            "caster sugar",
+            "margarine",
+            "seeds from 1 vanilla pod"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "",
+    "serves": "Makes 12",
+    "show": {
+        "b013pqnm": "The Great British Bake Off"
     },
     "steps": [
         "For the Italian meringue buttercream, whisk the egg whites in a bowl until soft foamy peaks form. Weigh out 25g/1oz of the caster sugar, then continue to whisk the egg whites and gradually add the sugar until well combined. Continue to whisk until stiff peaks form when the whisk is removed.",
@@ -83,8 +93,9 @@
         "To make the raspberry sauce, push the raspberries through a fine sieve and stir in the icing sugar to make a thick paste. Pour the sauce into a squeezy bottle.",
         "To assemble, using a serrated knife and a ruler, cut the sponges into 5cm/2in squares, trimming if necessary to ensure they are all of the same thickness. Sandwich the cakes with the buttercream; pink on the bottom, vanilla in the middle and chocolate on the top. (Refill the piping bag with buttercream if necessary.) Spread ganache on top of the cakes and top with a swirl of buttercream. Finish with a brandy snap \u2018flake\u2019 and drizzle over the raspberry sauce."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Neopolitan 'ice cream' sandwich petits fours",
     "videos": "[]"
 }

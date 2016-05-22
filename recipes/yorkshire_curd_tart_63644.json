@@ -1,32 +1,28 @@
 {
-    "title": "Yorkshire curd tart",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "30 mins to 1 hour",
-    "serves": "Serves 6-8",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "An oldie, but a goodie. Lemon and nutmeg really complement the rich curd cheese in this recipe.",
     "author": {
         "aldo_zilli": "Aldo Zilli"
     },
-    "show": {
-        "b01rclgp": "Country Show Cook Off"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "An oldie, but a goodie. Lemon and nutmeg really complement the rich curd cheese in this recipe.",
+    "dishes": [
+        "bread",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "tarts"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        "how_to_blind_bake_pastry",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the sweet shortcrust pastry": [
-            "250g/9oz plain flour, plus extra for dusting",
-            "100g/3\u00bdoz caster sugar",
-            "100g/3\u00bdoz chilled butter, diced",
-            "2 free-range egg yolks, beaten"
-        ],
         "For the curd filling": [
             "170g/6oz curd cheese (available from some large supermarkets)",
             "100g/3\u00bdoz caster sugar",
@@ -37,7 +33,19 @@
             "1 lemon, zest only",
             "pinch nutmeg",
             "50g/1\u00beoz lemon curd"
+        ],
+        "For the sweet shortcrust pastry": [
+            "250g/9oz plain flour, plus extra for dusting",
+            "100g/3\u00bdoz caster sugar",
+            "100g/3\u00bdoz chilled butter, diced",
+            "2 free-range egg yolks, beaten"
         ]
+    },
+    "prepTime": "30 mins to 1 hour",
+    "recommendations": "1",
+    "serves": "Serves 6-8",
+    "show": {
+        "b01rclgp": "Country Show Cook Off"
     },
     "steps": [
         "For the sweet shortcrust pastry, grease and flour a 30cm/12in tart tin.",
@@ -57,9 +65,9 @@
         "Allow the tart to cool in the tin for 20-25 minutes.",
         "Remove from the tin and serve in slices."
     ],
-    "howTos": [
-        "how_to_blind_bake_pastry",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Yorkshire curd tart",
     "videos": "[]"
 }

@@ -1,24 +1,27 @@
 {
-    "title": "Raspberry Bakewell pudding",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "bakewell_tart",
+        "icing",
+        "jam",
+        "oven-baked_dishes",
+        "pastry",
+        "stir-fries"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        "creaming",
+        "trimming_pastry_case"
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -35,6 +38,12 @@
             "clotted cream, to serve"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 4-6",
+    "show": {
+        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
+    },
     "steps": [
         "Preheat the oven to 190C/375F/Gas 5. Grease and flour a 23cm/9in loose-bottomed tart tin.",
         "Roll out the pastry onto a lightly floured work surface to form a circle a few inches larger than the tart tin. Line the tart tin with the pastry, gently pressing into the edges. Trim the excess pastry from the edge of the tart tin.",
@@ -45,9 +54,9 @@
         "Bake the tart on the middle shelf of the oven for 35-40 minutes, or until the surface is golden-brown.",
         "Dust with icing sugar and serve with the remaining raspberries and a dollop of clotted cream."
     ],
-    "howTos": [
-        "creaming",
-        "trimming_pastry_case"
+    "tips": [
+        
     ],
+    "title": "Raspberry Bakewell pudding",
     "videos": "[]"
 }

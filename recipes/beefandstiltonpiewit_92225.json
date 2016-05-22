@@ -1,31 +1,50 @@
 {
-    "title": "Beef and Stilton pie with celeriac mash and honey-roasted beetroot",
-    "cookTime": "over 2 hours",
-    "prepTime": "over 2 hours",
-    "serves": "Serves 4",
-    "recommendations": "15",
-    "images": [
-        
-    ],
-    "description": "Beef and stilton makes a wonderfully rich pie. Earthy beetroot adds to this wonderful winter dish.",
     "author": {
         "hairy_bikers": "The Hairy Bikers"
     },
-    "show": {
-        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
-    },
-    "tips": [
-        
+    "cookTime": "over 2 hours",
+    "cusine": "British",
+    "description": "Beef and stilton makes a wonderfully rich pie. Earthy beetroot adds to this wonderful winter dish.",
+    "dishes": [
+        "bread",
+        "bun",
+        "casserole",
+        "crumble",
+        "gravy",
+        "meat_pie",
+        "oven-baked_dishes",
+        "pastry",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        "trimming_pastry_case",
+        "rubbing_in"
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
-        "For the rough puff pastry": [
-            "250g/9oz plain flour, plus extra for dusting",
-            "250g/9oz cold butter, cut into small cubes",
-            "\u00bd tsp salt",
-            "125ml/4\u00bdfl oz ice-cold water"
+        "For the celeriac and mustard mash": [
+            "350g/12oz celeriac, peeled, cut into chunks",
+            "800g/1lb 12oz Maris Piper potatoes",
+            "150ml/5fl oz double cream",
+            "1 tbsp butter",
+            "2 tsp coarse grain mustard",
+            "salt and white pepper"
+        ],
+        "For the honey-roasted beetroot": [
+            "2 tsp chopped fresh thyme",
+            "2 tsp balsamic vinegar",
+            "2 tbsp olive oil",
+            "2 tbsp clear honey",
+            "500g/17\u00bdoz cooked beetroot (not in vinegar)",
+            "salt and freshly ground black pepper"
         ],
         "For the pie filling": [
             "1kg/2lb 2oz braising steak, cut into chunks",
@@ -43,22 +62,18 @@
             "salt and freshly ground black pepper",
             "1 free-range egg, beaten"
         ],
-        "For the celeriac and mustard mash": [
-            "350g/12oz celeriac, peeled, cut into chunks",
-            "800g/1lb 12oz Maris Piper potatoes",
-            "150ml/5fl oz double cream",
-            "1 tbsp butter",
-            "2 tsp coarse grain mustard",
-            "salt and white pepper"
-        ],
-        "For the honey-roasted beetroot": [
-            "2 tsp chopped fresh thyme",
-            "2 tsp balsamic vinegar",
-            "2 tbsp olive oil",
-            "2 tbsp clear honey",
-            "500g/17\u00bdoz cooked beetroot (not in vinegar)",
-            "salt and freshly ground black pepper"
+        "For the rough puff pastry": [
+            "250g/9oz plain flour, plus extra for dusting",
+            "250g/9oz cold butter, cut into small cubes",
+            "\u00bd tsp salt",
+            "125ml/4\u00bdfl oz ice-cold water"
         ]
+    },
+    "prepTime": "over 2 hours",
+    "recommendations": "15",
+    "serves": "Serves 4",
+    "show": {
+        "b00mgdgr": "The Hairy Bikers' Food Tour of Britain"
     },
     "steps": [
         "For the rough puff pastry, sift the flour into a bowl and make a well in the centre. Add the butter and salt and rub into the flour with your fingertips until the mixture resembles breadcrumbs.",
@@ -86,9 +101,9 @@
         "Place the beetroot into a deep roasting tray and roast in the oven for 15 minutes, or until the beetroot is sticky and glazed.",
         "To serve, transfer the pies onto a serving plate using a fish slice or spatula. Carefully remove the chefs' rings. Spoon the celeriac and potato mash on the side. Spoon the honey-roasted beetroot balls alongside and serve with a small jug of the gravy."
     ],
-    "howTos": [
-        "trimming_pastry_case",
-        "rubbing_in"
+    "tips": [
+        
     ],
+    "title": "Beef and Stilton pie with celeriac mash and honey-roasted beetroot",
     "videos": "[]"
 }

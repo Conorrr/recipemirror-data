@@ -1,24 +1,21 @@
 {
-    "title": "Cucumber Margarita",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "1",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "wayne_collins": "Wayne Collins"
     },
-    "show": {
-        "b006v85g": "Something for the Weekend"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "margarita",
+        "pie"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,13 +27,20 @@
             "1 scoop ice"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "1",
+    "serves": "Serves 1",
+    "show": {
+        "b006v85g": "Something for the Weekend"
+    },
     "steps": [
         "Place the diced cucumber into a cocktail shaker and mash (muddle) with the end of a clean rolling pin.",
         "Add the lime juice, elderflower cordial, silver tequila, triple sec and a scoop of ice. Shake well.",
         "To serve, strain the mixture into a coupette glass. Garnish with the slice of fresh cucumber."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Cucumber Margarita",
     "videos": "[]"
 }

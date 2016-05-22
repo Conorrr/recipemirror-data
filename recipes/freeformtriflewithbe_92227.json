@@ -1,24 +1,27 @@
 {
-    "title": "Free-form trifle with berries and custard",
-    "cookTime": "less than 10 mins",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4",
-    "recommendations": "6",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b00vt10m": "Nigel Slater's Simple Suppers"
-    },
-    "tips": [
-        
+    "cookTime": "less than 10 mins",
+    "cusine": "British",
+    "description": "",
+    "dishes": [
+        "cake",
+        "custard",
+        "icing",
+        "pie",
+        "sauce",
+        "soup",
+        "trifle"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -30,12 +33,19 @@
             "icing sugar, to serve (optional)"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "6",
+    "serves": "Serves 4",
+    "show": {
+        "b00vt10m": "Nigel Slater's Simple Suppers"
+    },
     "steps": [
         "Bring the raspberries, blackberries and blueberries to the boil in a saucepan with the sugar and a little water. Simmer for a few minutes until the fruits burst. Set aside.",
         "Slice the sponge cake into thin pieces and place these in a bowl or in four individual soup plates. Spoon over the warm fruits and some of their syrup. Trickle over the custard and, if you wish, dust with icing sugar."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Free-form trifle with berries and custard",
     "videos": "[]"
 }

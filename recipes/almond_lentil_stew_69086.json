@@ -1,24 +1,22 @@
 {
-    "title": "Almond lentil stew",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 3-4",
-    "recommendations": "37",
-    "images": [
-        
-    ],
-    "description": "This easy vegetarian lentil stew is served with cherry tomatoes and cinnamon-flavoured almonds. This meal is low calorie and if served as four portions provides 351 kcal, 20g protein, 37g carbohydrate (of which 7.5g sugars), 14g fat (of which 1.5g saturates), 11.5g fibre and 1.9g salt per portion.",
     "author": {
         "nigel_slater": "Nigel Slater"
     },
-    "show": {
-        "b01nd35k": "Nigel Slater's Dish of the Day"
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "description": "This easy vegetarian lentil stew is served with cherry tomatoes and cinnamon-flavoured almonds. This meal is low calorie and if served as four portions provides 351 kcal, 20g protein, 37g carbohydrate (of which 7.5g sugars), 14g fat (of which 1.5g saturates), 11.5g fibre and 1.9g salt per portion.",
+    "dishes": [
+        "stew",
+        "stock",
+        "veggie_stew"
     ],
     "flags": [
         "Vegetarian"
+    ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
     ],
     "ingredients": {
         "default": [
@@ -39,6 +37,12 @@
             "10 cherry tomatoes, quartered"
         ]
     },
+    "prepTime": "less than 30 mins",
+    "recommendations": "37",
+    "serves": "Serves 3-4",
+    "show": {
+        "b01nd35k": "Nigel Slater's Dish of the Day"
+    },
     "steps": [
         "Heat the olive oil in a large pan and fry the carrot, celery, onion and turnip until softened \u2013 about five minutes.",
         "Add the garlic and mushrooms. Fry for a further five minutes.",
@@ -47,8 +51,9 @@
         "Add the cherry tomatoes and warm through.",
         "Serve the lentil stew with the almonds and tomatoes."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Almond lentil stew",
     "videos": "[p0128z1t:p0128z1x]"
 }

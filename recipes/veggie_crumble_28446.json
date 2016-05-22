@@ -1,26 +1,38 @@
 {
-    "title": "Veggie crumble",
-    "cookTime": "30 mins to 1 hour",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 4-6",
-    "recommendations": "5",
-    "images": [
-        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/veggie_crumble_28446_16x9.jpg"
-    ],
-    "description": "Less bother than a pie, vegetable crumble is a great way to use up what you have in the fridge, cupboard or freezer! You can change the filling with the seasons making green and summery fillings in the spring and summer and heartier root vegetable crumbles in the winter.",
     "author": {
         "jo_ingleby": "Jo Ingleby"
     },
-    "show": {
-        
-    },
-    "tips": [
-        
+    "cookTime": "30 mins to 1 hour",
+    "cusine": "British",
+    "description": "Less bother than a pie, vegetable crumble is a great way to use up what you have in the fridge, cupboard or freezer! You can change the filling with the seasons making green and summery fillings in the spring and summer and heartier root vegetable crumbles in the winter.",
+    "dishes": [
+        "bread",
+        "crumble",
+        "ham",
+        "oven-baked_dishes",
+        "pie",
+        "sauce",
+        "stir-fries",
+        "stock"
     ],
     "flags": [
         "Vegetarian"
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        "http://ichef.bbci.co.uk/food/ic/food_16x9_608/recipes/veggie_crumble_28446_16x9.jpg"
+    ],
     "ingredients": {
+        "For the crumble": [
+            "200g/7oz plain or wholemeal flour",
+            "100g/3\u00bdoz butter, softened",
+            "50g/1\u00beoz grated cheese",
+            "handful of porridge oats",
+            "freshly ground black pepper",
+            "2 tbsp sunflower or pumpkin seeds (optional)"
+        ],
         "For the filling": [
             "About 600g/1lb 5oz mixed vegetables that you like, such as",
             "carrot",
@@ -38,14 +50,6 @@
             "100g/3\u00bdoz leftover roast chicken or ham (optional), chopped",
             "1 x 400g/14oz beans or pulses (optional), drained and rinsed"
         ],
-        "For the crumble": [
-            "200g/7oz plain or wholemeal flour",
-            "100g/3\u00bdoz butter, softened",
-            "50g/1\u00beoz grated cheese",
-            "handful of porridge oats",
-            "freshly ground black pepper",
-            "2 tbsp sunflower or pumpkin seeds (optional)"
-        ],
         "For the sauce": [
             "2 tbsp butter",
             "1 garlic clove, crushed",
@@ -54,6 +58,12 @@
             "pinch salt",
             "handful grated cheese (optional)"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "5",
+    "serves": "Serves 4-6",
+    "show": {
+        
     },
     "steps": [
         "Adult\u2019s job: Preheat the oven to 200C/400F/Gas 6.",
@@ -67,8 +77,9 @@
         "Adult\u2019s job: Place the dish onto a baking tray (to catch any spills) and bake in the oven for 30-40 minutes or until the crumble is golden-brown all over.",
         "Adult\u2019s job: Remove the crumble from the oven and leave to cool slightly before serving."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Veggie crumble",
     "videos": "[]"
 }

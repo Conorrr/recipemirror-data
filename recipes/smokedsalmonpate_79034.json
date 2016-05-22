@@ -1,44 +1,48 @@
 {
-    "title": "Smoked salmon p\u00e2t\u00e9",
-    "cookTime": "no cooking required",
-    "prepTime": "less than 30 mins",
-    "serves": "Serves 1",
-    "recommendations": "",
-    "images": [
-        
-    ],
-    "description": "",
     "author": {
         "gino_dacampo": "Gino D'Acampo"
     },
-    "show": {
-        "b006vcgr": "Ready Steady Cook"
-    },
-    "tips": [
-        
+    "cookTime": "no cooking required",
+    "description": "",
+    "dishes": [
+        "bread",
+        "pate"
     ],
     "flags": [
         
     ],
+    "howTos": [
+        
+    ],
+    "images": [
+        
+    ],
     "ingredients": {
+        "To serve": [
+            "rye bread",
+            "lemon wedge",
+            "fresh dill"
+        ],
         "default": [
             "150g/5oz Greek yoghurt",
             "squeeze of lime juice",
             "110g/4oz smoked salmon, chopped",
             "freshly ground black pepper"
-        ],
-        "To serve": [
-            "rye bread",
-            "lemon wedge",
-            "fresh dill"
         ]
+    },
+    "prepTime": "less than 30 mins",
+    "recommendations": "",
+    "serves": "Serves 1",
+    "show": {
+        "b006vcgr": "Ready Steady Cook"
     },
     "steps": [
         "Place the yoghurt, lime juice, salmon and freshly ground black pepper in a food processor and blend until smooth. Transfer to a serving bowl.",
         "Serve the rye bread alongside with the lemon wedges. Garnish with dill to serve."
     ],
-    "howTos": [
+    "tips": [
         
     ],
+    "title": "Smoked salmon p\u00e2t\u00e9",
     "videos": "[]"
 }
